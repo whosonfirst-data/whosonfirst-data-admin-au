@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-06-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -19,7 +20,7 @@
     "mps:latitude":-34.036118,
     "mps:longitude":151.192204,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:is_funky":1,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -518,16 +519,14 @@
         }
     ],
     "wof:id":85771099,
-    "wof:lastmodified":1551831344,
-    "wof:megacity":1,
+    "wof:lastmodified":1560203345,
     "wof:name":"Sydney",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
-    "wof:population":4627345,
-    "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-au",
-    "wof:scale":1,
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101932003
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
