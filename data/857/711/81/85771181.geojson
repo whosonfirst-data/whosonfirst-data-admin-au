@@ -31,9 +31,6 @@
     "name:ceb_x_preferred":[
         "North Sydney"
     ],
-    "name:chi_x_preferred":[
-        "\u5317\u6089\u5c3c"
-    ],
     "name:eng_x_preferred":[
         "North Sydney"
     ],
@@ -41,7 +38,7 @@
         "N Sydney",
         "Northsydney"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Sydney Nord"
     ],
     "name:ind_x_preferred":[
@@ -68,9 +65,6 @@
     "name:ron_x_preferred":[
         "North Sydney"
     ],
-    "name:rum_x_preferred":[
-        "North Sydney"
-    ],
     "name:rus_x_preferred":[
         "\u041d\u043e\u0440\u0442-\u0421\u0438\u0434\u043d\u0435\u0439"
     ],
@@ -88,6 +82,9 @@
     ],
     "name:zho_min_nan_x_preferred":[
         "Pak Sydney"
+    ],
+    "name:zho_x_preferred":[
+        "\u5317\u6089\u5c3c"
     ],
     "qs:gn_adm0_cc":"AU",
     "qs:gn_fcode":"PPL",
@@ -119,13 +116,13 @@
     "src:lbl:centroid":"mz",
     "src:population":"geonames",
     "wof:belongsto":[
-        85681545,
         102191583,
         404225393,
         85632793,
         101931469,
         136253039,
-        102048877
+        102048877,
+        85681545
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -154,7 +151,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1550721642,
+    "wof:lastmodified":1561827727,
     "wof:name":"North Sydney",
     "wof:parent_id":101931469,
     "wof:placetype":"neighbourhood",
