@@ -2,15 +2,16 @@
   "id": 101938687,
   "type": "Feature",
   "properties": {
+    "au-psma:modified":"2019-08-20",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000086,
-    "geom:area_square_m":1000556.974571,
-    "geom:bbox":"135.243683008,-20.4688465425,135.257139584,-20.4561154715",
+    "geom:area_square_m":1000631.89718,
+    "geom:bbox":"135.243683,-20.468847,135.25714,-20.456115",
     "geom:latitude":-20.4623,
     "geom:longitude":135.250488,
     "iso:country":"AU",
-    "lbl:latitude":-20.462354,
+    "lbl:latitude":-20.4623,
     "lbl:longitude":135.250488,
     "mps:latitude":-20.462354,
     "mps:longitude":135.250488,
@@ -31,7 +32,7 @@
     "qs:loc":"Wutunugurra",
     "qs:pop":0,
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
-    "src:geom":"quattroshapes",
+    "src:geom":"aus-psma",
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -43,12 +44,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "aus-psma":"NT298",
         "fct:id":"033dcf20-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":8348387,
         "gp:id":55864565
     },
     "wof:country":"AU",
-    "wof:geomhash":"2be5ee7edc2c69c0708e4874d1f92a3f",
+    "wof:geomhash":"8766d91a90b232a923f3ee075bd0ea76",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -63,7 +65,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1504074193,
+    "wof:lastmodified":1566799723,
     "wof:name":"Wutunugurra",
     "wof:parent_id":102048951,
     "wof:placetype":"locality",
@@ -73,10 +75,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    135.243683008,
-    -20.4688465425,
-    135.257139584,
-    -20.4561154715
+    135.243683,
+    -20.468847,
+    135.25714,
+    -20.456115
 ],
-  "geometry": {"coordinates":[[[135.24687008000001,-20.465807196],[135.243683008,-20.4634171255],[135.25034448,-20.4561154715],[135.25713958399999,-20.460388694],[135.25480528,-20.463500579],[135.25094998399999,-20.4688465425],[135.24687008000001,-20.465807196]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[135.243683,-20.463417],[135.25034400000001,-20.456115],[135.25713999999999,-20.460389],[135.254805,-20.463501],[135.25094999999999,-20.468847],[135.24687,-20.465807],[135.243683,-20.463417]]],"type":"Polygon"}
 }

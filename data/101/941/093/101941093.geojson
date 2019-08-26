@@ -2,16 +2,17 @@
   "id": 101941093,
   "type": "Feature",
   "properties": {
+    "au-psma:modified":"2019-08-20",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.000131,
-    "geom:area_square_m":1445783.483418,
-    "geom:bbox":"132.699537056,-27.014986461,132.713583296,-27.0052364245",
-    "geom:latitude":-27.010089,
-    "geom:longitude":132.70641,
+    "geom:area":0.001397,
+    "geom:area_square_m":15386166.517067,
+    "geom:bbox":"132.676263,-27.049099,132.724461,-26.999721",
+    "geom:latitude":-27.023925,
+    "geom:longitude":132.701292,
     "iso:country":"AU",
-    "lbl:latitude":-27.010051,
-    "lbl:longitude":132.70641,
+    "lbl:latitude":-27.023925,
+    "lbl:longitude":132.701292,
     "mps:latitude":-27.010051,
     "mps:longitude":132.70641,
     "mz:hierarchy_label":1,
@@ -42,7 +43,7 @@
     "qs:loc":"Mimili",
     "qs:pop":0,
     "qs:source":"SAustralian Bureau Of Statistics: urban areas and localities selection",
-    "src:geom":"quattroshapes",
+    "src:geom":"aus-psma",
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
     "wd:latitude":-26.9994,
@@ -57,11 +58,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "aus-psma":"SA210006268",
         "gp:id":1102000,
         "wd:id":"Q18062"
     },
     "wof:country":"AU",
-    "wof:geomhash":"8f949470bfba59d28cb7d67c23065d2e",
+    "wof:geomhash":"bb0e09e1abeefcb0157e62f5a871f9fc",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":101941093,
-    "wof:lastmodified":1561827925,
+    "wof:lastmodified":1566801094,
     "wof:name":"Mimili",
     "wof:parent_id":102049597,
     "wof:placetype":"locality",
@@ -83,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    132.699537056,
-    -27.014986461,
-    132.713583296,
-    -27.0052364245
+    132.676263,
+    -27.049099,
+    132.724461,
+    -26.999721
 ],
-  "geometry": {"coordinates":[[[132.70009904,-27.005376488],[132.70633408,-27.005236443],[132.71010409600001,-27.0052364245],[132.71299411199999,-27.0052364245],[132.713583296,-27.01463041],[132.702764288,-27.014986461],[132.70051423999999,-27.014916457],[132.699608256,-27.014943467],[132.699537056,-27.005501474],[132.70009904,-27.005376488]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[132.72174799999999,-27.023241],[132.70043200000001,-27.049099],[132.68051299999999,-27.039525],[132.67626300000001,-27.024648],[132.70841100000001,-26.999721],[132.72446099999999,-27.005287],[132.72174799999999,-27.023241]]],"type":"Polygon"}
 }

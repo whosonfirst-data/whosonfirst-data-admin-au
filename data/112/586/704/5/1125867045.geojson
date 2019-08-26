@@ -2,17 +2,18 @@
   "id": 1125867045,
   "type": "Feature",
   "properties": {
+    "au-psma:modified":"2019-08-20",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"136.3381,-28.9076245,136.3381,-28.9076245",
-    "geom:latitude":-28.907625,
-    "geom:longitude":136.3381,
+    "geom:area":0.000246,
+    "geom:area_square_m":2658089.9503,
+    "geom:bbox":"136.330679,-28.916537,136.352792,-28.897288",
+    "geom:latitude":-28.907838,
+    "geom:longitude":136.342062,
     "gn:gn_country":null,
     "iso:country":"AU",
-    "lbl:latitude":-28.907625,
-    "lbl:longitude":136.3381,
+    "lbl:latitude":-28.907838,
+    "lbl:longitude":136.342062,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
@@ -45,8 +46,8 @@
     "qs_pg:qs_pg_placetype_gp":"Town",
     "qs_pg:woe_adm0":23424748,
     "qs_pg:woe_id":1106679,
-    "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:geom":"aus-psma",
+    "src:lbl:centroid":"mapshaper",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"South Australia",
@@ -60,13 +61,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "aus-psma":"SA210006141",
         "gp:id":1106679,
         "qs_pg:id":1110735,
         "wd:id":"Q2578356"
     },
     "wof:country":"AU",
     "wof:created":1497294093,
-    "wof:geomhash":"fe0fc7fd6dcfcb852aed77c2d7bc032c",
+    "wof:geomhash":"ce3616811a71d3a20aace4515390feb3",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -78,7 +80,7 @@
         }
     ],
     "wof:id":1125867045,
-    "wof:lastmodified":1562922443,
+    "wof:lastmodified":1566801090,
     "wof:name":"William Creek",
     "wof:parent_id":404545749,
     "wof:placetype":"locality",
@@ -88,10 +90,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    136.3381,
-    -28.9076245,
-    136.3381,
-    -28.9076245
+    136.330679,
+    -28.916537,
+    136.352792,
+    -28.897288
 ],
-  "geometry": {"coordinates":[136.3381,-28.9076245],"type":"Point"}
+  "geometry": {"coordinates":[[[136.33418699999999,-28.905038],[136.33518100000001,-28.904467],[136.33551900000001,-28.904273],[136.34768299999999,-28.897288],[136.35279199999999,-28.906789],[136.35123300000001,-28.908552],[136.35103599999999,-28.908773],[136.34750500000001,-28.912766],[136.34731199999999,-28.912984],[136.346149,-28.913652],[136.34112500000001,-28.916537],[136.339989,-28.916231],[136.330679,-28.913719],[136.332964,-28.907162],[136.333405,-28.907281],[136.33418699999999,-28.905038]]],"type":"Polygon"}
 }

@@ -2,15 +2,16 @@
   "id": 101938675,
   "type": "Feature",
   "properties": {
+    "au-psma:modified":"2019-08-20",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000233,
-    "geom:area_square_m":2674193.835237,
-    "geom:bbox":"133.715576992,-21.754302004,133.737716896,-21.734389085",
+    "geom:area_square_m":2674228.057344,
+    "geom:bbox":"133.715577,-21.754302,133.737717,-21.734389",
     "geom:latitude":-21.744294,
     "geom:longitude":133.726486,
     "iso:country":"AU",
-    "lbl:latitude":-21.744211,
+    "lbl:latitude":-21.744294,
     "lbl:longitude":133.726486,
     "mps:latitude":-21.744211,
     "mps:longitude":133.726486,
@@ -31,7 +32,7 @@
     "qs:loc":"Wilora",
     "qs:pop":0,
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
-    "src:geom":"quattroshapes",
+    "src:geom":"aus-psma",
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -43,12 +44,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "aus-psma":"NT291",
         "fct:id":"033dcebc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":8348401,
         "gp:id":55864563
     },
     "wof:country":"AU",
-    "wof:geomhash":"1a15e2795b20cd3ffe969f92ff75c6bc",
+    "wof:geomhash":"a2e5d83da4c982854b7747942fa757f4",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -63,7 +65,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1504074193,
+    "wof:lastmodified":1566799720,
     "wof:name":"Wilora",
     "wof:parent_id":102049183,
     "wof:placetype":"locality",
@@ -73,10 +75,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    133.715576992,
-    -21.754302004,
-    133.737716896,
-    -21.734389085
+    133.715577,
+    -21.754302,
+    133.737717,
+    -21.734389
 ],
-  "geometry": {"coordinates":[[[133.731781568,-21.738276823],[133.73771689599999,-21.7464161385],[133.72354000000001,-21.754302004],[133.715576992,-21.741829008],[133.72894655999997,-21.734389085],[133.731781568,-21.738276823]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[133.715577,-21.741829],[133.72894700000001,-21.734389],[133.737717,-21.746416],[133.72354000000001,-21.754302],[133.715577,-21.741829]]],"type":"Polygon"}
 }

@@ -2,18 +2,19 @@
   "id": 1125786759,
   "type": "Feature",
   "properties": {
+    "au-psma:modified":"2019-08-20",
     "edtf:cessation":"uuuu",
     "edtf:deprecated":"2019-02-13",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"131.042108,-12.523057,131.042108,-12.523057",
-    "geom:latitude":-12.523057,
-    "geom:longitude":131.042108,
+    "geom:area":0.000094,
+    "geom:area_square_m":1139987.736983,
+    "geom:bbox":"131.03573,-12.525675,131.048027,-12.510931",
+    "geom:latitude":-12.520011,
+    "geom:longitude":131.040202,
     "gn:gn_country":null,
     "iso:country":"AU",
-    "lbl:latitude":-12.523057,
-    "lbl:longitude":131.042108,
+    "lbl:latitude":-12.520011,
+    "lbl:longitude":131.040202,
     "mz:hierarchy_label":1,
     "mz:is_current":0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
@@ -40,8 +41,8 @@
     "qs_pg:qs_pg_placetype_gp":"Town",
     "qs_pg:woe_adm0":23424748,
     "qs_pg:woe_id":28584605,
-    "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:geom":"aus-psma",
+    "src:lbl:centroid":"mapshaper",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Northern Territory",
@@ -55,13 +56,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "aus-psma":"NT63",
         "gp:id":28584605,
         "qs_pg:id":469612,
         "wd:id":"Q5167399"
     },
     "wof:country":"AU",
     "wof:created":1497290712,
-    "wof:geomhash":"6a21d507700fa255f9da041d1b4eb1bd",
+    "wof:geomhash":"a8c5d4251d33cf9526ee9417e6471e9f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1125786759,
-    "wof:lastmodified":1561828288,
+    "wof:lastmodified":1566799737,
     "wof:name":"Coolalinga",
     "wof:parent_id":102049205,
     "wof:placetype":"locality",
@@ -83,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    131.042108,
-    -12.523057,
-    131.042108,
-    -12.523057
+    131.03573,
+    -12.525675,
+    131.048027,
+    -12.510931
 ],
-  "geometry": {"coordinates":[131.04210800000001,-12.523057],"type":"Point"}
+  "geometry": {"coordinates":[[[131.035742,-12.518711],[131.035741,-12.518226],[131.03573,-12.510931],[131.03656699999999,-12.510932],[131.03666000000001,-12.511023],[131.038555,-12.512875],[131.03899899999999,-12.513309],[131.039849,-12.514297],[131.04065,-12.515228],[131.040987,-12.515708],[131.042137,-12.517347],[131.04358300000001,-12.519406],[131.043823,-12.519748],[131.04412400000001,-12.520177],[131.0479,-12.525488],[131.04802699999999,-12.525667],[131.04604499999999,-12.525675],[131.04607999999999,-12.525572],[131.04552799999999,-12.525582],[131.04430300000001,-12.525571],[131.042992,-12.525576],[131.03800000000001,-12.525563],[131.03664599999999,-12.524077],[131.03664599999999,-12.523843],[131.03664699999999,-12.521511],[131.03664699999999,-12.520149],[131.03664699999999,-12.519972],[131.03664699999999,-12.519346],[131.035742,-12.518711]]],"type":"Polygon"}
 }

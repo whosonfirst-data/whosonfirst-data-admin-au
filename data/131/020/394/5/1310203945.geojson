@@ -2,13 +2,14 @@
   "id": 1310203945,
   "type": "Feature",
   "properties": {
+    "au-psma:modified":"2019-08-20",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"137.6,-34.43333,137.6,-34.43333",
-    "geom:latitude":-34.43333,
-    "geom:longitude":137.6,
+    "geom:area":0.006697,
+    "geom:area_square_m":68290889.346817,
+    "geom:bbox":"137.542033,-34.480954,137.632693,-34.402402",
+    "geom:latitude":-34.443832,
+    "geom:longitude":137.586489,
     "gn:admin1_code":"5",
     "gn:admin2_code":"48830",
     "gn:asciiname":"South Kilkerran",
@@ -24,12 +25,15 @@
     "gn:population":0,
     "gn:timezone":"Australia/Adelaide",
     "iso:country":"AU",
+    "lbl:latitude":-34.443832,
+    "lbl:longitude":137.586489,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "name:und_x_variant":[
         "South Kilykerran"
     ],
-    "src:geom":"geonames",
+    "src:geom":"aus-psma",
+    "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
         85681519,
         102191583,
@@ -40,10 +44,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "aus-psma":"SA1294",
         "gn:id":2061277
     },
     "wof:country":"AU",
-    "wof:geomhash":"e80707088f97a156a64018da6622837e",
+    "wof:geomhash":"970ed6478f3e6315494b17886a0f7196",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -56,7 +61,7 @@
         }
     ],
     "wof:id":1310203945,
-    "wof:lastmodified":1537584992,
+    "wof:lastmodified":1566800867,
     "wof:name":"South Kilkerran",
     "wof:parent_id":404546545,
     "wof:placetype":"locality",
@@ -66,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    137.6,
-    -34.43333,
-    137.6,
-    -34.43333
+    137.542033,
+    -34.480954,
+    137.632693,
+    -34.402402
 ],
-  "geometry": {"coordinates":[137.59999999999999,-34.43333],"type":"Point"}
+  "geometry": {"coordinates":[[[137.54217499999999,-34.480954],[137.54216600000001,-34.465332],[137.54214400000001,-34.455152],[137.54208199999999,-34.426017],[137.542033,-34.402402],[137.589249,-34.407223],[137.610601,-34.409365],[137.63269299999999,-34.410733],[137.63268600000001,-34.420256],[137.632679,-34.429767],[137.63264100000001,-34.480773],[137.589192,-34.480866],[137.54217499999999,-34.480954]]],"type":"Polygon"}
 }

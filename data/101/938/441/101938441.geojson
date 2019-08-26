@@ -2,16 +2,17 @@
   "id": 101938441,
   "type": "Feature",
   "properties": {
+    "au-psma:modified":"2019-08-20",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.000337,
-    "geom:area_square_m":3846912.252004,
-    "geom:bbox":"134.446178528,-22.8152679945,134.469224,-22.791629342",
-    "geom:latitude":-22.803094,
-    "geom:longitude":134.456405,
+    "geom:area":0.000208,
+    "geom:area_square_m":2371388.385901,
+    "geom:bbox":"134.450892,-22.81546,134.464154,-22.792163",
+    "geom:latitude":-22.803529,
+    "geom:longitude":134.45723,
     "iso:country":"AU",
-    "lbl:latitude":-22.802726,
-    "lbl:longitude":134.456405,
+    "lbl:latitude":-22.803529,
+    "lbl:longitude":134.45723,
     "mps:latitude":-22.802726,
     "mps:longitude":134.456405,
     "mz:hierarchy_label":1,
@@ -31,7 +32,7 @@
     "qs:loc":"Engawala",
     "qs:pop":0,
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
-    "src:geom":"quattroshapes",
+    "src:geom":"aus-psma",
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -43,12 +44,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "aus-psma":"NT97",
         "fct:id":"033dc0e8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":8348638,
         "gp:id":55864483
     },
     "wof:country":"AU",
-    "wof:geomhash":"b98476cf19ade1f9fefe5e5f26a61e70",
+    "wof:geomhash":"aa695a0436c4cf2cf21b4dd1c600e95c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -63,7 +65,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1504074184,
+    "wof:lastmodified":1566799750,
     "wof:name":"Engawala",
     "wof:parent_id":102049183,
     "wof:placetype":"locality",
@@ -73,10 +75,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    134.446178528,
-    -22.8152679945,
-    134.469224,
-    -22.791629342
+    134.450892,
+    -22.81546,
+    134.464154,
+    -22.792163
 ],
-  "geometry": {"coordinates":[[[134.45864499199996,-22.8152679945],[134.45649465599999,-22.815088008],[134.44617852799999,-22.8105008035],[134.447478496,-22.8022939815],[134.451204128,-22.791629342],[134.46298329599998,-22.794818742],[134.46415398399998,-22.7951907585],[134.469224,-22.796857997],[134.46874399999999,-22.7982079975],[134.467894016,-22.7995680065],[134.466555008,-22.800808006],[134.465824,-22.8019380045],[134.46497401600001,-22.8046479955],[134.46314499199997,-22.8079280085],[134.46022499200001,-22.811988],[134.45864499199996,-22.8152679945]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[134.46415400000001,-22.795191],[134.46207999999999,-22.8062],[134.461907,-22.807122],[134.46129199999999,-22.810382],[134.45766499999999,-22.81546],[134.45089200000001,-22.812324],[134.45378099999999,-22.792163],[134.46415400000001,-22.795191]]],"type":"Polygon"}
 }

@@ -2,13 +2,14 @@
   "id": 1310196657,
   "type": "Feature",
   "properties": {
+    "au-psma:modified":"2019-08-20",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"143.74544,-35.81607,143.74544,-35.81607",
-    "geom:latitude":-35.81607,
-    "geom:longitude":143.74544,
+    "geom:area":0.006525,
+    "geom:area_square_m":65437545.458616,
+    "geom:bbox":"143.678774,-35.835829,143.77849,-35.751706",
+    "geom:latitude":-35.800021,
+    "geom:longitude":143.732223,
     "gn:admin1_code":"7.0",
     "gn:admin2_code":"22250.0",
     "gn:asciiname":"Normanville",
@@ -24,6 +25,8 @@
     "gn:population":0,
     "gn:timezone":"Australia/Melbourne",
     "iso:country":"AU",
+    "lbl:latitude":-35.800021,
+    "lbl:longitude":143.732223,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "name:ceb_x_preferred":[
@@ -62,7 +65,8 @@
     "name:ukr_x_preferred":[
         "\u041d\u043e\u0440\u043c\u0430\u043d\u0432\u0456\u043b\u044c"
     ],
-    "src:geom":"geonames",
+    "src:geom":"aus-psma",
+    "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
         85681497,
         102191583,
@@ -73,10 +77,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "aus-psma":"VIC1957",
         "gn:id":2155084
     },
     "wof:country":"AU",
-    "wof:geomhash":"1d5899d66ce1f159b718f8930465097d",
+    "wof:geomhash":"006002b5e4ddc7689dc3a1edb7f61d04",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -89,7 +94,7 @@
         }
     ],
     "wof:id":1310196657,
-    "wof:lastmodified":1562897661,
+    "wof:lastmodified":1566802134,
     "wof:name":"Normanville",
     "wof:parent_id":404539991,
     "wof:placetype":"locality",
@@ -99,10 +104,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    143.74544,
-    -35.81607,
-    143.74544,
-    -35.81607
+    143.678774,
+    -35.835829,
+    143.77849,
+    -35.751706
 ],
-  "geometry": {"coordinates":[143.74544,-35.81607],"type":"Point"}
+  "geometry": {"coordinates":[[[143.69049799999999,-35.835773],[143.69062299999999,-35.80996],[143.67887099999999,-35.809986],[143.678774,-35.780074],[143.69506699999999,-35.774406],[143.702191,-35.771927],[143.72941700000001,-35.762446],[143.72952900000001,-35.762406],[143.75277299999999,-35.754284],[143.76015000000001,-35.751706],[143.76021499999999,-35.773151],[143.778426,-35.77315],[143.77842899999999,-35.790349],[143.778434,-35.809705],[143.77849000000001,-35.809705],[143.77844999999999,-35.835571],[143.77844899999999,-35.835572],[143.756112,-35.835637],[143.756111,-35.835815],[143.74945,-35.835829],[143.719672,-35.835803],[143.70925500000001,-35.835794],[143.69049799999999,-35.835773]]],"type":"Polygon"}
 }

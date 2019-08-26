@@ -2,17 +2,18 @@
   "id": 1125866365,
   "type": "Feature",
   "properties": {
+    "au-psma:modified":"2019-08-20",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"135.749205,-30.96791,135.749205,-30.96791",
-    "geom:latitude":-30.96791,
-    "geom:longitude":135.749205,
+    "geom:area":0.000552,
+    "geom:area_square_m":5856900.974792,
+    "geom:bbox":"135.743436,-30.983773,135.774683,-30.952041",
+    "geom:latitude":-30.967848,
+    "geom:longitude":135.759282,
     "gn:gn_country":null,
     "iso:country":"AU",
-    "lbl:latitude":-30.96791,
-    "lbl:longitude":135.749205,
+    "lbl:latitude":-30.967848,
+    "lbl:longitude":135.759282,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
@@ -42,8 +43,8 @@
     "qs_pg:qs_pg_placetype_gp":"Town",
     "qs_pg:woe_adm0":23424748,
     "qs_pg:woe_id":1102280,
-    "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:geom":"aus-psma",
+    "src:lbl:centroid":"mapshaper",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"South Australia",
@@ -57,13 +58,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "aus-psma":"SA484",
         "gp:id":1102280,
         "qs_pg:id":1110313,
         "wd:id":"Q5568402"
     },
     "wof:country":"AU",
     "wof:created":1497294059,
-    "wof:geomhash":"4a1bb53d0ee42b1b96a8f2d8f4747018",
+    "wof:geomhash":"3f55a979c652fbebb47caf6d4faeeff1",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -75,7 +77,7 @@
         }
     ],
     "wof:id":1125866365,
-    "wof:lastmodified":1561828258,
+    "wof:lastmodified":1566801204,
     "wof:name":"Glendambo",
     "wof:parent_id":404545377,
     "wof:placetype":"locality",
@@ -85,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    135.749205,
-    -30.96791,
-    135.749205,
-    -30.96791
+    135.743436,
+    -30.983773,
+    135.774683,
+    -30.952041
 ],
-  "geometry": {"coordinates":[135.74920499999999,-30.96791],"type":"Point"}
+  "geometry": {"coordinates":[[[135.77468300000001,-30.977097],[135.75567599999999,-30.983773],[135.75393500000001,-30.97955],[135.75112799999999,-30.973615],[135.75093200000001,-30.9732],[135.75067300000001,-30.972653],[135.75041300000001,-30.972103],[135.748007,-30.967017],[135.74778800000001,-30.966625],[135.747737,-30.966533],[135.74739500000001,-30.965924],[135.74711199999999,-30.965419],[135.746835,-30.964924],[135.743436,-30.958852],[135.76282599999999,-30.952041],[135.77468300000001,-30.977097]]],"type":"Polygon"}
 }

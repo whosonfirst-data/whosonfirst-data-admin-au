@@ -2,13 +2,14 @@
   "id": 1293880521,
   "type": "Feature",
   "properties": {
+    "au-psma:modified":"2019-08-20",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"148.79484,-37.67563,148.79484,-37.67563",
-    "geom:latitude":-37.67563,
-    "geom:longitude":148.79484,
+    "geom:area":0.003251,
+    "geom:area_square_m":31808874.591258,
+    "geom:bbox":"148.769184,-37.726337,148.827975,-37.654194",
+    "geom:latitude":-37.692365,
+    "geom:longitude":148.799495,
     "gn:admin1_code":"7.0",
     "gn:admin2_code":"22110.0",
     "gn:asciiname":"Manorina",
@@ -24,6 +25,8 @@
     "gn:population":0,
     "gn:timezone":"Australia/Melbourne",
     "iso:country":"AU",
+    "lbl:latitude":-37.692365,
+    "lbl:longitude":148.799495,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "name:cat_x_preferred":[
@@ -77,7 +80,8 @@
     "name:war_x_preferred":[
         "Manorina"
     ],
-    "src:geom":"geonames",
+    "src:geom":"aus-psma",
+    "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
         85681497,
         102191583,
@@ -88,10 +92,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "aus-psma":"VIC1592",
         "gn:id":8579065
     },
     "wof:country":"AU",
-    "wof:geomhash":"48323266db23dc174f942ee230f493c6",
+    "wof:geomhash":"17fbd460bda94d52401e263ffd5142a1",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -104,7 +109,7 @@
         }
     ],
     "wof:id":1293880521,
-    "wof:lastmodified":1562896263,
+    "wof:lastmodified":1566801987,
     "wof:name":"Manorina",
     "wof:parent_id":404539385,
     "wof:placetype":"locality",
@@ -114,10 +119,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    148.79484,
-    -37.67563,
-    148.79484,
-    -37.67563
+    148.769184,
+    -37.726337,
+    148.827975,
+    -37.654194
 ],
-  "geometry": {"coordinates":[148.79483999999999,-37.67563],"type":"Point"}
+  "geometry": {"coordinates":[[[148.780317,-37.726337],[148.769184,-37.683302],[148.769867,-37.681431],[148.771738,-37.678852],[148.77356700000001,-37.677646],[148.77358599999999,-37.676666],[148.77232699999999,-37.674846],[148.77295899999999,-37.671828],[148.777894,-37.663387],[148.77824100000001,-37.661494],[148.779325,-37.660015],[148.78151199999999,-37.65935],[148.782163,-37.657875],[148.784346,-37.655713],[148.78644700000001,-37.655007],[148.78804600000001,-37.654194],[148.79976099999999,-37.663919],[148.826697,-37.667989],[148.82779199999999,-37.668001],[148.82790499999999,-37.699871],[148.82790600000001,-37.700199],[148.82797500000001,-37.719347],[148.809427,-37.719462],[148.809493,-37.724314],[148.780317,-37.726337]]],"type":"Polygon"}
 }

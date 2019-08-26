@@ -2,19 +2,20 @@
   "id": 1125990957,
   "type": "Feature",
   "properties": {
+    "au-psma:modified":"2019-08-20",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"138.7,-34.55,138.7,-34.55",
-    "geom:latitude":-34.55,
-    "geom:longitude":138.7,
+    "geom:area":0.001843,
+    "geom:area_square_m":18764978.131684,
+    "geom:bbox":"138.655214,-34.566806,138.726244,-34.532938",
+    "geom:latitude":-34.549002,
+    "geom:longitude":138.693249,
     "gn:gn_country":"AU",
     "gn:gn_fcode":"PPL",
     "gn:gn_pop":0,
     "iso:country":"AU",
-    "lbl:latitude":-34.55,
-    "lbl:longitude":138.7,
+    "lbl:latitude":-34.549002,
+    "lbl:longitude":138.693249,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
@@ -44,8 +45,8 @@
     "qs_pg:qs_pg_placetype_gp":"Town",
     "qs_pg:woe_adm0":23424748,
     "qs_pg:woe_id":1096512,
-    "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:geom":"aus-psma",
+    "src:lbl:centroid":"mapshaper",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"South Australia",
@@ -60,6 +61,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "aus-psma":"SA633",
         "gn:id":2068773,
         "gp:id":1096512,
         "qs_pg:id":1187736,
@@ -67,7 +69,7 @@
     },
     "wof:country":"AU",
     "wof:created":1497299051,
-    "wof:geomhash":"9699fdd5906c4ee4bccc7e896ea42962",
+    "wof:geomhash":"f9951e143076957e5a9d7bc75a680f5c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -80,7 +82,7 @@
         }
     ],
     "wof:id":1125990957,
-    "wof:lastmodified":1561828267,
+    "wof:lastmodified":1566801261,
     "wof:name":"Kangaroo Flat",
     "wof:parent_id":404546235,
     "wof:placetype":"locality",
@@ -90,10 +92,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    138.7,
-    -34.55,
-    138.7,
-    -34.55
+    138.655214,
+    -34.566806,
+    138.726244,
+    -34.532938
 ],
-  "geometry": {"coordinates":[138.69999999999999,-34.55],"type":"Point"}
+  "geometry": {"coordinates":[[[138.69133400000001,-34.533532],[138.70737500000001,-34.535132],[138.72624400000001,-34.536981],[138.723546,-34.555939],[138.72189800000001,-34.566806],[138.713517,-34.565976],[138.703304,-34.564963],[138.69389899999999,-34.564065],[138.68282199999999,-34.562975],[138.68275600000001,-34.562968],[138.673182,-34.562027],[138.66159400000001,-34.555663],[138.655214,-34.552145],[138.655305,-34.552026],[138.65588399999999,-34.551271],[138.657419,-34.547608],[138.660405,-34.546848],[138.66093499999999,-34.546154],[138.66228100000001,-34.533417],[138.662892,-34.533507],[138.68108699999999,-34.534851],[138.683516,-34.534318],[138.68448599999999,-34.533586],[138.68564499999999,-34.532992],[138.68574799999999,-34.532938],[138.69133400000001,-34.533532]]],"type":"Polygon"}
 }

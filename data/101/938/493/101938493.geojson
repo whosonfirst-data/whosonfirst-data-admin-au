@@ -2,16 +2,17 @@
   "id": 101938493,
   "type": "Feature",
   "properties": {
+    "au-psma:modified":"2019-08-20",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001457,
-    "geom:area_square_m":16312889.021057,
-    "geom:bbox":"132.54799104,-25.141203009,132.589909088,-25.0957837885",
+    "geom:area_square_m":16314005.385098,
+    "geom:bbox":"132.547991,-25.141203,132.589909,-25.095784",
     "geom:latitude":-25.117556,
-    "geom:longitude":132.568763,
+    "geom:longitude":132.568764,
     "iso:country":"AU",
-    "lbl:latitude":-25.117352,
-    "lbl:longitude":132.568763,
+    "lbl:latitude":-25.117556,
+    "lbl:longitude":132.568764,
     "mps:latitude":-25.117352,
     "mps:longitude":132.568763,
     "mz:hierarchy_label":1,
@@ -43,7 +44,7 @@
     "qs:loc":"Imanpa",
     "qs:pop":0,
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
-    "src:geom":"quattroshapes",
+    "src:geom":"aus-psma",
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
     "wd:latitude":-25.1167,
@@ -58,6 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "aus-psma":"NT137",
         "fct:id":"033dc41c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":8347785,
         "gp:id":55864502,
@@ -65,7 +67,7 @@
         "wk:page":"Imanpa, Northern Territory"
     },
     "wof:country":"AU",
-    "wof:geomhash":"eb7e5e3adc177930163837cb72d706ae",
+    "wof:geomhash":"e395245bd88f6f34313051ab738ed65d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -80,7 +82,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561827859,
+    "wof:lastmodified":1566799662,
     "wof:name":"Imanpa",
     "wof:parent_id":102048913,
     "wof:placetype":"locality",
@@ -90,10 +92,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    132.54799104,
-    -25.141203009,
-    132.589909088,
-    -25.0957837885
+    132.547991,
+    -25.141203,
+    132.589909,
+    -25.095784
 ],
-  "geometry": {"coordinates":[[[132.58990908800001,-25.141203009],[132.58385065600001,-25.1395554545],[132.56449411200001,-25.1342882825],[132.54842988799999,-25.1299169915],[132.54799104,-25.0957837885],[132.58711958400002,-25.1023208375],[132.58990908800001,-25.141203009]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[132.547991,-25.095784],[132.58712299999999,-25.10232],[132.58990900000001,-25.141203],[132.57247599999999,-25.136461],[132.57145,-25.136182],[132.54843,-25.129917],[132.547991,-25.095784]]],"type":"Polygon"}
 }

@@ -2,19 +2,20 @@
   "id": 1125771299,
   "type": "Feature",
   "properties": {
+    "au-psma:modified":"2019-08-20",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"139.33333,-34.4,139.33333,-34.4",
-    "geom:latitude":-34.4,
-    "geom:longitude":139.33333,
+    "geom:area":0.004585,
+    "geom:area_square_m":46784092.611628,
+    "geom:bbox":"139.331376,-34.445608,139.438235,-34.371224",
+    "geom:latitude":-34.396973,
+    "geom:longitude":139.372082,
     "gn:gn_country":"AU",
     "gn:gn_fcode":"PPL",
     "gn:gn_pop":0,
     "iso:country":"AU",
-    "lbl:latitude":-34.4,
-    "lbl:longitude":139.33333,
+    "lbl:latitude":-34.396973,
+    "lbl:longitude":139.372082,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
@@ -39,8 +40,8 @@
     "qs_pg:qs_pg_placetype_gp":"Town",
     "qs_pg:woe_adm0":23424748,
     "qs_pg:woe_id":1094074,
-    "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:geom":"aus-psma",
+    "src:lbl:centroid":"mapshaper",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"South Australia",
@@ -55,13 +56,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "aus-psma":"SA29",
         "gn:id":2077703,
         "gp:id":1094074,
         "qs_pg:id":266807
     },
     "wof:country":"AU",
     "wof:created":1497290075,
-    "wof:geomhash":"efdd1e6f42d937e12945fa15df604a35",
+    "wof:geomhash":"bafc772501a64a125dd85e03592ebcfb",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -74,7 +76,7 @@
         }
     ],
     "wof:id":1125771299,
-    "wof:lastmodified":1562923763,
+    "wof:lastmodified":1566801124,
     "wof:name":"Annadale",
     "wof:parent_id":404546441,
     "wof:placetype":"locality",
@@ -84,10 +86,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    139.33333,
-    -34.4,
-    139.33333,
-    -34.4
+    139.331376,
+    -34.445608,
+    139.438235,
+    -34.371224
 ],
-  "geometry": {"coordinates":[139.33332999999999,-34.4],"type":"Point"}
+  "geometry": {"coordinates":[[[139.43823499999999,-34.372108],[139.43822599999999,-34.38907],[139.43822599999999,-34.38967],[139.43811600000001,-34.389669],[139.421897,-34.389588],[139.42150000000001,-34.389855],[139.40430900000001,-34.403964],[139.38818800000001,-34.413245],[139.37395799999999,-34.421357],[139.350583,-34.434678],[139.34986799999999,-34.435081],[139.33137600000001,-34.445608],[139.33147399999999,-34.434548],[139.33159499999999,-34.421055],[139.33159699999999,-34.420854],[139.33184399999999,-34.393085],[139.33203800000001,-34.371224],[139.350348,-34.371408],[139.369516,-34.371568],[139.38845699999999,-34.371719],[139.42145600000001,-34.37198],[139.43812600000001,-34.372107],[139.43823499999999,-34.372108]]],"type":"Polygon"}
 }
