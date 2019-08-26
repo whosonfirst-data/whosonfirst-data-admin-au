@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-41.569382,
     "lbl:longitude":147.173636,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":-41.569382,
     "mps:longitude":147.173636,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Perth"
     ],
@@ -66,7 +69,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-41.573056,
     "wd:longitude":147.171389,
@@ -84,7 +87,6 @@
         "fct:id":"03343e9c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2153391,
         "gp:id":1104983,
-        "qs:id":482188,
         "qs_pg:id":482188,
         "wd:id":"Q1009433",
         "wk:page":"Perth, Tasmania"
@@ -109,7 +111,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1562898974,
+    "wof:lastmodified":1566601251,
     "wof:name":"Perth",
     "wof:parent_id":404549293,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-34.892464,
     "lbl:longitude":138.581035,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-34.892464,
     "mps:longitude":138.581035,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Renown Park"
     ],
@@ -33,14 +36,14 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":486,
     "wof:belongsto":[
         85681519,
         102191583,
-        85632793,
-        404546205,
         1376953367,
+        404546205,
+        85632793,
         136253039,
         102049185
     ],
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":101936521,
-    "wof:lastmodified":1550755091,
+    "wof:lastmodified":1566601123,
     "wof:name":"Renown Park",
     "wof:parent_id":404546205,
     "wof:placetype":"locality",

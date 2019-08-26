@@ -13,8 +13,10 @@
     "gn:longitude":153.15813,
     "gn:population":11719,
     "iso:country":"AU",
+    "lbl:bbox":"153.1716122,-27.4389019047,153.1816122,-27.4289019047",
     "lbl:latitude":-27.431877,
     "lbl:longitude":153.176347,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-27.431877,
     "mps:longitude":153.176347,
     "mz:hierarchy_label":0,
@@ -47,9 +49,6 @@
     "name:swe_x_preferred":[
         "Wynnum"
     ],
-    "name:unk_x_variant":[
-        "Wynnum"
-    ],
     "qs:gn_adm0_cc":"AU",
     "qs:gn_fcode":"PPL",
     "qs:gn_local":2174003,
@@ -79,9 +78,8 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
-    "wof:belongs_to":[],
     "wof:belongsto":[
         102191583
     ],
@@ -89,7 +87,7 @@
     "wof:concordances":{
         "gn:id":2142750,
         "gp:id":1106927,
-        "qs:id":976566,
+        "qs_pg:id":976566,
         "wd:id":"Q2683803",
         "wk:page":"Wynnum, Queensland"
     },
@@ -105,7 +103,7 @@
         }
     ],
     "wof:id":85771155,
-    "wof:lastmodified":1562895608,
+    "wof:lastmodified":1566600617,
     "wof:name":"Wynnum",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

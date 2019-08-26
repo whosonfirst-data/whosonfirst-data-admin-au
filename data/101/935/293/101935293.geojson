@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-27.649869,
     "lbl:longitude":153.17788,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-27.649869,
     "mps:longitude":153.17788,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Shailer Park"
     ],
@@ -33,14 +36,14 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":583,
     "wof:belongsto":[
         85681463,
         102191583,
-        85632793,
-        404544041,
         1376953397,
+        404544041,
+        85632793,
         136253039,
         102048665
     ],
@@ -48,7 +51,7 @@
     "wof:concordances":{
         "gn:id":8347715,
         "gp:id":7225524,
-        "qs:id":1248275,
+        "qs_pg:id":1248275,
         "wd:id":"Q7462465",
         "wk:page":"Shailer Park, Queensland"
     },
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":101935293,
-    "wof:lastmodified":1550726600,
+    "wof:lastmodified":1566601665,
     "wof:name":"Shailer Park",
     "wof:parent_id":404544041,
     "wof:placetype":"locality",

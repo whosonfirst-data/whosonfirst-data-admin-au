@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-34.867126,
     "lbl:longitude":138.650904,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-34.867126,
     "mps:longitude":138.650904,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Windsor Gardens"
     ],
@@ -33,14 +36,14 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":16,
     "wof:belongsto":[
         85681519,
         102191583,
-        85632793,
-        404546611,
         1376953367,
+        404546611,
+        85632793,
         136253039,
         102048839
     ],
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":101936777,
-    "wof:lastmodified":1550755148,
+    "wof:lastmodified":1566601127,
     "wof:name":"Windsor Gardens",
     "wof:parent_id":404546611,
     "wof:placetype":"locality",

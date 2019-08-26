@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-37.666917,
     "lbl:longitude":145.499107,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":-37.666917,
     "mps:longitude":145.499107,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Badger Creek"
     ],
@@ -38,9 +41,6 @@
     "name:swe_x_preferred":[
         "Badger Creek"
     ],
-    "name:unk_x_variant":[
-        "Badgers Creek"
-    ],
     "qs:a0":"Australia",
     "qs:a1":"*Victoria",
     "qs:a1_lc":"2",
@@ -57,7 +57,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-37.685,
     "wd:longitude":145.538,
@@ -76,7 +76,6 @@
         "fct:id":"0331090c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2177280,
         "gp:id":1094166,
-        "qs:id":240604,
         "qs_pg:id":240604,
         "wd:id":"Q4840842"
     },
@@ -95,7 +94,7 @@
         }
     ],
     "wof:id":1175610503,
-    "wof:lastmodified":1562897431,
+    "wof:lastmodified":1566601021,
     "wof:name":"Badger Creek",
     "wof:parent_id":404537605,
     "wof:placetype":"locality",

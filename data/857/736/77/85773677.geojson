@@ -12,8 +12,10 @@
     "gn:latitude":-35.35621,
     "gn:longitude":149.03742,
     "iso:country":"AU",
+    "lbl:bbox":"149.022001353,-35.3634563653,149.032001353,-35.3534563653",
     "lbl:latitude":-35.359205,
     "lbl:longitude":149.027005,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-35.359205,
     "mps:longitude":149.027005,
     "mz:hierarchy_label":0,
@@ -42,9 +44,6 @@
     ],
     "name:rus_x_variant":[
         "\u0427\u044d\u043f\u043c\u044d\u043d"
-    ],
-    "name:unk_x_variant":[
-        "Chapman"
     ],
     "qs:gn_adm0_cc":"AU",
     "qs:gn_fcode":"PPLX",
@@ -75,7 +74,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191583,
         404550125,
@@ -87,7 +86,6 @@
     "wof:concordances":{
         "gn:id":8349166,
         "gp:id":7225353,
-        "qs:id":992892,
         "qs_pg:id":992892,
         "wd:id":"Q860086",
         "wk:page":"Chapman, Australian Capital Territory"
@@ -106,7 +104,7 @@
         }
     ],
     "wof:id":85773677,
-    "wof:lastmodified":1562895185,
+    "wof:lastmodified":1566600493,
     "wof:name":"Chapman",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

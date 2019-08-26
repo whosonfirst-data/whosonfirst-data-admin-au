@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-33.155552,
     "lbl:longitude":138.11522,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":-33.155552,
     "mps:longitude":138.11522,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Napperby"
     ],
@@ -41,7 +44,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681519,
@@ -55,7 +58,6 @@
     "wof:concordances":{
         "gn:id":2064970,
         "gp:id":1104487,
-        "qs:id":138025,
         "qs_pg:id":138025,
         "wd:id":"Q21887041"
     },
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":101941109,
-    "wof:lastmodified":1562900827,
+    "wof:lastmodified":1566601512,
     "wof:name":"Napperby",
     "wof:parent_id":404545911,
     "wof:placetype":"locality",

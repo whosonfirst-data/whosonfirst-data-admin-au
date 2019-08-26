@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-34.798124,
     "lbl:longitude":138.68561,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-34.798124,
     "mps:longitude":138.68561,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Wynn Vale"
     ],
@@ -33,14 +36,14 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":668,
     "wof:belongsto":[
         85681519,
         102191583,
-        85632793,
-        404546665,
         1376953367,
+        404546665,
+        85632793,
         136253039,
         102049359
     ],
@@ -48,7 +51,7 @@
     "wof:concordances":{
         "gn:id":8348084,
         "gp:id":22721778,
-        "qs:id":205804,
+        "qs_pg:id":205804,
         "wd:id":"Q8040186",
         "wk:page":"Wynn Vale, South Australia"
     },
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":101936803,
-    "wof:lastmodified":1550724242,
+    "wof:lastmodified":1566601116,
     "wof:name":"Wynn Vale",
     "wof:parent_id":404546665,
     "wof:placetype":"locality",

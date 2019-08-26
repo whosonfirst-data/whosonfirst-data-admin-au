@@ -11,8 +11,10 @@
     "geom:longitude":121.471663,
     "gn:id":"",
     "iso:country":"AU",
+    "lbl:bbox":"121.466663,-30.752237,121.476663,-30.742237",
     "lbl:latitude":-30.747237,
     "lbl:longitude":121.471663,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-30.755658,
     "mps:longitude":121.470222,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Kalgoorlie Central"
-    ],
-    "name:unk_x_variant":[
         "Kalgoorlie Central"
     ],
     "qs:gn_adm0_cc":"AU",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191583,
         404547517,
@@ -72,7 +71,9 @@
     "wof:concordances":{
         "gn:id":8348697,
         "gp:id":28676640,
-        "qs:id":227665,
+        "qs_pg:id":227665
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":1110406
     },
     "wof:country":"AU",
@@ -93,7 +94,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1551830880,
+    "wof:lastmodified":1566600580,
     "wof:name":"Kalgoorlie Central",
     "wof:parent_id":101937329,
     "wof:placetype":"neighbourhood",

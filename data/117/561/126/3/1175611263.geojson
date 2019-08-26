@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":-10.489772,
     "lbl:longitude":105.642563,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-10.490789,
     "mps:longitude":105.67259,
     "mz:hierarchy_label":1,
@@ -548,13 +549,6 @@
         "Juleoeen",
         "Christmasoya"
     ],
-    "name:und_x_variant":[
-        "Christmas\u00f8ya",
-        "Jule\u00f8en"
-    ],
-    "name:unk_x_variant":[
-        "Territory of Christmas Island"
-    ],
     "name:urd_x_preferred":[
         "\u062c\u0632\u06cc\u0631\u06c1 \u06a9\u0631\u0633\u0645\u0633"
     ],
@@ -613,9 +607,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-08-09",
+    "src:population_date":"2011-08-09",
     "statoids:area_km":"135",
     "statoids:area_mi":"52",
     "statoids:as_of_date":"2011-08-09",
@@ -641,7 +635,7 @@
         "gp:id":23424869,
         "hasc:id":"CX.CX",
         "iso:id":"CX-CX",
-        "qs:id":1085826,
+        "qs_pg:id":1085826,
         "wd:id":"Q31063",
         "wk:page":"Christmas Island"
     },
@@ -662,11 +656,10 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1565644552,
+    "wof:lastmodified":1566601021,
     "wof:name":"Christmas Island",
     "wof:parent_id":85632495,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"external territory of AU",
     "wof:population":2072,
     "wof:population_rank":4,

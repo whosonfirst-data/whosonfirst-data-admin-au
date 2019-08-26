@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-32.728043,
     "lbl:longitude":151.559471,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":-32.728043,
     "mps:longitude":151.559471,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Lorn"
     ],
@@ -48,7 +51,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":146,
     "wof:belongsto":[
@@ -64,10 +67,12 @@
     "wof:concordances":{
         "gn:id":2159550,
         "gp:id":1103518,
-        "qs:id":1243653,
         "qs_pg:id":990316,
         "wd:id":"Q6681321",
         "wk:page":"Lorn, New South Wales"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1243653
     },
     "wof:coterminous":[
         404224595
@@ -87,7 +92,7 @@
         }
     ],
     "wof:id":101931089,
-    "wof:lastmodified":1562898707,
+    "wof:lastmodified":1566601207,
     "wof:name":"Lorn",
     "wof:parent_id":404224595,
     "wof:placetype":"locality",

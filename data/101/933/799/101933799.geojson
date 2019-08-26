@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-21.090112,
     "lbl:longitude":149.186206,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-21.090112,
     "mps:longitude":149.186206,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Andergrove"
     ],
@@ -36,7 +39,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":164,
     "wof:belongsto":[
         85681463,
@@ -50,7 +53,7 @@
     "wof:concordances":{
         "gn:id":2177914,
         "gp:id":1094064,
-        "qs:id":182943,
+        "qs_pg:id":182943,
         "wd:id":"Q16868939"
     },
     "wof:coterminous":[
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":101933799,
-    "wof:lastmodified":1561827993,
+    "wof:lastmodified":1566601749,
     "wof:name":"Andergrove",
     "wof:parent_id":404541017,
     "wof:placetype":"locality",

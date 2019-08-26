@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-37.969411,
     "lbl:longitude":145.176712,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-37.969411,
     "mps:longitude":145.176712,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ceb_x_preferred":[
         "Noble Park"
     ],
@@ -43,7 +46,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681497,
@@ -58,7 +61,7 @@
     "wof:concordances":{
         "gn:id":2155204,
         "gp:id":1097797,
-        "qs:id":193132,
+        "qs_pg:id":193132,
         "wd:id":"Q7045757",
         "wk:page":"Noble Park, Victoria"
     },
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":101933339,
-    "wof:lastmodified":1561827995,
+    "wof:lastmodified":1566601753,
     "wof:name":"Noble Park",
     "wof:parent_id":404539773,
     "wof:placetype":"locality",

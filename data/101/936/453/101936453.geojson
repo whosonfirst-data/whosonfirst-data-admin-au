@@ -13,6 +13,8 @@
     "iso:country":"AU",
     "lbl:latitude":-32.972534,
     "lbl:longitude":138.837053,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":-32.972534,
     "mps:longitude":138.837053,
     "mz:hierarchy_label":1,
@@ -53,9 +55,6 @@
     ],
     "name:swe_x_preferred":[
         "Peterborough"
-    ],
-    "name:unk_x_variant":[
-        "Petersburgh"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Australia",
@@ -165,7 +164,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-32.966667,
     "wd:longitude":138.833333,
@@ -183,7 +182,6 @@
         "fct:id":"033099e0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2063518,
         "gp:id":1104988,
-        "qs:id":137992,
         "qs_pg:id":137992,
         "wd:id":"Q3900971",
         "wk:page":"Peterborough, South Australia"
@@ -208,7 +206,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1562898077,
+    "wof:lastmodified":1566601120,
     "wof:name":"Peterborough",
     "wof:parent_id":404546099,
     "wof:placetype":"locality",

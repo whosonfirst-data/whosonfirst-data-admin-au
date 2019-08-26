@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-34.876185,
     "lbl:longitude":138.515713,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-34.876185,
     "mps:longitude":138.515713,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Hendon"
     ],
@@ -39,7 +42,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1129,
     "wof:belongsto":[
         85681519,
@@ -53,7 +56,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2069887,
-        "qs:id":903698,
+        "qs_pg:id":903698,
         "wd:id":"Q12059859",
         "wk:page":"Hendon, South Australia"
     },
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":101936129,
-    "wof:lastmodified":1562898114,
+    "wof:lastmodified":1566601123,
     "wof:name":"Hendon",
     "wof:parent_id":404545483,
     "wof:placetype":"locality",

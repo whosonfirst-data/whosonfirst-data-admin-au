@@ -24,6 +24,7 @@
     ],
     "lbl:latitude":-19.488357,
     "lbl:longitude":133.438712,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-19.48932,
     "mps:longitude":133.437624,
     "mz:hierarchy_label":1,
@@ -423,9 +424,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-08-09",
+    "src:population_date":"2011-08-09",
     "statoids:area_km":"1,356,170",
     "statoids:area_mi":"523,620",
     "statoids:as_of_date":"2011-08-09",
@@ -472,11 +473,10 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1565644462,
+    "wof:lastmodified":1566600620,
     "wof:name":"Northern Territory",
     "wof:parent_id":85632793,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"territory",
     "wof:population":211945,
     "wof:population_rank":10,

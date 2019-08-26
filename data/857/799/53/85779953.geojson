@@ -13,8 +13,10 @@
     "gn:longitude":138.53082,
     "gn:population":2109,
     "iso:country":"AU",
+    "lbl:bbox":"138.542166,-35.09664,138.552166,-35.08664",
     "lbl:latitude":-35.095557,
     "lbl:longitude":138.548165,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-35.094067,
     "mps:longitude":138.543687,
     "mz:hierarchy_label":0,
@@ -40,9 +42,6 @@
     ],
     "name:swe_x_preferred":[
         "Reynella"
-    ],
-    "name:unk_x_variant":[
-        "Old Reynella"
     ],
     "qs:gn_adm0_cc":"AU",
     "qs:gn_fcode":"PPL",
@@ -72,7 +71,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "src:population":"geonames",
     "wof:belongsto":[
         102191583,
@@ -88,10 +87,12 @@
     "wof:concordances":{
         "gn:id":2062459,
         "gp:id":1105313,
-        "qs:id":25783,
-        "qs_pg:id":1110605,
+        "qs_pg:id":25783,
         "wd:id":"Q7319576",
         "wk:page":"Reynella, South Australia"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1110605
     },
     "wof:country":"AU",
     "wof:geomhash":"852fbb36dc2c0d13329cb40bec3818c7",
@@ -112,7 +113,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1562895097,
+    "wof:lastmodified":1566600470,
     "wof:name":"Old Reynella",
     "wof:parent_id":101936783,
     "wof:placetype":"neighbourhood",

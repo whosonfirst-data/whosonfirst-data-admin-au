@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-26.656137,
     "lbl:longitude":150.189227,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-26.656137,
     "mps:longitude":150.189227,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Miles"
     ],
@@ -50,7 +53,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: urban areas and localities selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":-26.6583,
     "wd:longitude":150.187,
     "wd:wordcount":480,
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":101940819,
-    "wof:lastmodified":1562901047,
+    "wof:lastmodified":1566601543,
     "wof:name":"Miles",
     "wof:parent_id":404543163,
     "wof:placetype":"locality",

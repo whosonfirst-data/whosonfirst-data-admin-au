@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-28.823354,
     "lbl:longitude":153.319693,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-28.823354,
     "mps:longitude":153.319693,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Goonellabah"
     ],
@@ -49,7 +52,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-28.816667,
     "wd:longitude":153.316667,
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":101930465,
-    "wof:lastmodified":1562899948,
+    "wof:lastmodified":1566601397,
     "wof:name":"Goonellabah",
     "wof:parent_id":404223663,
     "wof:placetype":"locality",

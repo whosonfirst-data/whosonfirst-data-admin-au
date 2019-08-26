@@ -13,6 +13,8 @@
     "iso:country":"AU",
     "lbl:latitude":-33.485129,
     "lbl:longitude":150.15933,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-33.485129,
     "mps:longitude":150.15933,
     "mz:hierarchy_label":1,
@@ -273,7 +275,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-33.483333,
     "wd:longitude":150.15,
@@ -291,7 +293,6 @@
         "fct:id":"033eabe8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2160053,
         "gp:id":1103465,
-        "qs:id":138744,
         "qs_pg:id":138744,
         "wd:id":"Q1789805",
         "wk:page":"Lithgow, New South Wales"
@@ -316,7 +317,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1562898785,
+    "wof:lastmodified":1566601219,
     "wof:name":"Lithgow",
     "wof:parent_id":404224537,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-27.531316,
     "lbl:longitude":152.981224,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-27.531316,
     "mps:longitude":152.981224,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Sherwood"
     ],
@@ -33,14 +36,14 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":712,
     "wof:belongsto":[
         85681463,
         102191583,
-        85632793,
-        404544055,
         1376953397,
+        404544055,
+        85632793,
         136253039,
         102049495
     ],
@@ -49,7 +52,7 @@
         "fct:id":"0348e554-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6943574,
         "gp:id":7225438,
-        "qs:id":1251170,
+        "qs_pg:id":1251170,
         "wd:id":"Q7495485",
         "wk:page":"Sherwood, Queensland"
     },
@@ -74,7 +77,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1550754834,
+    "wof:lastmodified":1566601690,
     "wof:name":"Sherwood",
     "wof:parent_id":404544055,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-23.382882,
     "lbl:longitude":150.533681,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-23.382882,
     "mps:longitude":150.533681,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "The Common"
     ],
@@ -36,7 +39,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":123,
     "wof:belongsto":[
         85681463,
@@ -50,7 +53,7 @@
     "wof:concordances":{
         "gn:id":8348567,
         "gp:id":28587534,
-        "qs:id":335810,
+        "qs_pg:id":335810,
         "wd:id":"Q7727000",
         "wk:page":"The Common, Queensland"
     },
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":101935451,
-    "wof:lastmodified":1561827976,
+    "wof:lastmodified":1566601687,
     "wof:name":"The Common",
     "wof:parent_id":404544337,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-37.544302,
     "lbl:longitude":143.81703,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-37.544302,
     "mps:longitude":143.81703,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lake Gardens"
     ],
@@ -36,7 +39,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":854,
     "wof:belongsto":[
         85681497,
@@ -50,7 +53,7 @@
     "wof:concordances":{
         "gn:id":8348185,
         "gp:id":28585771,
-        "qs:id":500001,
+        "qs_pg:id":500001,
         "wd:id":"Q6475915"
     },
     "wof:coterminous":[
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":101933151,
-    "wof:lastmodified":1550719296,
+    "wof:lastmodified":1566601754,
     "wof:name":"Lake Gardens",
     "wof:parent_id":404539175,
     "wof:placetype":"locality",

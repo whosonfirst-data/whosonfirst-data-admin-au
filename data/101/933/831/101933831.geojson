@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-24.872384,
     "lbl:longitude":152.395389,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-24.872384,
     "mps:longitude":152.395389,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Ashfield"
     ],
@@ -66,7 +69,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":376,
     "wof:belongsto":[
         85681463,
@@ -80,7 +83,7 @@
     "wof:concordances":{
         "gn:id":8348091,
         "gp:id":28583903,
-        "qs:id":52542
+        "qs_pg:id":52542
     },
     "wof:coterminous":[
         404541065
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":101933831,
-    "wof:lastmodified":1562903218,
+    "wof:lastmodified":1566601790,
     "wof:name":"Ashfield",
     "wof:parent_id":404541065,
     "wof:placetype":"locality",

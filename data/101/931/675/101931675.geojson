@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-34.018622,
     "lbl:longitude":150.81785,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-34.018622,
     "mps:longitude":150.81785,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Raby"
     ],
@@ -42,7 +45,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":728,
     "wof:belongsto":[
         85681545,
@@ -56,7 +59,7 @@
     "wof:concordances":{
         "gn:id":8348167,
         "gp:id":22721332,
-        "qs:id":205746,
+        "qs_pg:id":205746,
         "wd:id":"Q7278830",
         "wk:page":"Raby, New South Wales"
     },
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":101931675,
-    "wof:lastmodified":1562898471,
+    "wof:lastmodified":1566601169,
     "wof:name":"Raby",
     "wof:parent_id":404225781,
     "wof:placetype":"locality",

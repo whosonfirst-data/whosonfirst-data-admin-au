@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-33.835109,
     "lbl:longitude":151.04706,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-33.835109,
     "mps:longitude":151.04706,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Silverwater"
     ],
@@ -36,13 +39,13 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681545,
         102191583,
-        85632793,
-        404226103,
         1376953385,
+        404226103,
+        85632793,
         136253039,
         102048477
     ],
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":101931853,
-    "wof:lastmodified":1550726213,
+    "wof:lastmodified":1566601220,
     "wof:name":"Silverwater",
     "wof:parent_id":404226103,
     "wof:placetype":"locality",

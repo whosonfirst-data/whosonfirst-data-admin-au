@@ -13,6 +13,8 @@
     "iso:country":"AU",
     "lbl:latitude":-37.743278,
     "lbl:longitude":142.028719,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-37.743278,
     "mps:longitude":142.028719,
     "mz:hierarchy_label":1,
@@ -239,7 +241,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":-37.7333,
     "wd:longitude":142.017,
@@ -258,7 +260,6 @@
         "fct:id":"0333c782-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2164025,
         "gp:id":1102538,
-        "qs:id":460234,
         "qs_pg:id":460234,
         "wd:id":"Q762430",
         "wk:page":"Hamilton, Victoria"
@@ -280,7 +281,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1562901295,
+    "wof:lastmodified":1566601574,
     "wof:name":"Hamilton",
     "wof:parent_id":404538801,
     "wof:placetype":"locality",

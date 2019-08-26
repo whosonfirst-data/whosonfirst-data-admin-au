@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-31.857766,
     "lbl:longitude":116.019334,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":-31.857766,
     "mps:longitude":116.019334,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Middle Swan"
     ],
@@ -46,7 +49,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":108,
     "wof:belongsto":[
@@ -61,7 +64,7 @@
     "wof:concordances":{
         "gn:id":2066358,
         "gp:id":1097242,
-        "qs:id":138058,
+        "qs_pg:id":138058,
         "wd:id":"Q6841607",
         "wk:page":"Middle Swan, Western Australia"
     },
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":101937491,
-    "wof:lastmodified":1561827903,
+    "wof:lastmodified":1566601456,
     "wof:name":"Middle Swan",
     "wof:parent_id":404547791,
     "wof:placetype":"locality",

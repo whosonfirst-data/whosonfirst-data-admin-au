@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-36.958805,
     "lbl:longitude":140.740829,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-36.958805,
     "mps:longitude":140.740829,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Naracoorte"
     ],
@@ -59,7 +62,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-36.95,
     "wd:longitude":140.75,
@@ -76,7 +79,6 @@
     "wof:concordances":{
         "gn:id":2155796,
         "gp:id":1104495,
-        "qs:id":138705,
         "qs_pg:id":138705,
         "wd:id":"Q492231",
         "wk:page":"Naracoorte, South Australia"
@@ -95,7 +97,7 @@
         }
     ],
     "wof:id":101941111,
-    "wof:lastmodified":1562900805,
+    "wof:lastmodified":1566601509,
     "wof:name":"Naracoorte",
     "wof:parent_id":404545913,
     "wof:placetype":"locality",

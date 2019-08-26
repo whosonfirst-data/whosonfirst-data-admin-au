@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-34.917681,
     "lbl:longitude":138.645217,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-34.917681,
     "mps:longitude":138.645217,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Beulah Park"
     ],
@@ -36,7 +39,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":93,
     "wof:belongsto":[
         85681519,
@@ -51,7 +54,7 @@
     "wof:concordances":{
         "gn:id":8348577,
         "gp:id":22721646,
-        "qs:id":205783,
+        "qs_pg:id":205783,
         "wd:id":"Q4899274",
         "wk:page":"Beulah Park, South Australia"
     },
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":101935781,
-    "wof:lastmodified":1561827978,
+    "wof:lastmodified":1566601693,
     "wof:name":"Beulah Park",
     "wof:parent_id":404544953,
     "wof:placetype":"locality",

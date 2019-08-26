@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-38.696884,
     "lbl:longitude":146.459098,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-38.696884,
     "mps:longitude":146.459098,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Welshpool"
     ],
@@ -24,9 +27,6 @@
     ],
     "name:nld_x_preferred":[
         "Port Welshpool"
-    ],
-    "name:unk_x_variant":[
-        "Welshpool"
     ],
     "qs:a0":"Australia",
     "qs:a1":"*Victoria",
@@ -44,7 +44,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":45,
     "wof:belongsto":[
         85681497,
@@ -59,7 +59,6 @@
         "fct:id":"0330da9a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2152651,
         "gp:id":1105146,
-        "qs:id":278094,
         "qs_pg:id":278094,
         "wd:id":"Q7231036"
     },
@@ -83,7 +82,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1562903148,
+    "wof:lastmodified":1566601782,
     "wof:name":"Port Welshpool",
     "wof:parent_id":404539957,
     "wof:placetype":"locality",

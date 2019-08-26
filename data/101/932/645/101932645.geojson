@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-37.705799,
     "lbl:longitude":145.121829,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":-37.705799,
     "mps:longitude":145.121829,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Briar Hill"
     ],
@@ -43,7 +46,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":51,
     "wof:belongsto":[
@@ -59,7 +62,7 @@
     "wof:concordances":{
         "gn:id":2174111,
         "gp:id":1094645,
-        "qs:id":279252,
+        "qs_pg:id":279252,
         "wd:id":"Q4965769"
     },
     "wof:coterminous":[
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":101932645,
-    "wof:lastmodified":1562901494,
+    "wof:lastmodified":1566601602,
     "wof:name":"Briar Hill",
     "wof:parent_id":404537885,
     "wof:placetype":"locality",

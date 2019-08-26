@@ -9,14 +9,16 @@
     "geom:bbox":"149.184768061,-35.2478783648,149.184768061,-35.2478783648",
     "geom:latitude":-35.247878,
     "geom:longitude":149.184768,
-    "gn:gn_country":"AU",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"AU",
+    "gn:fcode":"PPLX",
     "gn:latitude":-35.24948,
     "gn:longitude":149.16352,
+    "gn:population":0,
     "iso:country":"AU",
+    "lbl:bbox":"149.179768061,-35.2528783648,149.189768061,-35.2428783648",
     "lbl:latitude":-35.244421,
     "lbl:longitude":149.179717,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-35.244421,
     "mps:longitude":149.179717,
     "mz:hierarchy_label":0,
@@ -42,9 +44,6 @@
     ],
     "name:rus_x_preferred":[
         "\u0425\u0430\u043a\u0435\u0442\u0442"
-    ],
-    "name:unk_x_variant":[
-        "Hackett"
     ],
     "qs:gn_adm0_cc":"AU",
     "qs:gn_fcode":"PPLX",
@@ -94,7 +93,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191583,
         404550105,
@@ -106,7 +105,6 @@
     "wof:concordances":{
         "gn:id":8349180,
         "gp:id":7225322,
-        "qs:id":1076828,
         "qs_pg:id":1076828,
         "wd:id":"Q256948",
         "wk:page":"Hackett, Australian Capital Territory"
@@ -125,7 +123,7 @@
         }
     ],
     "wof:id":85773561,
-    "wof:lastmodified":1562895393,
+    "wof:lastmodified":1566600559,
     "wof:name":"Hackett",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

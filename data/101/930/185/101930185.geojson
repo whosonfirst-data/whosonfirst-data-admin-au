@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-37.047116,
     "lbl:longitude":149.907482,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":-37.047116,
     "mps:longitude":149.907482,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Eden"
     ],
@@ -69,7 +72,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-37.0667,
     "wd:longitude":149.9,
@@ -87,7 +90,6 @@
         "fct:id":"03301eca-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2167799,
         "gp:id":1101836,
-        "qs:id":1276959,
         "qs_pg:id":1276959,
         "wd:id":"Q3047387",
         "wk:page":"Eden, New South Wales"
@@ -112,7 +114,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1562900171,
+    "wof:lastmodified":1566601431,
     "wof:name":"Eden",
     "wof:parent_id":404223205,
     "wof:placetype":"locality",

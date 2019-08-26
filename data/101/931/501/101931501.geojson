@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-33.740572,
     "lbl:longitude":150.838365,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-33.740572,
     "mps:longitude":150.838365,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Oakhurst"
     ],
@@ -42,7 +45,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":625,
     "wof:belongsto":[
         85681545,
@@ -57,7 +60,7 @@
     "wof:concordances":{
         "gn:id":8348163,
         "gp:id":22721404,
-        "qs:id":205754,
+        "qs_pg:id":205754,
         "wd:id":"Q7073910",
         "wk:page":"Oakhurst, New South Wales"
     },
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":101931501,
-    "wof:lastmodified":1561827832,
+    "wof:lastmodified":1566601198,
     "wof:name":"Oakhurst",
     "wof:parent_id":404225461,
     "wof:placetype":"locality",

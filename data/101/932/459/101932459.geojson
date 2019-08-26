@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-34.047189,
     "lbl:longitude":151.103159,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-34.047189,
     "mps:longitude":151.103159,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Yowie Bay"
     ],
@@ -48,7 +51,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":369,
     "wof:belongsto":[
         85681545,
@@ -63,7 +66,7 @@
     "wof:concordances":{
         "gn:id":2205978,
         "gp:id":1099774,
-        "qs:id":1081022,
+        "qs_pg:id":1081022,
         "wd:id":"Q4205869"
     },
     "wof:coterminous":[
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":101932459,
-    "wof:lastmodified":1562901825,
+    "wof:lastmodified":1566601641,
     "wof:name":"Yowie Bay",
     "wof:parent_id":404227329,
     "wof:placetype":"locality",

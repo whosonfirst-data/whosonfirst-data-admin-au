@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-34.928666,
     "lbl:longitude":138.645994,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-34.928666,
     "mps:longitude":138.645994,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Marryatville"
     ],
@@ -36,7 +39,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":559,
     "wof:belongsto":[
         85681519,
@@ -51,7 +54,7 @@
     "wof:concordances":{
         "gn:id":8348092,
         "gp:id":22721664,
-        "qs:id":1199639,
+        "qs_pg:id":1199639,
         "wd:id":"Q6773066",
         "wk:page":"Marryatville, South Australia"
     },
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":101936257,
-    "wof:lastmodified":1561827813,
+    "wof:lastmodified":1566601114,
     "wof:name":"Marryatville",
     "wof:parent_id":404545751,
     "wof:placetype":"locality",

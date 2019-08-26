@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-34.914947,
     "lbl:longitude":138.513085,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-34.914947,
     "mps:longitude":138.513085,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Fulham Gardens"
     ],
@@ -33,14 +36,14 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":478,
     "wof:belongsto":[
         85681519,
         102191583,
-        85632793,
-        404545333,
         1376953367,
+        404545333,
+        85632793,
         136253039,
         102049185
     ],
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":101936017,
-    "wof:lastmodified":1550754993,
+    "wof:lastmodified":1566601142,
     "wof:name":"Fulham Gardens",
     "wof:parent_id":404545333,
     "wof:placetype":"locality",

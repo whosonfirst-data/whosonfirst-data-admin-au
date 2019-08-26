@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-32.2822,
     "lbl:longitude":115.764226,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":-32.2822,
     "mps:longitude":115.764226,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Hillman"
     ],
@@ -43,7 +46,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":143,
     "wof:belongsto":[
@@ -60,7 +63,7 @@
         "fct:id":"034a21a8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":8349065,
         "gp:id":22722070,
-        "qs:id":40767,
+        "qs_pg:id":40767,
         "wd:id":"Q14935810",
         "wk:page":"Hillman, Western Australia"
     },
@@ -85,7 +88,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561827899,
+    "wof:lastmodified":1566601444,
     "wof:name":"Hillman",
     "wof:parent_id":404547441,
     "wof:placetype":"locality",

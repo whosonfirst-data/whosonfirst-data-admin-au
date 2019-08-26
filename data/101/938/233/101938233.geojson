@@ -13,6 +13,8 @@
     "iso:country":"AU",
     "lbl:latitude":-42.081748,
     "lbl:longitude":145.555082,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":-42.081748,
     "mps:longitude":145.555082,
     "mz:hierarchy_label":1,
@@ -171,7 +173,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-42.066667,
     "wd:longitude":145.55,
@@ -189,7 +191,6 @@
         "fct:id":"03344b30-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2152272,
         "gp:id":1105225,
-        "qs:id":6670,
         "qs_pg:id":6670,
         "wd:id":"Q1009718",
         "wk:page":"Queenstown, Tasmania"
@@ -214,7 +215,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1562899047,
+    "wof:lastmodified":1566601261,
     "wof:name":"Queenstown",
     "wof:parent_id":404549321,
     "wof:placetype":"locality",

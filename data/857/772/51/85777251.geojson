@@ -9,15 +9,16 @@
     "geom:bbox":"153.099022782,-27.2626063013,153.099022782,-27.2626063013",
     "geom:latitude":-27.262606,
     "geom:longitude":153.099023,
-    "gn:gn_country":"AU",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":3789,
+    "gn:country":"AU",
+    "gn:fcode":"PPL",
     "gn:latitude":-27.25608,
     "gn:longitude":153.10427,
     "gn:population":3789,
     "iso:country":"AU",
+    "lbl:bbox":"153.094022782,-27.2676063013,153.104022782,-27.2576063013",
     "lbl:latitude":-27.261331,
     "lbl:longitude":153.103002,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-27.268851,
     "mps:longitude":153.0983,
     "mz:hierarchy_label":0,
@@ -36,9 +37,6 @@
         "Woody Point"
     ],
     "name:swe_x_preferred":[
-        "Woody Point"
-    ],
-    "name:unk_x_variant":[
         "Woody Point"
     ],
     "qs:gn_adm0_cc":"AU",
@@ -90,9 +88,8 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "src:population":"geonames",
-    "wof:belongs_to":[],
     "wof:belongsto":[
         102191583,
         85632793,
@@ -102,7 +99,6 @@
     "wof:concordances":{
         "gn:id":7932688,
         "gp:id":22721521,
-        "qs:id":24091,
         "qs_pg:id":24091,
         "wd:id":"Q8033693",
         "wk:page":"Woody Point, Queensland"
@@ -123,7 +119,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1562895557,
+    "wof:lastmodified":1566600607,
     "wof:name":"Woody Point",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

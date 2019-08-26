@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-37.725183,
     "lbl:longitude":145.093264,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":-37.725183,
     "mps:longitude":145.093264,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Yallambie"
     ],
@@ -40,14 +43,14 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681497,
         102191583,
-        85632793,
-        404540879,
         1376953283,
+        404540879,
+        85632793,
         136253039,
         102049337
     ],
@@ -55,7 +58,7 @@
     "wof:concordances":{
         "gn:id":8349070,
         "gp:id":22721902,
-        "qs:id":205814,
+        "qs_pg:id":205814,
         "wd:id":"Q8047488",
         "wk:page":"Yallambie, Victoria"
     },
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":101933753,
-    "wof:lastmodified":1550754555,
+    "wof:lastmodified":1566601752,
     "wof:name":"Yallambie",
     "wof:parent_id":404540879,
     "wof:placetype":"locality",

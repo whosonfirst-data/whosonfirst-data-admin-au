@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-33.895338,
     "lbl:longitude":150.975425,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-33.895338,
     "mps:longitude":150.975425,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b2\u09be\u09a8\u09cd\u09b8\u09a6\u09cb\u09f1\u09a8\u09c7"
     ],
@@ -72,7 +75,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681545,
         102191583,
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":101930999,
-    "wof:lastmodified":1562899844,
+    "wof:lastmodified":1566601382,
     "wof:name":"Lansdowne",
     "wof:parent_id":404224423,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-32.779027,
     "lbl:longitude":151.597872,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-32.779027,
     "mps:longitude":151.597872,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ashtonfield"
     ],
@@ -36,14 +39,14 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":40,
     "wof:belongsto":[
         85681545,
         102191583,
-        85632793,
-        404221575,
         1376953349,
+        404221575,
+        85632793,
         136253039,
         102048483
     ],
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":101929425,
-    "wof:lastmodified":1550719442,
+    "wof:lastmodified":1566601810,
     "wof:name":"Ashtonfield",
     "wof:parent_id":404221575,
     "wof:placetype":"locality",

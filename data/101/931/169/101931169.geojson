@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-32.880784,
     "lbl:longitude":151.661697,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-32.880784,
     "mps:longitude":151.661697,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Maryland"
     ],
@@ -531,7 +534,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":45,
     "wof:belongsto":[
         85681545,
@@ -565,7 +568,7 @@
         }
     ],
     "wof:id":101931169,
-    "wof:lastmodified":1562898466,
+    "wof:lastmodified":1566601168,
     "wof:name":"Maryland",
     "wof:parent_id":404224763,
     "wof:placetype":"locality",

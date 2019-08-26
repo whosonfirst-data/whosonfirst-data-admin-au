@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-32.696477,
     "lbl:longitude":151.600465,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":-32.696477,
     "mps:longitude":151.600465,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Largs"
     ],
@@ -43,7 +46,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":96,
     "wof:belongsto":[
@@ -59,7 +62,7 @@
     "wof:concordances":{
         "gn:id":2160546,
         "gp:id":1096840,
-        "qs:id":5482,
+        "qs_pg:id":5482,
         "wd:id":"Q6489301",
         "wk:page":"Largs, New South Wales"
     },
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":101931007,
-    "wof:lastmodified":1561827828,
+    "wof:lastmodified":1566601182,
     "wof:name":"Largs",
     "wof:parent_id":404224435,
     "wof:placetype":"locality",

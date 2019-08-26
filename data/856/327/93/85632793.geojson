@@ -19,6 +19,8 @@
     ],
     "lbl:latitude":-23.992438,
     "lbl:longitude":134.050443,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":-23.992438,
     "mps:longitude":134.050443,
     "mz:hierarchy_label":1,
@@ -942,13 +944,6 @@
     "name:und_x_colloquial":[
         "Astralia"
     ],
-    "name:und_x_preferred":[
-        "Avstralija",
-        "\u00c1stral\u00eda"
-    ],
-    "name:unk_x_variant":[
-        "Commonwealth of Australia"
-    ],
     "name:urd_x_preferred":[
         "\u0622\u0633\u0679\u0631\u06cc\u0644\u06cc\u0627"
     ],
@@ -1119,7 +1114,7 @@
         "naturalearth"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "statoids:dial":"61",
     "statoids:ds":"AUS",
@@ -1165,7 +1160,7 @@
         "mzb:id":"australia",
         "ne:adm0_a3":"AUS",
         "nyt:id":"53962635511746733021",
-        "qs:id":1028438,
+        "qs_pg:id":1028438,
         "uncrt:id":"AUS",
         "wd:id":"Q408",
         "wk:page":"Australia",
@@ -1188,7 +1183,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1565644524,
+    "wof:lastmodified":1566600744,
     "wof:name":"Australia",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

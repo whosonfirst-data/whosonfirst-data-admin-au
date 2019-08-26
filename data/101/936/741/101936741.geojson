@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-35.326323,
     "lbl:longitude":139.376278,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":-35.326323,
     "mps:longitude":139.376278,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Wellington"
     ],
@@ -38,9 +41,6 @@
     "name:swe_x_preferred":[
         "Wellington"
     ],
-    "name:unk_x_variant":[
-        "Wellington West"
-    ],
     "name:zho_x_preferred":[
         "\u5a01\u9748\u9813"
     ],
@@ -58,7 +58,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-35.316667,
     "wd:longitude":139.383333,
@@ -76,7 +76,7 @@
         "fct:id":"0330da5e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2058702,
         "gp:id":28584948,
-        "qs:id":1178385,
+        "qs_pg:id":1178385,
         "wd:id":"Q7981307",
         "wk:page":"Wellington, South Australia"
     },
@@ -97,7 +97,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1562898151,
+    "wof:lastmodified":1566601128,
     "wof:name":"Wellington",
     "wof:parent_id":102048515,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-34.059625,
     "lbl:longitude":137.56976,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-34.059625,
     "mps:longitude":137.56976,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Moonta Bay"
     ],
@@ -25,7 +28,7 @@
     "name:nld_x_preferred":[
         "Moonta Bay"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Port Moonta"
     ],
     "qs:a0":"Australia",
@@ -42,7 +45,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":-34.05,
     "wd:longitude":137.567,
     "wd:wordcount":312,
@@ -58,7 +61,7 @@
     "wof:concordances":{
         "gn:id":2063034,
         "gp:id":28586657,
-        "qs:id":206900,
+        "qs_pg:id":206900,
         "wd:id":"Q6907999",
         "wk:page":"Moonta Bay, South Australia"
     },
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":101936299,
-    "wof:lastmodified":1561827822,
+    "wof:lastmodified":1566601151,
     "wof:name":"Moonta Bay",
     "wof:parent_id":404545837,
     "wof:placetype":"locality",

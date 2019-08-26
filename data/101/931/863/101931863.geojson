@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-33.848841,
     "lbl:longitude":150.938146,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-33.848841,
     "mps:longitude":150.938146,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Smithfield"
     ],
@@ -56,7 +59,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1147,
     "wof:belongsto":[
         85681545,
@@ -71,10 +74,12 @@
     "wof:concordances":{
         "gn:id":2149272,
         "gp:id":1098546,
-        "qs:id":206919,
-        "qs_pg:id":886308,
+        "qs_pg:id":206919,
         "wd:id":"Q7545483",
         "wk:page":"Smithfield, New South Wales"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":886308
     },
     "wof:coterminous":[
         404226119
@@ -94,7 +99,7 @@
         }
     ],
     "wof:id":101931863,
-    "wof:lastmodified":1562898813,
+    "wof:lastmodified":1566601224,
     "wof:name":"Smithfield",
     "wof:parent_id":404226119,
     "wof:placetype":"locality",

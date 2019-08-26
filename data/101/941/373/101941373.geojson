@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-42.836341,
     "lbl:longitude":147.444604,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":-42.836341,
     "mps:longitude":147.444604,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Cambridge"
     ],
@@ -347,7 +350,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681583,
@@ -363,7 +366,6 @@
         "fct:id":"0331520e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2172677,
         "gp:id":1094888,
-        "qs:id":1034190,
         "qs_pg:id":1034190,
         "wd:id":"Q1028267"
     },
@@ -385,7 +387,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1562900928,
+    "wof:lastmodified":1566601525,
     "wof:name":"Cambridge",
     "wof:parent_id":404548775,
     "wof:placetype":"locality",

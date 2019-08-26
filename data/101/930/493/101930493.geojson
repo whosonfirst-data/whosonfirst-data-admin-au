@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-33.834113,
     "lbl:longitude":151.009502,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-33.834113,
     "mps:longitude":151.009502,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:cat_x_preferred":[
         "Granville"
     ],
@@ -67,7 +70,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1800,
     "wof:belongsto":[
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":101930493,
-    "wof:lastmodified":1562900078,
+    "wof:lastmodified":1566601418,
     "wof:name":"Granville",
     "wof:parent_id":404223693,
     "wof:placetype":"locality",

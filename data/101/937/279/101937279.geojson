@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-31.944037,
     "lbl:longitude":116.003141,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-31.944037,
     "mps:longitude":116.003141,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0647\u0627\u06cc \u0648\u06cc\u06a9\u0627\u0645"
     ],
@@ -132,7 +135,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":51.621667,
     "wd:longitude":-0.751667,
     "wd:wordcount":5836,
@@ -149,7 +152,7 @@
     "wof:concordances":{
         "gn:id":8349067,
         "gp:id":7226095,
-        "qs:id":202462,
+        "qs_pg:id":202462,
         "wd:id":"Q5757456"
     },
     "wof:coterminous":[
@@ -170,7 +173,7 @@
         }
     ],
     "wof:id":101937279,
-    "wof:lastmodified":1562900528,
+    "wof:lastmodified":1566601473,
     "wof:name":"High Wycombe",
     "wof:parent_id":404547429,
     "wof:placetype":"locality",

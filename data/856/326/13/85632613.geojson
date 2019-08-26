@@ -13,6 +13,8 @@
     "iso:parent":"AU",
     "lbl:latitude":-12.273766,
     "lbl:longitude":122.968311,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":-12.273766,
     "mps:longitude":122.968311,
     "mz:hierarchy_label":1,
@@ -292,13 +294,7 @@
     "qs:source":"US State Department, with Natural Earth mods",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
-    "wof:belongs":[
-        102191583,
-        136253039,
-        85632793
-    ],
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191583,
         136253039
@@ -309,7 +305,7 @@
         "gn:id":2077507,
         "gp:id":23424749,
         "hasc:id":"AU.AS",
-        "qs:id":134662,
+        "qs_pg:id":134662,
         "wd:id":"Q133888"
     },
     "wof:controlled":[
@@ -326,7 +322,7 @@
         }
     ],
     "wof:id":85632613,
-    "wof:lastmodified":1562895749,
+    "wof:lastmodified":1566600750,
     "wof:name":"Ashmore and Cartier Is.",
     "wof:parent_id":136253039,
     "wof:placetype":"dependency",

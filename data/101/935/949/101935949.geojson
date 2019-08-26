@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-34.736143,
     "lbl:longitude":138.670444,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-34.736143,
     "mps:longitude":138.670444,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Elizabeth Grove"
     ],
@@ -33,14 +36,14 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":43,
     "wof:belongsto":[
         85681519,
         102191583,
-        85632793,
-        404545247,
         1376953367,
+        404545247,
+        85632793,
         136253039,
         102049603
     ],
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":101935949,
-    "wof:lastmodified":1550754978,
+    "wof:lastmodified":1566601671,
     "wof:name":"Elizabeth Grove",
     "wof:parent_id":404545247,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-34.989795,
     "lbl:longitude":138.604933,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":-34.989795,
     "mps:longitude":138.604933,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Clapham"
     ],
@@ -46,7 +49,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":179,
     "wof:belongsto":[
@@ -62,7 +65,7 @@
     "wof:concordances":{
         "gn:id":2078505,
         "gp:id":1095074,
-        "qs:id":979548,
+        "qs_pg:id":979548,
         "wd:id":"Q5125861",
         "wk:page":"Clapham, South Australia"
     },
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":101935855,
-    "wof:lastmodified":1562902300,
+    "wof:lastmodified":1566601690,
     "wof:name":"Clapham",
     "wof:parent_id":404545089,
     "wof:placetype":"locality",

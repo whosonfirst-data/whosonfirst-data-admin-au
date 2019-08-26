@@ -12,8 +12,10 @@
     "gn:latitude":-38.35983,
     "gn:longitude":145.20832,
     "iso:country":"AU",
+    "lbl:bbox":"145.215121832,-38.3486026626,145.225121832,-38.3386026626",
     "lbl:latitude":-38.343809,
     "lbl:longitude":145.220032,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-38.343574,
     "mps:longitude":145.220122,
     "mz:hierarchy_label":0,
@@ -59,9 +61,6 @@
     "name:swe_x_preferred":[
         "Stony Point"
     ],
-    "name:unk_x_variant":[
-        "Stony Point"
-    ],
     "name:vol_x_preferred":[
         "Stony Point"
     ],
@@ -93,14 +92,13 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mz",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2148170,
         "gp:id":1105706,
-        "qs:id":1159542
+        "qs_pg:id":1159542
     },
     "wof:country":"AU",
     "wof:geomhash":"e9a484138d5e4ed29cdffe0664863a05",
@@ -117,7 +115,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1562895565,
+    "wof:lastmodified":1566600608,
     "wof:name":"Stony Point",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

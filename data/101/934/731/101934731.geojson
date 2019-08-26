@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-27.677816,
     "lbl:longitude":153.13117,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-27.677816,
     "mps:longitude":153.13117,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Loganlea"
     ],
@@ -39,7 +42,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681463,
         102191583,
@@ -53,7 +56,7 @@
     "wof:concordances":{
         "gn:id":2159732,
         "gp:id":22739255,
-        "qs:id":1199701,
+        "qs_pg:id":1199701,
         "wd:id":"Q6667278",
         "wk:page":"Loganlea, Queensland"
     },
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":101934731,
-    "wof:lastmodified":1562902432,
+    "wof:lastmodified":1566601704,
     "wof:name":"Loganlea",
     "wof:parent_id":404542981,
     "wof:placetype":"locality",

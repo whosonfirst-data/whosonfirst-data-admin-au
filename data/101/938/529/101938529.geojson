@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-23.679965,
     "lbl:longitude":133.831124,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-23.679965,
     "mps:longitude":133.831124,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Larapinta"
     ],
@@ -33,14 +36,14 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":181,
     "wof:belongsto":[
         85681533,
         102191583,
-        85632793,
-        404549767,
         1376953387,
+        404549767,
+        85632793,
         136253039,
         102048753
     ],
@@ -49,7 +52,7 @@
         "fct:id":"034aee8a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":8347811,
         "gp:id":55864514,
-        "qs:id":56217,
+        "qs_pg:id":56217,
         "wd:id":"Q24189720"
     },
     "wof:coterminous":[
@@ -73,7 +76,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1550726303,
+    "wof:lastmodified":1566601267,
     "wof:name":"Larapinta",
     "wof:parent_id":404549767,
     "wof:placetype":"locality",

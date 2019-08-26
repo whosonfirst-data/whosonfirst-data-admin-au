@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-33.755866,
     "lbl:longitude":150.804988,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-33.755866,
     "mps:longitude":150.804988,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Whalan"
     ],
@@ -42,7 +45,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":14,
     "wof:belongsto":[
         85681545,
@@ -57,7 +60,7 @@
     "wof:concordances":{
         "gn:id":8347978,
         "gp:id":22721420,
-        "qs:id":887014,
+        "qs_pg:id":887014,
         "wd:id":"Q12743876"
     },
     "wof:coterminous":[
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":101932331,
-    "wof:lastmodified":1561827946,
+    "wof:lastmodified":1566601590,
     "wof:name":"Whalan",
     "wof:parent_id":404227021,
     "wof:placetype":"locality",

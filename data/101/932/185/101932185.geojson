@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-30.594783,
     "lbl:longitude":153.009509,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-30.594783,
     "mps:longitude":153.009509,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Valla Beach"
     ],
@@ -26,9 +29,6 @@
         "Valla"
     ],
     "name:nld_x_preferred":[
-        "Valla"
-    ],
-    "name:unk_x_variant":[
         "Valla"
     ],
     "qs:a0":"Australia",
@@ -47,7 +47,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":-30.6,
     "wd:longitude":152.983333,
     "wd:wordcount":278,
@@ -63,10 +63,12 @@
     "wof:concordances":{
         "gn:id":2145338,
         "gp:id":1099168,
-        "qs:id":25927,
-        "qs_pg:id":1109569,
+        "qs_pg:id":25927,
         "wd:id":"Q2527414",
         "wk:page":"Valla, New South Wales"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1109569
     },
     "wof:coterminous":[
         404226749
@@ -85,7 +87,7 @@
         }
     ],
     "wof:id":101932185,
-    "wof:lastmodified":1562901903,
+    "wof:lastmodified":1566601649,
     "wof:name":"Valla Beach",
     "wof:parent_id":404226749,
     "wof:placetype":"locality",

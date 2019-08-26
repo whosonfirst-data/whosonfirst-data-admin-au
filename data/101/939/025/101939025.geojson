@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-41.345191,
     "lbl:longitude":148.26985,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":-41.345191,
     "mps:longitude":148.26985,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "St Helens"
     ],
@@ -73,9 +76,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85681583,
         102191583,
@@ -89,7 +91,6 @@
         "fct:id":"0332bcac-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2150679,
         "gp:id":1098630,
-        "qs:id":1277693,
         "qs_pg:id":1277693,
         "wd:id":"Q1579722",
         "wk:page":"St Helens, Tasmania"
@@ -111,7 +112,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1562899449,
+    "wof:lastmodified":1566601323,
     "wof:name":"St Helens",
     "wof:parent_id":404549457,
     "wof:placetype":"locality",

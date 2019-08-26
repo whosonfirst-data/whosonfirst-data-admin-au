@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-37.770374,
     "lbl:longitude":144.766901,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-37.770374,
     "mps:longitude":144.766901,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bul_x_preferred":[
         "\u0414\u0438\u044a\u0440 \u041f\u0430\u0440\u043a"
     ],
@@ -85,7 +88,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":260,
     "wof:belongsto":[
@@ -101,7 +104,7 @@
     "wof:concordances":{
         "gn:id":2169145,
         "gp:id":1095432,
-        "qs:id":193039,
+        "qs_pg:id":193039,
         "wd:id":"Q5250802"
     },
     "wof:coterminous":[
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":101932833,
-    "wof:lastmodified":1562901569,
+    "wof:lastmodified":1566601613,
     "wof:name":"Deer Park",
     "wof:parent_id":404538339,
     "wof:placetype":"locality",

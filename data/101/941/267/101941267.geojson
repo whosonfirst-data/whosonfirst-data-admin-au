@@ -13,6 +13,8 @@
     "iso:country":"AU",
     "lbl:latitude":-33.690071,
     "lbl:longitude":117.557564,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":-33.690071,
     "mps:longitude":117.557564,
     "mz:hierarchy_label":1,
@@ -161,7 +163,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-33.6908,
     "wd:longitude":117.555,
@@ -179,10 +181,12 @@
         "fct:id":"03304da0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2068661,
         "gp:id":1103005,
-        "qs:id":138087,
-        "qs_pg:id":1110433,
+        "qs_pg:id":138087,
         "wd:id":"Q984146",
         "wk:page":"Katanning, Western Australia"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1110433
     },
     "wof:country":"AU",
     "wof:geomhash":"327d1a87da82697097ed144aa6f05180",
@@ -201,7 +205,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1562900780,
+    "wof:lastmodified":1566601506,
     "wof:name":"Katanning",
     "wof:parent_id":404547559,
     "wof:placetype":"locality",

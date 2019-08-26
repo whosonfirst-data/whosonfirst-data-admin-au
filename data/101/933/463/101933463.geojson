@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-37.877814,
     "lbl:longitude":144.995621,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-37.877814,
     "mps:longitude":144.995621,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ripponlea"
     ],
@@ -39,7 +42,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":211,
     "wof:belongsto":[
         85681497,
@@ -54,7 +57,7 @@
     "wof:concordances":{
         "gn:id":8349322,
         "gp:id":22739342,
-        "qs:id":1112255,
+        "qs_pg:id":1112255,
         "wd:id":"Q7335744"
     },
     "wof:coterminous":[
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":101933463,
-    "wof:lastmodified":1562902982,
+    "wof:lastmodified":1566601764,
     "wof:name":"Ripponlea",
     "wof:parent_id":404540053,
     "wof:placetype":"locality",

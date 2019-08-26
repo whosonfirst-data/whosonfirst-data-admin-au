@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-33.928813,
     "lbl:longitude":150.806319,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-33.928813,
     "mps:longitude":150.806319,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Austral"
     ],
@@ -54,7 +57,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":503,
     "wof:belongsto":[
         85681545,
@@ -69,7 +72,7 @@
     "wof:concordances":{
         "gn:id":8348419,
         "gp:id":22721271,
-        "qs:id":1070855,
+        "qs_pg:id":1070855,
         "wd:id":"Q4823377",
         "wk:page":"Austral, New South Wales"
     },
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":101929433,
-    "wof:lastmodified":1562903582,
+    "wof:lastmodified":1566601831,
     "wof:name":"Austral",
     "wof:parent_id":404221587,
     "wof:placetype":"locality",

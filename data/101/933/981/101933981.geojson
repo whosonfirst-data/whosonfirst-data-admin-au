@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-27.344706,
     "lbl:longitude":153.070093,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-27.347844,
     "mps:longitude":153.068298,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Boondall"
     ],
@@ -24,9 +27,6 @@
     ],
     "name:fra_x_preferred":[
         "Boondall"
-    ],
-    "name:unk_x_variant":[
-        "Crab Tree Station"
     ],
     "name:zho_x_preferred":[
         "\u672c\u591a\u5340"
@@ -45,7 +45,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":521,
     "wof:belongsto":[
         85681463,
@@ -85,7 +85,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561828011,
+    "wof:lastmodified":1566601801,
     "wof:name":"Boondall",
     "wof:parent_id":404541359,
     "wof:placetype":"locality",

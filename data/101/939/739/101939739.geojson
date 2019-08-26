@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-36.419993,
     "lbl:longitude":148.619228,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":-36.419993,
     "mps:longitude":148.619228,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Jindabyne"
     ],
@@ -53,9 +56,6 @@
     "name:swe_x_preferred":[
         "Jindabyne"
     ],
-    "name:unk_x_variant":[
-        "Jinderboine"
-    ],
     "name:zho_x_preferred":[
         "\u91d1\u5fb7\u62dc\u6069"
     ],
@@ -74,7 +74,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-36.4,
     "wd:longitude":148.616667,
@@ -92,7 +92,6 @@
         "fct:id":"03304850-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2162255,
         "gp:id":1102854,
-        "qs:id":918948,
         "qs_pg:id":918948,
         "wd:id":"Q1020373",
         "wk:page":"Jindabyne, New South Wales"
@@ -114,7 +113,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1562899372,
+    "wof:lastmodified":1566601311,
     "wof:name":"Jindabyne",
     "wof:parent_id":404224089,
     "wof:placetype":"locality",

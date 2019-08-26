@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-27.292496,
     "lbl:longitude":152.964653,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-27.292496,
     "mps:longitude":152.964653,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bray Park"
     ],
@@ -36,7 +39,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":235,
     "wof:belongsto":[
         85681463,
@@ -51,7 +54,7 @@
     "wof:concordances":{
         "gn:id":8349226,
         "gp:id":7225414,
-        "qs:id":202374,
+        "qs_pg:id":202374,
         "wd:id":"Q4958524",
         "wk:page":"Bray Park, Queensland"
     },
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":101934007,
-    "wof:lastmodified":1561827982,
+    "wof:lastmodified":1566601712,
     "wof:name":"Bray Park",
     "wof:parent_id":404541415,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-26.686814,
     "lbl:longitude":153.061843,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-26.686814,
     "mps:longitude":153.061843,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:cat_x_preferred":[
         "Buderim"
     ],
@@ -72,7 +75,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-26.685,
     "wd:longitude":153.053,
@@ -90,7 +93,6 @@
     "wof:concordances":{
         "gn:id":2173605,
         "gp:id":1094738,
-        "qs:id":218407,
         "qs_pg:id":218407,
         "wd:id":"Q4984998",
         "wk:page":"Buderim"
@@ -113,7 +115,7 @@
         }
     ],
     "wof:id":101934037,
-    "wof:lastmodified":1562902540,
+    "wof:lastmodified":1566601715,
     "wof:name":"Buderim",
     "wof:parent_id":404541473,
     "wof:placetype":"locality",

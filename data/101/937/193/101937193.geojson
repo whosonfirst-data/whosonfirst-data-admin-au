@@ -13,6 +13,8 @@
     "iso:country":"AU",
     "lbl:latitude":-28.778088,
     "lbl:longitude":114.61619,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-28.778088,
     "mps:longitude":114.61619,
     "mz:hierarchy_label":1,
@@ -297,7 +299,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-28.779167,
     "wd:longitude":114.614444,
@@ -315,7 +317,6 @@
         "fct:id":"033eafa8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2070998,
         "gp:id":1102185,
-        "qs:id":6328,
         "qs_pg:id":6328,
         "wd:id":"Q605267",
         "wk:page":"Geraldton"
@@ -340,7 +341,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1562900226,
+    "wof:lastmodified":1566601438,
     "wof:name":"Geraldton",
     "wof:parent_id":404547307,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-33.944809,
     "lbl:longitude":151.245905,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-33.944809,
     "mps:longitude":151.245905,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ceb_x_preferred":[
         "Maroubra"
     ],
@@ -67,7 +70,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681545,
@@ -82,7 +85,7 @@
     "wof:concordances":{
         "gn:id":2158651,
         "gp:id":1097132,
-        "qs:id":183104,
+        "qs_pg:id":183104,
         "wd:id":"Q2914843"
     },
     "wof:coterminous":[
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":101931157,
-    "wof:lastmodified":1562898421,
+    "wof:lastmodified":1566601162,
     "wof:name":"Maroubra",
     "wof:parent_id":404224737,
     "wof:placetype":"locality",

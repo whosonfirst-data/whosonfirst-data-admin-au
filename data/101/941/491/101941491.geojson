@@ -12,6 +12,8 @@
     "iso:country":"AU",
     "lbl:latitude":-13.821363,
     "lbl:longitude":131.823701,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-13.821363,
     "mps:longitude":131.823701,
     "mz:hierarchy_label":1,
@@ -55,9 +57,6 @@
     ],
     "name:spa_x_preferred":[
         "Pine Creek"
-    ],
-    "name:unk_x_variant":[
-        "Playford"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Australia",
@@ -166,7 +165,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":-13.8231,
     "wd:longitude":131.833,
     "wd:wordcount":1000,
@@ -204,7 +203,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561827920,
+    "wof:lastmodified":1566601508,
     "wof:name":"Pine Creek",
     "wof:parent_id":404549839,
     "wof:placetype":"locality",

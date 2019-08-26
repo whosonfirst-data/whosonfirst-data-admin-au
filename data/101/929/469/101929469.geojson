@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-28.221393,
     "lbl:longitude":153.535909,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-28.221393,
     "mps:longitude":153.535909,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ceb_x_preferred":[
         "Banora Point"
     ],
@@ -49,7 +52,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":149,
     "wof:belongsto":[
@@ -64,7 +67,7 @@
     "wof:concordances":{
         "gn:id":2176934,
         "gp:id":28588286,
-        "qs:id":273363,
+        "qs_pg:id":273363,
         "wd:id":"Q4857032",
         "wk:page":"Banora Point"
     },
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":101929469,
-    "wof:lastmodified":1562903569,
+    "wof:lastmodified":1566601830,
     "wof:name":"Banora Point",
     "wof:parent_id":404221663,
     "wof:placetype":"locality",

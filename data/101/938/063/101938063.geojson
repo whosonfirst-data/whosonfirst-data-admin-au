@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-42.83439,
     "lbl:longitude":147.294763,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-42.83439,
     "mps:longitude":147.294763,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Derwent Park"
     ],
@@ -39,7 +42,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":59,
     "wof:belongsto":[
         85681583,
@@ -53,7 +56,7 @@
     "wof:concordances":{
         "gn:id":8349127,
         "gp:id":22739308,
-        "qs:id":335316,
+        "qs_pg:id":335316,
         "wd:id":"Q5263341",
         "wk:page":"Derwent Park, Tasmania"
     },
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":101938063,
-    "wof:lastmodified":1562899029,
+    "wof:lastmodified":1566601259,
     "wof:name":"Derwent Park",
     "wof:parent_id":404548849,
     "wof:placetype":"locality",

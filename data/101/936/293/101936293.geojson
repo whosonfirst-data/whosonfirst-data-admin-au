@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-34.823269,
     "lbl:longitude":138.68109,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-34.823269,
     "mps:longitude":138.68109,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Modbury North"
     ],
@@ -33,14 +36,14 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":116,
     "wof:belongsto":[
         85681519,
         102191583,
-        85632793,
-        404545823,
         1376953367,
+        404545823,
+        85632793,
         136253039,
         102049359
     ],
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":101936293,
-    "wof:lastmodified":1550724235,
+    "wof:lastmodified":1566601118,
     "wof:name":"Modbury North",
     "wof:parent_id":404545823,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-27.391767,
     "lbl:longitude":153.062728,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-27.393042,
     "mps:longitude":153.074936,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Northgate"
     ],
@@ -28,9 +31,6 @@
     ],
     "name:jpn_x_preferred":[
         "\u30ce\u30fc\u30b9\u30b2\u30a4\u30c8"
-    ],
-    "name:unk_x_variant":[
-        "North Gate Junction"
     ],
     "qs:a0":"Australia",
     "qs:a1":"*Queensland",
@@ -46,7 +46,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":590,
     "wof:belongsto":[
         85681463,
@@ -81,7 +81,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1562902291,
+    "wof:lastmodified":1566601689,
     "wof:name":"Northgate",
     "wof:parent_id":102049495,
     "wof:placetype":"locality",

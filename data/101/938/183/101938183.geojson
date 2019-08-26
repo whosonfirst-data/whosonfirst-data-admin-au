@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-42.862905,
     "lbl:longitude":147.398503,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-42.862905,
     "mps:longitude":147.398503,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mornington"
     ],
@@ -36,7 +39,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":125,
     "wof:belongsto":[
         85681583,
@@ -51,7 +54,7 @@
     "wof:concordances":{
         "gn:id":8349284,
         "gp:id":22739328,
-        "qs:id":335284,
+        "qs_pg:id":335284,
         "wd:id":"Q6913014",
         "wk:page":"Mornington, Tasmania"
     },
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":101938183,
-    "wof:lastmodified":1561827862,
+    "wof:lastmodified":1566601304,
     "wof:name":"Mornington",
     "wof:parent_id":404549189,
     "wof:placetype":"locality",

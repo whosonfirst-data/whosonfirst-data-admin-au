@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-37.527422,
     "lbl:longitude":145.350469,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-37.527422,
     "mps:longitude":145.350469,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Kinglake"
     ],
@@ -49,9 +52,6 @@
     "name:swe_x_preferred":[
         "Kinglake"
     ],
-    "name:unk_x_variant":[
-        "Kings Lake East"
-    ],
     "name:wuu_x_preferred":[
         "\u56fd\u738b\u6e56"
     ],
@@ -71,7 +71,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1104,
     "wof:belongsto":[
         85681497,
@@ -86,7 +86,6 @@
         "fct:id":"03320014-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2161354,
         "gp:id":1096636,
-        "qs:id":1269054,
         "qs_pg:id":1269054,
         "wd:id":"Q968998"
     },
@@ -107,7 +106,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1562899352,
+    "wof:lastmodified":1566601308,
     "wof:name":"Kinglake",
     "wof:parent_id":404539089,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-33.962439,
     "lbl:longitude":151.056043,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":-33.962439,
     "mps:longitude":151.056043,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Peakhurst"
     ],
@@ -55,7 +58,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":812,
     "wof:belongsto":[
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":101931559,
-    "wof:lastmodified":1562898432,
+    "wof:lastmodified":1566601164,
     "wof:name":"Peakhurst",
     "wof:parent_id":404225587,
     "wof:placetype":"locality",

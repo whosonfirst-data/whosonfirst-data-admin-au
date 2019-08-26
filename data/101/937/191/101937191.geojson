@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-33.640142,
     "lbl:longitude":115.383577,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-33.640142,
     "mps:longitude":115.383577,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Geographe"
     ],
@@ -41,13 +44,13 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681439,
         102191583,
-        85632793,
-        404547305,
         1376953311,
+        404547305,
+        85632793,
         136253039,
         102048623
     ],
@@ -56,7 +59,6 @@
         "fct:id":"0335dc8e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":8348357,
         "gp:id":28585157,
-        "qs:id":1205538,
         "qs_pg:id":1205538,
         "woe:id":28585157
     },
@@ -81,7 +83,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1550755211,
+    "wof:lastmodified":1566601466,
     "wof:name":"Geographe",
     "wof:parent_id":404547305,
     "wof:placetype":"locality",

@@ -13,6 +13,8 @@
     "iso:country":"AU",
     "lbl:latitude":-33.417961,
     "lbl:longitude":149.576458,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-33.417961,
     "mps:longitude":149.576458,
     "mz:hierarchy_label":1,
@@ -303,7 +305,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-33.42,
     "wd:longitude":149.577778,
@@ -321,7 +323,6 @@
         "fct:id":"033e9bb2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2176632,
         "gp:id":1100182,
-        "qs:id":460795,
         "qs_pg:id":460795,
         "wd:id":"Q704978",
         "wk:page":"Bathurst, New South Wales"
@@ -346,7 +347,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1562903499,
+    "wof:lastmodified":1566601821,
     "wof:name":"Bathurst",
     "wof:parent_id":404221723,
     "wof:placetype":"locality",

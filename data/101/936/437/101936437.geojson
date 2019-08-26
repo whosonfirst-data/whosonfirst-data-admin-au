@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-35.001811,
     "lbl:longitude":138.588737,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-35.001811,
     "mps:longitude":138.588737,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Pasadena"
     ],
@@ -36,7 +39,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":186,
     "wof:belongsto":[
         85681519,
@@ -51,7 +54,7 @@
     "wof:concordances":{
         "gn:id":8348361,
         "gp:id":22721705,
-        "qs:id":24128,
+        "qs_pg:id":24128,
         "wd:id":"Q7141523",
         "wk:page":"Pasadena, South Australia"
     },
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":101936437,
-    "wof:lastmodified":1561827813,
+    "wof:lastmodified":1566601115,
     "wof:name":"Pasadena",
     "wof:parent_id":404546071,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-28.752345,
     "lbl:longitude":114.644086,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-28.752345,
     "mps:longitude":114.644086,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Strathalbyn"
     ],
@@ -36,7 +39,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":293,
     "wof:belongsto":[
         85681439,
@@ -50,7 +53,7 @@
     "wof:concordances":{
         "gn:id":8347704,
         "gp:id":28587390,
-        "qs:id":64906,
+        "qs_pg:id":64906,
         "wd:id":"Q7622019",
         "wk:page":"Strathalbyn, Western Australia"
     },
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":101937823,
-    "wof:lastmodified":1561827909,
+    "wof:lastmodified":1566601474,
     "wof:name":"Strathalbyn",
     "wof:parent_id":404548349,
     "wof:placetype":"locality",

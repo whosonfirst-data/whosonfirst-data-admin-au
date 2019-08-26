@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-36.42321,
     "lbl:longitude":150.061113,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":-36.42321,
     "mps:longitude":150.061113,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Bermagui"
     ],
@@ -38,9 +41,6 @@
     "name:swe_x_preferred":[
         "Bermagui"
     ],
-    "name:unk_x_variant":[
-        "Bermaguee"
-    ],
     "name:zho_x_preferred":[
         "\u4f2f\u99ac\u5409"
     ],
@@ -59,7 +59,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-36.416667,
     "wd:longitude":150.066667,
@@ -77,7 +77,6 @@
         "fct:id":"033dd3c6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2176087,
         "gp:id":1100296,
-        "qs:id":138896,
         "qs_pg:id":138896,
         "wd:id":"Q2492122",
         "wk:page":"Bermagui, New South Wales"
@@ -99,7 +98,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1562899518,
+    "wof:lastmodified":1566601333,
     "wof:name":"Bermagui",
     "wof:parent_id":404221845,
     "wof:placetype":"locality",

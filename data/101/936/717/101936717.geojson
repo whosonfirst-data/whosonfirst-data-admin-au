@@ -13,6 +13,8 @@
     "iso:country":"AU",
     "lbl:latitude":-35.550015,
     "lbl:longitude":138.612357,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-35.550015,
     "mps:longitude":138.612357,
     "mz:hierarchy_label":1,
@@ -277,7 +279,7 @@
         "Victor Harbor"
     ],
     "name:tam_x_preferred":[
-        "\u0bb5\u0bbf\u0b95\u0bcd\u0b9f\u0bcb\u0bb0\u0bcd  \u0bb9\u0bb0\u0bcd\u0baa\u0bcb\u0bb0\u0bcd"
+        "\u0bb5\u0bbf\u0b95\u0bcd\u0b9f\u0bcb\u0bb0\u0bcd \u0bb9\u0bb0\u0bcd\u0baa\u0bcb\u0bb0\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c35\u0c3f\u0c15\u0c4d\u0c1f\u0c30\u0c4d \u0c39\u0c3e\u0c30\u0c4d\u0c2c\u0c30\u0c4d"
@@ -290,9 +292,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0412\u0456\u043a\u0442\u043e\u0440-\u0413\u0430\u0440\u0431\u043e\u0440"
-    ],
-    "name:unk_x_variant":[
-        "Victor Harbour"
     ],
     "name:urd_x_preferred":[
         "\u0648\u06a9\u0679\u0631 \u06c1\u0627\u0631\u0628\u0631\u060c \u062c\u0646\u0648\u0628\u06cc \u0622\u0633\u0679\u0631\u06cc\u0644\u06cc\u0627"
@@ -438,7 +437,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-35.55,
     "wd:longitude":138.616667,
@@ -457,10 +456,12 @@
         "fct:id":"033ea9b8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2059470,
         "gp:id":1106302,
-        "qs:id":137889,
-        "qs_pg:id":1110705,
+        "qs_pg:id":137889,
         "wd:id":"Q1015796",
         "wk:page":"Victor Harbor, South Australia"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1110705
     },
     "wof:coterminous":[
         404546485
@@ -483,7 +484,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1562898359,
+    "wof:lastmodified":1566601154,
     "wof:name":"Victor Harbor",
     "wof:parent_id":404546485,
     "wof:placetype":"locality",

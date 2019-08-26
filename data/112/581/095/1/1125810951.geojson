@@ -9,12 +9,16 @@
     "geom:bbox":"152.895054,-26.73967,152.895054,-26.73967",
     "geom:latitude":-26.73967,
     "geom:longitude":152.895054,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"AU",
+    "lbl:bbox":"152.875054,-26.75967,152.915054,-26.71967",
     "lbl:latitude":-26.73967,
     "lbl:longitude":152.895054,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Balmoral Ridge"
@@ -37,7 +41,7 @@
     "qs_pg:woe_adm0":23424748,
     "qs_pg:woe_id":28644899,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Queensland",
@@ -45,9 +49,9 @@
     "wof:belongsto":[
         85681463,
         102191583,
-        85632793,
-        404541133,
         1376953259,
+        404541133,
+        85632793,
         136253039,
         102049303
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1125810951,
-    "wof:lastmodified":1550741499,
+    "wof:lastmodified":1566603320,
     "wof:name":"Balmoral Ridge",
     "wof:parent_id":404541133,
     "wof:placetype":"locality",

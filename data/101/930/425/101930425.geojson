@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-33.971601,
     "lbl:longitude":150.893919,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-33.971601,
     "mps:longitude":150.893919,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Glenfield"
     ],
@@ -49,7 +52,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":790,
     "wof:belongsto":[
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":101930425,
-    "wof:lastmodified":1562899862,
+    "wof:lastmodified":1566601385,
     "wof:name":"Glenfield",
     "wof:parent_id":404223593,
     "wof:placetype":"locality",

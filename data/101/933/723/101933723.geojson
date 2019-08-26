@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-36.125888,
     "lbl:longitude":146.851067,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-36.125888,
     "mps:longitude":146.851067,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "West Wodonga"
     ],
@@ -33,13 +36,13 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681497,
         102191583,
-        85632793,
-        404540749,
         1376968051,
+        404540749,
+        85632793,
         136253039,
         102049665
     ],
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":101933723,
-    "wof:lastmodified":1550754548,
+    "wof:lastmodified":1566601774,
     "wof:name":"West Wodonga",
     "wof:parent_id":404540749,
     "wof:placetype":"locality",

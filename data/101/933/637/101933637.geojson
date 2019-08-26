@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-37.835082,
     "lbl:longitude":148.096856,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-37.835082,
     "mps:longitude":148.096856,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Toorloo Arm"
     ],
@@ -37,9 +40,6 @@
     "name:pol_x_preferred":[
         "Nowa Nowa"
     ],
-    "name:unk_x_variant":[
-        "Nowa Nowa"
-    ],
     "qs:a0":"Australia",
     "qs:a1":"*Victoria",
     "qs:a1_lc":"2",
@@ -56,7 +56,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":-37.716667,
     "wd:longitude":148.1,
     "wd:wordcount":261,
@@ -92,7 +92,7 @@
         }
     ],
     "wof:id":101933637,
-    "wof:lastmodified":1562903226,
+    "wof:lastmodified":1566601791,
     "wof:name":"Toorloo Arm",
     "wof:parent_id":404540517,
     "wof:placetype":"locality",

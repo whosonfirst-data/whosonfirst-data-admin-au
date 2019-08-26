@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-20.734444,
     "lbl:longitude":139.495968,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-20.734444,
     "mps:longitude":139.495968,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mornington"
     ],
@@ -54,7 +57,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":177,
     "wof:belongsto":[
         85681463,
@@ -69,7 +72,7 @@
         "fct:id":"034a6afa-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":8348252,
         "gp:id":28586265,
-        "qs:id":281103,
+        "qs_pg:id":281103,
         "wd:id":"Q3696510"
     },
     "wof:coterminous":[
@@ -92,7 +95,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1562902461,
+    "wof:lastmodified":1566601707,
     "wof:name":"Mornington",
     "wof:parent_id":404543269,
     "wof:placetype":"locality",

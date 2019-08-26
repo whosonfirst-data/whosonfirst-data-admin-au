@@ -13,6 +13,8 @@
     "iso:country":"AU",
     "lbl:latitude":-32.126438,
     "lbl:longitude":133.680556,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":-32.126438,
     "mps:longitude":133.680556,
     "mz:hierarchy_label":1,
@@ -167,7 +169,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-32.133333,
     "wd:longitude":133.683333,
@@ -185,7 +187,6 @@
         "fct:id":"032ffda0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2074685,
         "gp:id":1101091,
-        "qs:id":918872,
         "qs_pg:id":918872,
         "wd:id":"Q200777",
         "wk:page":"Ceduna, South Australia"
@@ -207,7 +208,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1562900747,
+    "wof:lastmodified":1566601502,
     "wof:name":"Ceduna",
     "wof:parent_id":404545069,
     "wof:placetype":"locality",

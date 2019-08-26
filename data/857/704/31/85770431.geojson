@@ -13,6 +13,7 @@
     "iso:country":"AU",
     "lbl:latitude":-33.080192,
     "lbl:longitude":151.656126,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-33.077632,
     "mps:longitude":151.647571,
     "mz:hierarchy_label":0,
@@ -52,9 +53,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0432\u0430\u043b\u044c"
     ],
-    "name:unk_x_variant":[
-        "The Blacksmith"
-    ],
     "qs:gn_adm0_cc":"AU",
     "qs:gn_fcode":"PPL",
     "qs:gn_local":2155472,
@@ -84,7 +82,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":262,
     "wof:belongsto":[
         102191583,
@@ -100,9 +98,11 @@
     "wof:concordances":{
         "gn:id":2146964,
         "gp:id":28584118,
-        "qs:id":1109441,
         "qs_pg:id":1103897,
         "wd:id":"Q3281810"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1109441
     },
     "wof:country":"AU",
     "wof:geomhash":"72d14895bf49758f004c17137eb1cbb6",
@@ -123,7 +123,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1562895413,
+    "wof:lastmodified":1566600565,
     "wof:name":"The Blacksmith",
     "wof:parent_id":101929595,
     "wof:placetype":"neighbourhood",

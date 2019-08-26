@@ -9,14 +9,16 @@
     "geom:bbox":"149.047953648,-35.1763602114,149.047953648,-35.1763602114",
     "geom:latitude":-35.17636,
     "geom:longitude":149.047954,
-    "gn:gn_country":"AU",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"AU",
+    "gn:fcode":"PPLX",
     "gn:latitude":-35.1917,
     "gn:longitude":149.04534,
+    "gn:population":0,
     "iso:country":"AU",
+    "lbl:bbox":"149.042953648,-35.1813602114,149.052953648,-35.1713602114",
     "lbl:latitude":-35.170608,
     "lbl:longitude":149.049265,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-35.170608,
     "mps:longitude":149.049265,
     "mz:hierarchy_label":0,
@@ -35,9 +37,6 @@
         "Fraser"
     ],
     "name:hun_x_preferred":[
-        "Fraser"
-    ],
-    "name:unk_x_variant":[
         "Fraser"
     ],
     "qs:gn_adm0_cc":"AU",
@@ -88,7 +87,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681493,
         102191583,
@@ -99,7 +98,6 @@
     "wof:concordances":{
         "gn:id":8348647,
         "gp:id":7225320,
-        "qs:id":22499,
         "qs_pg:id":22499,
         "wd:id":"Q1003684",
         "wk:page":"Fraser, Australian Capital Territory"
@@ -117,7 +115,7 @@
         }
     ],
     "wof:id":85773553,
-    "wof:lastmodified":1562895400,
+    "wof:lastmodified":1566600561,
     "wof:name":"Fraser",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

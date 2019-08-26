@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-27.660565,
     "lbl:longitude":152.879184,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-27.660565,
     "mps:longitude":152.879184,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Augustine Heights"
     ],
@@ -33,14 +36,14 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":93,
     "wof:belongsto":[
         85681463,
         102191583,
-        85632793,
-        404541087,
         1376953397,
+        404541087,
+        85632793,
         136253039,
         102048583
     ],
@@ -49,7 +52,7 @@
         "fct:id":"0337b3ec-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":8348298,
         "gp:id":22739264,
-        "qs:id":335277,
+        "qs_pg:id":335277,
         "wd:id":"Q4821179",
         "wk:page":"Augustine Heights, Queensland"
     },
@@ -74,7 +77,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1550754567,
+    "wof:lastmodified":1566601782,
     "wof:name":"Augustine Heights",
     "wof:parent_id":404541087,
     "wof:placetype":"locality",

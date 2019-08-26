@@ -13,6 +13,8 @@
     "iso:country":"AU",
     "lbl:latitude":-23.363409,
     "lbl:longitude":119.739671,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-23.363409,
     "mps:longitude":119.739671,
     "mz:hierarchy_label":1,
@@ -60,9 +62,6 @@
     ],
     "name:swe_x_preferred":[
         "Newman"
-    ],
-    "name:unk_x_variant":[
-        "Mount Newman"
     ],
     "name:urd_x_preferred":[
         "\u0646\u06cc\u0648\u0645\u06cc\u0646\u060c \u0645\u063a\u0631\u0628\u06cc \u0622\u0633\u0679\u0631\u06cc\u0644\u06cc\u0627"
@@ -177,7 +176,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-23.3539,
     "wd:longitude":119.732,
@@ -195,10 +194,12 @@
         "fct:id":"03343050-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2064768,
         "gp:id":1104595,
-        "qs:id":274156,
         "qs_pg:id":20439,
         "wd:id":"Q651074",
         "wk:page":"Newman, Western Australia"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":274156
     },
     "wof:country":"AU",
     "wof:geomhash":"aa1362d8ebe60c504540a37fd198c696",
@@ -217,7 +218,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1562900916,
+    "wof:lastmodified":1566601524,
     "wof:name":"Newman",
     "wof:parent_id":404547979,
     "wof:placetype":"locality",

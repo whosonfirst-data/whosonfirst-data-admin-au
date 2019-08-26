@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-32.906547,
     "lbl:longitude":151.751633,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":-32.906547,
     "mps:longitude":151.751633,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Tighes Hill"
     ],
@@ -46,7 +49,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":324,
     "wof:belongsto":[
@@ -63,7 +66,7 @@
         "fct:id":"0349d662-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":8347729,
         "gp:id":22721457,
-        "qs:id":906071,
+        "qs_pg:id":906071,
         "wd:id":"Q14935021",
         "wk:page":"Tighes Hill, New South Wales"
     },
@@ -88,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1562901412,
+    "wof:lastmodified":1566601590,
     "wof:name":"Tighes Hill",
     "wof:parent_id":404226551,
     "wof:placetype":"locality",

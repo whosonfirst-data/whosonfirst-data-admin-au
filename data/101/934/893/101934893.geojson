@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-20.097891,
     "lbl:longitude":146.261604,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-20.097891,
     "mps:longitude":146.261604,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mosman Park"
     ],
@@ -33,7 +36,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":733,
     "wof:belongsto":[
         85681463,
@@ -47,7 +50,7 @@
     "wof:concordances":{
         "gn:id":8348289,
         "gp:id":28645231,
-        "qs:id":989042,
+        "qs_pg:id":989042,
         "wd:id":"Q24896339"
     },
     "wof:coterminous":[
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":101934893,
-    "wof:lastmodified":1550719764,
+    "wof:lastmodified":1566601714,
     "wof:name":"Mosman Park",
     "wof:parent_id":404543275,
     "wof:placetype":"locality",

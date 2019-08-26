@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-41.197261,
     "lbl:longitude":146.328105,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-41.197261,
     "mps:longitude":146.328105,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Stony Rise"
     ],
@@ -33,13 +36,13 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681583,
         102191583,
-        85632793,
-        404549471,
         1376953275,
+        404549471,
+        85632793,
         136253039,
         102048819
     ],
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":101938295,
-    "wof:lastmodified":1550755419,
+    "wof:lastmodified":1566601256,
     "wof:name":"Stony Rise",
     "wof:parent_id":404549471,
     "wof:placetype":"locality",

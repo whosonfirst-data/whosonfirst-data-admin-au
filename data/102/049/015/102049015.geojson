@@ -18,10 +18,13 @@
     ],
     "lbl:latitude":-35.752351,
     "lbl:longitude":144.697706,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-35.752351,
     "mps:longitude":144.697706,
     "mz:hierarchy_label":0,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:bel_x_preferred":[
         "\u041c\u044e\u0440\u044d\u0439"
     ],
@@ -108,7 +111,7 @@
     "qs:source":"Australia Census",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191583,
         85681545,
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":102049015,
-    "wof:lastmodified":1562894181,
+    "wof:lastmodified":1566600193,
     "wof:name":"Murray",
     "wof:parent_id":85681545,
     "wof:placetype":"county",

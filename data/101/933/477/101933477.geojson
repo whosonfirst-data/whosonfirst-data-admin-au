@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-37.62614,
     "lbl:longitude":144.926767,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-37.62614,
     "mps:longitude":144.926767,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Roxburgh Park"
     ],
@@ -43,7 +46,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":565,
     "wof:belongsto":[
@@ -59,7 +62,7 @@
     "wof:concordances":{
         "gn:id":8347896,
         "gp:id":22721898,
-        "qs:id":887016,
+        "qs_pg:id":887016,
         "wd:id":"Q7372398",
         "wk:page":"Roxburgh Park, Victoria"
     },
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":101933477,
-    "wof:lastmodified":1562902932,
+    "wof:lastmodified":1566601759,
     "wof:name":"Roxburgh Park",
     "wof:parent_id":404540101,
     "wof:placetype":"locality",

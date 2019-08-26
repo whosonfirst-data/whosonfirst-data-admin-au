@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-37.803522,
     "lbl:longitude":145.032835,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-37.803522,
     "mps:longitude":145.032835,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0643\u064a\u0648"
     ],
@@ -82,7 +85,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1620,
     "wof:belongsto":[
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":101933117,
-    "wof:lastmodified":1562903086,
+    "wof:lastmodified":1566601776,
     "wof:name":"Kew",
     "wof:parent_id":404539059,
     "wof:placetype":"locality",

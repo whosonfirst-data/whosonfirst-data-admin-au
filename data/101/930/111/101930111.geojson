@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-33.876562,
     "lbl:longitude":151.242266,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-33.876562,
     "mps:longitude":151.242266,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Double Bay"
     ],
@@ -267,7 +270,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681545,
         102191583,
@@ -301,7 +304,7 @@
         }
     ],
     "wof:id":101930111,
-    "wof:lastmodified":1562899964,
+    "wof:lastmodified":1566601400,
     "wof:name":"Double Bay",
     "wof:parent_id":404223059,
     "wof:placetype":"locality",

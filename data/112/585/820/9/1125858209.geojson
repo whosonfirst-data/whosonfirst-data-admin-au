@@ -9,12 +9,16 @@
     "geom:bbox":"138.529735,-35.221782,138.529735,-35.221782",
     "geom:latitude":-35.221782,
     "geom:longitude":138.529735,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"AU",
+    "lbl:bbox":"138.509735,-35.241782,138.549735,-35.201782",
     "lbl:latitude":-35.221782,
     "lbl:longitude":138.529735,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Seaford Heights"
@@ -37,7 +41,7 @@
     "qs_pg:woe_adm0":23424748,
     "qs_pg:woe_id":22721791,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"South Australia",
@@ -45,9 +49,9 @@
     "wof:belongsto":[
         85681519,
         102191583,
-        85632793,
-        404545765,
         1376953367,
+        404545765,
+        85632793,
         136253039,
         102048473
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1125858209,
-    "wof:lastmodified":1550724199,
+    "wof:lastmodified":1566603436,
     "wof:name":"Seaford Heights",
     "wof:parent_id":404545765,
     "wof:placetype":"locality",

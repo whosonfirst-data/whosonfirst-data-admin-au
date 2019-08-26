@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-37.892883,
     "lbl:longitude":145.056115,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-37.892883,
     "mps:longitude":145.056115,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u0631\u0646\u064a\u063a\u064a"
     ],
@@ -49,7 +52,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":598,
     "wof:belongsto":[
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":101932725,
-    "wof:lastmodified":1562901591,
+    "wof:lastmodified":1566601615,
     "wof:name":"Carnegie",
     "wof:parent_id":404538073,
     "wof:placetype":"locality",

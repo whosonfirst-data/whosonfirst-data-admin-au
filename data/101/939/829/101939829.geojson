@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-35.916073,
     "lbl:longitude":150.082402,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":-35.916073,
     "mps:longitude":150.082402,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Moruya"
     ],
@@ -65,7 +68,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-35.911111,
     "wd:longitude":150.080556,
@@ -83,7 +86,6 @@
         "fct:id":"033e9874-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2156834,
         "gp:id":1104126,
-        "qs:id":241250,
         "qs_pg:id":241250,
         "wd:id":"Q1488729",
         "wk:page":"Moruya, New South Wales"
@@ -105,7 +107,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1562899419,
+    "wof:lastmodified":1566601318,
     "wof:name":"Moruya",
     "wof:parent_id":404225027,
     "wof:placetype":"locality",

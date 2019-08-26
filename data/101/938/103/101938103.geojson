@@ -13,6 +13,8 @@
     "iso:country":"AU",
     "lbl:latitude":-41.097314,
     "lbl:longitude":146.823431,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":-41.097314,
     "mps:longitude":146.823431,
     "mz:hierarchy_label":1,
@@ -51,7 +53,7 @@
     "name:swe_x_preferred":[
         "George Town"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Georgetown"
     ],
     "name:zho_x_preferred":[
@@ -165,7 +167,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-41.1,
     "wd:longitude":146.816667,
@@ -182,7 +184,6 @@
     "wof:concordances":{
         "gn:id":2165718,
         "gp:id":1095902,
-        "qs:id":247142,
         "qs_pg:id":247142,
         "wd:id":"Q382100",
         "wk:page":"George Town, Tasmania"
@@ -204,7 +205,7 @@
         }
     ],
     "wof:id":101938103,
-    "wof:lastmodified":1562898890,
+    "wof:lastmodified":1566601236,
     "wof:megacity":0,
     "wof:name":"George Town",
     "wof:parent_id":404548951,

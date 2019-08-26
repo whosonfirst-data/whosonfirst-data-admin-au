@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-24.182596,
     "lbl:longitude":151.887399,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mps:latitude":-24.182596,
     "mps:longitude":151.887399,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:deu_x_preferred":[
         "1770"
     ],
@@ -75,7 +78,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":-24.168611,
     "wd:longitude":151.881944,
@@ -93,7 +96,6 @@
     "wof:concordances":{
         "gn:id":2149810,
         "gp:id":1105536,
-        "qs:id":245927,
         "qs_pg:id":245927,
         "wd:id":"Q199635"
     },
@@ -114,7 +116,7 @@
         }
     ],
     "wof:id":101935291,
-    "wof:lastmodified":1562902282,
+    "wof:lastmodified":1566601688,
     "wof:name":"Seventeen Seventy",
     "wof:parent_id":404544035,
     "wof:placetype":"locality",

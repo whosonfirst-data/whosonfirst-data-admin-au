@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-34.90913,
     "lbl:longitude":150.729183,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":-34.90913,
     "mps:longitude":150.729183,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Greenwell Point"
     ],
@@ -51,7 +54,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-34.9083,
     "wd:longitude":150.734,
@@ -68,7 +71,6 @@
     "wof:concordances":{
         "gn:id":2164487,
         "gp:id":1102443,
-        "qs:id":876049,
         "qs_pg:id":876049,
         "wd:id":"Q5604802",
         "wk:page":"Greenwell Point, New South Wales"
@@ -90,7 +92,7 @@
         }
     ],
     "wof:id":101930531,
-    "wof:lastmodified":1562900021,
+    "wof:lastmodified":1566601408,
     "wof:name":"Greenwell Point",
     "wof:parent_id":404223733,
     "wof:placetype":"locality",

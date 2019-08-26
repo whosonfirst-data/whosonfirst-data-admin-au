@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-34.911522,
     "lbl:longitude":138.620246,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-34.911522,
     "mps:longitude":138.620246,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "College Park"
     ],
@@ -36,7 +39,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681519,
         102191583,
@@ -50,7 +53,7 @@
     "wof:concordances":{
         "gn:id":8348440,
         "gp:id":7225942,
-        "qs:id":202454,
+        "qs_pg:id":202454,
         "wd:id":"Q5146491",
         "wk:page":"College Park, South Australia"
     },
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":101935873,
-    "wof:lastmodified":1561827968,
+    "wof:lastmodified":1566601659,
     "wof:name":"College Park",
     "wof:parent_id":404545121,
     "wof:placetype":"locality",

@@ -20,6 +20,8 @@
     ],
     "lbl:latitude":-29.033042,
     "lbl:longitude":167.954531,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":-29.033042,
     "mps:longitude":167.954531,
     "mz:hierarchy_label":1,
@@ -575,12 +577,6 @@
         "Norfolkoeya",
         "Norfolkoya"
     ],
-    "name:und_x_preferred":[
-        "Norfolk\u00f8ya"
-    ],
-    "name:unk_x_variant":[
-        "Territory of Norfolk Island"
-    ],
     "name:urd_x_preferred":[
         "\u0646\u0627\u0631 \u0641\u0627\u06a9 \u0622\u0626\u0644\u06cc\u0646\u0688"
     ],
@@ -703,7 +699,7 @@
         "quattroshapes",
         "naturalearth"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"naturalearth",
     "statoids:dial":"672",
     "statoids:ds":"AUS",
@@ -719,11 +715,6 @@
     "statoids:marc":"nx",
     "statoids:name":"Norfolk Island",
     "statoids:wmo":"NF",
-    "wof:belongs":[
-        102191583,
-        85632793,
-        136253039
-    ],
     "wof:belongsto":[
         102191583,
         136253039
@@ -739,7 +730,7 @@
         "itu:id":"NFK",
         "m49:code":"574",
         "marc:id":"nx",
-        "qs:id":220229,
+        "qs_pg:id":220229,
         "uncrt:id":"AUS",
         "wd:id":"Q31057",
         "wmo:id":"NF"
@@ -761,7 +752,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1565644461,
+    "wof:lastmodified":1566600618,
     "wof:name":"Norfolk Island",
     "wof:parent_id":136253039,
     "wof:placetype":"dependency",

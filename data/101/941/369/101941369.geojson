@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-40.993976,
     "lbl:longitude":147.383679,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":-40.993976,
     "mps:longitude":147.383679,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Bridport"
     ],
@@ -56,7 +59,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-41.0,
     "wd:longitude":147.24,
@@ -73,7 +76,6 @@
     "wof:concordances":{
         "gn:id":2174066,
         "gp:id":1100646,
-        "qs:id":1088959,
         "qs_pg:id":1088959,
         "wd:id":"Q181428",
         "wk:page":"Bridport, Tasmania"
@@ -92,7 +94,7 @@
         }
     ],
     "wof:id":101941369,
-    "wof:lastmodified":1562900830,
+    "wof:lastmodified":1566601512,
     "wof:name":"Bridport",
     "wof:parent_id":404548759,
     "wof:placetype":"locality",

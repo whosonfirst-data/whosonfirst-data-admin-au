@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-33.935106,
     "lbl:longitude":151.125552,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-33.935106,
     "mps:longitude":151.125552,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bardwell Park"
     ],
@@ -42,7 +45,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":643,
     "wof:belongsto":[
         85681545,
@@ -57,7 +60,7 @@
     "wof:concordances":{
         "gn:id":8348430,
         "gp:id":22721362,
-        "qs:id":205734,
+        "qs_pg:id":205734,
         "wd:id":"Q4860244",
         "wk:page":"Bardwell Park, New South Wales"
     },
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":101929481,
-    "wof:lastmodified":1561828019,
+    "wof:lastmodified":1566601827,
     "wof:name":"Bardwell Park",
     "wof:parent_id":404221679,
     "wof:placetype":"locality",

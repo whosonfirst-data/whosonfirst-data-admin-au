@@ -9,12 +9,16 @@
     "geom:bbox":"145.296615,-36.439513,145.296615,-36.439513",
     "geom:latitude":-36.439513,
     "geom:longitude":145.296615,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"AU",
+    "lbl:bbox":"145.276615,-36.459513,145.316615,-36.419513",
     "lbl:latitude":-36.439513,
     "lbl:longitude":145.296615,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Tatura East"
@@ -37,7 +41,7 @@
     "qs_pg:woe_adm0":23424748,
     "qs_pg:woe_id":28589096,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Victoria",
@@ -45,9 +49,9 @@
     "wof:belongsto":[
         85681497,
         102191583,
-        85632793,
-        404540425,
         1376953455,
+        404540425,
+        85632793,
         136253039,
         102049473
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1125879293,
-    "wof:lastmodified":1550747300,
+    "wof:lastmodified":1566603342,
     "wof:name":"Tatura East",
     "wof:parent_id":404540425,
     "wof:placetype":"locality",

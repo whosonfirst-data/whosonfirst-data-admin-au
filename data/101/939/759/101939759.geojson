@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-31.049127,
     "lbl:longitude":151.060554,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":-31.049127,
     "mps:longitude":151.060554,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Kootingal"
     ],
@@ -50,7 +53,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-31.05,
     "wd:longitude":151.05,
@@ -67,7 +70,6 @@
     "wof:concordances":{
         "gn:id":2161072,
         "gp:id":1103193,
-        "qs:id":326758,
         "qs_pg:id":326758,
         "wd:id":"Q2588059",
         "wk:page":"Kootingal, New South Wales"
@@ -86,7 +88,7 @@
         }
     ],
     "wof:id":101939759,
-    "wof:lastmodified":1562899629,
+    "wof:lastmodified":1566601349,
     "wof:name":"Kootingal",
     "wof:parent_id":404224309,
     "wof:placetype":"locality",

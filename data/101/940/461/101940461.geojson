@@ -13,6 +13,8 @@
     "iso:country":"AU",
     "lbl:latitude":-35.341733,
     "lbl:longitude":143.543603,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-35.341733,
     "mps:longitude":143.543603,
     "mz:hierarchy_label":1,
@@ -194,7 +196,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":-35.333333,
     "wd:longitude":143.55,
@@ -213,7 +215,6 @@
         "fct:id":"03346d90-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2147756,
         "gp:id":1105770,
-        "qs:id":482234,
         "qs_pg:id":482234,
         "wd:id":"Q2305836",
         "wk:page":"Swan Hill"
@@ -235,7 +236,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1562901327,
+    "wof:lastmodified":1566601578,
     "wof:name":"Swan Hill",
     "wof:parent_id":404540365,
     "wof:placetype":"locality",

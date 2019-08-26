@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-36.912244,
     "lbl:longitude":149.241001,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":-36.912244,
     "mps:longitude":149.241001,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Bombala"
     ],
@@ -47,9 +50,6 @@
     "name:swe_x_preferred":[
         "Bombala"
     ],
-    "name:unk_x_variant":[
-        "Bomballa"
-    ],
     "qs:a0":"Australia",
     "qs:a1":"*New South Wales",
     "qs:a1_lc":"1",
@@ -66,7 +66,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-36.916667,
     "wd:longitude":149.233333,
@@ -84,7 +84,6 @@
         "fct:id":"032fe496-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2174973,
         "gp:id":1100478,
-        "qs:id":375385,
         "qs_pg:id":375385,
         "wd:id":"Q2253650",
         "wk:page":"Bombala, New South Wales"
@@ -109,7 +108,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1562903422,
+    "wof:lastmodified":1566601812,
     "wof:name":"Bombala",
     "wof:parent_id":404222027,
     "wof:placetype":"locality",

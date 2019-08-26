@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-37.90884,
     "lbl:longitude":144.752587,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-37.90884,
     "mps:longitude":144.752587,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ceb_x_preferred":[
         "Point Cook"
     ],
@@ -61,7 +64,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681497,
@@ -101,7 +104,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1562903008,
+    "wof:lastmodified":1566601767,
     "wof:name":"Point Cook",
     "wof:parent_id":404539931,
     "wof:placetype":"locality",

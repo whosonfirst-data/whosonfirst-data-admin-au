@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-37.828253,
     "lbl:longitude":145.09513,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-37.828253,
     "mps:longitude":145.09513,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Surrey Hills"
     ],
@@ -49,7 +52,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":910,
     "wof:belongsto":[
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":101933601,
-    "wof:lastmodified":1562903236,
+    "wof:lastmodified":1566601792,
     "wof:name":"Surrey Hills",
     "wof:parent_id":404540363,
     "wof:placetype":"locality",

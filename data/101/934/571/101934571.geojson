@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-17.525422,
     "lbl:longitude":146.003034,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-17.525422,
     "mps:longitude":146.003034,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Hudson"
     ],
@@ -150,7 +153,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681463,
         102191583,
@@ -163,7 +166,7 @@
     "wof:concordances":{
         "gn:id":8348029,
         "gp:id":28585462,
-        "qs:id":1191235
+        "qs_pg:id":1191235
     },
     "wof:coterminous":[
         404542579
@@ -182,7 +185,7 @@
         }
     ],
     "wof:id":101934571,
-    "wof:lastmodified":1562902784,
+    "wof:lastmodified":1566601742,
     "wof:name":"Hudson",
     "wof:parent_id":404542579,
     "wof:placetype":"locality",

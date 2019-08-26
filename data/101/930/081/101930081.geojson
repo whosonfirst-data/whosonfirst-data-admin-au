@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-33.752429,
     "lbl:longitude":151.286621,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-33.752429,
     "mps:longitude":151.286621,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Dee Why"
     ],
@@ -84,7 +87,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":2854,
     "wof:belongsto":[
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":101930081,
-    "wof:lastmodified":1562900056,
+    "wof:lastmodified":1566601414,
     "wof:name":"Dee Why",
     "wof:parent_id":404222999,
     "wof:placetype":"locality",

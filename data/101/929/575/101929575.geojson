@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-28.207104,
     "lbl:longitude":153.484923,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":-28.207104,
     "mps:longitude":153.484923,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Bilambil Heights"
     ],
@@ -48,7 +51,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":150,
     "wof:belongsto":[
@@ -63,7 +66,6 @@
     "wof:concordances":{
         "gn:id":2175872,
         "gp:id":1094416,
-        "qs:id":193003,
         "qs_pg:id":193003,
         "wd:id":"Q16254745"
     },
@@ -84,7 +86,7 @@
         }
     ],
     "wof:id":101929575,
-    "wof:lastmodified":1562903466,
+    "wof:lastmodified":1566601817,
     "wof:name":"Bilambil Heights",
     "wof:parent_id":404221897,
     "wof:placetype":"locality",

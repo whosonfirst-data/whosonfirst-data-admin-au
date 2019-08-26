@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-37.764237,
     "lbl:longitude":145.061249,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-37.764237,
     "mps:longitude":145.061249,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Eaglemont"
     ],
@@ -39,7 +42,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":531,
     "wof:belongsto":[
         85681497,
@@ -54,7 +57,7 @@
     "wof:concordances":{
         "gn:id":8348914,
         "gp:id":22721883,
-        "qs:id":1182292,
+        "qs_pg:id":1182292,
         "wd:id":"Q3556821"
     },
     "wof:coterminous":[
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":101932871,
-    "wof:lastmodified":1561827959,
+    "wof:lastmodified":1566601634,
     "wof:name":"Eaglemont",
     "wof:parent_id":404538449,
     "wof:placetype":"locality",

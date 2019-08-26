@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-23.368758,
     "lbl:longitude":150.545722,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-23.368758,
     "mps:longitude":150.545722,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Koongal"
     ],
@@ -36,7 +39,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":96,
     "wof:belongsto":[
         85681463,
@@ -50,7 +53,7 @@
     "wof:concordances":{
         "gn:id":8348880,
         "gp:id":28585713,
-        "qs:id":500000,
+        "qs_pg:id":500000,
         "wd:id":"Q14935463",
         "wk:page":"Koongal, Queensland"
     },
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":101934687,
-    "wof:lastmodified":1561827982,
+    "wof:lastmodified":1566601709,
     "wof:name":"Koongal",
     "wof:parent_id":404542839,
     "wof:placetype":"locality",

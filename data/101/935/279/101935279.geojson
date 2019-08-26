@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-25.289206,
     "lbl:longitude":152.853816,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":-25.289206,
     "mps:longitude":152.853816,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Scarness"
     ],
@@ -34,7 +37,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681463,
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":101935279,
-    "wof:lastmodified":1550719856,
+    "wof:lastmodified":1566601681,
     "wof:name":"Scarness",
     "wof:parent_id":404544025,
     "wof:placetype":"locality",

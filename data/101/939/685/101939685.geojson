@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-33.602959,
     "lbl:longitude":151.006664,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":-33.602959,
     "mps:longitude":151.006664,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Glenorie"
     ],
@@ -56,7 +59,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":387,
     "wof:belongsto":[
@@ -72,7 +75,6 @@
     "wof:concordances":{
         "gn:id":2165225,
         "gp:id":1096004,
-        "qs:id":947893,
         "qs_pg:id":947893,
         "wd:id":"Q5569269",
         "wk:page":"Glenorie, New South Wales"
@@ -92,7 +94,7 @@
         }
     ],
     "wof:id":101939685,
-    "wof:lastmodified":1562899641,
+    "wof:lastmodified":1566601351,
     "wof:name":"Glenorie",
     "wof:parent_id":404223607,
     "wof:placetype":"locality",

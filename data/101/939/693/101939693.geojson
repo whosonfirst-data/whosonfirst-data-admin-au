@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-29.116536,
     "lbl:longitude":147.453321,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":-29.116536,
     "mps:longitude":147.453321,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Goodooga"
     ],
@@ -38,9 +41,6 @@
     "name:swe_x_preferred":[
         "Goodooga"
     ],
-    "name:unk_x_variant":[
-        "Bokhara"
-    ],
     "qs:a0":"Australia",
     "qs:a1":"*New South Wales",
     "qs:a1_lc":"1",
@@ -56,7 +56,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-29.1,
     "wd:longitude":147.466667,
@@ -74,7 +74,6 @@
         "fct:id":"033030f4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2165023,
         "gp:id":1102344,
-        "qs:id":1087599,
         "qs_pg:id":1087599,
         "wd:id":"Q2523675",
         "wk:page":"Goodooga, New South Wales"
@@ -96,7 +95,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1562899490,
+    "wof:lastmodified":1566601329,
     "wof:name":"Goodooga",
     "wof:parent_id":404223653,
     "wof:placetype":"locality",

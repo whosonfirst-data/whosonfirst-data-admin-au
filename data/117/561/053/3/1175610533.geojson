@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-32.744119,
     "lbl:longitude":152.193316,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-32.744119,
     "mps:longitude":152.193316,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0646\u0644\u0633\u0648\u0646 \u0628\u0627\u064a"
     ],
@@ -41,7 +44,7 @@
     "name:swe_x_preferred":[
         "Nelson Bay"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nelson\u2019s Bay"
     ],
     "qs:a0":"Australia",
@@ -58,7 +61,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file with customization",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681545,
@@ -72,10 +75,12 @@
     "wof:concordances":{
         "gn:id":2155562,
         "gp:id":28645064,
-        "qs:id":460916,
-        "qs_pg:id":1127207,
+        "qs_pg:id":460916,
         "wd:id":"Q14226542",
         "wk:page":"Nelson Bay, New South Wales"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1127207
     },
     "wof:country":"AU",
     "wof:geomhash":"4d2731fcb984e6f72441a5acca88ebfd",
@@ -91,7 +96,7 @@
         }
     ],
     "wof:id":1175610533,
-    "wof:lastmodified":1562897414,
+    "wof:lastmodified":1566601019,
     "wof:name":"Nelson Bay",
     "wof:parent_id":404225247,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-41.584558,
     "lbl:longitude":148.190442,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-41.584558,
     "mps:longitude":148.190442,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Saint Marys"
     ],
@@ -43,9 +46,6 @@
     "name:swe_x_preferred":[
         "Saint Marys"
     ],
-    "name:unk_x_variant":[
-        "Saint Marys"
-    ],
     "qs:a0":"Australia",
     "qs:a1":"*Tasmania",
     "qs:a1_lc":"6",
@@ -61,7 +61,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681583,
         102191583,
@@ -91,7 +91,7 @@
         }
     ],
     "wof:id":101941459,
-    "wof:lastmodified":1562900905,
+    "wof:lastmodified":1566601523,
     "wof:name":"St Marys",
     "wof:parent_id":404549461,
     "wof:placetype":"locality",

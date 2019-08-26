@@ -19,6 +19,8 @@
     ],
     "lbl:latitude":-53.103374,
     "lbl:longitude":73.51832,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":-53.103374,
     "mps:longitude":73.51832,
     "mz:hierarchy_label":1,
@@ -475,7 +477,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"naturalearth",
     "statoids:area_km":"412",
     "statoids:area_mi":"159",
@@ -501,10 +503,6 @@
     "statoids:timezone":"+5",
     "statoids:type":"external territory of AU",
     "statoids:wmo":"",
-    "wof:belongs":[
-        102191583,
-        85632793
-    ],
     "wof:belongsto":[
         102193527,
         136253039
@@ -519,7 +517,7 @@
         "iso:id":"HM-HM",
         "m49:code":"334",
         "marc:id":"hm",
-        "qs:id":1209137,
+        "qs_pg:id":1209137,
         "uncrt:id":"AUS",
         "wd:id":"Q131198"
     },
@@ -537,7 +535,7 @@
         }
     ],
     "wof:id":85632239,
-    "wof:lastmodified":1565644461,
+    "wof:lastmodified":1566600618,
     "wof:name":"Heard Island and McDonald Islands",
     "wof:parent_id":136253039,
     "wof:placetype":"dependency",

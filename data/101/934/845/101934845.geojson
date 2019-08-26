@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-24.875205,
     "lbl:longitude":152.322041,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-24.875205,
     "mps:longitude":152.322041,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Millbank"
     ],
@@ -69,7 +72,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1254,
     "wof:belongsto":[
         85681463,
@@ -83,7 +86,7 @@
     "wof:concordances":{
         "gn:id":8348258,
         "gp:id":28586140,
-        "qs:id":1198044,
+        "qs_pg:id":1198044,
         "wd:id":"Q24090232"
     },
     "wof:coterminous":[
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":101934845,
-    "wof:lastmodified":1562902455,
+    "wof:lastmodified":1566601706,
     "wof:name":"Millbank",
     "wof:parent_id":404543173,
     "wof:placetype":"locality",

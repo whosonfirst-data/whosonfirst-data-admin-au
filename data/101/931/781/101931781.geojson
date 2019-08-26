@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-32.712557,
     "lbl:longitude":151.509698,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-32.712557,
     "mps:longitude":151.509698,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0631\u0630\u0631\u0641\u0648\u0631\u062f"
     ],
@@ -106,7 +109,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681545,
@@ -140,7 +143,7 @@
         }
     ],
     "wof:id":101931781,
-    "wof:lastmodified":1562898830,
+    "wof:lastmodified":1566601227,
     "wof:name":"Rutherford",
     "wof:parent_id":404225969,
     "wof:placetype":"locality",

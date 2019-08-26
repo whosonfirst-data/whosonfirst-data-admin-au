@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-16.978143,
     "lbl:longitude":145.759225,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-16.978143,
     "mps:longitude":145.759225,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u064a\u0631\u0646\u0632"
     ],
@@ -142,9 +145,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0435\u0440\u043d\u0441"
     ],
-    "name:unk_x_variant":[
-        "Cairns"
-    ],
     "name:urd_x_preferred":[
         "\u06a9\u06cc\u0631\u0646\u0632"
     ],
@@ -173,7 +173,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681463,
         102191583,
@@ -205,7 +205,7 @@
         }
     ],
     "wof:id":101935623,
-    "wof:lastmodified":1562902226,
+    "wof:lastmodified":1566601683,
     "wof:name":"White Rock",
     "wof:parent_id":404544659,
     "wof:placetype":"locality",

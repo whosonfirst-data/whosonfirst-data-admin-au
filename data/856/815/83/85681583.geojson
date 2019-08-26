@@ -24,6 +24,7 @@
     ],
     "lbl:latitude":-42.09828,
     "lbl:longitude":146.565017,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-42.079207,
     "mps:longitude":146.551545,
     "mz:hierarchy_label":1,
@@ -516,9 +517,9 @@
         "quattroshapes",
         "ausstat"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-08-09",
+    "src:population_date":"2011-08-09",
     "statoids:area_km":"68,127",
     "statoids:area_mi":"26,304",
     "statoids:as_of_date":"2011-08-09",
@@ -565,7 +566,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1565644485,
+    "wof:lastmodified":1566600667,
     "wof:name":"Tasmania",
     "wof:parent_id":85632793,
     "wof:placetype":"region",

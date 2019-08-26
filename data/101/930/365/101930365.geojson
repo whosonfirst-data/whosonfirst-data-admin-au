@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-32.980933,
     "lbl:longitude":151.687443,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-32.980933,
     "mps:longitude":151.687443,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Gateshead"
     ],
@@ -153,7 +156,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":54.95,
     "wd:longitude":-1.6,
     "wd:wordcount":4683,
@@ -189,7 +192,7 @@
         }
     ],
     "wof:id":101930365,
-    "wof:lastmodified":1562899811,
+    "wof:lastmodified":1566601378,
     "wof:name":"Gateshead",
     "wof:parent_id":404223513,
     "wof:placetype":"locality",

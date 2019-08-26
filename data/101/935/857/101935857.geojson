@@ -13,6 +13,8 @@
     "iso:country":"AU",
     "lbl:latitude":-33.841017,
     "lbl:longitude":138.613464,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":-33.841017,
     "mps:longitude":138.613464,
     "mz:hierarchy_label":1,
@@ -153,7 +155,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-33.8333,
     "wd:longitude":138.933,
@@ -171,7 +173,6 @@
         "fct:id":"0330002a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2074329,
         "gp:id":1101157,
-        "qs:id":138152,
         "qs_pg:id":138152,
         "wd:id":"Q2975529",
         "wk:page":"Clare, South Australia"
@@ -196,7 +197,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1562902025,
+    "wof:lastmodified":1566601663,
     "wof:name":"Clare",
     "wof:parent_id":404545091,
     "wof:placetype":"locality",

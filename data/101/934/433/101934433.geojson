@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-27.609308,
     "lbl:longitude":152.916961,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-27.609308,
     "mps:longitude":152.916961,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Gailes"
     ],
@@ -33,14 +36,14 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":106,
     "wof:belongsto":[
         85681463,
         102191583,
-        85632793,
-        404542267,
         1376953397,
+        404542267,
+        85632793,
         136253039,
         102048583
     ],
@@ -48,7 +51,7 @@
     "wof:concordances":{
         "gn:id":8348558,
         "gp:id":7225389,
-        "qs:id":1113563,
+        "qs_pg:id":1113563,
         "wd:id":"Q5517179",
         "wk:page":"Gailes, Queensland"
     },
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":101934433,
-    "wof:lastmodified":1550726585,
+    "wof:lastmodified":1566601739,
     "wof:name":"Gailes",
     "wof:parent_id":404542267,
     "wof:placetype":"locality",

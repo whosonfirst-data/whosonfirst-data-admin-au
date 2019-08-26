@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-32.233268,
     "lbl:longitude":115.792385,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-32.233268,
     "mps:longitude":115.792385,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Calista"
     ],
@@ -36,7 +39,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":144,
     "wof:belongsto":[
         85681439,
@@ -51,7 +54,7 @@
     "wof:concordances":{
         "gn:id":8348063,
         "gp:id":22721995,
-        "qs:id":905207,
+        "qs_pg:id":905207,
         "wd:id":"Q5021396",
         "wk:page":"Calista, Western Australia"
     },
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":101936971,
-    "wof:lastmodified":1561827816,
+    "wof:lastmodified":1566601126,
     "wof:name":"Calista",
     "wof:parent_id":404546961,
     "wof:placetype":"locality",

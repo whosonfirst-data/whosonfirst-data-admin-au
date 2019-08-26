@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-32.135459,
     "lbl:longitude":115.990182,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-32.135459,
     "mps:longitude":115.990182,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Seville Grove"
     ],
@@ -46,7 +49,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":126,
     "wof:belongsto":[
@@ -61,7 +64,7 @@
     "wof:concordances":{
         "gn:id":8348424,
         "gp:id":28589023,
-        "qs:id":206918,
+        "qs_pg:id":206918,
         "wd:id":"Q7458067",
         "wk:page":"Seville Grove, Western Australia"
     },
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":101937757,
-    "wof:lastmodified":1562900500,
+    "wof:lastmodified":1566601470,
     "wof:name":"Seville Grove",
     "wof:parent_id":404548257,
     "wof:placetype":"locality",

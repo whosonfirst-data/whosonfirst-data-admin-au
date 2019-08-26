@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-34.0271,
     "lbl:longitude":151.037549,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-34.0271,
     "mps:longitude":151.037549,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Woronora"
     ],
@@ -42,7 +45,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1772,
     "wof:belongsto":[
         85681545,
@@ -57,7 +60,7 @@
     "wof:concordances":{
         "gn:id":2205981,
         "gp:id":1099616,
-        "qs:id":281045,
+        "qs_pg:id":281045,
         "wd:id":"Q8036920",
         "wk:page":"Woronora"
     },
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":101932419,
-    "wof:lastmodified":1561827958,
+    "wof:lastmodified":1566601630,
     "wof:name":"Woronora",
     "wof:parent_id":404227217,
     "wof:placetype":"locality",

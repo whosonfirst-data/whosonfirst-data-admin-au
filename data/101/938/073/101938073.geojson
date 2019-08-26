@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-41.082824,
     "lbl:longitude":145.890165,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-41.082824,
     "mps:longitude":145.890165,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Downlands"
     ],
@@ -33,7 +36,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":29,
     "wof:belongsto":[
         85681583,
@@ -48,7 +51,7 @@
         "fct:id":"034a49f8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":8347741,
         "gp:id":28584849,
-        "qs:id":950006,
+        "qs_pg:id":950006,
         "wd:id":"Q24090006"
     },
     "wof:coterminous":[
@@ -71,7 +74,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1550720510,
+    "wof:lastmodified":1566601281,
     "wof:name":"Downlands",
     "wof:parent_id":404548871,
     "wof:placetype":"locality",

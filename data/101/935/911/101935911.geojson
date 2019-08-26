@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-34.690598,
     "lbl:longitude":138.668807,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-34.690598,
     "mps:longitude":138.668807,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Davoren Park"
     ],
@@ -48,7 +51,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":250,
     "wof:belongsto":[
         85681519,
@@ -63,7 +66,7 @@
     "wof:concordances":{
         "gn:id":8348052,
         "gp:id":22721731,
-        "qs:id":1070858,
+        "qs_pg:id":1070858,
         "wd:id":"Q14297",
         "wk:page":"Davoren Park, South Australia"
     },
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":101935911,
-    "wof:lastmodified":1562902319,
+    "wof:lastmodified":1566601691,
     "wof:name":"Davoren Park",
     "wof:parent_id":404545191,
     "wof:placetype":"locality",

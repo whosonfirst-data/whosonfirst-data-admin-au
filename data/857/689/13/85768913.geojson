@@ -13,8 +13,10 @@
     "gn:longitude":150.11667,
     "gn:population":1971,
     "iso:country":"AU",
+    "lbl:bbox":"150.113989,-33.464224,150.123989,-33.454224",
     "lbl:latitude":-33.459224,
     "lbl:longitude":150.118989,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-33.459224,
     "mps:longitude":150.118989,
     "mz:hierarchy_label":0,
@@ -44,9 +46,8 @@
     "name:swe_x_preferred":[
         "Bowenfels"
     ],
-    "name:unk_x_variant":[
-        "South Bowenfels",
-        "Bowenfels"
+    "name:und_x_variant":[
+        "South Bowenfels"
     ],
     "qs:gn_adm0_cc":"AU",
     "qs:gn_fcode":"PPL",
@@ -76,7 +77,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191583,
@@ -92,7 +93,6 @@
     "wof:concordances":{
         "gn:id":2174436,
         "gp:id":1094599,
-        "qs:id":1088126,
         "qs_pg:id":1088126,
         "wd:id":"Q2922704",
         "wk:page":"Bowenfels, New South Wales"
@@ -112,7 +112,7 @@
         }
     ],
     "wof:id":85768913,
-    "wof:lastmodified":1562895218,
+    "wof:lastmodified":1566600503,
     "wof:name":"Bowenfels",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

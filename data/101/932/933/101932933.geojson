@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-37.884116,
     "lbl:longitude":145.272681,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-37.884116,
     "mps:longitude":145.272681,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ceb_x_preferred":[
         "Ferntree Gully"
     ],
@@ -49,7 +52,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681497,
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":101932933,
-    "wof:lastmodified":1562901703,
+    "wof:lastmodified":1566601630,
     "wof:name":"Ferntree Gully",
     "wof:parent_id":404538573,
     "wof:placetype":"locality",

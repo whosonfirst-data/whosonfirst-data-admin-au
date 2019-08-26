@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-32.040192,
     "lbl:longitude":115.928733,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-32.040192,
     "mps:longitude":115.928733,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041b\u0443\u043d\u0443\u0434"
     ],
@@ -75,7 +78,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":44,
     "wof:belongsto":[
         85681439,
@@ -90,7 +93,7 @@
     "wof:concordances":{
         "gn:id":8348666,
         "gp:id":7226137,
-        "qs:id":264007,
+        "qs_pg:id":264007,
         "wd:id":"Q14935855"
     },
     "wof:coterminous":[
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":101937433,
-    "wof:lastmodified":1562900610,
+    "wof:lastmodified":1566601483,
     "wof:name":"Lynwood",
     "wof:parent_id":404547697,
     "wof:placetype":"locality",

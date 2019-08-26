@@ -13,6 +13,8 @@
     "iso:country":"AU",
     "lbl:latitude":-20.765556,
     "lbl:longitude":117.142522,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":-20.765556,
     "mps:longitude":117.142522,
     "mz:hierarchy_label":1,
@@ -155,7 +157,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-20.7667,
     "wd:longitude":117.15,
@@ -173,10 +175,12 @@
         "fct:id":"0330a9d0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2062276,
         "gp:id":1105375,
-        "qs:id":277875,
         "qs_pg:id":64000,
         "wd:id":"Q941071",
         "wk:page":"Roebourne, Western Australia"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":277875
     },
     "wof:country":"AU",
     "wof:geomhash":"2b4a81b7459e24ef4e162f7809311aad",
@@ -195,7 +199,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1562900806,
+    "wof:lastmodified":1566601510,
     "wof:name":"Roebourne",
     "wof:parent_id":404548213,
     "wof:placetype":"locality",

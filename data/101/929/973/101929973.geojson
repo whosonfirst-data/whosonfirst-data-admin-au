@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-33.982914,
     "lbl:longitude":151.098615,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":-33.982914,
     "mps:longitude":151.098615,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Connells Point"
     ],
@@ -54,7 +57,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":456,
     "wof:belongsto":[
@@ -70,10 +73,12 @@
     "wof:concordances":{
         "gn:id":2170778,
         "gp:id":1095179,
-        "qs:id":138979,
-        "qs_pg:id":1159426,
+        "qs_pg:id":138979,
         "wd:id":"Q5161742",
         "wk:page":"Connells Point, New South Wales"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1159426
     },
     "wof:coterminous":[
         404222741
@@ -93,7 +98,7 @@
         }
     ],
     "wof:id":101929973,
-    "wof:lastmodified":1562903614,
+    "wof:lastmodified":1566601835,
     "wof:name":"Connells Point",
     "wof:parent_id":404222741,
     "wof:placetype":"locality",

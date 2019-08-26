@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-34.684778,
     "lbl:longitude":138.686601,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":-34.684778,
     "mps:longitude":138.686601,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Smithfield"
     ],
@@ -58,7 +61,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":678,
     "wof:belongsto":[
@@ -74,7 +77,7 @@
     "wof:concordances":{
         "gn:id":2061418,
         "gp:id":28589340,
-        "qs:id":1237158,
+        "qs_pg:id":1237158,
         "wd:id":"Q7545489",
         "wk:page":"Smithfield, South Australia"
     },
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":101936615,
-    "wof:lastmodified":1562898255,
+    "wof:lastmodified":1566601141,
     "wof:name":"Smithfield",
     "wof:parent_id":404546311,
     "wof:placetype":"locality",

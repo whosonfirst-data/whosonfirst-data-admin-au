@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-27.342423,
     "lbl:longitude":153.046653,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-27.342423,
     "mps:longitude":153.046653,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Taigum"
     ],
@@ -52,7 +55,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":767,
     "wof:belongsto":[
@@ -69,7 +72,7 @@
         "fct:id":"0348f062-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6943556,
         "gp:id":7225499,
-        "qs:id":1228057,
+        "qs_pg:id":1228057,
         "wd:id":"Q7675966",
         "wk:page":"Taigum, Queensland"
     },
@@ -94,7 +97,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1562902211,
+    "wof:lastmodified":1566601680,
     "wof:name":"Taigum",
     "wof:parent_id":404544243,
     "wof:placetype":"locality",

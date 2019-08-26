@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-34.892054,
     "lbl:longitude":138.696045,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-34.892054,
     "mps:longitude":138.696045,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Rostrevor"
     ],
@@ -39,7 +42,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":99,
     "wof:belongsto":[
         85681519,
@@ -54,7 +57,7 @@
     "wof:concordances":{
         "gn:id":8348263,
         "gp:id":22721668,
-        "qs:id":1019837,
+        "qs_pg:id":1019837,
         "wd:id":"Q7370069",
         "wk:page":"Rostrevor, South Australia"
     },
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":101936551,
-    "wof:lastmodified":1562897915,
+    "wof:lastmodified":1566601100,
     "wof:name":"Rostrevor",
     "wof:parent_id":404546239,
     "wof:placetype":"locality",

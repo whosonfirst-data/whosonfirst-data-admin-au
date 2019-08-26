@@ -13,8 +13,10 @@
     "gn:longitude":143.84957,
     "gn:population":97937,
     "iso:country":"AU",
+    "lbl:bbox":"143.843442,-37.543012,143.853442,-37.533012",
     "lbl:latitude":-37.538012,
     "lbl:longitude":143.848442,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-37.534133,
     "mps:longitude":143.857711,
     "mz:hierarchy_label":0,
@@ -197,9 +199,8 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u043b\u043b\u0430\u0440\u0430\u0442"
     ],
-    "name:unk_x_variant":[
-        "Ballaarat",
-        "Ballarat North"
+    "name:und_x_variant":[
+        "Ballaarat"
     ],
     "name:urd_x_preferred":[
         "\u0628\u0627\u0644\u0627\u0631\u0627\u0679"
@@ -313,7 +314,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "src:population":"geonames",
     "wof:belongsto":[
         102191583,
@@ -328,7 +329,6 @@
     "wof:concordances":{
         "gn:id":2177091,
         "gp:id":28588279,
-        "qs:id":192792,
         "qs_pg:id":192792,
         "wd:id":"Q17856",
         "wk:page":"Ballarat"
@@ -351,7 +351,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1562895277,
+    "wof:lastmodified":1566600521,
     "wof:name":"Ballarat North",
     "wof:parent_id":101933711,
     "wof:placetype":"neighbourhood",

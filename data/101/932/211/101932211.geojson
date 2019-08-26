@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-33.874395,
     "lbl:longitude":150.90961,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-33.874395,
     "mps:longitude":150.90961,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Wakeley"
     ],
@@ -39,7 +42,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":139,
     "wof:belongsto":[
         85681545,
@@ -54,7 +57,7 @@
     "wof:concordances":{
         "gn:id":8349282,
         "gp:id":22721300,
-        "qs:id":202748,
+        "qs_pg:id":202748,
         "wd:id":"Q12743834",
         "wk:page":"Wakeley, New South Wales"
     },
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":101932211,
-    "wof:lastmodified":1561827948,
+    "wof:lastmodified":1566601598,
     "wof:name":"Wakeley",
     "wof:parent_id":404226787,
     "wof:placetype":"locality",

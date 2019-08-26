@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-33.867526,
     "lbl:longitude":151.129262,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-33.867526,
     "mps:longitude":151.129262,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Five Dock"
     ],
@@ -54,7 +57,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681545,
         102191583,
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":101930307,
-    "wof:lastmodified":1562899800,
+    "wof:lastmodified":1566601376,
     "wof:name":"Five Dock",
     "wof:parent_id":404223445,
     "wof:placetype":"locality",

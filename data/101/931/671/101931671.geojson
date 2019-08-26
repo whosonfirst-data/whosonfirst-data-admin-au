@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-33.899397,
     "lbl:longitude":151.247236,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-33.899397,
     "mps:longitude":151.247236,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Queens Park"
     ],
@@ -51,7 +54,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":449,
     "wof:belongsto":[
         85681545,
@@ -66,7 +69,7 @@
     "wof:concordances":{
         "gn:id":8349223,
         "gp:id":22721176,
-        "qs:id":205726,
+        "qs_pg:id":205726,
         "wd:id":"Q2900490",
         "wk:page":"Queens Park, New South Wales"
     },
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":101931671,
-    "wof:lastmodified":1562898731,
+    "wof:lastmodified":1566601211,
     "wof:name":"Queens Park",
     "wof:parent_id":404225769,
     "wof:placetype":"locality",

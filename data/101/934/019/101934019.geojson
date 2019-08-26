@@ -13,6 +13,8 @@
     "iso:country":"AU",
     "lbl:latitude":-27.469309,
     "lbl:longitude":153.026164,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":6.0,
     "mps:latitude":-27.469309,
     "mps:longitude":153.026164,
     "mz:hierarchy_label":1,
@@ -556,7 +558,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":-27.467778,
     "wd:longitude":153.027778,
@@ -579,7 +581,7 @@
         "gn:id":2174003,
         "gp:id":1100661,
         "nyt:id":"N4276473884076253791",
-        "qs:id":807997,
+        "qs_pg:id":807997,
         "wd:id":"Q34932",
         "wk:page":"Brisbane"
     },
@@ -604,7 +606,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1562902723,
+    "wof:lastmodified":1566601735,
     "wof:megacity":1,
     "wof:name":"Brisbane City",
     "wof:parent_id":404541435,

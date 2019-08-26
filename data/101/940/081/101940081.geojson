@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-35.638897,
     "lbl:longitude":144.125939,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-35.638897,
     "mps:longitude":144.125939,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Koondrook"
     ],
@@ -41,9 +44,6 @@
     "name:swe_x_preferred":[
         "Koondrook"
     ],
-    "name:unk_x_variant":[
-        "Koondrook"
-    ],
     "qs:a0":"Australia",
     "qs:a1":"*Victoria",
     "qs:a1_lc":"2",
@@ -59,7 +59,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681497,
         102191583,
@@ -89,7 +89,7 @@
         }
     ],
     "wof:id":101940081,
-    "wof:lastmodified":1562901264,
+    "wof:lastmodified":1566601570,
     "wof:name":"Barham-Koondrook",
     "wof:parent_id":404539117,
     "wof:placetype":"locality",

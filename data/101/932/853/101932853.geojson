@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-37.788598,
     "lbl:longitude":145.123868,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-37.788598,
     "mps:longitude":145.123868,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Doncaster"
     ],
@@ -55,7 +58,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1384,
     "wof:belongsto":[
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":101932853,
-    "wof:lastmodified":1562901798,
+    "wof:lastmodified":1566601639,
     "wof:name":"Doncaster",
     "wof:parent_id":404538393,
     "wof:placetype":"locality",

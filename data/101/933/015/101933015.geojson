@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-38.033894,
     "lbl:longitude":145.272785,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-38.033894,
     "mps:longitude":145.272785,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ceb_x_preferred":[
         "Hampton Park"
     ],
@@ -43,7 +46,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":70,
     "wof:belongsto":[
@@ -59,7 +62,7 @@
     "wof:concordances":{
         "gn:id":2163990,
         "gp:id":1096211,
-        "qs:id":383867,
+        "qs_pg:id":383867,
         "wd:id":"Q5646261"
     },
     "wof:coterminous":[
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":101933015,
-    "wof:lastmodified":1562902910,
+    "wof:lastmodified":1566601756,
     "wof:name":"Hampton Park",
     "wof:parent_id":404538809,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-33.733393,
     "lbl:longitude":150.913897,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-33.733393,
     "mps:longitude":150.913897,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Acacia Gardens"
     ],
@@ -51,7 +54,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":369,
     "wof:belongsto":[
         85681545,
@@ -66,7 +69,7 @@
     "wof:concordances":{
         "gn:id":8347690,
         "gp:id":7225557,
-        "qs:id":202397,
+        "qs_pg:id":202397,
         "wd:id":"Q965388",
         "wk:page":"Acacia Gardens, New South Wales"
     },
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":101929355,
-    "wof:lastmodified":1562903376,
+    "wof:lastmodified":1566601807,
     "wof:name":"Acacia Gardens",
     "wof:parent_id":404221447,
     "wof:placetype":"locality",

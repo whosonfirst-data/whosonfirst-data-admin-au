@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-34.08593,
     "lbl:longitude":151.153239,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":-34.08593,
     "mps:longitude":151.153239,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Bundeena"
     ],
@@ -57,7 +60,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681545,
@@ -72,7 +75,6 @@
     "wof:concordances":{
         "gn:id":2205977,
         "gp:id":1094779,
-        "qs:id":918353,
         "qs_pg:id":918353,
         "wd:id":"Q4997514",
         "wk:page":"Bundeena, New South Wales"
@@ -95,7 +97,7 @@
         }
     ],
     "wof:id":101929735,
-    "wof:lastmodified":1562903515,
+    "wof:lastmodified":1566601824,
     "wof:name":"Bundeena",
     "wof:parent_id":404222285,
     "wof:placetype":"locality",

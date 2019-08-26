@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-27.375996,
     "lbl:longitude":153.063174,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-27.375996,
     "mps:longitude":153.063174,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Virginia"
     ],
@@ -39,7 +42,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":344,
     "wof:belongsto":[
         85681463,
@@ -55,7 +58,7 @@
         "fct:id":"03488fbe-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2145155,
         "gp:id":1099197,
-        "qs:id":1070627,
+        "qs_pg:id":1070627,
         "wd:id":"Q7934082",
         "wk:page":"Virginia, Queensland"
     },
@@ -80,7 +83,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1562901930,
+    "wof:lastmodified":1566601653,
     "wof:name":"Virginia",
     "wof:parent_id":404544547,
     "wof:placetype":"locality",

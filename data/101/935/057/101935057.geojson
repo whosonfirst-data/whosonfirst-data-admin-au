@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-21.174058,
     "lbl:longitude":149.147965,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-21.174058,
     "mps:longitude":149.147965,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ooralea"
     ],
@@ -33,7 +36,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681463,
         102191583,
@@ -45,7 +48,7 @@
     "wof:concordances":{
         "gn:id":8349315,
         "gp:id":28586745,
-        "qs:id":1222563
+        "qs_pg:id":1222563
     },
     "wof:country":"AU",
     "wof:geomhash":"62b0c201e495fdc65d36b052aa80460b",
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":101935057,
-    "wof:lastmodified":1550719804,
+    "wof:lastmodified":1566601688,
     "wof:name":"Ooralea",
     "wof:parent_id":102048783,
     "wof:placetype":"locality",

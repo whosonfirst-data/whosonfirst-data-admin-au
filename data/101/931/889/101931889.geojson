@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-33.977765,
     "lbl:longitude":151.105499,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-33.977765,
     "mps:longitude":151.105499,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "South Hurstville"
     ],
@@ -48,7 +51,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":662,
     "wof:belongsto":[
         85681545,
@@ -63,7 +66,7 @@
     "wof:concordances":{
         "gn:id":8348753,
         "gp:id":22721370,
-        "qs:id":1248820,
+        "qs_pg:id":1248820,
         "wd:id":"Q6271749",
         "wk:page":"South Hurstville, New South Wales"
     },
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":101931889,
-    "wof:lastmodified":1562898490,
+    "wof:lastmodified":1566601172,
     "wof:name":"South Hurstville",
     "wof:parent_id":404226161,
     "wof:placetype":"locality",

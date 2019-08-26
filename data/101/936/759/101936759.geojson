@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-34.971569,
     "lbl:longitude":138.595309,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-34.971569,
     "mps:longitude":138.595309,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Westbourne Park"
     ],
@@ -36,7 +39,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":447,
     "wof:belongsto":[
         85681519,
@@ -51,7 +54,7 @@
     "wof:concordances":{
         "gn:id":8349015,
         "gp:id":7225913,
-        "qs:id":344424,
+        "qs_pg:id":344424,
         "wd:id":"Q7987151",
         "wk:page":"Westbourne Park, South Australia"
     },
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":101936759,
-    "wof:lastmodified":1561827818,
+    "wof:lastmodified":1566601135,
     "wof:name":"Westbourne Park",
     "wof:parent_id":404546567,
     "wof:placetype":"locality",

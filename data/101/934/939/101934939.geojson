@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-27.731289,
     "lbl:longitude":153.205216,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-27.731289,
     "mps:longitude":153.205216,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mount Warren Park"
     ],
@@ -39,7 +42,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":159,
     "wof:belongsto":[
         85681463,
@@ -54,7 +57,7 @@
     "wof:concordances":{
         "gn:id":8348285,
         "gp:id":7225526,
-        "qs:id":384271,
+        "qs_pg:id":384271,
         "wd:id":"Q14935516",
         "wk:page":"Mount Warren Park, Queensland"
     },
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":101934939,
-    "wof:lastmodified":1562902418,
+    "wof:lastmodified":1566601702,
     "wof:name":"Mount Warren Park",
     "wof:parent_id":404543407,
     "wof:placetype":"locality",

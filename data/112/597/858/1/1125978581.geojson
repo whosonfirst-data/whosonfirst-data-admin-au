@@ -9,15 +9,18 @@
     "geom:bbox":"145.15,-35.31667,145.15,-35.31667",
     "geom:latitude":-35.31667,
     "geom:longitude":145.15,
-    "gn:gn_country":"AU",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":189,
+    "gn:country":"AU",
+    "gn:fcode":"PPL",
     "gn:population":189,
     "iso:country":"AU",
+    "lbl:bbox":"145.13,-35.33667,145.17,-35.29667",
     "lbl:latitude":-35.31667,
     "lbl:longitude":145.15,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Conargo"
@@ -43,7 +46,7 @@
     "name:swe_x_preferred":[
         "Conargo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Town of Conargo"
     ],
     "qs_pg:aaroncc":"AU",
@@ -67,7 +70,7 @@
     "qs_pg:woe_adm0":23424748,
     "qs_pg:woe_id":1101274,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":1125978581,
-    "wof:lastmodified":1562922926,
+    "wof:lastmodified":1566603355,
     "wof:name":"Conargo",
     "wof:parent_id":404222713,
     "wof:placetype":"locality",

@@ -9,15 +9,16 @@
     "geom:bbox":"153.497206551,-28.1424967782,153.497206551,-28.1424967782",
     "geom:latitude":-28.142497,
     "geom:longitude":153.497207,
-    "gn:gn_country":"AU",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":4819,
+    "gn:country":"AU",
+    "gn:fcode":"PPL",
     "gn:latitude":-28.15,
     "gn:longitude":153.5,
     "gn:population":4819,
     "iso:country":"AU",
+    "lbl:bbox":"153.492206551,-28.1474967782,153.502206551,-28.1374967782",
     "lbl:latitude":-28.142855,
     "lbl:longitude":153.49696,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-28.142855,
     "mps:longitude":153.496965,
     "mz:hierarchy_label":0,
@@ -45,9 +46,6 @@
         "Tugun"
     ],
     "name:swe_x_preferred":[
-        "Tugun"
-    ],
-    "name:unk_x_variant":[
         "Tugun"
     ],
     "qs:gn_adm0_cc":"AU",
@@ -98,9 +96,8 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
-    "wof:belongs_to":[],
     "wof:belongsto":[
         102193527,
         136253039,
@@ -110,7 +107,6 @@
     "wof:concordances":{
         "gn:id":2145929,
         "gp:id":1099040,
-        "qs:id":5897,
         "qs_pg:id":5897,
         "wd:id":"Q7851674",
         "wk:page":"Tugun, Queensland"
@@ -136,7 +132,7 @@
         }
     ],
     "wof:id":85770501,
-    "wof:lastmodified":1562895340,
+    "wof:lastmodified":1566600545,
     "wof:name":"Tugun",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

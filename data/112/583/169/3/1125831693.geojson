@@ -9,19 +9,23 @@
     "geom:bbox":"115.9,-33.46667,115.9,-33.46667",
     "geom:latitude":-33.46667,
     "geom:longitude":115.9,
-    "gn:gn_country":"AU",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"AU",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"AU",
+    "lbl:bbox":"115.88,-33.48667,115.92,-33.44667",
     "lbl:latitude":-33.46667,
     "lbl:longitude":115.9,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Wellington Mill"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Wellington Mills"
     ],
     "qs_pg:aaroncc":"AU",
@@ -45,7 +49,7 @@
     "qs_pg:woe_adm0":23424748,
     "qs_pg:woe_id":1106564,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Western Australia",
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":1125831693,
-    "wof:lastmodified":1513898691,
+    "wof:lastmodified":1566603464,
     "wof:name":"Wellington Mill",
     "wof:parent_id":404547265,
     "wof:placetype":"locality",

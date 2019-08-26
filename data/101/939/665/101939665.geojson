@@ -13,6 +13,8 @@
     "iso:country":"AU",
     "lbl:latitude":-33.376142,
     "lbl:longitude":148.005911,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":-33.376142,
     "mps:longitude":148.005911,
     "mz:hierarchy_label":1,
@@ -170,7 +172,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-33.383333,
     "wd:longitude":148.016667,
@@ -188,7 +190,6 @@
         "fct:id":"0333a9aa-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2166368,
         "gp:id":1102075,
-        "qs:id":138787,
         "qs_pg:id":138787,
         "wd:id":"Q2107368",
         "wk:page":"Forbes, New South Wales"
@@ -210,7 +211,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1562899715,
+    "wof:lastmodified":1566601363,
     "wof:name":"Forbes",
     "wof:parent_id":404223455,
     "wof:placetype":"locality",

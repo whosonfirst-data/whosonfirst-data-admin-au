@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-28.651626,
     "lbl:longitude":151.930242,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":-28.651626,
     "mps:longitude":151.930242,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Stanthorpe"
     ],
@@ -63,7 +66,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-28.666667,
     "wd:longitude":151.615833,
@@ -81,7 +84,6 @@
     "wof:concordances":{
         "gn:id":2148507,
         "gp:id":1105676,
-        "qs:id":247148,
         "qs_pg:id":247148,
         "wd:id":"Q268059",
         "wk:page":"Stanthorpe, Queensland"
@@ -104,7 +106,7 @@
         }
     ],
     "wof:id":101935373,
-    "wof:lastmodified":1562902345,
+    "wof:lastmodified":1566601695,
     "wof:name":"Stanthorpe",
     "wof:parent_id":404544183,
     "wof:placetype":"locality",

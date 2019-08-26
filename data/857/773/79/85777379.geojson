@@ -9,14 +9,16 @@
     "geom:bbox":"153.374344,-27.891973,153.374344,-27.891973",
     "geom:latitude":-27.891973,
     "geom:longitude":153.374344,
-    "gn:gn_country":"AU",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"AU",
+    "gn:fcode":"PPL",
     "gn:latitude":-27.88663,
     "gn:longitude":153.3933,
+    "gn:population":0,
     "iso:country":"AU",
+    "lbl:bbox":"153.369344,-27.896973,153.379344,-27.886973",
     "lbl:latitude":-27.891817,
     "lbl:longitude":153.374005,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-27.891817,
     "mps:longitude":153.374005,
     "mz:hierarchy_label":0,
@@ -41,9 +43,6 @@
         "Paradise Point"
     ],
     "name:ita_x_preferred":[
-        "Paradise Point"
-    ],
-    "name:unk_x_variant":[
         "Paradise Point"
     ],
     "qs:gn_adm0_cc":"AU",
@@ -93,8 +92,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191583,
         1376953307,
@@ -109,7 +107,6 @@
     "wof:concordances":{
         "gn:id":6697782,
         "gp:id":22721569,
-        "qs:id":224698,
         "qs_pg:id":224698,
         "wd:id":"Q7134339",
         "wk:page":"Paradise Point, Queensland"
@@ -130,7 +127,7 @@
         }
     ],
     "wof:id":85777379,
-    "wof:lastmodified":1562895572,
+    "wof:lastmodified":1566600610,
     "wof:name":"Paradise Point",
     "wof:parent_id":101934523,
     "wof:placetype":"neighbourhood",

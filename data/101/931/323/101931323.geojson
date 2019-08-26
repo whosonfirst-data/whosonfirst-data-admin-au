@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-33.903345,
     "lbl:longitude":150.905712,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-33.903345,
     "mps:longitude":150.905712,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mount Pritchard"
     ],
@@ -42,7 +45,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":610,
     "wof:belongsto":[
         85681545,
@@ -57,7 +60,7 @@
     "wof:concordances":{
         "gn:id":8348692,
         "gp:id":22721292,
-        "qs:id":1056721,
+        "qs_pg:id":1056721,
         "wd:id":"Q6923055",
         "wk:page":"Mount Pritchard"
     },
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":101931323,
-    "wof:lastmodified":1561827830,
+    "wof:lastmodified":1566601191,
     "wof:name":"Mount Pritchard",
     "wof:parent_id":404225083,
     "wof:placetype":"locality",

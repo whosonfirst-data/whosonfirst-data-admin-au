@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-37.838232,
     "lbl:longitude":145.198967,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-37.838232,
     "mps:longitude":145.198967,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Vermont"
     ],
@@ -526,7 +529,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681497,
@@ -541,7 +544,7 @@
     "wof:concordances":{
         "gn:id":2145267,
         "gp:id":1099179,
-        "qs:id":886313,
+        "qs_pg:id":886313,
         "wd:id":"Q7921664"
     },
     "wof:coterminous":[
@@ -562,7 +565,7 @@
         }
     ],
     "wof:id":101933665,
-    "wof:lastmodified":1562903250,
+    "wof:lastmodified":1566601793,
     "wof:name":"Vermont",
     "wof:parent_id":404540603,
     "wof:placetype":"locality",

@@ -13,6 +13,8 @@
     "iso:country":"AU",
     "lbl:latitude":-28.652511,
     "lbl:longitude":153.613419,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-28.652511,
     "mps:longitude":153.613419,
     "mz:hierarchy_label":1,
@@ -210,7 +212,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-28.643067,
     "wd:longitude":153.615131,
@@ -227,7 +229,6 @@
     "wof:concordances":{
         "gn:id":2172880,
         "gp:id":1094857,
-        "qs:id":5208,
         "qs_pg:id":5208,
         "wd:id":"Q1018597",
         "wk:page":"Byron Bay, New South Wales"
@@ -249,7 +250,7 @@
         }
     ],
     "wof:id":101929759,
-    "wof:lastmodified":1562903528,
+    "wof:lastmodified":1566601825,
     "wof:name":"Byron Bay",
     "wof:parent_id":404222361,
     "wof:placetype":"locality",

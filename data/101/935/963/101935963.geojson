@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-33.651884,
     "lbl:longitude":134.890788,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":-33.651884,
     "mps:longitude":134.890788,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Elliston"
     ],
@@ -41,9 +44,6 @@
     "name:swe_x_preferred":[
         "Elliston"
     ],
-    "name:unk_x_variant":[
-        "Eiliston"
-    ],
     "qs:a0":"Australia",
     "qs:a1":"*South Australia",
     "qs:a1_lc":"4",
@@ -60,7 +60,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1053,
     "wof:belongsto":[
@@ -76,7 +76,6 @@
         "fct:id":"0330214a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2072053,
         "gp:id":1101894,
-        "qs:id":6224,
         "qs_pg:id":6224,
         "wd:id":"Q3723553",
         "wk:page":"Elliston, South Australia"
@@ -101,7 +100,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1562901949,
+    "wof:lastmodified":1566601654,
     "wof:name":"Elliston",
     "wof:parent_id":404545261,
     "wof:placetype":"locality",

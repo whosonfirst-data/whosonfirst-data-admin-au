@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-27.560479,
     "lbl:longitude":152.281634,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-27.560479,
     "mps:longitude":152.281634,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Gatton"
     ],
@@ -62,7 +65,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-27.55,
     "wd:longitude":152.283333,
@@ -79,7 +82,6 @@
     "wof:concordances":{
         "gn:id":2165828,
         "gp:id":1102162,
-        "qs:id":1034125,
         "qs_pg:id":1034125,
         "wd:id":"Q985983",
         "wk:page":"Gatton, Queensland"
@@ -98,7 +100,7 @@
         }
     ],
     "wof:id":101940701,
-    "wof:lastmodified":1562900964,
+    "wof:lastmodified":1566601530,
     "wof:name":"Gatton",
     "wof:parent_id":404542277,
     "wof:placetype":"locality",

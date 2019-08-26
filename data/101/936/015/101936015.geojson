@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-34.927996,
     "lbl:longitude":138.512745,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-34.927996,
     "mps:longitude":138.512745,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Fulham"
     ],
@@ -33,14 +36,14 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":638,
     "wof:belongsto":[
         85681519,
         102191583,
-        85632793,
-        404545331,
         1376953367,
+        404545331,
+        85632793,
         136253039,
         102049621
     ],
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":101936015,
-    "wof:lastmodified":1550724230,
+    "wof:lastmodified":1566601108,
     "wof:name":"Fulham",
     "wof:parent_id":404545331,
     "wof:placetype":"locality",

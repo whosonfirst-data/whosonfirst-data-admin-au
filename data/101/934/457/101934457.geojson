@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-27.567881,
     "lbl:longitude":151.889148,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-27.567881,
     "mps:longitude":151.889148,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Glenvale"
     ],
@@ -36,7 +39,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":339,
     "wof:belongsto":[
         85681463,
@@ -50,7 +53,7 @@
     "wof:concordances":{
         "gn:id":8349317,
         "gp:id":28585242,
-        "qs:id":1182366,
+        "qs_pg:id":1182366,
         "wd:id":"Q5569377",
         "wk:page":"Glenvale, Queensland"
     },
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":101934457,
-    "wof:lastmodified":1561827989,
+    "wof:lastmodified":1566601740,
     "wof:name":"Glenvale",
     "wof:parent_id":404542339,
     "wof:placetype":"locality",

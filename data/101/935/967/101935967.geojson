@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-34.864629,
     "lbl:longitude":138.605884,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":-34.864629,
     "mps:longitude":138.605884,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Enfield"
     ],
@@ -49,7 +52,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":515,
     "wof:belongsto":[
@@ -65,7 +68,7 @@
     "wof:concordances":{
         "gn:id":6621335,
         "gp:id":1107157,
-        "qs:id":160946,
+        "qs_pg:id":160946,
         "wd:id":"Q5377280",
         "wk:page":"Enfield, South Australia"
     },
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":101935967,
-    "wof:lastmodified":1562902173,
+    "wof:lastmodified":1566601676,
     "wof:name":"Enfield",
     "wof:parent_id":404545265,
     "wof:placetype":"locality",

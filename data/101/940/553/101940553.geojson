@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-36.017154,
     "lbl:longitude":146.008334,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-36.017154,
     "mps:longitude":146.008334,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Yarrawonga"
     ],
@@ -44,9 +47,6 @@
     "name:swe_x_preferred":[
         "Yarrawonga"
     ],
-    "name:unk_x_variant":[
-        "Yarrawonga"
-    ],
     "qs:a0":"Australia",
     "qs:a1":"*Victoria",
     "qs:a1_lc":"2",
@@ -62,7 +62,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":-36.016667,
     "wd:longitude":146.0,
     "wd:wordcount":439,
@@ -95,7 +95,7 @@
         }
     ],
     "wof:id":101940553,
-    "wof:lastmodified":1562901231,
+    "wof:lastmodified":1566601566,
     "wof:name":"Yarrawonga-Mulwala",
     "wof:parent_id":404540917,
     "wof:placetype":"locality",

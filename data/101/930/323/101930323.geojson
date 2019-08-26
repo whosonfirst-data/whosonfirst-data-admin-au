@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-33.880609,
     "lbl:longitude":151.178104,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-33.880609,
     "mps:longitude":151.178104,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Forest Lodge"
     ],
@@ -48,7 +51,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":597,
     "wof:belongsto":[
         85681545,
@@ -63,7 +66,7 @@
     "wof:concordances":{
         "gn:id":8348897,
         "gp:id":7225673,
-        "qs:id":422579,
+        "qs_pg:id":422579,
         "wd:id":"Q2900723",
         "wk:page":"Forest Lodge, New South Wales"
     },
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":101930323,
-    "wof:lastmodified":1562899963,
+    "wof:lastmodified":1566601400,
     "wof:name":"Forest Lodge",
     "wof:parent_id":404223459,
     "wof:placetype":"locality",

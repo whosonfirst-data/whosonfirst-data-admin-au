@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-37.997008,
     "lbl:longitude":145.423096,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":-37.997008,
     "mps:longitude":145.423096,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Beaconsfield Upper"
     ],
@@ -41,9 +44,6 @@
     "name:swe_x_preferred":[
         "Beaconsfield Upper"
     ],
-    "name:unk_x_variant":[
-        "Upper Beaconsfield"
-    ],
     "name:wuu_x_preferred":[
         "\u5317\u8d1d\u5b54\u65af\u83f2\u5c14\u5fb7"
     ],
@@ -65,7 +65,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-37.996,
     "wd:longitude":145.415,
@@ -83,7 +83,6 @@
         "fct:id":"033116ae-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2176537,
         "gp:id":1094298,
-        "qs:id":881214,
         "qs_pg:id":881214,
         "wd:id":"Q4876041",
         "wk:page":"Beaconsfield Upper, Victoria"
@@ -105,7 +104,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1562901055,
+    "wof:lastmodified":1566601544,
     "wof:name":"Beaconsfield Upper",
     "wof:parent_id":404537705,
     "wof:placetype":"locality",

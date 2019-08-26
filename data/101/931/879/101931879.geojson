@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-35.655215,
     "lbl:longitude":150.28809,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-35.655215,
     "mps:longitude":150.28809,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "South Durras"
     ],
@@ -48,7 +51,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":-35.6622,
     "wd:longitude":150.292,
     "wd:wordcount":552,
@@ -65,10 +68,12 @@
         "fct:id":"033718e2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2168019,
         "gp:id":1101805,
-        "qs:id":1287580,
         "qs_pg:id":884131,
         "wd:id":"Q7567089",
         "wk:page":"South Durras, New South Wales"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1287580
     },
     "wof:coterminous":[
         404226145
@@ -90,7 +95,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561827835,
+    "wof:lastmodified":1566601208,
     "wof:name":"South Durras",
     "wof:parent_id":404226145,
     "wof:placetype":"locality",

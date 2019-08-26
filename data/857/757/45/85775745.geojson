@@ -13,8 +13,10 @@
     "gn:longitude":150.50595,
     "gn:population":61724,
     "iso:country":"AU",
+    "lbl:bbox":"150.477483,-23.372472,150.487483,-23.362472",
     "lbl:latitude":-23.367472,
     "lbl:longitude":150.482483,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-23.368356,
     "mps:longitude":150.479052,
     "mz:hierarchy_label":0,
@@ -186,10 +188,6 @@
     "name:ukr_x_preferred":[
         "\u0420\u043e\u043a\u0433\u0435\u043c\u043f\u0442\u043e\u043d"
     ],
-    "name:unk_x_variant":[
-        "Rockhampton",
-        "West Rockhampton"
-    ],
     "name:urd_x_preferred":[
         "\u0631\u0627\u06a9\u06c1\u06cc\u0645\u067e\u0679\u0646"
     ],
@@ -299,7 +297,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "src:population":"geonames",
     "wof:belongsto":[
         102191583,
@@ -314,7 +312,6 @@
     "wof:concordances":{
         "gn:id":2151437,
         "gp:id":7226206,
-        "qs:id":1062253,
         "qs_pg:id":1062253,
         "wd:id":"Q606162",
         "wk:page":"Rockhampton"
@@ -337,7 +334,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1562895434,
+    "wof:lastmodified":1566600568,
     "wof:name":"West Rockhampton",
     "wof:parent_id":101935577,
     "wof:placetype":"neighbourhood",

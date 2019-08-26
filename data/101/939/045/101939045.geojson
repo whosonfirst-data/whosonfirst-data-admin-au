@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-35.069559,
     "lbl:longitude":138.867675,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-35.069559,
     "mps:longitude":138.867675,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Mount Barker"
     ],
@@ -262,7 +265,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-35.0667,
     "wd:longitude":138.85,
@@ -281,7 +284,6 @@
         "fct:id":"033419da-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2065665,
         "gp:id":1104144,
-        "qs:id":6544,
         "qs_pg:id":6544,
         "wd:id":"Q1010639",
         "wk:page":"Mount Barker, South Australia"
@@ -304,7 +306,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1562899634,
+    "wof:lastmodified":1566601350,
     "wof:name":"Mount Barker",
     "wof:parent_id":404545855,
     "wof:placetype":"locality",

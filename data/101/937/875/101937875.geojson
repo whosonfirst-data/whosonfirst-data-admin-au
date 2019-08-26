@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-30.778827,
     "lbl:longitude":121.472761,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-30.778827,
     "mps:longitude":121.472761,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Victory Heights"
     ],
@@ -33,7 +36,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":47.7064,
     "wd:longitude":-122.307,
     "wd:wordcount":130,
@@ -49,7 +52,7 @@
     "wof:concordances":{
         "gn:id":8348324,
         "gp:id":7226175,
-        "qs:id":17455,
+        "qs_pg:id":17455,
         "wd:id":"Q28942225"
     },
     "wof:coterminous":[
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":101937875,
-    "wof:lastmodified":1550720465,
+    "wof:lastmodified":1566601448,
     "wof:name":"Victory Heights",
     "wof:parent_id":404548439,
     "wof:placetype":"locality",

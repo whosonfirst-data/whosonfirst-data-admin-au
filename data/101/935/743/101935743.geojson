@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-34.676019,
     "lbl:longitude":138.662147,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-34.676019,
     "mps:longitude":138.662147,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Andrews Farm"
     ],
@@ -36,7 +39,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":459,
     "wof:belongsto":[
         85681519,
@@ -51,7 +54,7 @@
     "wof:concordances":{
         "gn:id":8348194,
         "gp:id":22721719,
-        "qs:id":246092,
+        "qs_pg:id":246092,
         "wd:id":"Q4759071",
         "wk:page":"Andrews Farm, South Australia"
     },
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":101935743,
-    "wof:lastmodified":1561827977,
+    "wof:lastmodified":1566601692,
     "wof:name":"Andrews Farm",
     "wof:parent_id":404544891,
     "wof:placetype":"locality",

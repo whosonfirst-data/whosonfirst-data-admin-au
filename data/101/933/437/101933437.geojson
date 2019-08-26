@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-38.250037,
     "lbl:longitude":144.673442,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":-38.250037,
     "mps:longitude":144.673442,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Queenscliff"
     ],
@@ -72,7 +75,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681497,
@@ -87,7 +90,6 @@
     "wof:concordances":{
         "gn:id":2152279,
         "gp:id":1105224,
-        "qs:id":919075,
         "qs_pg:id":919075,
         "wd:id":"Q3359425",
         "wk:page":"Queenscliff, Victoria"
@@ -110,7 +112,7 @@
         }
     ],
     "wof:id":101933437,
-    "wof:lastmodified":1562902976,
+    "wof:lastmodified":1566601763,
     "wof:name":"Queenscliff",
     "wof:parent_id":404539997,
     "wof:placetype":"locality",

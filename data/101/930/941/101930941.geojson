@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-32.944882,
     "lbl:longitude":151.69807,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":-32.944882,
     "mps:longitude":151.69807,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Kotara"
     ],
@@ -43,7 +46,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681545,
@@ -58,7 +61,7 @@
     "wof:concordances":{
         "gn:id":2161029,
         "gp:id":1096724,
-        "qs:id":5473,
+        "qs_pg:id":5473,
         "wd:id":"Q6433876",
         "wk:page":"Kotara, New South Wales"
     },
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":101930941,
-    "wof:lastmodified":1561827886,
+    "wof:lastmodified":1566601399,
     "wof:name":"Kotara",
     "wof:parent_id":404224319,
     "wof:placetype":"locality",

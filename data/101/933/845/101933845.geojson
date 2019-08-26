@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-24.877632,
     "lbl:longitude":152.303522,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-24.877632,
     "mps:longitude":152.303522,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Avoca"
     ],
@@ -87,7 +90,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":164,
     "wof:belongsto":[
         85681463,
@@ -101,7 +104,7 @@
     "wof:concordances":{
         "gn:id":8349202,
         "gp:id":28583913,
-        "qs:id":1205483,
+        "qs_pg:id":1205483,
         "wd:id":"Q16836135"
     },
     "wof:coterminous":[
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":101933845,
-    "wof:lastmodified":1562902916,
+    "wof:lastmodified":1566601757,
     "wof:name":"Avoca",
     "wof:parent_id":404541095,
     "wof:placetype":"locality",

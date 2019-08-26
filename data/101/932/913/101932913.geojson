@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-37.727516,
     "lbl:longitude":144.899019,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-37.727516,
     "mps:longitude":144.899019,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Essendon Fields"
     ],
@@ -33,14 +36,14 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":101,
     "wof:belongsto":[
         85681497,
         102191583,
-        85632793,
-        404538539,
         1376953283,
+        404538539,
+        85632793,
         136253039,
         102049001
     ],
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":101932913,
-    "wof:lastmodified":1550754432,
+    "wof:lastmodified":1566601621,
     "wof:name":"Essendon Fields",
     "wof:parent_id":404538539,
     "wof:placetype":"locality",

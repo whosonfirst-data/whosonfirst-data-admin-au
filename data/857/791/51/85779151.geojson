@@ -11,8 +11,10 @@
     "geom:longitude":147.307966,
     "gn:id":"",
     "iso:country":"AU",
+    "lbl:bbox":"147.302966,-42.826464,147.312966,-42.816464",
     "lbl:latitude":-42.821464,
     "lbl:longitude":147.307966,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-42.81683,
     "mps:longitude":147.309522,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":3,
     "name:eng_x_preferred":[
-        "Dowsing Point"
-    ],
-    "name:unk_x_variant":[
         "Dowsing Point"
     ],
     "qs:gn_id":0,
@@ -54,13 +53,12 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22739309,
-        "qs:id":430878
+        "qs_pg:id":430878
     },
     "wof:country":"AU",
     "wof:geomhash":"33d36a7bae8f1bada14ce7b461b33d5f",
@@ -77,7 +75,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1551830867,
+    "wof:lastmodified":1566600483,
     "wof:name":"Dowsing Point",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

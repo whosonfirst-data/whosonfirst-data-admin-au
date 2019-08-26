@@ -18,10 +18,13 @@
     ],
     "lbl:latitude":-10.181578,
     "lbl:longitude":142.26641,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-10.181578,
     "mps:longitude":142.26641,
     "mz:hierarchy_label":0,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Torres Strait Island"
     ],
@@ -39,8 +42,7 @@
     "qs:source":"Australia Census",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191583,
         85681463,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":102048439,
-    "wof:lastmodified":1560814017,
+    "wof:lastmodified":1566600048,
     "wof:name":"Torres Strait Island",
     "wof:parent_id":85681463,
     "wof:placetype":"county",

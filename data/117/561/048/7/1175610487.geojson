@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-34.988916,
     "lbl:longitude":138.827769,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":-34.988916,
     "mps:longitude":138.827769,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Balhannah"
     ],
@@ -52,7 +55,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-34.983333,
     "wd:longitude":138.816667,
@@ -72,7 +75,6 @@
         "fct:id":"032fbe62-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2077296,
         "gp:id":1094205,
-        "qs:id":114937,
         "qs_pg:id":114937,
         "wd:id":"Q2675436",
         "wk:page":"Balhannah"
@@ -91,7 +93,7 @@
         }
     ],
     "wof:id":1175610487,
-    "wof:lastmodified":1562897407,
+    "wof:lastmodified":1566601018,
     "wof:name":"Balhannah",
     "wof:parent_id":404544927,
     "wof:placetype":"locality",

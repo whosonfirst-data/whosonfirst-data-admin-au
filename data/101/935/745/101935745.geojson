@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-34.8562,
     "lbl:longitude":138.560799,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-34.8562,
     "mps:longitude":138.560799,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Angle Park"
     ],
@@ -36,14 +39,14 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":777,
     "wof:belongsto":[
         85681519,
         102191583,
-        85632793,
-        404544895,
         1376953367,
+        404544895,
+        85632793,
         136253039,
         102048839
     ],
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":101935745,
-    "wof:lastmodified":1550754931,
+    "wof:lastmodified":1566601696,
     "wof:name":"Angle Park",
     "wof:parent_id":404544895,
     "wof:placetype":"locality",

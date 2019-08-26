@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-33.898464,
     "lbl:longitude":151.233826,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-33.898464,
     "mps:longitude":151.233826,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Centennial Park"
     ],
@@ -72,7 +75,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":160,
     "wof:belongsto":[
         85681545,
@@ -87,7 +90,7 @@
     "wof:concordances":{
         "gn:id":8349193,
         "gp:id":7225600,
-        "qs:id":1178993,
+        "qs_pg:id":1178993,
         "wd:id":"Q1138446"
     },
     "wof:coterminous":[
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":101929875,
-    "wof:lastmodified":1562903416,
+    "wof:lastmodified":1566601812,
     "wof:name":"Centennial Park",
     "wof:parent_id":404222559,
     "wof:placetype":"locality",

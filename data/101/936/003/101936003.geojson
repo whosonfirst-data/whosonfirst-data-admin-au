@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-34.896581,
     "lbl:longitude":138.59215,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-34.896581,
     "mps:longitude":138.59215,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Fitzroy"
     ],
@@ -39,7 +42,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":354,
     "wof:belongsto":[
         85681519,
@@ -54,7 +57,7 @@
     "wof:concordances":{
         "gn:id":8347967,
         "gp:id":22721651,
-        "qs:id":934068,
+        "qs_pg:id":934068,
         "wd:id":"Q5455681",
         "wk:page":"Fitzroy, South Australia"
     },
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":101936003,
-    "wof:lastmodified":1562898275,
+    "wof:lastmodified":1566601143,
     "wof:name":"Fitzroy",
     "wof:parent_id":404545307,
     "wof:placetype":"locality",

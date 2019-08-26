@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-37.57993,
     "lbl:longitude":143.806578,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":-37.57993,
     "mps:longitude":143.806578,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Delacombe"
     ],
@@ -40,7 +43,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":565,
     "wof:belongsto":[
@@ -55,7 +58,7 @@
     "wof:concordances":{
         "gn:id":8015185,
         "gp:id":28584790,
-        "qs:id":335804,
+        "qs_pg:id":335804,
         "wd:id":"Q5253058"
     },
     "wof:coterminous":[
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":101932835,
-    "wof:lastmodified":1562901546,
+    "wof:lastmodified":1566601609,
     "wof:name":"Delacombe",
     "wof:parent_id":404538341,
     "wof:placetype":"locality",

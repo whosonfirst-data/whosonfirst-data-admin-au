@@ -12,6 +12,8 @@
     "iso:country":"AU",
     "lbl:latitude":-27.558663,
     "lbl:longitude":151.935684,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-27.558663,
     "mps:longitude":151.935684,
     "mz:hierarchy_label":1,
@@ -150,9 +152,6 @@
     "name:ukr_x_preferred":[
         "\u0422\u0443\u0432\u0443\u043c\u0431\u0430"
     ],
-    "name:unk_x_variant":[
-        "Toowoomba"
-    ],
     "name:urd_x_preferred":[
         "\u0679\u0648\u0648\u0648\u0645\u0628\u0627"
     ],
@@ -276,7 +275,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":265,
     "wof:belongsto":[
         85681463,
@@ -310,7 +309,7 @@
         }
     ],
     "wof:id":101935009,
-    "wof:lastmodified":1562902051,
+    "wof:lastmodified":1566601664,
     "wof:name":"Newtown",
     "wof:parent_id":404543523,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-32.791235,
     "lbl:longitude":151.676871,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-32.791235,
     "mps:longitude":151.676871,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Woodberry"
     ],
@@ -36,7 +39,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":302,
     "wof:belongsto":[
         85681545,
@@ -51,7 +54,7 @@
     "wof:concordances":{
         "gn:id":8348013,
         "gp:id":28588096,
-        "qs:id":1321547,
+        "qs_pg:id":1321547,
         "wd:id":"Q8032347",
         "wk:page":"Woodberry, New South Wales"
     },
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":101932385,
-    "wof:lastmodified":1561827954,
+    "wof:lastmodified":1566601618,
     "wof:name":"Woodberry",
     "wof:parent_id":404227147,
     "wof:placetype":"locality",

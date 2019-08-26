@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-33.925447,
     "lbl:longitude":151.067243,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-33.925447,
     "mps:longitude":151.067243,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Wiley Park"
     ],
@@ -48,7 +51,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":774,
     "wof:belongsto":[
         85681545,
@@ -63,7 +66,7 @@
     "wof:concordances":{
         "gn:id":8348839,
         "gp:id":22721237,
-        "qs:id":205732,
+        "qs_pg:id":205732,
         "wd:id":"Q8001633",
         "wk:page":"Wiley Park, New South Wales"
     },
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":101932343,
-    "wof:lastmodified":1562901902,
+    "wof:lastmodified":1566601649,
     "wof:name":"Wiley Park",
     "wof:parent_id":404227051,
     "wof:placetype":"locality",

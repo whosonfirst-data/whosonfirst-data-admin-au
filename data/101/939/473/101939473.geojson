@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-30.384788,
     "lbl:longitude":150.605967,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-30.384788,
     "mps:longitude":150.605967,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Barraba"
     ],
@@ -77,7 +80,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: urban areas and localities selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1486,
     "wof:belongsto":[
         85681545,
@@ -91,7 +94,7 @@
     "wof:concordances":{
         "gn:id":2176771,
         "gp:id":28587858,
-        "qs:id":1034266,
+        "qs_pg:id":1034266,
         "wd:id":"Q808793",
         "wk:page":"Barraba, New South Wales"
     },
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":101939473,
-    "wof:lastmodified":1562899669,
+    "wof:lastmodified":1566601355,
     "wof:name":"Barraba",
     "wof:parent_id":404221699,
     "wof:placetype":"locality",

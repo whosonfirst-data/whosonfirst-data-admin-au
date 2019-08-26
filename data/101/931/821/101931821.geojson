@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-33.639769,
     "lbl:longitude":151.291269,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-33.639769,
     "mps:longitude":151.291269,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09b8\u09cd\u0995\u099f\u09b2\u09cd\u09af\u09be\u09a8\u09cd\u09a1 \u09a6\u09cd\u09ac\u09c0\u09aa"
     ],
@@ -63,7 +66,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681545,
         102191583,
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":101931821,
-    "wof:lastmodified":1562898506,
+    "wof:lastmodified":1566601175,
     "wof:name":"Scotland Island",
     "wof:parent_id":404226047,
     "wof:placetype":"locality",

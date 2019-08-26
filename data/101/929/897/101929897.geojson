@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-33.969057,
     "lbl:longitude":151.238498,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-33.969057,
     "mps:longitude":151.238498,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Chifley"
     ],
@@ -51,7 +54,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":486,
     "wof:belongsto":[
         85681545,
@@ -66,7 +69,7 @@
     "wof:concordances":{
         "gn:id":8347887,
         "gp:id":22726590,
-        "qs:id":1182584,
+        "qs_pg:id":1182584,
         "wd:id":"Q2896400",
         "wk:page":"Chifley, New South Wales"
     },
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":101929897,
-    "wof:lastmodified":1562903602,
+    "wof:lastmodified":1566601834,
     "wof:name":"Chifley",
     "wof:parent_id":404222593,
     "wof:placetype":"locality",

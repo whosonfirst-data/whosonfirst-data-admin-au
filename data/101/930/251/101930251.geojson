@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-34.028495,
     "lbl:longitude":150.811641,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-34.028495,
     "mps:longitude":150.811641,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Eschol Park"
     ],
@@ -39,7 +42,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":709,
     "wof:belongsto":[
         85681545,
@@ -53,7 +56,7 @@
     "wof:concordances":{
         "gn:id":8348549,
         "gp:id":22721316,
-        "qs:id":1159213,
+        "qs_pg:id":1159213,
         "wd:id":"Q5397213",
         "wk:page":"Eschol Park, New South Wales"
     },
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":101930251,
-    "wof:lastmodified":1561827885,
+    "wof:lastmodified":1566601396,
     "wof:name":"Eschol Park",
     "wof:parent_id":404223311,
     "wof:placetype":"locality",

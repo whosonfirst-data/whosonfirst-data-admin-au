@@ -13,6 +13,8 @@
     "iso:country":"AU",
     "lbl:latitude":-29.303889,
     "lbl:longitude":114.938896,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":-29.303889,
     "mps:longitude":114.938896,
     "mz:hierarchy_label":1,
@@ -39,7 +41,7 @@
     "name:swe_x_preferred":[
         "Port Denison"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Denison"
     ],
     "ne:ADM0CAP":0.0,
@@ -150,7 +152,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-29.2833,
     "wd:longitude":114.917,
@@ -167,10 +169,12 @@
     "wof:concordances":{
         "gn:id":2072950,
         "gp:id":1101644,
-        "qs:id":1159482,
         "qs_pg:id":1110168,
         "wd:id":"Q7230578",
         "wk:page":"Port Denison, Western Australia"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1159482
     },
     "wof:coterminous":[
         404548153
@@ -189,7 +193,7 @@
         }
     ],
     "wof:id":101937697,
-    "wof:lastmodified":1562900589,
+    "wof:lastmodified":1566601480,
     "wof:name":"Port Denison",
     "wof:parent_id":404548153,
     "wof:placetype":"locality",

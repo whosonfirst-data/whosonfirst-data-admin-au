@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-33.707122,
     "lbl:longitude":150.907241,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-33.707122,
     "mps:longitude":150.907241,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "The Ponds"
     ],
@@ -39,7 +42,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":817,
     "wof:belongsto":[
         85681545,
@@ -54,7 +57,7 @@
     "wof:concordances":{
         "gn:id":8349329,
         "gp:id":55864595,
-        "qs:id":335851,
+        "qs_pg:id":335851,
         "wd:id":"Q7757721",
         "wk:page":"The Ponds, New South Wales"
     },
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":101932085,
-    "wof:lastmodified":1561827950,
+    "wof:lastmodified":1566601604,
     "wof:name":"The Ponds",
     "wof:parent_id":404226517,
     "wof:placetype":"locality",

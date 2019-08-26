@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-34.031833,
     "lbl:longitude":151.10243,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-34.031833,
     "mps:longitude":151.10243,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Miranda"
     ],
@@ -55,7 +58,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681545,
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":101931251,
-    "wof:lastmodified":1562898570,
+    "wof:lastmodified":1566601185,
     "wof:name":"Miranda",
     "wof:parent_id":404224923,
     "wof:placetype":"locality",
