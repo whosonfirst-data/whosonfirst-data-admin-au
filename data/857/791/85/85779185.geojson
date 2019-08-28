@@ -12,8 +12,10 @@
     "gn:latitude":-42.91404,
     "gn:longitude":147.30705,
     "iso:country":"AU",
+    "lbl:bbox":"147.28669,-42.930487,147.29669,-42.920487",
     "lbl:latitude":-42.925487,
     "lbl:longitude":147.29169,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-42.925487,
     "mps:longitude":147.291691,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":16.0,
     "mz:tier_locality":3,
     "name:eng_x_preferred":[
-        "Tolmans Hill"
-    ],
-    "name:unk_x_variant":[
         "Tolmans Hill"
     ],
     "qs:gn_fcode":"PPLX",
@@ -58,8 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191583,
         1376953243,
@@ -74,7 +72,6 @@
     "wof:concordances":{
         "gn:id":8349130,
         "gp:id":22739337,
-        "qs:id":772152,
         "qs_pg:id":772152
     },
     "wof:country":"AU",
@@ -93,7 +90,7 @@
         }
     ],
     "wof:id":85779185,
-    "wof:lastmodified":1551830867,
+    "wof:lastmodified":1566600485,
     "wof:name":"Tolmans Hill",
     "wof:parent_id":101938241,
     "wof:placetype":"neighbourhood",

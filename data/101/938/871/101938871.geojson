@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-35.339509,
     "lbl:longitude":149.212134,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-35.339509,
     "mps:longitude":149.212134,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Oaks Estate"
     ],
@@ -36,7 +39,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":792,
     "wof:belongsto":[
         85681493,
@@ -49,7 +52,7 @@
     "wof:concordances":{
         "gn:id":8349378,
         "gp:id":7225369,
-        "qs:id":1113560,
+        "qs_pg:id":1113560,
         "wd:id":"Q4329045"
     },
     "wof:coterminous":[
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":101938871,
-    "wof:lastmodified":1550720671,
+    "wof:lastmodified":1566601285,
     "wof:name":"Oaks Estate",
     "wof:parent_id":404550089,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-23.698806,
     "lbl:longitude":133.85077,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-23.695932,
     "mps:longitude":133.852887,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Araluen"
     ],
@@ -33,14 +36,14 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":77,
     "wof:belongsto":[
         85681533,
         102191583,
-        85632793,
-        404549629,
         1376953387,
+        404549629,
+        85632793,
         136253039,
         102048753
     ],
@@ -71,7 +74,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1550726303,
+    "wof:lastmodified":1566601275,
     "wof:name":"Araluen",
     "wof:parent_id":404549629,
     "wof:placetype":"locality",

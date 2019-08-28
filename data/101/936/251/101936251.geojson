@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-35.006292,
     "lbl:longitude":138.553497,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":-35.006292,
     "mps:longitude":138.553497,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Marion"
     ],
@@ -46,7 +49,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":742,
     "wof:belongsto":[
@@ -62,7 +65,7 @@
     "wof:concordances":{
         "gn:id":2066954,
         "gp:id":1107163,
-        "qs:id":138062,
+        "qs_pg:id":138062,
         "wd:id":"Q6765051",
         "wk:page":"Marion, South Australia"
     },
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":101936251,
-    "wof:lastmodified":1562898069,
+    "wof:lastmodified":1566601119,
     "wof:name":"Marion",
     "wof:parent_id":404545737,
     "wof:placetype":"locality",

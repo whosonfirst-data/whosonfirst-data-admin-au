@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-35.151516,
     "lbl:longitude":138.532309,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":-35.151516,
     "mps:longitude":138.532309,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Hackham"
     ],
@@ -43,7 +46,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":398,
     "wof:belongsto":[
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":101936095,
-    "wof:lastmodified":1562898289,
+    "wof:lastmodified":1566601145,
     "wof:name":"Hackham",
     "wof:parent_id":404545435,
     "wof:placetype":"locality",

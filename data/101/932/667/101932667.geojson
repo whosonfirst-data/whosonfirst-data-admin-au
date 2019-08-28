@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-37.768292,
     "lbl:longitude":145.088461,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-37.768292,
     "mps:longitude":145.088461,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Bulleen"
     ],
@@ -49,7 +52,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681497,
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":101932667,
-    "wof:lastmodified":1562901550,
+    "wof:lastmodified":1566601610,
     "wof:name":"Bulleen",
     "wof:parent_id":404537945,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-33.11175,
     "lbl:longitude":151.561529,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-33.11175,
     "mps:longitude":151.561529,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Sunshine"
     ],
@@ -38,7 +41,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":5006,
     "wof:belongsto":[
         85681545,
@@ -53,7 +56,6 @@
     "wof:concordances":{
         "gn:id":8219810,
         "gp:id":28587426,
-        "qs:id":1072475,
         "qs_pg:id":1072475,
         "wd:id":"Q7641402"
     },
@@ -75,7 +77,7 @@
         }
     ],
     "wof:id":101931983,
-    "wof:lastmodified":1561827830,
+    "wof:lastmodified":1566601189,
     "wof:name":"Sunshine",
     "wof:parent_id":404226325,
     "wof:placetype":"locality",

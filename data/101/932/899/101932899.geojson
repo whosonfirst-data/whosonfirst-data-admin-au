@@ -9,15 +9,18 @@
     "geom:bbox":"144.974500544,-37.891736638,144.997009216,-37.870740544",
     "geom:latitude":-37.880922,
     "geom:longitude":144.985534,
-    "geonames:id":"2167435,7932620",
+    "gn:id":"2167435,7932620",
     "gn:population":13785,
     "iso:country":"AU",
     "lbl:latitude":-37.880512,
     "lbl:longitude":144.985534,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-37.880512,
     "mps:longitude":144.985534,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Elwood"
     ],
@@ -58,7 +61,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1304,
     "wof:belongsto":[
@@ -73,7 +76,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7932620,
-        "qs:id":1042269,
         "qs_pg:id":1042269,
         "wd:id":"Q1334377",
         "wk:page":"Elwood, Victoria"
@@ -96,7 +98,7 @@
         }
     ],
     "wof:id":101932899,
-    "wof:lastmodified":1562901831,
+    "wof:lastmodified":1566601641,
     "wof:name":"Elwood",
     "wof:parent_id":404538517,
     "wof:placetype":"locality",

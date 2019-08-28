@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-33.917214,
     "lbl:longitude":150.961112,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-33.917214,
     "mps:longitude":150.961112,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Chipping Norton"
     ],
@@ -58,7 +61,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":402,
     "wof:belongsto":[
@@ -74,7 +77,7 @@
     "wof:concordances":{
         "gn:id":2171586,
         "gp:id":1095050,
-        "qs:id":193019,
+        "qs_pg:id":193019,
         "wd:id":"Q1074618",
         "wk:page":"Chipping Norton, New South Wales"
     },
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":101929907,
-    "wof:lastmodified":1562903342,
+    "wof:lastmodified":1566601803,
     "wof:name":"Chipping Norton",
     "wof:parent_id":404222603,
     "wof:placetype":"locality",

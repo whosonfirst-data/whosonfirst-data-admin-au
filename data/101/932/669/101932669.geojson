@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-37.695471,
     "lbl:longitude":145.063341,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-37.695471,
     "mps:longitude":145.063341,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ceb_x_preferred":[
         "Bundoora"
     ],
@@ -49,7 +52,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1095,
     "wof:belongsto":[
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":101932669,
-    "wof:lastmodified":1562901544,
+    "wof:lastmodified":1566601609,
     "wof:name":"Bundoora",
     "wof:parent_id":404537963,
     "wof:placetype":"locality",

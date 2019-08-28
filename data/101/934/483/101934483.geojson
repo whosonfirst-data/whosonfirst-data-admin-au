@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-27.423375,
     "lbl:longitude":153.0161,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":-27.423375,
     "mps:longitude":153.0161,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Grange"
     ],
@@ -46,7 +49,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":364,
     "wof:belongsto":[
@@ -63,7 +66,7 @@
         "fct:id":"0348f49a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":8349343,
         "gp:id":7225521,
-        "qs:id":1013980,
+        "qs_pg:id":1013980,
         "wd:id":"Q5595625",
         "wk:page":"Grange, Queensland"
     },
@@ -88,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1562902473,
+    "wof:lastmodified":1566601708,
     "wof:name":"Grange",
     "wof:parent_id":404542401,
     "wof:placetype":"locality",

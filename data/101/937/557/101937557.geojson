@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-20.741291,
     "lbl:longitude":116.880456,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-20.741291,
     "mps:longitude":116.880456,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u0631\u0627\u062b\u0627"
     ],
@@ -156,7 +159,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":-20.7364,
     "wd:longitude":116.846,
     "wd:wordcount":1248,
@@ -172,7 +175,7 @@
     "wof:concordances":{
         "gn:id":8349088,
         "gp:id":28586441,
-        "qs:id":910060,
+        "qs_pg:id":910060,
         "wd:id":"Q1309107"
     },
     "wof:coterminous":[
@@ -192,7 +195,7 @@
         }
     ],
     "wof:id":101937557,
-    "wof:lastmodified":1562900216,
+    "wof:lastmodified":1566601437,
     "wof:name":"Mulataga",
     "wof:parent_id":404547907,
     "wof:placetype":"locality",

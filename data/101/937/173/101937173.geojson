@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-18.190768,
     "lbl:longitude":125.574255,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":-18.190768,
     "mps:longitude":125.574255,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Fitzroy Crossing"
     ],
@@ -47,9 +50,6 @@
     "name:swe_x_preferred":[
         "Fitzroy Crossing"
     ],
-    "name:unk_x_variant":[
-        "Wallaberi"
-    ],
     "name:zho_x_preferred":[
         "\u83f2\u8328\u7f85\u4f0a\u8def\u53e3"
     ],
@@ -73,7 +73,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-18.1781,
     "wd:longitude":125.591,
@@ -91,7 +91,6 @@
         "fct:id":"03302870-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2071536,
         "gp:id":1102059,
-        "qs:id":372841,
         "qs_pg:id":372841,
         "wd:id":"Q1421393",
         "wk:page":"Fitzroy Crossing, Western Australia"
@@ -116,7 +115,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1562900397,
+    "wof:lastmodified":1566601458,
     "wof:name":"Fitzroy Crossing",
     "wof:parent_id":404547275,
     "wof:placetype":"locality",

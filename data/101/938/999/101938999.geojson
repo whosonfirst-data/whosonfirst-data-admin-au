@@ -13,6 +13,8 @@
     "iso:country":"AU",
     "lbl:latitude":-38.196566,
     "lbl:longitude":146.533757,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-38.196566,
     "mps:longitude":146.533757,
     "mz:hierarchy_label":1,
@@ -417,7 +419,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-38.1958,
     "wd:longitude":146.54,
@@ -435,7 +437,6 @@
         "fct:id":"033ea53a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2146108,
         "gp:id":1106150,
-        "qs:id":460987,
         "qs_pg:id":460987,
         "wd:id":"Q249022",
         "wk:page":"Traralgon"
@@ -457,7 +458,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1562898931,
+    "wof:lastmodified":1566601243,
     "wof:name":"Traralgon",
     "wof:parent_id":404540537,
     "wof:placetype":"locality",

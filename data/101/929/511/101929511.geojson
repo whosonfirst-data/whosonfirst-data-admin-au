@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-33.911797,
     "lbl:longitude":151.20042,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-33.911797,
     "mps:longitude":151.20042,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0628\u06cc\u06a9\u0646\u0632\u0641\u06cc\u0644\u062f"
     ],
@@ -111,7 +114,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":51.600872,
     "wd:longitude":-0.634681,
     "wd:wordcount":2445,
@@ -128,7 +131,7 @@
     "wof:concordances":{
         "gn:id":8348434,
         "gp:id":22721165,
-        "qs:id":467674,
+        "qs_pg:id":467674,
         "wd:id":"Q2918785"
     },
     "wof:coterminous":[
@@ -149,7 +152,7 @@
         }
     ],
     "wof:id":101929511,
-    "wof:lastmodified":1562903482,
+    "wof:lastmodified":1566601819,
     "wof:name":"Beaconsfield",
     "wof:parent_id":404221739,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-37.906979,
     "lbl:longitude":145.188819,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-37.906979,
     "mps:longitude":145.188819,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Wheelers Hill"
     ],
@@ -36,14 +39,14 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":606,
     "wof:belongsto":[
         85681497,
         102191583,
-        85632793,
-        404540759,
         1376953283,
+        404540759,
+        85632793,
         136253039,
         102048719
     ],
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":101933727,
-    "wof:lastmodified":1550722745,
+    "wof:lastmodified":1566601801,
     "wof:name":"Wheelers Hill",
     "wof:parent_id":404540759,
     "wof:placetype":"locality",

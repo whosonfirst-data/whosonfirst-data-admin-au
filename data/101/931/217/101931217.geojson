@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-33.838486,
     "lbl:longitude":150.984174,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-33.838486,
     "mps:longitude":150.984174,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Merrylands"
     ],
@@ -52,7 +55,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681545,
@@ -67,7 +70,7 @@
     "wof:concordances":{
         "gn:id":2157995,
         "gp:id":1097228,
-        "qs:id":193107,
+        "qs_pg:id":193107,
         "wd:id":"Q6820498",
         "wk:page":"Merrylands, New South Wales"
     },
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":101931217,
-    "wof:lastmodified":1562898508,
+    "wof:lastmodified":1566601175,
     "wof:name":"Merrylands",
     "wof:parent_id":404224853,
     "wof:placetype":"locality",

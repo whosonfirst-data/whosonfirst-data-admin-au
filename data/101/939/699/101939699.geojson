@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-32.761165,
     "lbl:longitude":151.525532,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-32.761165,
     "mps:longitude":151.525532,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Greta East"
     ],
@@ -32,13 +35,13 @@
     "qs:source":"SAustralian Bureau Of Statistics: urban areas and localities selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681545,
         102191583,
-        85632793,
-        404223549,
         1376953349,
+        404223549,
+        85632793,
         136253039,
         102048483
     ],
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":101939699,
-    "wof:lastmodified":1550719441,
+    "wof:lastmodified":1566601358,
     "wof:name":"Greta East",
     "wof:parent_id":404223549,
     "wof:placetype":"locality",

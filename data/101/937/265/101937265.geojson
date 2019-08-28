@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-31.913137,
     "lbl:longitude":116.004582,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":-31.913137,
     "mps:longitude":116.004582,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Hazelmere"
     ],
@@ -43,7 +46,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":521,
     "wof:belongsto":[
@@ -58,7 +61,7 @@
     "wof:concordances":{
         "gn:id":8349064,
         "gp:id":22722023,
-        "qs:id":205826,
+        "qs_pg:id":205826,
         "wd:id":"Q5688094",
         "wk:page":"Hazelmere, Western Australia"
     },
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":101937265,
-    "wof:lastmodified":1561827913,
+    "wof:lastmodified":1566601483,
     "wof:name":"Hazelmere",
     "wof:parent_id":404547411,
     "wof:placetype":"locality",

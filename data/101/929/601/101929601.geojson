@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-33.50567,
     "lbl:longitude":151.333053,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":-33.50567,
     "mps:longitude":151.333053,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Blackwall"
     ],
@@ -51,7 +54,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":96,
     "wof:belongsto":[
@@ -66,7 +69,6 @@
     "wof:concordances":{
         "gn:id":2175408,
         "gp:id":1094460,
-        "qs:id":138891,
         "qs_pg:id":138891,
         "wd:id":"Q880954",
         "wk:page":"Blackwall, New South Wales"
@@ -88,7 +90,7 @@
         }
     ],
     "wof:id":101929601,
-    "wof:lastmodified":1562903583,
+    "wof:lastmodified":1566601831,
     "wof:name":"Blackwall",
     "wof:parent_id":404221967,
     "wof:placetype":"locality",

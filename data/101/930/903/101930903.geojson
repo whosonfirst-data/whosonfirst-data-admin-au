@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-33.743572,
     "lbl:longitude":150.907615,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-33.743572,
     "mps:longitude":150.907615,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kings Park"
     ],
@@ -45,7 +48,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":343,
     "wof:belongsto":[
         85681545,
@@ -60,7 +63,7 @@
     "wof:concordances":{
         "gn:id":8348156,
         "gp:id":22720707,
-        "qs:id":1056712,
+        "qs_pg:id":1056712,
         "wd:id":"Q6412977",
         "wk:page":"Kings Park, New South Wales"
     },
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":101930903,
-    "wof:lastmodified":1562900006,
+    "wof:lastmodified":1566601407,
     "wof:name":"Kings Park",
     "wof:parent_id":404224255,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-17.544509,
     "lbl:longitude":146.020583,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-17.544509,
     "mps:longitude":146.020583,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mighell"
     ],
@@ -33,7 +36,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681463,
         102191583,
@@ -46,7 +49,7 @@
     "wof:concordances":{
         "gn:id":8349352,
         "gp:id":28586131,
-        "qs:id":1164129
+        "qs_pg:id":1164129
     },
     "wof:coterminous":[
         404543159
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":101934841,
-    "wof:lastmodified":1550719749,
+    "wof:lastmodified":1566601730,
     "wof:name":"Mighell",
     "wof:parent_id":404543159,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-24.919728,
     "lbl:longitude":152.320976,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-24.919728,
     "mps:longitude":152.320976,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Kensington"
     ],
@@ -138,7 +141,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1673,
     "wof:belongsto":[
         85681463,
@@ -152,7 +155,7 @@
     "wof:concordances":{
         "gn:id":8349249,
         "gp:id":28585633,
-        "qs:id":1164122
+        "qs_pg:id":1164122
     },
     "wof:coterminous":[
         404542767
@@ -171,7 +174,7 @@
         }
     ],
     "wof:id":101934655,
-    "wof:lastmodified":1562902733,
+    "wof:lastmodified":1566601736,
     "wof:name":"Kensington",
     "wof:parent_id":404542767,
     "wof:placetype":"locality",

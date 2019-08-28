@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-33.630186,
     "lbl:longitude":151.325188,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-33.630186,
     "mps:longitude":151.325188,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "Avalon Beach"
     ],
@@ -84,7 +87,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681545,
         102191583,
@@ -98,7 +101,7 @@
     "wof:concordances":{
         "gn:id":2177471,
         "gp:id":28583917,
-        "qs:id":1113920,
+        "qs_pg:id":1113920,
         "wd:id":"Q790094",
         "wk:page":"Avalon Beach, New South Wales"
     },
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":101929435,
-    "wof:lastmodified":1562903596,
+    "wof:lastmodified":1566601833,
     "wof:name":"Avalon",
     "wof:parent_id":404221589,
     "wof:placetype":"locality",

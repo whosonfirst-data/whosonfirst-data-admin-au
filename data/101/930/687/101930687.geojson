@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-34.201369,
     "lbl:longitude":150.977383,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-34.201369,
     "mps:longitude":150.977383,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Helensburgh"
     ],
@@ -41,7 +44,7 @@
     "name:swe_x_preferred":[
         "Helensburgh"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Helensbourgh"
     ],
     "qs:a0":"Australia",
@@ -58,7 +61,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-34.183333,
     "wd:longitude":151.0,
@@ -76,7 +79,7 @@
         "fct:id":"034b0258-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2163641,
         "gp:id":1096261,
-        "qs:id":223814,
+        "qs_pg:id":223814,
         "wd:id":"Q2328948",
         "wk:page":"Helensburgh, New South Wales"
     },
@@ -100,7 +103,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1562899885,
+    "wof:lastmodified":1566601388,
     "wof:name":"Helensburgh",
     "wof:parent_id":404223893,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-34.921352,
     "lbl:longitude":138.632086,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-34.921352,
     "mps:longitude":138.632086,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "Norwood"
     ],
@@ -88,7 +91,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u043e\u0440\u0432\u0443\u0434"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kensington"
     ],
     "qs:a0":"Australia",
@@ -105,7 +108,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":537,
     "wof:belongsto":[
         85681519,
@@ -139,7 +142,7 @@
         }
     ],
     "wof:id":101936371,
-    "wof:lastmodified":1562898130,
+    "wof:lastmodified":1566601125,
     "wof:name":"Norwood",
     "wof:parent_id":404545981,
     "wof:placetype":"locality",

@@ -13,6 +13,8 @@
     "iso:country":"AU",
     "lbl:latitude":-33.93331,
     "lbl:longitude":137.634391,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":-33.93331,
     "mps:longitude":137.634391,
     "mz:hierarchy_label":1,
@@ -150,7 +152,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-33.9167,
     "wd:longitude":137.617,
@@ -168,7 +170,6 @@
         "fct:id":"0330d338-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2059263,
         "gp:id":1106370,
-        "qs:id":183605,
         "qs_pg:id":183605,
         "wd:id":"Q3565483",
         "wk:page":"Wallaroo, South Australia"
@@ -190,7 +191,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1562899698,
+    "wof:lastmodified":1566601360,
     "wof:name":"Wallaroo",
     "wof:parent_id":404546505,
     "wof:placetype":"locality",

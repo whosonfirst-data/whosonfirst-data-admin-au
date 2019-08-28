@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-42.85324,
     "lbl:longitude":147.503466,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":-42.85324,
     "mps:longitude":147.503466,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Seven Mile Beach"
     ],
@@ -45,15 +48,15 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":36,
     "wof:belongsto":[
         85681583,
         102191583,
-        85632793,
-        404549405,
         1376953243,
+        404549405,
+        85632793,
         136253039,
         102048771
     ],
@@ -62,7 +65,6 @@
         "fct:id":"033506a6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6621356,
         "gp:id":22739373,
-        "qs:id":1112249,
         "qs_pg:id":1112249
     },
     "wof:coterminous":[
@@ -86,7 +88,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1550755411,
+    "wof:lastmodified":1566601258,
     "wof:name":"Seven Mile Beach",
     "wof:parent_id":404549405,
     "wof:placetype":"locality",

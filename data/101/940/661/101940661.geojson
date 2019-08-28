@@ -13,6 +13,8 @@
     "iso:country":"AU",
     "lbl:latitude":-27.178814,
     "lbl:longitude":151.26522,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-27.178814,
     "mps:longitude":151.26522,
     "mz:hierarchy_label":1,
@@ -185,7 +187,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-27.183333,
     "wd:longitude":151.266667,
@@ -202,10 +204,12 @@
     "wof:concordances":{
         "gn:id":2169535,
         "gp:id":1101544,
-        "qs:id":278185,
-        "qs_pg:id":1110109,
+        "qs_pg:id":278185,
         "wd:id":"Q1001056",
         "wk:page":"Dalby, Queensland"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1110109
     },
     "wof:country":"AU",
     "wof:geomhash":"b06221377fbd16413255e0ecd94799ae",
@@ -221,7 +225,7 @@
         }
     ],
     "wof:id":101940661,
-    "wof:lastmodified":1562901112,
+    "wof:lastmodified":1566601551,
     "wof:name":"Dalby",
     "wof:parent_id":404541923,
     "wof:placetype":"locality",

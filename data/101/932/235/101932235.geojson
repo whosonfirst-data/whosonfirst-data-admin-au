@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-34.552052,
     "lbl:longitude":150.858302,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-34.552052,
     "mps:longitude":150.858302,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Warilla"
     ],
@@ -33,14 +36,14 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":256,
     "wof:belongsto":[
         85681545,
         102191583,
-        85632793,
-        404226863,
         1376953239,
+        404226863,
+        85632793,
         136253039,
         102048497
     ],
@@ -48,7 +51,7 @@
     "wof:concordances":{
         "gn:id":8347938,
         "gp:id":22721490,
-        "qs:id":351633,
+        "qs_pg:id":351633,
         "wd:id":"Q7969426",
         "wk:page":"Warilla, New South Wales"
     },
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":101932235,
-    "wof:lastmodified":1550720414,
+    "wof:lastmodified":1566601608,
     "wof:name":"Warilla",
     "wof:parent_id":404226863,
     "wof:placetype":"locality",

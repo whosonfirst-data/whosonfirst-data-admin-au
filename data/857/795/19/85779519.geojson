@@ -9,14 +9,16 @@
     "geom:bbox":"151.200355,-33.871775,151.200355,-33.871775",
     "geom:latitude":-33.871775,
     "geom:longitude":151.200355,
-    "gn:gn_country":"AU",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"AU",
+    "gn:fcode":"PPLX",
     "gn:latitude":-33.86847,
     "gn:longitude":151.20034,
+    "gn:population":0,
     "iso:country":"AU",
+    "lbl:bbox":"151.195355,-33.876775,151.205355,-33.866775",
     "lbl:latitude":-33.872404,
     "lbl:longitude":151.199079,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-33.871439,
     "mps:longitude":151.200426,
     "mz:hierarchy_label":0,
@@ -89,9 +91,6 @@
     "name:spa_x_preferred":[
         "Puerto Darling"
     ],
-    "name:unk_x_variant":[
-        "Darling Harbour"
-    ],
     "name:yue_x_preferred":[
         "\u6253\u4ee4\u6e2f"
     ],
@@ -151,9 +150,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":1106,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         102191583,
         1376953385,
@@ -168,7 +166,6 @@
     "wof:concordances":{
         "gn:id":6619100,
         "gp:id":28584769,
-        "qs:id":213584,
         "qs_pg:id":213584,
         "wd:id":"Q54488",
         "wk:page":"Darling Harbour"
@@ -192,7 +189,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1562895454,
+    "wof:lastmodified":1566600573,
     "wof:name":"Darling Harbour",
     "wof:parent_id":101932003,
     "wof:placetype":"neighbourhood",

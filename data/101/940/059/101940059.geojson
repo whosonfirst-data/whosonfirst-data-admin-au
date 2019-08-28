@@ -13,6 +13,8 @@
     "iso:country":"AU",
     "lbl:latitude":-34.316951,
     "lbl:longitude":148.294442,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-34.316951,
     "mps:longitude":148.294442,
     "mz:hierarchy_label":1,
@@ -54,7 +56,7 @@
     "name:swe_x_preferred":[
         "Young"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Young\u2019s Siding"
     ],
     "name:urd_x_preferred":[
@@ -170,7 +172,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-34.3,
     "wd:longitude":148.3,
@@ -188,10 +190,12 @@
         "fct:id":"0334b5e8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2057237,
         "gp:id":1107093,
-        "qs:id":138567,
         "qs_pg:id":90702,
         "wd:id":"Q3305212",
         "wk:page":"Young, New South Wales"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":138567
     },
     "wof:country":"AU",
     "wof:geomhash":"26b9b003f4489807d1bbb4dcccd814a4",
@@ -210,7 +214,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1562901309,
+    "wof:lastmodified":1566601576,
     "wof:name":"Young",
     "wof:parent_id":404227327,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-38.188035,
     "lbl:longitude":144.394026,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-38.188035,
     "mps:longitude":144.394026,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "St Albans Park"
     ],
@@ -33,14 +36,14 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":309,
     "wof:belongsto":[
         85681497,
         102191583,
-        85632793,
-        404540279,
         1376953447,
+        404540279,
+        85632793,
         136253039,
         102049571
     ],
@@ -48,7 +51,7 @@
     "wof:concordances":{
         "gn:id":8348137,
         "gp:id":28645374,
-        "qs:id":249152,
+        "qs_pg:id":249152,
         "wd:id":"Q7592277"
     },
     "wof:coterminous":[
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":101933567,
-    "wof:lastmodified":1550727769,
+    "wof:lastmodified":1566601750,
     "wof:name":"St Albans Park",
     "wof:parent_id":404540279,
     "wof:placetype":"locality",

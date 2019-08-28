@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-33.462784,
     "lbl:longitude":150.184909,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-33.462784,
     "mps:longitude":150.184909,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Oaky Park"
     ],
@@ -36,7 +39,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681545,
         102191583,
@@ -50,7 +53,7 @@
         "fct:id":"034ad8fa-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":8347698,
         "gp:id":28645278,
-        "qs:id":1020021
+        "qs_pg:id":1020021
     },
     "wof:coterminous":[
         404225467
@@ -72,7 +75,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1550718808,
+    "wof:lastmodified":1566601164,
     "wof:name":"Oaky Park",
     "wof:parent_id":404225467,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-27.590502,
     "lbl:longitude":152.847473,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":-27.590502,
     "mps:longitude":152.847473,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Riverview"
     ],
@@ -46,7 +49,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":135,
     "wof:belongsto":[
@@ -62,7 +65,7 @@
     "wof:concordances":{
         "gn:id":2151513,
         "gp:id":22721633,
-        "qs:id":1311519,
+        "qs_pg:id":1311519,
         "wd:id":"Q7338714",
         "wk:page":"Riverview, Queensland"
     },
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":101935221,
-    "wof:lastmodified":1562901991,
+    "wof:lastmodified":1566601659,
     "wof:name":"Riverview",
     "wof:parent_id":404543921,
     "wof:placetype":"locality",

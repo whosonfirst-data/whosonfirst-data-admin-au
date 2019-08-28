@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-34.783098,
     "lbl:longitude":149.265365,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":-34.783098,
     "mps:longitude":149.265365,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Gunning"
     ],
@@ -51,7 +54,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-34.783333,
     "wd:longitude":149.266667,
@@ -68,7 +71,6 @@
     "wof:concordances":{
         "gn:id":2164199,
         "gp:id":1102492,
-        "qs:id":1171364,
         "qs_pg:id":1171364,
         "wd:id":"Q3120886",
         "wk:page":"Gunning, New South Wales"
@@ -90,7 +92,7 @@
         }
     ],
     "wof:id":101930569,
-    "wof:lastmodified":1562899803,
+    "wof:lastmodified":1566601377,
     "wof:name":"Gunning",
     "wof:parent_id":404223789,
     "wof:placetype":"locality",

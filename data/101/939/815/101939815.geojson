@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-35.319004,
     "lbl:longitude":150.43664,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":-35.319004,
     "mps:longitude":150.43664,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Milton"
     ],
@@ -56,7 +59,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-35.3167,
     "wd:longitude":150.433,
@@ -73,7 +76,6 @@
     "wof:concordances":{
         "gn:id":2157601,
         "gp:id":1103928,
-        "qs:id":919007,
         "qs_pg:id":919007,
         "wd:id":"Q1935843",
         "wk:page":"Milton, New South Wales"
@@ -92,7 +94,7 @@
         }
     ],
     "wof:id":101939815,
-    "wof:lastmodified":1562899651,
+    "wof:lastmodified":1566601352,
     "wof:name":"Milton",
     "wof:parent_id":404224903,
     "wof:placetype":"locality",

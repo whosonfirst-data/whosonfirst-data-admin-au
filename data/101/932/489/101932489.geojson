@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-37.837835,
     "lbl:longitude":144.834706,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-37.837835,
     "mps:longitude":144.834706,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Altona North"
     ],
@@ -55,7 +58,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681497,
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":101932489,
-    "wof:lastmodified":1562901762,
+    "wof:lastmodified":1566601636,
     "wof:name":"Altona North",
     "wof:parent_id":404537533,
     "wof:placetype":"locality",

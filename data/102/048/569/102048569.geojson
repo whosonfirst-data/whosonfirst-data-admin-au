@@ -18,10 +18,13 @@
     ],
     "lbl:latitude":-27.533006,
     "lbl:longitude":153.453216,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-27.533006,
     "mps:longitude":153.453216,
     "mz:hierarchy_label":0,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Redland"
     ],
@@ -69,9 +72,9 @@
     "qs:source":"Australia Census",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1996-08-09",
+    "src:population_date":"1996-08-09",
     "statoids:area_km":"537",
     "statoids:as_of_date":"1996-08-09",
     "statoids:capital":"Ormiston",
@@ -82,7 +85,6 @@
     "statoids:statoid":"AU.QL.RL",
     "statoids:timezone":"10",
     "statoids:type":"shire",
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85681463,
         102191583,
@@ -107,7 +109,7 @@
         }
     ],
     "wof:id":102048569,
-    "wof:lastmodified":1562893802,
+    "wof:lastmodified":1566600010,
     "wof:name":"Redland",
     "wof:parent_id":1376953397,
     "wof:placetype":"county",

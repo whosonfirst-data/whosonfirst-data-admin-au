@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-33.805282,
     "lbl:longitude":150.955192,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-33.805282,
     "mps:longitude":150.955192,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Pendle Hill"
     ],
@@ -49,7 +52,7 @@
     "name:swe_x_preferred":[
         "Pendle Hill"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pendle Hills"
     ],
     "qs:a0":"Australia",
@@ -66,7 +69,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":931,
     "wof:belongsto":[
         85681545,
@@ -81,7 +84,7 @@
     "wof:concordances":{
         "gn:id":2153496,
         "gp:id":1098064,
-        "qs:id":1277701,
+        "qs_pg:id":1277701,
         "wd:id":"Q3437291"
     },
     "wof:coterminous":[
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":101931573,
-    "wof:lastmodified":1562898644,
+    "wof:lastmodified":1566601196,
     "wof:name":"Pendle Hill",
     "wof:parent_id":404225607,
     "wof:placetype":"locality",

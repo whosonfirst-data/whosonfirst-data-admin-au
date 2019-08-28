@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-37.77583,
     "lbl:longitude":144.800645,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-37.77583,
     "mps:longitude":144.800645,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Ardeer"
     ],
@@ -39,7 +42,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":202,
     "wof:belongsto":[
         85681497,
@@ -54,7 +57,7 @@
     "wof:concordances":{
         "gn:id":8347962,
         "gp:id":22721961,
-        "qs:id":335271,
+        "qs_pg:id":335271,
         "wd:id":"Q638779",
         "wk:page":"Ardeer, Victoria"
     },
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":101932495,
-    "wof:lastmodified":1561827962,
+    "wof:lastmodified":1566601640,
     "wof:name":"Ardeer",
     "wof:parent_id":404537551,
     "wof:placetype":"locality",

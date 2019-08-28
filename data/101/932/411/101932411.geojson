@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-33.840314,
     "lbl:longitude":151.171701,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-33.840314,
     "mps:longitude":151.171701,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:als_x_preferred":[
         "Woolwich"
     ],
@@ -91,7 +94,7 @@
     "name:tur_x_preferred":[
         "Woolwich"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Woolwick"
     ],
     "name:vie_x_preferred":[
@@ -117,7 +120,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":3482,
     "wof:belongsto":[
         85681545,
@@ -151,7 +154,7 @@
         }
     ],
     "wof:id":101932411,
-    "wof:lastmodified":1562901739,
+    "wof:lastmodified":1566601634,
     "wof:name":"Woolwich",
     "wof:parent_id":404227201,
     "wof:placetype":"locality",

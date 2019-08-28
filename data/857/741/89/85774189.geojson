@@ -11,8 +11,10 @@
     "geom:longitude":153.085436,
     "gn:id":"",
     "iso:country":"AU",
+    "lbl:bbox":"153.080436144,-27.4519035999,153.090436144,-27.4419035999",
     "lbl:latitude":-27.446656,
     "lbl:longitude":153.085457,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-27.446652,
     "mps:longitude":153.083407,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":4,
     "name:eng_x_preferred":[
-        "Colmslie"
-    ],
-    "name:unk_x_variant":[
         "Colmslie"
     ],
     "qs:gn_adm0_cc":"AU",
@@ -58,8 +57,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85681463,
         102191583,
@@ -69,7 +67,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":7225546,
-        "qs:id":1079916
+        "qs_pg:id":1079916
     },
     "wof:country":"AU",
     "wof:geomhash":"49dca4ea7d951339e5502e35ac3c79d2",
@@ -87,7 +85,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1551831345,
+    "wof:lastmodified":1566600543,
     "wof:name":"Colmslie",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

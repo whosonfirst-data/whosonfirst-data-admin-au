@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-33.904005,
     "lbl:longitude":151.263897,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-33.904005,
     "mps:longitude":151.263897,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:arg_x_preferred":[
         "Bronte"
     ],
@@ -70,7 +73,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681545,
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":101929709,
-    "wof:lastmodified":1562903370,
+    "wof:lastmodified":1566601806,
     "wof:name":"Bronte",
     "wof:parent_id":404222213,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-27.676692,
     "lbl:longitude":153.041436,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-27.676692,
     "mps:longitude":153.041436,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Regents Park"
     ],
@@ -36,7 +39,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":624,
     "wof:belongsto":[
         85681463,
@@ -51,7 +54,7 @@
     "wof:concordances":{
         "gn:id":8349232,
         "gp:id":7225507,
-        "qs:id":904701,
+        "qs_pg:id":904701,
         "wd:id":"Q7308130",
         "wk:page":"Regents Park, Queensland"
     },
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":101935205,
-    "wof:lastmodified":1561827971,
+    "wof:lastmodified":1566601667,
     "wof:name":"Regents Park",
     "wof:parent_id":404543893,
     "wof:placetype":"locality",

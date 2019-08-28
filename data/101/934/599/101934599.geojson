@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-27.7913,
     "lbl:longitude":153.374753,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":-27.7913,
     "mps:longitude":153.374753,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Jacobs Well"
     ],
@@ -42,15 +45,15 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":50,
     "wof:belongsto":[
         85681463,
         102191583,
-        85632793,
-        404542657,
         1376953307,
+        404542657,
+        85632793,
         136253039,
         102049363
     ],
@@ -58,7 +61,6 @@
     "wof:concordances":{
         "gn:id":8219779,
         "gp:id":22721524,
-        "qs:id":202755,
         "qs_pg:id":202755,
         "wd:id":"Q16892804"
     },
@@ -80,7 +82,7 @@
         }
     ],
     "wof:id":101934599,
-    "wof:lastmodified":1550754710,
+    "wof:lastmodified":1566601726,
     "wof:name":"Jacobs Well",
     "wof:parent_id":404542657,
     "wof:placetype":"locality",

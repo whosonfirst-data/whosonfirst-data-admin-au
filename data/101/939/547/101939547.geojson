@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-35.253712,
     "lbl:longitude":149.434136,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":-35.253712,
     "mps:longitude":149.434136,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Bungendore"
     ],
@@ -56,7 +59,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-35.25,
     "wd:longitude":149.45,
@@ -73,7 +76,6 @@
     "wof:concordances":{
         "gn:id":2173248,
         "gp:id":1100799,
-        "qs:id":970108,
         "qs_pg:id":970108,
         "wd:id":"Q2928201",
         "wk:page":"Bungendore, New South Wales"
@@ -92,7 +94,7 @@
         }
     ],
     "wof:id":101939547,
-    "wof:lastmodified":1561827878,
+    "wof:lastmodified":1566601367,
     "wof:name":"Bungendore",
     "wof:parent_id":404222291,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-34.365259,
     "lbl:longitude":150.888269,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-34.365259,
     "mps:longitude":150.888269,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Corrimal"
     ],
@@ -32,9 +35,6 @@
     "name:swe_x_preferred":[
         "Corrimal"
     ],
-    "name:unk_x_variant":[
-        "Corrima"
-    ],
     "qs:a0":"Australia",
     "qs:a1":"*New South Wales",
     "qs:a1_lc":"1",
@@ -49,7 +49,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681545,
@@ -64,7 +64,7 @@
         "fct:id":"034831d6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2170253,
         "gp:id":1095259,
-        "qs:id":138820,
+        "qs_pg:id":138820,
         "wd:id":"Q5172987",
         "wk:page":"Corrimal, New South Wales"
     },
@@ -88,7 +88,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561828012,
+    "wof:lastmodified":1566601805,
     "wof:name":"Corrimal",
     "wof:parent_id":404222831,
     "wof:placetype":"locality",

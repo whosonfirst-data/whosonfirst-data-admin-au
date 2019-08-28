@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-32.765513,
     "lbl:longitude":151.609579,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-32.765513,
     "mps:longitude":151.609579,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Metford"
     ],
@@ -33,14 +36,14 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":95,
     "wof:belongsto":[
         85681545,
         102191583,
-        85632793,
-        404224863,
         1376953349,
+        404224863,
+        85632793,
         136253039,
         102048483
     ],
@@ -48,7 +51,7 @@
     "wof:concordances":{
         "gn:id":8347843,
         "gp:id":28586108,
-        "qs:id":1013677,
+        "qs_pg:id":1013677,
         "wd:id":"Q6823533"
     },
     "wof:coterminous":[
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":101931223,
-    "wof:lastmodified":1550719445,
+    "wof:lastmodified":1566601211,
     "wof:name":"Metford",
     "wof:parent_id":404224863,
     "wof:placetype":"locality",

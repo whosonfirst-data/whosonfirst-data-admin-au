@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-32.982933,
     "lbl:longitude":151.671287,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-32.982933,
     "mps:longitude":151.671287,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mount Hutton"
     ],
@@ -36,7 +39,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":125,
     "wof:belongsto":[
         85681545,
@@ -51,7 +54,7 @@
     "wof:concordances":{
         "gn:id":8349116,
         "gp:id":28586336,
-        "qs:id":270896,
+        "qs_pg:id":270896,
         "wd:id":"Q6921377"
     },
     "wof:coterminous":[
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":101931307,
-    "wof:lastmodified":1561827823,
+    "wof:lastmodified":1566601159,
     "wof:name":"Mount Hutton",
     "wof:parent_id":404225065,
     "wof:placetype":"locality",

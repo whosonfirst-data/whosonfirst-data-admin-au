@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-31.88436,
     "lbl:longitude":152.659813,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":-31.88436,
     "mps:longitude":152.659813,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:amh_x_preferred":[
         "\u1200\u122a\u1295\u130d\u1270\u1295"
     ],
@@ -102,7 +105,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":396,
     "wof:belongsto":[
@@ -118,7 +121,6 @@
         "fct:id":"03303ba8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2163895,
         "gp:id":1102567,
-        "qs:id":1034114,
         "qs_pg:id":1034114,
         "wd:id":"Q3127741"
     },
@@ -142,7 +144,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1562899893,
+    "wof:lastmodified":1566601389,
     "wof:name":"Harrington",
     "wof:parent_id":404223845,
     "wof:placetype":"locality",

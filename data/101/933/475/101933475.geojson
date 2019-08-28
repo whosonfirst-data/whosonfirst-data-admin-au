@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-37.923302,
     "lbl:longitude":145.244171,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-37.923302,
     "mps:longitude":145.244171,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Rowville"
     ],
@@ -37,7 +40,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1031,
     "wof:belongsto":[
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":101933475,
-    "wof:lastmodified":1561828007,
+    "wof:lastmodified":1566601785,
     "wof:name":"Rowville",
     "wof:parent_id":404540099,
     "wof:placetype":"locality",

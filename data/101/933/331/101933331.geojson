@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-37.842844,
     "lbl:longitude":144.878189,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-37.842844,
     "mps:longitude":144.878189,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Newport"
     ],
@@ -43,7 +46,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1508,
     "wof:belongsto":[
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":101933331,
-    "wof:lastmodified":1562902853,
+    "wof:lastmodified":1566601750,
     "wof:name":"Newport",
     "wof:parent_id":404539751,
     "wof:placetype":"locality",

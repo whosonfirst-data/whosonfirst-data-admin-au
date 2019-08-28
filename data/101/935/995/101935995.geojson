@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-34.86869,
     "lbl:longitude":138.56144,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-34.86869,
     "mps:longitude":138.56144,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ferryden Park"
     ],
@@ -36,14 +39,14 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1303,
     "wof:belongsto":[
         85681519,
         102191583,
-        85632793,
-        404545297,
         1376953367,
+        404545297,
+        85632793,
         136253039,
         102048839
     ],
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":101935995,
-    "wof:lastmodified":1550754989,
+    "wof:lastmodified":1566601674,
     "wof:name":"Ferryden Park",
     "wof:parent_id":404545297,
     "wof:placetype":"locality",

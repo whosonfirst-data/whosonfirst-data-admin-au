@@ -12,8 +12,10 @@
     "gn:latitude":-35.28907,
     "gn:longitude":149.15382,
     "iso:country":"AU",
+    "lbl:bbox":"149.168222168,-35.283627702,149.178222168,-35.273627702",
     "lbl:latitude":-35.276118,
     "lbl:longitude":149.179949,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-35.276118,
     "mps:longitude":149.179949,
     "mz:hierarchy_label":0,
@@ -39,9 +41,6 @@
     ],
     "name:rus_x_preferred":[
         "\u041a\u044d\u043c\u043f\u0431\u0435\u043b\u043b"
-    ],
-    "name:unk_x_variant":[
-        "Campbell"
     ],
     "qs:gn_adm0_cc":"AU",
     "qs:gn_fcode":"PPLX",
@@ -72,7 +71,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191583,
         404550105,
@@ -84,7 +83,6 @@
     "wof:concordances":{
         "gn:id":2172618,
         "gp:id":1094897,
-        "qs:id":1169912,
         "qs_pg:id":1169912,
         "wd:id":"Q823088",
         "wk:page":"Campbell, Australian Capital Territory"
@@ -103,7 +101,7 @@
         }
     ],
     "wof:id":85768979,
-    "wof:lastmodified":1562895217,
+    "wof:lastmodified":1566600502,
     "wof:name":"Campbell",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

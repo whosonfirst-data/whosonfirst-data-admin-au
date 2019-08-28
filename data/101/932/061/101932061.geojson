@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-32.753271,
     "lbl:longitude":151.617708,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-32.753271,
     "mps:longitude":151.617708,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tenambit"
     ],
@@ -36,7 +39,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":394,
     "wof:belongsto":[
         85681545,
@@ -51,7 +54,7 @@
     "wof:concordances":{
         "gn:id":2147134,
         "gp:id":1098859,
-        "qs:id":326735,
+        "qs_pg:id":326735,
         "wd:id":"Q7699466",
         "wk:page":"Tenambit, New South Wales"
     },
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":101932061,
-    "wof:lastmodified":1561827961,
+    "wof:lastmodified":1566601639,
     "wof:name":"Tenambit",
     "wof:parent_id":404226461,
     "wof:placetype":"locality",

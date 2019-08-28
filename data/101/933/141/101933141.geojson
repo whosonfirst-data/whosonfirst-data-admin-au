@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-37.841357,
     "lbl:longitude":145.03574,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":-37.841357,
     "mps:longitude":145.03574,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Kooyong"
     ],
@@ -49,7 +52,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681497,
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":101933141,
-    "wof:lastmodified":1562903303,
+    "wof:lastmodified":1566601798,
     "wof:name":"Kooyong",
     "wof:parent_id":404539127,
     "wof:placetype":"locality",

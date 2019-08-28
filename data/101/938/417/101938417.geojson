@@ -13,6 +13,8 @@
     "iso:country":"AU",
     "lbl:latitude":-12.460477,
     "lbl:longitude":130.842984,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":-12.460477,
     "mps:longitude":130.842984,
     "mz:hierarchy_label":1,
@@ -307,7 +309,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u0430\u0440\u0432\u0456\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Palmerston"
     ],
     "name:urd_x_preferred":[
@@ -457,7 +459,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":-12.466667,
     "wd:longitude":130.833333,
@@ -479,7 +481,6 @@
         "gn:id":2073124,
         "gp:id":1101597,
         "nyt:id":"N78447075931440574651",
-        "qs:id":1089100,
         "qs_pg:id":1089100,
         "wd:id":"Q11568",
         "wk:page":"Darwin, Northern Territory"
@@ -502,7 +503,7 @@
         }
     ],
     "wof:id":101938417,
-    "wof:lastmodified":1562899178,
+    "wof:lastmodified":1566601281,
     "wof:name":"Darwin City",
     "wof:parent_id":404549683,
     "wof:placetype":"locality",

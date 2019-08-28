@@ -13,6 +13,8 @@
     "iso:country":"AU",
     "lbl:latitude":-42.972727,
     "lbl:longitude":147.300298,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-42.972727,
     "mps:longitude":147.300298,
     "mz:hierarchy_label":1,
@@ -249,7 +251,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-42.976944,
     "wd:longitude":147.308333,
@@ -267,7 +269,6 @@
         "fct:id":"0333e640-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2161311,
         "gp:id":1103117,
-        "qs:id":236565,
         "qs_pg:id":236565,
         "wd:id":"Q942696",
         "wk:page":"Kingston, Tasmania"
@@ -289,7 +290,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1562899621,
+    "wof:lastmodified":1566601348,
     "wof:name":"Kingston",
     "wof:parent_id":404549069,
     "wof:placetype":"locality",

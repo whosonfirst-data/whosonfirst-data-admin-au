@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-25.300793,
     "lbl:longitude":152.84369,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-25.300793,
     "mps:longitude":152.84369,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kawungan"
     ],
@@ -36,7 +39,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":79,
     "wof:belongsto":[
         85681463,
@@ -50,7 +53,7 @@
     "wof:concordances":{
         "gn:id":2161762,
         "gp:id":1096547,
-        "qs:id":1014876,
+        "qs_pg:id":1014876,
         "wd:id":"Q14935457",
         "wk:page":"Kawungan, Queensland"
     },
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":101934641,
-    "wof:lastmodified":1561827988,
+    "wof:lastmodified":1566601735,
     "wof:name":"Kawungan",
     "wof:parent_id":404542747,
     "wof:placetype":"locality",

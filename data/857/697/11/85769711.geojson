@@ -9,14 +9,15 @@
     "geom:bbox":"145.067796,-37.998742,145.067796,-37.998742",
     "geom:latitude":-37.998742,
     "geom:longitude":145.067796,
-    "gn:gn_country":"AU",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"AU",
+    "gn:fcode":"PPLX",
     "gn:latitude":-38.0,
     "gn:longitude":145.06667,
+    "gn:population":0,
     "iso:country":"AU",
     "lbl:latitude":-37.994134,
     "lbl:longitude":145.07014,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-37.997948,
     "mps:longitude":145.068069,
     "mz:hierarchy_label":0,
@@ -30,9 +31,6 @@
     "mz:tier_locality":5,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Mentone South"
-    ],
-    "name:unk_x_variant":[
         "Mentone South"
     ],
     "qs:gn_adm0_cc":"AU",
@@ -82,8 +80,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191583,
         1376953283,
@@ -98,7 +95,6 @@
     "wof:concordances":{
         "gn:id":2158107,
         "gp:id":1097212,
-        "qs:id":1159469,
         "qs_pg:id":1159469
     },
     "wof:country":"AU",
@@ -120,7 +116,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1551830854,
+    "wof:lastmodified":1566600588,
     "wof:name":"Mentone South",
     "wof:parent_id":101933387,
     "wof:placetype":"neighbourhood",

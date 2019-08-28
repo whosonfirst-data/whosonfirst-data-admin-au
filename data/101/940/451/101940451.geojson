@@ -13,6 +13,8 @@
     "iso:country":"AU",
     "lbl:latitude":-37.061072,
     "lbl:longitude":142.77898,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-37.061072,
     "mps:longitude":142.77898,
     "mz:hierarchy_label":1,
@@ -161,7 +163,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":-37.05,
     "wd:longitude":142.766667,
@@ -180,7 +182,6 @@
         "fct:id":"03346890-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2148431,
         "gp:id":1105681,
-        "qs:id":6766,
         "qs_pg:id":6766,
         "wd:id":"Q2190456",
         "wk:page":"Stawell, Victoria"
@@ -202,7 +203,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1562901300,
+    "wof:lastmodified":1566601575,
     "wof:name":"Stawell",
     "wof:parent_id":404540309,
     "wof:placetype":"locality",

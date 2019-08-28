@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-37.759159,
     "lbl:longitude":144.785986,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-37.759159,
     "mps:longitude":144.785986,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Cairnlea"
     ],
@@ -43,7 +46,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":370,
     "wof:belongsto":[
@@ -59,7 +62,7 @@
     "wof:concordances":{
         "gn:id":8349376,
         "gp:id":28584385,
-        "qs:id":310323,
+        "qs_pg:id":310323,
         "wd:id":"Q5017696",
         "wk:page":"Cairnlea, Victoria"
     },
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":101932689,
-    "wof:lastmodified":1562901498,
+    "wof:lastmodified":1566601603,
     "wof:name":"Cairnlea",
     "wof:parent_id":404538005,
     "wof:placetype":"locality",

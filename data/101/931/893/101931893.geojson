@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-33.500864,
     "lbl:longitude":150.138286,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-33.500864,
     "mps:longitude":150.138286,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "South Littleton"
     ],
@@ -57,7 +60,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":52.114,
     "wd:longitude":-1.89,
     "wd:wordcount":321,
@@ -74,7 +77,7 @@
         "fct:id":"034a8440-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":8347944,
         "gp:id":28587272,
-        "qs:id":901585
+        "qs_pg:id":901585
     },
     "wof:coterminous":[
         404226167
@@ -96,7 +99,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1562898572,
+    "wof:lastmodified":1566601186,
     "wof:name":"South Littleton",
     "wof:parent_id":404226167,
     "wof:placetype":"locality",

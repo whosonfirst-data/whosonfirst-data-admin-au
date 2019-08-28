@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-31.062283,
     "lbl:longitude":150.900432,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-31.062283,
     "mps:longitude":150.900432,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Oxley Vale"
     ],
@@ -36,7 +39,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":156,
     "wof:belongsto":[
         85681545,
@@ -50,7 +53,7 @@
     "wof:concordances":{
         "gn:id":8348712,
         "gp:id":28586762,
-        "qs:id":249442,
+        "qs_pg:id":249442,
         "wd:id":"Q7115690",
         "wk:page":"Oxley Vale, New South Wales"
     },
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":101931531,
-    "wof:lastmodified":1561827834,
+    "wof:lastmodified":1566601203,
     "wof:name":"Oxley Vale",
     "wof:parent_id":404225531,
     "wof:placetype":"locality",

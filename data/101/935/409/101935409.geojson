@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-27.154197,
     "lbl:longitude":149.060738,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":-27.154197,
     "mps:longitude":149.060738,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Surat"
     ],
@@ -63,7 +66,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-27.166667,
     "wd:longitude":149.066667,
@@ -80,7 +83,6 @@
     "wof:concordances":{
         "gn:id":2147854,
         "gp:id":1105760,
-        "qs:id":572848,
         "qs_pg:id":572848,
         "wd:id":"Q994539",
         "wk:page":"Surat, Queensland"
@@ -102,7 +104,7 @@
         }
     ],
     "wof:id":101935409,
-    "wof:lastmodified":1562902059,
+    "wof:lastmodified":1566601665,
     "wof:name":"Surat",
     "wof:parent_id":404544233,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-42.890014,
     "lbl:longitude":147.443834,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-42.890014,
     "mps:longitude":147.443834,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Clarendon Vale"
     ],
@@ -36,7 +39,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":135,
     "wof:belongsto":[
         85681583,
@@ -51,7 +54,7 @@
     "wof:concordances":{
         "gn:id":8347734,
         "gp:id":22739305,
-        "qs:id":41361,
+        "qs_pg:id":41361,
         "wd:id":"Q5126889",
         "wk:page":"Clarendon Vale, Tasmania"
     },
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":101938053,
-    "wof:lastmodified":1561827850,
+    "wof:lastmodified":1566601256,
     "wof:name":"Clarendon Vale",
     "wof:parent_id":404548799,
     "wof:placetype":"locality",

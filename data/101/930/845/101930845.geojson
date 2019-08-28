@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-34.017506,
     "lbl:longitude":151.081796,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":-34.017506,
     "mps:longitude":151.081796,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Kareela"
     ],
@@ -52,7 +55,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":376,
     "wof:belongsto":[
@@ -68,7 +71,7 @@
     "wof:concordances":{
         "gn:id":2205983,
         "gp:id":1096527,
-        "qs:id":5456,
+        "qs_pg:id":5456,
         "wd:id":"Q6369183",
         "wk:page":"Kareela"
     },
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":101930845,
-    "wof:lastmodified":1562899856,
+    "wof:lastmodified":1566601384,
     "wof:name":"Kareela",
     "wof:parent_id":404224147,
     "wof:placetype":"locality",

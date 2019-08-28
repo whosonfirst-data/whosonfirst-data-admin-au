@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-34.951989,
     "lbl:longitude":138.647868,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-34.951989,
     "mps:longitude":138.647868,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "St Georges"
     ],
@@ -42,7 +45,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":60,
     "wof:belongsto":[
         85681519,
@@ -57,7 +60,7 @@
     "wof:concordances":{
         "gn:id":8348352,
         "gp:id":28587349,
-        "qs:id":910067,
+        "qs_pg:id":910067,
         "wd:id":"Q7593243",
         "wk:page":"St Georges, South Australia"
     },
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":101936639,
-    "wof:lastmodified":1562898295,
+    "wof:lastmodified":1566601146,
     "wof:name":"St Georges",
     "wof:parent_id":404546335,
     "wof:placetype":"locality",

@@ -9,15 +9,16 @@
     "geom:bbox":"153.433519827,-28.0064016289,153.433519827,-28.0064016289",
     "geom:latitude":-28.006402,
     "geom:longitude":153.43352,
-    "gn:gn_country":"AU",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":18501,
+    "gn:country":"AU",
+    "gn:fcode":"PPL",
     "gn:latitude":-28.00274,
     "gn:longitude":153.42999,
     "gn:population":18501,
     "iso:country":"AU",
+    "lbl:bbox":"153.428519827,-28.0114016289,153.438519827,-28.0014016289",
     "lbl:latitude":-28.007132,
     "lbl:longitude":153.433523,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-28.007132,
     "mps:longitude":153.433523,
     "mz:hierarchy_label":0,
@@ -111,9 +112,8 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
-    "wof:belongs_to":[],
     "wof:belongsto":[
         102191583
     ],
@@ -121,7 +121,6 @@
     "wof:concordances":{
         "gn:id":2147849,
         "gp:id":1105762,
-        "qs:id":808710,
         "qs_pg:id":808710,
         "wd:id":"Q1024734"
     },
@@ -137,7 +136,7 @@
         }
     ],
     "wof:id":85771083,
-    "wof:lastmodified":1562895568,
+    "wof:lastmodified":1566600609,
     "wof:name":"Surfers Paradise",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

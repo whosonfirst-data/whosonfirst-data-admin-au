@@ -9,12 +9,16 @@
     "geom:bbox":"144.878425,-37.591247,144.878425,-37.591247",
     "geom:latitude":-37.591247,
     "geom:longitude":144.878425,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"AU",
+    "lbl:bbox":"144.858425,-37.611247,144.898425,-37.571247",
     "lbl:latitude":-37.591247,
     "lbl:longitude":144.878425,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Yuroke"
@@ -37,7 +41,7 @@
     "qs_pg:woe_adm0":23424748,
     "qs_pg:woe_id":22722099,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Victoria",
@@ -45,9 +49,9 @@
     "wof:belongsto":[
         85681497,
         102191583,
-        85632793,
-        404540939,
         1376953283,
+        404540939,
+        85632793,
         136253039,
         102049057
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1126002045,
-    "wof:lastmodified":1550722696,
+    "wof:lastmodified":1566603403,
     "wof:name":"Yuroke",
     "wof:parent_id":404540939,
     "wof:placetype":"locality",

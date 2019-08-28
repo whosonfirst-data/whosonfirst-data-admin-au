@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-37.62878,
     "lbl:longitude":144.100994,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-37.62878,
     "mps:longitude":144.100994,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mount Egerton"
     ],
@@ -39,9 +42,6 @@
     "name:swe_x_preferred":[
         "Mount Egerton"
     ],
-    "name:unk_x_variant":[
-        "Egerton"
-    ],
     "name:zho_x_preferred":[
         "\u57c3\u683c\u9813\u5c71"
     ],
@@ -58,7 +58,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: urban areas and localities selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":20,
     "wof:belongsto":[
         85681497,
@@ -92,7 +92,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1562901203,
+    "wof:lastmodified":1566601563,
     "wof:name":"Mount Egerton",
     "wof:parent_id":404539585,
     "wof:placetype":"locality",

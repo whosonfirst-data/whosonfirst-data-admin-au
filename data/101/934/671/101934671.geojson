@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-23.87732,
     "lbl:longitude":151.247376,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-23.87732,
     "mps:longitude":151.247376,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kin Kora"
     ],
@@ -33,7 +36,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":189,
     "wof:belongsto":[
         85681463,
@@ -47,7 +50,7 @@
     "wof:concordances":{
         "gn:id":8348500,
         "gp:id":28585672,
-        "qs:id":1019623,
+        "qs_pg:id":1019623,
         "wd:id":"Q18165890"
     },
     "wof:coterminous":[
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":101934671,
-    "wof:lastmodified":1550719708,
+    "wof:lastmodified":1566601732,
     "wof:name":"Kin Kora",
     "wof:parent_id":404542803,
     "wof:placetype":"locality",

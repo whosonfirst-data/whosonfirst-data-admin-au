@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-34.061276,
     "lbl:longitude":150.695776,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-34.061276,
     "mps:longitude":150.695776,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Camden"
     ],
@@ -75,7 +78,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":-34.054444,
     "wd:longitude":150.695833,
     "wd:wordcount":1532,
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":101929785,
-    "wof:lastmodified":1562903468,
+    "wof:lastmodified":1566601817,
     "wof:name":"Camden",
     "wof:parent_id":404222411,
     "wof:placetype":"locality",

@@ -13,6 +13,8 @@
     "iso:country":"AU",
     "lbl:latitude":-20.00205,
     "lbl:longitude":148.244398,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-20.00205,
     "mps:longitude":148.244398,
     "mz:hierarchy_label":1,
@@ -161,7 +163,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-20.016667,
     "wd:longitude":148.233333,
@@ -178,7 +180,6 @@
     "wof:concordances":{
         "gn:id":2174444,
         "gp:id":1100584,
-        "qs:id":138877,
         "qs_pg:id":138877,
         "wd:id":"Q895407",
         "wk:page":"Bowen, Queensland"
@@ -197,7 +198,7 @@
         }
     ],
     "wof:id":101940609,
-    "wof:lastmodified":1562901342,
+    "wof:lastmodified":1566601580,
     "wof:name":"Bowen",
     "wof:parent_id":404541381,
     "wof:placetype":"locality",

@@ -9,13 +9,14 @@
     "geom:bbox":"142.298856992,-35.0815720045,142.331416064,-35.056858539",
     "geom:latitude":-35.06894,
     "geom:longitude":142.311431,
-    "gn:gn_country":"AU",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1400,
+    "gn:country":"AU",
+    "gn:fcode":"PPL",
     "gn:population":1400,
     "iso:country":"AU",
     "lbl:latitude":-35.068044,
     "lbl:longitude":142.311122,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":-35.068044,
     "mps:longitude":142.311122,
     "mz:hierarchy_label":1,
@@ -167,7 +168,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-35.0667,
     "wd:longitude":142.317,
@@ -184,13 +185,12 @@
     "wof:concordances":{
         "gn:id":2154088,
         "gp:id":1104855,
-        "qs:id":278103,
-        "qs_pg:id":1110560,
+        "qs_pg:id":278103,
         "wd:id":"Q2042167",
         "wk:page":"Ouyen"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":278103
+        "qs_pg:id":1110560
     },
     "wof:coterminous":[
         404539859
@@ -209,7 +209,7 @@
         }
     ],
     "wof:id":101933383,
-    "wof:lastmodified":1562903037,
+    "wof:lastmodified":1566601770,
     "wof:name":"Ouyen",
     "wof:parent_id":404539859,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-33.865655,
     "lbl:longitude":151.115473,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":-33.865655,
     "mps:longitude":151.115473,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Canada Bay"
     ],
@@ -55,7 +58,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681545,
@@ -70,7 +73,7 @@
     "wof:concordances":{
         "gn:id":6949375,
         "gp:id":22721181,
-        "qs:id":253884,
+        "qs_pg:id":253884,
         "wd:id":"Q5029318",
         "wk:page":"Canada Bay, New South Wales"
     },
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":101929805,
-    "wof:lastmodified":1562903455,
+    "wof:lastmodified":1566601816,
     "wof:name":"Canada Bay",
     "wof:parent_id":404222431,
     "wof:placetype":"locality",

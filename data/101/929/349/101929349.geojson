@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-32.70068,
     "lbl:longitude":151.530096,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-32.70068,
     "mps:longitude":151.530096,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Aberglasslyn"
     ],
@@ -39,7 +42,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681545,
         102191583,
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":101929349,
-    "wof:lastmodified":1561828017,
+    "wof:lastmodified":1566601819,
     "wof:name":"Aberglasslyn",
     "wof:parent_id":404221441,
     "wof:placetype":"locality",

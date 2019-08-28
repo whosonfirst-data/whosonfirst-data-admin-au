@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-27.734831,
     "lbl:longitude":153.244934,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":-27.734831,
     "mps:longitude":153.244934,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Stapylton"
     ],
@@ -39,7 +42,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":247,
     "wof:belongsto":[
@@ -55,7 +58,6 @@
     "wof:concordances":{
         "gn:id":2148499,
         "gp:id":28588224,
-        "qs:id":372963,
         "qs_pg:id":372963,
         "wd:id":"Q16900657"
     },
@@ -77,7 +79,7 @@
         }
     ],
     "wof:id":101935375,
-    "wof:lastmodified":1561827978,
+    "wof:lastmodified":1566601697,
     "wof:name":"Stapylton",
     "wof:parent_id":404544187,
     "wof:placetype":"locality",

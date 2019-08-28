@@ -9,14 +9,18 @@
     "geom:bbox":"147.71667,-37.25,147.71667,-37.25",
     "geom:latitude":-37.25,
     "geom:longitude":147.71667,
-    "gn:gn_country":"AU",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"AU",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"AU",
+    "lbl:bbox":"147.69667,-37.27,147.73667,-37.23",
     "lbl:latitude":-37.25,
     "lbl:longitude":147.71667,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Swifts Creek"
@@ -39,7 +43,7 @@
     "name:swe_x_preferred":[
         "Swifts Creek"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Swifts Creek Junction"
     ],
     "name:zho_x_preferred":[
@@ -66,7 +70,7 @@
     "qs_pg:woe_adm0":23424748,
     "qs_pg:woe_id":1105777,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Victoria",
@@ -101,7 +105,7 @@
         }
     ],
     "wof:id":1126048713,
-    "wof:lastmodified":1562922252,
+    "wof:lastmodified":1566603291,
     "wof:name":"Swifts Creek",
     "wof:parent_id":404540373,
     "wof:placetype":"locality",

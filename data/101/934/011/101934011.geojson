@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-27.320917,
     "lbl:longitude":152.977906,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-27.320917,
     "mps:longitude":152.977906,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Brendale"
     ],
@@ -42,7 +45,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":234,
     "wof:belongsto":[
         85681463,
@@ -57,7 +60,7 @@
     "wof:concordances":{
         "gn:id":6943559,
         "gp:id":7225409,
-        "qs:id":1190314,
+        "qs_pg:id":1190314,
         "wd:id":"Q4960795",
         "wk:page":"Brendale, Queensland"
     },
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":101934011,
-    "wof:lastmodified":1562902693,
+    "wof:lastmodified":1566601732,
     "wof:name":"Brendale",
     "wof:parent_id":404541419,
     "wof:placetype":"locality",

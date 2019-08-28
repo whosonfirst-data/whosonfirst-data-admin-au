@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-38.175413,
     "lbl:longitude":146.253707,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-38.175413,
     "mps:longitude":146.253707,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:afr_x_preferred":[
         "Moe"
     ],
@@ -265,7 +268,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-38.17489,
     "wd:longitude":146.26296,
@@ -283,7 +286,6 @@
         "fct:id":"03331d32-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2157343,
         "gp:id":1104005,
-        "qs:id":6531,
         "qs_pg:id":6531,
         "wd:id":"Q1420012",
         "wk:page":"Moe, Victoria"
@@ -308,7 +310,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1562903183,
+    "wof:lastmodified":1566601786,
     "wof:name":"Moe",
     "wof:parent_id":404539513,
     "wof:placetype":"locality",

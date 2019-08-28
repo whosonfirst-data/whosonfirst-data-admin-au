@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-27.911214,
     "lbl:longitude":153.372463,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-27.911214,
     "mps:longitude":153.372463,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u0645\u0628\u0627\u0628\u0627 \u0643\u0648\u064a\u0646\u0632\u0644\u0627\u0646\u062f"
     ],
@@ -39,7 +42,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":653,
     "wof:belongsto":[
         85681463,
@@ -55,7 +58,7 @@
         "fct:id":"0349e288-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":8348789,
         "gp:id":22721548,
-        "qs:id":24101,
+        "qs_pg:id":24101,
         "wd:id":"Q5167560",
         "wk:page":"Coombabah, Queensland"
     },
@@ -80,7 +83,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561827987,
+    "wof:lastmodified":1566601732,
     "wof:name":"Coombabah",
     "wof:parent_id":404541809,
     "wof:placetype":"locality",

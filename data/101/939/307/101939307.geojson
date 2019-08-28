@@ -13,6 +13,8 @@
     "iso:country":"AU",
     "lbl:latitude":-36.237452,
     "lbl:longitude":149.135418,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-36.237452,
     "mps:longitude":149.135418,
     "mz:hierarchy_label":1,
@@ -63,7 +65,7 @@
     "name:swe_x_preferred":[
         "Cooma"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Comma"
     ],
     "name:zho_x_preferred":[
@@ -177,7 +179,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681545,
@@ -191,7 +193,6 @@
     "wof:concordances":{
         "gn:id":2170577,
         "gp:id":1101318,
-        "qs:id":6165,
         "qs_pg:id":6165,
         "wd:id":"Q1129726",
         "wk:page":"Cooma"
@@ -210,7 +211,7 @@
         }
     ],
     "wof:id":101939307,
-    "wof:lastmodified":1562899360,
+    "wof:lastmodified":1566601309,
     "wof:name":"Cooma",
     "wof:parent_id":404222773,
     "wof:placetype":"locality",

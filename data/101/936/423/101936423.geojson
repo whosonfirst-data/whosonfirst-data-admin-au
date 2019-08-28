@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-34.782734,
     "lbl:longitude":138.610424,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-34.782734,
     "mps:longitude":138.610424,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Parafield Gardens"
     ],
@@ -39,7 +42,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":393,
     "wof:belongsto":[
         85681519,
@@ -54,7 +57,7 @@
     "wof:concordances":{
         "gn:id":8349238,
         "gp:id":22720885,
-        "qs:id":887011,
+        "qs_pg:id":887011,
         "wd:id":"Q7134528",
         "wk:page":"Parafield Gardens, South Australia"
     },
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":101936423,
-    "wof:lastmodified":1562898028,
+    "wof:lastmodified":1566601113,
     "wof:name":"Parafield Gardens",
     "wof:parent_id":404546045,
     "wof:placetype":"locality",

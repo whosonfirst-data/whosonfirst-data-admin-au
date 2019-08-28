@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-36.440292,
     "lbl:longitude":145.357498,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-36.440292,
     "mps:longitude":145.357498,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Arcadia Downs"
     ],
@@ -32,13 +35,13 @@
     "qs:source":"SAustralian Bureau Of Statistics: urban areas and localities selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681497,
         102191583,
-        85632793,
-        404539067,
         1376953455,
+        404539067,
+        85632793,
         136253039,
         102049473
     ],
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":101940067,
-    "wof:lastmodified":1550720045,
+    "wof:lastmodified":1566601580,
     "wof:name":"Arcadia Downs",
     "wof:parent_id":404539067,
     "wof:placetype":"locality",

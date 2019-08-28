@@ -13,6 +13,8 @@
     "iso:country":"AU",
     "lbl:latitude":-32.9278,
     "lbl:longitude":151.782607,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-32.9278,
     "mps:longitude":151.782607,
     "mz:hierarchy_label":1,
@@ -351,7 +353,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":-32.916667,
     "wd:longitude":151.75,
@@ -373,7 +375,6 @@
         "fct:id":"033e963a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2155472,
         "gp:id":1104584,
-        "qs:id":1089446,
         "qs_pg:id":1089446,
         "wd:id":"Q57278",
         "wk:page":"Newcastle, New South Wales"
@@ -399,7 +400,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1562898653,
+    "wof:lastmodified":1566601197,
     "wof:megacity":0,
     "wof:name":"Newcastle",
     "wof:parent_id":404225287,

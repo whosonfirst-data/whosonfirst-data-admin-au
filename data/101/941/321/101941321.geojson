@@ -9,13 +9,14 @@
     "geom:bbox":"119.315543968,-31.2434260665,119.348775136,-31.216760592",
     "geom:latitude":-31.230463,
     "geom:longitude":119.333177,
-    "gn:gn_country":"AU",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":712,
+    "gn:country":"AU",
+    "gn:fcode":"PPL",
     "gn:population":712,
     "iso:country":"AU",
     "lbl:latitude":-31.232444,
     "lbl:longitude":119.338712,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":-31.232444,
     "mps:longitude":119.338712,
     "mz:hierarchy_label":1,
@@ -178,7 +179,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-31.25,
     "wd:longitude":119.35,
@@ -196,10 +197,12 @@
         "fct:id":"0330b344-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2149013,
         "gp:id":1105627,
-        "qs:id":137934,
         "qs_pg:id":90997,
         "wd:id":"Q983647",
         "wk:page":"Southern Cross, Western Australia"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":137934
     },
     "wof:country":"AU",
     "wof:geomhash":"8b44ecf6529a99386c62b43d317ff1b2",
@@ -218,7 +221,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1562900933,
+    "wof:lastmodified":1566601526,
     "wof:name":"Southern Cross",
     "wof:parent_id":404548321,
     "wof:placetype":"locality",

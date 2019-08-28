@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-27.456083,
     "lbl:longitude":153.152391,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-27.456083,
     "mps:longitude":153.152391,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Wynnum West"
     ],
@@ -33,14 +36,14 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":385,
     "wof:belongsto":[
         85681463,
         102191583,
-        85632793,
-        404544803,
         1376953397,
+        404544803,
+        85632793,
         136253039,
         102049495
     ],
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":101935691,
-    "wof:lastmodified":1550726602,
+    "wof:lastmodified":1566601689,
     "wof:name":"Wynnum West",
     "wof:parent_id":404544803,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-37.739487,
     "lbl:longitude":144.886433,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":-37.739487,
     "mps:longitude":144.886433,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Niddrie"
     ],
@@ -43,7 +46,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681497,
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":101933335,
-    "wof:lastmodified":1561828005,
+    "wof:lastmodified":1566601779,
     "wof:name":"Niddrie",
     "wof:parent_id":404539765,
     "wof:placetype":"locality",

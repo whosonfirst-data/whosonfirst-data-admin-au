@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-34.803527,
     "lbl:longitude":138.644385,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-34.803527,
     "mps:longitude":138.644385,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Para Hills West"
     ],
@@ -33,14 +36,14 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":50,
     "wof:belongsto":[
         85681519,
         102191583,
-        85632793,
-        404546035,
         1376953367,
+        404546035,
+        85632793,
         136253039,
         102048731
     ],
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":101936413,
-    "wof:lastmodified":1550724224,
+    "wof:lastmodified":1566601110,
     "wof:name":"Para Hills West",
     "wof:parent_id":404546035,
     "wof:placetype":"locality",

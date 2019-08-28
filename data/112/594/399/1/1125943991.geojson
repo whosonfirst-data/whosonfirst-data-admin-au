@@ -9,14 +9,18 @@
     "geom:bbox":"142.96667,-13.1,142.96667,-13.1",
     "geom:latitude":-13.1,
     "geom:longitude":142.96667,
-    "gn:gn_country":"AU",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"AU",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"AU",
+    "lbl:bbox":"142.94667,-13.12,142.98667,-13.08",
     "lbl:latitude":-13.1,
     "lbl:longitude":142.96667,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:deu_x_preferred":[
         "Wenlock"
@@ -30,7 +34,7 @@
     "name:swe_x_preferred":[
         "Wenlock"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Batavia"
     ],
     "qs_pg:aaroncc":"AU",
@@ -54,7 +58,7 @@
     "qs_pg:woe_adm0":23424748,
     "qs_pg:woe_id":1106569,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Queensland",
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":1125943991,
-    "wof:lastmodified":1562921800,
+    "wof:lastmodified":1566603243,
     "wof:name":"Wenlock",
     "wof:parent_id":404541753,
     "wof:placetype":"locality",

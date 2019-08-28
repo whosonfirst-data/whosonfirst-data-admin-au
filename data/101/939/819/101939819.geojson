@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-31.019598,
     "lbl:longitude":151.071177,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":-31.019598,
     "mps:longitude":151.071177,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Moonbi"
     ],
@@ -50,7 +53,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-31.016667,
     "wd:longitude":151.066667,
@@ -67,7 +70,6 @@
     "wof:concordances":{
         "gn:id":2157076,
         "gp:id":1104059,
-        "qs:id":1205715,
         "qs_pg:id":1205715,
         "wd:id":"Q2247748",
         "wk:page":"Moonbi, New South Wales"
@@ -86,7 +88,7 @@
         }
     ],
     "wof:id":101939819,
-    "wof:lastmodified":1562899448,
+    "wof:lastmodified":1566601323,
     "wof:name":"Moonbi",
     "wof:parent_id":404224987,
     "wof:placetype":"locality",

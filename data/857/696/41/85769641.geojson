@@ -9,14 +9,16 @@
     "geom:bbox":"153.448433,-28.067439,153.448433,-28.067439",
     "geom:latitude":-28.067439,
     "geom:longitude":153.448433,
-    "gn:gn_country":"AU",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"AU",
+    "gn:fcode":"PPL",
     "gn:latitude":-28.06667,
     "gn:longitude":153.45,
+    "gn:population":0,
     "iso:country":"AU",
+    "lbl:bbox":"153.443433,-28.072439,153.453433,-28.062439",
     "lbl:latitude":-28.070043,
     "lbl:longitude":153.443975,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-28.067646,
     "mps:longitude":153.44766,
     "mz:hierarchy_label":0,
@@ -29,9 +31,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":4,
     "name:eng_x_preferred":[
-        "Little Burleigh"
-    ],
-    "name:unk_x_variant":[
         "Little Burleigh"
     ],
     "qs:gn_adm0_cc":"AU",
@@ -81,8 +80,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191583,
         1376953307,
@@ -97,7 +95,6 @@
     "wof:concordances":{
         "gn:id":2160015,
         "gp:id":1096931,
-        "qs:id":221972,
         "qs_pg:id":221972
     },
     "wof:country":"AU",
@@ -119,7 +116,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1551830853,
+    "wof:lastmodified":1566600590,
     "wof:name":"Little Burleigh",
     "wof:parent_id":101934827,
     "wof:placetype":"neighbourhood",

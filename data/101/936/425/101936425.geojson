@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-34.755179,
     "lbl:longitude":138.612067,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-34.755179,
     "mps:longitude":138.612067,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Paralowie"
     ],
@@ -39,7 +42,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":569,
     "wof:belongsto":[
         85681519,
@@ -54,7 +57,7 @@
     "wof:concordances":{
         "gn:id":8349003,
         "gp:id":22721763,
-        "qs:id":1059774,
+        "qs_pg:id":1059774,
         "wd:id":"Q7135062",
         "wk:page":"Paralowie, South Australia"
     },
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":101936425,
-    "wof:lastmodified":1562897986,
+    "wof:lastmodified":1566601109,
     "wof:name":"Paralowie",
     "wof:parent_id":404546047,
     "wof:placetype":"locality",

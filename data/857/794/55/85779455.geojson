@@ -9,14 +9,16 @@
     "geom:bbox":"150.192673,-35.717491,150.192673,-35.717491",
     "geom:latitude":-35.717491,
     "geom:longitude":150.192673,
-    "gn:gn_country":"AU",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"AU",
+    "gn:fcode":"PPLX",
     "gn:latitude":-35.73,
     "gn:longitude":150.18494,
+    "gn:population":0,
     "iso:country":"AU",
+    "lbl:bbox":"150.187673,-35.722491,150.197673,-35.712491",
     "lbl:latitude":-35.717491,
     "lbl:longitude":150.192673,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-35.716413,
     "mps:longitude":150.196882,
     "mz:hierarchy_label":0,
@@ -85,9 +87,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0442\u0430\u043b\u0456\u043d\u0430"
     ],
-    "name:unk_x_variant":[
-        "Catalina"
-    ],
     "qs:gn_adm0_cc":"AU",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":2176639,
@@ -136,8 +135,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191583,
         404221721,
@@ -150,7 +148,6 @@
     "wof:concordances":{
         "gn:id":8348468,
         "gp:id":28584481,
-        "qs:id":356889,
         "qs_pg:id":356889
     },
     "wof:country":"AU",
@@ -171,7 +168,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1562895374,
+    "wof:lastmodified":1566600553,
     "wof:name":"Catalina",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-33.866773,
     "lbl:longitude":151.251494,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":-33.866773,
     "mps:longitude":151.251494,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Point Piper"
     ],
@@ -64,7 +67,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681545,
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":101931611,
-    "wof:lastmodified":1562898522,
+    "wof:lastmodified":1566601177,
     "wof:name":"Point Piper",
     "wof:parent_id":404225675,
     "wof:placetype":"locality",

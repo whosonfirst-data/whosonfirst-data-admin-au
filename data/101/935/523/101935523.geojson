@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-17.93387,
     "lbl:longitude":145.928083,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":-17.93387,
     "mps:longitude":145.928083,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Tully"
     ],
@@ -57,7 +60,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-17.9333,
     "wd:longitude":145.933,
@@ -74,7 +77,6 @@
     "wof:concordances":{
         "gn:id":2145903,
         "gp:id":1106182,
-        "qs:id":905728,
         "qs_pg:id":905728,
         "wd:id":"Q121706",
         "wk:page":"Tully, Queensland"
@@ -96,7 +98,7 @@
         }
     ],
     "wof:id":101935523,
-    "wof:lastmodified":1562902367,
+    "wof:lastmodified":1566601697,
     "wof:name":"Tully",
     "wof:parent_id":404544481,
     "wof:placetype":"locality",

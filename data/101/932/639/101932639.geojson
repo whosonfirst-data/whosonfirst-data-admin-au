@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-37.78651,
     "lbl:longitude":144.855069,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-37.78651,
     "mps:longitude":144.855069,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Braybrook"
     ],
@@ -46,7 +49,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1249,
     "wof:belongsto":[
@@ -62,7 +65,7 @@
     "wof:concordances":{
         "gn:id":8349364,
         "gp:id":1107209,
-        "qs:id":193436,
+        "qs_pg:id":193436,
         "wd:id":"Q1854516",
         "wk:page":"Braybrook, Victoria"
     },
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":101932639,
-    "wof:lastmodified":1562901799,
+    "wof:lastmodified":1566601639,
     "wof:name":"Braybrook",
     "wof:parent_id":404537875,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-32.83164,
     "lbl:longitude":151.351392,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-32.83164,
     "mps:longitude":151.351392,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:amh_x_preferred":[
         "\u1234\u1235\u1296\u12ad"
     ],
@@ -177,7 +180,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-32.834167,
     "wd:longitude":151.3555,
@@ -195,7 +198,6 @@
         "fct:id":"033e9b1c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2171845,
         "gp:id":1101096,
-        "qs:id":6120,
         "qs_pg:id":6120,
         "wd:id":"Q606357",
         "wk:page":"Cessnock, New South Wales"
@@ -217,7 +219,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1562899552,
+    "wof:lastmodified":1566601338,
     "wof:name":"Cessnock",
     "wof:parent_id":404222565,
     "wof:placetype":"locality",

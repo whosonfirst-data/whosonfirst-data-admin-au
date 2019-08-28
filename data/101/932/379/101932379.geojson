@@ -13,6 +13,8 @@
     "iso:country":"AU",
     "lbl:latitude":-34.428377,
     "lbl:longitude":150.893892,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-34.428377,
     "mps:longitude":150.893892,
     "mz:hierarchy_label":1,
@@ -232,9 +234,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u0443\u043b\u043b\u043e\u043d\u0433\u043e\u043d\u0433"
     ],
-    "name:unk_x_variant":[
-        "City of Greater Wollongong"
-    ],
     "name:urd_x_preferred":[
         "\u0648\u0648\u0644\u0648\u0646\u06af\u0648\u0646\u06af"
     ],
@@ -364,7 +363,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681545,
@@ -379,10 +378,12 @@
         "fct:id":"033e9ce8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2171507,
         "gp:id":1106771,
-        "qs:id":138844,
-        "qs_pg:id":1110746,
+        "qs_pg:id":138844,
         "wd:id":"Q187861",
         "wk:page":"Wollongong"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1110746
     },
     "wof:coterminous":[
         404227127
@@ -404,7 +405,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1562901589,
+    "wof:lastmodified":1566601615,
     "wof:name":"Wollongong",
     "wof:parent_id":404227127,
     "wof:placetype":"locality",

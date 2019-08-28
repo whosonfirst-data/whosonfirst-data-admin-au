@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-27.590376,
     "lbl:longitude":152.738061,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-27.590376,
     "mps:longitude":152.738061,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Brassall"
     ],
@@ -49,7 +52,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681463,
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":101934005,
-    "wof:lastmodified":1562902765,
+    "wof:lastmodified":1566601741,
     "wof:name":"Brassall",
     "wof:parent_id":404541413,
     "wof:placetype":"locality",

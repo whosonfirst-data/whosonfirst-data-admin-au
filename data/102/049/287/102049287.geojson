@@ -18,10 +18,13 @@
     ],
     "lbl:latitude":-26.992859,
     "lbl:longitude":152.431735,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-26.992859,
     "mps:longitude":152.431735,
     "mz:hierarchy_label":0,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Somerset"
     ],
@@ -234,7 +237,7 @@
     "qs:source":"Australia Census",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191583,
         85681463,
@@ -255,7 +258,7 @@
         }
     ],
     "wof:id":102049287,
-    "wof:lastmodified":1562894204,
+    "wof:lastmodified":1566600199,
     "wof:name":"Somerset",
     "wof:parent_id":85681463,
     "wof:placetype":"county",

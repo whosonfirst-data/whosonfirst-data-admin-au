@@ -13,6 +13,8 @@
     "iso:country":"AU",
     "lbl:latitude":-20.376992,
     "lbl:longitude":118.626374,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-20.376992,
     "mps:longitude":118.626374,
     "mz:hierarchy_label":1,
@@ -214,7 +216,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-20.31,
     "wd:longitude":118.601111,
@@ -234,7 +236,6 @@
         "fct:id":"033eaa80-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2063042,
         "gp:id":1105126,
-        "qs:id":1250540,
         "qs_pg:id":1250540,
         "wd:id":"Q550465",
         "wk:page":"Port Hedland, Western Australia"
@@ -256,7 +257,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1562899724,
+    "wof:lastmodified":1566601364,
     "wof:name":"Port Hedland",
     "wof:parent_id":404548157,
     "wof:placetype":"locality",

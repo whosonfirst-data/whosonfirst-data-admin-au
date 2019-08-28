@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-35.254689,
     "lbl:longitude":139.461352,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":-35.254689,
     "mps:longitude":139.461352,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Tailem Bend"
     ],
@@ -44,9 +47,6 @@
     "name:swe_x_preferred":[
         "Tailem Bend"
     ],
-    "name:unk_x_variant":[
-        "Tailen Bend"
-    ],
     "qs:a0":"Australia",
     "qs:a1":"*South Australia",
     "qs:a1_lc":"4",
@@ -62,7 +62,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-35.25,
     "wd:longitude":139.45,
@@ -80,7 +80,6 @@
         "fct:id":"032fb2a0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2060703,
         "gp:id":1105789,
-        "qs:id":246260,
         "qs_pg:id":246260,
         "wd:id":"Q988010",
         "wk:page":"Tailem Bend, South Australia"
@@ -102,7 +101,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1562900935,
+    "wof:lastmodified":1566601526,
     "wof:name":"Tailem Bend",
     "wof:parent_id":404546383,
     "wof:placetype":"locality",

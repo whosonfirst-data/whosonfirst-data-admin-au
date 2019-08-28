@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-38.466023,
     "lbl:longitude":144.078768,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":-38.466023,
     "mps:longitude":144.078768,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Aireys Inlet"
     ],
@@ -47,9 +50,6 @@
     "name:swe_x_preferred":[
         "Aireys Inlet"
     ],
-    "name:unk_x_variant":[
-        "Aireys Inlet"
-    ],
     "qs:a0":"Australia",
     "qs:a1":"*Victoria",
     "qs:a1_lc":"2",
@@ -66,7 +66,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681497,
@@ -102,7 +102,7 @@
         }
     ],
     "wof:id":101932925,
-    "wof:lastmodified":1562901639,
+    "wof:lastmodified":1566601621,
     "wof:name":"Fairhaven",
     "wof:parent_id":404538563,
     "wof:placetype":"locality",

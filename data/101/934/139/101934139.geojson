@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-27.61836,
     "lbl:longitude":152.929552,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-27.61836,
     "mps:longitude":152.929552,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Carole Park"
     ],
@@ -33,14 +36,14 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":301,
     "wof:belongsto":[
         85681463,
         102191583,
-        85632793,
-        404541637,
         1376953397,
+        404541637,
+        85632793,
         136253039,
         102048583
     ],
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":101934139,
-    "wof:lastmodified":1550754624,
+    "wof:lastmodified":1566601728,
     "wof:name":"Carole Park",
     "wof:parent_id":404541637,
     "wof:placetype":"locality",

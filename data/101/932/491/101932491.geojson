@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-38.410464,
     "lbl:longitude":144.177746,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":-38.410464,
     "mps:longitude":144.177746,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Anglesea"
     ],
@@ -44,9 +47,6 @@
     "name:swe_x_preferred":[
         "Anglesea"
     ],
-    "name:unk_x_variant":[
-        "Anglesea River"
-    ],
     "qs:a0":"Australia",
     "qs:a1":"*Victoria",
     "qs:a1_lc":"2",
@@ -63,7 +63,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-38.406389,
     "wd:longitude":144.186944,
@@ -81,7 +81,6 @@
         "fct:id":"032fcc22-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2177872,
         "gp:id":1099917,
-        "qs:id":1243657,
         "qs_pg:id":1243657,
         "wd:id":"Q540478",
         "wk:page":"Anglesea, Victoria"
@@ -106,7 +105,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1562901582,
+    "wof:lastmodified":1566601614,
     "wof:name":"Anglesea",
     "wof:parent_id":404537541,
     "wof:placetype":"locality",

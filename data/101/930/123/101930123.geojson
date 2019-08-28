@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-32.994585,
     "lbl:longitude":151.723394,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-32.994585,
     "mps:longitude":151.723394,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Dudley"
     ],
@@ -36,7 +39,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":296,
     "wof:belongsto":[
         85681545,
@@ -51,7 +54,7 @@
     "wof:concordances":{
         "gn:id":8348528,
         "gp:id":22721430,
-        "qs:id":335257,
+        "qs_pg:id":335257,
         "wd:id":"Q5311786",
         "wk:page":"Dudley, New South Wales"
     },
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":101930123,
-    "wof:lastmodified":1561827892,
+    "wof:lastmodified":1566601425,
     "wof:name":"Dudley",
     "wof:parent_id":404223085,
     "wof:placetype":"locality",

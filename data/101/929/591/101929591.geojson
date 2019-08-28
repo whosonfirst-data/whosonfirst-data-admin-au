@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-34.570838,
     "lbl:longitude":150.830854,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-34.570838,
     "mps:longitude":150.830854,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Blackbutt"
     ],
@@ -36,7 +39,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":41,
     "wof:belongsto":[
         85681545,
@@ -51,7 +54,7 @@
     "wof:concordances":{
         "gn:id":8349195,
         "gp:id":22721380,
-        "qs:id":335256,
+        "qs_pg:id":335256,
         "wd:id":"Q4922757",
         "wk:page":"Blackbutt, New South Wales"
     },
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":101929591,
-    "wof:lastmodified":1561828019,
+    "wof:lastmodified":1566601825,
     "wof:name":"Blackbutt",
     "wof:parent_id":404221953,
     "wof:placetype":"locality",

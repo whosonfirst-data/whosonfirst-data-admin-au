@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-36.184916,
     "lbl:longitude":146.948005,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-36.184916,
     "mps:longitude":146.948005,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Baranduda"
     ],
@@ -34,13 +37,13 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681497,
         102191583,
-        85632793,
-        404537655,
         1376968051,
+        404537655,
+        85632793,
         136253039,
         102049665
     ],
@@ -49,7 +52,6 @@
         "fct:id":"03311118-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2176907,
         "gp:id":1094243,
-        "qs:id":1012991,
         "qs_pg:id":1012991
     },
     "wof:country":"AU",
@@ -70,7 +72,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1550720201,
+    "wof:lastmodified":1566601539,
     "wof:name":"Baranduda",
     "wof:parent_id":404537655,
     "wof:placetype":"locality",

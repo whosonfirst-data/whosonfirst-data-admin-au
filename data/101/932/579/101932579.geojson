@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-38.096417,
     "lbl:longitude":144.321149,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":-38.096417,
     "mps:longitude":144.321149,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Bell Post Hill"
     ],
@@ -43,7 +46,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":164,
     "wof:belongsto":[
@@ -59,7 +62,7 @@
     "wof:concordances":{
         "gn:id":8348780,
         "gp:id":22721818,
-        "qs:id":1019889,
+        "qs_pg:id":1019889,
         "wd:id":"Q4883233",
         "wk:page":"Bell Post Hill, Victoria"
     },
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":101932579,
-    "wof:lastmodified":1562901878,
+    "wof:lastmodified":1566601647,
     "wof:name":"Bell Post Hill",
     "wof:parent_id":404537731,
     "wof:placetype":"locality",

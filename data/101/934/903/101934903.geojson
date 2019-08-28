@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-27.524104,
     "lbl:longitude":152.822571,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-27.520342,
     "mps:longitude":152.817887,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mount Crosby"
     ],
@@ -37,14 +40,14 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":622,
     "wof:belongsto":[
         85681463,
         102191583,
-        85632793,
-        404543307,
         1376953397,
+        404543307,
+        85632793,
         136253039,
         102049495
     ],
@@ -79,7 +82,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1550726595,
+    "wof:lastmodified":1566601726,
     "wof:name":"Mount Crosby",
     "wof:parent_id":404543307,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-28.786854,
     "lbl:longitude":114.630698,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-28.786854,
     "mps:longitude":114.630698,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Rangeway"
     ],
@@ -36,7 +39,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":262,
     "wof:belongsto":[
         85681439,
@@ -50,7 +53,7 @@
     "wof:concordances":{
         "gn:id":8349099,
         "gp:id":28586982,
-        "qs:id":1196854,
+        "qs_pg:id":1196854,
         "wd:id":"Q7292809"
     },
     "wof:coterminous":[
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":101937713,
-    "wof:lastmodified":1561827904,
+    "wof:lastmodified":1566601458,
     "wof:name":"Rangeway",
     "wof:parent_id":404548183,
     "wof:placetype":"locality",

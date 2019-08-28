@@ -14,10 +14,13 @@
     "iso:country":"AU",
     "lbl:latitude":-33.774365,
     "lbl:longitude":151.283721,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-33.774365,
     "mps:longitude":151.283721,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Freshwater"
     ],
@@ -62,7 +65,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":973,
     "wof:belongsto":[
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":101930351,
-    "wof:lastmodified":1562900017,
+    "wof:lastmodified":1566601407,
     "wof:name":"Freshwater",
     "wof:parent_id":404223491,
     "wof:placetype":"locality",

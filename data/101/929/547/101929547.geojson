@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-33.497363,
     "lbl:longitude":151.392555,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":-33.497363,
     "mps:longitude":151.392555,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Bensville"
     ],
@@ -48,7 +51,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":157,
     "wof:belongsto":[
@@ -63,7 +66,6 @@
     "wof:concordances":{
         "gn:id":2176124,
         "gp:id":1094371,
-        "qs:id":321728,
         "qs_pg:id":321728,
         "wd:id":"Q4890301",
         "wk:page":"Bensville, New South Wales"
@@ -85,7 +87,7 @@
         }
     ],
     "wof:id":101929547,
-    "wof:lastmodified":1562903608,
+    "wof:lastmodified":1566601835,
     "wof:name":"Bensville",
     "wof:parent_id":404221825,
     "wof:placetype":"locality",

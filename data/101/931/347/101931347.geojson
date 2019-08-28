@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-34.549697,
     "lbl:longitude":148.339536,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":-34.549697,
     "mps:longitude":148.339536,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Murrumburrah"
     ],
@@ -54,7 +57,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-34.55,
     "wd:longitude":148.35,
@@ -72,9 +75,11 @@
         "fct:id":"0333c8ea-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2156062,
         "gp:id":1104399,
-        "qs:id":460251,
-        "qs_pg:id":1110536,
+        "qs_pg:id":460251,
         "wd:id":"Q6939645"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1110536
     },
     "wof:coterminous":[
         404225161
@@ -96,7 +101,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1562898631,
+    "wof:lastmodified":1566601195,
     "wof:name":"Murrumburrah",
     "wof:parent_id":404225161,
     "wof:placetype":"locality",

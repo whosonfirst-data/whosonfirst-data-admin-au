@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-37.703471,
     "lbl:longitude":144.925,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-37.703471,
     "mps:longitude":144.925,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Glenroy"
     ],
@@ -49,7 +52,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681497,
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":101932977,
-    "wof:lastmodified":1562901585,
+    "wof:lastmodified":1566601615,
     "wof:name":"Glenroy",
     "wof:parent_id":404538711,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-29.641829,
     "lbl:longitude":152.924065,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-29.641829,
     "mps:longitude":152.924065,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Junction Hill"
     ],
@@ -33,7 +36,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681545,
         102191583,
@@ -46,7 +49,7 @@
     "wof:concordances":{
         "gn:id":8348036,
         "gp:id":28588728,
-        "qs:id":64981
+        "qs_pg:id":64981
     },
     "wof:coterminous":[
         404224103
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":101930827,
-    "wof:lastmodified":1550718626,
+    "wof:lastmodified":1566601382,
     "wof:name":"Junction Hill",
     "wof:parent_id":404224103,
     "wof:placetype":"locality",

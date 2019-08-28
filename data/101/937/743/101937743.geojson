@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-32.023262,
     "lbl:longitude":115.865991,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-32.023262,
     "mps:longitude":115.865991,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Salter Point"
     ],
@@ -36,7 +39,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":433,
     "wof:belongsto":[
         85681439,
@@ -51,7 +54,7 @@
     "wof:concordances":{
         "gn:id":8349101,
         "gp:id":22722008,
-        "qs:id":202764,
+        "qs_pg:id":202764,
         "wd:id":"Q7406081"
     },
     "wof:coterminous":[
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":101937743,
-    "wof:lastmodified":1561827914,
+    "wof:lastmodified":1566601487,
     "wof:name":"Salter Point",
     "wof:parent_id":404548235,
     "wof:placetype":"locality",

@@ -24,6 +24,7 @@
     ],
     "lbl:latitude":-29.467956,
     "lbl:longitude":135.915347,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-29.471257,
     "mps:longitude":135.91663,
     "mz:hierarchy_label":1,
@@ -369,9 +370,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u0456\u0432\u0434\u0435\u043d\u043d\u0430 \u0410\u0432\u0441\u0442\u0440\u0430\u043b\u0456\u044f"
     ],
-    "name:unk_x_variant":[
-        "State of South Australia"
-    ],
     "name:urd_x_preferred":[
         "\u062c\u0646\u0648\u0628\u06cc \u0622\u0633\u0679\u0631\u06cc\u0644\u06cc\u0627"
     ],
@@ -471,9 +469,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-08-09",
+    "src:population_date":"2011-08-09",
     "statoids:area_km":"984,377",
     "statoids:area_mi":"380,070",
     "statoids:as_of_date":"2011-08-09",
@@ -518,11 +516,10 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1565644481,
+    "wof:lastmodified":1566600657,
     "wof:name":"South Australia",
     "wof:parent_id":85632793,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"state",
     "wof:population":1596572,
     "wof:population_rank":12,

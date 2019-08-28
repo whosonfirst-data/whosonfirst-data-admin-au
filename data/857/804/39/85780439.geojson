@@ -11,8 +11,10 @@
     "geom:longitude":153.123725,
     "gn:id":"",
     "iso:country":"AU",
+    "lbl:bbox":"153.118724869,-27.2194651174,153.128724869,-27.2094651174",
     "lbl:latitude":-27.216911,
     "lbl:longitude":153.117167,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-27.21454,
     "mps:longitude":153.126459,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":4,
     "name:eng_x_preferred":[
-        "Redcliffe North"
-    ],
-    "name:unk_x_variant":[
         "Redcliffe North"
     ],
     "qs:gn_adm0_cc":"AU",
@@ -58,13 +57,12 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28588980,
-        "qs:id":1000909
+        "qs_pg:id":1000909
     },
     "wof:country":"AU",
     "wof:geomhash":"da0ccf14615d4d64e7aa1dfd958c57d9",
@@ -81,7 +79,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1551831346,
+    "wof:lastmodified":1566600510,
     "wof:name":"Redcliffe North",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

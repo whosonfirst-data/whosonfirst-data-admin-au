@@ -13,8 +13,10 @@
     "gn:longitude":145.18333,
     "gn:population":145,
     "iso:country":"AU",
+    "lbl:bbox":"144.94558,-37.672628,144.95558,-37.662628",
     "lbl:latitude":-37.665903,
     "lbl:longitude":144.948522,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-37.665061,
     "mps:longitude":144.948587,
     "mz:hierarchy_label":0,
@@ -45,9 +47,8 @@
     "name:swe_x_preferred":[
         "Nutfield"
     ],
-    "name:unk_x_variant":[
-        "Linton\u2019s Bridge",
-        "Upfield"
+    "name:und_x_variant":[
+        "Linton\u2019s Bridge"
     ],
     "qs:gn_adm0_cc":"AU",
     "qs:gn_fcode":"PPL",
@@ -77,7 +78,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "src:population":"geonames",
     "wd:latitude":-37.603,
     "wd:longitude":145.181,
@@ -96,7 +97,6 @@
     "wof:concordances":{
         "gn:id":2154692,
         "gp:id":22721899,
-        "qs:id":40740,
         "qs_pg:id":40740,
         "wd:id":"Q7070439",
         "wk:page":"Nutfield, Victoria"
@@ -120,7 +120,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1562895295,
+    "wof:lastmodified":1566600528,
     "wof:name":"Upfield",
     "wof:parent_id":101932699,
     "wof:placetype":"neighbourhood",

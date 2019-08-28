@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-23.874847,
     "lbl:longitude":151.257521,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-23.874847,
     "mps:longitude":151.257521,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sun Valley"
     ],
@@ -69,7 +72,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":214,
     "wof:belongsto":[
         85681463,
@@ -83,7 +86,7 @@
     "wof:concordances":{
         "gn:id":8348971,
         "gp:id":28589080,
-        "qs:id":1095690
+        "qs_pg:id":1095690
     },
     "wof:coterminous":[
         404544215
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":101935391,
-    "wof:lastmodified":1562901917,
+    "wof:lastmodified":1566601651,
     "wof:name":"Sun Valley",
     "wof:parent_id":404544215,
     "wof:placetype":"locality",

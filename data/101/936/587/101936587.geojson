@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-35.033718,
     "lbl:longitude":138.546189,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-35.033718,
     "mps:longitude":138.546189,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Seacombe Heights"
     ],
@@ -33,14 +36,14 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":53,
     "wof:belongsto":[
         85681519,
         102191583,
-        85632793,
-        404546275,
         1376953367,
+        404546275,
+        85632793,
         136253039,
         102049035
     ],
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":101936587,
-    "wof:lastmodified":1550755106,
+    "wof:lastmodified":1566601128,
     "wof:name":"Seacombe Heights",
     "wof:parent_id":404546275,
     "wof:placetype":"locality",

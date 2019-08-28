@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-41.06717,
     "lbl:longitude":145.914645,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":-41.06717,
     "mps:longitude":145.914645,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "South Burnie"
     ],
@@ -37,7 +40,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681583,
@@ -52,7 +55,7 @@
         "fct:id":"034a82d8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2207474,
         "gp:id":28587249,
-        "qs:id":1001714
+        "qs_pg:id":1001714
     },
     "wof:coterminous":[
         404549431
@@ -74,7 +77,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1550720556,
+    "wof:lastmodified":1566601281,
     "wof:name":"South Burnie",
     "wof:parent_id":404549431,
     "wof:placetype":"locality",

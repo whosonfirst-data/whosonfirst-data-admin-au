@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-33.782311,
     "lbl:longitude":151.284951,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-33.782311,
     "mps:longitude":151.284951,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Queenscliff"
     ],
@@ -45,7 +48,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":287,
     "wof:belongsto":[
         85681545,
@@ -60,7 +63,7 @@
     "wof:concordances":{
         "gn:id":8348487,
         "gp:id":7225701,
-        "qs:id":200915,
+        "qs_pg:id":200915,
         "wd:id":"Q7270872",
         "wk:page":"Queenscliff, New South Wales"
     },
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":101931673,
-    "wof:lastmodified":1562898512,
+    "wof:lastmodified":1566601176,
     "wof:name":"Queenscliff",
     "wof:parent_id":404225771,
     "wof:placetype":"locality",

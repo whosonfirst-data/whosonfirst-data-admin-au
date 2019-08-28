@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-27.463042,
     "lbl:longitude":153.013171,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-27.463042,
     "mps:longitude":153.013171,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Petrie Terrace"
     ],
@@ -33,14 +36,14 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":360,
     "wof:belongsto":[
         85681463,
         102191583,
-        85632793,
-        404543723,
         1376953397,
+        404543723,
+        85632793,
         136253039,
         102049495
     ],
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":101935123,
-    "wof:lastmodified":1550754805,
+    "wof:lastmodified":1566601692,
     "wof:name":"Petrie Terrace",
     "wof:parent_id":404543723,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-34.988496,
     "lbl:longitude":138.587963,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-34.988496,
     "mps:longitude":138.587963,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Daw Park"
     ],
@@ -36,7 +39,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":165,
     "wof:belongsto":[
         85681519,
@@ -51,7 +54,7 @@
     "wof:concordances":{
         "gn:id":8347764,
         "gp:id":7225911,
-        "qs:id":288797,
+        "qs_pg:id":288797,
         "wd:id":"Q5242254",
         "wk:page":"Daw Park, South Australia"
     },
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":101935913,
-    "wof:lastmodified":1561827973,
+    "wof:lastmodified":1566601673,
     "wof:name":"Daw Park",
     "wof:parent_id":404545193,
     "wof:placetype":"locality",

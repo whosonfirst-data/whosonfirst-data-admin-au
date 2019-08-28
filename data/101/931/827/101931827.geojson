@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-32.885237,
     "lbl:longitude":151.583306,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-32.885237,
     "mps:longitude":151.583306,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Seahampton"
     ],
@@ -33,14 +36,14 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":220,
     "wof:belongsto":[
         85681545,
         102191583,
-        85632793,
-        404226055,
         1376953351,
+        404226055,
+        85632793,
         136253039,
         102048999
     ],
@@ -48,7 +51,7 @@
     "wof:concordances":{
         "gn:id":8219827,
         "gp:id":22721454,
-        "qs:id":205758,
+        "qs_pg:id":205758,
         "wd:id":"Q7440482",
         "wk:page":"Seahampton, New South Wales"
     },
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":101931827,
-    "wof:lastmodified":1550719765,
+    "wof:lastmodified":1566601168,
     "wof:name":"Seahampton",
     "wof:parent_id":404226055,
     "wof:placetype":"locality",

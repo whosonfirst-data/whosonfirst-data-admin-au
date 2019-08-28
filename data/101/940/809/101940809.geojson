@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-17.002517,
     "lbl:longitude":145.422075,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-17.002517,
     "mps:longitude":145.422075,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Mareeba"
     ],
@@ -65,7 +68,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-16.9833,
     "wd:longitude":145.417,
@@ -82,7 +85,6 @@
     "wof:concordances":{
         "gn:id":2158767,
         "gp:id":1103693,
-        "qs:id":6480,
         "qs_pg:id":6480,
         "wd:id":"Q1894520",
         "wk:page":"Mareeba"
@@ -101,7 +103,7 @@
         }
     ],
     "wof:id":101940809,
-    "wof:lastmodified":1562901301,
+    "wof:lastmodified":1566601575,
     "wof:name":"Mareeba",
     "wof:parent_id":404543081,
     "wof:placetype":"locality",

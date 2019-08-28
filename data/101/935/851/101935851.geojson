@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-35.129905,
     "lbl:longitude":138.497233,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-35.129905,
     "mps:longitude":138.497233,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Christie Downs"
     ],
@@ -36,7 +39,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":154,
     "wof:belongsto":[
         85681519,
@@ -51,7 +54,7 @@
     "wof:concordances":{
         "gn:id":8348408,
         "gp:id":22722135,
-        "qs:id":1018433,
+        "qs_pg:id":1018433,
         "wd:id":"Q5110665",
         "wk:page":"Christie Downs, South Australia"
     },
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":101935851,
-    "wof:lastmodified":1561827970,
+    "wof:lastmodified":1566601665,
     "wof:name":"Christie Downs",
     "wof:parent_id":404545085,
     "wof:placetype":"locality",

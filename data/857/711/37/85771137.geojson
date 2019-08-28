@@ -13,8 +13,10 @@
     "gn:longitude":144.71667,
     "gn:population":1618,
     "iso:country":"AU",
+    "lbl:bbox":"144.683476599,-37.9471483192,144.693476599,-37.9371483192",
     "lbl:latitude":-37.937823,
     "lbl:longitude":144.695177,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-37.964123,
     "mps:longitude":144.68673,
     "mz:hierarchy_label":0,
@@ -30,9 +32,8 @@
     "name:eng_x_preferred":[
         "Werribee South"
     ],
-    "name:unk_x_variant":[
-        "South Werribee",
-        "Werribee South"
+    "name:und_x_variant":[
+        "South Werribee"
     ],
     "qs:gn_adm0_cc":"AU",
     "qs:gn_fcode":"PPL",
@@ -63,7 +64,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "src:population":"geonames",
     "wof:belongsto":[
         102191583,
@@ -78,7 +79,6 @@
     "wof:concordances":{
         "gn:id":2148896,
         "gp:id":1106581,
-        "qs:id":1069059,
         "qs_pg:id":1069059
     },
     "wof:country":"AU",
@@ -100,7 +100,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1551831344,
+    "wof:lastmodified":1566600617,
     "wof:name":"Werribee South",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

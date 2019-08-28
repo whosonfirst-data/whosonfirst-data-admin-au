@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-31.988534,
     "lbl:longitude":115.903655,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-31.988534,
     "mps:longitude":115.903655,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "East Victoria Park"
     ],
@@ -40,7 +43,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":36,
     "wof:belongsto":[
@@ -56,7 +59,7 @@
     "wof:concordances":{
         "gn:id":8348675,
         "gp:id":1107194,
-        "qs:id":193437,
+        "qs_pg:id":193437,
         "wd:id":"Q5329604",
         "wk:page":"East Victoria Park, Western Australia"
     },
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":101937143,
-    "wof:lastmodified":1562900423,
+    "wof:lastmodified":1566601461,
     "wof:name":"East Victoria Park",
     "wof:parent_id":404547229,
     "wof:placetype":"locality",

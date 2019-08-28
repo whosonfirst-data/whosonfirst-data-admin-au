@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-34.011739,
     "lbl:longitude":150.67192,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":-34.011739,
     "mps:longitude":150.67192,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Cobbitty"
     ],
@@ -31,9 +34,6 @@
     ],
     "name:swe_x_preferred":[
         "Cobbitty"
-    ],
-    "name:unk_x_variant":[
-        "Cobbity"
     ],
     "qs:a0":"Australia",
     "qs:a1":"*New South Wales",
@@ -50,7 +50,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":343,
     "wof:belongsto":[
@@ -67,7 +67,6 @@
         "fct:id":"033e9a0e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2171197,
         "gp:id":1095117,
-        "qs:id":5227,
         "qs_pg:id":5227,
         "wd:id":"Q5138798"
     },
@@ -89,7 +88,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1562899541,
+    "wof:lastmodified":1566601337,
     "wof:name":"Cobbitty",
     "wof:parent_id":404222665,
     "wof:placetype":"locality",

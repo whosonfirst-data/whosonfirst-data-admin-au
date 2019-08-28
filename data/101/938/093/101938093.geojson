@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-42.93218,
     "lbl:longitude":147.2556,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-42.93218,
     "mps:longitude":147.2556,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Fern Tree"
     ],
@@ -24,9 +27,6 @@
     ],
     "name:fra_x_preferred":[
         "Fern Tree"
-    ],
-    "name:unk_x_variant":[
-        "Ferntree"
     ],
     "qs:a0":"Australia",
     "qs:a1":"*Tasmania",
@@ -42,7 +42,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":220,
     "wof:belongsto":[
         85681583,
@@ -58,7 +58,7 @@
         "fct:id":"034b0226-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2166750,
         "gp:id":1095786,
-        "qs:id":273636,
+        "qs_pg:id":273636,
         "wd:id":"Q5444485",
         "wk:page":"Fern Tree, Tasmania"
     },
@@ -83,7 +83,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561827861,
+    "wof:lastmodified":1566601299,
     "wof:name":"Fern Tree",
     "wof:parent_id":404548917,
     "wof:placetype":"locality",

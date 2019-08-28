@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-28.756974,
     "lbl:longitude":114.619644,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-28.756974,
     "mps:longitude":114.619644,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Beresford"
     ],
@@ -36,7 +39,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":265,
     "wof:belongsto":[
         85681439,
@@ -50,7 +53,7 @@
     "wof:concordances":{
         "gn:id":8348317,
         "gp:id":28584050,
-        "qs:id":64678,
+        "qs_pg:id":64678,
         "wd:id":"Q4891298",
         "wk:page":"Beresford, Western Australia"
     },
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":101936903,
-    "wof:lastmodified":1561827817,
+    "wof:lastmodified":1566601131,
     "wof:name":"Beresford",
     "wof:parent_id":404546825,
     "wof:placetype":"locality",

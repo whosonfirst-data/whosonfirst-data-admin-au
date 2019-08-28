@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-34.834715,
     "lbl:longitude":138.722743,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-34.834715,
     "mps:longitude":138.722743,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Vista"
     ],
@@ -36,7 +39,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":368,
     "wof:belongsto":[
         85681519,
@@ -51,7 +54,7 @@
     "wof:concordances":{
         "gn:id":8348592,
         "gp:id":22721776,
-        "qs:id":988523,
+        "qs_pg:id":988523,
         "wd:id":"Q7936413",
         "wk:page":"Vista, South Australia"
     },
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":101936719,
-    "wof:lastmodified":1561827822,
+    "wof:lastmodified":1566601154,
     "wof:name":"Vista",
     "wof:parent_id":404546489,
     "wof:placetype":"locality",

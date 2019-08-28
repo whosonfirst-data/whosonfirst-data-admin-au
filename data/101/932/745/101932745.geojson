@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-37.882523,
     "lbl:longitude":145.099944,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-37.882523,
     "mps:longitude":145.099944,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Chadstone"
     ],
@@ -43,7 +46,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681497,
@@ -58,7 +61,7 @@
     "wof:concordances":{
         "gn:id":7932635,
         "gp:id":22720648,
-        "qs:id":1076984,
+        "qs_pg:id":1076984,
         "wd:id":"Q5066500",
         "wk:page":"Chadstone, Victoria"
     },
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":101932745,
-    "wof:lastmodified":1561827964,
+    "wof:lastmodified":1566601648,
     "wof:name":"Chadstone",
     "wof:parent_id":404538115,
     "wof:placetype":"locality",

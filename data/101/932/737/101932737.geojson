@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-37.883936,
     "lbl:longitude":145.026338,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":-37.883936,
     "mps:longitude":145.026338,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u0644\u0641\u064a\u0644\u062f"
     ],
@@ -55,7 +58,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":571,
     "wof:belongsto":[
@@ -71,7 +74,7 @@
     "wof:concordances":{
         "gn:id":2171948,
         "gp:id":1094991,
-        "qs:id":260361,
+        "qs_pg:id":260361,
         "wd:id":"Q5054509",
         "wk:page":"Caulfield, Victoria"
     },
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":101932737,
-    "wof:lastmodified":1562901425,
+    "wof:lastmodified":1566601592,
     "wof:name":"Caulfield",
     "wof:parent_id":404538101,
     "wof:placetype":"locality",

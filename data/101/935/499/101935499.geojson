@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-9.560171,
     "lbl:longitude":142.286709,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-9.560171,
     "mps:longitude":142.286709,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:als_x_preferred":[
         "Torres-Stra\u00dfe"
     ],
@@ -213,9 +216,8 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1587,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85681463,
         102191583,
@@ -243,7 +245,7 @@
         }
     ],
     "wof:id":101935499,
-    "wof:lastmodified":1562902049,
+    "wof:lastmodified":1566601664,
     "wof:name":"Torres Strait",
     "wof:parent_id":404544455,
     "wof:placetype":"locality",

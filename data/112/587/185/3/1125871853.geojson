@@ -9,12 +9,16 @@
     "geom:bbox":"150.389007,-34.6705,150.389007,-34.6705",
     "geom:latitude":-34.6705,
     "geom:longitude":150.389007,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"AU",
+    "lbl:bbox":"150.369007,-34.6905,150.409007,-34.6505",
     "lbl:latitude":-34.6705,
     "lbl:longitude":150.389007,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Meryla"
@@ -37,7 +41,7 @@
     "qs_pg:woe_adm0":23424748,
     "qs_pg:woe_id":28586107,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"New South Wales",
@@ -45,9 +49,9 @@
     "wof:belongsto":[
         85681545,
         102191583,
-        85632793,
-        404224861,
         1376953321,
+        404224861,
+        85632793,
         136253039,
         102048539
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1125871853,
-    "wof:lastmodified":1550729130,
+    "wof:lastmodified":1566603343,
     "wof:name":"Meryla",
     "wof:parent_id":404224861,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-33.751577,
     "lbl:longitude":150.836863,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-33.751577,
     "mps:longitude":150.836863,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u041f\u043b\u0430\u043c\u043f\u0442\u0430\u043d"
     ],
@@ -57,7 +60,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":817,
     "wof:belongsto":[
         85681545,
@@ -72,7 +75,7 @@
     "wof:concordances":{
         "gn:id":8347892,
         "gp:id":22721408,
-        "qs:id":205756,
+        "qs_pg:id":205756,
         "wd:id":"Q7205460",
         "wk:page":"Plumpton, New South Wales"
     },
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":101931605,
-    "wof:lastmodified":1562898540,
+    "wof:lastmodified":1566601181,
     "wof:name":"Plumpton",
     "wof:parent_id":404225669,
     "wof:placetype":"locality",

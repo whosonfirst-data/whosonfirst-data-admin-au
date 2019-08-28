@@ -13,6 +13,8 @@
     "iso:country":"AU",
     "lbl:latitude":-33.284306,
     "lbl:longitude":149.0986,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-33.284306,
     "mps:longitude":149.0986,
     "mz:hierarchy_label":1,
@@ -288,7 +290,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-33.283333,
     "wd:longitude":149.1,
@@ -306,7 +308,6 @@
         "fct:id":"033eac24-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2154219,
         "gp:id":1104834,
-        "qs:id":460939,
         "qs_pg:id":460939,
         "wd:id":"Q580973",
         "wk:page":"Orange, New South Wales"
@@ -328,7 +329,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1562899794,
+    "wof:lastmodified":1566601374,
     "wof:name":"Orange",
     "wof:parent_id":404225507,
     "wof:placetype":"locality",

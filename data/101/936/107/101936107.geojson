@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-34.87466,
     "lbl:longitude":138.62783,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-34.87466,
     "mps:longitude":138.62783,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Hampstead Gardens"
     ],
@@ -39,7 +42,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":178,
     "wof:belongsto":[
         85681519,
@@ -54,7 +57,7 @@
     "wof:concordances":{
         "gn:id":8348952,
         "gp:id":22720884,
-        "qs:id":205708,
+        "qs_pg:id":205708,
         "wd:id":"Q5646117",
         "wk:page":"Hampstead Gardens, South Australia"
     },
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":101936107,
-    "wof:lastmodified":1561827818,
+    "wof:lastmodified":1566601132,
     "wof:name":"Hampstead Gardens",
     "wof:parent_id":404545453,
     "wof:placetype":"locality",

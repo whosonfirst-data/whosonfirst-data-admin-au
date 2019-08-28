@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-32.234307,
     "lbl:longitude":115.80572,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":-32.234307,
     "mps:longitude":115.80572,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Medina"
     ],
@@ -49,7 +52,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":389,
     "wof:belongsto":[
@@ -65,7 +68,7 @@
     "wof:concordances":{
         "gn:id":2066608,
         "gp:id":1103799,
-        "qs:id":1292875,
+        "qs_pg:id":1292875,
         "wd:id":"Q14935863",
         "wk:page":"Medina, Western Australia"
     },
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":101937479,
-    "wof:lastmodified":1562900296,
+    "wof:lastmodified":1566601446,
     "wof:name":"Medina",
     "wof:parent_id":404547769,
     "wof:placetype":"locality",

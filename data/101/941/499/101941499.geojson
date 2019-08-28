@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-14.241877,
     "lbl:longitude":129.524013,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-14.241877,
     "mps:longitude":129.524013,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Wadeye"
     ],
@@ -56,7 +59,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: urban areas and localities selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":-14.2333,
     "wd:longitude":129.517,
     "wd:wordcount":414,
@@ -73,7 +76,7 @@
         "fct:id":"033e4c84-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2063039,
         "gp:id":28587784,
-        "qs:id":90714,
+        "qs_pg:id":90714,
         "wd:id":"Q18028"
     },
     "wof:country":"AU",
@@ -93,7 +96,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1562900773,
+    "wof:lastmodified":1566601505,
     "wof:name":"Wadeye",
     "wof:parent_id":404549891,
     "wof:placetype":"locality",

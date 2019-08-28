@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-37.652553,
     "lbl:longitude":145.518646,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-37.652553,
     "mps:longitude":145.518646,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Healesville"
     ],
@@ -243,7 +246,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-37.6561,
     "wd:longitude":145.514,
@@ -262,7 +265,6 @@
         "fct:id":"0333cc00-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2163701,
         "gp:id":1102605,
-        "qs:id":918933,
         "qs_pg:id":918933,
         "wd:id":"Q1015813",
         "wk:page":"Healesville, Victoria"
@@ -285,7 +287,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1562899539,
+    "wof:lastmodified":1566601336,
     "wof:name":"Healesville",
     "wof:parent_id":404538851,
     "wof:placetype":"locality",

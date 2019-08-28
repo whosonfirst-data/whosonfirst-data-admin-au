@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-33.423363,
     "lbl:longitude":148.808477,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":-33.423363,
     "mps:longitude":148.808477,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u062d\u0645\u0648\u0644\u0629"
     ],
@@ -194,7 +197,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":2477,
     "wof:belongsto":[
@@ -210,7 +213,6 @@
         "fct:id":"03336d96-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2172318,
         "gp:id":1101023,
-        "qs:id":777390,
         "qs_pg:id":777390,
         "wd:id":"Q319224"
     },
@@ -231,7 +233,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1562899389,
+    "wof:lastmodified":1566601314,
     "wof:name":"Cargo",
     "wof:parent_id":404222475,
     "wof:placetype":"locality",

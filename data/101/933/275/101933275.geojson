@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-38.001785,
     "lbl:longitude":145.097746,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-38.001785,
     "mps:longitude":145.097746,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Mordialloc"
     ],
@@ -52,7 +55,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":429,
     "wof:belongsto":[
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":101933275,
-    "wof:lastmodified":1562902962,
+    "wof:lastmodified":1566601762,
     "wof:name":"Mordialloc",
     "wof:parent_id":404539555,
     "wof:placetype":"locality",

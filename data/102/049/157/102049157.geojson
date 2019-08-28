@@ -18,10 +18,13 @@
     ],
     "lbl:latitude":-36.66234,
     "lbl:longitude":140.0515,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-36.66234,
     "mps:longitude":140.0515,
     "mz:hierarchy_label":0,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Kingston"
     ],
@@ -198,7 +201,7 @@
     "qs:source":"Australia Census",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191583,
         85681519,
@@ -219,7 +222,7 @@
         }
     ],
     "wof:id":102049157,
-    "wof:lastmodified":1562894128,
+    "wof:lastmodified":1566600179,
     "wof:name":"Kingston",
     "wof:parent_id":85681519,
     "wof:placetype":"county",

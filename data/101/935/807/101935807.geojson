@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-34.775978,
     "lbl:longitude":138.652927,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-34.775978,
     "mps:longitude":138.652927,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Brahma Lodge"
     ],
@@ -36,7 +39,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":392,
     "wof:belongsto":[
         85681519,
@@ -50,7 +53,7 @@
     "wof:concordances":{
         "gn:id":8348232,
         "gp:id":22721723,
-        "qs:id":205792,
+        "qs_pg:id":205792,
         "wd:id":"Q4955499",
         "wk:page":"Brahma Lodge, South Australia"
     },
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":101935807,
-    "wof:lastmodified":1561827976,
+    "wof:lastmodified":1566601686,
     "wof:name":"Brahma Lodge",
     "wof:parent_id":102048731,
     "wof:placetype":"locality",

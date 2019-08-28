@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-41.160374,
     "lbl:longitude":146.177836,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-41.160374,
     "mps:longitude":146.177836,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Ulverstone"
     ],
@@ -74,7 +77,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681583,
@@ -88,7 +91,6 @@
     "wof:concordances":{
         "gn:id":2145532,
         "gp:id":1106242,
-        "qs:id":6836,
         "qs_pg:id":6836,
         "wd:id":"Q2169513",
         "wk:page":"Ulverstone, Tasmania"
@@ -107,7 +109,7 @@
         }
     ],
     "wof:id":101941469,
-    "wof:lastmodified":1562900882,
+    "wof:lastmodified":1566601520,
     "wof:name":"Ulverstone",
     "wof:parent_id":404549531,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-28.736178,
     "lbl:longitude":114.622785,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-28.736178,
     "mps:longitude":114.622785,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bluff Point"
     ],
@@ -36,7 +39,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":298,
     "wof:belongsto":[
         85681439,
@@ -50,7 +53,7 @@
     "wof:concordances":{
         "gn:id":8348062,
         "gp:id":28588339,
-        "qs:id":64967,
+        "qs_pg:id":64967,
         "wd:id":"Q4930661",
         "wk:page":"Bluff Point, Western Australia"
     },
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":101936921,
-    "wof:lastmodified":1561827823,
+    "wof:lastmodified":1566601156,
     "wof:name":"Bluff Point",
     "wof:parent_id":404546849,
     "wof:placetype":"locality",

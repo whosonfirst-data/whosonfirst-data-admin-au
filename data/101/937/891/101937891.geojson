@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-28.818339,
     "lbl:longitude":114.633987,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-28.818339,
     "mps:longitude":114.633987,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Wandina"
     ],
@@ -36,7 +39,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":258,
     "wof:belongsto":[
         85681439,
@@ -50,7 +53,7 @@
     "wof:concordances":{
         "gn:id":8348915,
         "gp:id":1106404,
-        "qs:id":265861,
+        "qs_pg:id":265861,
         "wd:id":"Q7967262",
         "wk:page":"Wandina, Western Australia"
     },
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":101937891,
-    "wof:lastmodified":1561827912,
+    "wof:lastmodified":1566601482,
     "wof:name":"Wandina",
     "wof:parent_id":404548469,
     "wof:placetype":"locality",

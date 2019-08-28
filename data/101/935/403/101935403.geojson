@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-20.709927,
     "lbl:longitude":139.508367,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-20.709927,
     "mps:longitude":139.508367,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u063a\u0631\u0648\u0628"
     ],
@@ -306,7 +309,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1934,
     "wof:belongsto":[
         85681463,
@@ -321,7 +324,7 @@
         "fct:id":"034a8940-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":8348941,
         "gp:id":28587424,
-        "qs:id":512590,
+        "qs_pg:id":512590,
         "wd:id":"Q166564"
     },
     "wof:coterminous":[
@@ -344,7 +347,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1562902313,
+    "wof:lastmodified":1566601691,
     "wof:name":"Sunset",
     "wof:parent_id":404544225,
     "wof:placetype":"locality",

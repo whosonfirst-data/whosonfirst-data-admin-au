@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000164,
-    "geom:area_square_m":1733807.901828,
+    "geom:area_square_m":1733807.901844,
     "geom:bbox":"152.786496,-31.064761003,152.815188768,-31.0518029925",
     "geom:latitude":-31.058085,
     "geom:longitude":152.796523,
@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-31.057573,
     "lbl:longitude":152.795534,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":-31.057573,
     "mps:longitude":152.795534,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Greenhill"
     ],
@@ -39,7 +42,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":226,
     "wof:belongsto":[
@@ -54,9 +57,11 @@
     "wof:concordances":{
         "gn:id":2164561,
         "gp:id":1096123,
-        "qs:id":64750,
-        "qs_pg:id":1013073,
+        "qs_pg:id":64750,
         "wk:page":"Greenhill, South Australia"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1013073
     },
     "wof:country":"AU",
     "wof:geomhash":"3b4309e0ac8de8259dc3212164ea2550",
@@ -72,7 +77,7 @@
         }
     ],
     "wof:id":101939131,
-    "wof:lastmodified":1527641899,
+    "wof:lastmodified":1566601343,
     "wof:name":"Greenhill",
     "wof:parent_id":404223727,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-28.785413,
     "lbl:longitude":114.602478,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-28.785413,
     "mps:longitude":114.602478,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Beachlands"
     ],
@@ -42,7 +45,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":296,
     "wof:belongsto":[
         85681439,
@@ -56,7 +59,7 @@
     "wof:concordances":{
         "gn:id":8348662,
         "gp:id":28584003,
-        "qs:id":55267,
+        "qs_pg:id":55267,
         "wd:id":"Q2892791",
         "wk:page":"Beachlands, Western Australia"
     },
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":101936879,
-    "wof:lastmodified":1562898219,
+    "wof:lastmodified":1566601136,
     "wof:name":"Beachlands",
     "wof:parent_id":404546791,
     "wof:placetype":"locality",

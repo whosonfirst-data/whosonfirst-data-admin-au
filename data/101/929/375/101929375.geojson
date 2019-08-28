@@ -13,6 +13,8 @@
     "iso:country":"AU",
     "lbl:latitude":-36.074771,
     "lbl:longitude":146.914504,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-36.074771,
     "mps:longitude":146.914504,
     "mz:hierarchy_label":1,
@@ -177,7 +179,7 @@
     "name:ukr_x_preferred":[
         "\u041e\u043b\u0431\u0435\u0440\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Town of Albury"
     ],
     "name:urd_x_preferred":[
@@ -300,7 +302,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-36.083333,
     "wd:longitude":146.916667,
@@ -319,7 +321,6 @@
         "fct:id":"033e9cb6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2178174,
         "gp:id":1099836,
-        "qs:id":5967,
         "qs_pg:id":5967,
         "wd:id":"Q331764",
         "wk:page":"Albury"
@@ -345,7 +346,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1562903639,
+    "wof:lastmodified":1566601838,
     "wof:name":"Albury",
     "wof:parent_id":404221469,
     "wof:placetype":"locality",

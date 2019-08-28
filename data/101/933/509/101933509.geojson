@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-37.59994,
     "lbl:longitude":143.837533,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-37.59994,
     "mps:longitude":143.837533,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Sebastopol"
     ],
@@ -46,7 +49,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":384,
     "wof:belongsto":[
@@ -61,7 +64,7 @@
     "wof:concordances":{
         "gn:id":2149936,
         "gp:id":1098482,
-        "qs:id":260163,
+        "qs_pg:id":260163,
         "wd:id":"Q7442721",
         "wk:page":"Sebastopol, Victoria"
     },
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":101933509,
-    "wof:lastmodified":1562903129,
+    "wof:lastmodified":1566601781,
     "wof:name":"Sebastopol",
     "wof:parent_id":404540165,
     "wof:placetype":"locality",

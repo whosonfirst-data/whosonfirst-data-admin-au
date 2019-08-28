@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-16.886686,
     "lbl:longitude":145.735967,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-16.886686,
     "mps:longitude":145.735967,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Whitfield"
     ],
@@ -81,7 +84,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681463,
         102191583,
@@ -94,7 +97,7 @@
     "wof:concordances":{
         "gn:id":8348993,
         "gp:id":28587992,
-        "qs:id":1013995,
+        "qs_pg:id":1013995,
         "wd:id":"Q24190484"
     },
     "wof:coterminous":[
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":101935625,
-    "wof:lastmodified":1562902210,
+    "wof:lastmodified":1566601680,
     "wof:name":"Whitfield",
     "wof:parent_id":404544665,
     "wof:placetype":"locality",

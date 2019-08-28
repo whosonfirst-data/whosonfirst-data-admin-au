@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-32.961859,
     "lbl:longitude":151.649619,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-32.961859,
     "mps:longitude":151.649619,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lakelands"
     ],
@@ -36,7 +39,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":129,
     "wof:belongsto":[
         85681545,
@@ -51,7 +54,7 @@
     "wof:concordances":{
         "gn:id":8348302,
         "gp:id":23416999,
-        "qs:id":288839,
+        "qs_pg:id":288839,
         "wd:id":"Q6478846",
         "wk:page":"Lakelands, New South Wales"
     },
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":101930981,
-    "wof:lastmodified":1561827894,
+    "wof:lastmodified":1566601430,
     "wof:name":"Lakelands",
     "wof:parent_id":404224397,
     "wof:placetype":"locality",

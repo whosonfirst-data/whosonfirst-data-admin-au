@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-34.036728,
     "lbl:longitude":150.815855,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-34.036728,
     "mps:longitude":150.815855,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Eagle Vale"
     ],
@@ -39,7 +42,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":878,
     "wof:belongsto":[
         85681545,
@@ -53,7 +56,7 @@
     "wof:concordances":{
         "gn:id":8348532,
         "gp:id":7225783,
-        "qs:id":202425,
+        "qs_pg:id":202425,
         "wd:id":"Q5325294",
         "wk:page":"Eagle Vale, New South Wales"
     },
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":101930137,
-    "wof:lastmodified":1561827889,
+    "wof:lastmodified":1566601410,
     "wof:name":"Eagle Vale",
     "wof:parent_id":404223137,
     "wof:placetype":"locality",

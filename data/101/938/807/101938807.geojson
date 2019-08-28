@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-35.200088,
     "lbl:longitude":149.156499,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-35.200088,
     "mps:longitude":149.156499,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0413\u0430\u0440\u044b\u0441\u0430\u043d"
     ],
@@ -111,7 +114,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681493,
         102191583,
@@ -124,7 +127,7 @@
         "fct:id":"034b0500-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":8349179,
         "gp:id":22721160,
-        "qs:id":1004163,
+        "qs_pg:id":1004163,
         "wd:id":"Q12059592"
     },
     "wof:coterminous":[
@@ -146,7 +149,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1562899241,
+    "wof:lastmodified":1566601291,
     "wof:name":"Harrison",
     "wof:parent_id":404550025,
     "wof:placetype":"locality",

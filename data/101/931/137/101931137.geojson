@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-33.812592,
     "lbl:longitude":151.296542,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-33.812592,
     "mps:longitude":151.296542,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:aze_x_preferred":[
         "Menli"
     ],
@@ -103,7 +106,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681545,
@@ -138,7 +141,7 @@
         }
     ],
     "wof:id":101931137,
-    "wof:lastmodified":1562898700,
+    "wof:lastmodified":1566601206,
     "wof:name":"Manly",
     "wof:parent_id":404224705,
     "wof:placetype":"locality",

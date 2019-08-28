@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-33.880195,
     "lbl:longitude":151.236428,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":-33.880195,
     "mps:longitude":151.236428,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Edgecliff"
     ],
@@ -61,7 +64,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":21,
     "wof:belongsto":[
@@ -76,7 +79,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2167777,
-        "qs:id":1028592,
+        "qs_pg:id":1028592,
         "wd:id":"Q2918689"
     },
     "wof:coterminous":[
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":101930189,
-    "wof:lastmodified":1562899959,
+    "wof:lastmodified":1566601399,
     "wof:name":"Edgecliff",
     "wof:parent_id":404223211,
     "wof:placetype":"locality",

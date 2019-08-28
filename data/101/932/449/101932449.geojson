@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-33.100224,
     "lbl:longitude":151.54686,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-33.100224,
     "mps:longitude":151.54686,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Yarrawonga Park"
     ],
@@ -33,14 +36,14 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":118,
     "wof:belongsto":[
         85681545,
         102191583,
-        85632793,
-        404227283,
         1376953351,
+        404227283,
+        85632793,
         136253039,
         102048999
     ],
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":101932449,
-    "wof:lastmodified":1550754362,
+    "wof:lastmodified":1566601599,
     "wof:name":"Yarrawonga Park",
     "wof:parent_id":404227283,
     "wof:placetype":"locality",

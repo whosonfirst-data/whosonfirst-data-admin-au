@@ -13,6 +13,8 @@
     "iso:country":"AU",
     "lbl:latitude":-34.275612,
     "lbl:longitude":140.612094,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":-34.275612,
     "mps:longitude":140.612094,
     "mz:hierarchy_label":1,
@@ -168,7 +170,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-34.283333,
     "wd:longitude":140.6,
@@ -185,7 +187,6 @@
     "wof:concordances":{
         "gn:id":2176071,
         "gp:id":1100299,
-        "qs:id":1034244,
         "qs_pg:id":1034244,
         "wd:id":"Q827089",
         "wk:page":"Berri, South Australia"
@@ -207,7 +208,7 @@
         }
     ],
     "wof:id":101935779,
-    "wof:lastmodified":1562902134,
+    "wof:lastmodified":1566601673,
     "wof:name":"Berri",
     "wof:parent_id":404544947,
     "wof:placetype":"locality",

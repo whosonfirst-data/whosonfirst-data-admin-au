@@ -13,6 +13,8 @@
     "iso:country":"AU",
     "lbl:latitude":-34.747283,
     "lbl:longitude":149.726961,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-34.747283,
     "mps:longitude":149.726961,
     "mz:hierarchy_label":1,
@@ -234,7 +236,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-34.754722,
     "wd:longitude":149.718611,
@@ -252,7 +254,6 @@
         "fct:id":"033e9bee-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2164837,
         "gp:id":1102397,
-        "qs:id":6367,
         "qs_pg:id":6367,
         "wd:id":"Q605235",
         "wk:page":"Goulburn, New South Wales"
@@ -277,7 +278,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1562899876,
+    "wof:lastmodified":1566601387,
     "wof:name":"Goulburn",
     "wof:parent_id":404223679,
     "wof:placetype":"locality",

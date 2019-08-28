@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-19.285476,
     "lbl:longitude":146.786777,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-19.285476,
     "mps:longitude":146.786777,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Pimlico"
     ],
@@ -36,7 +39,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":85,
     "wof:belongsto":[
         85681463,
@@ -51,7 +54,7 @@
         "fct:id":"034a786a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":8348248,
         "gp:id":28586866,
-        "qs:id":1059855,
+        "qs_pg:id":1059855,
         "wd:id":"Q7194652",
         "wk:page":"Pimlico, Queensland"
     },
@@ -75,7 +78,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561827973,
+    "wof:lastmodified":1566601675,
     "wof:name":"Pimlico",
     "wof:parent_id":404543735,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-31.851161,
     "lbl:longitude":115.812503,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-31.851161,
     "mps:longitude":115.812503,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Hamersley"
     ],
@@ -39,7 +42,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":6592,
     "wof:belongsto":[
         85681439,
@@ -54,7 +57,7 @@
     "wof:concordances":{
         "gn:id":2070165,
         "gp:id":1102534,
-        "qs:id":1292622,
+        "qs_pg:id":1292622,
         "wd:id":"Q5644515",
         "wk:page":"Hamersley, Western Australia"
     },
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":101937255,
-    "wof:lastmodified":1561827914,
+    "wof:lastmodified":1566601486,
     "wof:name":"Hamersley",
     "wof:parent_id":404547393,
     "wof:placetype":"locality",

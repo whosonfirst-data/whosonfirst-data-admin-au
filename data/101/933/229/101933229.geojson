@@ -13,6 +13,8 @@
     "iso:country":"AU",
     "lbl:latitude":-37.825071,
     "lbl:longitude":144.978682,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":6.0,
     "mps:latitude":-37.825071,
     "mps:longitude":144.978682,
     "mz:hierarchy_label":1,
@@ -597,7 +599,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":-37.820556,
     "wd:longitude":144.961389,
@@ -621,7 +623,6 @@
         "gp:id":1103816,
         "loc:id":"n79029787",
         "nyt:id":9223372036854775807,
-        "qs:id":1062623,
         "qs_pg:id":1062623,
         "wd:id":"Q3141",
         "wk:page":"Melbourne"
@@ -647,7 +648,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1562902902,
+    "wof:lastmodified":1566601755,
     "wof:megacity":1,
     "wof:name":"Melbourne",
     "wof:parent_id":404539427,

@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-27.415401,
     "lbl:longitude":153.159108,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-27.415401,
     "mps:longitude":153.159108,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lytton"
     ],
@@ -42,8 +45,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681463,
         102191583,
@@ -58,7 +60,7 @@
         "fct:id":"03485828-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2159289,
         "gp:id":1097033,
-        "qs:id":1019647,
+        "qs_pg:id":1019647,
         "wd:id":"Q6710412",
         "wk:page":"Lytton, Queensland"
     },
@@ -80,7 +82,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1562902605,
+    "wof:lastmodified":1566601723,
     "wof:name":"Lytton",
     "wof:parent_id":404543015,
     "wof:placetype":"locality",

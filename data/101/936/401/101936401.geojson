@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-34.773003,
     "lbl:longitude":138.503762,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-34.773003,
     "mps:longitude":138.503762,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Outer Harbor"
     ],
@@ -33,14 +36,14 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":22,
     "wof:belongsto":[
         85681519,
         102191583,
-        85632793,
-        404546017,
         1376953367,
+        404546017,
+        85632793,
         136253039,
         102048839
     ],
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":101936401,
-    "wof:lastmodified":1550724237,
+    "wof:lastmodified":1566601114,
     "wof:name":"Outer Harbor",
     "wof:parent_id":404546017,
     "wof:placetype":"locality",

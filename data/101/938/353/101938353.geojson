@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-23.698651,
     "lbl:longitude":133.882345,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-23.698651,
     "mps:longitude":133.882345,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:afr_x_preferred":[
         "Alice Springs"
     ],
@@ -117,7 +120,7 @@
         "\u30a2\u30ea\u30b9\u30b9\u30d7\u30ea\u30f3\u30b0\u30b9"
     ],
     "name:kan_x_preferred":[
-        "\u0c86\u0cb2\u0cbf\u0cb8\u0ccd  \u0cb8\u0ccd\u0caa\u0ccd\u0cb0\u0cbf\u0c82\u0c97\u0ccd\u0cb8\u0ccd"
+        "\u0c86\u0cb2\u0cbf\u0cb8\u0ccd \u0cb8\u0ccd\u0caa\u0ccd\u0cb0\u0cbf\u0c82\u0c97\u0ccd\u0cb8\u0ccd"
     ],
     "name:kat_x_preferred":[
         "\u10d0\u10da\u10d8\u10e1-\u10e1\u10de\u10e0\u10d8\u10dc\u10d2\u10e1\u10d8"
@@ -207,7 +210,7 @@
         "Alice Springs"
     ],
     "name:tam_x_preferred":[
-        "\u0b85\u0bb2\u0bc8\u0bb8\u0bcd  \u0bb8\u0bcd\u0baa\u0bbf\u0bb0\u0bbf\u0b99\u0bcd\u0bb8\u0bcd"
+        "\u0b85\u0bb2\u0bc8\u0bb8\u0bcd \u0bb8\u0bcd\u0baa\u0bbf\u0bb0\u0bbf\u0b99\u0bcd\u0bb8\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c06\u0c32\u0c3f\u0c38\u0c4d \u0c38\u0c4d\u0c2a\u0c4d\u0c30\u0c3f\u0c02\u0c17\u0c4d\u0c38\u0c4d"
@@ -252,7 +255,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":-23.7,
     "wd:longitude":133.866667,
@@ -294,7 +297,7 @@
         }
     ],
     "wof:id":101938353,
-    "wof:lastmodified":1562898904,
+    "wof:lastmodified":1566601238,
     "wof:name":"Alice Springs",
     "wof:parent_id":404549623,
     "wof:placetype":"locality",

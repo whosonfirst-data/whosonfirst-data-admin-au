@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-20.895467,
     "lbl:longitude":148.948917,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-20.895467,
     "mps:longitude":148.948917,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Seaforth"
     ],
@@ -37,7 +40,7 @@
     "name:swe_x_preferred":[
         "Seaforth"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Springcliff"
     ],
     "qs:a0":"Australia",
@@ -53,9 +56,8 @@
     "qs:source":"SAustralian Bureau Of Statistics: urban areas and localities selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":181,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85681463,
         102191583,
@@ -84,7 +86,7 @@
         }
     ],
     "wof:id":101940909,
-    "wof:lastmodified":1561827927,
+    "wof:lastmodified":1566601528,
     "wof:name":"Seaforth",
     "wof:parent_id":404544029,
     "wof:placetype":"locality",

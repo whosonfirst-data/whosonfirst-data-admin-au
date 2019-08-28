@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-37.705493,
     "lbl:longitude":144.969607,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-37.705493,
     "mps:longitude":144.969607,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Fawkner"
     ],
@@ -46,7 +49,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1118,
     "wof:belongsto":[
@@ -62,7 +65,7 @@
     "wof:concordances":{
         "gn:id":2166819,
         "gp:id":1107219,
-        "qs:id":908771,
+        "qs_pg:id":908771,
         "wd:id":"Q14935141"
     },
     "wof:coterminous":[
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":101932931,
-    "wof:lastmodified":1562901405,
+    "wof:lastmodified":1566601589,
     "wof:name":"Fawkner",
     "wof:parent_id":404538569,
     "wof:placetype":"locality",

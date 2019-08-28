@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-27.661112,
     "lbl:longitude":153.074101,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-27.661112,
     "mps:longitude":153.074101,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Berrinba"
     ],
@@ -36,7 +39,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":291,
     "wof:belongsto":[
         85681463,
@@ -51,7 +54,7 @@
     "wof:concordances":{
         "gn:id":8348738,
         "gp:id":7225503,
-        "qs:id":1056460,
+        "qs_pg:id":1056460,
         "wd:id":"Q4894719",
         "wk:page":"Berrinba, Queensland"
     },
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":101933927,
-    "wof:lastmodified":1561828010,
+    "wof:lastmodified":1566601797,
     "wof:name":"Berrinba",
     "wof:parent_id":404541259,
     "wof:placetype":"locality",

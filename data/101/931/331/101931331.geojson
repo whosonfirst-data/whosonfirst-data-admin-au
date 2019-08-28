@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-34.550561,
     "lbl:longitude":150.842545,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-34.550561,
     "mps:longitude":150.842545,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mount Warrigal"
     ],
@@ -33,14 +36,14 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":205,
     "wof:belongsto":[
         85681545,
         102191583,
-        85632793,
-        404225105,
         1376953239,
+        404225105,
+        85632793,
         136253039,
         102048497
     ],
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":101931331,
-    "wof:lastmodified":1550720413,
+    "wof:lastmodified":1566601161,
     "wof:name":"Mount Warrigal",
     "wof:parent_id":404225105,
     "wof:placetype":"locality",

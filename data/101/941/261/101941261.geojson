@@ -13,6 +13,8 @@
     "iso:country":"AU",
     "lbl:latitude":-27.716568,
     "lbl:longitude":114.166305,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":-27.716568,
     "mps:longitude":114.166305,
     "mz:hierarchy_label":1,
@@ -164,7 +166,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-27.71,
     "wd:longitude":114.16,
@@ -181,7 +183,6 @@
     "wof:concordances":{
         "gn:id":2068835,
         "gp:id":1102911,
-        "qs:id":980434,
         "qs_pg:id":980434,
         "wd:id":"Q1007955",
         "wk:page":"Kalbarri, Western Australia"
@@ -200,7 +201,7 @@
         }
     ],
     "wof:id":101941261,
-    "wof:lastmodified":1562900766,
+    "wof:lastmodified":1566601504,
     "wof:name":"Kalbarri",
     "wof:parent_id":404547513,
     "wof:placetype":"locality",

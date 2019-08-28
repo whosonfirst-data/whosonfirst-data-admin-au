@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-34.904632,
     "lbl:longitude":138.645158,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-34.904632,
     "mps:longitude":138.645158,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Payneham South"
     ],
@@ -36,7 +39,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":94,
     "wof:belongsto":[
         85681519,
@@ -51,7 +54,7 @@
     "wof:concordances":{
         "gn:id":8347994,
         "gp:id":22739277,
-        "qs:id":1083229,
+        "qs_pg:id":1083229,
         "wd:id":"Q7156843",
         "wk:page":"Payneham South, South Australia"
     },
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":101936445,
-    "wof:lastmodified":1561827820,
+    "wof:lastmodified":1566601143,
     "wof:name":"Payneham South",
     "wof:parent_id":404546075,
     "wof:placetype":"locality",

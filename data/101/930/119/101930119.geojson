@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-33.852859,
     "lbl:longitude":151.153011,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-33.852859,
     "mps:longitude":151.153011,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Drummoyne"
     ],
@@ -55,7 +58,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681545,
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":101930119,
-    "wof:lastmodified":1562899982,
+    "wof:lastmodified":1566601403,
     "wof:name":"Drummoyne",
     "wof:parent_id":404223077,
     "wof:placetype":"locality",

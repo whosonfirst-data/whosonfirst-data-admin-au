@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-30.703311,
     "lbl:longitude":150.043401,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":-30.703311,
     "mps:longitude":150.043401,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Boggabri"
     ],
@@ -41,9 +44,6 @@
     "name:swe_x_preferred":[
         "Boggabri"
     ],
-    "name:unk_x_variant":[
-        "Bogabri"
-    ],
     "qs:a0":"Australia",
     "qs:a1":"*New South Wales",
     "qs:a1_lc":"1",
@@ -59,7 +59,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-30.7,
     "wd:longitude":150.033,
@@ -77,7 +77,6 @@
         "fct:id":"032fe400-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2175076,
         "gp:id":1100463,
-        "qs:id":1231896,
         "qs_pg:id":1231896,
         "wd:id":"Q890557",
         "wk:page":"Boggabri"
@@ -99,7 +98,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1562899792,
+    "wof:lastmodified":1566601374,
     "wof:name":"Boggabri",
     "wof:parent_id":404222017,
     "wof:placetype":"locality",

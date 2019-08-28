@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-30.720059,
     "lbl:longitude":152.918592,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":-30.720059,
     "mps:longitude":152.918592,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Macksville"
     ],
@@ -264,7 +267,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-30.716667,
     "wd:longitude":152.916667,
@@ -281,7 +284,6 @@
     "wof:concordances":{
         "gn:id":2159194,
         "gp:id":1103590,
-        "qs:id":349242,
         "qs_pg:id":349242,
         "wd:id":"Q581659",
         "wk:page":"Macksville, New South Wales"
@@ -303,7 +305,7 @@
         }
     ],
     "wof:id":101931103,
-    "wof:lastmodified":1562898414,
+    "wof:lastmodified":1566601161,
     "wof:name":"Macksville",
     "wof:parent_id":404224645,
     "wof:placetype":"locality",

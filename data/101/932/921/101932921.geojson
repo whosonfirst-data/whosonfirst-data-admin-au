@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-37.564776,
     "lbl:longitude":143.882908,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-37.564776,
     "mps:longitude":143.882908,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u064a\u0648\u0631\u064a\u0643\u0627"
     ],
@@ -114,7 +117,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681497,
         102191583,
@@ -127,7 +130,7 @@
     "wof:concordances":{
         "gn:id":8347920,
         "gp:id":28585018,
-        "qs:id":1164107,
+        "qs_pg:id":1164107,
         "wd:id":"Q14935140"
     },
     "wof:coterminous":[
@@ -147,7 +150,7 @@
         }
     ],
     "wof:id":101932921,
-    "wof:lastmodified":1562901880,
+    "wof:lastmodified":1566601647,
     "wof:name":"Eureka",
     "wof:parent_id":404538549,
     "wof:placetype":"locality",

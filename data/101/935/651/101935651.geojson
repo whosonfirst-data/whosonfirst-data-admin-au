@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-25.31811,
     "lbl:longitude":152.857506,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-25.31811,
     "mps:longitude":152.857506,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Wondunna"
     ],
@@ -33,7 +36,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681463,
         102191583,
@@ -46,7 +49,7 @@
     "wof:concordances":{
         "gn:id":8348435,
         "gp:id":28588085,
-        "qs:id":1321545
+        "qs_pg:id":1321545
     },
     "wof:coterminous":[
         404544725
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":101935651,
-    "wof:lastmodified":1550719937,
+    "wof:lastmodified":1566601663,
     "wof:name":"Wondunna",
     "wof:parent_id":404544725,
     "wof:placetype":"locality",

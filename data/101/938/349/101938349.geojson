@@ -13,6 +13,8 @@
     "iso:country":"AU",
     "lbl:latitude":-13.23517,
     "lbl:longitude":131.108819,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":-13.23517,
     "mps:longitude":131.108819,
     "mz:hierarchy_label":1,
@@ -162,7 +164,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-13.238056,
     "wd:longitude":131.106111,
@@ -180,7 +182,6 @@
         "fct:id":"032fc7d6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2078024,
         "gp:id":1099807,
-        "qs:id":910210,
         "qs_pg:id":910210,
         "wd:id":"Q17903",
         "wk:page":"Adelaide River, Northern Territory"
@@ -205,7 +206,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561827853,
+    "wof:lastmodified":1566601267,
     "wof:name":"Adelaide River",
     "wof:parent_id":404549619,
     "wof:placetype":"locality",

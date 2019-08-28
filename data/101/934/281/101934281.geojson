@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-27.327881,
     "lbl:longitude":153.059454,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":-27.327881,
     "mps:longitude":153.059454,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Deagon"
     ],
@@ -43,7 +46,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1014,
     "wof:belongsto":[
@@ -59,7 +62,7 @@
         "fct:id":"03483604-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2169237,
         "gp:id":1095426,
-        "qs:id":326715,
+        "qs_pg:id":326715,
         "wd:id":"Q5245810",
         "wk:page":"Deagon, Queensland"
     },
@@ -80,7 +83,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561827982,
+    "wof:lastmodified":1566601710,
     "wof:name":"Deagon",
     "wof:parent_id":102049495,
     "wof:placetype":"locality",

@@ -13,6 +13,8 @@
     "iso:country":"AU",
     "lbl:latitude":-37.376443,
     "lbl:longitude":140.833732,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":-37.376443,
     "mps:longitude":140.833732,
     "mz:hierarchy_label":1,
@@ -167,7 +169,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-37.366667,
     "wd:longitude":140.833333,
@@ -185,7 +187,6 @@
         "fct:id":"033098aa-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2153473,
         "gp:id":1104960,
-        "qs:id":919065,
         "qs_pg:id":919065,
         "wd:id":"Q958646",
         "wk:page":"Penola, South Australia"
@@ -207,7 +208,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1562900917,
+    "wof:lastmodified":1566601524,
     "wof:name":"Penola",
     "wof:parent_id":404546091,
     "wof:placetype":"locality",

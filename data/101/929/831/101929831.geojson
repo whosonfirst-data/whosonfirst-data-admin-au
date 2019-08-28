@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-33.971711,
     "lbl:longitude":151.12475,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-33.971711,
     "mps:longitude":151.12475,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Carlton"
     ],
@@ -51,7 +54,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":527,
     "wof:belongsto":[
         85681545,
@@ -66,7 +69,7 @@
     "wof:concordances":{
         "gn:id":8349201,
         "gp:id":7225597,
-        "qs:id":1251179,
+        "qs_pg:id":1251179,
         "wd:id":"Q5042941",
         "wk:page":"Carlton, New South Wales"
     },
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":101929831,
-    "wof:lastmodified":1562903570,
+    "wof:lastmodified":1566601830,
     "wof:name":"Carlton",
     "wof:parent_id":404222487,
     "wof:placetype":"locality",

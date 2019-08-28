@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-27.682693,
     "lbl:longitude":153.059934,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-27.682693,
     "mps:longitude":153.059934,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Heritage Park"
     ],
@@ -36,7 +39,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":325,
     "wof:belongsto":[
         85681463,
@@ -51,7 +54,7 @@
     "wof:concordances":{
         "gn:id":8348161,
         "gp:id":7225508,
-        "qs:id":904702,
+        "qs_pg:id":904702,
         "wd:id":"Q5738973",
         "wk:page":"Heritage Park, Queensland"
     },
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":101934533,
-    "wof:lastmodified":1561827979,
+    "wof:lastmodified":1566601700,
     "wof:name":"Heritage Park",
     "wof:parent_id":404542513,
     "wof:placetype":"locality",

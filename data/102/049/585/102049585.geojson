@@ -18,10 +18,13 @@
     ],
     "lbl:latitude":-37.874909,
     "lbl:longitude":146.932692,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-37.874909,
     "mps:longitude":146.932692,
     "mz:hierarchy_label":0,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:ace_x_preferred":[
         "Wellington"
     ],
@@ -478,7 +481,7 @@
     "qs:source":"Australia Census",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":791,
     "wof:belongsto":[
         102191583,
@@ -502,7 +505,7 @@
         }
     ],
     "wof:id":102049585,
-    "wof:lastmodified":1562894458,
+    "wof:lastmodified":1566600349,
     "wof:name":"Wellington",
     "wof:parent_id":85681497,
     "wof:placetype":"county",

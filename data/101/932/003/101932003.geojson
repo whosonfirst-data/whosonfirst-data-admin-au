@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-33.868633,
     "lbl:longitude":151.209421,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":6.0,
     "mps:latitude":-33.868633,
     "mps:longitude":151.209421,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":4.0,
     "name:abk_x_preferred":[
         "\u0421\u0438\u0434\u043d\u0435\u0438"
     ],
@@ -620,7 +623,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "src:population":"wk",
     "wd:latitude":-33.869444,
     "wd:longitude":151.208333,
@@ -644,10 +647,12 @@
         "gp:id":1105779,
         "loc:id":"n79021855",
         "nyt:id":"43567305142726089371",
-        "qs:id":351657,
-        "qs_pg:id":541961,
+        "qs_pg:id":351657,
         "wd:id":"Q3130",
         "wk:page":"Sydney"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":541961
     },
     "wof:coterminous":[
         404226357
@@ -670,7 +675,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1562901775,
+    "wof:lastmodified":1566601636,
     "wof:name":"Sydney",
     "wof:parent_id":404226357,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-34.841394,
     "lbl:longitude":138.604417,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":-34.841394,
     "mps:longitude":138.604417,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Gepps Cross"
     ],
@@ -51,7 +54,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681519,
@@ -65,7 +68,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2071001,
-        "qs:id":903700,
         "qs_pg:id":903700,
         "wd:id":"Q5548708",
         "wk:page":"Gepps Cross, South Australia"
@@ -88,7 +90,7 @@
         }
     ],
     "wof:id":101936033,
-    "wof:lastmodified":1562898302,
+    "wof:lastmodified":1566601147,
     "wof:name":"Gepps Cross",
     "wof:parent_id":404545355,
     "wof:placetype":"locality",

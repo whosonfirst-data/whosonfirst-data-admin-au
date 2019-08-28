@@ -13,6 +13,8 @@
     "iso:country":"AU",
     "lbl:latitude":-21.144192,
     "lbl:longitude":149.182075,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":-21.144192,
     "mps:longitude":149.182075,
     "mz:hierarchy_label":1,
@@ -291,7 +293,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-21.141111,
     "wd:longitude":149.186111,
@@ -308,7 +310,6 @@
     "wof:concordances":{
         "gn:id":2159220,
         "gp:id":1103588,
-        "qs:id":482096,
         "qs_pg:id":482096,
         "wd:id":"Q704371",
         "wk:page":"Mackay, Queensland"
@@ -330,7 +331,7 @@
         }
     ],
     "wof:id":101934755,
-    "wof:lastmodified":1562902392,
+    "wof:lastmodified":1566601699,
     "wof:name":"Mackay",
     "wof:parent_id":404543029,
     "wof:placetype":"locality",

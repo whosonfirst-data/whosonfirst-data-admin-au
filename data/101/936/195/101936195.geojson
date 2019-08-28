@@ -13,6 +13,8 @@
     "iso:country":"AU",
     "lbl:latitude":-33.13339,
     "lbl:longitude":136.408235,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":-33.13339,
     "mps:longitude":136.408235,
     "mz:hierarchy_label":1,
@@ -159,7 +161,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-33.1333,
     "wd:longitude":136.417,
@@ -176,7 +178,6 @@
         "fct:id":"03305156-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2068483,
         "gp:id":1103092,
-        "qs:id":138083,
         "qs_pg:id":138083,
         "wd:id":"Q1562649",
         "wk:page":"Kimba, South Australia"
@@ -197,7 +198,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1562897934,
+    "wof:lastmodified":1566601103,
     "wof:name":"Kimba",
     "wof:parent_id":102049655,
     "wof:placetype":"locality",

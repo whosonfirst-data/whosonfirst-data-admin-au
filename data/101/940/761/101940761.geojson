@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-20.656838,
     "lbl:longitude":141.744222,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-20.656838,
     "mps:longitude":141.744222,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Julia Creek"
     ],
@@ -34,9 +37,6 @@
     "name:nld_x_preferred":[
         "Julia Creek"
     ],
-    "name:unk_x_variant":[
-        "Jullack"
-    ],
     "qs:a0":"Australia",
     "qs:a1":"*Queensland",
     "qs:a1_lc":"3",
@@ -52,7 +52,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":-20.65,
     "wd:longitude":141.733333,
     "wd:wordcount":426,
@@ -69,7 +69,6 @@
         "fct:id":"033048f0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2162098,
         "gp:id":1102878,
-        "qs:id":1034076,
         "qs_pg:id":1034076,
         "wd:id":"Q1711829",
         "wk:page":"Julia Creek, Queensland"
@@ -91,7 +90,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561827938,
+    "wof:lastmodified":1566601566,
     "wof:name":"Julia Creek",
     "wof:parent_id":404542693,
     "wof:placetype":"locality",

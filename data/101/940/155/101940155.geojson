@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-37.62508,
     "lbl:longitude":144.712882,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":-37.62508,
     "mps:longitude":144.712882,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Diggers Rest"
     ],
@@ -41,7 +44,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":609,
     "wof:belongsto":[
@@ -57,7 +60,6 @@
     "wof:concordances":{
         "gn:id":2168854,
         "gp:id":1101680,
-        "qs:id":1220026,
         "qs_pg:id":1220026,
         "wd:id":"Q5275644"
     },
@@ -76,7 +78,7 @@
         }
     ],
     "wof:id":101940155,
-    "wof:lastmodified":1562901216,
+    "wof:lastmodified":1566601564,
     "wof:name":"Diggers Rest",
     "wof:parent_id":404538371,
     "wof:placetype":"locality",

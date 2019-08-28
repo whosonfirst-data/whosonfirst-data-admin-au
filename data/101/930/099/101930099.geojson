@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-34.064182,
     "lbl:longitude":151.12475,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":-34.064182,
     "mps:longitude":151.12475,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Dolans Bay"
     ],
@@ -52,7 +55,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":297,
     "wof:belongsto":[
@@ -68,7 +71,7 @@
     "wof:concordances":{
         "gn:id":2205973,
         "gp:id":1095490,
-        "qs:id":115132,
+        "qs_pg:id":115132,
         "wd:id":"Q5288859",
         "wk:page":"Dolans Bay, New South Wales"
     },
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":101930099,
-    "wof:lastmodified":1562899924,
+    "wof:lastmodified":1566601394,
     "wof:name":"Dolans Bay",
     "wof:parent_id":404223037,
     "wof:placetype":"locality",

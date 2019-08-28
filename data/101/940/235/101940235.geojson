@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-36.224631,
     "lbl:longitude":145.561153,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-36.224631,
     "mps:longitude":145.561153,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Katandra West"
     ],
@@ -32,13 +35,13 @@
     "qs:source":"SAustralian Bureau Of Statistics: urban areas and localities selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681497,
         102191583,
-        85632793,
-        404539027,
         1376953455,
+        404539027,
+        85632793,
         136253039,
         102049473
     ],
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":101940235,
-    "wof:lastmodified":1550747300,
+    "wof:lastmodified":1566601548,
     "wof:name":"Katandra West",
     "wof:parent_id":404539027,
     "wof:placetype":"locality",

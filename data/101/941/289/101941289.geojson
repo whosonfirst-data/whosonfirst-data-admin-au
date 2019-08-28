@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-33.957714,
     "lbl:longitude":115.071141,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-33.957714,
     "mps:longitude":115.071141,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Margaret River"
     ],
@@ -81,7 +84,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-33.955,
     "wd:longitude":115.075,
@@ -98,7 +101,6 @@
     "wof:concordances":{
         "gn:id":2066981,
         "gp:id":1103696,
-        "qs:id":6479,
         "qs_pg:id":6479,
         "wd:id":"Q74033",
         "wk:page":"Margaret River, Western Australia"
@@ -117,7 +119,7 @@
         }
     ],
     "wof:id":101941289,
-    "wof:lastmodified":1562900744,
+    "wof:lastmodified":1566601501,
     "wof:name":"Margaret River",
     "wof:parent_id":404547743,
     "wof:placetype":"locality",

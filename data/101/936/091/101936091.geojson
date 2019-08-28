@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-34.766285,
     "lbl:longitude":138.71417,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-34.766285,
     "mps:longitude":138.71417,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Greenwith"
     ],
@@ -36,7 +39,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":723,
     "wof:belongsto":[
         85681519,
@@ -51,7 +54,7 @@
     "wof:concordances":{
         "gn:id":8348988,
         "gp:id":22721747,
-        "qs:id":205801,
+        "qs_pg:id":205801,
         "wd:id":"Q5604921",
         "wk:page":"Greenwith, South Australia"
     },
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":101936091,
-    "wof:lastmodified":1561827813,
+    "wof:lastmodified":1566601115,
     "wof:name":"Greenwith",
     "wof:parent_id":404545429,
     "wof:placetype":"locality",

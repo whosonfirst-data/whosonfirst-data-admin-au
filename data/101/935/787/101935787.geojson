@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-34.960156,
     "lbl:longitude":138.576607,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-34.960156,
     "mps:longitude":138.576607,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Black Forest"
     ],
@@ -231,7 +234,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681519,
         102191583,
@@ -265,7 +268,7 @@
         }
     ],
     "wof:id":101935787,
-    "wof:lastmodified":1562902351,
+    "wof:lastmodified":1566601695,
     "wof:name":"Black Forest",
     "wof:parent_id":404544963,
     "wof:placetype":"locality",

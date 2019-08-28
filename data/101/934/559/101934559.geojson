@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-27.7171,
     "lbl:longitude":153.171428,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-27.7171,
     "mps:longitude":153.171428,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Holmview"
     ],
@@ -33,14 +36,14 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":177,
     "wof:belongsto":[
         85681463,
         102191583,
-        85632793,
-        404542551,
         1376953397,
+        404542551,
+        85632793,
         136253039,
         102048665
     ],
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":101934559,
-    "wof:lastmodified":1550754701,
+    "wof:lastmodified":1566601702,
     "wof:name":"Holmview",
     "wof:parent_id":404542551,
     "wof:placetype":"locality",

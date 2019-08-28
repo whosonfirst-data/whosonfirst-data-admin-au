@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-33.757525,
     "lbl:longitude":151.078826,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-33.757525,
     "mps:longitude":151.078826,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0634\u0644\u062a\u0646\u0647\u0627\u0645"
     ],
@@ -168,7 +171,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":51.896519,
     "wd:longitude":-2.078428,
     "wd:wordcount":4243,
@@ -203,7 +206,7 @@
         }
     ],
     "wof:id":101929891,
-    "wof:lastmodified":1562903579,
+    "wof:lastmodified":1566601831,
     "wof:name":"Cheltenham",
     "wof:parent_id":404222585,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-33.686165,
     "lbl:longitude":151.111192,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":-33.686165,
     "mps:longitude":151.111192,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Asquith"
     ],
@@ -52,7 +55,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681545,
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":101929427,
-    "wof:lastmodified":1562903553,
+    "wof:lastmodified":1566601828,
     "wof:name":"Asquith",
     "wof:parent_id":404221577,
     "wof:placetype":"locality",

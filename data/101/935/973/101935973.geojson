@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-34.849063,
     "lbl:longitude":138.488411,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-34.849063,
     "mps:longitude":138.488411,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ethelton"
     ],
@@ -36,14 +39,14 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":376,
     "wof:belongsto":[
         85681519,
         102191583,
-        85632793,
-        404545269,
         1376953367,
+        404545269,
+        85632793,
         136253039,
         102048839
     ],
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":101935973,
-    "wof:lastmodified":1550724230,
+    "wof:lastmodified":1566601693,
     "wof:name":"Ethelton",
     "wof:parent_id":404545269,
     "wof:placetype":"locality",

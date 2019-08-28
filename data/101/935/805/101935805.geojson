@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-34.902649,
     "lbl:longitude":138.579191,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-34.902649,
     "mps:longitude":138.579191,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bowden"
     ],
@@ -36,7 +39,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1292,
     "wof:belongsto":[
         85681519,
@@ -51,7 +54,7 @@
     "wof:concordances":{
         "gn:id":8348231,
         "gp:id":22721684,
-        "qs:id":1059421,
+        "qs_pg:id":1059421,
         "wd:id":"Q4950729",
         "wk:page":"Bowden, South Australia"
     },
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":101935805,
-    "wof:lastmodified":1561827971,
+    "wof:lastmodified":1566601667,
     "wof:name":"Bowden",
     "wof:parent_id":404544995,
     "wof:placetype":"locality",

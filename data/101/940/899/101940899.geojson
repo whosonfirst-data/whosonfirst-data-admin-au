@@ -9,14 +9,17 @@
     "geom:bbox":"148.560891296,-28.061517512,148.624679936,-28.00785878",
     "geom:latitude":-28.036502,
     "geom:longitude":148.587196,
-    "geonames:id":"8347972,2150696",
+    "gn:id":"8347972,2150696",
     "iso:country":"AU",
     "lbl:latitude":-28.035218,
     "lbl:longitude":148.5867,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-28.035218,
     "mps:longitude":148.5867,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "St George"
     ],
@@ -53,9 +56,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0435\u043d\u0442-\u0414\u0436\u043e\u0440\u0434\u0436"
     ],
-    "name:unk_x_variant":[
-        "Saint George"
-    ],
     "name:urd_x_preferred":[
         "\u0633\u06cc\u0646\u0679 \u062c\u0627\u0631\u062c\u060c \u06a9\u0648\u0626\u0646\u0632\u0644\u06cc\u0646\u0688"
     ],
@@ -80,7 +80,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":7243,
     "wof:belongsto":[
         85681463,
@@ -111,7 +111,7 @@
         }
     ],
     "wof:id":101940899,
-    "wof:lastmodified":1562901335,
+    "wof:lastmodified":1566601579,
     "wof:name":"St George",
     "wof:parent_id":404544165,
     "wof:placetype":"locality",

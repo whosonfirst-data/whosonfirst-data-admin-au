@@ -12,8 +12,10 @@
     "gn:latitude":-33.98744,
     "gn:longitude":151.02526,
     "iso:country":"AU",
+    "lbl:bbox":"151.297149,-33.640507,151.307149,-33.630507",
     "lbl:latitude":-33.636433,
     "lbl:longitude":151.305877,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-33.641629,
     "mps:longitude":151.307248,
     "mz:hierarchy_label":0,
@@ -54,9 +56,6 @@
     "name:swe_x_preferred":[
         "Alfords Point"
     ],
-    "name:unk_x_variant":[
-        "Taylors Point"
-    ],
     "qs:gn_adm0_cc":"AU",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":2147714,
@@ -84,8 +83,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191583,
         1376953385,
@@ -100,7 +98,7 @@
     "wof:concordances":{
         "gn:id":8347694,
         "gp:id":28589098,
-        "qs:id":392840,
+        "qs_pg:id":392840,
         "wd:id":"Q964242",
         "wk:page":"Alfords Point, New South Wales"
     },
@@ -123,7 +121,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1562895289,
+    "wof:lastmodified":1566600523,
     "wof:name":"Taylors Point",
     "wof:parent_id":101929435,
     "wof:placetype":"neighbourhood",

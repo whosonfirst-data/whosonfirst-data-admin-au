@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-33.777329,
     "lbl:longitude":151.044841,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-33.777329,
     "mps:longitude":151.044841,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ceb_x_preferred":[
         "Carlingford"
     ],
@@ -55,7 +58,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681545,
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":101929829,
-    "wof:lastmodified":1562903388,
+    "wof:lastmodified":1566601809,
     "wof:name":"Carlingford",
     "wof:parent_id":404222485,
     "wof:placetype":"locality",

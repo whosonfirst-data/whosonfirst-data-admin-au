@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-36.406569,
     "lbl:longitude":148.400278,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-36.406569,
     "mps:longitude":148.400278,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Perisher Valley"
     ],
@@ -23,9 +26,6 @@
         "Perisher Village"
     ],
     "name:eng_x_variant":[
-        "Perisher Valley"
-    ],
-    "name:unk_x_variant":[
         "Perisher Valley"
     ],
     "name:zho_x_preferred":[
@@ -46,7 +46,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1193,
     "wof:belongsto":[
         85681545,
@@ -60,7 +60,6 @@
     "wof:concordances":{
         "gn:id":8219816,
         "gp:id":1104976,
-        "qs:id":287950,
         "qs_pg:id":287950,
         "wd:id":"Q2071157",
         "wk:page":"Perisher Valley, New South Wales"
@@ -79,7 +78,7 @@
         }
     ],
     "wof:id":101939897,
-    "wof:lastmodified":1562899739,
+    "wof:lastmodified":1566601366,
     "wof:name":"Perisher Village",
     "wof:parent_id":404224315,
     "wof:placetype":"locality",

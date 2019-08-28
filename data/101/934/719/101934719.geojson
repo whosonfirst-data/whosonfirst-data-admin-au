@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-27.62227,
     "lbl:longitude":152.733544,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-27.62227,
     "mps:longitude":152.733544,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Leichhardt"
     ],
@@ -42,7 +45,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":101,
     "wof:belongsto":[
         85681463,
@@ -57,7 +60,7 @@
     "wof:concordances":{
         "gn:id":8349250,
         "gp:id":22721626,
-        "qs:id":905202,
+        "qs_pg:id":905202,
         "wd:id":"Q6519295",
         "wk:page":"Leichhardt, Queensland"
     },
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":101934719,
-    "wof:lastmodified":1562902798,
+    "wof:lastmodified":1566601744,
     "wof:name":"Leichhardt",
     "wof:parent_id":404542943,
     "wof:placetype":"locality",

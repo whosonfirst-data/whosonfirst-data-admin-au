@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-34.883563,
     "lbl:longitude":138.592922,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-34.883563,
     "mps:longitude":138.592922,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:afr_x_preferred":[
         "Prospect"
     ],
@@ -244,7 +247,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":695,
     "wof:belongsto":[
@@ -280,7 +283,7 @@
         }
     ],
     "wof:id":101936509,
-    "wof:lastmodified":1562898197,
+    "wof:lastmodified":1566601134,
     "wof:name":"Prospect",
     "wof:parent_id":404546177,
     "wof:placetype":"locality",

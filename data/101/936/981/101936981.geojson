@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-33.354925,
     "lbl:longitude":115.651805,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-33.354925,
     "mps:longitude":115.651805,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Carey Park"
     ],
@@ -36,7 +39,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":25,
     "wof:belongsto":[
         85681439,
@@ -52,7 +55,7 @@
         "fct:id":"034acfea-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":8349036,
         "gp:id":28644974,
-        "qs:id":1117814
+        "qs_pg:id":1117814
     },
     "wof:coterminous":[
         404546991
@@ -75,7 +78,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1562898390,
+    "wof:lastmodified":1566601157,
     "wof:name":"Carey Park",
     "wof:parent_id":404546991,
     "wof:placetype":"locality",

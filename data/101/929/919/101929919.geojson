@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-33.775625,
     "lbl:longitude":150.751678,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-33.775625,
     "mps:longitude":150.751678,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Claremont Meadows"
     ],
@@ -51,7 +54,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":323,
     "wof:belongsto":[
         85681545,
@@ -66,7 +69,7 @@
     "wof:concordances":{
         "gn:id":8348494,
         "gp:id":7225608,
-        "qs:id":202410,
+        "qs_pg:id":202410,
         "wd:id":"Q3437520",
         "wk:page":"Claremont Meadows, New South Wales"
     },
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":101929919,
-    "wof:lastmodified":1562903628,
+    "wof:lastmodified":1566601837,
     "wof:name":"Claremont Meadows",
     "wof:parent_id":404222619,
     "wof:placetype":"locality",

@@ -9,12 +9,16 @@
     "geom:bbox":"144.600248,-37.759451,144.600248,-37.759451",
     "geom:latitude":-37.759451,
     "geom:longitude":144.600248,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"AU",
+    "lbl:bbox":"144.580248,-37.779451,144.620248,-37.739451",
     "lbl:latitude":-37.759451,
     "lbl:longitude":144.600248,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Eynesbury"
@@ -37,7 +41,7 @@
     "qs_pg:woe_adm0":23424748,
     "qs_pg:woe_id":22721091,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Victoria",
@@ -45,9 +49,9 @@
     "wof:belongsto":[
         85681497,
         102191583,
-        85632793,
-        404539579,
         1376953283,
+        404539579,
+        85632793,
         136253039,
         102048697
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1125982803,
-    "wof:lastmodified":1550722696,
+    "wof:lastmodified":1566603371,
     "wof:name":"Eynesbury",
     "wof:parent_id":404539579,
     "wof:placetype":"locality",

@@ -13,6 +13,8 @@
     "iso:country":"AU",
     "lbl:latitude":-25.527814,
     "lbl:longitude":152.693741,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-25.527814,
     "mps:longitude":152.693741,
     "mz:hierarchy_label":1,
@@ -288,7 +290,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-25.5375,
     "wd:longitude":152.701944,
@@ -305,7 +307,6 @@
     "wof:concordances":{
         "gn:id":2158562,
         "gp:id":1103751,
-        "qs:id":1075396,
         "qs_pg:id":1075396,
         "wd:id":"Q377975",
         "wk:page":"Maryborough, Queensland"
@@ -327,7 +328,7 @@
         }
     ],
     "wof:id":101934797,
-    "wof:lastmodified":1562902378,
+    "wof:lastmodified":1566601698,
     "wof:name":"Maryborough",
     "wof:parent_id":404543099,
     "wof:placetype":"locality",

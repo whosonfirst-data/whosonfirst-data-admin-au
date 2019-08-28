@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-30.370043,
     "lbl:longitude":153.096385,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":-30.370043,
     "mps:longitude":153.096385,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Sawtell"
     ],
@@ -54,7 +57,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-30.383333,
     "wd:longitude":153.1,
@@ -71,7 +74,6 @@
     "wof:concordances":{
         "gn:id":2150163,
         "gp:id":1105496,
-        "qs:id":902858,
         "qs_pg:id":902858,
         "wd:id":"Q7428689",
         "wk:page":"Sawtell, New South Wales"
@@ -93,7 +95,7 @@
         }
     ],
     "wof:id":101931815,
-    "wof:lastmodified":1562898738,
+    "wof:lastmodified":1566601212,
     "wof:name":"Sawtell",
     "wof:parent_id":404226035,
     "wof:placetype":"locality",

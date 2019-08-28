@@ -13,6 +13,8 @@
     "iso:country":"AU",
     "lbl:latitude":-25.206905,
     "lbl:longitude":130.970056,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":-25.206905,
     "mps:longitude":130.970056,
     "mz:hierarchy_label":1,
@@ -186,7 +188,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-25.240556,
     "wd:longitude":130.988889,
@@ -201,7 +203,6 @@
     "wof:concordances":{
         "gn:id":6355222,
         "gp:id":28588241,
-        "qs:id":1114030,
         "qs_pg:id":1114030,
         "wd:id":"Q18042",
         "wk:page":"Yulara, Northern Territory"
@@ -218,7 +219,7 @@
         }
     ],
     "wof:id":101938699,
-    "wof:lastmodified":1562899244,
+    "wof:lastmodified":1566601292,
     "wof:name":"Yulara",
     "wof:parent_id":85681533,
     "wof:placetype":"locality",

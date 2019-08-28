@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-35.141316,
     "lbl:longitude":138.497045,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":-35.141316,
     "mps:longitude":138.497045,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Noarlunga"
     ],
@@ -46,7 +49,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681519,
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":101936343,
-    "wof:lastmodified":1562898395,
+    "wof:lastmodified":1566601158,
     "wof:name":"Noarlunga Centre",
     "wof:parent_id":404545947,
     "wof:placetype":"locality",

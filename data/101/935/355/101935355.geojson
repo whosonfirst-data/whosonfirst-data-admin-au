@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-27.688786,
     "lbl:longitude":152.908478,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-27.688786,
     "mps:longitude":152.908478,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Springfield Central"
     ],
@@ -33,14 +36,14 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":338,
     "wof:belongsto":[
         85681463,
         102191583,
-        85632793,
-        404544155,
         1376953397,
+        404544155,
+        85632793,
         136253039,
         102048583
     ],
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":101935355,
-    "wof:lastmodified":1550754848,
+    "wof:lastmodified":1566601655,
     "wof:name":"Springfield Central",
     "wof:parent_id":404544155,
     "wof:placetype":"locality",

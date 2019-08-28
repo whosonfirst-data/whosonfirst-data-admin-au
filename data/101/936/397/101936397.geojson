@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-34.798696,
     "lbl:longitude":138.497963,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-34.798696,
     "mps:longitude":138.497963,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Osborne"
     ],
@@ -39,7 +42,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":417,
     "wof:belongsto":[
         85681519,
@@ -54,7 +57,7 @@
     "wof:concordances":{
         "gn:id":8348351,
         "gp:id":22722120,
-        "qs:id":1083202,
+        "qs_pg:id":1083202,
         "wd:id":"Q7105773",
         "wk:page":"Osborne, South Australia"
     },
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":101936397,
-    "wof:lastmodified":1561827811,
+    "wof:lastmodified":1566601106,
     "wof:name":"Osborne",
     "wof:parent_id":404546011,
     "wof:placetype":"locality",

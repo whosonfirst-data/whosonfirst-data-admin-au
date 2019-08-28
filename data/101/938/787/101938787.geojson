@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-35.415499,
     "lbl:longitude":149.138054,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-35.415499,
     "mps:longitude":149.138054,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Gilmore"
     ],
@@ -51,7 +54,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":582,
     "wof:belongsto":[
         85681493,
@@ -65,7 +68,7 @@
         "fct:id":"0348ced4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":8349400,
         "gp:id":7225303,
-        "qs:id":288782,
+        "qs_pg:id":288782,
         "wd:id":"Q1010508",
         "wk:page":"Gilmore, Australian Capital Territory"
     },
@@ -88,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1562899332,
+    "wof:lastmodified":1566601306,
     "wof:name":"Gilmore",
     "wof:parent_id":404550005,
     "wof:placetype":"locality",

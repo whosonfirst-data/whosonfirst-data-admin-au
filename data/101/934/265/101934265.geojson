@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-26.982807,
     "lbl:longitude":152.800618,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":-26.982807,
     "mps:longitude":152.800618,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "D'Aguilar"
     ],
@@ -45,7 +48,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":224,
     "wof:belongsto":[
@@ -61,7 +64,6 @@
     "wof:concordances":{
         "gn:id":2169568,
         "gp:id":1095364,
-        "qs:id":1081010,
         "qs_pg:id":1081010,
         "wd:id":"Q5203049"
     },
@@ -83,7 +85,7 @@
         }
     ],
     "wof:id":101934265,
-    "wof:lastmodified":1562902753,
+    "wof:lastmodified":1566601739,
     "wof:name":"D'Aguilar",
     "wof:parent_id":404541913,
     "wof:placetype":"locality",

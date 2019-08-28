@@ -9,15 +9,18 @@
     "geom:bbox":"138.28333,-30.06667,138.28333,-30.06667",
     "geom:latitude":-30.06667,
     "geom:longitude":138.28333,
-    "gn:gn_country":"AU",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":56,
+    "gn:country":"AU",
+    "gn:fcode":"PPL",
     "gn:population":56,
     "iso:country":"AU",
+    "lbl:bbox":"138.26333,-30.08667,138.30333,-30.04667",
     "lbl:latitude":-30.06667,
     "lbl:longitude":138.28333,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Farina"
@@ -61,7 +64,7 @@
     "name:ukr_x_preferred":[
         "\u0424\u0430\u0440\u0438\u043d\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Farina Town"
     ],
     "qs_pg:aaroncc":"AU",
@@ -76,7 +79,7 @@
     "qs_pg:qs_id":90742,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85681519,
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":1125858821,
-    "wof:lastmodified":1562923563,
+    "wof:lastmodified":1566603439,
     "wof:name":"Farina",
     "wof:parent_id":404545749,
     "wof:placetype":"locality",

@@ -10,8 +10,10 @@
     "geom:latitude":-27.462626,
     "geom:longitude":153.236487,
     "iso:country":"AU",
+    "lbl:bbox":"153.231487,-27.467626,153.241487,-27.457626",
     "lbl:latitude":-27.465765,
     "lbl:longitude":153.239866,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-27.46396,
     "mps:longitude":153.237574,
     "mz:hierarchy_label":0,
@@ -24,9 +26,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":4,
     "name:eng_x_preferred":[
-        "Erobin"
-    ],
-    "name:unk_x_variant":[
         "Erobin"
     ],
     "qs:gn_adm0_cc":"AU",
@@ -57,8 +56,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191583,
         1376953397,
@@ -73,7 +71,7 @@
     "wof:concordances":{
         "gn:id":8354541,
         "gp:id":28584997,
-        "qs:id":1077160
+        "qs_pg:id":1077160
     },
     "wof:country":"AU",
     "wof:geomhash":"74beca405a6e127122c68028710da295",
@@ -94,7 +92,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1551830868,
+    "wof:lastmodified":1566600573,
     "wof:name":"Erobin",
     "wof:parent_id":101935599,
     "wof:placetype":"neighbourhood",

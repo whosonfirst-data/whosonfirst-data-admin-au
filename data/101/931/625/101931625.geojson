@@ -13,6 +13,8 @@
     "iso:country":"AU",
     "lbl:latitude":-31.463755,
     "lbl:longitude":152.898783,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-31.463755,
     "mps:longitude":152.898783,
     "mz:hierarchy_label":1,
@@ -207,7 +209,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-31.433333,
     "wd:longitude":152.9,
@@ -224,7 +226,6 @@
     "wof:concordances":{
         "gn:id":2152659,
         "gp:id":1105133,
-        "qs:id":274184,
         "qs_pg:id":274184,
         "wd:id":"Q606153",
         "wk:page":"Port Macquarie"
@@ -246,7 +247,7 @@
         }
     ],
     "wof:id":101931625,
-    "wof:lastmodified":1562898720,
+    "wof:lastmodified":1566601209,
     "wof:name":"Port Macquarie",
     "wof:parent_id":404225695,
     "wof:placetype":"locality",

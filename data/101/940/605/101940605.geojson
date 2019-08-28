@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-23.579705,
     "lbl:longitude":148.888552,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-23.579705,
     "mps:longitude":148.888552,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Blackwater"
     ],
@@ -68,7 +71,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-23.4667,
     "wd:longitude":148.767,
@@ -85,7 +88,6 @@
     "wof:concordances":{
         "gn:id":2175403,
         "gp:id":1100419,
-        "qs:id":1034238,
         "qs_pg:id":1034238,
         "wd:id":"Q880963",
         "wk:page":"Blackwater, Queensland"
@@ -104,7 +106,7 @@
         }
     ],
     "wof:id":101940605,
-    "wof:lastmodified":1562901079,
+    "wof:lastmodified":1566601547,
     "wof:name":"Blackwater",
     "wof:parent_id":404541313,
     "wof:placetype":"locality",

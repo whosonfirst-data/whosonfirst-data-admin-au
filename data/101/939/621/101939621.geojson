@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-35.663832,
     "lbl:longitude":147.043761,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":-35.663832,
     "mps:longitude":147.043761,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Culcairn"
     ],
@@ -53,7 +56,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-35.666667,
     "wd:longitude":147.05,
@@ -70,7 +73,6 @@
     "wof:concordances":{
         "gn:id":2169801,
         "gp:id":1101476,
-        "qs:id":1231903,
         "qs_pg:id":1231903,
         "wd:id":"Q2271716",
         "wk:page":"Culcairn"
@@ -89,7 +91,7 @@
         }
     ],
     "wof:id":101939621,
-    "wof:lastmodified":1562899432,
+    "wof:lastmodified":1566601320,
     "wof:name":"Culcairn",
     "wof:parent_id":404222905,
     "wof:placetype":"locality",

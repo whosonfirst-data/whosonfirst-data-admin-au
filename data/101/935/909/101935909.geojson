@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-35.033002,
     "lbl:longitude":138.556067,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":-35.033002,
     "mps:longitude":138.556067,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Darlington"
     ],
@@ -43,7 +46,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":122,
     "wof:belongsto":[
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":101935909,
-    "wof:lastmodified":1562901905,
+    "wof:lastmodified":1566601650,
     "wof:name":"Darlington",
     "wof:parent_id":404545189,
     "wof:placetype":"locality",

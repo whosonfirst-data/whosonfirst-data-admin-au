@@ -13,6 +13,8 @@
     "iso:country":"AU",
     "lbl:latitude":-33.714793,
     "lbl:longitude":150.30671,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-33.714793,
     "mps:longitude":150.30671,
     "mz:hierarchy_label":1,
@@ -192,7 +194,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-33.715,
     "wd:longitude":150.312778,
@@ -209,7 +211,6 @@
     "wof:concordances":{
         "gn:id":2161776,
         "gp:id":1103007,
-        "qs:id":1034053,
         "qs_pg:id":1034053,
         "wd:id":"Q1530148",
         "wk:page":"Katoomba, New South Wales"
@@ -231,7 +232,7 @@
         }
     ],
     "wof:id":101930849,
-    "wof:lastmodified":1562900059,
+    "wof:lastmodified":1566601414,
     "wof:name":"Katoomba",
     "wof:parent_id":404224153,
     "wof:placetype":"locality",

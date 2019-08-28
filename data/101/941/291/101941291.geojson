@@ -13,6 +13,8 @@
     "iso:country":"AU",
     "lbl:latitude":-31.482094,
     "lbl:longitude":118.275313,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":-31.482094,
     "mps:longitude":118.275313,
     "mz:hierarchy_label":1,
@@ -158,7 +160,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-31.1,
     "wd:longitude":118.417,
@@ -176,7 +178,6 @@
         "fct:id":"03306e34-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2066472,
         "gp:id":1103857,
-        "qs:id":138041,
         "qs_pg:id":138041,
         "wd:id":"Q240092",
         "wk:page":"Merredin, Western Australia"
@@ -198,7 +199,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1562900890,
+    "wof:lastmodified":1566601522,
     "wof:name":"Merredin",
     "wof:parent_id":404547787,
     "wof:placetype":"locality",

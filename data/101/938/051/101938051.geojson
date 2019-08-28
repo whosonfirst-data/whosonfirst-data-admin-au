@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-42.791854,
     "lbl:longitude":147.217306,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-42.791854,
     "mps:longitude":147.217306,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Claremont"
     ],
@@ -52,7 +55,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":280,
     "wof:belongsto":[
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":101938051,
-    "wof:lastmodified":1562899284,
+    "wof:lastmodified":1566601298,
     "wof:name":"Claremont",
     "wof:parent_id":404548795,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-37.40468,
     "lbl:longitude":144.585484,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-37.40468,
     "mps:longitude":144.585484,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mount Macedon"
     ],
@@ -45,9 +48,6 @@
     "name:swe_x_preferred":[
         "Mount Macedon"
     ],
-    "name:unk_x_variant":[
-        "Upper Macedon"
-    ],
     "qs:a0":"Australia",
     "qs:a1":"*Victoria",
     "qs:a1_lc":"2",
@@ -63,7 +63,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":-37.4,
     "wd:longitude":144.583333,
     "wd:wordcount":1650,
@@ -80,7 +80,6 @@
         "fct:id":"033257da-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2156590,
         "gp:id":1097524,
-        "qs:id":1169948,
         "qs_pg:id":1169948,
         "wd:id":"Q1622641",
         "wk:page":"Mount Macedon, Victoria"
@@ -102,7 +101,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1562900980,
+    "wof:lastmodified":1566601533,
     "wof:name":"Mount Macedon",
     "wof:parent_id":404539597,
     "wof:placetype":"locality",

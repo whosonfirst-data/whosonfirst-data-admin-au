@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-31.905534,
     "lbl:longitude":115.814016,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":-31.905534,
     "mps:longitude":115.814016,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Osborne Park"
     ],
@@ -46,7 +49,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":493,
     "wof:belongsto":[
@@ -62,7 +65,7 @@
     "wof:concordances":{
         "gn:id":6621354,
         "gp:id":1107192,
-        "qs:id":160947,
+        "qs_pg:id":160947,
         "wd:id":"Q7105802",
         "wk:page":"Osborne Park, Western Australia"
     },
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":101937639,
-    "wof:lastmodified":1561827912,
+    "wof:lastmodified":1566601483,
     "wof:name":"Osborne Park",
     "wof:parent_id":404548063,
     "wof:placetype":"locality",

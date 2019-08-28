@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-41.043114,
     "lbl:longitude":145.875001,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":-41.043114,
     "mps:longitude":145.875001,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Cooee"
     ],
@@ -49,7 +52,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-41.0411,
     "wd:longitude":145.876,
@@ -67,7 +70,7 @@
         "fct:id":"03483014-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2170702,
         "gp:id":1095189,
-        "qs:id":326705,
+        "qs_pg:id":326705,
         "wd:id":"Q5166836",
         "wk:page":"Cooee, Tasmania"
     },
@@ -91,7 +94,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1562899262,
+    "wof:lastmodified":1566601295,
     "wof:name":"Cooee",
     "wof:parent_id":404548819,
     "wof:placetype":"locality",

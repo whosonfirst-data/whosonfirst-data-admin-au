@@ -11,8 +11,10 @@
     "geom:longitude":152.969646,
     "gn:id":"",
     "iso:country":"AU",
+    "lbl:bbox":"152.964646,-27.502604,152.974646,-27.492604",
     "lbl:latitude":-27.499357,
     "lbl:longitude":152.972251,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-27.497817,
     "mps:longitude":152.970209,
     "mz:hierarchy_label":0,
@@ -32,9 +34,6 @@
     ],
     "name:eng_x_variant":[
         "Indooroopilly Shopping Centre"
-    ],
-    "name:unk_x_variant":[
-        "Indooroopilly Centre"
     ],
     "qs:gn_adm0_cc":"AU",
     "qs:gn_id":0,
@@ -64,7 +63,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":789,
     "wof:belongsto":[
         102191583,
@@ -80,9 +79,11 @@
     "wof:concordances":{
         "gn:id":6943573,
         "gp:id":1107178,
-        "qs:id":1127249,
         "qs_pg:id":1075431,
         "wd:id":"Q6026491"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1127249
     },
     "wof:country":"AU",
     "wof:geomhash":"bc96c1cb590c41ae10cc3d0b3d650bd8",
@@ -103,7 +104,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1562895281,
+    "wof:lastmodified":1566600522,
     "wof:name":"Indooroopilly Centre",
     "wof:parent_id":101934583,
     "wof:placetype":"neighbourhood",

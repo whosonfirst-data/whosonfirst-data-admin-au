@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-25.235376,
     "lbl:longitude":152.277601,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":-25.235376,
     "mps:longitude":152.277601,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u062a\u0634\u0627\u064a\u0644\u062f\u0631\u0632"
     ],
@@ -59,7 +62,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-25.2833,
     "wd:longitude":152.283,
@@ -76,7 +79,6 @@
     "wof:concordances":{
         "gn:id":2171626,
         "gp:id":1101135,
-        "qs:id":138846,
         "qs_pg:id":138846,
         "wd:id":"Q2963588",
         "wk:page":"Childers, Queensland"
@@ -95,7 +97,7 @@
         }
     ],
     "wof:id":1175610515,
-    "wof:lastmodified":1562897436,
+    "wof:lastmodified":1566601022,
     "wof:name":"Childers",
     "wof:parent_id":404541699,
     "wof:placetype":"locality",

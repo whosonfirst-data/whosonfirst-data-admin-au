@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-32.134133,
     "lbl:longitude":115.80637,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-32.134133,
     "mps:longitude":115.80637,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Beeliar"
     ],
@@ -46,7 +49,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":64,
     "wof:belongsto":[
@@ -62,7 +65,7 @@
     "wof:concordances":{
         "gn:id":8347945,
         "gp:id":7226163,
-        "qs:id":344440,
+        "qs_pg:id":344440,
         "wd:id":"Q4879848",
         "wk:page":"Beeliar, Western Australia"
     },
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":101936891,
-    "wof:lastmodified":1561827821,
+    "wof:lastmodified":1566601146,
     "wof:name":"Beeliar",
     "wof:parent_id":404546807,
     "wof:placetype":"locality",

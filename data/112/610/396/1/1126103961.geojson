@@ -9,21 +9,21 @@
     "geom:bbox":"149.23333,-21.06667,149.23333,-21.06667",
     "geom:latitude":-21.06667,
     "geom:longitude":149.23333,
-    "gn:gn_country":"AU",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"AU",
+    "gn:fcode":"PPL",
     "gn:latitude":-21.06667,
     "gn:longitude":149.23333,
+    "gn:population":0,
     "iso:country":"AU",
+    "lbl:bbox":"149.22833,-21.07167,149.23833,-21.06167",
     "lbl:latitude":-21.06667,
     "lbl:longitude":149.23333,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":0,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
-        "Amhurst"
-    ],
-    "name:unk_x_variant":[
         "Amhurst"
     ],
     "qs_pg:aaroncc":"AU",
@@ -47,7 +47,7 @@
     "qs_pg:woe_adm0":23424748,
     "qs_pg:woe_id":1094058,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Queensland",
@@ -57,7 +57,6 @@
     "wof:concordances":{
         "gn:id":2177946,
         "gp:id":1094058,
-        "qs:id":1332802,
         "qs_pg:id":1332802
     },
     "wof:country":"AU",
@@ -73,7 +72,7 @@
         }
     ],
     "wof:id":1126103961,
-    "wof:lastmodified":1551830891,
+    "wof:lastmodified":1566603270,
     "wof:name":"Amhurst",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

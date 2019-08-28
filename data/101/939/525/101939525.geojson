@@ -13,6 +13,8 @@
     "iso:country":"AU",
     "lbl:latitude":-30.090701,
     "lbl:longitude":145.944501,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":-30.090701,
     "mps:longitude":145.944501,
     "mz:hierarchy_label":1,
@@ -164,7 +166,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-30.1,
     "wd:longitude":145.933333,
@@ -182,7 +184,6 @@
         "fct:id":"032fe9a0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2174467,
         "gp:id":1100580,
-        "qs:id":356133,
         "qs_pg:id":356133,
         "wd:id":"Q895237",
         "wk:page":"Bourke, New South Wales"
@@ -204,7 +205,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1562899762,
+    "wof:lastmodified":1566601370,
     "wof:name":"Bourke",
     "wof:parent_id":404222113,
     "wof:placetype":"locality",

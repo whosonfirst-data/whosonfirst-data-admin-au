@@ -9,14 +9,16 @@
     "geom:bbox":"153.536232622,-28.1621081583,153.536232622,-28.1621081583",
     "geom:latitude":-28.162108,
     "geom:longitude":153.536233,
-    "gn:gn_country":"AU",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"AU",
+    "gn:fcode":"PPL",
     "gn:latitude":-28.16944,
     "gn:longitude":153.53471,
+    "gn:population":0,
     "iso:country":"AU",
+    "lbl:bbox":"153.531232622,-28.1671081583,153.541232622,-28.1571081583",
     "lbl:latitude":-28.162129,
     "lbl:longitude":153.535763,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-28.162129,
     "mps:longitude":153.535763,
     "mz:hierarchy_label":0,
@@ -59,9 +61,6 @@
         "Coolangatta"
     ],
     "name:swe_x_preferred":[
-        "Coolangatta"
-    ],
-    "name:unk_x_variant":[
         "Coolangatta"
     ],
     "name:zho_x_preferred":[
@@ -115,14 +114,12 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2170628,
         "gp:id":1101305,
-        "qs:id":138828,
         "qs_pg:id":138828,
         "wd:id":"Q4386146",
         "wk:page":"Coolangatta"
@@ -139,7 +136,7 @@
         }
     ],
     "wof:id":85770771,
-    "wof:lastmodified":1562895189,
+    "wof:lastmodified":1566600495,
     "wof:name":"Coolangatta",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

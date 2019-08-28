@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-34.985273,
     "lbl:longitude":138.578738,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-34.985273,
     "mps:longitude":138.578738,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Melrose Park"
     ],
@@ -25,7 +28,7 @@
     "name:rus_x_preferred":[
         "\u041c\u0435\u043b\u0440\u043e\u0437"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Melrose"
     ],
     "qs:a0":"Australia",
@@ -44,7 +47,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":125,
     "wof:belongsto":[
         85681519,
@@ -59,10 +62,12 @@
     "wof:concordances":{
         "gn:id":2066529,
         "gp:id":1103821,
-        "qs:id":1018436,
-        "qs_pg:id":1300390,
+        "qs_pg:id":1018436,
         "wd:id":"Q6813667",
         "wk:page":"Melrose Park, South Australia"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1300390
     },
     "wof:coterminous":[
         404545775
@@ -82,7 +87,7 @@
         }
     ],
     "wof:id":101936273,
-    "wof:lastmodified":1561827812,
+    "wof:lastmodified":1566601109,
     "wof:name":"Melrose Park",
     "wof:parent_id":404545775,
     "wof:placetype":"locality",

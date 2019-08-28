@@ -9,14 +9,16 @@
     "geom:bbox":"153.405521,-27.898313,153.405521,-27.898313",
     "geom:latitude":-27.898313,
     "geom:longitude":153.405521,
-    "gn:gn_country":"AU",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"AU",
+    "gn:fcode":"PPL",
     "gn:latitude":-27.90076,
     "gn:longitude":153.39609,
+    "gn:population":0,
     "iso:country":"AU",
+    "lbl:bbox":"153.400521,-27.903313,153.410521,-27.893313",
     "lbl:latitude":-27.903278,
     "lbl:longitude":153.398506,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-27.903278,
     "mps:longitude":153.398506,
     "mz:hierarchy_label":0,
@@ -42,9 +44,6 @@
     ],
     "name:mya_x_preferred":[
         "\u1001\u1019\u1021\u102d\u101b\u103e\u102d\u1018\u1030\u1010\u102c"
-    ],
-    "name:unk_x_variant":[
-        "Hollywell"
     ],
     "name:zho_x_preferred":[
         "\u91dc\u77f3\u7ad9"
@@ -96,8 +95,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191583,
         1376953307,
@@ -112,7 +110,6 @@
     "wof:concordances":{
         "gn:id":7521753,
         "gp:id":22720811,
-        "qs:id":1076990,
         "qs_pg:id":1076990,
         "wk:page":"Kamaishi Station"
     },
@@ -132,7 +129,7 @@
         }
     ],
     "wof:id":85776325,
-    "wof:lastmodified":1562895066,
+    "wof:lastmodified":1566600466,
     "wof:name":"Hollywell",
     "wof:parent_id":101935253,
     "wof:placetype":"neighbourhood",

@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-33.734739,
     "lbl:longitude":150.452564,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":-33.734739,
     "mps:longitude":150.452564,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Hazelbrook"
     ],
@@ -60,7 +63,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-33.733333,
     "wd:longitude":150.45,
@@ -77,7 +80,6 @@
     "wof:concordances":{
         "gn:id":2163731,
         "gp:id":1102602,
-        "qs:id":229864,
         "qs_pg:id":229864,
         "wd:id":"Q12324458",
         "wk:page":"Hazelbrook, New South Wales"
@@ -99,7 +101,7 @@
         }
     ],
     "wof:id":101930669,
-    "wof:lastmodified":1561827885,
+    "wof:lastmodified":1566601393,
     "wof:name":"Hazelbrook",
     "wof:parent_id":404223879,
     "wof:placetype":"locality",

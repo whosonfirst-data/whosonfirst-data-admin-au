@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-33.936153,
     "lbl:longitude":150.837028,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-33.936153,
     "mps:longitude":150.837028,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "West Hoxton"
     ],
@@ -42,7 +45,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":346,
     "wof:belongsto":[
         85681545,
@@ -57,7 +60,7 @@
     "wof:concordances":{
         "gn:id":2143984,
         "gp:id":1099404,
-        "qs:id":193200,
+        "qs_pg:id":193200,
         "wd:id":"Q7985424",
         "wk:page":"West Hoxton, New South Wales"
     },
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":101932305,
-    "wof:lastmodified":1561827957,
+    "wof:lastmodified":1566601630,
     "wof:name":"West Hoxton",
     "wof:parent_id":404226987,
     "wof:placetype":"locality",

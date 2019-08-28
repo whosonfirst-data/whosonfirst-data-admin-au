@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-24.904887,
     "lbl:longitude":152.357127,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":-24.904887,
     "mps:longitude":152.357127,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Thabeban"
     ],
@@ -34,7 +37,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681463,
@@ -47,7 +50,7 @@
     "wof:concordances":{
         "gn:id":2146992,
         "gp:id":1098879,
-        "qs:id":1189670
+        "qs_pg:id":1189670
     },
     "wof:country":"AU",
     "wof:geomhash":"be09a51ea4570730aa9d193318f1103f",
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":101935445,
-    "wof:lastmodified":1550719893,
+    "wof:lastmodified":1566601685,
     "wof:name":"Thabeban",
     "wof:parent_id":102048763,
     "wof:placetype":"locality",

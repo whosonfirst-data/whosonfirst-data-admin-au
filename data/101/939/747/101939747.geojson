@@ -13,10 +13,13 @@
     "iso:country":"AU",
     "lbl:latitude":-31.632766,
     "lbl:longitude":152.70578,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":-31.632766,
     "mps:longitude":152.70578,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Kendall"
     ],
@@ -53,7 +56,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-31.6333,
     "wd:longitude":152.7,
@@ -70,7 +73,6 @@
     "wof:concordances":{
         "gn:id":2161654,
         "gp:id":1103025,
-        "qs:id":1034054,
         "qs_pg:id":1034054,
         "wd:id":"Q6388877",
         "wk:page":"Kendall, New South Wales"
@@ -89,7 +91,7 @@
         }
     ],
     "wof:id":101939747,
-    "wof:lastmodified":1562899542,
+    "wof:lastmodified":1566601337,
     "wof:name":"Kendall",
     "wof:parent_id":404224185,
     "wof:placetype":"locality",

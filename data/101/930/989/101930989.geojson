@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-33.760729,
     "lbl:longitude":150.929858,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-33.760729,
     "mps:longitude":150.929858,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lalor Park"
     ],
@@ -42,7 +45,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":352,
     "wof:belongsto":[
         85681545,
@@ -57,7 +60,7 @@
     "wof:concordances":{
         "gn:id":8348633,
         "gp:id":22721268,
-        "qs:id":1070854,
+        "qs_pg:id":1070854,
         "wd:id":"Q6480574"
     },
     "wof:coterminous":[
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":101930989,
-    "wof:lastmodified":1561827893,
+    "wof:lastmodified":1566601427,
     "wof:name":"Lalor Park",
     "wof:parent_id":404224409,
     "wof:placetype":"locality",

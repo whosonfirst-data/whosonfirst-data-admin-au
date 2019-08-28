@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-35.09993,
     "lbl:longitude":139.300359,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-35.09993,
     "mps:longitude":139.300359,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Riverglades"
     ],
@@ -33,13 +36,13 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681519,
         102191583,
-        85632793,
-        404546223,
         1376953441,
+        404546223,
+        85632793,
         136253039,
         102048515
     ],
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":101936539,
-    "wof:lastmodified":1550755096,
+    "wof:lastmodified":1566601130,
     "wof:name":"Riverglades",
     "wof:parent_id":404546223,
     "wof:placetype":"locality",

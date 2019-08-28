@@ -9,15 +9,18 @@
     "geom:bbox":"138.72488,-34.92289,138.72488,-34.92289",
     "geom:latitude":-34.92289,
     "geom:longitude":138.72488,
-    "gn:gn_country":"AU",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":319,
+    "gn:country":"AU",
+    "gn:fcode":"PPL",
     "gn:population":319,
     "iso:country":"AU",
+    "lbl:bbox":"138.70488,-34.94289,138.74488,-34.90289",
     "lbl:latitude":-34.92289,
     "lbl:longitude":138.72488,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Norton Summit"
@@ -226,7 +229,7 @@
     "name:tur_x_preferred":[
         "Norton Summit"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Norton's Summit"
     ],
     "name:vec_x_preferred":[
@@ -274,7 +277,7 @@
     "qs_pg:woe_adm0":23424748,
     "qs_pg:woe_id":1097862,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
@@ -310,7 +313,7 @@
         }
     ],
     "wof:id":1125813731,
-    "wof:lastmodified":1562922570,
+    "wof:lastmodified":1566603321,
     "wof:name":"Norton Summit",
     "wof:parent_id":404545979,
     "wof:placetype":"locality",

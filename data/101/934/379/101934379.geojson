@@ -12,10 +12,13 @@
     "iso:country":"AU",
     "lbl:latitude":-25.275279,
     "lbl:longitude":152.803753,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-25.275279,
     "mps:longitude":152.803753,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Eli Waters"
     ],
@@ -39,7 +42,7 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":84,
     "wof:belongsto":[
         85681463,
@@ -53,7 +56,7 @@
     "wof:concordances":{
         "gn:id":8348689,
         "gp:id":28584970,
-        "qs:id":245190,
+        "qs_pg:id":245190,
         "wd:id":"Q7190033"
     },
     "wof:coterminous":[
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":101934379,
-    "wof:lastmodified":1562902549,
+    "wof:lastmodified":1566601716,
     "wof:name":"Eli Waters",
     "wof:parent_id":404542109,
     "wof:placetype":"locality",
