@@ -85,7 +85,7 @@
     "qs_pg:woe_id":1102217,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"New South Wales",
@@ -101,6 +101,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"NSW1644",
+        "ausstat:2016":"SSC11626",
         "gn:id":2165558,
         "gp:id":1102217,
         "qs_pg:id":956043
@@ -120,11 +121,11 @@
         }
     ],
     "wof:id":1126026741,
-    "wof:lastmodified":1566798164,
+    "wof:lastmodified":1567055584,
     "wof:name":"Gilmore",
     "wof:parent_id":404223551,
     "wof:placetype":"locality",
-    "wof:population":394,
+    "wof:population":177,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],

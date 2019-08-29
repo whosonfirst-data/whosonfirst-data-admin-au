@@ -36,6 +36,7 @@
     "qs_pg:woe_id":28587015,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Tasmania",
@@ -51,6 +52,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"TAS541",
+        "ausstat:2016":"SSC60539",
         "gp:id":28587015,
         "qs_pg:id":1197181
     },
@@ -69,10 +71,11 @@
         }
     ],
     "wof:id":1125871483,
-    "wof:lastmodified":1566801614,
+    "wof:lastmodified":1567059344,
     "wof:name":"Relbia",
     "wof:parent_id":404549339,
     "wof:placetype":"locality",
+    "wof:population":678,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

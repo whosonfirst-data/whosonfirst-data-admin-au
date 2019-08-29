@@ -149,6 +149,7 @@
     "src:geom":"aus-psma",
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "wd:wordcount":247,
     "wof:belongsto":[
         85681463,
@@ -160,7 +161,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "aus-psma":"QLD1176"
+        "aus-psma":"QLD1176",
+        "ausstat:2016":"SSC31168"
     },
     "wof:coterminous":[
         404542327
@@ -179,10 +181,11 @@
         }
     ],
     "wof:id":101934453,
-    "wof:lastmodified":1566799799,
+    "wof:lastmodified":1567057830,
     "wof:name":"Glendale",
     "wof:parent_id":404542327,
     "wof:placetype":"locality",
+    "wof:population":614,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

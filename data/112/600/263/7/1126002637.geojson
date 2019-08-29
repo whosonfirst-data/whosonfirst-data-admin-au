@@ -40,6 +40,7 @@
     "qs_pg:woe_id":22721840,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Victoria",
@@ -55,6 +56,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"VIC1712",
+        "ausstat:2016":"SSC21706",
         "gp:id":22721840,
         "qs_pg:id":44762,
         "wd:id":"Q16980709"
@@ -74,10 +76,11 @@
         }
     ],
     "wof:id":1126002637,
-    "wof:lastmodified":1566802038,
+    "wof:lastmodified":1567057126,
     "wof:name":"Moggs Creek",
     "wof:parent_id":404538563,
     "wof:placetype":"locality",
+    "wof:population":89,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

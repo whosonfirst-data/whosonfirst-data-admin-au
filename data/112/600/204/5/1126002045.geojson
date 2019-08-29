@@ -39,6 +39,7 @@
     "qs_pg:woe_id":22722099,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Victoria",
@@ -55,6 +56,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"VIC2942",
+        "ausstat:2016":"SSC22926",
         "gp:id":22722099,
         "qs_pg:id":43477,
         "wd:id":"Q8061752"
@@ -75,10 +77,11 @@
         }
     ],
     "wof:id":1126002045,
-    "wof:lastmodified":1566802520,
+    "wof:lastmodified":1567057522,
     "wof:name":"Yuroke",
     "wof:parent_id":404540939,
     "wof:placetype":"locality",
+    "wof:population":142,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

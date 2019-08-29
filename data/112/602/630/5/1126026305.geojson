@@ -40,7 +40,7 @@
     "qs_pg:woe_id":1096885,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"New South Wales",
@@ -56,6 +56,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"NSW2335",
+        "ausstat:2016":"SSC12312",
         "gn:id":2160274,
         "gp:id":1096885,
         "qs_pg:id":955516
@@ -75,11 +76,11 @@
         }
     ],
     "wof:id":1126026305,
-    "wof:lastmodified":1566798468,
+    "wof:lastmodified":1567055823,
     "wof:name":"Lewis Ponds",
     "wof:parent_id":404224483,
     "wof:placetype":"locality",
-    "wof:population":560,
+    "wof:population":147,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],

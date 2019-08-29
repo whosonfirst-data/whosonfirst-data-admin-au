@@ -34,7 +34,7 @@
     ],
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681583,
         102191583,
@@ -46,6 +46,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"TAS225",
+        "ausstat:2016":"SSC60224",
         "gn:id":2165476
     },
     "wof:country":"AU",
@@ -62,11 +63,11 @@
         }
     ],
     "wof:id":1243547129,
-    "wof:lastmodified":1566801453,
+    "wof:lastmodified":1567059243,
     "wof:name":"Gladstone",
     "wof:parent_id":404549503,
     "wof:placetype":"locality",
-    "wof:population":43,
+    "wof:population":139,
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],

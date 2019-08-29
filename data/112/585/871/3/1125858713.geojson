@@ -42,7 +42,7 @@
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681519,
         102191583,
@@ -54,6 +54,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"SA1247",
+        "ausstat:2016":"SSC41295",
         "gn:id":2061835,
         "qs_pg:id":90704,
         "wd:id":"Q7430678"
@@ -73,11 +74,11 @@
         }
     ],
     "wof:id":1125858713,
-    "wof:lastmodified":1566800847,
+    "wof:lastmodified":1567058675,
     "wof:name":"Sceale Bay",
     "wof:parent_id":404546365,
     "wof:placetype":"locality",
-    "wof:population":389,
+    "wof:population":42,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],

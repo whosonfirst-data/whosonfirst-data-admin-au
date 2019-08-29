@@ -45,7 +45,7 @@
     "qs_pg:woe_id":1098837,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Tasmania",
@@ -62,6 +62,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"TAS667",
+        "ausstat:2016":"SSC60664",
         "gn:id":2147229,
         "gp:id":1098837,
         "qs_pg:id":993449
@@ -82,11 +83,11 @@
         }
     ],
     "wof:id":1125980859,
-    "wof:lastmodified":1566801679,
+    "wof:lastmodified":1567059384,
     "wof:name":"Tea Tree",
     "wof:parent_id":404549497,
     "wof:placetype":"locality",
-    "wof:population":573,
+    "wof:population":413,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],

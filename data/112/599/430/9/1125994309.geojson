@@ -43,7 +43,7 @@
     "qs_pg:woe_id":1097959,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Tasmania",
@@ -59,6 +59,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"TAS477",
+        "ausstat:2016":"SSC60475",
         "gn:id":2154188,
         "gp:id":1097959,
         "qs_pg:id":999728
@@ -78,11 +79,11 @@
         }
     ],
     "wof:id":1125994309,
-    "wof:lastmodified":1566801581,
+    "wof:lastmodified":1567059325,
     "wof:name":"Orielton",
     "wof:parent_id":404549263,
     "wof:placetype":"locality",
-    "wof:population":717,
+    "wof:population":355,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],

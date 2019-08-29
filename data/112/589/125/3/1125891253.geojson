@@ -109,7 +109,7 @@
     "qs_pg:woe_id":1097016,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Western Australia",
@@ -125,6 +125,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"WA2805",
+        "ausstat:2016":"SSC50858",
         "gn:id":2067367,
         "gp:id":1097016,
         "qs_pg:id":917170
@@ -144,11 +145,11 @@
         }
     ],
     "wof:id":1125891253,
-    "wof:lastmodified":1566803154,
+    "wof:lastmodified":1567058970,
     "wof:name":"Ludlow",
     "wof:parent_id":404547693,
     "wof:placetype":"locality",
-    "wof:population":159,
+    "wof:population":108,
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],

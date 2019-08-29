@@ -48,6 +48,7 @@
     "qs_pg:woe_id":1101841,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"New South Wales",
@@ -63,6 +64,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"NSW1397",
+        "ausstat:2016":"SSC11380",
         "gn:id":2167767,
         "gp:id":1101841,
         "qs_pg:id":193273,
@@ -83,10 +85,11 @@
         }
     ],
     "wof:id":1125785273,
-    "wof:lastmodified":1566798057,
+    "wof:lastmodified":1567055501,
     "wof:name":"Edgeroi",
     "wof:parent_id":404221777,
     "wof:placetype":"locality",
+    "wof:population":109,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

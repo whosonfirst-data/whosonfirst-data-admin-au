@@ -60,6 +60,7 @@
     "qs_pg:woe_id":28595960,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"New South Wales",
@@ -75,6 +76,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"NSW882",
+        "ausstat:2016":"SSC10868",
         "gp:id":28595960,
         "qs_pg:id":985755
     },
@@ -93,10 +95,11 @@
         }
     ],
     "wof:id":1125935671,
-    "wof:lastmodified":1566799593,
+    "wof:lastmodified":1567055332,
     "wof:name":"Cedar Creek",
     "wof:parent_id":404224889,
     "wof:placetype":"locality",
+    "wof:population":33,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -54,7 +54,7 @@
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681545,
         102191583,
@@ -66,6 +66,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"NSW2619",
+        "ausstat:2016":"SSC12598",
         "gn:id":2157926,
         "qs_pg:id":91016,
         "wd:id":"Q6836647"
@@ -85,11 +86,11 @@
         }
     ],
     "wof:id":1125859453,
-    "wof:lastmodified":1566798586,
+    "wof:lastmodified":1567055919,
     "wof:name":"Michelago",
     "wof:parent_id":404224867,
     "wof:placetype":"locality",
-    "wof:population":795,
+    "wof:population":562,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],

@@ -38,6 +38,7 @@
     "src:geom":"aus-psma",
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681545,
         102191583,
@@ -49,6 +50,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"NSW1052",
+        "ausstat:2016":"SSC11038",
         "gn:id":8219744,
         "gp:id":28644998
     },
@@ -69,10 +71,11 @@
         }
     ],
     "wof:id":101929983,
-    "wof:lastmodified":1566797920,
+    "wof:lastmodified":1567055387,
     "wof:name":"Coomba Park",
     "wof:parent_id":404222777,
     "wof:placetype":"locality",
+    "wof:population":625,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

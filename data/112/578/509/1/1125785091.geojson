@@ -42,6 +42,7 @@
     "qs_pg:woe_id":1101320,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"South Australia",
@@ -57,6 +58,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"SA291",
+        "ausstat:2016":"SSC40298",
         "gn:id":2073848,
         "gp:id":1101320,
         "qs_pg:id":193247,
@@ -77,10 +79,11 @@
         }
     ],
     "wof:id":1125785091,
-    "wof:lastmodified":1566801124,
+    "wof:lastmodified":1567058423,
     "wof:name":"Coomandook",
     "wof:parent_id":404546685,
     "wof:placetype":"locality",
+    "wof:population":112,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

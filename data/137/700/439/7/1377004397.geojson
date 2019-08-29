@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"133.882345,-23.698651,133.882345,-23.698651",
     "geom:latitude":-23.698651,
     "geom:longitude":133.882345,
@@ -189,6 +189,7 @@
     ],
     "src:geom":"aus-psma",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681533,
         102191583,
@@ -200,7 +201,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "aus-psma:pid":"SUA16_7001"
+        "aus-psma:pid":"SUA16_7001",
+        "ausstat:2016":"SSC70005"
     },
     "wof:coterminous":[
         1376953387
@@ -226,10 +228,11 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1562903687,
+    "wof:lastmodified":1567059417,
     "wof:name":"Alice Springs",
     "wof:parent_id":404549623,
     "wof:placetype":"locality",
+    "wof:population":300,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

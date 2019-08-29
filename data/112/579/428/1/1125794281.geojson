@@ -53,6 +53,7 @@
     "qs_pg:woe_id":1105682,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Victoria",
@@ -68,6 +69,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"VIC2360",
+        "ausstat:2016":"SSC22345",
         "gn:id":2148406,
         "gp:id":1105682,
         "qs_pg:id":472206,
@@ -88,10 +90,11 @@
         }
     ],
     "wof:id":1125794281,
-    "wof:lastmodified":1566802305,
+    "wof:lastmodified":1567057359,
     "wof:name":"Steiglitz",
     "wof:parent_id":404540187,
     "wof:placetype":"locality",
+    "wof:population":53,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

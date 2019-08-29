@@ -48,6 +48,7 @@
     "qs_pg:woe_id":28588832,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Northern Territory",
@@ -63,6 +64,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"NT186",
+        "ausstat:2016":"SSC70184",
         "gp:id":28588832,
         "qs_pg:id":1154858,
         "wd:id":"Q6841531"
@@ -82,10 +84,11 @@
         }
     ],
     "wof:id":1125975849,
-    "wof:lastmodified":1566799680,
+    "wof:lastmodified":1567059457,
     "wof:name":"Middle Point",
     "wof:parent_id":404549763,
     "wof:placetype":"locality",
+    "wof:population":58,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

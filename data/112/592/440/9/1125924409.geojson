@@ -51,6 +51,7 @@
     "qs_pg:woe_id":28584958,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Tasmania",
@@ -66,6 +67,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"TAS179",
+        "ausstat:2016":"SSC60178",
         "gp:id":28584958,
         "qs_pg:id":216077
     },
@@ -84,10 +86,11 @@
         }
     ],
     "wof:id":1125924409,
-    "wof:lastmodified":1566801426,
+    "wof:lastmodified":1567059227,
     "wof:name":"Eddystone",
     "wof:parent_id":404549201,
     "wof:placetype":"locality",
+    "wof:population":0,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

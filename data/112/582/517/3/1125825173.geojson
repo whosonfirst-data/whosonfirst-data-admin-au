@@ -107,6 +107,7 @@
     "qs_pg:woe_id":1102738,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Queensland",
@@ -122,6 +123,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"QLD1412",
+        "ausstat:2016":"SSC31398",
         "gn:id":2162781,
         "gp:id":1102738,
         "qs_pg:id":1034095,
@@ -142,10 +144,11 @@
         }
     ],
     "wof:id":1125825173,
-    "wof:lastmodified":1566799872,
+    "wof:lastmodified":1567057887,
     "wof:name":"Ilfracombe",
     "wof:parent_id":404542595,
     "wof:placetype":"locality",
+    "wof:population":259,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

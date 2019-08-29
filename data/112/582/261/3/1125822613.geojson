@@ -51,7 +51,7 @@
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681545,
         102191583,
@@ -63,6 +63,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"NSW542",
+        "ausstat:2016":"SSC10535",
         "gn:id":2174406,
         "qs_pg:id":138875,
         "wd:id":"Q594981"
@@ -82,11 +83,11 @@
         }
     ],
     "wof:id":1125822613,
-    "wof:lastmodified":1566799448,
+    "wof:lastmodified":1567055221,
     "wof:name":"Bowning",
     "wof:parent_id":404222131,
     "wof:placetype":"locality",
-    "wof:population":411,
+    "wof:population":573,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],

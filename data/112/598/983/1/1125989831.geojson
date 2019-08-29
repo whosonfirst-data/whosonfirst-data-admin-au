@@ -50,6 +50,7 @@
     "qs_pg:woe_id":1104018,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"South Australia",
@@ -66,6 +67,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"SA858",
+        "ausstat:2016":"SSC40896",
         "gn:id":2066003,
         "gp:id":1104018,
         "qs_pg:id":484729,
@@ -87,10 +89,11 @@
         }
     ],
     "wof:id":1125989831,
-    "wof:lastmodified":1566801339,
+    "wof:lastmodified":1567058568,
     "wof:name":"Monarto South",
     "wof:parent_id":404545827,
     "wof:placetype":"locality",
+    "wof:population":159,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

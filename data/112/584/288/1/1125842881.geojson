@@ -75,7 +75,7 @@
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681545,
         102191583,
@@ -87,6 +87,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"NSW1914",
+        "ausstat:2016":"SSC11896",
         "gn:id":2163543,
         "qs_pg:id":91039
     },
@@ -105,11 +106,11 @@
         }
     ],
     "wof:id":1125842881,
-    "wof:lastmodified":1566798283,
+    "wof:lastmodified":1567055676,
     "wof:name":"Hernani",
     "wof:parent_id":404223905,
     "wof:placetype":"locality",
-    "wof:population":208,
+    "wof:population":126,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],

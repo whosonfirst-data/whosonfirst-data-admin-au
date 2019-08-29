@@ -53,6 +53,7 @@
     "qs_pg:woe_id":1097146,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Queensland",
@@ -69,6 +70,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"QLD1828",
+        "ausstat:2016":"SSC31800",
         "gn:id":2158530,
         "gp:id":1097146,
         "qs_pg:id":39992
@@ -89,10 +91,11 @@
         }
     ],
     "wof:id":1125872507,
-    "wof:lastmodified":1566800001,
+    "wof:lastmodified":1567057987,
     "wof:name":"Massie",
     "wof:parent_id":404541965,
     "wof:placetype":"locality",
+    "wof:population":91,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

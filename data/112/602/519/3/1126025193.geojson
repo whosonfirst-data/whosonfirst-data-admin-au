@@ -36,6 +36,7 @@
     "qs_pg:woe_id":1103953,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Western Australia",
@@ -51,6 +52,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"WA1737",
+        "ausstat:2016":"SSC50955",
         "gp:id":1103953,
         "qs_pg:id":990360
     },
@@ -69,10 +71,11 @@
         }
     ],
     "wof:id":1126025193,
-    "wof:lastmodified":1566802845,
+    "wof:lastmodified":1567058992,
     "wof:name":"Minilya",
     "wof:parent_id":404547699,
     "wof:placetype":"locality",
+    "wof:population":19,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

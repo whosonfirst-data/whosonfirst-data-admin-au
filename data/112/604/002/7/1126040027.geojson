@@ -42,7 +42,7 @@
     "qs_pg:woe_id":1101715,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"New South Wales",
@@ -58,6 +58,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"NSW1286",
+        "ausstat:2016":"SSC11273",
         "gn:id":2168566,
         "gp:id":1101715,
         "qs_pg:id":970127
@@ -77,11 +78,11 @@
         }
     ],
     "wof:id":1126040027,
-    "wof:lastmodified":1566798010,
+    "wof:lastmodified":1567055464,
     "wof:name":"Doon Doon",
     "wof:parent_id":404225949,
     "wof:placetype":"locality",
-    "wof:population":429,
+    "wof:population":97,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],

@@ -102,6 +102,7 @@
     "qs_pg:woe_id":1105514,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Victoria",
@@ -117,6 +118,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"VIC2258",
+        "ausstat:2016":"SSC22243",
         "gn:id":2149939,
         "gp:id":1105514,
         "qs_pg:id":1013261,
@@ -137,10 +139,11 @@
         }
     ],
     "wof:id":1126011269,
-    "wof:lastmodified":1566802264,
+    "wof:lastmodified":1567057326,
     "wof:name":"Sebastian",
     "wof:parent_id":404540161,
     "wof:placetype":"locality",
+    "wof:population":217,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

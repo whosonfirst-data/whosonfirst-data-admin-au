@@ -50,6 +50,7 @@
     "qs_pg:woe_id":1099742,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Victoria",
@@ -66,6 +67,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"VIC2931",
+        "ausstat:2016":"SSC22915",
         "gn:id":2142313,
         "gp:id":1099742,
         "qs_pg:id":1083529,
@@ -87,10 +89,11 @@
         }
     ],
     "wof:id":1125810793,
-    "wof:lastmodified":1566802517,
+    "wof:lastmodified":1567057517,
     "wof:name":"Yering",
     "wof:parent_id":404538209,
     "wof:placetype":"locality",
+    "wof:population":115,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

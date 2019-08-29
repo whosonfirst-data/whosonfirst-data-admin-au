@@ -40,6 +40,7 @@
     "qs_pg:woe_id":1095876,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Tasmania",
@@ -55,6 +56,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"TAS220",
+        "ausstat:2016":"SSC60219",
         "gn:id":2165872,
         "gp:id":1095876,
         "qs_pg:id":886305
@@ -74,10 +76,11 @@
         }
     ],
     "wof:id":1125985729,
-    "wof:lastmodified":1566801450,
+    "wof:lastmodified":1567059241,
     "wof:name":"Gardners Bay",
     "wof:parent_id":404548941,
     "wof:placetype":"locality",
+    "wof:population":329,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -33,7 +33,7 @@
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681545,
         102191583,
@@ -45,6 +45,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"NSW2098",
+        "ausstat:2016":"SSC12075",
         "gn:id":2161802,
         "qs_pg:id":572932
     },
@@ -63,11 +64,11 @@
         }
     ],
     "wof:id":1126011813,
-    "wof:lastmodified":1566798365,
+    "wof:lastmodified":1567055741,
     "wof:name":"Kars Springs",
     "wof:parent_id":404222303,
     "wof:placetype":"locality",
-    "wof:population":252,
+    "wof:population":32,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],

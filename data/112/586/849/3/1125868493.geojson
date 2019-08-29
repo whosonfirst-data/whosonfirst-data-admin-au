@@ -48,7 +48,7 @@
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681519,
         102191583,
@@ -60,6 +60,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"SA38",
+        "ausstat:2016":"SSC40042",
         "gn:id":2077522,
         "qs_pg:id":138230,
         "wd:id":"Q4800824"
@@ -79,11 +80,11 @@
         }
     ],
     "wof:id":1125868493,
-    "wof:lastmodified":1566801159,
+    "wof:lastmodified":1567058362,
     "wof:name":"Arthurton",
     "wof:parent_id":404544905,
     "wof:placetype":"locality",
-    "wof:population":293,
+    "wof:population":148,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],

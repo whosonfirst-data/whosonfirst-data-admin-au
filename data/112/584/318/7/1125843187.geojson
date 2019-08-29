@@ -61,7 +61,7 @@
     "qs_pg:woe_id":1102646,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Western Australia",
@@ -77,6 +77,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"WA2003",
+        "ausstat:2016":"SSC50630",
         "gn:id":2069815,
         "gp:id":1102646,
         "qs_pg:id":777822,
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":1125843187,
-    "wof:lastmodified":1566802932,
+    "wof:lastmodified":1567058913,
     "wof:name":"Higginsville",
     "wof:parent_id":404547859,
     "wof:placetype":"locality",

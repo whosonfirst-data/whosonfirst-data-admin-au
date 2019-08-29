@@ -60,6 +60,7 @@
     "qs_pg:woe_id":28584681,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Tasmania",
@@ -75,6 +76,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"TAS133",
+        "ausstat:2016":"SSC60132",
         "gp:id":28584681,
         "qs_pg:id":901210
     },
@@ -93,10 +95,11 @@
         }
     ],
     "wof:id":1125995689,
-    "wof:lastmodified":1566801404,
+    "wof:lastmodified":1567059213,
     "wof:name":"Cradle Mountain",
     "wof:parent_id":404549157,
     "wof:placetype":"locality",
+    "wof:population":66,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

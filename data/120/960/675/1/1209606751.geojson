@@ -31,12 +31,14 @@
     "mz:is_current":0,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85632793
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"VIC1683",
+        "ausstat:2016":"SSC21678",
         "gn:id":2157580
     },
     "wof:country":"AU",
@@ -48,10 +50,11 @@
         }
     ],
     "wof:id":1209606751,
-    "wof:lastmodified":1566802025,
+    "wof:lastmodified":1567057117,
     "wof:name":"Mincha",
     "wof:parent_id":85632793,
     "wof:placetype":"locality",
+    "wof:population":50,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -72,6 +72,7 @@
     "qs_pg:woe_id":1095563,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Western Australia",
@@ -87,6 +88,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"WA2002",
+        "ausstat:2016":"SSC50438",
         "gn:id":2072453,
         "gp:id":1095563,
         "qs_pg:id":1013895,
@@ -107,10 +109,11 @@
         }
     ],
     "wof:id":1126010623,
-    "wof:lastmodified":1566802932,
+    "wof:lastmodified":1567058869,
     "wof:name":"Dundas",
     "wof:parent_id":404547259,
     "wof:placetype":"locality",
+    "wof:population":0,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

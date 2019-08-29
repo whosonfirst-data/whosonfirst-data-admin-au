@@ -48,6 +48,7 @@
     "qs_pg:woe_id":1106857,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Queensland",
@@ -63,6 +64,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"QLD3229",
+        "ausstat:2016":"SSC33177",
         "gn:id":2142990,
         "gp:id":1106857,
         "qs_pg:id":1033868,
@@ -83,10 +85,11 @@
         }
     ],
     "wof:id":1125829389,
-    "wof:lastmodified":1566800464,
+    "wof:lastmodified":1567058331,
     "wof:name":"Woolooga",
     "wof:parent_id":404544761,
     "wof:placetype":"locality",
+    "wof:population":247,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

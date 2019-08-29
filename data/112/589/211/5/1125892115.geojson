@@ -60,6 +60,7 @@
     "qs_pg:woe_id":1105768,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"New South Wales",
@@ -76,6 +77,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"NSW3737",
+        "ausstat:2016":"SSC13703",
         "gn:id":2147795,
         "gp:id":1105768,
         "qs_pg:id":302031,
@@ -97,10 +99,11 @@
         }
     ],
     "wof:id":1125892115,
-    "wof:lastmodified":1566799062,
+    "wof:lastmodified":1567056289,
     "wof:name":"Sutton Forest",
     "wof:parent_id":404226343,
     "wof:placetype":"locality",
+    "wof:population":477,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

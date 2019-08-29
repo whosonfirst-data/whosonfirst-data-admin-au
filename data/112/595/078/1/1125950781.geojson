@@ -41,6 +41,7 @@
     "qs_pg:woe_id":1095539,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Western Australia",
@@ -56,6 +57,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"WA2604",
+        "ausstat:2016":"SSC50426",
         "gn:id":2072542,
         "gp:id":1095539,
         "qs_pg:id":987835
@@ -75,10 +77,11 @@
         }
     ],
     "wof:id":1125950781,
-    "wof:lastmodified":1566803095,
+    "wof:lastmodified":1567058867,
     "wof:name":"Dryandra",
     "wof:parent_id":404547109,
     "wof:placetype":"locality",
+    "wof:population":3,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -57,7 +57,7 @@
     "src:geom":"aus-psma",
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681545,
         102191583,
@@ -70,6 +70,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"NSW3027",
+        "ausstat:2016":"SSC12999",
         "gn:id":6693769,
         "wd:id":"Q7056174",
         "wk:page":"North Narrabeen, New South Wales"
@@ -92,11 +93,11 @@
         }
     ],
     "wof:id":101931451,
-    "wof:lastmodified":1566798761,
+    "wof:lastmodified":1567056053,
     "wof:name":"North Narrabeen",
     "wof:parent_id":404225369,
     "wof:placetype":"locality",
-    "wof:population":5280,
+    "wof:population":5852,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],

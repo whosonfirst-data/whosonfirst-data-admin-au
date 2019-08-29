@@ -65,6 +65,7 @@
     "qs_pg:woe_id":22722133,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"South Australia",
@@ -80,6 +81,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"SA515",
+        "ausstat:2016":"SSC40529",
         "gn:id":8348172,
         "qs_pg:id":1115338,
         "wd:id":"Q5604110",
@@ -100,10 +102,11 @@
         }
     ],
     "wof:id":1108980075,
-    "wof:lastmodified":1566801218,
+    "wof:lastmodified":1567058484,
     "wof:name":"Greenhill",
     "wof:parent_id":404545425,
     "wof:placetype":"locality",
+    "wof:population":421,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

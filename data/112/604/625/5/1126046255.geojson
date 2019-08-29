@@ -41,6 +41,7 @@
     "qs_pg:woe_id":1102826,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"New South Wales",
@@ -56,6 +57,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"NSW2028",
+        "ausstat:2016":"SSC12005",
         "gn:id":2162374,
         "gp:id":1102826,
         "qs_pg:id":975045
@@ -75,10 +77,11 @@
         }
     ],
     "wof:id":1126046255,
-    "wof:lastmodified":1566798334,
+    "wof:lastmodified":1567055716,
     "wof:name":"Jellat Jellat",
     "wof:parent_id":404224057,
     "wof:placetype":"locality",
+    "wof:population":84,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

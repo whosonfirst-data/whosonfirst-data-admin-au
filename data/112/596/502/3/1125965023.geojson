@@ -40,7 +40,7 @@
     "qs_pg:woe_id":1095280,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"New South Wales",
@@ -56,6 +56,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"NSW1114",
+        "ausstat:2016":"SSC11102",
         "gn:id":2170112,
         "gp:id":1095280,
         "qs_pg:id":187644
@@ -75,11 +76,11 @@
         }
     ],
     "wof:id":1125965023,
-    "wof:lastmodified":1566797945,
+    "wof:lastmodified":1567055405,
     "wof:name":"Crabbes Creek",
     "wof:parent_id":404222849,
     "wof:placetype":"locality",
-    "wof:population":583,
+    "wof:population":290,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],

@@ -111,7 +111,7 @@
     "qs_pg:woe_id":1098925,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Queensland",
@@ -127,6 +127,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"QLD2891",
+        "ausstat:2016":"SSC32844",
         "gn:id":2146778,
         "gp:id":1098925,
         "qs_pg:id":326738
@@ -146,11 +147,11 @@
         }
     ],
     "wof:id":1126047785,
-    "wof:lastmodified":1566800353,
+    "wof:lastmodified":1567058259,
     "wof:name":"Thornton",
     "wof:parent_id":404544381,
     "wof:placetype":"locality",
-    "wof:population":420,
+    "wof:population":201,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],

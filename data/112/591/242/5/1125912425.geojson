@@ -41,6 +41,7 @@
     "qs_pg:woe_id":1098036,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Victoria",
@@ -56,6 +57,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"VIC2042",
+        "ausstat:2016":"SSC22034",
         "gn:id":2153694,
         "gp:id":1098036,
         "qs_pg:id":58600
@@ -75,10 +77,11 @@
         }
     ],
     "wof:id":1125912425,
-    "wof:lastmodified":1566802170,
+    "wof:lastmodified":1567057234,
     "wof:name":"Patho",
     "wof:parent_id":404539917,
     "wof:placetype":"locality",
+    "wof:population":108,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

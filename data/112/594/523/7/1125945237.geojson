@@ -40,7 +40,7 @@
     "qs_pg:woe_id":1096143,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"New South Wales",
@@ -56,6 +56,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"NSW1799",
+        "ausstat:2016":"SSC11783",
         "gn:id":2164409,
         "gp:id":1096143,
         "qs_pg:id":1141690
@@ -75,11 +76,11 @@
         }
     ],
     "wof:id":1125945237,
-    "wof:lastmodified":1566798231,
+    "wof:lastmodified":1567055638,
     "wof:name":"Grogan",
     "wof:parent_id":404226057,
     "wof:placetype":"locality",
-    "wof:population":125,
+    "wof:population":90,
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],

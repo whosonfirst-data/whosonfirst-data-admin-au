@@ -42,6 +42,7 @@
     "qs_pg:woe_id":28585106,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Queensland",
@@ -57,6 +58,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"QLD1093",
+        "ausstat:2016":"SSC31085",
         "gp:id":28585106,
         "qs_pg:id":32767
     },
@@ -75,10 +77,11 @@
         }
     ],
     "wof:id":1125858737,
-    "wof:lastmodified":1566799780,
+    "wof:lastmodified":1567057816,
     "wof:name":"Forty Mile",
     "wof:parent_id":404542633,
     "wof:placetype":"locality",
+    "wof:population":20,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

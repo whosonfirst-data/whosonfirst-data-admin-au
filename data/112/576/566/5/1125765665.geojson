@@ -48,6 +48,7 @@
     "qs_pg:woe_id":28584470,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"New South Wales",
@@ -64,6 +65,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"NSW845",
+        "ausstat:2016":"SSC10831",
         "gp:id":28584470,
         "qs_pg:id":424106,
         "wd:id":"Q5046437"
@@ -84,10 +86,11 @@
         }
     ],
     "wof:id":1125765665,
-    "wof:lastmodified":1566799573,
+    "wof:lastmodified":1567055317,
     "wof:name":"Carrington Falls",
     "wof:parent_id":404225875,
     "wof:placetype":"locality",
+    "wof:population":20,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

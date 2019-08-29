@@ -41,6 +41,7 @@
     "qs_pg:woe_id":1102169,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"New South Wales",
@@ -56,6 +57,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"NSW1614",
+        "ausstat:2016":"SSC11596",
         "gn:id":2165800,
         "gp:id":1102169,
         "qs_pg:id":1027847
@@ -75,10 +77,11 @@
         }
     ],
     "wof:id":1125899439,
-    "wof:lastmodified":1566798152,
+    "wof:lastmodified":1567055576,
     "wof:name":"Geehi",
     "wof:parent_id":404225445,
     "wof:placetype":"locality",
+    "wof:population":0,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

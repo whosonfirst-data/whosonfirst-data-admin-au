@@ -57,7 +57,7 @@
     "src:geom":"aus-psma",
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"ausstat:2016",
     "wd:latitude":-33.28,
     "wd:longitude":115.726,
     "wd:wordcount":1304,
@@ -72,6 +72,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"WA2485",
+        "ausstat:2016":"SSC50039",
         "gn:id":2077454,
         "wd:id":"Q765181"
     },
@@ -92,11 +93,11 @@
         }
     ],
     "wof:id":101936845,
-    "wof:lastmodified":1566803067,
+    "wof:lastmodified":1567058773,
     "wof:name":"Australind",
     "wof:parent_id":404546741,
     "wof:placetype":"locality",
-    "wof:population":8716,
+    "wof:population":14539,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],

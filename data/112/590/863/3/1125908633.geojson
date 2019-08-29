@@ -40,7 +40,7 @@
     "qs_pg:woe_id":1096744,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Western Australia",
@@ -56,6 +56,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"WA2101",
+        "ausstat:2016":"SSC50785",
         "gn:id":2068157,
         "gp:id":1096744,
         "qs_pg:id":917167
@@ -75,11 +76,11 @@
         }
     ],
     "wof:id":1125908633,
-    "wof:lastmodified":1566802955,
+    "wof:lastmodified":1567058954,
     "wof:name":"Kulikup",
     "wof:parent_id":404547757,
     "wof:placetype":"locality",
-    "wof:population":107,
+    "wof:population":115,
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],

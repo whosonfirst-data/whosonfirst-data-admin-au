@@ -47,6 +47,7 @@
     "qs_pg:woe_id":1100223,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Queensland",
@@ -62,6 +63,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"QLD202",
+        "ausstat:2016":"SSC30200",
         "gn:id":2176433,
         "gp:id":1100223,
         "qs_pg:id":213390,
@@ -82,10 +84,11 @@
         }
     ],
     "wof:id":1125904997,
-    "wof:lastmodified":1566800070,
+    "wof:lastmodified":1567057594,
     "wof:name":"Beechmont",
     "wof:parent_id":404541211,
     "wof:placetype":"locality",
+    "wof:population":842,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

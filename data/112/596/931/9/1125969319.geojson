@@ -42,6 +42,7 @@
     "qs_pg:woe_id":1105299,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Western Australia",
@@ -57,6 +58,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"WA2078",
+        "ausstat:2016":"SSC51281",
         "gp:id":1105299,
         "qs_pg:id":512527,
         "wd:id":"Q7307960"
@@ -76,10 +78,11 @@
         }
     ],
     "wof:id":1125969319,
-    "wof:lastmodified":1566802951,
+    "wof:lastmodified":1567059077,
     "wof:name":"Regans Ford",
     "wof:parent_id":404548513,
     "wof:placetype":"locality",
+    "wof:population":25,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

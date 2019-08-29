@@ -35,6 +35,7 @@
     "src:geom":"aus-psma",
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681545,
         102191583,
@@ -45,7 +46,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "aus-psma":"NSW1885"
+        "aus-psma":"NSW1885",
+        "ausstat:2016":"SSC11867"
     },
     "wof:coterminous":[
         404223859
@@ -64,10 +66,11 @@
         }
     ],
     "wof:id":101930647,
-    "wof:lastmodified":1566798269,
+    "wof:lastmodified":1567055665,
     "wof:name":"Hassans Walls",
     "wof:parent_id":404223859,
     "wof:placetype":"locality",
+    "wof:population":0,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[

@@ -63,6 +63,7 @@
     "qs_pg:woe_id":22739303,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Tasmania",
@@ -79,6 +80,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"TAS75",
+        "ausstat:2016":"SSC60075",
         "gn:id":8348338,
         "qs_pg:id":905093,
         "wd:id":"Q2756444",
@@ -100,10 +102,11 @@
         }
     ],
     "wof:id":1108980011,
-    "wof:lastmodified":1566801719,
+    "wof:lastmodified":1567059198,
     "wof:name":"Brighton",
     "wof:parent_id":404548761,
     "wof:placetype":"locality",
+    "wof:population":4086,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

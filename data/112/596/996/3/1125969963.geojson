@@ -36,6 +36,7 @@
     "qs_pg:woe_id":28585640,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"New South Wales",
@@ -51,6 +52,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"NSW2129",
+        "ausstat:2016":"SSC12105",
         "gp:id":28585640,
         "qs_pg:id":991824
     },
@@ -69,10 +71,11 @@
         }
     ],
     "wof:id":1125969963,
-    "wof:lastmodified":1566798378,
+    "wof:lastmodified":1567055750,
     "wof:name":"Keri Keri",
     "wof:parent_id":404225041,
     "wof:placetype":"locality",
+    "wof:population":10,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

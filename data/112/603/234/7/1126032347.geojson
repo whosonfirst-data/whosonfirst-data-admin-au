@@ -45,6 +45,7 @@
     "qs_pg:woe_id":28583930,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Queensland",
@@ -61,6 +62,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"QLD126",
+        "ausstat:2016":"SSC30124",
         "gp:id":28583930,
         "qs_pg:id":1197073,
         "wd:id":"Q16869019"
@@ -81,10 +83,11 @@
         }
     ],
     "wof:id":1126032347,
-    "wof:lastmodified":1566799823,
+    "wof:lastmodified":1567057574,
     "wof:name":"Bald Knob",
     "wof:parent_id":404541121,
     "wof:placetype":"locality",
+    "wof:population":253,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"143.56192,-22.67853,143.56192,-22.67853",
     "geom:latitude":-22.67853,
     "geom:longitude":143.56192,
@@ -30,6 +30,7 @@
         "Chorregon"
     ],
     "src:geom":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681463,
         102191583,
@@ -40,6 +41,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC30609",
         "gn:id":8597535
     },
     "wof:country":"AU",
@@ -56,10 +58,11 @@
         }
     ],
     "wof:id":1310106223,
-    "wof:lastmodified":1537585057,
+    "wof:lastmodified":1567057700,
     "wof:name":"Chorregon",
     "wof:parent_id":404543057,
     "wof:placetype":"locality",
+    "wof:population":57,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

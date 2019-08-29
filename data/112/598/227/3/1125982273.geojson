@@ -44,6 +44,7 @@
     "qs_pg:woe_id":1094080,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Tasmania",
@@ -59,6 +60,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"TAS16",
+        "ausstat:2016":"SSC60016",
         "gn:id":2177825,
         "gp:id":1094080,
         "qs_pg:id":1320386
@@ -78,10 +80,11 @@
         }
     ],
     "wof:id":1125982273,
-    "wof:lastmodified":1566801414,
+    "wof:lastmodified":1567059178,
     "wof:name":"Antill Ponds",
     "wof:parent_id":404549249,
     "wof:placetype":"locality",
+    "wof:population":11,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

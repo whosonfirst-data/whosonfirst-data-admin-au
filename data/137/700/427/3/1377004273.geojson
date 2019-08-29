@@ -41,6 +41,7 @@
     "src:geom_via":"aus-psma",
     "src:lbl:centroid":"mapshaper",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681545,
         102191583,
@@ -51,7 +52,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "aus-psma":"NSW2675"
+        "aus-psma":"NSW2675",
+        "ausstat:2016":"SSC12654"
     },
     "wof:coterminous":[
         1376968057
@@ -76,10 +78,11 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566798609,
+    "wof:lastmodified":1567055938,
     "wof:name":"Moama",
     "wof:parent_id":404224941,
     "wof:placetype":"locality",
+    "wof:population":6162,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

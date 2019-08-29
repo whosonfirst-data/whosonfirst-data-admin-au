@@ -60,7 +60,7 @@
     "src:geom":"aus-psma",
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681545,
         102191583,
@@ -73,6 +73,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"NSW90",
+        "ausstat:2016":"SSC10090",
         "gn:id":2177626,
         "wd:id":"Q964478",
         "wk:page":"Artarmon, New South Wales"
@@ -95,11 +96,11 @@
         }
     ],
     "wof:id":101929411,
-    "wof:lastmodified":1566799601,
+    "wof:lastmodified":1567055073,
     "wof:name":"Artarmon",
     "wof:parent_id":404221555,
     "wof:placetype":"locality",
-    "wof:population":8642,
+    "wof:population":9523,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],

@@ -39,6 +39,7 @@
     "qs_pg:woe_id":28589096,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Victoria",
@@ -55,6 +56,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"VIC2470",
+        "ausstat:2016":"SSC22456",
         "gp:id":28589096,
         "qs_pg:id":528856,
         "wd:id":"Q29364271"
@@ -75,10 +77,11 @@
         }
     ],
     "wof:id":1125879293,
-    "wof:lastmodified":1566802348,
+    "wof:lastmodified":1567057392,
     "wof:name":"Tatura East",
     "wof:parent_id":404540425,
     "wof:placetype":"locality",
+    "wof:population":143,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

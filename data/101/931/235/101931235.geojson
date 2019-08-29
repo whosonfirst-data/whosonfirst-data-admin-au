@@ -57,7 +57,7 @@
     "src:geom":"aus-psma",
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681545,
         102191583,
@@ -70,6 +70,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"NSW2651",
+        "ausstat:2016":"SSC12629",
         "gn:id":8504538,
         "wd:id":"Q8273433",
         "wk:page":"Milsons Point, New South Wales"
@@ -92,11 +93,11 @@
         }
     ],
     "wof:id":101931235,
-    "wof:lastmodified":1566798598,
+    "wof:lastmodified":1567055928,
     "wof:name":"Milsons Point",
     "wof:parent_id":404224901,
     "wof:placetype":"locality",
-    "wof:population":2013,
+    "wof:population":2158,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],

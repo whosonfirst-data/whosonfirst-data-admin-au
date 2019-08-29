@@ -44,6 +44,7 @@
     "qs_pg:woe_id":1098953,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"New South Wales",
@@ -59,6 +60,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"NSW3920",
+        "ausstat:2016":"SSC13883",
         "gn:id":2146511,
         "gp:id":1098953,
         "qs_pg:id":1167890
@@ -78,10 +80,11 @@
         }
     ],
     "wof:id":1125820797,
-    "wof:lastmodified":1566799135,
+    "wof:lastmodified":1567056350,
     "wof:name":"Tirrannaville",
     "wof:parent_id":404222189,
     "wof:placetype":"locality",
+    "wof:population":237,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

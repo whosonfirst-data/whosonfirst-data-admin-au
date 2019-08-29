@@ -35,6 +35,7 @@
     "src:geom":"aus-psma",
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681439,
         102191583,
@@ -45,7 +46,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "aus-psma":"WA2983"
+        "aus-psma":"WA2983",
+        "ausstat:2016":"SSC51351"
     },
     "wof:coterminous":[
         404548285
@@ -64,10 +66,11 @@
         }
     ],
     "wof:id":101937779,
-    "wof:lastmodified":1566803225,
+    "wof:lastmodified":1567059098,
     "wof:name":"South Boulder",
     "wof:parent_id":404548285,
     "wof:placetype":"locality",
+    "wof:population":1375,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

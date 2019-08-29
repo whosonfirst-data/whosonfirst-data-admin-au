@@ -36,6 +36,7 @@
     "qs_pg:woe_id":28585008,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"New South Wales",
@@ -52,6 +53,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"NSW1463",
+        "ausstat:2016":"SSC11446",
         "gp:id":28585008,
         "qs_pg:id":32766
     },
@@ -71,10 +73,11 @@
         }
     ],
     "wof:id":1125864049,
-    "wof:lastmodified":1566798087,
+    "wof:lastmodified":1567055525,
     "wof:name":"Ettamogah",
     "wof:parent_id":404226365,
     "wof:placetype":"locality",
+    "wof:population":45,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

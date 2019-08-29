@@ -36,6 +36,7 @@
     "qs_pg:woe_id":28587439,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Tasmania",
@@ -51,6 +52,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"TAS658",
+        "ausstat:2016":"SSC60655",
         "gp:id":28587439,
         "qs_pg:id":1154818
     },
@@ -69,10 +71,11 @@
         }
     ],
     "wof:id":1125975751,
-    "wof:lastmodified":1566801675,
+    "wof:lastmodified":1567059381,
     "wof:name":"Table Cape",
     "wof:parent_id":404548923,
     "wof:placetype":"locality",
+    "wof:population":91,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

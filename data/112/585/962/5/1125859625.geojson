@@ -54,7 +54,7 @@
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681545,
         102191583,
@@ -66,6 +66,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"NSW701",
+        "ausstat:2016":"SSC10688",
         "gn:id":2173210,
         "qs_pg:id":91075,
         "wd:id":"Q4997811"
@@ -85,11 +86,11 @@
         }
     ],
     "wof:id":1125859625,
-    "wof:lastmodified":1566799510,
+    "wof:lastmodified":1567055268,
     "wof:name":"Bunnaloo",
     "wof:parent_id":404224941,
     "wof:placetype":"locality",
-    "wof:population":127,
+    "wof:population":101,
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],

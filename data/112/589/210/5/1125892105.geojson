@@ -42,6 +42,7 @@
     "qs_pg:woe_id":1094252,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Victoria",
@@ -57,6 +58,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"VIC137",
+        "ausstat:2016":"SSC20137",
         "gn:id":2176853,
         "gp:id":1094252,
         "qs_pg:id":302030,
@@ -77,10 +79,11 @@
         }
     ],
     "wof:id":1125892105,
-    "wof:lastmodified":1566801902,
+    "wof:lastmodified":1567056593,
     "wof:name":"Baringhup",
     "wof:parent_id":404537657,
     "wof:placetype":"locality",
+    "wof:population":205,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

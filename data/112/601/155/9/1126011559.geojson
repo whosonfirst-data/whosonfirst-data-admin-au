@@ -39,6 +39,7 @@
     "qs_pg:woe_id":1106890,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Victoria",
@@ -54,6 +55,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"VIC2870",
+        "ausstat:2016":"SSC22854",
         "gn:id":2142843,
         "gp:id":1106890,
         "qs_pg:id":1013309
@@ -73,10 +75,11 @@
         }
     ],
     "wof:id":1126011559,
-    "wof:lastmodified":1566802498,
+    "wof:lastmodified":1567057500,
     "wof:name":"Wuk Wuk",
     "wof:parent_id":404538017,
     "wof:placetype":"locality",
+    "wof:population":88,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

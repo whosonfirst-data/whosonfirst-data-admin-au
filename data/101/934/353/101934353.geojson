@@ -35,6 +35,7 @@
     "src:geom":"aus-psma",
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681463,
         102191583,
@@ -45,7 +46,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "aus-psma":"QLD943"
+        "aus-psma":"QLD943",
+        "ausstat:2016":"SSC30938"
     },
     "wof:coterminous":[
         404542069
@@ -64,10 +66,11 @@
         }
     ],
     "wof:id":101934353,
-    "wof:lastmodified":1566800714,
+    "wof:lastmodified":1567057780,
     "wof:name":"East Mackay",
     "wof:parent_id":404542069,
     "wof:placetype":"locality",
+    "wof:population":3564,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

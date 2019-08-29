@@ -54,7 +54,7 @@
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681439,
         102191583,
@@ -66,6 +66,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"WA2239",
+        "ausstat:2016":"SSC50007",
         "gn:id":2077938,
         "qs_pg:id":138234,
         "wd:id":"Q4713762"
@@ -85,11 +86,11 @@
         }
     ],
     "wof:id":1125868507,
-    "wof:lastmodified":1566802992,
+    "wof:lastmodified":1567058765,
     "wof:name":"Aldersyde",
     "wof:parent_id":404546901,
     "wof:placetype":"locality",
-    "wof:population":148,
+    "wof:population":42,
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],

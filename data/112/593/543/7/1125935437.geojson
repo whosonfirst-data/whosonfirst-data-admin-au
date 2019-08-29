@@ -66,6 +66,7 @@
     "qs_pg:woe_id":28588021,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"South Australia",
@@ -81,6 +82,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"SA1528",
+        "ausstat:2016":"SSC41591",
         "gp:id":28588021,
         "qs_pg:id":985699,
         "wd:id":"Q24997929"
@@ -100,10 +102,11 @@
         }
     ],
     "wof:id":1125935437,
-    "wof:lastmodified":1566800965,
+    "wof:lastmodified":1567058745,
     "wof:name":"Willoughby",
     "wof:parent_id":404545549,
     "wof:placetype":"locality",
+    "wof:population":11,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

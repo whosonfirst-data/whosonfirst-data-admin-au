@@ -42,6 +42,7 @@
     "qs_pg:woe_id":1096779,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Victoria",
@@ -57,6 +58,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"VIC1413",
+        "ausstat:2016":"SSC21411",
         "gn:id":2160870,
         "gp:id":1096779,
         "qs_pg:id":1189002,
@@ -77,10 +79,11 @@
         }
     ],
     "wof:id":1125993063,
-    "wof:lastmodified":1566801918,
+    "wof:lastmodified":1567057027,
     "wof:name":"Labertouche",
     "wof:parent_id":404539159,
     "wof:placetype":"locality",
+    "wof:population":356,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

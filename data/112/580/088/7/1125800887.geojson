@@ -77,6 +77,7 @@
     "qs_pg:woe_id":1102610,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Queensland",
@@ -92,6 +93,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"QLD1339",
+        "ausstat:2016":"SSC31325",
         "gn:id":2163675,
         "gp:id":1102610,
         "qs_pg:id":278153,
@@ -112,10 +114,11 @@
         }
     ],
     "wof:id":1125800887,
-    "wof:lastmodified":1566799845,
+    "wof:lastmodified":1567057862,
     "wof:name":"Hebel",
     "wof:parent_id":404541339,
     "wof:placetype":"locality",
+    "wof:population":67,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

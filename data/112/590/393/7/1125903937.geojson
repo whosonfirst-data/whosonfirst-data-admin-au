@@ -45,6 +45,7 @@
     "qs_pg:woe_id":28645356,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"South Australia",
@@ -60,6 +61,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"SA1258",
+        "ausstat:2016":"SSC41306",
         "gp:id":28645356,
         "qs_pg:id":225579,
         "wd:id":"Q24896750"
@@ -79,10 +81,11 @@
         }
     ],
     "wof:id":1125903937,
-    "wof:lastmodified":1566800851,
+    "wof:lastmodified":1567058678,
     "wof:name":"Seal Bay",
     "wof:parent_id":404545925,
     "wof:placetype":"locality",
+    "wof:population":4,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

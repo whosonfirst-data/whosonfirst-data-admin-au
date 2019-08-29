@@ -50,6 +50,7 @@
     "qs_pg:woe_id":1099903,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Victoria",
@@ -66,6 +67,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"VIC41",
+        "ausstat:2016":"SSC20041",
         "gn:id":2177925,
         "gp:id":1099903,
         "qs_pg:id":918703,
@@ -87,10 +89,11 @@
         }
     ],
     "wof:id":1125829077,
-    "wof:lastmodified":1566802585,
+    "wof:lastmodified":1567056560,
     "wof:name":"Anakie",
     "wof:parent_id":404537539,
     "wof:placetype":"locality",
+    "wof:population":690,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

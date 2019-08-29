@@ -36,6 +36,7 @@
     "qs_pg:woe_id":55864489,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Northern Territory",
@@ -51,6 +52,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"NT114",
+        "ausstat:2016":"SSC70111",
         "gp:id":55864489,
         "qs_pg:id":269864
     },
@@ -69,10 +71,11 @@
         }
     ],
     "wof:id":1125788729,
-    "wof:lastmodified":1566799653,
+    "wof:lastmodified":1567059439,
     "wof:name":"Glyde Point",
     "wof:parent_id":404549857,
     "wof:placetype":"locality",
+    "wof:population":0,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

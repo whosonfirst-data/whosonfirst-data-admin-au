@@ -56,6 +56,7 @@
     "src:geom":"aus-psma",
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681463,
         102191583,
@@ -67,7 +68,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "aus-psma":"QLD640"
+        "aus-psma":"QLD640",
+        "ausstat:2016":"SSC30634"
     },
     "wof:coterminous":[
         404541737
@@ -87,10 +89,11 @@
         }
     ],
     "wof:id":101934185,
-    "wof:lastmodified":1566800616,
+    "wof:lastmodified":1567057708,
     "wof:name":"Clontarf",
     "wof:parent_id":404541737,
     "wof:placetype":"locality",
+    "wof:population":8279,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

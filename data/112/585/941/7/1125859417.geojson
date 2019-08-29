@@ -63,7 +63,7 @@
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681583,
         102191583,
@@ -76,6 +76,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"TAS581",
+        "ausstat:2016":"SSC60579",
         "gn:id":2150485,
         "qs_pg:id":90993,
         "wd:id":"Q7416203"
@@ -96,11 +97,11 @@
         }
     ],
     "wof:id":1125859417,
-    "wof:lastmodified":1566801637,
+    "wof:lastmodified":1567059358,
     "wof:name":"Sandford",
     "wof:parent_id":404549391,
     "wof:placetype":"locality",
-    "wof:population":1596,
+    "wof:population":1883,
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],

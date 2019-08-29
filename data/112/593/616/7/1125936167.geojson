@@ -48,6 +48,7 @@
     "qs_pg:woe_id":28645474,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"New South Wales",
@@ -63,6 +64,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"NSW4527",
+        "ausstat:2016":"SSC14494",
         "gp:id":28645474,
         "qs_pg:id":985883
     },
@@ -81,10 +83,11 @@
         }
     ],
     "wof:id":1125936167,
-    "wof:lastmodified":1566799381,
+    "wof:lastmodified":1567056536,
     "wof:name":"Yass River",
     "wof:parent_id":404227295,
     "wof:placetype":"locality",
+    "wof:population":350,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

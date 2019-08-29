@@ -36,6 +36,7 @@
     "qs_pg:woe_id":28588586,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"New South Wales",
@@ -51,6 +52,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"NSW1488",
+        "ausstat:2016":"SSC11470",
         "gp:id":28588586,
         "qs_pg:id":1110817
     },
@@ -69,10 +71,11 @@
         }
     ],
     "wof:id":1125867295,
-    "wof:lastmodified":1566798101,
+    "wof:lastmodified":1567055536,
     "wof:name":"Evans Plains",
     "wof:parent_id":404223349,
     "wof:placetype":"locality",
+    "wof:population":164,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

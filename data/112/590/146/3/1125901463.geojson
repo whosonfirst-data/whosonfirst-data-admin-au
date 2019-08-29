@@ -44,6 +44,7 @@
     "qs_pg:woe_id":1101404,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Victoria",
@@ -59,6 +60,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"VIC651",
+        "ausstat:2016":"SSC20648",
         "gn:id":2170235,
         "gp:id":1101404,
         "qs_pg:id":58648,
@@ -79,10 +81,11 @@
         }
     ],
     "wof:id":1125901463,
-    "wof:lastmodified":1566802684,
+    "wof:lastmodified":1567056752,
     "wof:name":"Costerfield",
     "wof:parent_id":404539575,
     "wof:placetype":"locality",
+    "wof:population":75,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

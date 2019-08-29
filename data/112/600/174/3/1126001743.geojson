@@ -41,6 +41,7 @@
     "qs_pg:woe_id":1105300,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Queensland",
@@ -56,6 +57,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"QLD2479",
+        "ausstat:2016":"SSC32442",
         "gn:id":2151767,
         "gp:id":1105300,
         "qs_pg:id":910611
@@ -75,10 +77,11 @@
         }
     ],
     "wof:id":1126001743,
-    "wof:lastmodified":1566800217,
+    "wof:lastmodified":1567058165,
     "wof:name":"Reid River",
     "wof:parent_id":404543861,
     "wof:placetype":"locality",
+    "wof:population":115,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

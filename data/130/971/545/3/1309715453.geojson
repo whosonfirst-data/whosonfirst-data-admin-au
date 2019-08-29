@@ -34,6 +34,7 @@
     ],
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681545,
         102191583,
@@ -45,6 +46,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"NSW2033",
+        "ausstat:2016":"SSC12010",
         "gn:id":2162362
     },
     "wof:country":"AU",
@@ -61,10 +63,11 @@
         }
     ],
     "wof:id":1309715453,
-    "wof:lastmodified":1566798336,
+    "wof:lastmodified":1567055718,
     "wof:name":"Jeogla",
     "wof:parent_id":404223203,
     "wof:placetype":"locality",
+    "wof:population":40,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

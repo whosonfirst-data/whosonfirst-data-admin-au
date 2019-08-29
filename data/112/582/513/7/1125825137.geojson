@@ -51,6 +51,7 @@
     "qs_pg:woe_id":1106344,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"New South Wales",
@@ -66,6 +67,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"NSW4130",
+        "ausstat:2016":"SSC14094",
         "gn:id":2145058,
         "gp:id":1106344,
         "qs_pg:id":1033908,
@@ -86,10 +88,11 @@
         }
     ],
     "wof:id":1125825137,
-    "wof:lastmodified":1566799220,
+    "wof:lastmodified":1567056412,
     "wof:name":"Walcha Road",
     "wof:parent_id":404227181,
     "wof:placetype":"locality",
+    "wof:population":54,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

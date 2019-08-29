@@ -42,7 +42,7 @@
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681583,
         102191583,
@@ -54,6 +54,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"TAS326",
+        "ausstat:2016":"SSC60325",
         "gn:id":2160397,
         "qs_pg:id":91034
     },
@@ -72,11 +73,11 @@
         }
     ],
     "wof:id":1125859523,
-    "wof:lastmodified":1566801504,
+    "wof:lastmodified":1567059276,
     "wof:name":"Legerwood",
     "wof:parent_id":404549097,
     "wof:placetype":"locality",
-    "wof:population":269,
+    "wof:population":193,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],

@@ -147,6 +147,7 @@
     "qs_pg:woe_id":28584486,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"New South Wales",
@@ -162,6 +163,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"NSW875",
+        "ausstat:2016":"SSC10861",
         "gp:id":28584486,
         "qs_pg:id":1024557,
         "wd:id":"Q5054832"
@@ -181,10 +183,11 @@
         }
     ],
     "wof:id":1126029031,
-    "wof:lastmodified":1566799590,
+    "wof:lastmodified":1567055330,
     "wof:name":"Cavan",
     "wof:parent_id":404226933,
     "wof:placetype":"locality",
+    "wof:population":47,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

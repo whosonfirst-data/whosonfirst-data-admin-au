@@ -68,6 +68,7 @@
     "qs_pg:woe_id":1105777,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Victoria",
@@ -83,6 +84,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"VIC2416",
+        "ausstat:2016":"SSC22401",
         "gn:id":2147724,
         "gp:id":1105777,
         "qs_pg:id":909927,
@@ -103,10 +105,11 @@
         }
     ],
     "wof:id":1126048713,
-    "wof:lastmodified":1566802329,
+    "wof:lastmodified":1567057377,
     "wof:name":"Swifts Creek",
     "wof:parent_id":404540373,
     "wof:placetype":"locality",
+    "wof:population":278,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

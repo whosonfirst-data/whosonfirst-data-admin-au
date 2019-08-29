@@ -51,6 +51,7 @@
     "qs_pg:woe_id":28587539,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Queensland",
@@ -67,6 +68,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"QLD2860",
+        "ausstat:2016":"SSC32816",
         "gp:id":28587539,
         "qs_pg:id":897212
     },
@@ -86,10 +88,11 @@
         }
     ],
     "wof:id":1126030877,
-    "wof:lastmodified":1566800343,
+    "wof:lastmodified":1567058253,
     "wof:name":"The Falls",
     "wof:parent_id":404544343,
     "wof:placetype":"locality",
+    "wof:population":70,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

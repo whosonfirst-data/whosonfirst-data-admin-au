@@ -51,7 +51,7 @@
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681439,
         102191583,
@@ -63,6 +63,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"WA2298",
+        "ausstat:2016":"SSC50420",
         "gn:id":2072674,
         "qs_pg:id":90758,
         "wd:id":"Q5296983"
@@ -82,11 +83,11 @@
         }
     ],
     "wof:id":1125779725,
-    "wof:lastmodified":1566803012,
+    "wof:lastmodified":1567058865,
     "wof:name":"Doodlakine",
     "wof:parent_id":404547563,
     "wof:placetype":"locality",
-    "wof:population":190,
+    "wof:population":75,
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],

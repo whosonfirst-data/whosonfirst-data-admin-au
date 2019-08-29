@@ -39,6 +39,7 @@
     "qs_pg:woe_id":28645178,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Northern Territory",
@@ -54,6 +55,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"NT157",
+        "ausstat:2016":"SSC70155",
         "gp:id":28645178,
         "qs_pg:id":1154896,
         "wd:id":"Q14935679"
@@ -73,10 +75,11 @@
         }
     ],
     "wof:id":1125975999,
-    "wof:lastmodified":1566799671,
+    "wof:lastmodified":1567059450,
     "wof:name":"Lambells Lagoon",
     "wof:parent_id":404549763,
     "wof:placetype":"locality",
+    "wof:population":347,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

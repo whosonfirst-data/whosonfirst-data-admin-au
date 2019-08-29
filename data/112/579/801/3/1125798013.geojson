@@ -237,6 +237,7 @@
     "qs_pg:woe_id":1099901,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Victoria",
@@ -252,6 +253,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"VIC40",
+        "ausstat:2016":"SSC20040",
         "gn:id":2177934,
         "gp:id":1099901,
         "qs_pg:id":193214,
@@ -272,10 +274,11 @@
         }
     ],
     "wof:id":1125798013,
-    "wof:lastmodified":1566802581,
+    "wof:lastmodified":1567056559,
     "wof:name":"Amphitheatre",
     "wof:parent_id":404537537,
     "wof:placetype":"locality",
+    "wof:population":248,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

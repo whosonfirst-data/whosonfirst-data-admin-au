@@ -44,7 +44,7 @@
     "qs_pg:woe_id":1094652,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"New South Wales",
@@ -60,6 +60,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"NSW575",
+        "ausstat:2016":"SSC10568",
         "gn:id":2174064,
         "gp:id":1094652,
         "qs_pg:id":1290164
@@ -79,11 +80,11 @@
         }
     ],
     "wof:id":1125954871,
-    "wof:lastmodified":1566799464,
+    "wof:lastmodified":1567055234,
     "wof:name":"Brierfield",
     "wof:parent_id":404222181,
     "wof:placetype":"locality",
-    "wof:population":268,
+    "wof:population":333,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],

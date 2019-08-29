@@ -77,7 +77,7 @@
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
     "src:lbl_centroid":"whosonfirst",
-    "src:population":"geonames",
+    "src:population":"ausstat:2016",
     "wd:latitude":51.971,
     "wd:longitude":-0.952,
     "wd:wordcount":348,
@@ -93,6 +93,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"WA3181",
+        "ausstat:2016":"SSC51182",
         "gn:id":8348655,
         "wd:id":"Q7123297"
     },
@@ -114,11 +115,11 @@
         }
     ],
     "wof:id":101937641,
-    "wof:lastmodified":1566803334,
+    "wof:lastmodified":1567059052,
     "wof:name":"Padbury",
     "wof:parent_id":404548069,
     "wof:placetype":"locality",
-    "wof:population":8113,
+    "wof:population":8183,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],

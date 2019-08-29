@@ -57,7 +57,7 @@
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681439,
         102191583,
@@ -69,6 +69,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"WA1794",
+        "ausstat:2016":"SSC51309",
         "gn:id":2062008,
         "qs_pg:id":90705,
         "wd:id":"Q7405508"
@@ -88,11 +89,11 @@
         }
     ],
     "wof:id":1125858725,
-    "wof:lastmodified":1566802864,
+    "wof:lastmodified":1567059084,
     "wof:name":"Salmon Gums",
     "wof:parent_id":404548233,
     "wof:placetype":"locality",
-    "wof:population":789,
+    "wof:population":191,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],

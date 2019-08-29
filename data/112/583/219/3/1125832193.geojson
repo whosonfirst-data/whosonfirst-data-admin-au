@@ -78,6 +78,7 @@
     "qs_pg:woe_id":28585361,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"South Australia",
@@ -93,6 +94,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"SA210005676",
+        "ausstat:2016":"SSC40543",
         "gp:id":28585361,
         "qs_pg:id":1091298,
         "wd:id":"Q28428582"
@@ -112,10 +114,11 @@
         }
     ],
     "wof:id":1125832193,
-    "wof:lastmodified":1566801052,
+    "wof:lastmodified":1567058488,
     "wof:name":"Haines",
     "wof:parent_id":404545925,
     "wof:placetype":"locality",
+    "wof:population":153,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

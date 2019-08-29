@@ -57,6 +57,7 @@
     "qs_pg:woe_id":28586198,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Queensland",
@@ -72,6 +73,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"QLD1924",
+        "ausstat:2016":"SSC31891",
         "gp:id":28586198,
         "qs_pg:id":1154795,
         "wd:id":"Q24189296"
@@ -91,10 +93,11 @@
         }
     ],
     "wof:id":1125900439,
-    "wof:lastmodified":1566800034,
+    "wof:lastmodified":1567058012,
     "wof:name":"Mon Repos",
     "wof:parent_id":404543831,
     "wof:placetype":"locality",
+    "wof:population":30,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

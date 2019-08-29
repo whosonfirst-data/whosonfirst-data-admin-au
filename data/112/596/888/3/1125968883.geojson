@@ -65,6 +65,7 @@
     "qs_pg:woe_id":1106913,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Victoria",
@@ -80,6 +81,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"VIC2882",
+        "ausstat:2016":"SSC22866",
         "gn:id":2142767,
         "gp:id":1106913,
         "qs_pg:id":188319,
@@ -100,10 +102,11 @@
         }
     ],
     "wof:id":1125968883,
-    "wof:lastmodified":1566802503,
+    "wof:lastmodified":1567057504,
     "wof:name":"Wye River",
     "wof:parent_id":404540867,
     "wof:placetype":"locality",
+    "wof:population":63,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

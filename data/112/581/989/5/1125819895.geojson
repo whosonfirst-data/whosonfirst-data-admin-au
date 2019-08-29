@@ -39,6 +39,7 @@
     "qs_pg:woe_id":1106199,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"New South Wales",
@@ -54,6 +55,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"NSW4012",
+        "ausstat:2016":"SSC13975",
         "gn:id":2145821,
         "gp:id":1106199,
         "qs_pg:id":341483
@@ -73,10 +75,11 @@
         }
     ],
     "wof:id":1125819895,
-    "wof:lastmodified":1566799174,
+    "wof:lastmodified":1567056380,
     "wof:name":"Turlinjah",
     "wof:parent_id":404226661,
     "wof:placetype":"locality",
+    "wof:population":157,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

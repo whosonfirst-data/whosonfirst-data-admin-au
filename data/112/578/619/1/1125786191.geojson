@@ -36,6 +36,7 @@
     "qs_pg:woe_id":28645295,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"New South Wales",
@@ -51,6 +52,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"NSW3200",
+        "ausstat:2016":"SSC13173",
         "gp:id":28645295,
         "qs_pg:id":268994
     },
@@ -69,10 +71,11 @@
         }
     ],
     "wof:id":1125786191,
-    "wof:lastmodified":1566798834,
+    "wof:lastmodified":1567056109,
     "wof:name":"Pebbly Beach",
     "wof:parent_id":404223133,
     "wof:placetype":"locality",
+    "wof:population":3,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

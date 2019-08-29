@@ -35,6 +35,7 @@
     "src:geom":"aus-psma",
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "wd:wordcount":93,
     "wof:belongsto":[
         85681463,
@@ -46,7 +47,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "aus-psma":"QLD1878"
+        "aus-psma":"QLD1878",
+        "ausstat:2016":"SSC31851"
     },
     "wof:coterminous":[
         404543165
@@ -65,10 +67,11 @@
         }
     ],
     "wof:id":101934843,
-    "wof:lastmodified":1566800020,
+    "wof:lastmodified":1567058002,
     "wof:name":"Miles End",
     "wof:parent_id":404543165,
     "wof:placetype":"locality",
+    "wof:population":265,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[

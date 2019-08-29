@@ -43,6 +43,7 @@
     "qs_pg:woe_id":28585117,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Northern Territory",
@@ -57,6 +58,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"NT108",
+        "ausstat:2016":"SSC70105",
         "gp:id":28585117,
         "qs_pg:id":1285730,
         "wd:id":"Q5499575"
@@ -75,10 +77,11 @@
         }
     ],
     "wof:id":1125909863,
-    "wof:lastmodified":1566799650,
+    "wof:lastmodified":1567059437,
     "wof:name":"Freds Pass",
     "wof:parent_id":102049205,
     "wof:placetype":"locality",
+    "wof:population":24,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

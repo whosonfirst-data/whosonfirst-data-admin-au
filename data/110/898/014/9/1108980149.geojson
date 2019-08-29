@@ -41,6 +41,7 @@
     "qs_pg:woe_id":28586772,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"South Australia",
@@ -57,6 +58,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"SA1030",
+        "ausstat:2016":"SSC41077",
         "gn:id":8348379,
         "qs_pg:id":1164135,
         "woe:id":28586772
@@ -77,10 +79,11 @@
         }
     ],
     "wof:id":1108980149,
-    "wof:lastmodified":1566800749,
+    "wof:lastmodified":1567058617,
     "wof:name":"Paechtown",
     "wof:parent_id":404546025,
     "wof:placetype":"locality",
+    "wof:population":212,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

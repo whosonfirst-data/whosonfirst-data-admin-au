@@ -45,6 +45,7 @@
     "qs_pg:woe_id":1094895,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Queensland",
@@ -61,6 +62,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"QLD511",
+        "ausstat:2016":"SSC30509",
         "gn:id":2172555,
         "gp:id":1094895,
         "qs_pg:id":1164314,
@@ -82,10 +84,11 @@
         }
     ],
     "wof:id":1125799635,
-    "wof:lastmodified":1566800577,
+    "wof:lastmodified":1567057678,
     "wof:name":"Camp Mountain",
     "wof:parent_id":404541583,
     "wof:placetype":"locality",
+    "wof:population":1416,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

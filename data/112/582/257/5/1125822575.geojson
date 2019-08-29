@@ -51,7 +51,7 @@
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681545,
         102191583,
@@ -63,6 +63,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"NSW568",
+        "ausstat:2016":"SSC10561",
         "gn:id":2174142,
         "qs_pg:id":138872,
         "wd:id":"Q4960332"
@@ -82,11 +83,11 @@
         }
     ],
     "wof:id":1125822575,
-    "wof:lastmodified":1566799459,
+    "wof:lastmodified":1567055231,
     "wof:name":"Breeza",
     "wof:parent_id":404222927,
     "wof:placetype":"locality",
-    "wof:population":134,
+    "wof:population":146,
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],

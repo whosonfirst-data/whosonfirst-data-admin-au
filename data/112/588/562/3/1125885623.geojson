@@ -47,6 +47,7 @@
     "qs_pg:woe_id":1094336,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Victoria",
@@ -63,6 +64,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"VIC193",
+        "ausstat:2016":"SSC20192",
         "gn:id":2176340,
         "gp:id":1094336,
         "qs_pg:id":979536,
@@ -84,10 +86,11 @@
         }
     ],
     "wof:id":1125885623,
-    "wof:lastmodified":1566802121,
+    "wof:lastmodified":1567056613,
     "wof:name":"Bellarine",
     "wof:parent_id":404539959,
     "wof:placetype":"locality",
+    "wof:population":169,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

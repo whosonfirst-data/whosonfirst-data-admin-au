@@ -44,6 +44,7 @@
     "qs_pg:woe_id":1104232,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Queensland",
@@ -59,6 +60,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"QLD2084",
+        "ausstat:2016":"SSC32051",
         "gn:id":2156502,
         "gp:id":1104232,
         "qs_pg:id":1033979,
@@ -79,10 +81,11 @@
         }
     ],
     "wof:id":1125812047,
-    "wof:lastmodified":1566800085,
+    "wof:lastmodified":1567058056,
     "wof:name":"Mount Tyson",
     "wof:parent_id":404543405,
     "wof:placetype":"locality",
+    "wof:population":285,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

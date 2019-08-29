@@ -102,7 +102,7 @@
     "qs_pg:woe_id":1098522,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Tasmania",
@@ -118,6 +118,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"TAS597",
+        "ausstat:2016":"SSC60595",
         "gn:id":2149556,
         "gp:id":1098522,
         "qs_pg:id":1096467
@@ -137,11 +138,11 @@
         }
     ],
     "wof:id":1125850813,
-    "wof:lastmodified":1566801644,
+    "wof:lastmodified":1567059363,
     "wof:name":"Sidmouth",
     "wof:parent_id":404549413,
     "wof:placetype":"locality",
-    "wof:population":403,
+    "wof:population":394,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],

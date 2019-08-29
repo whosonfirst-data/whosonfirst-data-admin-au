@@ -43,6 +43,7 @@
     "qs_pg:woe_id":28584605,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Northern Territory",
@@ -57,6 +58,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"NT63",
+        "ausstat:2016":"SSC70062",
         "gp:id":28584605,
         "qs_pg:id":469612,
         "wd:id":"Q5167399"
@@ -75,10 +77,11 @@
         }
     ],
     "wof:id":1125786759,
-    "wof:lastmodified":1566799737,
+    "wof:lastmodified":1567059428,
     "wof:name":"Coolalinga",
     "wof:parent_id":102049205,
     "wof:placetype":"locality",
+    "wof:population":548,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -41,7 +41,7 @@
     "qs_pg:woe_id":1100891,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"New South Wales",
@@ -57,6 +57,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"NSW746",
+        "ausstat:2016":"SSC10732",
         "gn:id":2172885,
         "gp:id":1100891,
         "qs_pg:id":1292278
@@ -76,11 +77,11 @@
         }
     ],
     "wof:id":1126041875,
-    "wof:lastmodified":1566799529,
+    "wof:lastmodified":1567055283,
     "wof:name":"Byrock",
     "wof:parent_id":404222113,
     "wof:placetype":"locality",
-    "wof:population":89,
+    "wof:population":50,
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],

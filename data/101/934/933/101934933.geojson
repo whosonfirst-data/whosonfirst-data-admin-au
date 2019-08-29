@@ -98,6 +98,7 @@
     "src:geom":"aus-psma",
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "wd:wordcount":82,
     "wof:belongsto":[
         85681463,
@@ -109,7 +110,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "aus-psma":"QLD2065"
+        "aus-psma":"QLD2065",
+        "ausstat:2016":"SSC32032"
     },
     "wof:coterminous":[
         404543383
@@ -128,10 +130,11 @@
         }
     ],
     "wof:id":101934933,
-    "wof:lastmodified":1566800079,
+    "wof:lastmodified":1567058048,
     "wof:name":"Mount Pleasant",
     "wof:parent_id":404543383,
     "wof:placetype":"locality",
+    "wof:population":4444,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[

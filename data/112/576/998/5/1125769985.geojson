@@ -45,7 +45,7 @@
     "qs_pg:woe_id":1097782,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Tasmania",
@@ -61,6 +61,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"TAS452",
+        "ausstat:2016":"SSC60450",
         "gn:id":2155339,
         "gp:id":1097782,
         "qs_pg:id":979598
@@ -80,11 +81,11 @@
         }
     ],
     "wof:id":1125769985,
-    "wof:lastmodified":1566801568,
+    "wof:lastmodified":1567059316,
     "wof:name":"Nietta",
     "wof:parent_id":404549309,
     "wof:placetype":"locality",
-    "wof:population":166,
+    "wof:population":64,
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],

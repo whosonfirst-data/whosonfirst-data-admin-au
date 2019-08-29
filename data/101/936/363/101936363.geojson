@@ -35,6 +35,7 @@
     "src:geom":"aus-psma",
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "wd:wordcount":6708,
     "wof:belongsto":[
         85681519,
@@ -47,7 +48,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "aus-psma":"SA995"
+        "aus-psma":"SA995",
+        "ausstat:2016":"SSC41040"
     },
     "wof:coterminous":[
         404545971
@@ -67,10 +69,11 @@
         }
     ],
     "wof:id":101936363,
-    "wof:lastmodified":1566801387,
+    "wof:lastmodified":1567058606,
     "wof:name":"Northern Heights",
     "wof:parent_id":404545971,
     "wof:placetype":"locality",
+    "wof:population":269,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -85,7 +85,7 @@
     "qs_pg:woe_id":1101439,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"New South Wales",
@@ -101,6 +101,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"NSW1119",
+        "ausstat:2016":"SSC11107",
         "gn:id":2170066,
         "gp:id":1101439,
         "qs_pg:id":1217275
@@ -120,11 +121,11 @@
         }
     ],
     "wof:id":1125785353,
-    "wof:lastmodified":1566797946,
+    "wof:lastmodified":1567055406,
     "wof:name":"Craven",
     "wof:parent_id":404222855,
     "wof:placetype":"locality",
-    "wof:population":295,
+    "wof:population":115,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],

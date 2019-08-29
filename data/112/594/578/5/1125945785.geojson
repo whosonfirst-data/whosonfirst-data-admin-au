@@ -64,7 +64,7 @@
     "qs_pg:woe_id":1099506,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Tasmania",
@@ -80,6 +80,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"TAS756",
+        "ausstat:2016":"SSC60753",
         "gn:id":2143370,
         "gp:id":1099506,
         "qs_pg:id":1141902
@@ -99,11 +100,11 @@
         }
     ],
     "wof:id":1125945785,
-    "wof:lastmodified":1566801721,
+    "wof:lastmodified":1567059409,
     "wof:name":"Winkleigh",
     "wof:parent_id":404549591,
     "wof:placetype":"locality",
-    "wof:population":285,
+    "wof:population":203,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],

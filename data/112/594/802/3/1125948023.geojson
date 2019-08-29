@@ -69,7 +69,7 @@
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681583,
         102191583,
@@ -81,6 +81,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"TAS187",
+        "ausstat:2016":"SSC60186",
         "gn:id":2167515,
         "qs_pg:id":572983,
         "wd:id":"Q5365106"
@@ -100,11 +101,11 @@
         }
     ],
     "wof:id":1125948023,
-    "wof:lastmodified":1566801431,
+    "wof:lastmodified":1567059230,
     "wof:name":"Ellendale",
     "wof:parent_id":404548903,
     "wof:placetype":"locality",
-    "wof:population":475,
+    "wof:population":241,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],

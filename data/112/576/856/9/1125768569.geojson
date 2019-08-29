@@ -93,7 +93,7 @@
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681583,
         102191583,
@@ -105,6 +105,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"TAS82",
+        "ausstat:2016":"SSC60082",
         "gn:id":2207995,
         "qs_pg:id":573350,
         "wd:id":"Q4983282"
@@ -124,11 +125,11 @@
         }
     ],
     "wof:id":1125768569,
-    "wof:lastmodified":1566801736,
+    "wof:lastmodified":1567059200,
     "wof:name":"Buckland",
     "wof:parent_id":404549449,
     "wof:placetype":"locality",
-    "wof:population":192,
+    "wof:population":179,
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],

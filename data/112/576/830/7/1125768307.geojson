@@ -66,7 +66,7 @@
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681545,
         102191583,
@@ -78,6 +78,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"NSW591",
+        "ausstat:2016":"SSC10584",
         "gn:id":2173939,
         "qs_pg:id":573028,
         "wd:id":"Q2375523"
@@ -97,11 +98,11 @@
         }
     ],
     "wof:id":1125768307,
-    "wof:lastmodified":1566799471,
+    "wof:lastmodified":1567055239,
     "wof:name":"Brocklesby",
     "wof:parent_id":404222201,
     "wof:placetype":"locality",
-    "wof:population":240,
+    "wof:population":183,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],

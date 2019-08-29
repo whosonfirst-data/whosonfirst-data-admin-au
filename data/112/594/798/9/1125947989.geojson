@@ -33,7 +33,7 @@
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681545,
         102191583,
@@ -45,6 +45,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"NSW1476",
+        "ausstat:2016":"SSC11458",
         "gn:id":2167129,
         "qs_pg:id":572979
     },
@@ -63,11 +64,11 @@
         }
     ],
     "wof:id":1125947989,
-    "wof:lastmodified":1566798094,
+    "wof:lastmodified":1567055530,
     "wof:name":"Eungai Creek",
     "wof:parent_id":404223331,
     "wof:placetype":"locality",
-    "wof:population":593,
+    "wof:population":423,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],

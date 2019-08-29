@@ -84,6 +84,7 @@
     "qs_pg:woe_id":1104188,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"New South Wales",
@@ -99,6 +100,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"NSW2785",
+        "ausstat:2016":"SSC12763",
         "gp:id":1104188,
         "qs_pg:id":990409,
         "wd:id":"Q6921274"
@@ -118,10 +120,11 @@
         }
     ],
     "wof:id":1126027119,
-    "wof:lastmodified":1566798658,
+    "wof:lastmodified":1567055974,
     "wof:name":"Mount Hope",
     "wof:parent_id":404223319,
     "wof:placetype":"locality",
+    "wof:population":19,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

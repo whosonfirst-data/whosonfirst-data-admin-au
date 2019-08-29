@@ -105,6 +105,7 @@
     "qs_pg:woe_id":1105996,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Victoria",
@@ -120,6 +121,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"VIC2512",
+        "ausstat:2016":"SSC22497",
         "gp:id":1105996,
         "qs_pg:id":64478
     },
@@ -138,10 +140,11 @@
         }
     ],
     "wof:id":1125793731,
-    "wof:lastmodified":1566802366,
+    "wof:lastmodified":1567057404,
     "wof:name":"Thornton",
     "wof:parent_id":404540471,
     "wof:placetype":"locality",
+    "wof:population":299,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -57,7 +57,7 @@
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681519,
         102191583,
@@ -69,6 +69,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"SA395",
+        "ausstat:2016":"SSC40403",
         "gn:id":2072007,
         "qs_pg:id":90754,
         "wd:id":"Q5374847"
@@ -88,11 +89,11 @@
         }
     ],
     "wof:id":1125779711,
-    "wof:lastmodified":1566801167,
+    "wof:lastmodified":1567058453,
     "wof:name":"Emu Bay",
     "wof:parent_id":404545611,
     "wof:placetype":"locality",
-    "wof:population":390,
+    "wof:population":114,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],

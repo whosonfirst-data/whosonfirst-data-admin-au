@@ -47,6 +47,7 @@
     "qs_pg:woe_id":22721525,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Queensland",
@@ -63,6 +64,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"QLD1576",
+        "ausstat:2016":"SSC31561",
         "gn:id":8348874,
         "qs_pg:id":966363,
         "wd:id":"Q16893490",
@@ -84,10 +86,11 @@
         }
     ],
     "wof:id":1108979959,
-    "wof:lastmodified":1566799925,
+    "wof:lastmodified":1567057931,
     "wof:name":"Kingsholme",
     "wof:parent_id":404542811,
     "wof:placetype":"locality",
+    "wof:population":286,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

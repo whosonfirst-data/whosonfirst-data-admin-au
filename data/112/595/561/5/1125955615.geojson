@@ -38,7 +38,7 @@
     "qs_pg:woe_id":1095605,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Western Australia",
@@ -54,6 +54,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"WA2247",
+        "ausstat:2016":"SSC50449",
         "gn:id":2072354,
         "gp:id":1095605,
         "qs_pg:id":1290521
@@ -73,11 +74,11 @@
         }
     ],
     "wof:id":1125955615,
-    "wof:lastmodified":1566802996,
+    "wof:lastmodified":1567058871,
     "wof:name":"East Beverley",
     "wof:parent_id":404546763,
     "wof:placetype":"locality",
-    "wof:population":256,
+    "wof:population":96,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],

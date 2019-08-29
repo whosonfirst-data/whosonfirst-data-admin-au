@@ -176,6 +176,7 @@
     "qs_pg:woe_id":1098438,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Victoria",
@@ -191,6 +192,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"VIC2232",
+        "ausstat:2016":"SSC22217",
         "gn:id":2150527,
         "gp:id":1098438,
         "qs_pg:id":1092966
@@ -210,10 +212,11 @@
         }
     ],
     "wof:id":1125839569,
-    "wof:lastmodified":1566802251,
+    "wof:lastmodified":1567057316,
     "wof:name":"Samaria",
     "wof:parent_id":404540421,
     "wof:placetype":"locality",
+    "wof:population":57,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

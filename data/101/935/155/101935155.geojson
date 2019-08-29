@@ -35,6 +35,7 @@
     "src:geom":"aus-psma",
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681463,
         102191583,
@@ -45,7 +46,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "aus-psma":"QLD2415"
+        "aus-psma":"QLD2415",
+        "ausstat:2016":"SSC32378"
     },
     "wof:coterminous":[
         404543789
@@ -64,10 +66,11 @@
         }
     ],
     "wof:id":101935155,
-    "wof:lastmodified":1566800193,
+    "wof:lastmodified":1567058143,
     "wof:name":"Portsmith",
     "wof:parent_id":404543789,
     "wof:placetype":"locality",
+    "wof:population":260,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

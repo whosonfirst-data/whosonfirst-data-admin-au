@@ -43,7 +43,7 @@
     "qs_pg:woe_id":1103714,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"New South Wales",
@@ -59,6 +59,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"NSW2515",
+        "ausstat:2016":"SSC12494",
         "gn:id":2158689,
         "gp:id":1103714,
         "qs_pg:id":1034017
@@ -78,11 +79,11 @@
         }
     ],
     "wof:id":1125912135,
-    "wof:lastmodified":1566798545,
+    "wof:lastmodified":1567055885,
     "wof:name":"Marlee",
     "wof:parent_id":404224729,
     "wof:placetype":"locality",
-    "wof:population":323,
+    "wof:population":219,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],

@@ -54,7 +54,7 @@
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681439,
         102191583,
@@ -67,6 +67,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"WA2462",
+        "ausstat:2016":"SSC51647",
         "gn:id":2057614,
         "qs_pg:id":372806,
         "wd:id":"Q8047495"
@@ -87,11 +88,11 @@
         }
     ],
     "wof:id":1125882141,
-    "wof:lastmodified":1566803064,
+    "wof:lastmodified":1567059168,
     "wof:name":"Yallingup",
     "wof:parent_id":404548637,
     "wof:placetype":"locality",
-    "wof:population":1059,
+    "wof:population":1029,
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],

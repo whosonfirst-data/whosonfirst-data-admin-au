@@ -45,7 +45,7 @@
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681545,
         102191583,
@@ -57,6 +57,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"NSW362",
+        "ausstat:2016":"SSC10360",
         "gn:id":2175800,
         "qs_pg:id":573042,
         "wd:id":"Q21918385"
@@ -76,11 +77,11 @@
         }
     ],
     "wof:id":1125837821,
-    "wof:lastmodified":1566799010,
+    "wof:lastmodified":1567055162,
     "wof:name":"Bimbi",
     "wof:parent_id":404225761,
     "wof:placetype":"locality",
-    "wof:population":158,
+    "wof:population":114,
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],

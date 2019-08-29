@@ -89,6 +89,7 @@
     "src:geom":"aus-psma",
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "wd:wordcount":212,
     "wof:belongsto":[
         85681439,
@@ -100,7 +101,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "aus-psma":"WA3376"
+        "aus-psma":"WA3376",
+        "ausstat:2016":"SSC51342"
     },
     "wof:coterminous":[
         404548275
@@ -119,10 +121,11 @@
         }
     ],
     "wof:id":101937769,
-    "wof:lastmodified":1566803440,
+    "wof:lastmodified":1567059097,
     "wof:name":"Sinclair",
     "wof:parent_id":404548275,
     "wof:placetype":"locality",
+    "wof:population":878,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -52,7 +52,7 @@
     "qs_pg:woe_id":1096964,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Tasmania",
@@ -68,6 +68,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"TAS349",
+        "ausstat:2016":"SSC60348",
         "gn:id":2159649,
         "gp:id":1096964,
         "qs_pg:id":1013074
@@ -87,11 +88,11 @@
         }
     ],
     "wof:id":1126010393,
-    "wof:lastmodified":1566801516,
+    "wof:lastmodified":1567059284,
     "wof:name":"Longley",
     "wof:parent_id":404549119,
     "wof:placetype":"locality",
-    "wof:population":328,
+    "wof:population":234,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],

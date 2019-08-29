@@ -279,6 +279,7 @@
     "qs_pg:woe_id":28584482,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"New South Wales",
@@ -295,6 +296,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"NSW868",
+        "ausstat:2016":"SSC10854",
         "gp:id":28584482,
         "qs_pg:id":424107
     },
@@ -314,10 +316,11 @@
         }
     ],
     "wof:id":1125992571,
-    "wof:lastmodified":1566799586,
+    "wof:lastmodified":1567055327,
     "wof:name":"Cataract",
     "wof:parent_id":404224661,
     "wof:placetype":"locality",
+    "wof:population":8,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

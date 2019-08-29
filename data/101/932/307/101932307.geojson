@@ -35,6 +35,7 @@
     "src:geom":"aus-psma",
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681545,
         102191583,
@@ -45,7 +46,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "aus-psma":"NSW4282"
+        "aus-psma":"NSW4282",
+        "ausstat:2016":"SSC14248"
     },
     "wof:coterminous":[
         404226991
@@ -64,10 +66,11 @@
         }
     ],
     "wof:id":101932307,
-    "wof:lastmodified":1566799285,
+    "wof:lastmodified":1567056461,
     "wof:name":"West Nowra",
     "wof:parent_id":404226991,
     "wof:placetype":"locality",
+    "wof:population":1406,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

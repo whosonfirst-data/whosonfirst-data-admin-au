@@ -96,7 +96,7 @@
     "src:geom":"aus-psma",
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"ausstat:2016",
     "wd:latitude":55.98,
     "wd:longitude":-4.06,
     "wd:wordcount":1449,
@@ -112,6 +112,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"VIC1349",
+        "ausstat:2016":"SSC21346",
         "gn:id":2161408,
         "wd:id":"Q6408209"
     },
@@ -133,11 +134,11 @@
         }
     ],
     "wof:id":101933129,
-    "wof:lastmodified":1566801893,
+    "wof:lastmodified":1567056993,
     "wof:name":"Kilsyth",
     "wof:parent_id":404539081,
     "wof:placetype":"locality",
-    "wof:population":10043,
+    "wof:population":10891,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],

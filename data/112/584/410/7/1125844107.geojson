@@ -45,6 +45,7 @@
     "qs_pg:woe_id":1098775,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"New South Wales",
@@ -60,6 +61,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"NSW3765",
+        "ausstat:2016":"SSC13732",
         "gn:id":2147554,
         "gp:id":1098775,
         "qs_pg:id":1173526,
@@ -80,10 +82,11 @@
         }
     ],
     "wof:id":1125844107,
-    "wof:lastmodified":1566799076,
+    "wof:lastmodified":1567056300,
     "wof:name":"Tallimba",
     "wof:parent_id":404226381,
     "wof:placetype":"locality",
+    "wof:population":184,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

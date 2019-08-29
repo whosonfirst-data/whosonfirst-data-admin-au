@@ -40,7 +40,7 @@
     "qs_pg:woe_id":1095638,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Tasmania",
@@ -56,6 +56,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"TAS181",
+        "ausstat:2016":"SSC60180",
         "gn:id":2167754,
         "gp:id":1095638,
         "qs_pg:id":270529
@@ -75,11 +76,11 @@
         }
     ],
     "wof:id":1125874835,
-    "wof:lastmodified":1566801428,
+    "wof:lastmodified":1567059228,
     "wof:name":"Edith Creek",
     "wof:parent_id":404549401,
     "wof:placetype":"locality",
-    "wof:population":210,
+    "wof:population":141,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],

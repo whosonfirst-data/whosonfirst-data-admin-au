@@ -56,6 +56,7 @@
     "qs_pg:woe_id":1104967,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Queensland",
@@ -71,6 +72,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"QLD3382",
+        "ausstat:2016":"SSC32317",
         "gn:id":2153459,
         "gp:id":1104967,
         "qs_pg:id":278096,
@@ -91,10 +93,11 @@
         }
     ],
     "wof:id":1125800855,
-    "wof:lastmodified":1566800511,
+    "wof:lastmodified":1567058126,
     "wof:name":"Pentland",
     "wof:parent_id":404544333,
     "wof:placetype":"locality",
+    "wof:population":306,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

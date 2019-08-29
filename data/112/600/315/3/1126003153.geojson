@@ -51,7 +51,7 @@
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681545,
         102191583,
@@ -63,6 +63,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"NSW2373",
+        "ausstat:2016":"SSC12350",
         "gn:id":2160034,
         "qs_pg:id":572919,
         "wd:id":"Q6649111"
@@ -82,11 +83,11 @@
         }
     ],
     "wof:id":1126003153,
-    "wof:lastmodified":1566798484,
+    "wof:lastmodified":1567055835,
     "wof:name":"Little Billabong",
     "wof:parent_id":404224541,
     "wof:placetype":"locality",
-    "wof:population":464,
+    "wof:population":110,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],

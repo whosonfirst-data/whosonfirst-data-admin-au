@@ -41,6 +41,7 @@
     "qs_pg:woe_id":1097863,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Victoria",
@@ -56,6 +57,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"VIC1969",
+        "ausstat:2016":"SSC21961",
         "gn:id":2154815,
         "gp:id":1097863,
         "qs_pg:id":490052
@@ -75,10 +77,11 @@
         }
     ],
     "wof:id":1125929969,
-    "wof:lastmodified":1566802139,
+    "wof:lastmodified":1567057211,
     "wof:name":"Norval",
     "wof:parent_id":404538099,
     "wof:placetype":"locality",
+    "wof:population":38,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

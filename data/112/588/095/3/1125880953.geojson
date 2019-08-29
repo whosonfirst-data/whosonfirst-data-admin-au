@@ -39,6 +39,7 @@
     "qs_pg:woe_id":22721843,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Victoria",
@@ -54,6 +55,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"VIC2031",
+        "ausstat:2016":"SSC22023",
         "gp:id":22721843,
         "qs_pg:id":1329343,
         "wd:id":"Q18166285"
@@ -73,10 +75,11 @@
         }
     ],
     "wof:id":1125880953,
-    "wof:lastmodified":1566802164,
+    "wof:lastmodified":1567057230,
     "wof:name":"Paraparap",
     "wof:parent_id":404539873,
     "wof:placetype":"locality",
+    "wof:population":151,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

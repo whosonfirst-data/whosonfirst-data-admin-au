@@ -40,7 +40,7 @@
     "qs_pg:woe_id":1097726,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Western Australia",
@@ -56,6 +56,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"WA1886",
+        "ausstat:2016":"SSC51090",
         "gn:id":2064857,
         "gp:id":1097726,
         "qs_pg:id":943809
@@ -75,11 +76,11 @@
         }
     ],
     "wof:id":1126020251,
-    "wof:lastmodified":1566802897,
+    "wof:lastmodified":1567059031,
     "wof:name":"Neendaling",
     "wof:parent_id":404547611,
     "wof:placetype":"locality",
-    "wof:population":150,
+    "wof:population":22,
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],

@@ -42,6 +42,7 @@
     "qs_pg:woe_id":1106939,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Queensland",
@@ -57,6 +58,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"QLD3277",
+        "ausstat:2016":"SSC33221",
         "gn:id":2142722,
         "gp:id":1106939,
         "qs_pg:id":270302,
@@ -77,10 +79,11 @@
         }
     ],
     "wof:id":1125791663,
-    "wof:lastmodified":1566800479,
+    "wof:lastmodified":1567058340,
     "wof:name":"Yaamba",
     "wof:parent_id":404543181,
     "wof:placetype":"locality",
+    "wof:population":62,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

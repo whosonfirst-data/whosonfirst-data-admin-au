@@ -51,6 +51,7 @@
     "qs_pg:woe_id":22721988,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Victoria",
@@ -67,6 +68,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"VIC2156",
+        "ausstat:2016":"SSC22147",
         "gp:id":22721988,
         "qs_pg:id":1001965,
         "wd:id":"Q7306826"
@@ -87,10 +89,11 @@
         }
     ],
     "wof:id":1125998815,
-    "wof:lastmodified":1566802220,
+    "wof:lastmodified":1567057283,
     "wof:name":"Reefton",
     "wof:parent_id":404539413,
     "wof:placetype":"locality",
+    "wof:population":59,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -51,6 +51,7 @@
     "qs_pg:woe_id":28586320,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Tasmania",
@@ -66,6 +67,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"TAS424",
+        "ausstat:2016":"SSC60422",
         "gp:id":28586320,
         "qs_pg:id":111260
     },
@@ -84,10 +86,11 @@
         }
     ],
     "wof:id":1126008797,
-    "wof:lastmodified":1566801552,
+    "wof:lastmodified":1567059306,
     "wof:name":"Mount Field",
     "wof:parent_id":404549211,
     "wof:placetype":"locality",
+    "wof:population":3,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

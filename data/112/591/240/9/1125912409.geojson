@@ -44,6 +44,7 @@
     "qs_pg:woe_id":1097950,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Tasmania",
@@ -59,6 +60,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"TAS474",
+        "ausstat:2016":"SSC60472",
         "gn:id":2154272,
         "gp:id":1097950,
         "qs_pg:id":58599
@@ -78,10 +80,11 @@
         }
     ],
     "wof:id":1125912409,
-    "wof:lastmodified":1566801579,
+    "wof:lastmodified":1567059323,
     "wof:name":"Oonah",
     "wof:parent_id":404549011,
     "wof:placetype":"locality",
+    "wof:population":3,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -218,6 +218,7 @@
     "qs_pg:woe_id":28584594,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"New South Wales",
@@ -233,6 +234,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"NSW1021",
+        "ausstat:2016":"SSC11008",
         "gn:id":8347770,
         "qs_pg:id":1000607,
         "wd:id":"Q19872453",
@@ -253,10 +255,11 @@
         }
     ],
     "wof:id":1108979993,
-    "wof:lastmodified":1566797907,
+    "wof:lastmodified":1567055377,
     "wof:name":"Congo",
     "wof:parent_id":404222735,
     "wof:placetype":"locality",
+    "wof:population":245,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

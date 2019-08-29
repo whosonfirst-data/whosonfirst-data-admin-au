@@ -40,7 +40,7 @@
     "qs_pg:woe_id":1102151,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"New South Wales",
@@ -56,6 +56,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"NSW1606",
+        "ausstat:2016":"SSC11588",
         "gn:id":2165870,
         "gp:id":1102151,
         "qs_pg:id":138781
@@ -75,11 +76,11 @@
         }
     ],
     "wof:id":1126013491,
-    "wof:lastmodified":1566798149,
+    "wof:lastmodified":1567055574,
     "wof:name":"Garema",
     "wof:parent_id":404222275,
     "wof:placetype":"locality",
-    "wof:population":131,
+    "wof:population":104,
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],

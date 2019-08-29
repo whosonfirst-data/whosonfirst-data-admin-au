@@ -36,7 +36,7 @@
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681463,
         102191583,
@@ -48,6 +48,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"QLD2459",
+        "ausstat:2016":"SSC32423",
         "gn:id":2152041,
         "qs_pg:id":572864
     },
@@ -66,11 +67,11 @@
         }
     ],
     "wof:id":1126011779,
-    "wof:lastmodified":1566800210,
+    "wof:lastmodified":1567058159,
     "wof:name":"Rawbelle",
     "wof:parent_id":404542097,
     "wof:placetype":"locality",
-    "wof:population":102,
+    "wof:population":56,
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],

@@ -45,7 +45,7 @@
     "qs_pg:woe_id":1098580,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Tasmania",
@@ -61,6 +61,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"TAS616",
+        "ausstat:2016":"SSC60614",
         "gn:id":2148919,
         "gp:id":1098580,
         "qs_pg:id":210587
@@ -80,11 +81,11 @@
         }
     ],
     "wof:id":1125892505,
-    "wof:lastmodified":1566801654,
+    "wof:lastmodified":1567059369,
     "wof:name":"South Riana",
     "wof:parent_id":404549439,
     "wof:placetype":"locality",
-    "wof:population":324,
+    "wof:population":214,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],

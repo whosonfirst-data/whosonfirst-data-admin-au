@@ -66,6 +66,7 @@
     "qs_pg:woe_id":1102552,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"New South Wales",
@@ -81,6 +82,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"NSW1863",
+        "ausstat:2016":"SSC11847",
         "gn:id":2163981,
         "gp:id":1102552,
         "qs_pg:id":981263,
@@ -101,10 +103,11 @@
         }
     ],
     "wof:id":1125906873,
-    "wof:lastmodified":1566798260,
+    "wof:lastmodified":1567055658,
     "wof:name":"Hanging Rock",
     "wof:parent_id":404225441,
     "wof:placetype":"locality",
+    "wof:population":105,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

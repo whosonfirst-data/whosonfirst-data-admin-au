@@ -57,7 +57,7 @@
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681439,
         102191583,
@@ -69,6 +69,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"WA2143",
+        "ausstat:2016":"SSC51503",
         "gn:id":2059175,
         "qs_pg:id":571808,
         "wd:id":"Q4018096"
@@ -88,11 +89,11 @@
         }
     ],
     "wof:id":1125837665,
-    "wof:lastmodified":1566802971,
+    "wof:lastmodified":1567059131,
     "wof:name":"Wandering",
     "wof:parent_id":404548465,
     "wof:placetype":"locality",
-    "wof:population":355,
+    "wof:population":294,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],

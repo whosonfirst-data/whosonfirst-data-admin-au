@@ -41,7 +41,7 @@
     "qs_pg:woe_id":1100740,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"New South Wales",
@@ -57,6 +57,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"NSW657",
+        "ausstat:2016":"SSC10648",
         "gn:id":2173558,
         "gp:id":1100740,
         "qs_pg:id":1292264
@@ -76,11 +77,11 @@
         }
     ],
     "wof:id":1125844881,
-    "wof:lastmodified":1566799497,
+    "wof:lastmodified":1567055258,
     "wof:name":"Bukkulla",
     "wof:parent_id":404222261,
     "wof:placetype":"locality",
-    "wof:population":146,
+    "wof:population":140,
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],

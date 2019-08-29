@@ -534,7 +534,7 @@
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681545,
         102191583,
@@ -546,6 +546,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"NSW2969",
+        "ausstat:2016":"SSC12944",
         "gn:id":2155421,
         "qs_pg:id":572891
     },
@@ -564,11 +565,11 @@
         }
     ],
     "wof:id":1126026521,
-    "wof:lastmodified":1566798734,
+    "wof:lastmodified":1567056033,
     "wof:name":"New Mexico",
     "wof:parent_id":404226719,
     "wof:placetype":"locality",
-    "wof:population":281,
+    "wof:population":52,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],

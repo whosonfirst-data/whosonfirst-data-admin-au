@@ -63,7 +63,7 @@
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681545,
         102191583,
@@ -75,6 +75,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"NSW330",
+        "ausstat:2016":"SSC10329",
         "gn:id":2175990,
         "qs_pg:id":138895,
         "wd:id":"Q19460515"
@@ -94,11 +95,11 @@
         }
     ],
     "wof:id":1125868673,
-    "wof:lastmodified":1566798873,
+    "wof:lastmodified":1567055153,
     "wof:name":"Bevendale",
     "wof:parent_id":404222197,
     "wof:placetype":"locality",
-    "wof:population":98,
+    "wof:population":41,
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],

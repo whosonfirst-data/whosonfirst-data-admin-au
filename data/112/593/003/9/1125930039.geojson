@@ -50,6 +50,7 @@
     "qs_pg:woe_id":1100913,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"South Australia",
@@ -65,6 +66,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"SA197",
+        "ausstat:2016":"SSC40201",
         "gn:id":2075170,
         "gp:id":1100913,
         "qs_pg:id":490096,
@@ -85,10 +87,11 @@
         }
     ],
     "wof:id":1125930039,
-    "wof:lastmodified":1566801018,
+    "wof:lastmodified":1567058400,
     "wof:name":"Calca",
     "wof:parent_id":404546365,
     "wof:placetype":"locality",
+    "wof:population":9,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

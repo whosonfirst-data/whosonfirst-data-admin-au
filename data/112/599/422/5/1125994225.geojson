@@ -41,6 +41,7 @@
     "qs_pg:woe_id":1096206,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Western Australia",
@@ -56,6 +57,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"WA2779",
+        "ausstat:2016":"SSC50603",
         "gn:id":2078293,
         "gp:id":1096206,
         "qs_pg:id":898174
@@ -75,10 +77,11 @@
         }
     ],
     "wof:id":1125994225,
-    "wof:lastmodified":1566803147,
+    "wof:lastmodified":1567058906,
     "wof:name":"Hamelin Bay",
     "wof:parent_id":404547555,
     "wof:placetype":"locality",
+    "wof:population":45,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

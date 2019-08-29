@@ -60,6 +60,7 @@
     "qs_pg:woe_id":28584956,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"South Australia",
@@ -75,6 +76,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"SA375",
+        "ausstat:2016":"SSC40383",
         "gp:id":28584956,
         "qs_pg:id":216082,
         "wd:id":"Q19461508"
@@ -94,10 +96,11 @@
         }
     ],
     "wof:id":1125807595,
-    "wof:lastmodified":1566801157,
+    "wof:lastmodified":1567058447,
     "wof:name":"Ebenezer",
     "wof:parent_id":404545223,
     "wof:placetype":"locality",
+    "wof:population":173,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

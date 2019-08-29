@@ -80,6 +80,7 @@
     "src:geom":"aus-psma",
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "wd:wordcount":125,
     "wof:belongsto":[
         85681545,
@@ -91,7 +92,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "aus-psma":"NSW2383"
+        "aus-psma":"NSW2383",
+        "ausstat:2016":"SSC12360"
     },
     "wof:coterminous":[
         404224549
@@ -110,10 +112,11 @@
         }
     ],
     "wof:id":101931063,
-    "wof:lastmodified":1566798486,
+    "wof:lastmodified":1567055837,
     "wof:name":"Littleton",
     "wof:parent_id":404224549,
     "wof:placetype":"locality",
+    "wof:population":799,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

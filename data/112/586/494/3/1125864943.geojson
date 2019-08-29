@@ -71,7 +71,7 @@
     "qs_pg:woe_id":1094477,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"New South Wales",
@@ -87,6 +87,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"NSW409",
+        "ausstat:2016":"SSC10405",
         "gn:id":2175355,
         "gp:id":1094477,
         "qs_pg:id":1107620
@@ -106,11 +107,11 @@
         }
     ],
     "wof:id":1125864943,
-    "wof:lastmodified":1566799202,
+    "wof:lastmodified":1567055179,
     "wof:name":"Bland",
     "wof:parent_id":404227229,
     "wof:placetype":"locality",
-    "wof:population":110,
+    "wof:population":46,
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],

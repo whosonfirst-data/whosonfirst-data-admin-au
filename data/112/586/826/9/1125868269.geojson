@@ -54,7 +54,7 @@
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681439,
         102191583,
@@ -66,6 +66,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"WA1885",
+        "ausstat:2016":"SSC51161",
         "gn:id":2064329,
         "qs_pg:id":138012,
         "wd:id":"Q3879964"
@@ -85,11 +86,11 @@
         }
     ],
     "wof:id":1125868269,
-    "wof:lastmodified":1566802897,
+    "wof:lastmodified":1567059047,
     "wof:name":"Nyabing",
     "wof:parent_id":404548037,
     "wof:placetype":"locality",
-    "wof:population":297,
+    "wof:population":296,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],

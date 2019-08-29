@@ -71,6 +71,7 @@
     "qs_pg:woe_id":1097357,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Queensland",
@@ -87,6 +88,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"QLD1937",
+        "ausstat:2016":"SSC31904",
         "gn:id":2157157,
         "gp:id":1097357,
         "qs_pg:id":245717,
@@ -108,10 +110,11 @@
         }
     ],
     "wof:id":1126009087,
-    "wof:lastmodified":1566800038,
+    "wof:lastmodified":1567058015,
     "wof:name":"Montville",
     "wof:parent_id":404543225,
     "wof:placetype":"locality",
+    "wof:population":970,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

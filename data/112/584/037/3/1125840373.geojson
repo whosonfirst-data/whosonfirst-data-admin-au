@@ -41,6 +41,7 @@
     "qs_pg:woe_id":1101980,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Queensland",
@@ -56,6 +57,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"QLD1012",
+        "ausstat:2016":"SSC31007",
         "gn:id":2167126,
         "gp:id":1101980,
         "qs_pg:id":876040
@@ -75,10 +77,11 @@
         }
     ],
     "wof:id":1125840373,
-    "wof:lastmodified":1566799754,
+    "wof:lastmodified":1567057798,
     "wof:name":"Eungella",
     "wof:parent_id":404542169,
     "wof:placetype":"locality",
+    "wof:population":194,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

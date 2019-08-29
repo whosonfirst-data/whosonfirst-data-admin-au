@@ -35,6 +35,7 @@
     "src:geom":"aus-psma",
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681463,
         102191583,
@@ -45,7 +46,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "aus-psma":"QLD2871"
+        "aus-psma":"QLD2871",
+        "ausstat:2016":"SSC32827"
     },
     "wof:coterminous":[
         404544355
@@ -64,10 +66,11 @@
         }
     ],
     "wof:id":101935457,
-    "wof:lastmodified":1566800347,
+    "wof:lastmodified":1567058256,
     "wof:name":"The Mine",
     "wof:parent_id":404544355,
     "wof:placetype":"locality",
+    "wof:population":47,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

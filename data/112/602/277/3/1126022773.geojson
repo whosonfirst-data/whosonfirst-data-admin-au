@@ -53,6 +53,7 @@
     "qs_pg:woe_id":1095812,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"South Australia",
@@ -69,6 +70,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"SA431",
+        "ausstat:2016":"SSC40440",
         "gn:id":2071484,
         "gp:id":1095812,
         "qs_pg:id":1019972,
@@ -90,10 +92,11 @@
         }
     ],
     "wof:id":1126022773,
-    "wof:lastmodified":1566801182,
+    "wof:lastmodified":1567058463,
     "wof:name":"Flaxley",
     "wof:parent_id":404545313,
     "wof:placetype":"locality",
+    "wof:population":173,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

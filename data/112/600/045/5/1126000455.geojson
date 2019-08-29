@@ -51,6 +51,7 @@
     "qs_pg:woe_id":28585124,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Tasmania",
@@ -66,6 +67,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"TAS216",
+        "ausstat:2016":"SSC60215",
         "gp:id":28585124,
         "qs_pg:id":242000
     },
@@ -84,10 +86,11 @@
         }
     ],
     "wof:id":1126000455,
-    "wof:lastmodified":1566801446,
+    "wof:lastmodified":1567059239,
     "wof:name":"Freycinet",
     "wof:parent_id":404548809,
     "wof:placetype":"locality",
+    "wof:population":6,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

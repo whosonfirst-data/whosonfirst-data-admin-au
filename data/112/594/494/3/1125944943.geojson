@@ -100,7 +100,7 @@
     "qs_pg:woe_id":1094273,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Tasmania",
@@ -116,6 +116,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"TAS32",
+        "ausstat:2016":"SSC60032",
         "gn:id":2176718,
         "gp:id":1094273,
         "qs_pg:id":1141591
@@ -135,11 +136,11 @@
         }
     ],
     "wof:id":1125944943,
-    "wof:lastmodified":1566801500,
+    "wof:lastmodified":1567059182,
     "wof:name":"Barrington",
     "wof:parent_id":404548703,
     "wof:placetype":"locality",
-    "wof:population":587,
+    "wof:population":197,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],

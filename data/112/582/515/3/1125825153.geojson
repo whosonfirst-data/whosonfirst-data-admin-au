@@ -42,6 +42,7 @@
     "qs_pg:woe_id":1103541,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Queensland",
@@ -57,6 +58,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"QLD1738",
+        "ausstat:2016":"SSC31714",
         "gn:id":2159425,
         "gp:id":1103541,
         "qs_pg:id":1034022,
@@ -77,10 +79,11 @@
         }
     ],
     "wof:id":1125825153,
-    "wof:lastmodified":1566799969,
+    "wof:lastmodified":1567057964,
     "wof:name":"Lowmead",
     "wof:parent_id":404543001,
     "wof:placetype":"locality",
+    "wof:population":156,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

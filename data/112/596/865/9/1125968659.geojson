@@ -41,6 +41,7 @@
     "qs_pg:woe_id":1105925,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"South Australia",
@@ -56,6 +57,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"SA1371",
+        "ausstat:2016":"SSC41423",
         "gn:id":2060422,
         "gp:id":1105925,
         "qs_pg:id":188273
@@ -75,10 +77,11 @@
         }
     ],
     "wof:id":1125968659,
-    "wof:lastmodified":1566800898,
+    "wof:lastmodified":1567058706,
     "wof:name":"Tepko",
     "wof:parent_id":404545047,
     "wof:placetype":"locality",
+    "wof:population":21,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

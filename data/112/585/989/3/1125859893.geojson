@@ -39,6 +39,7 @@
     "qs_pg:woe_id":28585038,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Western Australia",
@@ -55,6 +56,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"WA2586",
+        "ausstat:2016":"SSC50498",
         "gp:id":28585038,
         "qs_pg:id":1285605,
         "wd:id":"Q5430041"
@@ -75,10 +77,11 @@
         }
     ],
     "wof:id":1125859893,
-    "wof:lastmodified":1566803092,
+    "wof:lastmodified":1567058881,
     "wof:name":"Fairbridge",
     "wof:parent_id":404547773,
     "wof:placetype":"locality",
+    "wof:population":48,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

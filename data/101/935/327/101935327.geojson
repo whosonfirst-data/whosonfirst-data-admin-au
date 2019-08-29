@@ -35,6 +35,7 @@
     "src:geom":"aus-psma",
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681463,
         102191583,
@@ -45,7 +46,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "aus-psma":"QLD2655"
+        "aus-psma":"QLD2655",
+        "ausstat:2016":"SSC32615"
     },
     "wof:coterminous":[
         404544101
@@ -64,10 +66,11 @@
         }
     ],
     "wof:id":101935327,
-    "wof:lastmodified":1566800279,
+    "wof:lastmodified":1567058212,
     "wof:name":"South Innisfail",
     "wof:parent_id":404544101,
     "wof:placetype":"locality",
+    "wof:population":506,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[

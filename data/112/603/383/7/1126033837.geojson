@@ -149,6 +149,7 @@
     "qs_pg:woe_id":1103084,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Victoria",
@@ -164,6 +165,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"VIC1343",
+        "ausstat:2016":"SSC21340",
         "gn:id":2161439,
         "gp:id":1103084,
         "qs_pg:id":1028000,
@@ -184,10 +186,11 @@
         }
     ],
     "wof:id":1126033837,
-    "wof:lastmodified":1566801890,
+    "wof:lastmodified":1567056990,
     "wof:name":"Killarney",
     "wof:parent_id":404540083,
     "wof:placetype":"locality",
+    "wof:population":205,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

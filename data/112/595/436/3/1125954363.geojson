@@ -71,6 +71,7 @@
     "qs_pg:woe_id":1098637,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"South Australia",
@@ -87,6 +88,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"SA1307",
+        "ausstat:2016":"SSC41358",
         "gn:id":2062033,
         "gp:id":1098637,
         "qs_pg:id":1027757,
@@ -108,10 +110,11 @@
         }
     ],
     "wof:id":1125954363,
-    "wof:lastmodified":1566800873,
+    "wof:lastmodified":1567058692,
     "wof:name":"St Kilda",
     "wof:parent_id":404546537,
     "wof:placetype":"locality",
+    "wof:population":70,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

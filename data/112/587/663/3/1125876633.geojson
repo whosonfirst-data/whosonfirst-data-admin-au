@@ -41,6 +41,7 @@
     "qs_pg:woe_id":1099082,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Victoria",
@@ -56,6 +57,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"VIC2606",
+        "ausstat:2016":"SSC22590",
         "gn:id":2145614,
         "gp:id":1099082,
         "qs_pg:id":44127
@@ -75,10 +77,11 @@
         }
     ],
     "wof:id":1125876633,
-    "wof:lastmodified":1566802407,
+    "wof:lastmodified":1567057433,
     "wof:name":"Tyrendarra East",
     "wof:parent_id":404537775,
     "wof:placetype":"locality",
+    "wof:population":27,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

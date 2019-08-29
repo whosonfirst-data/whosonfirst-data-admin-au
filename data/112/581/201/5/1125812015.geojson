@@ -47,6 +47,7 @@
     "qs_pg:woe_id":1094936,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Queensland",
@@ -63,6 +64,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"QLD542",
+        "ausstat:2016":"SSC30539",
         "gn:id":2172356,
         "gp:id":1094936,
         "qs_pg:id":273277,
@@ -84,10 +86,11 @@
         }
     ],
     "wof:id":1125812015,
-    "wof:lastmodified":1566800585,
+    "wof:lastmodified":1567057685,
     "wof:name":"Carbrook",
     "wof:parent_id":404541623,
     "wof:placetype":"locality",
+    "wof:population":1216,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

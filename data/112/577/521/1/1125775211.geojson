@@ -50,6 +50,7 @@
     "qs_pg:woe_id":1099076,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Tasmania",
@@ -65,6 +66,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"TAS697",
+        "ausstat:2016":"SSC60694",
         "gn:id":2145636,
         "gp:id":1099076,
         "qs_pg:id":1159487,
@@ -85,10 +87,11 @@
         }
     ],
     "wof:id":1125775211,
-    "wof:lastmodified":1566801694,
+    "wof:lastmodified":1567059394,
     "wof:name":"Tyenna",
     "wof:parent_id":404549211,
     "wof:placetype":"locality",
+    "wof:population":43,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

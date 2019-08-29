@@ -66,6 +66,7 @@
     "qs_pg:woe_id":28586006,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"New South Wales",
@@ -81,6 +82,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"NSW2502",
+        "ausstat:2016":"SSC12481",
         "gp:id":28586006,
         "qs_pg:id":528852
     },
@@ -99,10 +101,11 @@
         }
     ],
     "wof:id":1125838517,
-    "wof:lastmodified":1566798539,
+    "wof:lastmodified":1567055880,
     "wof:name":"Manton",
     "wof:parent_id":404227295,
     "wof:placetype":"locality",
+    "wof:population":294,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -48,6 +48,7 @@
     "qs_pg:woe_id":28644950,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Queensland",
@@ -63,6 +64,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"QLD387",
+        "ausstat:2016":"SSC30386",
         "gp:id":28644950,
         "qs_pg:id":229705
     },
@@ -81,10 +83,11 @@
         }
     ],
     "wof:id":1125838331,
-    "wof:lastmodified":1566800531,
+    "wof:lastmodified":1567057642,
     "wof:name":"Broken River",
     "wof:parent_id":404542169,
     "wof:placetype":"locality",
+    "wof:population":22,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"133.409607,-17.371317,133.409607,-17.371317",
     "geom:latitude":-17.371317,
     "geom:longitude":133.409607,
@@ -62,6 +62,7 @@
     "qs_pg:woe_id":1104585,
     "src:geom":"qs_pg",
     "src:lbl:centroid":"qs_pg",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Northern Territory",
@@ -76,6 +77,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC70205",
         "gp:id":1104585,
         "qs_pg:id":990494,
         "wd:id":"Q17994"
@@ -95,10 +97,11 @@
         }
     ],
     "wof:id":1126035923,
-    "wof:lastmodified":1562922280,
+    "wof:lastmodified":1567059464,
     "wof:name":"Newcastle Waters",
     "wof:parent_id":404549867,
     "wof:placetype":"locality",
+    "wof:population":64,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

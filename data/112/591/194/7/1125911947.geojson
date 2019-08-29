@@ -43,7 +43,7 @@
     "qs_pg:woe_id":1105008,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"New South Wales",
@@ -59,6 +59,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"NSW3232",
+        "ausstat:2016":"SSC13204",
         "gn:id":2153180,
         "gp:id":1105008,
         "qs_pg:id":1033953
@@ -78,11 +79,11 @@
         }
     ],
     "wof:id":1125911947,
-    "wof:lastmodified":1566798847,
+    "wof:lastmodified":1567056119,
     "wof:name":"Pillar Valley",
     "wof:parent_id":404225647,
     "wof:placetype":"locality",
-    "wof:population":366,
+    "wof:population":314,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],

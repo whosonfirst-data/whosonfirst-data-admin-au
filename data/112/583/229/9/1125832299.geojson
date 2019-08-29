@@ -42,6 +42,7 @@
     "qs_pg:woe_id":28585878,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"New South Wales",
@@ -55,6 +56,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"NSW2382",
+        "ausstat:2016":"SSC12359",
         "gp:id":28585878,
         "qs_pg:id":1091311,
         "wd:id":"Q6652548"
@@ -72,10 +74,11 @@
         }
     ],
     "wof:id":1125832299,
-    "wof:lastmodified":1566798486,
+    "wof:lastmodified":1567055837,
     "wof:name":"Little Wobby",
     "wof:parent_id":85681545,
     "wof:placetype":"locality",
+    "wof:population":61,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

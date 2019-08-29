@@ -69,6 +69,7 @@
     "qs_pg:woe_id":28645214,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"South Australia",
@@ -84,6 +85,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"SA825",
+        "ausstat:2016":"SSC40860",
         "gp:id":28645214,
         "qs_pg:id":70670,
         "wd:id":"Q24190846"
@@ -103,10 +105,11 @@
         }
     ],
     "wof:id":1125965039,
-    "wof:lastmodified":1566801326,
+    "wof:lastmodified":1567058559,
     "wof:name":"Middle River",
     "wof:parent_id":404546491,
     "wof:placetype":"locality",
+    "wof:population":20,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

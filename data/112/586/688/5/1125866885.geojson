@@ -87,6 +87,7 @@
     "qs_pg:woe_id":28584008,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Queensland",
@@ -102,6 +103,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"QLD195",
+        "ausstat:2016":"SSC30193",
         "gp:id":28584008,
         "qs_pg:id":133664
     },
@@ -120,10 +122,11 @@
         }
     ],
     "wof:id":1125866885,
-    "wof:lastmodified":1566800043,
+    "wof:lastmodified":1567057592,
     "wof:name":"Beatrice",
     "wof:parent_id":404541201,
     "wof:placetype":"locality",
+    "wof:population":99,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

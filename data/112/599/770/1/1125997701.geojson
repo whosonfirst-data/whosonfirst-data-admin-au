@@ -39,6 +39,7 @@
     "qs_pg:woe_id":28586298,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Queensland",
@@ -54,6 +55,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"QLD1995",
+        "ausstat:2016":"SSC31962",
         "gp:id":28586298,
         "qs_pg:id":287957,
         "wd:id":"Q17014487"
@@ -73,10 +75,11 @@
         }
     ],
     "wof:id":1125997701,
-    "wof:lastmodified":1566800059,
+    "wof:lastmodified":1567058032,
     "wof:name":"Mount Byron",
     "wof:parent_id":404541885,
     "wof:placetype":"locality",
+    "wof:population":18,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

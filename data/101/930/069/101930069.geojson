@@ -155,6 +155,7 @@
     "src:geom":"aus-psma",
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681545,
         102191583,
@@ -165,7 +166,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "aus-psma":"NSW1224"
+        "aus-psma":"NSW1224",
+        "ausstat:2016":"SSC11213"
     },
     "wof:coterminous":[
         404222981
@@ -184,10 +186,11 @@
         }
     ],
     "wof:id":101930069,
-    "wof:lastmodified":1566797990,
+    "wof:lastmodified":1567055445,
     "wof:name":"Darlington",
     "wof:parent_id":404222981,
     "wof:placetype":"locality",
+    "wof:population":373,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

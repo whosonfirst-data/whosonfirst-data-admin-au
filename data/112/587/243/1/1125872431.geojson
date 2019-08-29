@@ -44,6 +44,7 @@
     "qs_pg:woe_id":1104548,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"South Australia",
@@ -59,6 +60,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"SA963",
+        "ausstat:2016":"SSC41008",
         "gn:id":2064836,
         "gp:id":1104548,
         "qs_pg:id":948032
@@ -78,10 +80,11 @@
         }
     ],
     "wof:id":1125872431,
-    "wof:lastmodified":1566801375,
+    "wof:lastmodified":1567058594,
     "wof:name":"Nelshaby",
     "wof:parent_id":404545917,
     "wof:placetype":"locality",
+    "wof:population":181,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

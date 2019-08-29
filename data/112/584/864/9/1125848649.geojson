@@ -75,6 +75,7 @@
     "qs_pg:woe_id":28586791,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Queensland",
@@ -90,6 +91,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"QLD2318",
+        "ausstat:2016":"SSC32281",
         "gp:id":28586791,
         "qs_pg:id":1325824
     },
@@ -108,10 +110,11 @@
         }
     ],
     "wof:id":1125848649,
-    "wof:lastmodified":1566800157,
+    "wof:lastmodified":1567058115,
     "wof:name":"Palmerston",
     "wof:parent_id":404544777,
     "wof:placetype":"locality",
+    "wof:population":3,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -39,6 +39,7 @@
     "qs_pg:woe_id":28584079,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"New South Wales",
@@ -54,6 +55,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"NSW355",
+        "ausstat:2016":"SSC10353",
         "gp:id":28584079,
         "qs_pg:id":180213,
         "wd:id":"Q38181913"
@@ -73,10 +75,11 @@
         }
     ],
     "wof:id":1125909509,
-    "wof:lastmodified":1566798979,
+    "wof:lastmodified":1567055160,
     "wof:name":"Billilingra",
     "wof:parent_id":404222169,
     "wof:placetype":"locality",
+    "wof:population":13,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -57,6 +57,7 @@
     "qs_pg:woe_id":1100815,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"New South Wales",
@@ -72,6 +73,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"NSW704",
+        "ausstat:2016":"SSC10691",
         "gp:id":1100815,
         "qs_pg:id":1109893
     },
@@ -90,10 +92,11 @@
         }
     ],
     "wof:id":1125865981,
-    "wof:lastmodified":1566799511,
+    "wof:lastmodified":1567055269,
     "wof:name":"Bunyan",
     "wof:parent_id":404222305,
     "wof:placetype":"locality",
+    "wof:population":152,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -44,6 +44,7 @@
     "qs_pg:woe_id":1099117,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"New South Wales",
@@ -59,6 +60,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"NSW4053",
+        "ausstat:2016":"SSC14017",
         "gn:id":2145462,
         "gp:id":1099117,
         "qs_pg:id":40099,
@@ -79,10 +81,11 @@
         }
     ],
     "wof:id":1125872601,
-    "wof:lastmodified":1566799193,
+    "wof:lastmodified":1567056393,
     "wof:name":"Upper Colo",
     "wof:parent_id":404225107,
     "wof:placetype":"locality",
+    "wof:population":60,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

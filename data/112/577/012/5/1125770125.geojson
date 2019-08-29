@@ -59,6 +59,7 @@
     "qs_pg:woe_id":1100323,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Victoria",
@@ -74,6 +75,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"VIC233",
+        "ausstat:2016":"SSC20232",
         "gn:id":2175989,
         "gp:id":1100323,
         "qs_pg:id":979621,
@@ -94,10 +96,11 @@
         }
     ],
     "wof:id":1125770125,
-    "wof:lastmodified":1566802293,
+    "wof:lastmodified":1567056625,
     "wof:name":"Beveridge",
     "wof:parent_id":404537789,
     "wof:placetype":"locality",
+    "wof:population":2330,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

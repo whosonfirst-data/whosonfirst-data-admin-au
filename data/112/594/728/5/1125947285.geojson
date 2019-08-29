@@ -51,6 +51,7 @@
     "qs_pg:woe_id":28644880,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"New South Wales",
@@ -66,6 +67,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"NSW57",
+        "ausstat:2016":"SSC10058",
         "gn:id":7304462,
         "gp:id":28644880,
         "qs_pg:id":1286574,
@@ -86,10 +88,11 @@
         }
     ],
     "wof:id":1125947285,
-    "wof:lastmodified":1566799460,
+    "wof:lastmodified":1567055061,
     "wof:name":"Anglers Reach",
     "wof:parent_id":404225731,
     "wof:placetype":"locality",
+    "wof:population":94,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

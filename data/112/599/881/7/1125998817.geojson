@@ -48,6 +48,7 @@
     "qs_pg:woe_id":1104467,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Western Australia",
@@ -63,6 +64,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"WA1816",
+        "ausstat:2016":"SSC51069",
         "gp:id":1104467,
         "qs_pg:id":37388
     },
@@ -81,10 +83,11 @@
         }
     ],
     "wof:id":1125998817,
-    "wof:lastmodified":1566802871,
+    "wof:lastmodified":1567059024,
     "wof:name":"Nanga",
     "wof:parent_id":404547007,
     "wof:placetype":"locality",
+    "wof:population":12,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

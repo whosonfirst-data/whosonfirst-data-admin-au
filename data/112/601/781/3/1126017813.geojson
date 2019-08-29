@@ -39,6 +39,7 @@
     "qs_pg:woe_id":1098177,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"New South Wales",
@@ -54,6 +55,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"NSW3277",
+        "ausstat:2016":"SSC13251",
         "gn:id":2152644,
         "gp:id":1098177,
         "qs_pg:id":307984
@@ -73,10 +75,11 @@
         }
     ],
     "wof:id":1126017813,
-    "wof:lastmodified":1566798862,
+    "wof:lastmodified":1567056132,
     "wof:name":"Possum Brush",
     "wof:parent_id":404225191,
     "wof:placetype":"locality",
+    "wof:population":148,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

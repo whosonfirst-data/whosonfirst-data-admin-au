@@ -39,6 +39,7 @@
     "qs_pg:woe_id":28588249,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Victoria",
@@ -54,6 +55,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"VIC2945",
+        "ausstat:2016":"SSC22929",
         "gp:id":28588249,
         "qs_pg:id":1286042,
         "wd:id":"Q33179150"
@@ -73,10 +75,11 @@
         }
     ],
     "wof:id":1125946155,
-    "wof:lastmodified":1566802521,
+    "wof:lastmodified":1567057523,
     "wof:name":"Zumsteins",
     "wof:parent_id":404538797,
     "wof:placetype":"locality",
+    "wof:population":0,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

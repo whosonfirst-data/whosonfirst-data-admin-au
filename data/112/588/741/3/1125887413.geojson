@@ -65,6 +65,7 @@
     "qs_pg:woe_id":1098560,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"New South Wales",
@@ -80,6 +81,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"NSW3603",
+        "ausstat:2016":"SSC13571",
         "gn:id":2149141,
         "gp:id":1098560,
         "qs_pg:id":906469,
@@ -100,10 +102,11 @@
         }
     ],
     "wof:id":1125887413,
-    "wof:lastmodified":1566799003,
+    "wof:lastmodified":1567056241,
     "wof:name":"Somersby",
     "wof:parent_id":404226129,
     "wof:placetype":"locality",
+    "wof:population":1066,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

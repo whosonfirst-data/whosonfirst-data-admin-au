@@ -54,7 +54,7 @@
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681439,
         102191583,
@@ -66,6 +66,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"WA3218",
+        "ausstat:2016":"SSC51170",
         "gn:id":2064165,
         "qs_pg:id":138011,
         "wd:id":"Q7093831"
@@ -85,11 +86,11 @@
         }
     ],
     "wof:id":1125823555,
-    "wof:lastmodified":1566803355,
+    "wof:lastmodified":1567059049,
     "wof:name":"Ongerup",
     "wof:parent_id":404548051,
     "wof:placetype":"locality",
-    "wof:population":120,
+    "wof:population":93,
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],

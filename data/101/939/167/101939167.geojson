@@ -35,6 +35,7 @@
     "src:geom":"aus-psma",
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681545,
         102191583,
@@ -45,7 +46,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "aus-psma":"NSW3009"
+        "aus-psma":"NSW3009",
+        "ausstat:2016":"SSC12983"
     },
     "wof:country":"AU",
     "wof:geomhash":"7c9ad4de8259e22be9acdbb235e3e397",
@@ -61,10 +63,11 @@
         }
     ],
     "wof:id":101939167,
-    "wof:lastmodified":1566798754,
+    "wof:lastmodified":1567056047,
     "wof:name":"North Boambee Valley",
     "wof:parent_id":404225337,
     "wof:placetype":"locality",
+    "wof:population":2002,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

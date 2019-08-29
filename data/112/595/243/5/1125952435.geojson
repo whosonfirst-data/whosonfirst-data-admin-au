@@ -39,6 +39,7 @@
     "qs_pg:woe_id":28588555,
     "src:geom":"aus-psma",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"South Australia",
@@ -54,6 +55,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "aus-psma":"SA364",
+        "ausstat:2016":"SSC40372",
         "gp:id":28588555,
         "qs_pg:id":374964,
         "wd:id":"Q24997906"
@@ -73,10 +75,11 @@
         }
     ],
     "wof:id":1125952435,
-    "wof:lastmodified":1566801154,
+    "wof:lastmodified":1567058444,
     "wof:name":"Dudley East",
     "wof:parent_id":404545549,
     "wof:placetype":"locality",
+    "wof:population":56,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
