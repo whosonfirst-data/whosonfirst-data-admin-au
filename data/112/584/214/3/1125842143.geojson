@@ -5,8 +5,8 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"151.1259595,-32.6273395,151.1259595,-32.6273395",
+    "geom:area_square_m":0,
+    "geom:bbox":"151.125959,-32.627339,151.125959,-32.627339",
     "geom:latitude":-32.627339,
     "geom:longitude":151.125959,
     "gn:gn_country":null,
@@ -35,6 +35,7 @@
     "qs_pg:woe_id":28586412,
     "src:geom":"qs_pg",
     "src:lbl:centroid":"qs_pg",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"New South Wales",
@@ -49,12 +50,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC12794",
         "gp:id":28586412,
         "qs_pg:id":773924
     },
     "wof:country":"AU",
     "wof:created":1497292979,
-    "wof:geomhash":"1c33a2e18e982cf496a3d14ddc941d05",
+    "wof:geomhash":"3dc39f553d0bc0b5835a2e738680158c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -67,20 +69,21 @@
         }
     ],
     "wof:id":1125842143,
-    "wof:lastmodified":1509395350,
+    "wof:lastmodified":1573622442,
     "wof:name":"Mount Thorley",
     "wof:parent_id":404225095,
     "wof:placetype":"locality",
+    "wof:population":68,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    151.1259595,
-    -32.6273395,
-    151.1259595,
-    -32.6273395
+    151.125959,
+    -32.627339,
+    151.125959,
+    -32.627339
 ],
-  "geometry": {"coordinates":[151.12595949999999,-32.6273395],"type":"Point"}
+  "geometry": {"coordinates":[151.12595899999999,-32.627339],"type":"Point"}
 }

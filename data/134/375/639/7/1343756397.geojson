@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"146.41667,-36.78333,146.41667,-36.78333",
     "geom:latitude":-36.78333,
     "geom:longitude":146.41667,
@@ -75,6 +75,7 @@
         "Whitfield"
     ],
     "src:geom":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681497,
         102191583,
@@ -85,10 +86,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC22758",
         "gn:id":2143762
     },
     "wof:country":"AU",
-    "wof:geomhash":"f8e083544f8861f399e309b226d0f8ed",
+    "wof:geomhash":"f6b7a4e926d499e512e7904cc9343f0d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -101,20 +103,21 @@
         }
     ],
     "wof:id":1343756397,
-    "wof:lastmodified":1562895014,
+    "wof:lastmodified":1573623526,
     "wof:name":"Whitfield",
     "wof:parent_id":404540765,
     "wof:placetype":"locality",
+    "wof:population":215,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    146.41666999999995,
+    146.41667,
     -36.78333,
-    146.41666999999995,
+    146.41667,
     -36.78333
 ],
-  "geometry": {"coordinates":[146.41666999999995,-36.78333],"type":"Point"}
+  "geometry": {"coordinates":[146.41667000000001,-36.78333],"type":"Point"}
 }

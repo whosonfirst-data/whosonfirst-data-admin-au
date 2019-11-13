@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"146.3,-34.41667,146.3,-34.41667",
     "geom:latitude":-34.41667,
     "geom:longitude":146.3,
@@ -50,7 +50,7 @@
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
     "src:lbl:centroid":"qs_pg",
-    "src:population":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681545,
         102191583,
@@ -61,6 +61,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC12850",
         "gn:id":2156120,
         "qs_pg:id":572886,
         "wd:id":"Q4462110"
@@ -80,11 +81,11 @@
         }
     ],
     "wof:id":1125827065,
-    "wof:lastmodified":1562923364,
+    "wof:lastmodified":1573622454,
     "wof:name":"Murrami",
     "wof:parent_id":404225151,
     "wof:placetype":"locality",
-    "wof:population":327,
+    "wof:population":235,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],

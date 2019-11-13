@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"148.9679,-32.5985,148.9679,-32.5985",
     "geom:latitude":-32.5985,
     "geom:longitude":148.9679,
@@ -33,6 +33,7 @@
         "Apsley"
     ],
     "src:geom":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681545,
         102191583,
@@ -43,6 +44,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC10067",
         "gn:id":2177785
     },
     "wof:country":"AU",
@@ -59,10 +61,11 @@
         }
     ],
     "wof:id":1326642713,
-    "wof:lastmodified":1562893582,
+    "wof:lastmodified":1573621766,
     "wof:name":"Apsley",
     "wof:parent_id":404221519,
     "wof:placetype":"locality",
+    "wof:population":107,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

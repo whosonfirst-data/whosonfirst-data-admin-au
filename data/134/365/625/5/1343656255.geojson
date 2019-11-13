@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"144.21667,-36.65,144.21667,-36.65",
     "geom:latitude":-36.65,
     "geom:longitude":144.21667,
@@ -33,6 +33,7 @@
         "Woodvale"
     ],
     "src:geom":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681497,
         102191583,
@@ -43,6 +44,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC22831",
         "gn:id":2143043
     },
     "wof:country":"AU",
@@ -59,10 +61,11 @@
         }
     ],
     "wof:id":1343656255,
-    "wof:lastmodified":1562894536,
+    "wof:lastmodified":1573623540,
     "wof:name":"Woodvale",
     "wof:parent_id":404540835,
     "wof:placetype":"locality",
+    "wof:population":449,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

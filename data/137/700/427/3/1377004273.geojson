@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"144.762281,-36.107768,144.762281,-36.107768",
     "geom:latitude":-36.107768,
     "geom:longitude":144.762281,
@@ -37,6 +37,7 @@
     "src:geom":"whosonfirst",
     "src:geom_via":"aus-psma",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681545,
         102191583,
@@ -46,6 +47,9 @@
         102049015
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "ausstat:2016":"SSC12654"
+    },
     "wof:coterminous":[
         1376968057
     ],
@@ -69,10 +73,11 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1562903782,
+    "wof:lastmodified":1573622401,
     "wof:name":"Moama",
     "wof:parent_id":404224941,
     "wof:placetype":"locality",
+    "wof:population":6162,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

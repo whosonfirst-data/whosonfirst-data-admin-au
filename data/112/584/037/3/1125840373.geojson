@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"148.48333,-21.13333,148.48333,-21.13333",
     "geom:latitude":-21.13333,
     "geom:longitude":148.48333,
@@ -40,6 +40,7 @@
     "qs_pg:woe_id":1101980,
     "src:geom":"qs_pg",
     "src:lbl:centroid":"qs_pg",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Queensland",
@@ -54,6 +55,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC31007",
         "gn:id":2167126,
         "gp:id":1101980,
         "qs_pg:id":876040
@@ -73,10 +75,11 @@
         }
     ],
     "wof:id":1125840373,
-    "wof:lastmodified":1509395252,
+    "wof:lastmodified":1573623765,
     "wof:name":"Eungella",
     "wof:parent_id":404542169,
     "wof:placetype":"locality",
+    "wof:population":194,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

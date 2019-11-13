@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"148.23333,-40.2,148.23333,-40.2",
     "geom:latitude":-40.2,
     "geom:longitude":148.23333,
@@ -50,7 +50,7 @@
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
     "src:lbl:centroid":"qs_pg",
-    "src:population":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681583,
         102191583,
@@ -61,6 +61,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC60309",
         "gn:id":2160850,
         "qs_pg:id":572923,
         "wd:id":"Q16893882"
@@ -80,11 +81,11 @@
         }
     ],
     "wof:id":1126003163,
-    "wof:lastmodified":1562923310,
+    "wof:lastmodified":1573625111,
     "wof:name":"Lady Barron",
     "wof:parent_id":404549077,
     "wof:placetype":"locality",
-    "wof:population":261,
+    "wof:population":158,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],

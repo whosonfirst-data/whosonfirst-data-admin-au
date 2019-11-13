@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"131.253613,-12.599046,131.253613,-12.599046",
     "geom:latitude":-12.599046,
     "geom:longitude":131.253613,
@@ -38,6 +38,7 @@
     "qs_pg:woe_id":28645178,
     "src:geom":"qs_pg",
     "src:lbl:centroid":"qs_pg",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Northern Territory",
@@ -52,6 +53,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC70155",
         "gp:id":28645178,
         "qs_pg:id":1154896,
         "wd:id":"Q14935679"
@@ -71,10 +73,11 @@
         }
     ],
     "wof:id":1125975999,
-    "wof:lastmodified":1513890667,
+    "wof:lastmodified":1573625281,
     "wof:name":"Lambells Lagoon",
     "wof:parent_id":404549763,
     "wof:placetype":"locality",
+    "wof:population":347,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

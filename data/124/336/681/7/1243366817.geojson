@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"147.16404,-35.90115,147.16404,-35.90115",
     "geom:latitude":-35.90115,
     "geom:longitude":147.16404,
@@ -32,6 +32,7 @@
         "Village of Mullanjandra"
     ],
     "src:geom":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681545,
         102191583,
@@ -42,6 +43,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC12823",
         "gn:id":2156322,
         "wk:page":"Mullengandra%2C_New_South_Wales"
     },
@@ -59,10 +61,11 @@
         }
     ],
     "wof:id":1243366817,
-    "wof:lastmodified":1537585017,
+    "wof:lastmodified":1573622448,
     "wof:name":"Mullengandra",
     "wof:parent_id":404225125,
     "wof:placetype":"locality",
+    "wof:population":124,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

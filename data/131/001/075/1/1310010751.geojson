@@ -2,13 +2,14 @@
   "id": 1310010751,
   "type": "Feature",
   "properties": {
+    "au-psma:modified":"2019-08-20",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"137.60645,-34.51103,137.60645,-34.51103",
-    "geom:latitude":-34.51103,
-    "geom:longitude":137.60645,
+    "geom:area":0.011027,
+    "geom:area_square_m":112345804.146124,
+    "geom:bbox":"137.542175,-34.557127,137.698586,-34.480723",
+    "geom:latitude":-34.517612,
+    "geom:longitude":137.624108,
     "gn:admin1_code":"5",
     "gn:admin2_code":"48830",
     "gn:asciiname":"Urania",
@@ -24,6 +25,8 @@
     "gn:population":0,
     "gn:timezone":"Australia/Adelaide",
     "iso:country":"AU",
+    "lbl:latitude":-34.517612,
+    "lbl:longitude":137.624108,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "name:ara_x_preferred":[
@@ -173,7 +176,9 @@
     "name:zho_x_preferred":[
         "\u4e4c\u524c\u5c3c\u4e9a"
     ],
-    "src:geom":"geonames",
+    "src:geom":"aus-psma",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681519,
         102191583,
@@ -184,10 +189,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "aus-psma":"SA1426",
+        "ausstat:2016":"SSC41480",
         "gn:id":2059567
     },
     "wof:country":"AU",
-    "wof:geomhash":"e51c5de4bcf094d876d9d5713ddc94bf",
+    "wof:geomhash":"057eccd4590385b861c778e4e69aa715",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -200,20 +207,21 @@
         }
     ],
     "wof:id":1310010751,
-    "wof:lastmodified":1562897584,
+    "wof:lastmodified":1573624583,
     "wof:name":"Urania",
     "wof:parent_id":404546545,
     "wof:placetype":"locality",
+    "wof:population":54,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    137.60645,
-    -34.51103,
-    137.60645,
-    -34.51103
+    137.542175,
+    -34.557127,
+    137.698586,
+    -34.480723
 ],
-  "geometry": {"coordinates":[137.60645,-34.51103],"type":"Point"}
+  "geometry": {"coordinates":[[[137.69858400000001,-34.51113],[137.69858600000001,-34.511221],[137.69858400000001,-34.511221],[137.698475,-34.511221],[137.698499,-34.530041],[137.69852599999999,-34.550294],[137.69517500000001,-34.550314],[137.679742,-34.552158],[137.66089099999999,-34.55591],[137.650057,-34.557087],[137.61984899999999,-34.557077],[137.59828300000001,-34.557098],[137.55780799999999,-34.557127],[137.55783600000001,-34.541434],[137.55469199999999,-34.529181],[137.548654,-34.505639],[137.54575199999999,-34.49429],[137.54217499999999,-34.480954],[137.589192,-34.480866],[137.63264100000001,-34.480773],[137.662702,-34.480752],[137.67943600000001,-34.480739],[137.698545,-34.480723],[137.698545,-34.480812],[137.69855200000001,-34.485963],[137.69855799999999,-34.491244],[137.698565,-34.496112],[137.698565,-34.496346],[137.69858400000001,-34.51113]]],"type":"Polygon"}
 }

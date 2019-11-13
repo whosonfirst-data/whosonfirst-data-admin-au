@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"150.28333,-23.25,150.28333,-23.25",
     "geom:latitude":-23.25,
     "geom:longitude":150.28333,
@@ -32,7 +32,7 @@
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
     "src:lbl:centroid":"qs_pg",
-    "src:population":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681463,
         102191583,
@@ -43,6 +43,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC32451",
         "gn:id":2151624,
         "qs_pg:id":572858
     },
@@ -61,11 +62,11 @@
         }
     ],
     "wof:id":1125837753,
-    "wof:lastmodified":1509395087,
+    "wof:lastmodified":1573624047,
     "wof:name":"Ridgelands",
     "wof:parent_id":404543905,
     "wof:placetype":"locality",
-    "wof:population":338,
+    "wof:population":166,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],

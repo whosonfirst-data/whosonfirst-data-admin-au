@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"150.521,-34.3077,150.521,-34.3077",
     "geom:latitude":-34.3077,
     "geom:longitude":150.521,
@@ -27,6 +27,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "src:geom":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681545,
         102191583,
@@ -37,11 +38,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC10167",
         "gn:id":2177044,
         "wk:page":"Balmoral%2C_New_South_Wales_%28Southern_Highlands%29"
     },
     "wof:country":"AU",
-    "wof:geomhash":"e9411b1dbd33ae7375fbd89f101f915b",
+    "wof:geomhash":"0e737d77c68a300cb7c7dc0245d66334",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -54,20 +56,21 @@
         }
     ],
     "wof:id":1259888945,
-    "wof:lastmodified":1537486448,
+    "wof:lastmodified":1573621790,
     "wof:name":"Balmoral",
     "wof:parent_id":404221633,
     "wof:placetype":"locality",
+    "wof:population":426,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    150.52100000000004,
+    150.521,
     -34.3077,
-    150.52100000000004,
+    150.521,
     -34.3077
 ],
-  "geometry": {"coordinates":[150.52100000000004,-34.3077],"type":"Point"}
+  "geometry": {"coordinates":[150.52099999999999,-34.3077],"type":"Point"}
 }

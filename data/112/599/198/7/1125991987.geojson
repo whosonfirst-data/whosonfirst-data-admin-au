@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"145.61667,-17.31667,145.61667,-17.31667",
     "geom:latitude":-17.31667,
     "geom:longitude":145.61667,
@@ -40,6 +40,7 @@
     "qs_pg:woe_id":1098056,
     "src:geom":"qs_pg",
     "src:lbl:centroid":"qs_pg",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Queensland",
@@ -54,6 +55,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC32312",
         "gn:id":2153566,
         "gp:id":1098056,
         "qs_pg:id":894727
@@ -73,10 +75,11 @@
         }
     ],
     "wof:id":1125991987,
-    "wof:lastmodified":1509405465,
+    "wof:lastmodified":1573624018,
     "wof:name":"Peeramon",
     "wof:parent_id":404543707,
     "wof:placetype":"locality",
+    "wof:population":628,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

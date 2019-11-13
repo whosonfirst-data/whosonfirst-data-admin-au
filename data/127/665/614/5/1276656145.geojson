@@ -2,13 +2,14 @@
   "id": 1276656145,
   "type": "Feature",
   "properties": {
+    "au-psma:modified":"2019-08-20",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"137.63333,-34.25,137.63333,-34.25",
-    "geom:latitude":-34.25,
-    "geom:longitude":137.63333,
+    "geom:area":0.011574,
+    "geom:area_square_m":118318445.019484,
+    "geom:bbox":"137.542114,-34.276225,137.708976,-34.186825",
+    "geom:latitude":-34.234432,
+    "geom:longitude":137.625425,
     "gn:admin1_code":"5",
     "gn:admin2_code":"48830",
     "gn:asciiname":"Weetulta",
@@ -24,12 +25,16 @@
     "gn:population":0,
     "gn:timezone":"Australia/Adelaide",
     "iso:country":"AU",
+    "lbl:latitude":-34.234432,
+    "lbl:longitude":137.625425,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "name:und_x_variant":[
         "Wetulta"
     ],
-    "src:geom":"geonames",
+    "src:geom":"aus-psma",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681519,
         102191583,
@@ -40,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "aus-psma":"SA1486",
+        "ausstat:2016":"SSC41545",
         "gn:id":2058751,
         "wk:page":"Weetulta%2C_South_Australia"
     },
     "wof:country":"AU",
-    "wof:geomhash":"d49990d27c8b28006b082e762f6bf257",
+    "wof:geomhash":"9860c6ed7575f04baf16fd910a9096be",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,20 +64,21 @@
         }
     ],
     "wof:id":1276656145,
-    "wof:lastmodified":1537584991,
+    "wof:lastmodified":1573624599,
     "wof:name":"Weetulta",
     "wof:parent_id":404544905,
     "wof:placetype":"locality",
+    "wof:population":74,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    137.63333,
-    -34.25,
-    137.63333,
-    -34.25
+    137.542114,
+    -34.276225,
+    137.708976,
+    -34.186825
 ],
-  "geometry": {"coordinates":[137.63333,-34.25],"type":"Point"}
+  "geometry": {"coordinates":[[[137.708969,-34.186825],[137.70897600000001,-34.196145],[137.70177699999999,-34.20711],[137.700232,-34.207778],[137.69381899999999,-34.217143],[137.69127,-34.226887],[137.691509,-34.251705],[137.680734,-34.270612],[137.680688,-34.276225],[137.64581999999999,-34.276186],[137.58870200000001,-34.276091],[137.542114,-34.275989],[137.54226499999999,-34.26689],[137.55091999999999,-34.246864],[137.55134100000001,-34.245543],[137.55500799999999,-34.234055],[137.56065799999999,-34.216347],[137.55872400000001,-34.211868],[137.561218,-34.203584],[137.565789,-34.200087],[137.56597500000001,-34.200151],[137.593976,-34.197153],[137.63243,-34.193024],[137.664557,-34.189571],[137.66545300000001,-34.189331],[137.66719900000001,-34.189821],[137.66946999999999,-34.188795],[137.68081000000001,-34.187656],[137.68985499999999,-34.189405],[137.70203000000001,-34.187375],[137.70666900000001,-34.187562],[137.708969,-34.186825]]],"type":"Polygon"}
 }

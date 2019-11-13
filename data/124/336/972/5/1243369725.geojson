@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"152.0,-28.18333,152.0,-28.18333",
     "geom:latitude":-28.18333,
     "geom:longitude":152.0,
@@ -18,7 +18,7 @@
     "gn:feature_code":"PPL",
     "gn:geonameid":2151097,
     "gn:latitude":-28.18333,
-    "gn:longitude":152.0,
+    "gn:longitude":152,
     "gn:modification_date":"2011-06-04",
     "gn:name":"Rosehill",
     "gn:population":0,
@@ -30,6 +30,7 @@
         "Rosehill"
     ],
     "src:geom":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681463,
         102191583,
@@ -40,6 +41,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC32492",
         "gn:id":2151097
     },
     "wof:country":"AU",
@@ -56,10 +58,11 @@
         }
     ],
     "wof:id":1243369725,
-    "wof:lastmodified":1562923947,
+    "wof:lastmodified":1573624057,
     "wof:name":"Rosehill",
     "wof:parent_id":404543963,
     "wof:placetype":"locality",
+    "wof:population":126,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

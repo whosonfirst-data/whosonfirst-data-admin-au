@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"144.144622,-18.209569,144.144622,-18.209569",
     "geom:latitude":-18.209569,
     "geom:longitude":144.144622,
@@ -47,6 +47,7 @@
     "qs_pg:woe_id":1104229,
     "src:geom":"qs_pg",
     "src:lbl:centroid":"qs_pg",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Queensland",
@@ -61,6 +62,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC32044",
         "gp:id":1104229,
         "qs_pg:id":1110524,
         "wd:id":"Q1950746"
@@ -80,10 +82,11 @@
         }
     ],
     "wof:id":1125866615,
-    "wof:lastmodified":1561828256,
+    "wof:lastmodified":1573623963,
     "wof:name":"Mount Surprise",
     "wof:parent_id":404543397,
     "wof:placetype":"locality",
+    "wof:population":169,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

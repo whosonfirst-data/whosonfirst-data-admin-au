@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"144.50103,-37.69279,144.50103,-37.69279",
     "geom:latitude":-37.69279,
     "geom:longitude":144.50103,
@@ -38,6 +38,7 @@
     "qs_pg:woe_id":22721129,
     "src:geom":"qs_pg",
     "src:lbl:centroid":"qs_pg",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Victoria",
@@ -52,6 +53,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC21193",
         "gn:id":7932577,
         "gp:id":22721129,
         "qs_pg:id":309434
@@ -71,10 +73,11 @@
         }
     ],
     "wof:id":1125919749,
-    "wof:lastmodified":1509400736,
+    "wof:lastmodified":1573623152,
     "wof:name":"Hopetoun Park",
     "wof:parent_id":404538911,
     "wof:placetype":"locality",
+    "wof:population":798,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

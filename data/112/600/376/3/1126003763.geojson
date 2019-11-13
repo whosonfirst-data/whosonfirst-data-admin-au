@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"148.952636,-33.968135,148.952636,-33.968135",
     "geom:latitude":-33.968135,
     "geom:longitude":148.952636,
@@ -41,6 +41,7 @@
     "qs_pg:woe_id":1106908,
     "src:geom":"qs_pg",
     "src:lbl:centroid":"qs_pg",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"New South Wales",
@@ -55,6 +56,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC14434",
         "gp:id":1106908,
         "qs_pg:id":1006172,
         "wd:id":"Q17061998"
@@ -74,10 +76,11 @@
         }
     ],
     "wof:id":1126003763,
-    "wof:lastmodified":1513898724,
+    "wof:lastmodified":1573622840,
     "wof:name":"Wyangala",
     "wof:parent_id":404227231,
     "wof:placetype":"locality",
+    "wof:population":182,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"147.65,-42.76667,147.65,-42.76667",
     "geom:latitude":-42.76667,
     "geom:longitude":147.65,
@@ -30,6 +30,7 @@
         "Wattle Hill"
     ],
     "src:geom":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681583,
         102191583,
@@ -40,6 +41,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC60716",
         "gn:id":2144351
     },
     "wof:country":"AU",
@@ -56,10 +58,11 @@
         }
     ],
     "wof:id":1210038583,
-    "wof:lastmodified":1537585005,
+    "wof:lastmodified":1573625232,
     "wof:name":"Wattle Hill",
     "wof:parent_id":404549545,
     "wof:placetype":"locality",
+    "wof:population":187,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

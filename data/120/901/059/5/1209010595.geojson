@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"152.74824,-28.01213,152.74824,-28.01213",
     "geom:latitude":-28.01213,
     "geom:longitude":152.74824,
@@ -30,6 +30,7 @@
         "Allandale"
     ],
     "src:geom":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681463,
         102191583,
@@ -40,10 +41,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC30036",
         "gn:id":7932676
     },
     "wof:country":"AU",
-    "wof:geomhash":"7a03579a665aa78d0fc557c6d92c6db7",
+    "wof:geomhash":"0f83d63ebb70b83912cb3d7d35bd007b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -56,20 +58,21 @@
         }
     ],
     "wof:id":1209010595,
-    "wof:lastmodified":1562896748,
+    "wof:lastmodified":1573623565,
     "wof:name":"Allandale",
     "wof:parent_id":404540981,
     "wof:placetype":"locality",
+    "wof:population":56,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    152.74823999999995,
+    152.74824,
     -28.01213,
-    152.74823999999995,
+    152.74824,
     -28.01213
 ],
-  "geometry": {"coordinates":[152.74823999999995,-28.01213],"type":"Point"}
+  "geometry": {"coordinates":[152.74824000000001,-28.01213],"type":"Point"}
 }

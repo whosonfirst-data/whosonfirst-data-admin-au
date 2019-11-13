@@ -2,13 +2,14 @@
   "id": 1260000941,
   "type": "Feature",
   "properties": {
+    "au-psma:modified":"2019-08-20",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"142.76667,-35.96667,142.76667,-35.96667",
-    "geom:latitude":-35.96667,
-    "geom:longitude":142.76667,
+    "geom:area":0.007525,
+    "geom:area_square_m":75299618.947115,
+    "geom:bbox":"142.698751,-36.026904,142.797117,-35.93144",
+    "geom:latitude":-35.972173,
+    "geom:longitude":142.750389,
     "gn:admin1_code":"7.0",
     "gn:admin2_code":"21270.0",
     "gn:asciiname":"Ballapur",
@@ -24,9 +25,13 @@
     "gn:population":0,
     "gn:timezone":"Australia/Melbourne",
     "iso:country":"AU",
+    "lbl:latitude":-35.972173,
+    "lbl:longitude":142.750389,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "src:geom":"geonames",
+    "src:geom":"aus-psma",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681497,
         102191583,
@@ -37,10 +42,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "aus-psma":"VIC109",
+        "ausstat:2016":"SSC20109",
         "gn:id":2177093
     },
     "wof:country":"AU",
-    "wof:geomhash":"9db56b12fe12b3b92070649dcfe7f6f3",
+    "wof:geomhash":"2882242c054396e6e94fb0fd8f18ce60",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -53,20 +60,21 @@
         }
     ],
     "wof:id":1260000941,
-    "wof:lastmodified":1536607212,
+    "wof:lastmodified":1573622889,
     "wof:name":"Ballapur",
     "wof:parent_id":404540699,
     "wof:placetype":"locality",
+    "wof:population":10,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    142.76667,
-    -35.96667,
-    142.76667,
-    -35.96667
+    142.698751,
+    -36.026904,
+    142.797117,
+    -35.93144
 ],
-  "geometry": {"coordinates":[142.76667,-35.96667],"type":"Point"}
+  "geometry": {"coordinates":[[[142.79687300000001,-35.969151],[142.79692700000001,-35.9854],[142.796954,-35.993619],[142.79711699999999,-35.993637],[142.79682500000001,-35.997819],[142.77881600000001,-35.99793],[142.776015,-36.013701],[142.773672,-36.02689],[142.72858199999999,-36.026904],[142.72899100000001,-36.024548],[142.73361399999999,-35.997841],[142.73157800000001,-35.997833],[142.71534299999999,-35.997835],[142.71533700000001,-35.997738],[142.71526600000001,-35.981243],[142.69899100000001,-35.981262],[142.69887900000001,-35.981265],[142.698836,-35.964769],[142.698813,-35.955787],[142.69875099999999,-35.931905],[142.729454,-35.93178],[142.731437,-35.931773],[142.76229699999999,-35.931638],[142.76404299999999,-35.931629],[142.79675,-35.93144],[142.79683,-35.955921],[142.79686000000001,-35.965343],[142.79687300000001,-35.969151]]],"type":"Polygon"}
 }

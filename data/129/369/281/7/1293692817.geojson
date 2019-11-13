@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"143.86667,-22.96667,143.86667,-22.96667",
     "geom:latitude":-22.96667,
     "geom:longitude":143.86667,
@@ -27,6 +27,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "src:geom":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681463,
         102191583,
@@ -37,6 +38,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC31932",
         "gn:id":2156921,
         "wk:page":"Morella%2C_Queensland"
     },
@@ -54,10 +56,11 @@
         }
     ],
     "wof:id":1293692817,
-    "wof:lastmodified":1537486425,
+    "wof:lastmodified":1573623942,
     "wof:name":"Morella",
     "wof:parent_id":404543057,
     "wof:placetype":"locality",
+    "wof:population":33,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

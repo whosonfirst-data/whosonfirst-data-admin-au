@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"151.2,-32.61667,151.2,-32.61667",
     "geom:latitude":-32.61667,
     "geom:longitude":151.2,
@@ -64,6 +64,7 @@
     "qs_pg:woe_id":1099448,
     "src:geom":"qs_pg",
     "src:lbl:centroid":"qs_pg",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"New South Wales",
@@ -78,6 +79,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC14279",
         "gn:id":2143751,
         "gp:id":1099448,
         "qs_pg:id":1332930
@@ -97,10 +99,11 @@
         }
     ],
     "wof:id":1125903857,
-    "wof:lastmodified":1562922886,
+    "wof:lastmodified":1573622806,
     "wof:name":"Whittingham",
     "wof:parent_id":404227033,
     "wof:placetype":"locality",
+    "wof:population":364,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -5,8 +5,8 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"152.921306,-30.7042715,152.921306,-30.7042715",
+    "geom:area_square_m":0,
+    "geom:bbox":"152.921306,-30.704272,152.921306,-30.704272",
     "geom:latitude":-30.704272,
     "geom:longitude":152.921306,
     "gn:gn_country":null,
@@ -35,6 +35,7 @@
     "qs_pg:woe_id":28586653,
     "src:geom":"qs_pg",
     "src:lbl:centroid":"qs_pg",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"New South Wales",
@@ -49,12 +50,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC12995",
         "gp:id":28586653,
         "qs_pg:id":1114493
     },
     "wof:country":"AU",
     "wof:created":1497300915,
-    "wof:geomhash":"d101f3170896be266d2b3403641540ec",
+    "wof:geomhash":"e9a2e7eec987a51e400c0b37101642de",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -67,10 +69,11 @@
         }
     ],
     "wof:id":1126022423,
-    "wof:lastmodified":1509407304,
+    "wof:lastmodified":1573622492,
     "wof:name":"North Macksville",
     "wof:parent_id":404225363,
     "wof:placetype":"locality",
+    "wof:population":598,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -78,9 +81,9 @@
 },
   "bbox": [
     152.921306,
-    -30.7042715,
+    -30.704272,
     152.921306,
-    -30.7042715
+    -30.704272
 ],
-  "geometry": {"coordinates":[152.92130599999999,-30.7042715],"type":"Point"}
+  "geometry": {"coordinates":[152.92130599999999,-30.704272],"type":"Point"}
 }

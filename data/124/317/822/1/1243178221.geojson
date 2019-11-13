@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"147.11393,-26.41768,147.11393,-26.41768",
     "geom:latitude":-26.41768,
     "geom:longitude":147.11393,
@@ -30,6 +30,7 @@
         "Morven"
     ],
     "src:geom":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681463,
         102191583,
@@ -40,6 +41,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC31943",
         "gn:id":2156831,
         "wk:page":"Morven%2C_Queensland"
     },
@@ -57,10 +59,11 @@
         }
     ],
     "wof:id":1243178221,
-    "wof:lastmodified":1562924359,
+    "wof:lastmodified":1573623945,
     "wof:name":"Morven",
     "wof:parent_id":404543273,
     "wof:placetype":"locality",
+    "wof:population":199,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

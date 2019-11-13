@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"145.85,-38.7,145.85,-38.7",
     "geom:latitude":-38.7,
     "geom:longitude":145.85,
@@ -50,7 +50,7 @@
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
     "src:lbl:centroid":"qs_pg",
-    "src:population":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681497,
         102191583,
@@ -61,6 +61,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC22453",
         "gn:id":2147303,
         "qs_pg:id":372958,
         "wd:id":"Q2248512"
@@ -80,11 +81,11 @@
         }
     ],
     "wof:id":1125882219,
-    "wof:lastmodified":1562922575,
+    "wof:lastmodified":1573623456,
     "wof:name":"Tarwin Lower",
     "wof:parent_id":404540419,
     "wof:placetype":"locality",
-    "wof:population":114,
+    "wof:population":358,
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],

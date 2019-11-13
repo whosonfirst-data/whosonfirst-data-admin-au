@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"143.75,-37.65,143.75,-37.65",
     "geom:latitude":-37.65,
     "geom:longitude":143.75,
@@ -33,6 +33,7 @@
         "Ross Creek"
     ],
     "src:geom":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681497,
         102191583,
@@ -43,6 +44,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC22192",
         "gn:id":2151038
     },
     "wof:country":"AU",
@@ -59,10 +61,11 @@
         }
     ],
     "wof:id":1226434241,
-    "wof:lastmodified":1562924748,
+    "wof:lastmodified":1573623390,
     "wof:name":"Ross Creek",
     "wof:parent_id":404540095,
     "wof:placetype":"locality",
+    "wof:population":1153,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

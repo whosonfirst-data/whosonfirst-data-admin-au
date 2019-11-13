@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"149.6512,-36.9318,149.6512,-36.9318",
     "geom:latitude":-36.9318,
     "geom:longitude":149.6512,
@@ -60,6 +60,7 @@
         "Wyndham"
     ],
     "src:geom":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681545,
         102191583,
@@ -70,6 +71,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC14443",
         "gn:id":2142755
     },
     "wof:country":"AU",
@@ -86,10 +88,11 @@
         }
     ],
     "wof:id":1360197679,
-    "wof:lastmodified":1562897905,
+    "wof:lastmodified":1573622843,
     "wof:name":"Wyndham",
     "wof:parent_id":404227241,
     "wof:placetype":"locality",
+    "wof:population":386,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

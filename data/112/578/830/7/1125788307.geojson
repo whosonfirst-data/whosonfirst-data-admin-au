@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"152.863235,-27.373139,152.863235,-27.373139",
     "geom:latitude":-27.373139,
     "geom:longitude":152.863235,
@@ -44,6 +44,7 @@
     "qs_pg:woe_id":7225491,
     "src:geom":"qs_pg",
     "src:lbl:centroid":"qs_pg",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Queensland",
@@ -59,6 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC32529",
         "gp:id":7225491,
         "qs_pg:id":1262313,
         "wd:id":"Q21971630"
@@ -79,10 +81,11 @@
         }
     ],
     "wof:id":1125788307,
-    "wof:lastmodified":1562923639,
+    "wof:lastmodified":1573624065,
     "wof:name":"Samford Valley",
     "wof:parent_id":404544005,
     "wof:placetype":"locality",
+    "wof:population":3068,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

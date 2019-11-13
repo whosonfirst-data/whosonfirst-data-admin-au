@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"146.35,-34.23333,146.35,-34.23333",
     "geom:latitude":-34.23333,
     "geom:longitude":146.35,
@@ -50,7 +50,7 @@
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
     "src:lbl:centroid":"qs_pg",
-    "src:population":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681545,
         102191583,
@@ -61,6 +61,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC10373",
         "gn:id":2175728,
         "qs_pg:id":573041,
         "wd:id":"Q2903987"
@@ -80,11 +81,11 @@
         }
     ],
     "wof:id":1125837809,
-    "wof:lastmodified":1562923892,
+    "wof:lastmodified":1573621842,
     "wof:name":"Binya",
     "wof:parent_id":404221929,
     "wof:placetype":"locality",
-    "wof:population":238,
+    "wof:population":140,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],

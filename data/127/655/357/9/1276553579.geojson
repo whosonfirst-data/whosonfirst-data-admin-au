@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"152.3,-24.86667,152.3,-24.86667",
     "geom:latitude":-24.86667,
     "geom:longitude":152.3,
@@ -72,6 +72,7 @@
         "Oakwood"
     ],
     "src:geom":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681463,
         102191583,
@@ -82,10 +83,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC32232",
         "gn:id":2154595
     },
     "wof:country":"AU",
-    "wof:geomhash":"33bb2926bcab91090f533cf3da7f1dac",
+    "wof:geomhash":"3671155a181cb81939cf0dd7fd44e186",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -98,10 +100,11 @@
         }
     ],
     "wof:id":1276553579,
-    "wof:lastmodified":1562896603,
+    "wof:lastmodified":1573623999,
     "wof:name":"Oakwood",
     "wof:parent_id":404543609,
     "wof:placetype":"locality",
+    "wof:population":331,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -109,9 +112,9 @@
 },
   "bbox": [
     152.3,
-    -24.86667000000001,
+    -24.86667,
     152.3,
-    -24.86667000000001
+    -24.86667
 ],
-  "geometry": {"coordinates":[152.30000000000001,-24.86667000000001],"type":"Point"}
+  "geometry": {"coordinates":[152.30000000000001,-24.86667],"type":"Point"}
 }

@@ -5,8 +5,8 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"147.0812915,-43.290076,147.0812915,-43.290076",
+    "geom:area_square_m":0,
+    "geom:bbox":"147.081291,-43.290076,147.081291,-43.290076",
     "geom:latitude":-43.290076,
     "geom:longitude":147.081291,
     "gn:gn_country":null,
@@ -38,6 +38,7 @@
     "qs_pg:woe_id":22739356,
     "src:geom":"qs_pg",
     "src:lbl:centroid":"qs_pg",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Tasmania",
@@ -52,13 +53,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC60650",
         "gp:id":22739356,
         "qs_pg:id":896319,
         "wd:id":"Q7647142"
     },
     "wof:country":"AU",
     "wof:created":1497295134,
-    "wof:geomhash":"f8f6c7e242284c04f60318f750fa0b6c",
+    "wof:geomhash":"e72cc5a33e9a4979b95eb26cf15ac7c0",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -71,20 +73,21 @@
         }
     ],
     "wof:id":1125887177,
-    "wof:lastmodified":1513894582,
+    "wof:lastmodified":1573625214,
     "wof:name":"Surveyors Bay",
     "wof:parent_id":404549481,
     "wof:placetype":"locality",
+    "wof:population":47,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    147.0812915,
+    147.081291,
     -43.290076,
-    147.0812915,
+    147.081291,
     -43.290076
 ],
-  "geometry": {"coordinates":[147.08129149999999,-43.290076],"type":"Point"}
+  "geometry": {"coordinates":[147.08129099999999,-43.290076],"type":"Point"}
 }

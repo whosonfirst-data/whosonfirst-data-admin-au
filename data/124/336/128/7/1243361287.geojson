@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"147.23953,-43.262,147.23953,-43.262",
     "geom:latitude":-43.262,
     "geom:longitude":147.23953,
@@ -111,6 +111,7 @@
         "\u6208\u767b"
     ],
     "src:geom":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681583,
         102191583,
@@ -121,6 +122,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC60237",
         "gn:id":2164901
     },
     "wof:country":"AU",
@@ -137,10 +139,11 @@
         }
     ],
     "wof:id":1243361287,
-    "wof:lastmodified":1562923938,
+    "wof:lastmodified":1573625090,
     "wof:name":"Gordon",
     "wof:parent_id":404548973,
     "wof:placetype":"locality",
+    "wof:population":199,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

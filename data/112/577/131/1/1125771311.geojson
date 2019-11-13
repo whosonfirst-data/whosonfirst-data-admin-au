@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"115.037359,-33.795421,115.037359,-33.795421",
     "geom:latitude":-33.795421,
     "geom:longitude":115.037359,
@@ -35,6 +35,7 @@
     "qs_pg:woe_id":28588036,
     "src:geom":"qs_pg",
     "src:lbl:centroid":"qs_pg",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Western Australia",
@@ -42,14 +43,15 @@
     "wof:belongsto":[
         85681439,
         102191583,
-        85632793,
-        404548585,
         1376953311,
+        404548585,
+        85632793,
         136253039,
         102048623
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC51602",
         "gp:id":28588036,
         "qs_pg:id":899173
     },
@@ -69,10 +71,11 @@
         }
     ],
     "wof:id":1125771311,
-    "wof:lastmodified":1550723087,
+    "wof:lastmodified":1573625004,
     "wof:name":"Wilyabrup",
     "wof:parent_id":404548585,
     "wof:placetype":"locality",
+    "wof:population":180,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

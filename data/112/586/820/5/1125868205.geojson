@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"118.51667,-33.53333,118.51667,-33.53333",
     "geom:latitude":-33.53333,
     "geom:longitude":118.51667,
@@ -44,7 +44,7 @@
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
     "src:lbl:centroid":"qs_pg",
-    "src:population":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681439,
         102191583,
@@ -55,6 +55,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC51233",
         "gn:id":2063299,
         "qs_pg:id":137986,
         "wd:id":"Q21884346"
@@ -74,11 +75,11 @@
         }
     ],
     "wof:id":1125868205,
-    "wof:lastmodified":1562922374,
+    "wof:lastmodified":1573624918,
     "wof:name":"Pingrup",
     "wof:parent_id":404548139,
     "wof:placetype":"locality",
-    "wof:population":278,
+    "wof:population":264,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"115.36097,-33.68011,115.36097,-33.68011",
     "geom:latitude":-33.68011,
     "geom:longitude":115.36097,
@@ -43,6 +43,7 @@
     "qs_pg:woe_id":28584215,
     "src:geom":"qs_pg",
     "src:lbl:centroid":"qs_pg",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Western Australia",
@@ -58,6 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC50162",
         "gn:id":8347870,
         "qs_pg:id":902689,
         "woe:id":28584215
@@ -78,10 +80,11 @@
         }
     ],
     "wof:id":1108979943,
-    "wof:lastmodified":1562897401,
+    "wof:lastmodified":1573624668,
     "wof:name":"Bovell",
     "wof:parent_id":404546869,
     "wof:placetype":"locality",
+    "wof:population":472,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

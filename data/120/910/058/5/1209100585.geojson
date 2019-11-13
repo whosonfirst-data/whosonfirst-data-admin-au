@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"145.21719,-36.61888,145.21719,-36.61888",
     "geom:latitude":-36.61888,
     "geom:longitude":145.21719,
@@ -39,6 +39,7 @@
         "\u041c\u0443\u0440\u0447\u0438\u0441\u043e\u043d"
     ],
     "src:geom":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681497,
         102191583,
@@ -50,6 +51,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC21820",
         "gn:id":2156176,
         "wk:page":"Murchison%2C_Victoria"
     },
@@ -68,10 +70,11 @@
         }
     ],
     "wof:id":1209100585,
-    "wof:lastmodified":1562897071,
+    "wof:lastmodified":1573623301,
     "wof:name":"Murchison",
     "wof:parent_id":404539629,
     "wof:placetype":"locality",
+    "wof:population":925,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"144.16667,-37.95,144.16667,-37.95",
     "geom:latitude":-37.95,
     "geom:longitude":144.16667,
@@ -33,6 +33,7 @@
         "Maude"
     ],
     "src:geom":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681497,
         102191583,
@@ -43,11 +44,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC21613",
         "gn:id":2158498,
         "wk:page":"Maude%2C_Victoria"
     },
     "wof:country":"AU",
-    "wof:geomhash":"704703200019b9a9f274476191623e14",
+    "wof:geomhash":"536bbcdff1ae4690e15457888ea8d300",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -60,20 +62,21 @@
         }
     ],
     "wof:id":1326851651,
-    "wof:lastmodified":1562893536,
+    "wof:lastmodified":1573623252,
     "wof:name":"Maude",
     "wof:parent_id":404539401,
     "wof:placetype":"locality",
+    "wof:population":223,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    144.16666999999995,
+    144.16667,
     -37.95,
-    144.16666999999995,
+    144.16667,
     -37.95
 ],
-  "geometry": {"coordinates":[144.16666999999995,-37.95],"type":"Point"}
+  "geometry": {"coordinates":[144.16667000000001,-37.95],"type":"Point"}
 }

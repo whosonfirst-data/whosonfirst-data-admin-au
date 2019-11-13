@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"147.23333,-19.78333,147.23333,-19.78333",
     "geom:latitude":-19.78333,
     "geom:longitude":147.23333,
@@ -69,6 +69,7 @@
         "Clare"
     ],
     "src:geom":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681463,
         102191583,
@@ -79,6 +80,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC30619",
         "gn:id":2171480
     },
     "wof:country":"AU",
@@ -95,10 +97,11 @@
         }
     ],
     "wof:id":1243577885,
-    "wof:lastmodified":1562924179,
+    "wof:lastmodified":1573623689,
     "wof:name":"Clare",
     "wof:parent_id":404541715,
     "wof:placetype":"locality",
+    "wof:population":196,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

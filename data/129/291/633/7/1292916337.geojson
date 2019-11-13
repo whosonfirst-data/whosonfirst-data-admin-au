@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"153.15014,-28.77554,153.15014,-28.77554",
     "geom:latitude":-28.77554,
     "geom:longitude":153.15014,
@@ -30,6 +30,7 @@
         "Bungabbee"
     ],
     "src:geom":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681545,
         102191583,
@@ -40,6 +41,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC10679",
         "gn:id":8628366
     },
     "wof:country":"AU",
@@ -56,10 +58,11 @@
         }
     ],
     "wof:id":1292916337,
-    "wof:lastmodified":1537585103,
+    "wof:lastmodified":1573621915,
     "wof:name":"Bungabbee",
     "wof:parent_id":404224487,
     "wof:placetype":"locality",
+    "wof:population":0,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

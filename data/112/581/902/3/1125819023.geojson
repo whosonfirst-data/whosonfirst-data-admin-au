@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"151.167755,-33.505904,151.167755,-33.505904",
     "geom:latitude":-33.505904,
     "geom:longitude":151.167755,
@@ -50,6 +50,7 @@
     "qs_pg:woe_id":22726587,
     "src:geom":"qs_pg",
     "src:lbl:centroid":"qs_pg",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"New South Wales",
@@ -64,6 +65,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC10188",
         "gp:id":22726587,
         "qs_pg:id":1085689,
         "wd:id":"Q4857954"
@@ -83,10 +85,11 @@
         }
     ],
     "wof:id":1125819023,
-    "wof:lastmodified":1562922552,
+    "wof:lastmodified":1573621796,
     "wof:name":"Bar Point",
     "wof:parent_id":404221667,
     "wof:placetype":"locality",
+    "wof:population":64,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"152.18865,-24.75129,152.18865,-24.75129",
     "geom:latitude":-24.75129,
     "geom:longitude":152.18865,
@@ -84,6 +84,7 @@
         "\u0412\u0435\u0440\u0435\u0441\u043e\u0432\u0435 \u043f\u0443\u0441\u0442\u0438\u0449\u0435"
     ],
     "src:geom":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681463,
         102191583,
@@ -94,6 +95,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC31925",
         "gn:id":2156993
     },
     "wof:country":"AU",
@@ -110,10 +112,11 @@
         }
     ],
     "wof:id":1293104903,
-    "wof:lastmodified":1562896232,
+    "wof:lastmodified":1573623940,
     "wof:name":"Moorland",
     "wof:parent_id":404543249,
     "wof:placetype":"locality",
+    "wof:population":270,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

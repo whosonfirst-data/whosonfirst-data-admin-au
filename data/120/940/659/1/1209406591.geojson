@@ -2,13 +2,14 @@
   "id": 1209406591,
   "type": "Feature",
   "properties": {
+    "au-psma:modified":"2019-08-20",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"145.21667,-36.31667,145.21667,-36.31667",
-    "geom:latitude":-36.31667,
-    "geom:longitude":145.21667,
+    "geom:area":0.001332,
+    "geom:area_square_m":13269175.876156,
+    "geom:bbox":"145.186534,-36.357765,145.222827,-36.313689",
+    "geom:latitude":-36.334272,
+    "geom:longitude":145.207401,
     "gn:admin1_code":"7.0",
     "gn:admin2_code":"22830.0",
     "gn:asciiname":"Gillieston",
@@ -24,24 +25,30 @@
     "gn:population":0,
     "gn:timezone":"Australia/Melbourne",
     "iso:country":"AU",
+    "lbl:latitude":-36.334272,
+    "lbl:longitude":145.207401,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "src:geom":"geonames",
+    "src:geom":"aus-psma",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681497,
         102191583,
-        85632793,
-        404540423,
         1376953455,
+        404540423,
+        85632793,
         136253039,
         102049473
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "aus-psma":"VIC986",
+        "ausstat:2016":"SSC20989",
         "gn:id":2165570
     },
     "wof:country":"AU",
-    "wof:geomhash":"3bbb4a05a2c979418cd9ae37a574ce94",
+    "wof:geomhash":"76b88ae06edb8716082a02cb7669b039",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,20 +62,21 @@
         }
     ],
     "wof:id":1209406591,
-    "wof:lastmodified":1550747301,
+    "wof:lastmodified":1573623102,
     "wof:name":"Gillieston",
     "wof:parent_id":404540423,
     "wof:placetype":"locality",
+    "wof:population":60,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    145.21667,
-    -36.31667,
-    145.21667,
-    -36.31667
+    145.186534,
+    -36.357765,
+    145.222827,
+    -36.313689
 ],
-  "geometry": {"coordinates":[145.21666999999999,-36.31667],"type":"Point"}
+  "geometry": {"coordinates":[[[145.22280900000001,-36.328367],[145.22280900000001,-36.328378],[145.222827,-36.343076],[145.222827,-36.343083],[145.22281899999999,-36.35775],[145.22281899999999,-36.357765],[145.20470700000001,-36.357764],[145.204702,-36.357764],[145.19557599999999,-36.357759],[145.19560799999999,-36.343165],[145.19557499999999,-36.343029],[145.19556399999999,-36.342984],[145.19556399999999,-36.342938],[145.195607,-36.335696],[145.19565,-36.328369],[145.18659099999999,-36.328372],[145.18653399999999,-36.328372],[145.18653399999999,-36.328327],[145.186553,-36.313715],[145.204668,-36.313698],[145.20469499999999,-36.313698],[145.222757,-36.313689],[145.222758,-36.313705],[145.22281100000001,-36.31585],[145.22280900000001,-36.328367]]],"type":"Polygon"}
 }

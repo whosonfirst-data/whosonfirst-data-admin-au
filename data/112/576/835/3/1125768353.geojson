@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"150.9,-31.8,150.9,-31.8",
     "geom:latitude":-31.8,
     "geom:longitude":150.9,
@@ -50,7 +50,7 @@
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
     "src:lbl:centroid":"qs_pg",
-    "src:population":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681545,
         102191583,
@@ -61,6 +61,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC10406",
         "gn:id":2175353,
         "qs_pg:id":573038,
         "wd:id":"Q4925003"
@@ -80,11 +81,11 @@
         }
     ],
     "wof:id":1125768353,
-    "wof:lastmodified":1562923459,
+    "wof:lastmodified":1573621852,
     "wof:name":"Blandford",
     "wof:parent_id":404221975,
     "wof:placetype":"locality",
-    "wof:population":120,
+    "wof:population":183,
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],

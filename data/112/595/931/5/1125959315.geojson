@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"115.207443,-30.817346,115.207443,-30.817346",
     "geom:latitude":-30.817346,
     "geom:longitude":115.207443,
@@ -47,6 +47,7 @@
     "qs_pg:woe_id":22739284,
     "src:geom":"qs_pg",
     "src:lbl:centroid":"qs_pg",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Western Australia",
@@ -61,6 +62,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC51537",
         "gp:id":22739284,
         "qs_pg:id":14604
     },
@@ -79,10 +81,11 @@
         }
     ],
     "wof:id":1125959315,
-    "wof:lastmodified":1562921980,
+    "wof:lastmodified":1573624989,
     "wof:name":"Wedge Island",
     "wof:parent_id":404548513,
     "wof:placetype":"locality",
+    "wof:population":32,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

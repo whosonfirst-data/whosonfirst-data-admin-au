@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"151.76667,-29.11667,151.76667,-29.11667",
     "geom:latitude":-29.11667,
     "geom:longitude":151.76667,
@@ -32,7 +32,7 @@
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
     "src:lbl:centroid":"qs_pg",
-    "src:population":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681545,
         102191583,
@@ -43,6 +43,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC12666",
         "gn:id":2157295,
         "qs_pg:id":91021
     },
@@ -61,11 +62,11 @@
         }
     ],
     "wof:id":1125842869,
-    "wof:lastmodified":1509395387,
+    "wof:lastmodified":1573622405,
     "wof:name":"Mole River",
     "wof:parent_id":404224955,
     "wof:placetype":"locality",
-    "wof:population":98,
+    "wof:population":67,
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],

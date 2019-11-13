@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"145.41667,-36.8,145.41667,-36.8",
     "geom:latitude":-36.8,
     "geom:longitude":145.41667,
@@ -30,6 +30,7 @@
         "Londwood"
     ],
     "src:geom":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681497,
         102191583,
@@ -40,11 +41,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC21530",
         "gn:id":2159592,
         "wk:page":"Longwood%2C_Victoria"
     },
     "wof:country":"AU",
-    "wof:geomhash":"5b8ffec6c9c60de313a18e479e46f6d4",
+    "wof:geomhash":"b0902afa14f9365ffa6d1e094f657169",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,20 +59,21 @@
         }
     ],
     "wof:id":1293805093,
-    "wof:lastmodified":1537585020,
+    "wof:lastmodified":1573623231,
     "wof:name":"Longwood",
     "wof:parent_id":404539291,
     "wof:placetype":"locality",
+    "wof:population":240,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    145.41666999999995,
+    145.41667,
     -36.8,
-    145.41666999999995,
+    145.41667,
     -36.8
 ],
-  "geometry": {"coordinates":[145.41666999999995,-36.8],"type":"Point"}
+  "geometry": {"coordinates":[145.41667000000001,-36.8],"type":"Point"}
 }

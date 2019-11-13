@@ -2,13 +2,14 @@
   "id": 1225849907,
   "type": "Feature",
   "properties": {
+    "au-psma:modified":"2019-08-20",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"137.92776,-33.96367,137.92776,-33.96367",
-    "geom:latitude":-33.96367,
-    "geom:longitude":137.92776,
+    "geom:area":0.006991,
+    "geom:area_square_m":71708501.163417,
+    "geom:bbox":"137.872432,-33.990872,137.977528,-33.904129",
+    "geom:latitude":-33.945368,
+    "geom:longitude":137.924524,
     "gn:admin1_code":"5.0",
     "gn:admin2_code":"40430.0",
     "gn:asciiname":"Thomas Plain",
@@ -24,12 +25,16 @@
     "gn:population":0,
     "gn:timezone":"Australia/Adelaide",
     "iso:country":"AU",
+    "lbl:latitude":-33.945368,
+    "lbl:longitude":137.924524,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Thomas Plains"
     ],
-    "src:geom":"geonames",
+    "src:geom":"aus-psma",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681519,
         102191583,
@@ -40,10 +45,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "aus-psma":"SA1379",
+        "ausstat:2016":"SSC41431",
         "gn:id":8615510
     },
     "wof:country":"AU",
-    "wof:geomhash":"fa483bedb3e1cb0d86cef58fb5927fdd",
+    "wof:geomhash":"4dd87bb86410f14d387c0900eaadd49d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -56,20 +63,21 @@
         }
     ],
     "wof:id":1225849907,
-    "wof:lastmodified":1537585090,
+    "wof:lastmodified":1573624573,
     "wof:name":"Thomas Plain",
     "wof:parent_id":404545945,
     "wof:placetype":"locality",
+    "wof:population":41,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    137.92776,
-    -33.96367,
-    137.92776,
-    -33.96367
+    137.872432,
+    -33.990872,
+    137.977528,
+    -33.904129
 ],
-  "geometry": {"coordinates":[137.92776000000001,-33.96367],"type":"Point"}
+  "geometry": {"coordinates":[[[137.97752800000001,-33.904166],[137.97729799999999,-33.928229],[137.97332700000001,-33.936451],[137.97325699999999,-33.955015],[137.975435,-33.960193],[137.97405000000001,-33.960288],[137.971464,-33.962496],[137.96888300000001,-33.962892],[137.96601799999999,-33.962921],[137.961412,-33.965155],[137.934361,-33.978309],[137.90853100000001,-33.990868],[137.90831399999999,-33.990869],[137.907186,-33.990872],[137.894373,-33.990869],[137.886517,-33.990835],[137.872581,-33.990774],[137.87247199999999,-33.990773],[137.872432,-33.965346],[137.87243799999999,-33.95072],[137.872547,-33.950718],[137.88315900000001,-33.950697],[137.88323700000001,-33.935637],[137.88323099999999,-33.935364],[137.888938,-33.934861],[137.890917,-33.934801],[137.890874,-33.914387],[137.914253,-33.904792],[137.91586799999999,-33.904129],[137.97752800000001,-33.904166]]],"type":"Polygon"}
 }

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"151.88333,-28.53333,151.88333,-28.53333",
     "geom:latitude":-28.53333,
     "geom:longitude":151.88333,
@@ -40,6 +40,7 @@
     "qs_pg:woe_id":1098184,
     "src:geom":"qs_pg",
     "src:lbl:centroid":"qs_pg",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Queensland",
@@ -47,14 +48,15 @@
     "wof:belongsto":[
         85681463,
         102191583,
-        85632793,
-        404543793,
         1376953409,
+        404543793,
+        85632793,
         136253039,
         102048963
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC32381",
         "gn:id":2152594,
         "gp:id":1098184,
         "qs_pg:id":478735
@@ -75,10 +77,11 @@
         }
     ],
     "wof:id":1125789479,
-    "wof:lastmodified":1550735502,
+    "wof:lastmodified":1573624032,
     "wof:name":"Pozieres",
     "wof:parent_id":404543793,
     "wof:placetype":"locality",
+    "wof:population":145,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

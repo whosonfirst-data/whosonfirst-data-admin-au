@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"148.61667,-24.46667,148.61667,-24.46667",
     "geom:latitude":-24.46667,
     "geom:longitude":148.61667,
@@ -59,7 +59,7 @@
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
     "src:lbl:centroid":"qs_pg",
-    "src:population":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681463,
         102191583,
@@ -70,6 +70,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC32485",
         "gn:id":2151201,
         "qs_pg:id":90994,
         "wd:id":"Q12213927"
@@ -89,11 +90,11 @@
         }
     ],
     "wof:id":1125859427,
-    "wof:lastmodified":1562923571,
+    "wof:lastmodified":1573624055,
     "wof:name":"Rolleston",
     "wof:parent_id":404543951,
     "wof:placetype":"locality",
-    "wof:population":215,
+    "wof:population":309,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"146.91667,-29.25,146.91667,-29.25",
     "geom:latitude":-29.25,
     "geom:longitude":146.91667,
@@ -39,6 +39,7 @@
     "qs_pg:woe_id":1106553,
     "src:geom":"qs_pg",
     "src:lbl:centroid":"qs_pg",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"New South Wales",
@@ -53,6 +54,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC14216",
         "gn:id":2144213,
         "gp:id":1106553,
         "qs_pg:id":138606
@@ -72,10 +74,11 @@
         }
     ],
     "wof:id":1125874173,
-    "wof:lastmodified":1509397583,
+    "wof:lastmodified":1573622789,
     "wof:name":"Weilmoringle",
     "wof:parent_id":404226939,
     "wof:placetype":"locality",
+    "wof:population":77,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

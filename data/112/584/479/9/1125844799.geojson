@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"152.663213,-26.630378,152.663213,-26.630378",
     "geom:latitude":-26.630378,
     "geom:longitude":152.663213,
@@ -44,6 +44,7 @@
     "qs_pg:woe_id":28584410,
     "src:geom":"qs_pg",
     "src:lbl:centroid":"qs_pg",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Queensland",
@@ -59,6 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC30501",
         "gp:id":28584410,
         "qs_pg:id":21334,
         "wd:id":"Q17153069"
@@ -79,10 +81,11 @@
         }
     ],
     "wof:id":1125844799,
-    "wof:lastmodified":1562923692,
+    "wof:lastmodified":1573623667,
     "wof:name":"Cambroon",
     "wof:parent_id":404541575,
     "wof:placetype":"locality",
+    "wof:population":219,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

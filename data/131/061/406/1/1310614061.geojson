@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"151.4179,-31.6652,151.4179,-31.6652",
     "geom:latitude":-31.6652,
     "geom:longitude":151.4179,
@@ -33,6 +33,7 @@
         "\u0413\u043b\u0435\u043d\u0440\u043e\u043a"
     ],
     "src:geom":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681545,
         102191583,
@@ -43,6 +44,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC11677",
         "gn:id":2165211
     },
     "wof:country":"AU",
@@ -59,10 +61,11 @@
         }
     ],
     "wof:id":1310614061,
-    "wof:lastmodified":1562897687,
+    "wof:lastmodified":1573622160,
     "wof:name":"Glenrock",
     "wof:parent_id":404223617,
     "wof:placetype":"locality",
+    "wof:population":31,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

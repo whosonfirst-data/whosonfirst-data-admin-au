@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"149.4929,-34.5985,149.4929,-34.5985",
     "geom:latitude":-34.5985,
     "geom:longitude":149.4929,
@@ -48,6 +48,7 @@
         "\u0411\u0430\u043d\u043d\u0456\u0441\u0442\u0435\u0440"
     ],
     "src:geom":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681545,
         102191583,
@@ -58,6 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC10183",
         "gn:id":2176941
     },
     "wof:country":"AU",
@@ -74,10 +76,11 @@
         }
     ],
     "wof:id":1327143053,
-    "wof:lastmodified":1562893401,
+    "wof:lastmodified":1573621794,
     "wof:name":"Bannister",
     "wof:parent_id":404221661,
     "wof:placetype":"locality",
+    "wof:population":120,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

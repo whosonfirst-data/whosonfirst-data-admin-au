@@ -2,11 +2,12 @@
   "id": 101938579,
   "type": "Feature",
   "properties": {
+    "au-psma:modified":"2019-08-20",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000226,
-    "geom:area_square_m":2521740.149261,
-    "geom:bbox":"131.061108992,-25.3597239915,131.073612,-25.3416659935",
+    "geom:area_square_m":2521738.395504,
+    "geom:bbox":"131.061109,-25.359724,131.073612,-25.341666",
     "geom:latitude":-25.350695,
     "geom:longitude":131.06736,
     "iso:country":"AU",
@@ -49,11 +50,13 @@
     "qs:loc":"Mutitjulu",
     "qs:pop":0,
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
-    "src:geom":"quattroshapes",
+    "src:geom":"aus-psma",
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
     "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "wd:latitude":-25.3508,
     "wd:longitude":131.066,
     "wd:wordcount":766,
@@ -66,6 +69,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "aus-psma":"NT202",
+        "ausstat:2016":"SSC70200",
         "fct:id":"033dc840-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":8348363,
         "gp:id":55864525,
@@ -76,7 +81,7 @@
         "woe:id":55864525
     },
     "wof:country":"AU",
-    "wof:geomhash":"9a16b9874b9e164605b0fedd7df312e7",
+    "wof:geomhash":"8af2fe9da28be7c121c150c4186163bd",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -91,20 +96,21 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1562899333,
+    "wof:lastmodified":1573625293,
     "wof:name":"Mutitjulu",
     "wof:parent_id":102048913,
     "wof:placetype":"locality",
+    "wof:population":323,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    131.06110899200002,
-    -25.3597239915,
+    131.061109,
+    -25.359724,
     131.073612,
-    -25.3416659935
+    -25.341666
 ],
-  "geometry": {"coordinates":[[[131.06110899200002,-25.3597239915],[131.06111200000001,-25.3416659935],[131.07360700799998,-25.3416679915],[131.073612,-25.3597199955],[131.06110899200002,-25.3597239915]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[131.06111200000001,-25.341666],[131.07360700000001,-25.341668],[131.073612,-25.35972],[131.06110899999999,-25.359724],[131.06111200000001,-25.341666]]],"type":"Polygon"}
 }

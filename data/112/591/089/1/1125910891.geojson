@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"118.88333,-32.45,118.88333,-32.45",
     "geom:latitude":-32.45,
     "geom:longitude":118.88333,
@@ -59,7 +59,7 @@
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
     "src:lbl:centroid":"qs_pg",
-    "src:population":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681439,
         102191583,
@@ -70,6 +70,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC50660",
         "gn:id":2069465,
         "qs_pg:id":1033633,
         "wd:id":"Q1377673"
@@ -89,11 +90,11 @@
         }
     ],
     "wof:id":1125910891,
-    "wof:lastmodified":1562923049,
+    "wof:lastmodified":1573624782,
     "wof:name":"Hyden",
     "wof:parent_id":404547467,
     "wof:placetype":"locality",
-    "wof:population":280,
+    "wof:population":377,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],

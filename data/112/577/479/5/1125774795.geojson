@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"145.53333,-17.31667,145.53333,-17.31667",
     "geom:latitude":-17.31667,
     "geom:longitude":145.53333,
@@ -40,6 +40,7 @@
     "qs_pg:woe_id":1095604,
     "src:geom":"qs_pg",
     "src:lbl:centroid":"qs_pg",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Queensland",
@@ -54,6 +55,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC30927",
         "gn:id":2167939,
         "gp:id":1095604,
         "qs_pg:id":1159432
@@ -73,10 +75,11 @@
         }
     ],
     "wof:id":1125774795,
-    "wof:lastmodified":1509391204,
+    "wof:lastmodified":1573623749,
     "wof:name":"East Barron",
     "wof:parent_id":404542055,
     "wof:placetype":"locality",
+    "wof:population":234,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

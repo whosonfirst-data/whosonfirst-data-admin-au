@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"140.965994,-38.006172,140.965994,-38.006172",
     "geom:latitude":-38.006172,
     "geom:longitude":140.965994,
@@ -44,6 +44,7 @@
     "qs_pg:woe_id":1101708,
     "src:geom":"qs_pg",
     "src:lbl:centroid":"qs_pg",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"South Australia",
@@ -58,6 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC40365",
         "gp:id":1101708,
         "qs_pg:id":510696,
         "wd:id":"Q5296872"
@@ -77,10 +79,11 @@
         }
     ],
     "wof:id":1126000885,
-    "wof:lastmodified":1562923294,
+    "wof:lastmodified":1573624308,
     "wof:name":"Donovans",
     "wof:parent_id":404545205,
     "wof:placetype":"locality",
+    "wof:population":83,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

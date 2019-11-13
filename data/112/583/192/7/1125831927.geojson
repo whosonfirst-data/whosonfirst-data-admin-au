@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"150.21582,-33.5727,150.21582,-33.5727",
     "geom:latitude":-33.5727,
     "geom:longitude":150.21582,
@@ -38,6 +38,7 @@
     "qs_pg:woe_id":28585873,
     "src:geom":"qs_pg",
     "src:lbl:centroid":"qs_pg",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"New South Wales",
@@ -52,6 +53,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC12352",
         "gp:id":28585873,
         "qs_pg:id":1091310,
         "wd:id":"Q6650266"
@@ -71,10 +73,11 @@
         }
     ],
     "wof:id":1125831927,
-    "wof:lastmodified":1513890692,
+    "wof:lastmodified":1573622326,
     "wof:name":"Little Hartley",
     "wof:parent_id":404224133,
     "wof:placetype":"locality",
+    "wof:population":506,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

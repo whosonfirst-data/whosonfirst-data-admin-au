@@ -2,16 +2,17 @@
   "id": 101938355,
   "type": "Feature",
   "properties": {
+    "au-psma:modified":"2019-08-20",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000868,
-    "geom:area_square_m":10021003.677714,
-    "geom:bbox":"137.815498112,-21.00295699,137.857019008,-20.964981004",
-    "geom:latitude":-20.981745,
+    "geom:area_square_m":10022002.597985,
+    "geom:bbox":"137.815498,-21.002957,137.857019,-20.964981",
+    "geom:latitude":-20.981744,
     "geom:longitude":137.83736,
     "iso:country":"AU",
-    "lbl:latitude":-20.982433,
-    "lbl:longitude":137.837046,
+    "lbl:latitude":-20.981744,
+    "lbl:longitude":137.83736,
     "mps:latitude":-20.982433,
     "mps:longitude":137.837046,
     "mz:hierarchy_label":1,
@@ -52,9 +53,11 @@
     "qs:loc":"Alpurrurulam",
     "qs:pop":0,
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
-    "src:geom":"quattroshapes",
+    "src:geom":"aus-psma",
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "wd:latitude":-20.9667,
     "wd:longitude":137.917,
     "wd:wordcount":224,
@@ -67,12 +70,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "aus-psma":"NT6",
+        "ausstat:2016":"SSC70006",
         "gn:id":8310676,
         "gp:id":55864446,
         "wd:id":"Q17904"
     },
     "wof:country":"AU",
-    "wof:geomhash":"b3d95974e871c1293b18f166bccf3d85",
+    "wof:geomhash":"b5ff1360faa08aaf000e5a0da513de9c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -84,20 +89,21 @@
         }
     ],
     "wof:id":101938355,
-    "wof:lastmodified":1561827846,
+    "wof:lastmodified":1573625247,
     "wof:name":"Alpurrurulam",
     "wof:parent_id":102048951,
     "wof:placetype":"locality",
+    "wof:population":420,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    137.815498112,
-    -21.00295699,
-    137.85701900799998,
-    -20.964981004
+    137.815498,
+    -21.002957,
+    137.857019,
+    -20.964981
 ],
-  "geometry": {"coordinates":[[[137.83189100800001,-21.00295699],[137.815498112,-20.9746389845],[137.85230000000001,-20.964981004],[137.85701900799998,-20.9801670065],[137.85308620800001,-20.983609283],[137.84843190399999,-20.9890675045],[137.84673900800001,-20.990745991],[137.83912899199998,-20.998322999],[137.83189100800001,-21.00295699]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[137.83189100000001,-21.002957],[137.81549799999999,-20.974639],[137.85088400000001,-20.965348],[137.85230000000001,-20.964981],[137.85701900000001,-20.980167],[137.85308599999999,-20.983609],[137.848432,-20.989068],[137.84673900000001,-20.990746],[137.83912900000001,-20.998323],[137.83189100000001,-21.002957]]],"type":"Polygon"}
 }

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"149.948959,-34.31005,149.948959,-34.31005",
     "geom:latitude":-34.31005,
     "geom:longitude":149.948959,
@@ -47,6 +47,7 @@
     "qs_pg:woe_id":28588080,
     "src:geom":"qs_pg",
     "src:lbl:centroid":"qs_pg",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"New South Wales",
@@ -61,6 +62,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC14366",
         "gp:id":28588080,
         "qs_pg:id":1127230
     },
@@ -79,10 +81,11 @@
         }
     ],
     "wof:id":1125908263,
-    "wof:lastmodified":1562922878,
+    "wof:lastmodified":1573622824,
     "wof:name":"Wombeyan Caves",
     "wof:parent_id":404227137,
     "wof:placetype":"locality",
+    "wof:population":57,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

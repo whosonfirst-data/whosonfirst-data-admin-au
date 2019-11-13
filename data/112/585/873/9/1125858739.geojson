@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"136.26667,-33.68333,136.26667,-33.68333",
     "geom:latitude":-33.68333,
     "geom:longitude":136.26667,
@@ -50,7 +50,7 @@
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
     "src:lbl:centroid":"qs_pg",
-    "src:population":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681519,
         102191583,
@@ -61,6 +61,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC41271",
         "gn:id":2062125,
         "qs_pg:id":90707,
         "wd:id":"Q14935765"
@@ -80,11 +81,11 @@
         }
     ],
     "wof:id":1125858739,
-    "wof:lastmodified":1562923529,
+    "wof:lastmodified":1573624531,
     "wof:name":"Rudall",
     "wof:parent_id":404546245,
     "wof:placetype":"locality",
-    "wof:population":129,
+    "wof:population":90,
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],

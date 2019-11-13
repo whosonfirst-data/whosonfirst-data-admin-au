@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"152.26667,-32.05,152.26667,-32.05",
     "geom:latitude":-32.05,
     "geom:longitude":152.26667,
@@ -47,7 +47,7 @@
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
     "src:lbl:centroid":"qs_pg",
-    "src:population":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681545,
         102191583,
@@ -58,6 +58,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC12202",
         "gn:id":2161007,
         "qs_pg:id":91033,
         "wd:id":"Q6436015"
@@ -77,11 +78,11 @@
         }
     ],
     "wof:id":1125859513,
-    "wof:lastmodified":1562923558,
+    "wof:lastmodified":1573622287,
     "wof:name":"Krambach",
     "wof:parent_id":404224323,
     "wof:placetype":"locality",
-    "wof:population":136,
+    "wof:population":378,
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],

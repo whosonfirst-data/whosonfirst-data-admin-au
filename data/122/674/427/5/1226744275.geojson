@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"142.7,-38.15,142.7,-38.15",
     "geom:latitude":-38.15,
     "geom:longitude":142.7,
@@ -36,6 +36,7 @@
         "Ellerslie"
     ],
     "src:geom":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681497,
         102191583,
@@ -46,6 +47,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC20852",
         "gn:id":2167510
     },
     "wof:country":"AU",
@@ -62,10 +64,11 @@
         }
     ],
     "wof:id":1226744275,
-    "wof:lastmodified":1562924803,
+    "wof:lastmodified":1573623066,
     "wof:name":"Ellerslie",
     "wof:parent_id":404538497,
     "wof:placetype":"locality",
+    "wof:population":147,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

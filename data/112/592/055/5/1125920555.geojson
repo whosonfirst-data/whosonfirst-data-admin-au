@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"142.36667,-36.61667,142.36667,-36.61667",
     "geom:latitude":-36.61667,
     "geom:longitude":142.36667,
@@ -38,6 +38,7 @@
     "qs_pg:woe_id":1102889,
     "src:geom":"qs_pg",
     "src:lbl:centroid":"qs_pg",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Victoria",
@@ -52,6 +53,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC21269",
         "gn:id":2162046,
         "gp:id":1102889,
         "qs_pg:id":983432
@@ -71,10 +73,11 @@
         }
     ],
     "wof:id":1125920555,
-    "wof:lastmodified":1509400777,
+    "wof:lastmodified":1573623170,
     "wof:name":"Jung",
     "wof:parent_id":404539001,
     "wof:placetype":"locality",
+    "wof:population":241,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

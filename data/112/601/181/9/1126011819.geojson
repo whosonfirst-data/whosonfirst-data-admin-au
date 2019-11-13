@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"148.63333,-36.33333,148.63333,-36.33333",
     "geom:latitude":-36.33333,
     "geom:longitude":148.63333,
@@ -32,7 +32,7 @@
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
     "src:lbl:centroid":"qs_pg",
-    "src:population":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681545,
         102191583,
@@ -43,6 +43,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC12052",
         "gn:id":2161986,
         "qs_pg:id":572934
     },
@@ -61,11 +62,11 @@
         }
     ],
     "wof:id":1126011819,
-    "wof:lastmodified":1509406722,
+    "wof:lastmodified":1573622252,
     "wof:name":"Kalkite",
     "wof:parent_id":404224115,
     "wof:placetype":"locality",
-    "wof:population":164,
+    "wof:population":214,
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"147.11267,-43.04625,147.11267,-43.04625",
     "geom:latitude":-43.04625,
     "geom:longitude":147.11267,
@@ -41,7 +41,7 @@
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
     "src:lbl:centroid":"qs_pg",
-    "src:population":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681583,
         102191583,
@@ -52,6 +52,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC60495",
         "gn:id":2153506,
         "qs_pg:id":572877,
         "wd:id":"Q18165922"
@@ -71,11 +72,11 @@
         }
     ],
     "wof:id":1125781015,
-    "wof:lastmodified":1562923617,
+    "wof:lastmodified":1573625169,
     "wof:name":"Pelverata",
     "wof:parent_id":404549285,
     "wof:placetype":"locality",
-    "wof:population":296,
+    "wof:population":206,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],

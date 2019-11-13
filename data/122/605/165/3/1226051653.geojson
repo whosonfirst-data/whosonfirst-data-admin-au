@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"152.72879,-31.06485,152.72879,-31.06485",
     "geom:latitude":-31.06485,
     "geom:longitude":152.72879,
@@ -84,6 +84,7 @@
         "Sherwood"
     ],
     "src:geom":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681545,
         102191583,
@@ -94,6 +95,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC13537",
         "gn:id":2149631
     },
     "wof:country":"AU",
@@ -110,10 +112,11 @@
         }
     ],
     "wof:id":1226051653,
-    "wof:lastmodified":1562924838,
+    "wof:lastmodified":1573622625,
     "wof:name":"Sherwood",
     "wof:parent_id":404226091,
     "wof:placetype":"locality",
+    "wof:population":144,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

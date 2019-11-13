@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"147.0,-42.81667,147.0,-42.81667",
     "geom:latitude":-42.81667,
     "geom:longitude":147.0,
@@ -18,7 +18,7 @@
     "gn:feature_code":"PPL",
     "gn:geonameid":2165331,
     "gn:latitude":-42.81667,
-    "gn:longitude":147.0,
+    "gn:longitude":147,
     "gn:modification_date":"2014-06-05",
     "gn:name":"Glenfern",
     "gn:population":0,
@@ -30,6 +30,7 @@
         "Glenfern"
     ],
     "src:geom":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681583,
         102191583,
@@ -40,6 +41,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC60229",
         "gn:id":2165331
     },
     "wof:country":"AU",
@@ -56,10 +58,11 @@
         }
     ],
     "wof:id":1243356159,
-    "wof:lastmodified":1537585029,
+    "wof:lastmodified":1573625087,
     "wof:name":"Glenfern",
     "wof:parent_id":404548959,
     "wof:placetype":"locality",
+    "wof:population":189,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

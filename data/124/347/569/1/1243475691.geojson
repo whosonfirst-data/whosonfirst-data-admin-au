@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"145.33187,-36.56539,145.33187,-36.56539",
     "geom:latitude":-36.56539,
     "geom:longitude":145.33187,
@@ -33,6 +33,7 @@
         "\u0622\u0631\u06a9\u06cc\u0688\u06cc\u0627"
     ],
     "src:geom":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681497,
         102191583,
@@ -44,6 +45,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC20055",
         "gn:id":2177745,
         "wk:page":"Arcadia%2C_Victoria"
     },
@@ -62,10 +64,11 @@
         }
     ],
     "wof:id":1243475691,
-    "wof:lastmodified":1562924165,
+    "wof:lastmodified":1573622875,
     "wof:name":"Arcadia",
     "wof:parent_id":404537549,
     "wof:placetype":"locality",
+    "wof:population":217,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

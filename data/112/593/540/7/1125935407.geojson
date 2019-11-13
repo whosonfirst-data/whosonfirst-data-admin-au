@@ -5,8 +5,8 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"146.781802,-19.3473365,146.781802,-19.3473365",
+    "geom:area_square_m":0,
+    "geom:bbox":"146.781802,-19.347337,146.781802,-19.347337",
     "geom:latitude":-19.347337,
     "geom:longitude":146.781802,
     "gn:gn_country":null,
@@ -47,6 +47,7 @@
     "qs_pg:woe_id":28586402,
     "src:geom":"qs_pg",
     "src:lbl:centroid":"qs_pg",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Queensland",
@@ -61,12 +62,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC32042",
         "gp:id":28586402,
         "qs_pg:id":985693
     },
     "wof:country":"AU",
     "wof:created":1497296951,
-    "wof:geomhash":"68158bed0271424006c8f818694e2d4b",
+    "wof:geomhash":"181a7209d949e39aff9d63bf57b03ad7",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -79,10 +81,11 @@
         }
     ],
     "wof:id":1125935407,
-    "wof:lastmodified":1562921934,
+    "wof:lastmodified":1573623962,
     "wof:name":"Mount Stuart",
     "wof:parent_id":404543395,
     "wof:placetype":"locality",
+    "wof:population":0,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -90,9 +93,9 @@
 },
   "bbox": [
     146.781802,
-    -19.3473365,
+    -19.347337,
     146.781802,
-    -19.3473365
+    -19.347337
 ],
-  "geometry": {"coordinates":[146.781802,-19.3473365],"type":"Point"}
+  "geometry": {"coordinates":[146.781802,-19.347337],"type":"Point"}
 }

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"116.35874,-30.6352,116.35874,-30.6352",
     "geom:latitude":-30.6352,
     "geom:longitude":116.35874,
@@ -30,6 +30,7 @@
         "Bindi Bindi"
     ],
     "src:geom":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681439,
         102191583,
@@ -40,6 +41,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC50125",
         "gn:id":2076564
     },
     "wof:country":"AU",
@@ -56,10 +58,11 @@
         }
     ],
     "wof:id":1344042937,
-    "wof:lastmodified":1537585001,
+    "wof:lastmodified":1573624660,
     "wof:name":"Bindi Bindi",
     "wof:parent_id":404546843,
     "wof:placetype":"locality",
+    "wof:population":72,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"143.96667,-37.7,143.96667,-37.7",
     "geom:latitude":-37.7,
     "geom:longitude":143.96667,
@@ -75,6 +75,7 @@
         "Clarendon"
     ],
     "src:geom":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681497,
         102191583,
@@ -85,6 +86,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC20561",
         "gn:id":2171462
     },
     "wof:country":"AU",
@@ -101,10 +103,11 @@
         }
     ],
     "wof:id":1292900547,
-    "wof:lastmodified":1562896124,
+    "wof:lastmodified":1573622998,
     "wof:name":"Clarendon",
     "wof:parent_id":404538145,
     "wof:placetype":"locality",
+    "wof:population":145,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

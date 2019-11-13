@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"152.80622,-26.760145,152.80622,-26.760145",
     "geom:latitude":-26.760145,
     "geom:longitude":152.80622,
@@ -35,6 +35,7 @@
     "qs_pg:woe_id":28587011,
     "src:geom":"qs_pg",
     "src:lbl:centroid":"qs_pg",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Queensland",
@@ -42,14 +43,15 @@
     "wof:belongsto":[
         85681463,
         102191583,
-        85632793,
-        404543887,
         1376953259,
+        404543887,
+        85632793,
         136253039,
         102049303
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC32439",
         "gp:id":28587011,
         "qs_pg:id":1197180
     },
@@ -69,10 +71,11 @@
         }
     ],
     "wof:id":1125871473,
-    "wof:lastmodified":1550741499,
+    "wof:lastmodified":1573624044,
     "wof:name":"Reesville",
     "wof:parent_id":404543887,
     "wof:placetype":"locality",
+    "wof:population":567,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

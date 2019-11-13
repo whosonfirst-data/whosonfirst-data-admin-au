@@ -2,13 +2,14 @@
   "id": 1343881201,
   "type": "Feature",
   "properties": {
+    "au-psma:modified":"2019-08-20",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"139.38989,-34.862,139.38989,-34.862",
-    "geom:latitude":-34.862,
-    "geom:longitude":139.38989,
+    "geom:area":0.000032,
+    "geom:area_square_m":319895.492113,
+    "geom:bbox":"139.384297,-34.865575,139.394506,-34.858626",
+    "geom:latitude":-34.862115,
+    "geom:longitude":139.38993,
     "gn:admin1_code":"5",
     "gn:admin2_code":"44210",
     "gn:asciiname":"Pellaring Flat",
@@ -24,9 +25,13 @@
     "gn:population":0,
     "gn:timezone":"Australia/Adelaide",
     "iso:country":"AU",
+    "lbl:latitude":-34.862115,
+    "lbl:longitude":139.38993,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "src:geom":"geonames",
+    "src:geom":"aus-psma",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681519,
         102191583,
@@ -37,10 +42,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "aus-psma":"SA1073",
+        "ausstat:2016":"SSC41119",
         "gn:id":2063615
     },
     "wof:country":"AU",
-    "wof:geomhash":"d83335c814f0460604021111d3d34627",
+    "wof:geomhash":"b5685280ef09051a14279701f503f559",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -53,20 +60,21 @@
         }
     ],
     "wof:id":1343881201,
-    "wof:lastmodified":1536635455,
+    "wof:lastmodified":1573624492,
     "wof:name":"Pellaring Flat",
     "wof:parent_id":404546497,
     "wof:placetype":"locality",
+    "wof:population":3,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    139.38988999999998,
-    -34.86199999999999,
-    139.38988999999998,
-    -34.86199999999999
+    139.384297,
+    -34.865575,
+    139.394506,
+    -34.858626
 ],
-  "geometry": {"coordinates":[139.38988999999998,-34.86199999999999],"type":"Point"}
+  "geometry": {"coordinates":[[[139.39450600000001,-34.864435],[139.392144,-34.865285],[139.39154199999999,-34.865575],[139.39058199999999,-34.864387],[139.390131,-34.863862],[139.39005299999999,-34.863901],[139.38991200000001,-34.863973],[139.38979499999999,-34.864032],[139.38969499999999,-34.864083],[139.389297,-34.863899],[139.384805,-34.861823],[139.384297,-34.861625],[139.384421,-34.861578],[139.390354,-34.858626],[139.39124000000001,-34.859835],[139.39320000000001,-34.862501],[139.393384,-34.86275],[139.39354800000001,-34.862967],[139.39450600000001,-34.864435]]],"type":"Polygon"}
 }

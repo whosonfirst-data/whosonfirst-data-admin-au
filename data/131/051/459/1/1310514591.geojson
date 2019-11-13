@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"152.94485,-29.11222,152.94485,-29.11222",
     "geom:latitude":-29.11222,
     "geom:longitude":152.94485,
@@ -30,6 +30,7 @@
         "Myrtle Creek"
     ],
     "src:geom":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681545,
         102191583,
@@ -40,6 +41,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC12879",
         "gn:id":8628259,
         "wk:page":"Myrtle_Creek%2C_New_South_Wales"
     },
@@ -57,10 +59,11 @@
         }
     ],
     "wof:id":1310514591,
-    "wof:lastmodified":1537585102,
+    "wof:lastmodified":1573622461,
     "wof:name":"Myrtle Creek",
     "wof:parent_id":404225185,
     "wof:placetype":"locality",
+    "wof:population":86,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

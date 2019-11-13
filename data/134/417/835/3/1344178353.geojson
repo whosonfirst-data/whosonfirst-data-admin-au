@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"145.05894,-36.1968,145.05894,-36.1968",
     "geom:latitude":-36.1968,
     "geom:longitude":145.05894,
@@ -32,6 +32,7 @@
         "Wyuna"
     ],
     "src:geom":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681497,
         102191583,
@@ -42,10 +43,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC22869",
         "gn:id":2142727
     },
     "wof:country":"AU",
-    "wof:geomhash":"0a90e5e0f4d630eebfef70113f097508",
+    "wof:geomhash":"fdeaa93ee15b9a7878dc1cecdad96ad5",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,20 +60,21 @@
         }
     ],
     "wof:id":1344178353,
-    "wof:lastmodified":1537585003,
+    "wof:lastmodified":1573623547,
     "wof:name":"Wyuna",
     "wof:parent_id":404540871,
     "wof:placetype":"locality",
+    "wof:population":262,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    145.05893999999995,
+    145.05894,
     -36.1968,
-    145.05893999999995,
+    145.05894,
     -36.1968
 ],
-  "geometry": {"coordinates":[145.05893999999995,-36.1968],"type":"Point"}
+  "geometry": {"coordinates":[145.05894000000001,-36.1968],"type":"Point"}
 }

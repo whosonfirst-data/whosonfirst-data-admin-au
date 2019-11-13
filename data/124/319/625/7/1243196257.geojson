@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"152.96667,-27.9,152.96667,-27.9",
     "geom:latitude":-27.9,
     "geom:longitude":152.96667,
@@ -30,6 +30,7 @@
         "Woodhill"
     ],
     "src:geom":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681463,
         102191583,
@@ -41,6 +42,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC33164",
         "gn:id":2143092
     },
     "wof:country":"AU",
@@ -58,10 +60,11 @@
         }
     ],
     "wof:id":1243196257,
-    "wof:lastmodified":1562924372,
+    "wof:lastmodified":1573624195,
     "wof:name":"Woodhill",
     "wof:parent_id":404544749,
     "wof:placetype":"locality",
+    "wof:population":723,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

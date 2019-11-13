@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"147.71667,-31.85,147.71667,-31.85",
     "geom:latitude":-31.85,
     "geom:longitude":147.71667,
@@ -50,7 +50,7 @@
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
     "src:lbl:centroid":"qs_pg",
-    "src:population":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681545,
         102191583,
@@ -61,6 +61,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC12936",
         "gn:id":2155491,
         "qs_pg:id":91003,
         "wd:id":"Q7004465"
@@ -80,11 +81,11 @@
         }
     ],
     "wof:id":1125842651,
-    "wof:lastmodified":1562923718,
+    "wof:lastmodified":1573622475,
     "wof:name":"Nevertire",
     "wof:parent_id":404225269,
     "wof:placetype":"locality",
-    "wof:population":330,
+    "wof:population":189,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],

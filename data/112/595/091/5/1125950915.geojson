@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"146.23333,-38.25,146.23333,-38.25",
     "geom:latitude":-38.25,
     "geom:longitude":146.23333,
@@ -40,6 +40,7 @@
     "qs_pg:woe_id":1097698,
     "src:geom":"qs_pg",
     "src:lbl:centroid":"qs_pg",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Victoria",
@@ -54,6 +55,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC21877",
         "gn:id":2155737,
         "gp:id":1097698,
         "qs_pg:id":987844
@@ -73,10 +75,11 @@
         }
     ],
     "wof:id":1125950915,
-    "wof:lastmodified":1509402680,
+    "wof:lastmodified":1573623310,
     "wof:name":"Narracan",
     "wof:parent_id":404539687,
     "wof:placetype":"locality",
+    "wof:population":253,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

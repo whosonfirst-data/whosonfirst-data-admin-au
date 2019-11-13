@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"145.9,-38.33333,145.9,-38.33333",
     "geom:latitude":-38.33333,
     "geom:longitude":145.9,
@@ -32,6 +32,7 @@
         "Strzelecki"
     ],
     "src:geom":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681497,
         102191583,
@@ -42,6 +43,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC22372",
         "gn:id":2148045
     },
     "wof:country":"AU",
@@ -58,10 +60,11 @@
         }
     ],
     "wof:id":1360279865,
-    "wof:lastmodified":1537585010,
+    "wof:lastmodified":1573623438,
     "wof:name":"Strzelecki",
     "wof:parent_id":404540341,
     "wof:placetype":"locality",
+    "wof:population":89,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

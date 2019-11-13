@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"146.211633,-41.774704,146.211633,-41.774704",
     "geom:latitude":-41.774704,
     "geom:longitude":146.211633,
@@ -35,6 +35,7 @@
     "qs_pg:woe_id":28645209,
     "src:geom":"qs_pg",
     "src:lbl:centroid":"qs_pg",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Tasmania",
@@ -49,6 +50,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC60393",
         "gp:id":28645209,
         "qs_pg:id":1286796
     },
@@ -67,10 +69,11 @@
         }
     ],
     "wof:id":1125948009,
-    "wof:lastmodified":1509402505,
+    "wof:lastmodified":1573625136,
     "wof:name":"Mersey Forest",
     "wof:parent_id":404549157,
     "wof:placetype":"locality",
+    "wof:population":0,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

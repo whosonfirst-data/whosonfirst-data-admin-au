@@ -5,8 +5,8 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"145.4244585,-17.127109,145.4244585,-17.127109",
+    "geom:area_square_m":0,
+    "geom:bbox":"145.424458,-17.127109,145.424458,-17.127109",
     "geom:latitude":-17.127109,
     "geom:longitude":145.424458,
     "gn:gn_country":null,
@@ -47,6 +47,7 @@
     "qs_pg:woe_id":1106351,
     "src:geom":"qs_pg",
     "src:lbl:centroid":"qs_pg",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Queensland",
@@ -61,13 +62,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC32989",
         "gp:id":1106351,
         "qs_pg:id":1110709,
         "wd:id":"Q7962155"
     },
     "wof:country":"AU",
     "wof:created":1497294091,
-    "wof:geomhash":"4b8ca732b5b5d87e04d8c75b4f5aee9e",
+    "wof:geomhash":"e434f32ff13f7f69f8af671a45090aec",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -80,20 +82,21 @@
         }
     ],
     "wof:id":1125866989,
-    "wof:lastmodified":1562922499,
+    "wof:lastmodified":1573624163,
     "wof:name":"Walkamin",
     "wof:parent_id":404544553,
     "wof:placetype":"locality",
+    "wof:population":474,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    145.4244585,
+    145.424458,
     -17.127109,
-    145.4244585,
+    145.424458,
     -17.127109
 ],
-  "geometry": {"coordinates":[145.42445849999999,-17.127109],"type":"Point"}
+  "geometry": {"coordinates":[145.42445799999999,-17.127109],"type":"Point"}
 }

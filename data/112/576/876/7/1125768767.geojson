@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"133.620057,-24.317886,133.620057,-24.317886",
     "geom:latitude":-24.317886,
     "geom:longitude":133.620057,
@@ -44,6 +44,7 @@
     "qs_pg:woe_id":55864500,
     "src:geom":"qs_pg",
     "src:lbl:centroid":"qs_pg",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Northern Territory",
@@ -58,6 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC70130",
         "gp:id":55864500,
         "qs_pg:id":224256
     },
@@ -76,10 +78,11 @@
         }
     ],
     "wof:id":1125768767,
-    "wof:lastmodified":1562923490,
+    "wof:lastmodified":1573625275,
     "wof:name":"Hugh",
     "wof:parent_id":404549737,
     "wof:placetype":"locality",
+    "wof:population":865,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"145.38333,-17.06667,145.38333,-17.06667",
     "geom:latitude":-17.06667,
     "geom:longitude":145.38333,
@@ -40,6 +40,7 @@
     "qs_pg:woe_id":1095041,
     "src:geom":"qs_pg",
     "src:lbl:centroid":"qs_pg",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Queensland",
@@ -54,6 +55,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC30603",
         "gn:id":2171642,
         "gp:id":1095041,
         "qs_pg:id":1332815
@@ -73,10 +75,11 @@
         }
     ],
     "wof:id":1125769711,
-    "wof:lastmodified":1509390899,
+    "wof:lastmodified":1573623686,
     "wof:name":"Chewko",
     "wof:parent_id":404541697,
     "wof:placetype":"locality",
+    "wof:population":194,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

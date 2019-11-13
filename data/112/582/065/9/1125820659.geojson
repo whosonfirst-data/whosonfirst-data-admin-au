@@ -5,8 +5,8 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"146.9901175,-42.7551355,146.9901175,-42.7551355",
+    "geom:area_square_m":0,
+    "geom:bbox":"146.990117,-42.755136,146.990117,-42.755136",
     "geom:latitude":-42.755136,
     "geom:longitude":146.990117,
     "gn:gn_country":null,
@@ -92,6 +92,7 @@
     "qs_pg:woe_id":28585392,
     "src:geom":"qs_pg",
     "src:lbl:centroid":"qs_pg",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Tasmania",
@@ -106,12 +107,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC60263",
         "gp:id":28585392,
         "qs_pg:id":133676
     },
     "wof:country":"AU",
     "wof:created":1497292039,
-    "wof:geomhash":"7be5b7dd74e241bdf4e36d1fb677c74b",
+    "wof:geomhash":"2af482714f6632aaa6c18d05a69359c2",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -124,20 +126,21 @@
         }
     ],
     "wof:id":1125820659,
-    "wof:lastmodified":1562923383,
+    "wof:lastmodified":1573625097,
     "wof:name":"Hayes",
     "wof:parent_id":404549007,
     "wof:placetype":"locality",
+    "wof:population":110,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    146.9901175,
-    -42.7551355,
-    146.9901175,
-    -42.7551355
+    146.990117,
+    -42.755136,
+    146.990117,
+    -42.755136
 ],
-  "geometry": {"coordinates":[146.9901175,-42.7551355],"type":"Point"}
+  "geometry": {"coordinates":[146.990117,-42.755136],"type":"Point"}
 }

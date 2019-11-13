@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"144.0,-37.56667,144.0,-37.56667",
     "geom:latitude":-37.56667,
     "geom:longitude":144.0,
@@ -19,7 +19,7 @@
     "gn:feature_code":"PPL",
     "gn:geonameid":2173258,
     "gn:latitude":-37.56667,
-    "gn:longitude":144.0,
+    "gn:longitude":144,
     "gn:modification_date":"2012-01-18",
     "gn:name":"Bungaree",
     "gn:population":0,
@@ -47,6 +47,7 @@
         "Bungaree"
     ],
     "src:geom":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681497,
         102191583,
@@ -57,6 +58,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC20402",
         "gn:id":2173258,
         "wk:page":"Bungaree%2C_Victoria"
     },
@@ -74,10 +76,11 @@
         }
     ],
     "wof:id":1242967695,
-    "wof:lastmodified":1562924257,
+    "wof:lastmodified":1573622959,
     "wof:name":"Bungaree",
     "wof:parent_id":404537965,
     "wof:placetype":"locality",
+    "wof:population":269,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

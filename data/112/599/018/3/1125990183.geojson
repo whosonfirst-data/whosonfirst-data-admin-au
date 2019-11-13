@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"152.852525,-27.398755,152.852525,-27.398755",
     "geom:latitude":-27.398755,
     "geom:longitude":152.852525,
@@ -38,6 +38,7 @@
     "qs_pg:woe_id":22721520,
     "src:geom":"qs_pg",
     "src:lbl:centroid":"qs_pg",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Queensland",
@@ -45,14 +46,15 @@
     "wof:belongsto":[
         85681463,
         102191583,
-        85632793,
-        404544005,
         1376953397,
+        404544005,
+        85632793,
         136253039,
         102049131
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC33103",
         "gp:id":22721520,
         "qs_pg:id":73854,
         "wd:id":"Q16978067"
@@ -73,10 +75,11 @@
         }
     ],
     "wof:id":1125990183,
-    "wof:lastmodified":1550726551,
+    "wof:lastmodified":1573624182,
     "wof:name":"Wights Mountain",
     "wof:parent_id":404544005,
     "wof:placetype":"locality",
+    "wof:population":793,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

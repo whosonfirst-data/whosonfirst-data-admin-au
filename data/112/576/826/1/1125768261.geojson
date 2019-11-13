@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"147.16667,-42.73333,147.16667,-42.73333",
     "geom:latitude":-42.73333,
     "geom:longitude":147.16667,
@@ -236,7 +236,7 @@
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
     "src:lbl:centroid":"qs_pg",
-    "src:population":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681583,
         102191583,
@@ -248,6 +248,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC60167",
         "gn:id":2168385,
         "qs_pg:id":572993
     },
@@ -267,11 +268,11 @@
         }
     ],
     "wof:id":1125768261,
-    "wof:lastmodified":1564103224,
+    "wof:lastmodified":1573625066,
     "wof:name":"Dromedary",
     "wof:parent_id":404548877,
     "wof:placetype":"locality",
-    "wof:population":457,
+    "wof:population":732,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],

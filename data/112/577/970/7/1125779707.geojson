@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"138.75,-33.56667,138.75,-33.56667",
     "geom:latitude":-33.56667,
     "geom:longitude":138.75,
@@ -47,7 +47,7 @@
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
     "src:lbl:centroid":"qs_pg",
-    "src:population":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681519,
         102191583,
@@ -58,6 +58,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC40135",
         "gn:id":2076168,
         "qs_pg:id":90752,
         "wd:id":"Q4942766"
@@ -77,11 +78,11 @@
         }
     ],
     "wof:id":1125779707,
-    "wof:lastmodified":1562923760,
+    "wof:lastmodified":1573624251,
     "wof:name":"Booborowie",
     "wof:parent_id":404544985,
     "wof:placetype":"locality",
-    "wof:population":268,
+    "wof:population":218,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],

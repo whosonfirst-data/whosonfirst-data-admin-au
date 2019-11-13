@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"146.8,-34.75,146.8,-34.75",
     "geom:latitude":-34.75,
     "geom:longitude":146.8,
@@ -50,7 +50,7 @@
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
     "src:lbl:centroid":"qs_pg",
-    "src:population":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681545,
         102191583,
@@ -61,6 +61,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC11784",
         "gn:id":2164408,
         "qs_pg:id":572943,
         "wd:id":"Q5610206"
@@ -80,11 +81,11 @@
         }
     ],
     "wof:id":1125837775,
-    "wof:lastmodified":1562923854,
+    "wof:lastmodified":1573622184,
     "wof:name":"Grong Grong",
     "wof:parent_id":404223753,
     "wof:placetype":"locality",
-    "wof:population":536,
+    "wof:population":250,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],

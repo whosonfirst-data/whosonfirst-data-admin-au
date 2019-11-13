@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"146.15,-38.01667,146.15,-38.01667",
     "geom:latitude":-38.01667,
     "geom:longitude":146.15,
@@ -36,6 +36,7 @@
         "Hill End"
     ],
     "src:geom":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681497,
         102191583,
@@ -46,6 +47,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC21180",
         "gn:id":2163427
     },
     "wof:country":"AU",
@@ -62,10 +64,11 @@
         }
     ],
     "wof:id":1259804985,
-    "wof:lastmodified":1562924657,
+    "wof:lastmodified":1573623148,
     "wof:name":"Hill End",
     "wof:parent_id":404538897,
     "wof:placetype":"locality",
+    "wof:population":166,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

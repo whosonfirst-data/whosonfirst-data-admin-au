@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"152.15824,-24.73826,152.15824,-24.73826",
     "geom:latitude":-24.73826,
     "geom:longitude":152.15824,
@@ -78,6 +78,7 @@
         "Avondale"
     ],
     "src:geom":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681463,
         102191583,
@@ -88,10 +89,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC30109",
         "gn:id":2177441
     },
     "wof:country":"AU",
-    "wof:geomhash":"3481286801d1b81f00c3046e1082d722",
+    "wof:geomhash":"c8d621be12fb8e0570c4d7b299f7578a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -104,20 +106,21 @@
         }
     ],
     "wof:id":1343964211,
-    "wof:lastmodified":1562894554,
+    "wof:lastmodified":1573623584,
     "wof:name":"Avondale",
     "wof:parent_id":404541097,
     "wof:placetype":"locality",
+    "wof:population":643,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    152.15823999999995,
+    152.15824,
     -24.73826,
-    152.15823999999995,
+    152.15824,
     -24.73826
 ],
-  "geometry": {"coordinates":[152.15823999999995,-24.73826],"type":"Point"}
+  "geometry": {"coordinates":[152.15824000000001,-24.73826],"type":"Point"}
 }

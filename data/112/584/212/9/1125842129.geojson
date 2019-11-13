@@ -5,8 +5,8 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"153.2759855,-28.3137205,153.2759855,-28.3137205",
+    "geom:area_square_m":0,
+    "geom:bbox":"153.275985,-28.31372,153.275985,-28.31372",
     "geom:latitude":-28.31372,
     "geom:longitude":153.275985,
     "gn:gn_country":null,
@@ -38,6 +38,7 @@
     "qs_pg:woe_id":28584523,
     "src:geom":"qs_pg",
     "src:lbl:centroid":"qs_pg",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"New South Wales",
@@ -52,13 +53,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC10904",
         "gp:id":28584523,
         "qs_pg:id":773923,
         "wd:id":"Q5099066"
     },
     "wof:country":"AU",
     "wof:created":1497292978,
-    "wof:geomhash":"01c81ab38b8273528e76cddad366b8ed",
+    "wof:geomhash":"1cc2bf61e96742d67040adfbd3acfc92",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -71,20 +73,21 @@
         }
     ],
     "wof:id":1125842129,
-    "wof:lastmodified":1513890394,
+    "wof:lastmodified":1573621973,
     "wof:name":"Chillingham",
     "wof:parent_id":404222597,
     "wof:placetype":"locality",
+    "wof:population":232,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    153.2759855,
-    -28.3137205,
-    153.2759855,
-    -28.3137205
+    153.275985,
+    -28.31372,
+    153.275985,
+    -28.31372
 ],
-  "geometry": {"coordinates":[153.27598549999999,-28.3137205],"type":"Point"}
+  "geometry": {"coordinates":[153.27598499999999,-28.31372],"type":"Point"}
 }

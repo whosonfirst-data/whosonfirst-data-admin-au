@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"148.16667,-34.95,148.16667,-34.95",
     "geom:latitude":-34.95,
     "geom:longitude":148.16667,
@@ -50,7 +50,7 @@
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
     "src:lbl:centroid":"qs_pg",
-    "src:population":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681545,
         102191583,
@@ -61,6 +61,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC11022",
         "gn:id":2170648,
         "qs_pg:id":573035,
         "wd:id":"Q4470034"
@@ -80,11 +81,11 @@
         }
     ],
     "wof:id":1125768327,
-    "wof:lastmodified":1562923462,
+    "wof:lastmodified":1573622003,
     "wof:name":"Coolac",
     "wof:parent_id":404222759,
     "wof:placetype":"locality",
-    "wof:population":387,
+    "wof:population":216,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],

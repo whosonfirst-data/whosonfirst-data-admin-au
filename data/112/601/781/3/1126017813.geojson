@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"152.43333,-32.06667,152.43333,-32.06667",
     "geom:latitude":-32.06667,
     "geom:longitude":152.43333,
@@ -38,6 +38,7 @@
     "qs_pg:woe_id":1098177,
     "src:geom":"qs_pg",
     "src:lbl:centroid":"qs_pg",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"New South Wales",
@@ -52,6 +53,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC13251",
         "gn:id":2152644,
         "gp:id":1098177,
         "qs_pg:id":307984
@@ -71,10 +73,11 @@
         }
     ],
     "wof:id":1126017813,
-    "wof:lastmodified":1509407040,
+    "wof:lastmodified":1573622552,
     "wof:name":"Possum Brush",
     "wof:parent_id":404225191,
     "wof:placetype":"locality",
+    "wof:population":148,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"116.45,-31.1,116.45,-31.1",
     "geom:latitude":-31.1,
     "geom:longitude":116.45,
@@ -53,7 +53,7 @@
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
     "src:lbl:centroid":"qs_pg",
-    "src:population":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681439,
         102191583,
@@ -64,6 +64,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC50233",
         "gn:id":2075152,
         "qs_pg:id":90751,
         "wd:id":"Q3650771"
@@ -83,11 +84,11 @@
         }
     ],
     "wof:id":1125779695,
-    "wof:lastmodified":1562923785,
+    "wof:lastmodified":1573624685,
     "wof:name":"Calingiri",
     "wof:parent_id":404546959,
     "wof:placetype":"locality",
-    "wof:population":111,
+    "wof:population":207,
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],

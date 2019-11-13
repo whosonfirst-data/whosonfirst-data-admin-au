@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"152.54218,-25.19886,152.54218,-25.19886",
     "geom:latitude":-25.19886,
     "geom:longitude":152.54218,
@@ -98,6 +98,7 @@
         "\u5df4\u514b\u65af\u9813"
     ],
     "src:geom":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681463,
         102191583,
@@ -108,6 +109,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC30466",
         "gn:id":2172931
     },
     "wof:country":"AU",
@@ -124,10 +126,11 @@
         }
     ],
     "wof:id":1242683765,
-    "wof:lastmodified":1562924067,
+    "wof:lastmodified":1573623658,
     "wof:name":"Buxton",
     "wof:parent_id":404541535,
     "wof:placetype":"locality",
+    "wof:population":430,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

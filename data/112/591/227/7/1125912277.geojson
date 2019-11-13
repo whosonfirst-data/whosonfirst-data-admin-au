@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"142.98333,-38.4,142.98333,-38.4",
     "geom:latitude":-38.4,
     "geom:longitude":142.98333,
@@ -40,6 +40,7 @@
     "qs_pg:woe_id":1102290,
     "src:geom":"qs_pg",
     "src:lbl:centroid":"qs_pg",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Victoria",
@@ -54,6 +55,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC21017",
         "gn:id":2165324,
         "gp:id":1102290,
         "qs_pg:id":1034120
@@ -73,10 +75,11 @@
         }
     ],
     "wof:id":1125912277,
-    "wof:lastmodified":1509400259,
+    "wof:lastmodified":1573623108,
     "wof:name":"Glenfyne",
     "wof:parent_id":404538691,
     "wof:placetype":"locality",
+    "wof:population":135,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

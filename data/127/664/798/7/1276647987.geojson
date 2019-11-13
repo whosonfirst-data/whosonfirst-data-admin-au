@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"147.08591,-38.16237,147.08591,-38.16237",
     "geom:latitude":-38.16237,
     "geom:longitude":147.08591,
@@ -126,6 +126,7 @@
         "\u6717\u798f\u5fb7"
     ],
     "src:geom":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681497,
         102191583,
@@ -136,6 +137,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC21526",
         "gn:id":2159684
     },
     "wof:country":"AU",
@@ -152,10 +154,11 @@
         }
     ],
     "wof:id":1276647987,
-    "wof:lastmodified":1562896617,
+    "wof:lastmodified":1573623230,
     "wof:name":"Longford",
     "wof:parent_id":404539285,
     "wof:placetype":"locality",
+    "wof:population":1497,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

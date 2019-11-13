@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"149.15,-35.51667,149.15,-35.51667",
     "geom:latitude":-35.51667,
     "geom:longitude":149.15,
@@ -53,7 +53,7 @@
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
     "src:lbl:centroid":"qs_pg",
-    "src:population":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681545,
         102191583,
@@ -64,6 +64,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC13434",
         "gn:id":2150888,
         "qs_pg:id":572846,
         "wd:id":"Q7375111"
@@ -83,11 +84,11 @@
         }
     ],
     "wof:id":1125827049,
-    "wof:lastmodified":1562923406,
+    "wof:lastmodified":1573622599,
     "wof:name":"Royalla",
     "wof:parent_id":404225953,
     "wof:placetype":"locality",
-    "wof:population":835,
+    "wof:population":984,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],

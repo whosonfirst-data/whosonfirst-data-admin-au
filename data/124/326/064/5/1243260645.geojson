@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"146.13333,-37.31667,146.13333,-37.31667",
     "geom:latitude":-37.31667,
     "geom:longitude":146.13333,
@@ -30,6 +30,7 @@
         "Jamieson"
     ],
     "src:geom":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681497,
         102191583,
@@ -40,6 +41,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC21244",
         "gn:id":2162440,
         "wk:page":"Jamieson%2C_Victoria"
     },
@@ -57,10 +59,11 @@
         }
     ],
     "wof:id":1243260645,
-    "wof:lastmodified":1562924379,
+    "wof:lastmodified":1573623163,
     "wof:name":"Jamieson",
     "wof:parent_id":404538981,
     "wof:placetype":"locality",
+    "wof:population":301,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

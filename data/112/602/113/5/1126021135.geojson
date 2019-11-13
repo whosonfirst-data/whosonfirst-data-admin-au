@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"150.80574,-33.881826,150.80574,-33.881826",
     "geom:latitude":-33.881826,
     "geom:longitude":150.80574,
@@ -77,6 +77,7 @@
     "qs_pg:woe_id":22721288,
     "src:geom":"qs_pg",
     "src:lbl:centroid":"qs_pg",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"New South Wales",
@@ -92,6 +93,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC12094",
         "gp:id":22721288,
         "qs_pg:id":945964,
         "wd:id":"Q3194997"
@@ -112,10 +114,11 @@
         }
     ],
     "wof:id":1126021135,
-    "wof:lastmodified":1562922190,
+    "wof:lastmodified":1573622263,
     "wof:name":"Kemps Creek",
     "wof:parent_id":404224181,
     "wof:placetype":"locality",
+    "wof:population":2268,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

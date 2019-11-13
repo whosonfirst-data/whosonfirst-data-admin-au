@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"150.73333,-27.31667,150.73333,-27.31667",
     "geom:latitude":-27.31667,
     "geom:longitude":150.73333,
@@ -41,7 +41,7 @@
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
     "src:lbl:centroid":"qs_pg",
-    "src:population":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681463,
         102191583,
@@ -52,6 +52,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC33061",
         "gn:id":2144117,
         "qs_pg:id":90989,
         "wd:id":"Q21898817"
@@ -71,11 +72,11 @@
         }
     ],
     "wof:id":1126036619,
-    "wof:lastmodified":1562922305,
+    "wof:lastmodified":1573624174,
     "wof:name":"Weranga",
     "wof:parent_id":404544621,
     "wof:placetype":"locality",
-    "wof:population":234,
+    "wof:population":215,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],

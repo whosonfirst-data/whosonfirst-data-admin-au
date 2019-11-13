@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"151.21667,-23.95,151.21667,-23.95",
     "geom:latitude":-23.95,
     "geom:longitude":151.21667,
@@ -36,6 +36,7 @@
     "qs_pg:woe_id":1094835,
     "src:geom":"qs_pg",
     "src:lbl:centroid":"qs_pg",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Queensland",
@@ -50,6 +51,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC30462",
         "gn:id":2172999,
         "gp:id":1094835,
         "qs_pg:id":193005
@@ -69,10 +71,11 @@
         }
     ],
     "wof:id":1125783731,
-    "wof:lastmodified":1509391787,
+    "wof:lastmodified":1573623657,
     "wof:name":"Burua",
     "wof:parent_id":404541529,
     "wof:placetype":"locality",
+    "wof:population":774,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"153.501319,-28.595826,153.501319,-28.595826",
     "geom:latitude":-28.595826,
     "geom:longitude":153.501319,
@@ -35,6 +35,7 @@
     "qs_pg:woe_id":28586509,
     "src:geom":"qs_pg",
     "src:lbl:centroid":"qs_pg",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"New South Wales",
@@ -49,6 +50,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC12877",
         "gp:id":28586509,
         "qs_pg:id":972489
     },
@@ -67,10 +69,11 @@
         }
     ],
     "wof:id":1126042457,
-    "wof:lastmodified":1509408630,
+    "wof:lastmodified":1573622460,
     "wof:name":"Myocum",
     "wof:parent_id":404225179,
     "wof:placetype":"locality",
+    "wof:population":985,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

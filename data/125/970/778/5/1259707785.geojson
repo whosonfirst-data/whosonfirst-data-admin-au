@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"152.54384,-25.89079,152.54384,-25.89079",
     "geom:latitude":-25.89079,
     "geom:longitude":152.54384,
@@ -81,6 +81,7 @@
         "\u041f\u0430\u0442\u0435\u0440\u0441\u043e\u043d"
     ],
     "src:geom":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681463,
         102191583,
@@ -91,6 +92,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC32302",
         "gn:id":2153702
     },
     "wof:country":"AU",
@@ -107,10 +109,11 @@
         }
     ],
     "wof:id":1259707785,
-    "wof:lastmodified":1562924500,
+    "wof:lastmodified":1573624016,
     "wof:name":"Paterson",
     "wof:parent_id":404543699,
     "wof:placetype":"locality",
+    "wof:population":148,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

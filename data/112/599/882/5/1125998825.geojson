@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"138.629074,-33.883073,138.629074,-33.883073",
     "geom:latitude":-33.883073,
     "geom:longitude":138.629074,
@@ -47,6 +47,7 @@
     "qs_pg:woe_id":1105535,
     "src:geom":"qs_pg",
     "src:lbl:centroid":"qs_pg",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"South Australia",
@@ -61,6 +62,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC41321",
         "gp:id":1105535,
         "qs_pg:id":37391,
         "wd:id":"Q2899083"
@@ -80,10 +82,11 @@
         }
     ],
     "wof:id":1125998825,
-    "wof:lastmodified":1562922858,
+    "wof:lastmodified":1573624546,
     "wof:name":"Sevenhill",
     "wof:parent_id":404546299,
     "wof:placetype":"locality",
+    "wof:population":120,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"142.25445,-38.35357,142.25445,-38.35357",
     "geom:latitude":-38.35357,
     "geom:longitude":142.25445,
@@ -32,6 +32,7 @@
         "Rosebrook"
     ],
     "src:geom":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681497,
         102191583,
@@ -42,6 +43,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC22185",
         "gn:id":2151122
     },
     "wof:country":"AU",
@@ -58,10 +60,11 @@
         }
     ],
     "wof:id":1193158453,
-    "wof:lastmodified":1537585012,
+    "wof:lastmodified":1573623388,
     "wof:name":"Rosebrook",
     "wof:parent_id":404540083,
     "wof:placetype":"locality",
+    "wof:population":132,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

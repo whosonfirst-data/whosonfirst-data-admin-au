@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"151.75956,-32.50933,151.75956,-32.50933",
     "geom:latitude":-32.50933,
     "geom:longitude":151.75956,
@@ -81,6 +81,7 @@
         "Brookfield"
     ],
     "src:geom":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681545,
         102191583,
@@ -91,10 +92,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC10596",
         "gn:id":2173886
     },
     "wof:country":"AU",
-    "wof:geomhash":"b2f253152549a337677b5991942de9ce",
+    "wof:geomhash":"75d64159cc43710f4e1c119233fd84ac",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -107,20 +109,21 @@
         }
     ],
     "wof:id":1193019053,
-    "wof:lastmodified":1562897150,
+    "wof:lastmodified":1573621898,
     "wof:name":"Brookfield",
     "wof:parent_id":404222217,
     "wof:placetype":"locality",
+    "wof:population":205,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    151.75956000000005,
+    151.75956,
     -32.50933,
-    151.75956000000005,
+    151.75956,
     -32.50933
 ],
-  "geometry": {"coordinates":[151.75956000000005,-32.50933],"type":"Point"}
+  "geometry": {"coordinates":[151.75955999999999,-32.50933],"type":"Point"}
 }

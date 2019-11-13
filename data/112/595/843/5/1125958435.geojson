@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"139.55,-32.58333,139.55,-32.58333",
     "geom:latitude":-32.58333,
     "geom:longitude":139.55,
@@ -44,7 +44,7 @@
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
     "src:lbl:centroid":"qs_pg",
-    "src:population":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681519,
         102191583,
@@ -54,6 +54,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC41679",
         "gn:id":2057192,
         "qs_pg:id":1113496,
         "wd:id":"Q21881444"
@@ -72,11 +73,11 @@
         }
     ],
     "wof:id":1125958435,
-    "wof:lastmodified":1562922000,
+    "wof:lastmodified":1573624628,
     "wof:name":"Yunta",
     "wof:parent_id":404546687,
     "wof:placetype":"locality",
-    "wof:population":102,
+    "wof:population":85,
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],

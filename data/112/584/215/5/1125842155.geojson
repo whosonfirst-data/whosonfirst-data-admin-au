@@ -5,8 +5,8 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"118.7563165,-32.0682665,118.7563165,-32.0682665",
+    "geom:area_square_m":0,
+    "geom:bbox":"118.756316,-32.068267,118.756316,-32.068267",
     "geom:latitude":-32.068267,
     "geom:longitude":118.756316,
     "gn:gn_country":null,
@@ -53,6 +53,7 @@
     "qs_pg:woe_id":28586420,
     "src:geom":"qs_pg",
     "src:lbl:centroid":"qs_pg",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Western Australia",
@@ -67,12 +68,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC51027",
         "gp:id":28586420,
         "qs_pg:id":773925
     },
     "wof:country":"AU",
     "wof:created":1497292979,
-    "wof:geomhash":"fd7c4d486a8b1bd5e892bb0c501f0398",
+    "wof:geomhash":"4b931f90583906996d07e242493ee163",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -85,20 +87,21 @@
         }
     ],
     "wof:id":1125842155,
-    "wof:lastmodified":1562923713,
+    "wof:lastmodified":1573624870,
     "wof:name":"Mount Walker",
     "wof:parent_id":404547895,
     "wof:placetype":"locality",
+    "wof:population":55,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    118.7563165,
-    -32.0682665,
-    118.7563165,
-    -32.0682665
+    118.756316,
+    -32.068267,
+    118.756316,
+    -32.068267
 ],
-  "geometry": {"coordinates":[118.7563165,-32.0682665],"type":"Point"}
+  "geometry": {"coordinates":[118.756316,-32.068267],"type":"Point"}
 }

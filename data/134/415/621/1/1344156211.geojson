@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"134.68333,-33.23333,134.68333,-33.23333",
     "geom:latitude":-33.23333,
     "geom:longitude":134.68333,
@@ -39,7 +39,7 @@
         "Venus Bay"
     ],
     "src:geom":"geonames",
-    "src:population":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681519,
         102191583,
@@ -50,6 +50,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC41486",
         "gn:id":2059492,
         "wk:page":"Venus_Bay%2C_South_Australia"
     },
@@ -67,11 +68,11 @@
         }
     ],
     "wof:id":1344156211,
-    "wof:lastmodified":1562894628,
+    "wof:lastmodified":1573624586,
     "wof:name":"Venus Bay",
     "wof:parent_id":404546479,
     "wof:placetype":"locality",
-    "wof:population":137,
+    "wof:population":54,
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],

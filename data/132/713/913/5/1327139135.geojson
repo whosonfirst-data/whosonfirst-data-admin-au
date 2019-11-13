@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"138.86667,-33.98333,138.86667,-33.98333",
     "geom:latitude":-33.98333,
     "geom:longitude":138.86667,
@@ -174,6 +174,7 @@
         "\u6ed1\u94c1\u5362"
     ],
     "src:geom":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681519,
         102191583,
@@ -184,6 +185,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC41532",
         "gn:id":2058901
     },
     "wof:country":"AU",
@@ -200,10 +202,11 @@
         }
     ],
     "wof:id":1327139135,
-    "wof:lastmodified":1562893389,
+    "wof:lastmodified":1573624596,
     "wof:name":"Waterloo",
     "wof:parent_id":404546533,
     "wof:placetype":"locality",
+    "wof:population":82,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

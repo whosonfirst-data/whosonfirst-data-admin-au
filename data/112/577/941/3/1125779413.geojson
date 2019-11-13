@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"137.181044,-35.982659,137.181044,-35.982659",
     "geom:latitude":-35.982659,
     "geom:longitude":137.181044,
@@ -38,6 +38,7 @@
     "qs_pg:woe_id":28645429,
     "src:geom":"qs_pg",
     "src:lbl:centroid":"qs_pg",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"South Australia",
@@ -52,6 +53,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC41493",
         "gp:id":28645429,
         "qs_pg:id":4342,
         "wd:id":"Q26860044"
@@ -71,10 +73,11 @@
         }
     ],
     "wof:id":1125779413,
-    "wof:lastmodified":1513898663,
+    "wof:lastmodified":1573624587,
     "wof:name":"Vivonne Bay",
     "wof:parent_id":404546491,
     "wof:placetype":"locality",
+    "wof:population":76,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

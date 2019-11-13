@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"115.713157,-31.619035,115.713157,-31.619035",
     "geom:latitude":-31.619035,
     "geom:longitude":115.713157,
@@ -50,6 +50,7 @@
     "qs_pg:woe_id":7226087,
     "src:geom":"qs_pg",
     "src:lbl:centroid":"qs_pg",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Western Australia",
@@ -64,6 +65,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC50011",
         "gp:id":7226087,
         "qs_pg:id":215780,
         "wd:id":"Q4727703"
@@ -83,10 +85,11 @@
         }
     ],
     "wof:id":1125921499,
-    "wof:lastmodified":1562921975,
+    "wof:lastmodified":1573624631,
     "wof:name":"Alkimos",
     "wof:parent_id":404546981,
     "wof:placetype":"locality",
+    "wof:population":6269,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

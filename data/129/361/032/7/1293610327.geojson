@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"142.04975,-38.12527,142.04975,-38.12527",
     "geom:latitude":-38.12527,
     "geom:longitude":142.04975,
@@ -48,6 +48,7 @@
         "Broadwater"
     ],
     "src:geom":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681497,
         102191583,
@@ -58,6 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC20345",
         "gn:id":2173950
     },
     "wof:country":"AU",
@@ -74,10 +76,11 @@
         }
     ],
     "wof:id":1293610327,
-    "wof:lastmodified":1562896003,
+    "wof:lastmodified":1573622945,
     "wof:name":"Broadwater",
     "wof:parent_id":404537907,
     "wof:placetype":"locality",
+    "wof:population":92,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

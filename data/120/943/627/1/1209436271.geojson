@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"143.35,-37.35,143.35,-37.35",
     "geom:latitude":-37.35,
     "geom:longitude":143.35,
@@ -51,6 +51,7 @@
         "Raglan"
     ],
     "src:geom":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681497,
         102191583,
@@ -61,6 +62,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC22124",
         "gn:id":2152190
     },
     "wof:country":"AU",
@@ -77,10 +79,11 @@
         }
     ],
     "wof:id":1209436271,
-    "wof:lastmodified":1562897072,
+    "wof:lastmodified":1573623373,
     "wof:name":"Raglan",
     "wof:parent_id":404539999,
     "wof:placetype":"locality",
+    "wof:population":231,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

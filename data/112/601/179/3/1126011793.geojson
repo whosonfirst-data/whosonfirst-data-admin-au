@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"150.91667,-32.5,150.91667,-32.5",
     "geom:latitude":-32.5,
     "geom:longitude":150.91667,
@@ -47,7 +47,7 @@
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
     "src:lbl:centroid":"qs_pg",
-    "src:population":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681545,
         102191583,
@@ -58,6 +58,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC12021",
         "gn:id":2162332,
         "qs_pg:id":572928,
         "wd:id":"Q6184724"
@@ -77,11 +78,11 @@
         }
     ],
     "wof:id":1126011793,
-    "wof:lastmodified":1562923237,
+    "wof:lastmodified":1573622244,
     "wof:name":"Jerrys Plains",
     "wof:parent_id":404224075,
     "wof:placetype":"locality",
-    "wof:population":560,
+    "wof:population":385,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],

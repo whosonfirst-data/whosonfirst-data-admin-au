@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"149.165954,-34.919718,149.165954,-34.919718",
     "geom:latitude":-34.919718,
     "geom:longitude":149.165954,
@@ -47,6 +47,7 @@
     "qs_pg:woe_id":28645474,
     "src:geom":"qs_pg",
     "src:lbl:centroid":"qs_pg",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"New South Wales",
@@ -61,6 +62,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC14494",
         "gp:id":28645474,
         "qs_pg:id":985883
     },
@@ -79,10 +81,11 @@
         }
     ],
     "wof:id":1125936167,
-    "wof:lastmodified":1562921898,
+    "wof:lastmodified":1573622855,
     "wof:name":"Yass River",
     "wof:parent_id":404227295,
     "wof:placetype":"locality",
+    "wof:population":350,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

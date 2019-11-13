@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"147.21667,-41.55,147.21667,-41.55",
     "geom:latitude":-41.55,
     "geom:longitude":147.21667,
@@ -43,6 +43,7 @@
     "qs_pg:woe_id":1099419,
     "src:geom":"qs_pg",
     "src:lbl:centroid":"qs_pg",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Tasmania",
@@ -57,6 +58,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC60738",
         "gn:id":2144004,
         "gp:id":1099419,
         "qs_pg:id":389656
@@ -76,10 +78,11 @@
         }
     ],
     "wof:id":1125909365,
-    "wof:lastmodified":1509400008,
+    "wof:lastmodified":1573625237,
     "wof:name":"Western Junction",
     "wof:parent_id":404549569,
     "wof:placetype":"locality",
+    "wof:population":125,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

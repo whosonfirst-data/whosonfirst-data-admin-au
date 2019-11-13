@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"152.0,-24.98333,152.0,-24.98333",
     "geom:latitude":-24.98333,
     "geom:longitude":152.0,
@@ -18,7 +18,7 @@
     "gn:feature_code":"PPL",
     "gn:geonameid":2158335,
     "gn:latitude":-24.98333,
-    "gn:longitude":152.0,
+    "gn:longitude":152,
     "gn:modification_date":"2016-03-10",
     "gn:name":"McIlwraith",
     "gn:population":0,
@@ -27,6 +27,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "src:geom":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681463,
         102191583,
@@ -37,6 +38,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC31808",
         "gn:id":2158335,
         "wk:page":"McIlwraith%2C_Queensland"
     },
@@ -54,10 +56,11 @@
         }
     ],
     "wof:id":1242874977,
-    "wof:lastmodified":1537486427,
+    "wof:lastmodified":1573623915,
     "wof:name":"McIlwraith",
     "wof:parent_id":404543113,
     "wof:placetype":"locality",
+    "wof:population":191,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

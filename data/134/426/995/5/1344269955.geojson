@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"148.0898,-31.9116,148.0898,-31.9116",
     "geom:latitude":-31.9116,
     "geom:longitude":148.0898,
@@ -33,6 +33,7 @@
         "Gin Gin"
     ],
     "src:geom":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681545,
         102191583,
@@ -43,6 +44,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC11627",
         "gn:id":8626282
     },
     "wof:country":"AU",
@@ -59,10 +61,11 @@
         }
     ],
     "wof:id":1344269955,
-    "wof:lastmodified":1562894909,
+    "wof:lastmodified":1573622146,
     "wof:name":"Gin Gin",
     "wof:parent_id":404223553,
     "wof:placetype":"locality",
+    "wof:population":109,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

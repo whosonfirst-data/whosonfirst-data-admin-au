@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"150.73208,-22.88009,150.73208,-22.88009",
     "geom:latitude":-22.88009,
     "geom:longitude":150.73208,
@@ -27,6 +27,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "src:geom":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681463,
         102191583,
@@ -37,6 +38,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC32690",
         "gn:id":10235492
     },
     "wof:country":"AU",
@@ -53,10 +55,11 @@
         }
     ],
     "wof:id":1259383409,
-    "wof:lastmodified":1537001630,
+    "wof:lastmodified":1573624098,
     "wof:name":"Stockyard",
     "wof:parent_id":404544191,
     "wof:placetype":"locality",
+    "wof:population":16,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

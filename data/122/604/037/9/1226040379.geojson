@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"147.44558,-42.27923,147.44558,-42.27923",
     "geom:latitude":-42.27923,
     "geom:longitude":147.44558,
@@ -30,6 +30,7 @@
         "York Plains"
     ],
     "src:geom":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681583,
         102191583,
@@ -40,6 +41,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC60766",
         "gn:id":2142258
     },
     "wof:country":"AU",
@@ -56,10 +58,11 @@
         }
     ],
     "wof:id":1226040379,
-    "wof:lastmodified":1537585002,
+    "wof:lastmodified":1573625245,
     "wof:name":"York Plains",
     "wof:parent_id":404549607,
     "wof:placetype":"locality",
+    "wof:population":62,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

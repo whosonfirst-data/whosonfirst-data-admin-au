@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"138.63043,-34.26685,138.63043,-34.26685",
     "geom:latitude":-34.26685,
     "geom:longitude":138.63043,
@@ -117,6 +117,7 @@
         "Alma"
     ],
     "src:geom":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681519,
         102191583,
@@ -127,10 +128,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC40015",
         "gn:id":2077842
     },
     "wof:country":"AU",
-    "wof:geomhash":"f2f6f2c1297ea2eb3758f014b3fd08fe",
+    "wof:geomhash":"cf9dbd7d14c8405e9a220b9af31f6318",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -143,20 +145,21 @@
         }
     ],
     "wof:id":1259878741,
-    "wof:lastmodified":1562924639,
+    "wof:lastmodified":1573624222,
     "wof:name":"Alma",
     "wof:parent_id":404544885,
     "wof:placetype":"locality",
+    "wof:population":75,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    138.63043000000002,
+    138.63043,
     -34.26685,
-    138.63043000000002,
+    138.63043,
     -34.26685
 ],
-  "geometry": {"coordinates":[138.63043000000002,-34.26685],"type":"Point"}
+  "geometry": {"coordinates":[138.63042999999999,-34.26685],"type":"Point"}
 }

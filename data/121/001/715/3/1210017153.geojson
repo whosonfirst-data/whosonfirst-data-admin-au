@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"152.1,-24.86667,152.1,-24.86667",
     "geom:latitude":-24.86667,
     "geom:longitude":152.1,
@@ -30,6 +30,7 @@
         "Bucca"
     ],
     "src:geom":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681463,
         102191583,
@@ -40,10 +41,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC30405",
         "gn:id":2173686
     },
     "wof:country":"AU",
-    "wof:geomhash":"822eb0edd19b16538e23ecb1eea5d2e8",
+    "wof:geomhash":"66e197d6d4f2833dc3f0941e95d2ff5d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -56,10 +58,11 @@
         }
     ],
     "wof:id":1210017153,
-    "wof:lastmodified":1562897112,
+    "wof:lastmodified":1573623645,
     "wof:name":"Bucca",
     "wof:parent_id":404541467,
     "wof:placetype":"locality",
+    "wof:population":1027,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -67,9 +70,9 @@
 },
   "bbox": [
     152.1,
-    -24.86667000000001,
+    -24.86667,
     152.1,
-    -24.86667000000001
+    -24.86667
 ],
-  "geometry": {"coordinates":[152.09999999999999,-24.86667000000001],"type":"Point"}
+  "geometry": {"coordinates":[152.09999999999999,-24.86667],"type":"Point"}
 }

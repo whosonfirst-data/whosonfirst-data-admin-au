@@ -5,8 +5,8 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"138.651496,-33.9609805,138.651496,-33.9609805",
+    "geom:area_square_m":0,
+    "geom:bbox":"138.651496,-33.96098,138.651496,-33.96098",
     "geom:latitude":-33.96098,
     "geom:longitude":138.651496,
     "gn:gn_country":null,
@@ -44,6 +44,7 @@
     "qs_pg:woe_id":1106505,
     "src:geom":"qs_pg",
     "src:lbl:centroid":"qs_pg",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"South Australia",
@@ -58,13 +59,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC41534",
         "gp:id":1106505,
         "qs_pg:id":273259,
         "wd:id":"Q7974524"
     },
     "wof:country":"AU",
     "wof:created":1497291678,
-    "wof:geomhash":"b60866281ab38323ea6c346ee6c26278",
+    "wof:geomhash":"46ab4330d0d646135608ab66e641c800",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -77,10 +79,11 @@
         }
     ],
     "wof:id":1125811615,
-    "wof:lastmodified":1561828258,
+    "wof:lastmodified":1573624597,
     "wof:name":"Watervale",
     "wof:parent_id":404546539,
     "wof:placetype":"locality",
+    "wof:population":326,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -88,9 +91,9 @@
 },
   "bbox": [
     138.651496,
-    -33.9609805,
+    -33.96098,
     138.651496,
-    -33.9609805
+    -33.96098
 ],
-  "geometry": {"coordinates":[138.65149600000001,-33.9609805],"type":"Point"}
+  "geometry": {"coordinates":[138.65149600000001,-33.96098],"type":"Point"}
 }

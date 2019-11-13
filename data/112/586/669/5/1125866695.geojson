@@ -5,8 +5,8 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"145.506877,-16.5718295,145.506877,-16.5718295",
+    "geom:area_square_m":0,
+    "geom:bbox":"145.506877,-16.571829,145.506877,-16.571829",
     "geom:latitude":-16.571829,
     "geom:longitude":145.506877,
     "gn:gn_country":null,
@@ -41,6 +41,7 @@
     "qs_pg:woe_id":1104252,
     "src:geom":"qs_pg",
     "src:lbl:centroid":"qs_pg",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Queensland",
@@ -55,12 +56,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC32063",
         "gp:id":1104252,
         "qs_pg:id":1110526
     },
     "wof:country":"AU",
     "wof:created":1497294078,
-    "wof:geomhash":"fdc674c19888ff358173e987a3dd3697",
+    "wof:geomhash":"ead2be7324c4b9c77022bad5238ea9a5",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -73,10 +75,11 @@
         }
     ],
     "wof:id":1125866695,
-    "wof:lastmodified":1562922412,
+    "wof:lastmodified":1573623966,
     "wof:name":"Mowbray",
     "wof:parent_id":404543417,
     "wof:placetype":"locality",
+    "wof:population":321,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -84,9 +87,9 @@
 },
   "bbox": [
     145.506877,
-    -16.5718295,
+    -16.571829,
     145.506877,
-    -16.5718295
+    -16.571829
 ],
-  "geometry": {"coordinates":[145.506877,-16.5718295],"type":"Point"}
+  "geometry": {"coordinates":[145.506877,-16.571829],"type":"Point"}
 }

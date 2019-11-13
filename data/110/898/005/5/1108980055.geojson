@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"148.26136,-41.41595,148.26136,-41.41595",
     "geom:latitude":-41.41595,
     "geom:longitude":148.26136,
@@ -103,6 +103,7 @@
     "qs_pg:woe_id":28584010,
     "src:geom":"qs_pg",
     "src:lbl:centroid":"qs_pg",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Tasmania",
@@ -117,6 +118,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC60035",
         "gn:id":8349285,
         "qs_pg:id":1103896,
         "woe:id":28584010
@@ -136,10 +138,11 @@
         }
     ],
     "wof:id":1108980055,
-    "wof:lastmodified":1562897391,
+    "wof:lastmodified":1573625032,
     "wof:name":"Beaumaris",
     "wof:parent_id":404548709,
     "wof:placetype":"locality",
+    "wof:population":289,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

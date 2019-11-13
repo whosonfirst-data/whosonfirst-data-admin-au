@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"149.03333,-30.76667,149.03333,-30.76667",
     "geom:latitude":-30.76667,
     "geom:longitude":149.03333,
@@ -50,7 +50,7 @@
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
     "src:lbl:centroid":"qs_pg",
-    "src:population":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681545,
         102191583,
@@ -61,6 +61,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC12097",
         "gn:id":2161651,
         "qs_pg:id":572929,
         "wd:id":"Q6389112"
@@ -80,11 +81,11 @@
         }
     ],
     "wof:id":1126011803,
-    "wof:lastmodified":1562923209,
+    "wof:lastmodified":1573622264,
     "wof:name":"Kenebri",
     "wof:parent_id":404224187,
     "wof:placetype":"locality",
-    "wof:population":140,
+    "wof:population":42,
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],

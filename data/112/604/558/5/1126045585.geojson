@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"148.83333,-20.96667,148.83333,-20.96667",
     "geom:latitude":-20.96667,
     "geom:longitude":148.83333,
@@ -46,6 +46,7 @@
     "qs_pg:woe_id":1104213,
     "src:geom":"qs_pg",
     "src:lbl:centroid":"qs_pg",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Queensland",
@@ -60,6 +61,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC32028",
         "gn:id":2156548,
         "gp:id":1104213,
         "qs_pg:id":264588
@@ -79,10 +81,11 @@
         }
     ],
     "wof:id":1126045585,
-    "wof:lastmodified":1562922216,
+    "wof:lastmodified":1573623960,
     "wof:name":"Mount Ossa",
     "wof:parent_id":404543377,
     "wof:placetype":"locality",
+    "wof:population":224,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

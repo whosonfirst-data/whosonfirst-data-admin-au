@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"151.203649,-33.639918,151.203649,-33.639918",
     "geom:latitude":-33.639918,
     "geom:longitude":151.203649,
@@ -35,6 +35,7 @@
     "qs_pg:woe_id":28585730,
     "src:geom":"qs_pg",
     "src:lbl:centroid":"qs_pg",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"New South Wales",
@@ -42,14 +43,15 @@
     "wof:belongsto":[
         85681545,
         102191583,
-        85632793,
-        404224325,
         1376953385,
+        404224325,
+        85632793,
         136253039,
         102049493
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC12205",
         "gp:id":28585730,
         "qs_pg:id":1285713
     },
@@ -69,10 +71,11 @@
         }
     ],
     "wof:id":1125945537,
-    "wof:lastmodified":1550726144,
+    "wof:lastmodified":1573622288,
     "wof:name":"Ku-Ring-Gai Chase",
     "wof:parent_id":404224325,
     "wof:placetype":"locality",
+    "wof:population":7,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

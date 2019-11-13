@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"146.11391,-38.29934,146.11391,-38.29934",
     "geom:latitude":-38.29934,
     "geom:longitude":146.11391,
@@ -30,6 +30,7 @@
         "Childers"
     ],
     "src:geom":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681497,
         102191583,
@@ -40,6 +41,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC20546",
         "gn:id":2171625
     },
     "wof:country":"AU",
@@ -56,10 +58,11 @@
         }
     ],
     "wof:id":1309900309,
-    "wof:lastmodified":1537585036,
+    "wof:lastmodified":1573622995,
     "wof:name":"Childers",
     "wof:parent_id":404538133,
     "wof:placetype":"locality",
+    "wof:population":106,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

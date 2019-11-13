@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"151.65821,-30.31074,151.65821,-30.31074",
     "geom:latitude":-30.31074,
     "geom:longitude":151.65821,
@@ -69,6 +69,7 @@
         "\u9ed1\u5c71"
     ],
     "src:geom":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681545,
         102191583,
@@ -79,10 +80,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC10387",
         "gn:id":2175494
     },
     "wof:country":"AU",
-    "wof:geomhash":"7c6a18093abd6d4d71da0ae90ea0959e",
+    "wof:geomhash":"5bfed0f7c3d968029e2877ec0ac7415d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -95,10 +97,11 @@
         }
     ],
     "wof:id":1293886613,
-    "wof:lastmodified":1562896268,
+    "wof:lastmodified":1573621845,
     "wof:name":"Black Mountain",
     "wof:parent_id":404221947,
     "wof:placetype":"locality",
+    "wof:population":310,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -106,9 +109,9 @@
 },
   "bbox": [
     151.65821,
-    -30.31074000000001,
+    -30.31074,
     151.65821,
-    -30.31074000000001
+    -30.31074
 ],
-  "geometry": {"coordinates":[151.65821,-30.31074000000001],"type":"Point"}
+  "geometry": {"coordinates":[151.65821,-30.31074],"type":"Point"}
 }

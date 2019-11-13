@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"138.33081,-34.42194,138.33081,-34.42194",
     "geom:latitude":-34.42194,
     "geom:longitude":138.33081,
@@ -27,6 +27,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "src:geom":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681519,
         102191583,
@@ -37,6 +38,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC41600",
         "gn:id":2058185,
         "wk:page":"Windsor%2C_South_Australia"
     },
@@ -54,10 +56,11 @@
         }
     ],
     "wof:id":1276662121,
-    "wof:lastmodified":1537486398,
+    "wof:lastmodified":1573624612,
     "wof:name":"Windsor",
     "wof:parent_id":404546609,
     "wof:placetype":"locality",
+    "wof:population":170,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

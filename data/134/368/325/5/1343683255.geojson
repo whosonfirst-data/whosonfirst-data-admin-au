@@ -2,13 +2,14 @@
   "id": 1343683255,
   "type": "Feature",
   "properties": {
+    "au-psma:modified":"2019-08-20",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"145.70467,-36.39569,145.70467,-36.39569",
-    "geom:latitude":-36.39569,
-    "geom:longitude":145.70467,
+    "geom:area":0.001658,
+    "geom:area_square_m":16505173.800212,
+    "geom:bbox":"145.672694,-36.415601,145.733374,-36.374605",
+    "geom:latitude":-36.393997,
+    "geom:longitude":145.699799,
     "gn:admin1_code":"07",
     "gn:admin2_code":"22830.0",
     "gn:asciiname":"Dookie College",
@@ -24,9 +25,13 @@
     "gn:population":0,
     "gn:timezone":"Australia/Melbourne",
     "iso:country":"AU",
+    "lbl:latitude":-36.393997,
+    "lbl:longitude":145.699799,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "src:geom":"geonames",
+    "src:geom":"aus-psma",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681497,
         102191583,
@@ -37,10 +42,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "aus-psma":"VIC773",
+        "ausstat:2016":"SSC20772",
         "gn:id":10346598
     },
     "wof:country":"AU",
-    "wof:geomhash":"2e83bcc6bc8a299e5c70c072104fc535",
+    "wof:geomhash":"7151552932acaad860a1b9710c5a7a4a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -53,20 +60,21 @@
         }
     ],
     "wof:id":1343683255,
-    "wof:lastmodified":1536922895,
+    "wof:lastmodified":1573623049,
     "wof:name":"Dookie College",
     "wof:parent_id":404538401,
     "wof:placetype":"locality",
+    "wof:population":44,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    145.70467,
-    -36.39569,
-    145.70467,
-    -36.39569
+    145.672694,
+    -36.415601,
+    145.733374,
+    -36.374605
 ],
-  "geometry": {"coordinates":[145.70466999999999,-36.39569],"type":"Point"}
+  "geometry": {"coordinates":[[[145.69925900000001,-36.41443],[145.67283900000001,-36.410956],[145.67269400000001,-36.410958],[145.67275699999999,-36.410672],[145.676658,-36.391241],[145.676545,-36.391239],[145.67655400000001,-36.391194],[145.67722499999999,-36.387854],[145.678257,-36.38271],[145.679867,-36.37468],[145.68011200000001,-36.374622],[145.680184,-36.374605],[145.69794400000001,-36.376979],[145.69805500000001,-36.376995],[145.71564499999999,-36.379385],[145.715755,-36.3794],[145.724636,-36.380566],[145.733374,-36.381714],[145.72972100000001,-36.399759],[145.729703,-36.399848],[145.71191200000001,-36.397511],[145.71191099999999,-36.397511],[145.710049,-36.40655],[145.70818199999999,-36.415601],[145.69925900000001,-36.41443]]],"type":"Polygon"}
 }

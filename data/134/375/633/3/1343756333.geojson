@@ -2,13 +2,14 @@
   "id": 1343756333,
   "type": "Feature",
   "properties": {
+    "au-psma:modified":"2019-08-20",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"143.3676,-35.25576,143.3676,-35.25576",
-    "geom:latitude":-35.25576,
-    "geom:longitude":143.3676,
+    "geom:area":0.005794,
+    "geom:area_square_m":58507498.632788,
+    "geom:bbox":"143.30868,-35.283316,143.435976,-35.214164",
+    "geom:latitude":-35.248934,
+    "geom:longitude":143.363542,
     "gn:admin1_code":"7.0",
     "gn:admin2_code":"26610.0",
     "gn:asciiname":"Pira",
@@ -24,9 +25,13 @@
     "gn:population":0,
     "gn:timezone":"Australia/Melbourne",
     "iso:country":"AU",
+    "lbl:latitude":-35.248934,
+    "lbl:longitude":143.363542,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "src:geom":"geonames",
+    "src:geom":"aus-psma",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681497,
         102191583,
@@ -37,11 +42,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "aus-psma":"VIC2075",
+        "ausstat:2016":"SSC22067",
         "gn:id":2152943,
         "wk:page":"Pira%2C_Victoria"
     },
     "wof:country":"AU",
-    "wof:geomhash":"e4123eaf6a8dbfc1e9fdff58e3b8d8df",
+    "wof:geomhash":"f88bae8a57f28652d19c492b23f8574a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -54,20 +61,21 @@
         }
     ],
     "wof:id":1343756333,
-    "wof:lastmodified":1537486420,
+    "wof:lastmodified":1573623356,
     "wof:name":"Pira",
     "wof:parent_id":404540609,
     "wof:placetype":"locality",
+    "wof:population":10,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    143.3676,
-    -35.25575999999999,
-    143.3676,
-    -35.25575999999999
+    143.30868,
+    -35.283316,
+    143.435976,
+    -35.214164
 ],
-  "geometry": {"coordinates":[143.36760000000001,-35.25575999999999],"type":"Point"}
+  "geometry": {"coordinates":[[[143.36718999999999,-35.21418],[143.36974599999999,-35.21418],[143.389836,-35.217871],[143.38997800000001,-35.242988],[143.40355,-35.242985],[143.403583,-35.242984],[143.40358699999999,-35.243075],[143.403592,-35.257488],[143.41314399999999,-35.257486],[143.419253,-35.257484],[143.42008999999999,-35.258805],[143.42660100000001,-35.263781],[143.43597600000001,-35.272251],[143.43597600000001,-35.272252],[143.41331500000001,-35.282526],[143.41331500000001,-35.283316],[143.411225,-35.282566],[143.37771499999999,-35.282616],[143.34211500000001,-35.282659],[143.34212500000001,-35.275335],[143.34215,-35.257481],[143.30871400000001,-35.257469],[143.30872500000001,-35.242973],[143.30868000000001,-35.214164],[143.30874299999999,-35.214164],[143.36718999999999,-35.21418]]],"type":"Polygon"}
 }

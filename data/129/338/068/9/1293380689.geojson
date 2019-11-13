@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"117.23333,-33.98333,117.23333,-33.98333",
     "geom:latitude":-33.98333,
     "geom:longitude":117.23333,
@@ -27,6 +27,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "src:geom":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681439,
         102191583,
@@ -37,6 +38,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC50859",
         "gn:id":2067356
     },
     "wof:country":"AU",
@@ -53,10 +55,11 @@
         }
     ],
     "wof:id":1293380689,
-    "wof:lastmodified":1536941596,
+    "wof:lastmodified":1573624828,
     "wof:name":"Lumeah",
     "wof:parent_id":404547695,
     "wof:placetype":"locality",
+    "wof:population":79,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

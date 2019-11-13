@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"153.48333,-28.45,153.48333,-28.45",
     "geom:latitude":-28.45,
     "geom:longitude":153.48333,
@@ -40,6 +40,7 @@
     "qs_pg:woe_id":1104037,
     "src:geom":"qs_pg",
     "src:lbl:centroid":"qs_pg",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"New South Wales",
@@ -54,6 +55,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC12687",
         "gn:id":2157152,
         "gp:id":1104037,
         "qs_pg:id":40236
@@ -73,10 +75,11 @@
         }
     ],
     "wof:id":1125872727,
-    "wof:lastmodified":1509397441,
+    "wof:lastmodified":1573622413,
     "wof:name":"Mooball",
     "wof:parent_id":404224977,
     "wof:placetype":"locality",
+    "wof:population":194,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

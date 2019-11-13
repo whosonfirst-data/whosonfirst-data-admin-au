@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"115.136117,-34.372834,115.136117,-34.372834",
     "geom:latitude":-34.372834,
     "geom:longitude":115.136117,
@@ -44,6 +44,7 @@
     "qs_pg:woe_id":28585831,
     "src:geom":"qs_pg",
     "src:lbl:centroid":"qs_pg",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Western Australia",
@@ -58,6 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC50834",
         "gp:id":28585831,
         "qs_pg:id":1218
     },
@@ -76,10 +78,11 @@
         }
     ],
     "wof:id":1125913825,
-    "wof:lastmodified":1562923046,
+    "wof:lastmodified":1573624825,
     "wof:name":"Leeuwin",
     "wof:parent_id":404547665,
     "wof:placetype":"locality",
+    "wof:population":4,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

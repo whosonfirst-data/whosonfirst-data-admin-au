@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"149.91667,-33.8,149.91667,-33.8",
     "geom:latitude":-33.8,
     "geom:longitude":149.91667,
@@ -42,6 +42,7 @@
         "Edith"
     ],
     "src:geom":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681545,
         102191583,
@@ -52,10 +53,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC11382",
         "gn:id":2167758
     },
     "wof:country":"AU",
-    "wof:geomhash":"14b73fecb29670d813a489d18a6374f5",
+    "wof:geomhash":"466f218501ec6f021cc2e56508225881",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -68,20 +70,21 @@
         }
     ],
     "wof:id":1243276915,
-    "wof:lastmodified":1562924311,
+    "wof:lastmodified":1573622087,
     "wof:name":"Edith",
     "wof:parent_id":404223215,
     "wof:placetype":"locality",
+    "wof:population":94,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    149.91666999999995,
+    149.91667,
     -33.8,
-    149.91666999999995,
+    149.91667,
     -33.8
 ],
-  "geometry": {"coordinates":[149.91666999999995,-33.8],"type":"Point"}
+  "geometry": {"coordinates":[149.91667000000001,-33.8],"type":"Point"}
 }

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"144.474334,-38.035247,144.474334,-38.035247",
     "geom:latitude":-38.035247,
     "geom:longitude":144.474334,
@@ -155,6 +155,7 @@
     "qs_pg:woe_id":22721814,
     "src:geom":"qs_pg",
     "src:lbl:centroid":"qs_pg",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Victoria",
@@ -170,6 +171,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC20084",
         "gp:id":22721814,
         "qs_pg:id":1085660,
         "wd:id":"Q4827531"
@@ -190,10 +192,11 @@
         }
     ],
     "wof:id":1125818971,
-    "wof:lastmodified":1562922568,
+    "wof:lastmodified":1573622882,
     "wof:name":"Avalon",
     "wof:parent_id":404537585,
     "wof:placetype":"locality",
+    "wof:population":293,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

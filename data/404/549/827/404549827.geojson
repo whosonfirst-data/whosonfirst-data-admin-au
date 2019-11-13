@@ -2,16 +2,17 @@
   "id": 404549827,
   "type": "Feature",
   "properties": {
+    "au-psma:modified":"2019-08-20",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000418,
-    "geom:area_square_m":4750424.063539,
-    "geom:bbox":"131.901092992,-23.214475998,131.92339792,-23.190934526",
-    "geom:latitude":-23.204794,
-    "geom:longitude":131.913127,
+    "geom:area_square_m":4755198.195375,
+    "geom:bbox":"131.901093,-23.214476,131.923416,-23.190945",
+    "geom:latitude":-23.2048,
+    "geom:longitude":131.913132,
     "iso:country":"AU",
-    "lbl:latitude":-23.205149,
-    "lbl:longitude":131.913339,
+    "lbl:latitude":-23.2048,
+    "lbl:longitude":131.913132,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "name:ceb_x_preferred":[
@@ -44,7 +45,8 @@
     "qs:la_lc":"SSC70153",
     "qs:level":"localadmin",
     "qs:source":"Australian Bureau Of Statistics",
-    "src:geom":"quattroshapes",
+    "src:geom":"aus-psma",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681533,
         102191583,
@@ -53,12 +55,14 @@
         102048913
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "aus-psma":"NT221"
+    },
     "wof:coterminous":[
         101938601
     ],
     "wof:country":"AU",
-    "wof:geomhash":"4b7c12cf0d41ddf58c32cf45483bb88a",
+    "wof:geomhash":"e802171b8160bee21c45a79438764918",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":404549827,
-    "wof:lastmodified":1562919430,
+    "wof:lastmodified":1573616006,
     "wof:name":"Papunya",
     "wof:parent_id":102048913,
     "wof:placetype":"localadmin",
@@ -80,10 +84,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    131.901092992,
-    -23.214475998,
-    131.92339791999999,
-    -23.190934526
+    131.901093,
+    -23.214476,
+    131.923416,
+    -23.190945
 ],
-  "geometry": {"coordinates":[[[131.92207728,-23.190934526],[131.92339791999999,-23.2009971755],[131.92326,-23.2144550005],[131.90722950399999,-23.214448359],[131.901092992,-23.214475998],[131.90123699200001,-23.2016969935],[131.90714700800001,-23.197151007],[131.92207728,-23.190934526]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[131.922099,-23.190945],[131.923416,-23.201028],[131.92326399999999,-23.214455],[131.901093,-23.214476],[131.90123700000001,-23.201697],[131.90714700000001,-23.197151],[131.922099,-23.190945]]],"type":"Polygon"}
 }

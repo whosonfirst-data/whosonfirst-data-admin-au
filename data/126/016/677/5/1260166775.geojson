@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"117.0318,-33.351,117.0318,-33.351",
     "geom:latitude":-33.351,
     "geom:longitude":117.0318,
@@ -45,6 +45,7 @@
         "Arthur River"
     ],
     "src:geom":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681439,
         102191583,
@@ -55,6 +56,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC50030",
         "gn:id":2077529,
         "wk:page":"Arthur_River%2C_Western_Australia"
     },
@@ -72,10 +74,11 @@
         }
     ],
     "wof:id":1260166775,
-    "wof:lastmodified":1564100999,
+    "wof:lastmodified":1573624634,
     "wof:name":"Arthur River",
     "wof:parent_id":404546723,
     "wof:placetype":"locality",
+    "wof:population":112,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"147.72089,-41.78644,147.72089,-41.78644",
     "geom:latitude":-41.78644,
     "geom:longitude":147.72089,
@@ -33,6 +33,7 @@
         "Avoca"
     ],
     "src:geom":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681583,
         102191583,
@@ -43,6 +44,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC60023",
         "gn:id":9613617,
         "wk:page":"Avoca%2C_Tasmania"
     },
@@ -60,10 +62,11 @@
         }
     ],
     "wof:id":1343383427,
-    "wof:lastmodified":1562894511,
+    "wof:lastmodified":1573625029,
     "wof:name":"Avoca",
     "wof:parent_id":404548697,
     "wof:placetype":"locality",
+    "wof:population":216,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"138.23333,-33.53333,138.23333,-33.53333",
     "geom:latitude":-33.53333,
     "geom:longitude":138.23333,
@@ -56,7 +56,7 @@
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
     "src:lbl:centroid":"qs_pg",
-    "src:population":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681519,
         102191583,
@@ -67,6 +67,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC41228",
         "gn:id":2062567,
         "qs_pg:id":90709,
         "wd:id":"Q21884852"
@@ -86,11 +87,11 @@
         }
     ],
     "wof:id":1125858759,
-    "wof:lastmodified":1562923533,
+    "wof:lastmodified":1573624518,
     "wof:name":"Redhill",
     "wof:parent_id":404546189,
     "wof:placetype":"locality",
-    "wof:population":216,
+    "wof:population":148,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],

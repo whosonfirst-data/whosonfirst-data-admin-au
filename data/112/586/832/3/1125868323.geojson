@@ -6,7 +6,7 @@
     "edtf:deprecated":"2019-02-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"114.71667,-28.78333,114.71667,-28.78333",
     "geom:latitude":-28.78333,
     "geom:longitude":114.71667,
@@ -54,7 +54,7 @@
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
     "src:lbl:centroid":"qs_pg",
-    "src:population":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681439,
         102191583,
@@ -65,6 +65,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC50977",
         "gn:id":2065839,
         "qs_pg:id":138050,
         "wd:id":"Q21886605"
@@ -84,11 +85,11 @@
         }
     ],
     "wof:id":1125868323,
-    "wof:lastmodified":1561828256,
+    "wof:lastmodified":1573624860,
     "wof:name":"Moonyoonooka",
     "wof:parent_id":404547163,
     "wof:placetype":"locality",
-    "wof:population":302,
+    "wof:population":245,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"140.493501,-36.602211,140.493501,-36.602211",
     "geom:latitude":-36.602211,
     "geom:longitude":140.493501,
@@ -44,6 +44,7 @@
     "qs_pg:woe_id":1104870,
     "src:geom":"qs_pg",
     "src:lbl:centroid":"qs_pg",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"South Australia",
@@ -58,6 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC41076",
         "gp:id":1104870,
         "qs_pg:id":990561,
         "wd:id":"Q7123966"
@@ -77,10 +79,11 @@
         }
     ],
     "wof:id":1126039123,
-    "wof:lastmodified":1561828254,
+    "wof:lastmodified":1573624479,
     "wof:name":"Padthaway",
     "wof:parent_id":404546023,
     "wof:placetype":"locality",
+    "wof:population":318,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

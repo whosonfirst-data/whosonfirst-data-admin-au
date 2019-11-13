@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"153.1929,-29.4318,153.1929,-29.4318",
     "geom:latitude":-29.4318,
     "geom:longitude":153.1929,
@@ -69,6 +69,7 @@
         "Ashby"
     ],
     "src:geom":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681545,
         102191583,
@@ -79,6 +80,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC10094",
         "gn:id":2177569
     },
     "wof:country":"AU",
@@ -95,10 +97,11 @@
         }
     ],
     "wof:id":1310008991,
-    "wof:lastmodified":1562897539,
+    "wof:lastmodified":1573621774,
     "wof:name":"Ashby",
     "wof:parent_id":404221559,
     "wof:placetype":"locality",
+    "wof:population":326,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

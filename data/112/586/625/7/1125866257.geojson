@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"152.287749,-31.592573,152.287749,-31.592573",
     "geom:latitude":-31.592573,
     "geom:longitude":152.287749,
@@ -38,6 +38,7 @@
     "qs_pg:woe_id":1101872,
     "src:geom":"qs_pg",
     "src:lbl:centroid":"qs_pg",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"New South Wales",
@@ -52,6 +53,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC11388",
         "gp:id":1101872,
         "qs_pg:id":1110200,
         "wd:id":"Q28969731"
@@ -71,10 +73,11 @@
         }
     ],
     "wof:id":1125866257,
-    "wof:lastmodified":1513890489,
+    "wof:lastmodified":1573622089,
     "wof:name":"Elands",
     "wof:parent_id":404223223,
     "wof:placetype":"locality",
+    "wof:population":206,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

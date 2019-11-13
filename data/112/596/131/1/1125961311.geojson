@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"147.759246,-40.867095,147.759246,-40.867095",
     "geom:latitude":-40.867095,
     "geom:longitude":147.759246,
@@ -155,6 +155,7 @@
     "qs_pg:woe_id":28587614,
     "src:geom":"qs_pg",
     "src:lbl:centroid":"qs_pg",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Tasmania",
@@ -169,6 +170,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC60676",
         "gp:id":28587614,
         "qs_pg:id":1298067,
         "wd:id":"Q7818208"
@@ -188,10 +190,11 @@
         }
     ],
     "wof:id":1125961311,
-    "wof:lastmodified":1562922997,
+    "wof:lastmodified":1573625221,
     "wof:name":"Tomahawk",
     "wof:parent_id":404549503,
     "wof:placetype":"locality",
+    "wof:population":48,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

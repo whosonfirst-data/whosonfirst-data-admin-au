@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"151.5,-30.61667,151.5,-30.61667",
     "geom:latitude":-30.61667,
     "geom:longitude":151.5,
@@ -30,6 +30,7 @@
         "Rocky River"
     ],
     "src:geom":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681545,
         102191583,
@@ -40,11 +41,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC13390",
         "gn:id":2151260,
         "wk:page":"Rocky_River%2C_New_South_Wales"
     },
     "wof:country":"AU",
-    "wof:geomhash":"34143c9dd9d3d5b08c3828ae45174f83",
+    "wof:geomhash":"04d2c35f6168fa1292a81a82bc8dace8",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,10 +59,11 @@
         }
     ],
     "wof:id":1259591989,
-    "wof:lastmodified":1562924602,
+    "wof:lastmodified":1573622588,
     "wof:name":"Rocky River",
     "wof:parent_id":404225893,
     "wof:placetype":"locality",
+    "wof:population":270,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -68,9 +71,9 @@
 },
   "bbox": [
     151.5,
-    -30.61667000000001,
+    -30.61667,
     151.5,
-    -30.61667000000001
+    -30.61667
 ],
-  "geometry": {"coordinates":[151.5,-30.61667000000001],"type":"Point"}
+  "geometry": {"coordinates":[151.5,-30.61667],"type":"Point"}
 }

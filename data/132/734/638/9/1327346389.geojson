@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"149.55,-32.76667,149.55,-32.76667",
     "geom:latitude":-32.76667,
     "geom:longitude":149.55,
@@ -38,6 +38,7 @@
         "Windeyer"
     ],
     "src:geom":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681545,
         102191583,
@@ -48,6 +49,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC14322",
         "gn:id":2143427
     },
     "wof:country":"AU",
@@ -64,10 +66,11 @@
         }
     ],
     "wof:id":1327346389,
-    "wof:lastmodified":1562893468,
+    "wof:lastmodified":1573622814,
     "wof:name":"Windeyer",
     "wof:parent_id":404227085,
     "wof:placetype":"locality",
+    "wof:population":176,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

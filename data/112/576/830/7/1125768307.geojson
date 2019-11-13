@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"146.68333,-35.8,146.68333,-35.8",
     "geom:latitude":-35.8,
     "geom:longitude":146.68333,
@@ -65,7 +65,7 @@
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
     "src:lbl:centroid":"qs_pg",
-    "src:population":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681545,
         102191583,
@@ -76,6 +76,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC10584",
         "gn:id":2173939,
         "qs_pg:id":573028,
         "wd:id":"Q2375523"
@@ -95,11 +96,11 @@
         }
     ],
     "wof:id":1125768307,
-    "wof:lastmodified":1562923503,
+    "wof:lastmodified":1573621895,
     "wof:name":"Brocklesby",
     "wof:parent_id":404222201,
     "wof:placetype":"locality",
-    "wof:population":240,
+    "wof:population":183,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],

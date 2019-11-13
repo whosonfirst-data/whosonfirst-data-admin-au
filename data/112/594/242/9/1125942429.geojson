@@ -5,8 +5,8 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"152.558641,-27.1823095,152.558641,-27.1823095",
+    "geom:area_square_m":0,
+    "geom:bbox":"152.558641,-27.182309,152.558641,-27.182309",
     "geom:latitude":-27.182309,
     "geom:longitude":152.558641,
     "gn:gn_country":null,
@@ -38,6 +38,7 @@
     "qs_pg:woe_id":28584704,
     "src:geom":"qs_pg",
     "src:lbl:centroid":"qs_pg",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Queensland",
@@ -52,13 +53,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC30761",
         "gp:id":28584704,
         "qs_pg:id":1334643,
         "wd:id":"Q16890733"
     },
     "wof:country":"AU",
     "wof:created":1497297163,
-    "wof:geomhash":"d2d603db58a421373624c28731f05bef",
+    "wof:geomhash":"0a6d7afa46a4cad7119e448d7c95e078",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -71,10 +73,11 @@
         }
     ],
     "wof:id":1125942429,
-    "wof:lastmodified":1513890433,
+    "wof:lastmodified":1573623716,
     "wof:name":"Crossdale",
     "wof:parent_id":404541885,
     "wof:placetype":"locality",
+    "wof:population":75,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -82,9 +85,9 @@
 },
   "bbox": [
     152.558641,
-    -27.1823095,
+    -27.182309,
     152.558641,
-    -27.1823095
+    -27.182309
 ],
-  "geometry": {"coordinates":[152.55864099999999,-27.1823095],"type":"Point"}
+  "geometry": {"coordinates":[152.55864099999999,-27.182309],"type":"Point"}
 }

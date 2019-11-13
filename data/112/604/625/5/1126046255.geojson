@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"149.88333,-36.71667,149.88333,-36.71667",
     "geom:latitude":-36.71667,
     "geom:longitude":149.88333,
@@ -40,6 +40,7 @@
     "qs_pg:woe_id":1102826,
     "src:geom":"qs_pg",
     "src:lbl:centroid":"qs_pg",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"New South Wales",
@@ -54,6 +55,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC12005",
         "gn:id":2162374,
         "gp:id":1102826,
         "qs_pg:id":975045
@@ -73,10 +75,11 @@
         }
     ],
     "wof:id":1126046255,
-    "wof:lastmodified":1509408872,
+    "wof:lastmodified":1573622240,
     "wof:name":"Jellat Jellat",
     "wof:parent_id":404224057,
     "wof:placetype":"locality",
+    "wof:population":84,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

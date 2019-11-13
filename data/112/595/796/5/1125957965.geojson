@@ -5,8 +5,8 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"144.6627725,-41.0515405,144.6627725,-41.0515405",
+    "geom:area_square_m":0,
+    "geom:bbox":"144.662772,-41.051541,144.662772,-41.051541",
     "geom:latitude":-41.051541,
     "geom:longitude":144.662772,
     "gn:gn_country":null,
@@ -53,6 +53,7 @@
     "qs_pg:woe_id":28644887,
     "src:geom":"qs_pg",
     "src:lbl:centroid":"qs_pg",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Tasmania",
@@ -67,13 +68,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC60020",
         "gp:id":28644887,
         "qs_pg:id":1286743,
         "wd:id":"Q15106850"
     },
     "wof:country":"AU",
     "wof:created":1497297686,
-    "wof:geomhash":"9017ad256f1238d6a62f0ed38a7da58f",
+    "wof:geomhash":"fb953e8fe455633975ec8d292e1c8fca",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -86,20 +88,21 @@
         }
     ],
     "wof:id":1125957965,
-    "wof:lastmodified":1562921986,
+    "wof:lastmodified":1573625028,
     "wof:name":"Arthur River",
     "wof:parent_id":404548691,
     "wof:placetype":"locality",
+    "wof:population":57,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    144.6627725,
-    -41.0515405,
-    144.6627725,
-    -41.0515405
+    144.662772,
+    -41.051541,
+    144.662772,
+    -41.051541
 ],
-  "geometry": {"coordinates":[144.66277249999999,-41.0515405],"type":"Point"}
+  "geometry": {"coordinates":[144.66277199999999,-41.051541],"type":"Point"}
 }

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"117.9,-34.65,117.9,-34.65",
     "geom:latitude":-34.65,
     "geom:longitude":117.9,
@@ -35,7 +35,7 @@
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
     "src:lbl:centroid":"qs_pg",
-    "src:population":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681439,
         102191583,
@@ -46,6 +46,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC51245",
         "gn:id":2063064,
         "qs_pg:id":90716
     },
@@ -64,11 +65,11 @@
         }
     ],
     "wof:id":1125823929,
-    "wof:lastmodified":1509394284,
+    "wof:lastmodified":1573624921,
     "wof:name":"Porongurup",
     "wof:parent_id":404548151,
     "wof:placetype":"locality",
-    "wof:population":370,
+    "wof:population":290,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],

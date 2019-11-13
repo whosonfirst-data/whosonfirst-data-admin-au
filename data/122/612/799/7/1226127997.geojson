@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"117.01058,-34.51054,117.01058,-34.51054",
     "geom:latitude":-34.51054,
     "geom:longitude":117.01058,
@@ -30,6 +30,7 @@
         "Rocky Gully"
     ],
     "src:geom":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681439,
         102191583,
@@ -40,6 +41,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC51293",
         "gn:id":8625913
     },
     "wof:country":"AU",
@@ -56,10 +58,11 @@
         }
     ],
     "wof:id":1226127997,
-    "wof:lastmodified":1537585098,
+    "wof:lastmodified":1573624933,
     "wof:name":"Rocky Gully",
     "wof:parent_id":404548211,
     "wof:placetype":"locality",
+    "wof:population":98,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
