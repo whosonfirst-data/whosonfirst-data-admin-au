@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"152.380542,-28.324328,152.380542,-28.324328",
     "geom:latitude":-28.324328,
     "geom:longitude":152.380542,
@@ -14,11 +14,11 @@
     "lbl:bbox":"152.360542,-28.344328,152.400542,-28.304328",
     "lbl:latitude":-28.324328,
     "lbl:longitude":152.380542,
-    "lbl:max_zoom":18.0,
+    "lbl:max_zoom":18,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "mz:min_zoom":12.0,
+    "mz:min_zoom":12,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:fra_x_preferred":[
         "The Falls"
@@ -54,6 +54,7 @@
     "qs_pg:woe_id":28587539,
     "src:geom":"qs_pg",
     "src:lbl_centroid":"qs_pg",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Queensland",
@@ -69,6 +70,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC32816",
         "gp:id":28587539,
         "qs_pg:id":897212
     },
@@ -88,10 +90,11 @@
         }
     ],
     "wof:id":1126030877,
-    "wof:lastmodified":1566603297,
+    "wof:lastmodified":1573705013,
     "wof:name":"The Falls",
     "wof:parent_id":404544343,
     "wof:placetype":"locality",
+    "wof:population":70,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

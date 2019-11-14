@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"152.24359,-28.06868,152.24359,-28.06868",
     "geom:latitude":-28.06868,
     "geom:longitude":152.24359,
@@ -25,12 +25,13 @@
     "gn:timezone":"Australia/Brisbane",
     "iso:country":"AU",
     "lbl:bbox":"152.22359,-28.08868,152.26359,-28.04868",
-    "lbl:max_zoom":18.0,
+    "lbl:max_zoom":18,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "mz:min_zoom":12.0,
+    "mz:min_zoom":12,
     "src:geom":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681463,
         102191583,
@@ -42,11 +43,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC31798",
         "gn:id":2158543,
         "wk:page":"Maryvale%2C_Queensland"
     },
     "wof:country":"AU",
-    "wof:geomhash":"8d223624b17e0f1993956c65b06333a2",
+    "wof:geomhash":"ef90eb018e980ad789137df8e4f0b8e4",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -60,20 +62,21 @@
         }
     ],
     "wof:id":1209539585,
-    "wof:lastmodified":1566600903,
+    "wof:lastmodified":1573704794,
     "wof:name":"Maryvale",
     "wof:parent_id":404543103,
     "wof:placetype":"locality",
+    "wof:population":303,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    152.24358999999995,
+    152.24359,
     -28.06868,
-    152.24358999999995,
+    152.24359,
     -28.06868
 ],
-  "geometry": {"coordinates":[152.24358999999995,-28.06868],"type":"Point"}
+  "geometry": {"coordinates":[152.24359000000001,-28.06868],"type":"Point"}
 }

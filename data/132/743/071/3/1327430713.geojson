@@ -2,13 +2,14 @@
   "id": 1327430713,
   "type": "Feature",
   "properties": {
+    "au-psma:modified":"2019-08-20",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"137.73333,-34.08333,137.73333,-34.08333",
-    "geom:latitude":-34.08333,
-    "geom:longitude":137.73333,
+    "geom:area":0.005453,
+    "geom:area_square_m":55856470.754449,
+    "geom:bbox":"137.723824,-34.097277,137.817802,-34.027623",
+    "geom:latitude":-34.064332,
+    "geom:longitude":137.767135,
     "gn:admin1_code":"5",
     "gn:admin2_code":"41560",
     "gn:asciiname":"Cunliffe",
@@ -25,12 +26,16 @@
     "gn:timezone":"Australia/Adelaide",
     "iso:country":"AU",
     "lbl:bbox":"137.71333,-34.10333,137.75333,-34.06333",
-    "lbl:max_zoom":18.0,
+    "lbl:latitude":-34.064332,
+    "lbl:longitude":137.767135,
+    "lbl:max_zoom":18,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "mz:min_zoom":12,
+    "src:geom":"aus-psma",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681519,
         102191583,
@@ -41,10 +46,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "aus-psma":"SA329",
+        "ausstat:2016":"SSC40335",
         "gn:id":2073342
     },
     "wof:country":"AU",
-    "wof:geomhash":"36dbe4b94f07470bcf0abdb98e18fb12",
+    "wof:geomhash":"4a78cacdb0592c7b10fa8d7019e55558",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,20 +64,21 @@
         }
     ],
     "wof:id":1327430713,
-    "wof:lastmodified":1566599990,
+    "wof:lastmodified":1573705186,
     "wof:name":"Cunliffe",
     "wof:parent_id":404546521,
     "wof:placetype":"locality",
+    "wof:population":57,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    137.73333,
-    -34.08333,
-    137.73333,
-    -34.08333
+    137.723824,
+    -34.097277,
+    137.817802,
+    -34.027623
 ],
-  "geometry": {"coordinates":[137.73333,-34.08333],"type":"Point"}
+  "geometry": {"coordinates":[[[137.78978499999999,-34.028653],[137.79306,-34.028039],[137.795942,-34.02802],[137.803752,-34.028203],[137.804563,-34.027888],[137.80477400000001,-34.055858],[137.813605,-34.087258],[137.817802,-34.094487],[137.79212100000001,-34.095233],[137.77960100000001,-34.095608],[137.74656100000001,-34.096605],[137.731075,-34.097066],[137.72396800000001,-34.097277],[137.72397100000001,-34.097186],[137.72396499999999,-34.09078],[137.723964,-34.088956],[137.72396000000001,-34.085046],[137.72395399999999,-34.078138],[137.72385,-34.077856],[137.72385,-34.070055],[137.72382400000001,-34.041139],[137.73538600000001,-34.037442],[137.73681199999999,-34.036723],[137.76031499999999,-34.029263],[137.77440899999999,-34.027623],[137.78978499999999,-34.028653]]],"type":"Polygon"}
 }

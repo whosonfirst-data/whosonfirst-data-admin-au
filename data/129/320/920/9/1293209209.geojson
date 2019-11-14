@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"149.1343,-33.3695,149.1343,-33.3695",
     "geom:latitude":-33.3695,
     "geom:longitude":149.1343,
@@ -26,11 +26,11 @@
     "gn:timezone":"Australia/Sydney",
     "iso:country":"AU",
     "lbl:bbox":"149.1143,-33.3895,149.1543,-33.3495",
-    "lbl:max_zoom":18.0,
+    "lbl:max_zoom":18,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "mz:min_zoom":12.0,
+    "mz:min_zoom":12,
     "name:cat_x_preferred":[
         "Huntley"
     ],
@@ -77,6 +77,7 @@
         "Huntley"
     ],
     "src:geom":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681545,
         102191583,
@@ -87,6 +88,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC11958",
         "gn:id":2162890
     },
     "wof:country":"AU",
@@ -103,10 +105,11 @@
         }
     ],
     "wof:id":1293209209,
-    "wof:lastmodified":1566600811,
+    "wof:lastmodified":1573703117,
     "wof:name":"Huntley",
     "wof:parent_id":404223997,
     "wof:placetype":"locality",
+    "wof:population":150,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

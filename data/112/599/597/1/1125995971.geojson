@@ -5,8 +5,8 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"147.7515215,-37.959087,147.7515215,-37.959087",
+    "geom:area_square_m":0,
+    "geom:bbox":"147.751521,-37.959087,147.751521,-37.959087",
     "geom:latitude":-37.959087,
     "geom:longitude":147.751521,
     "gn:country":null,
@@ -14,11 +14,11 @@
     "lbl:bbox":"147.7315215,-37.979087,147.7715215,-37.939087",
     "lbl:latitude":-37.959087,
     "lbl:longitude":147.751521,
-    "lbl:max_zoom":18.0,
+    "lbl:max_zoom":18,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "mz:min_zoom":12.0,
+    "mz:min_zoom":12,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "qs_pg:aaroncc":"AU",
     "qs_pg:gn_country":null,
@@ -39,6 +39,7 @@
     "qs_pg:woe_id":28586725,
     "src:geom":"qs_pg",
     "src:lbl_centroid":"qs_pg",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Victoria",
@@ -53,12 +54,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC21992",
         "gp:id":28586725,
         "qs_pg:id":21469
     },
     "wof:country":"AU",
     "wof:created":1497299334,
-    "wof:geomhash":"3d463faa08db60bcc1901938b5c81da7",
+    "wof:geomhash":"220e16ba0a3a6dad391c86e28f90d96d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -71,20 +73,21 @@
         }
     ],
     "wof:id":1125995971,
-    "wof:lastmodified":1566603347,
+    "wof:lastmodified":1573704221,
     "wof:name":"Ocean Grange",
     "wof:parent_id":404539835,
     "wof:placetype":"locality",
+    "wof:population":0,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    147.7515215,
+    147.751521,
     -37.959087,
-    147.7515215,
+    147.751521,
     -37.959087
 ],
-  "geometry": {"coordinates":[147.7515215,-37.959087],"type":"Point"}
+  "geometry": {"coordinates":[147.751521,-37.959087],"type":"Point"}
 }

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"144.03333,-37.68333,144.03333,-37.68333",
     "geom:latitude":-37.68333,
     "geom:longitude":144.03333,
@@ -25,15 +25,16 @@
     "gn:timezone":"Australia/Melbourne",
     "iso:country":"AU",
     "lbl:bbox":"144.01333,-37.70333,144.05333,-37.66333",
-    "lbl:max_zoom":18.0,
+    "lbl:max_zoom":18,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "mz:min_zoom":12.0,
+    "mz:min_zoom":12,
     "name:gle_x_preferred":[
         "Lal Lal"
     ],
     "src:geom":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681497,
         102191583,
@@ -44,6 +45,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC21441",
         "gn:id":2160710,
         "wk:page":"Lal_Lal%2C_Victoria"
     },
@@ -61,10 +63,11 @@
         }
     ],
     "wof:id":1259374591,
-    "wof:lastmodified":1566603548,
+    "wof:lastmodified":1573704096,
     "wof:name":"Lal Lal",
     "wof:parent_id":404539185,
     "wof:placetype":"locality",
+    "wof:population":476,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

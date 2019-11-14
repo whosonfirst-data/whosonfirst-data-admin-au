@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"147.25435,-41.50552,147.25435,-41.50552",
     "geom:latitude":-41.50552,
     "geom:longitude":147.25435,
@@ -25,11 +25,11 @@
     "gn:timezone":"Australia/Hobart",
     "iso:country":"AU",
     "lbl:bbox":"147.23435,-41.52552,147.27435,-41.48552",
-    "lbl:max_zoom":18.0,
+    "lbl:max_zoom":18,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "mz:min_zoom":12.0,
+    "mz:min_zoom":12,
     "name:ceb_x_preferred":[
         "White Hills"
     ],
@@ -40,6 +40,7 @@
         "White Hills"
     ],
     "src:geom":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681583,
         102191583,
@@ -50,6 +51,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC60743",
         "gn:id":2143824
     },
     "wof:country":"AU",
@@ -66,10 +68,11 @@
         }
     ],
     "wof:id":1293093515,
-    "wof:lastmodified":1566600757,
+    "wof:lastmodified":1573706121,
     "wof:name":"White Hills",
     "wof:parent_id":404549579,
     "wof:placetype":"locality",
+    "wof:population":182,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

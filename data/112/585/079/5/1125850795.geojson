@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"152.95,-29.65,152.95,-29.65",
     "geom:latitude":-29.65,
     "geom:longitude":152.95,
@@ -16,11 +16,11 @@
     "lbl:bbox":"152.93,-29.67,152.97,-29.63",
     "lbl:latitude":-29.65,
     "lbl:longitude":152.95,
-    "lbl:max_zoom":18.0,
+    "lbl:max_zoom":18,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "mz:min_zoom":12.0,
+    "mz:min_zoom":12,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:und_x_variant":[
         "Alumny Creek"
@@ -47,6 +47,7 @@
     "qs_pg:woe_id":1094051,
     "src:geom":"qs_pg",
     "src:lbl_centroid":"qs_pg",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"New South Wales",
@@ -61,6 +62,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC10047",
         "gn:id":2177987,
         "gp:id":1094051,
         "qs_pg:id":1096457
@@ -80,10 +82,11 @@
         }
     ],
     "wof:id":1125850795,
-    "wof:lastmodified":1566603436,
+    "wof:lastmodified":1573702646,
     "wof:name":"Alumy Creek",
     "wof:parent_id":404221499,
     "wof:placetype":"locality",
+    "wof:population":91,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

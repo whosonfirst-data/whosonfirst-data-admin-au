@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"147.5,-42.93333,147.5,-42.93333",
     "geom:latitude":-42.93333,
     "geom:longitude":147.5,
@@ -16,11 +16,11 @@
     "lbl:bbox":"147.48,-42.95333,147.52,-42.91333",
     "lbl:latitude":-42.93333,
     "lbl:longitude":147.5,
-    "lbl:max_zoom":16.0,
-    "lbl:min_zoom":12.0,
+    "lbl:max_zoom":16,
+    "lbl:min_zoom":12,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "mz:min_zoom":11.0,
+    "mz:min_zoom":11,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Sandford"
@@ -65,7 +65,7 @@
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
     "src:lbl_centroid":"qs_pg",
-    "src:population":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681583,
         102191583,
@@ -77,6 +77,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC60579",
         "gn:id":2150485,
         "qs_pg:id":90993,
         "wd:id":"Q7416203"
@@ -97,11 +98,11 @@
         }
     ],
     "wof:id":1125859417,
-    "wof:lastmodified":1566603438,
+    "wof:lastmodified":1573706078,
     "wof:name":"Sandford",
     "wof:parent_id":404549391,
     "wof:placetype":"locality",
-    "wof:population":1596,
+    "wof:population":1883,
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],

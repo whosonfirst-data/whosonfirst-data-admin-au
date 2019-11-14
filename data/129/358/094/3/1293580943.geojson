@@ -2,13 +2,14 @@
   "id": 1293580943,
   "type": "Feature",
   "properties": {
+    "au-psma:modified":"2019-08-20",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"142.91667,-35.55,142.91667,-35.55",
-    "geom:latitude":-35.55,
-    "geom:longitude":142.91667,
+    "geom:area":0.009552,
+    "geom:area_square_m":96084179.495605,
+    "geom:bbox":"142.853619,-35.591552,143.032921,-35.533357",
+    "geom:latitude":-35.563704,
+    "geom:longitude":142.949875,
     "gn:admin1_code":"7.0",
     "gn:admin2_code":"21270.0",
     "gn:asciiname":"Boigbeat",
@@ -25,12 +26,16 @@
     "gn:timezone":"Australia/Melbourne",
     "iso:country":"AU",
     "lbl:bbox":"142.89667,-35.57,142.93667,-35.53",
-    "lbl:max_zoom":18.0,
+    "lbl:latitude":-35.563704,
+    "lbl:longitude":142.949875,
+    "lbl:max_zoom":18,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "mz:min_zoom":12,
+    "src:geom":"aus-psma",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681497,
         102191583,
@@ -41,11 +46,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "aus-psma":"VIC269",
+        "ausstat:2016":"SSC20267",
         "gn:id":2175017,
         "wk:page":"Boigbeat%2C_Victoria"
     },
     "wof:country":"AU",
-    "wof:geomhash":"73dad7ec425904ab25dd16b79e27f3fc",
+    "wof:geomhash":"7585d2c77263c4ebf86d2cb06139c98e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,20 +65,21 @@
         }
     ],
     "wof:id":1293580943,
-    "wof:lastmodified":1566600800,
+    "wof:lastmodified":1573703812,
     "wof:name":"Boigbeat",
     "wof:parent_id":404539665,
     "wof:placetype":"locality",
+    "wof:population":8,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    142.91666999999995,
-    -35.55,
-    142.91666999999995,
-    -35.55
+    142.853619,
+    -35.591552,
+    143.032921,
+    -35.533357
 ],
-  "geometry": {"coordinates":[142.91666999999995,-35.55],"type":"Point"}
+  "geometry": {"coordinates":[[[143.03287700000001,-35.591494],[142.99718200000001,-35.591552],[142.96157500000001,-35.591528],[142.94664399999999,-35.591515],[142.91455099999999,-35.591481],[142.881595,-35.591437],[142.85442699999999,-35.591394],[142.85441599999999,-35.564831],[142.85429600000001,-35.563604],[142.85361900000001,-35.562594],[142.85444100000001,-35.562599],[142.88163299999999,-35.562626],[142.88167100000001,-35.53383],[142.881125,-35.533357],[142.882037,-35.53339],[142.91461799999999,-35.533446],[142.96161599999999,-35.533513],[142.99715699999999,-35.533551],[143.00694200000001,-35.53356],[143.00806299999999,-35.533705],[143.03292099999999,-35.533712],[143.03282100000001,-35.556797],[143.032803,-35.560415],[143.03280799999999,-35.562626],[143.03287700000001,-35.591494]]],"type":"Polygon"}
 }

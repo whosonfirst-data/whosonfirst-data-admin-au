@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"152.3,-28.4,152.3,-28.4",
     "geom:latitude":-28.4,
     "geom:longitude":152.3,
@@ -16,11 +16,11 @@
     "lbl:bbox":"152.28,-28.42,152.32,-28.38",
     "lbl:latitude":-28.4,
     "lbl:longitude":152.3,
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.0,
+    "lbl:max_zoom":18,
+    "lbl:min_zoom":13,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "mz:min_zoom":11.0,
+    "mz:min_zoom":11,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Peulgewas"
@@ -206,7 +206,7 @@
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
     "src:lbl_centroid":"qs_pg",
-    "src:population":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681545,
         102191583,
@@ -217,6 +217,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC12296",
         "gn:id":2160392,
         "qs_pg:id":91030
     },
@@ -235,11 +236,11 @@
         }
     ],
     "wof:id":1125859481,
-    "wof:lastmodified":1566603437,
+    "wof:lastmodified":1573703202,
     "wof:name":"Legume",
     "wof:parent_id":404224463,
     "wof:placetype":"locality",
-    "wof:population":185,
+    "wof:population":152,
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],

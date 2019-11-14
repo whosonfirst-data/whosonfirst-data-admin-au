@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"147.23953,-43.262,147.23953,-43.262",
     "geom:latitude":-43.262,
     "geom:longitude":147.23953,
@@ -25,11 +25,11 @@
     "gn:timezone":"Australia/Hobart",
     "iso:country":"AU",
     "lbl:bbox":"147.21953,-43.282,147.25953,-43.242",
-    "lbl:max_zoom":18.0,
+    "lbl:max_zoom":18,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "mz:min_zoom":12.0,
+    "mz:min_zoom":12,
     "name:cat_x_preferred":[
         "Gordon"
     ],
@@ -115,6 +115,7 @@
         "\u6208\u767b"
     ],
     "src:geom":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681583,
         102191583,
@@ -125,6 +126,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC60237",
         "gn:id":2164901
     },
     "wof:country":"AU",
@@ -141,10 +143,11 @@
         }
     ],
     "wof:id":1243361287,
-    "wof:lastmodified":1566603476,
+    "wof:lastmodified":1573705974,
     "wof:name":"Gordon",
     "wof:parent_id":404548973,
     "wof:placetype":"locality",
+    "wof:population":199,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

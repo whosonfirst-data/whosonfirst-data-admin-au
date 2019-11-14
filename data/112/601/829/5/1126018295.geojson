@@ -2,25 +2,26 @@
   "id": 1126018295,
   "type": "Feature",
   "properties": {
+    "au-psma:modified":"2019-08-20",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"139.21667,-34.15,139.21667,-34.15",
-    "geom:latitude":-34.15,
-    "geom:longitude":139.21667,
+    "geom:area":0.00493,
+    "geom:area_square_m":50445377.067031,
+    "geom:bbox":"139.179445,-34.193312,139.265973,-34.126466",
+    "geom:latitude":-34.156651,
+    "geom:longitude":139.226038,
     "gn:country":"AU",
     "gn:fcode":"PPL",
     "gn:population":307,
     "iso:country":"AU",
     "lbl:bbox":"139.19667,-34.17,139.23667,-34.13",
-    "lbl:latitude":-34.15,
-    "lbl:longitude":139.21667,
-    "lbl:max_zoom":17.0,
+    "lbl:latitude":-34.156651,
+    "lbl:longitude":139.226038,
+    "lbl:max_zoom":17,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "mz:min_zoom":11.0,
+    "mz:min_zoom":11,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Sutherlands"
@@ -55,9 +56,9 @@
     "qs_pg:qs_pg_placetype_gp":"Town",
     "qs_pg:woe_adm0":23424748,
     "qs_pg:woe_id":1105766,
-    "src:geom":"qs_pg",
-    "src:lbl_centroid":"qs_pg",
-    "src:population":"geonames",
+    "src:geom":"aus-psma",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"South Australia",
@@ -72,6 +73,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "aus-psma":"SA1345",
+        "ausstat:2016":"SSC41397",
         "gn:id":2060794,
         "gp:id":1105766,
         "qs_pg:id":308278,
@@ -79,7 +82,7 @@
     },
     "wof:country":"AU",
     "wof:created":1497300682,
-    "wof:geomhash":"d0cf3db59c4214f3d8dac8f1a56ba67e",
+    "wof:geomhash":"c803f25212cf14e49f0e726ddf860e03",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -92,11 +95,11 @@
         }
     ],
     "wof:id":1126018295,
-    "wof:lastmodified":1566603396,
+    "wof:lastmodified":1573705451,
     "wof:name":"Sutherlands",
     "wof:parent_id":404545271,
     "wof:placetype":"locality",
-    "wof:population":307,
+    "wof:population":45,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
@@ -104,10 +107,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    139.21667,
-    -34.15,
-    139.21667,
-    -34.15
+    139.179445,
+    -34.193312,
+    139.265973,
+    -34.126466
 ],
-  "geometry": {"coordinates":[139.21666999999999,-34.15],"type":"Point"}
+  "geometry": {"coordinates":[[[139.26542900000001,-34.175916],[139.26532,-34.18451],[139.26521,-34.19322],[139.265209,-34.193312],[139.24050700000001,-34.189208],[139.23077799999999,-34.187589],[139.21169399999999,-34.18432],[139.20909800000001,-34.183893],[139.20117500000001,-34.181655],[139.20115999999999,-34.181709],[139.19772599999999,-34.181308],[139.17944499999999,-34.179173],[139.182402,-34.177194],[139.18377599999999,-34.176818],[139.18263899999999,-34.17482],[139.18259800000001,-34.167473],[139.182593,-34.16651],[139.18250800000001,-34.151213],[139.18340499999999,-34.147712],[139.184111,-34.144961],[139.185158,-34.141546],[139.18572499999999,-34.1397],[139.185607,-34.13709],[139.18362500000001,-34.134632],[139.18296599999999,-34.131003],[139.18161900000001,-34.12935],[139.18147300000001,-34.128802],[139.18105600000001,-34.128105],[139.18066400000001,-34.126787],[139.18749600000001,-34.126775],[139.23142300000001,-34.12661],[139.26586499999999,-34.126466],[139.265973,-34.126466],[139.26580899999999,-34.144319],[139.26580100000001,-34.145241],[139.26558499999999,-34.168629],[139.26553899999999,-34.175791],[139.265424,-34.175828],[139.26542900000001,-34.175916]]],"type":"Polygon"}
 }

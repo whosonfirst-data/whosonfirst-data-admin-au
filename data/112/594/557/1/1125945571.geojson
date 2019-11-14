@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"145.627581,-17.285742,145.627581,-17.285742",
     "geom:latitude":-17.285742,
     "geom:longitude":145.627581,
@@ -14,11 +14,11 @@
     "lbl:bbox":"145.607581,-17.305742,145.647581,-17.265742",
     "lbl:latitude":-17.285742,
     "lbl:longitude":145.627581,
-    "lbl:max_zoom":18.0,
+    "lbl:max_zoom":18,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "mz:min_zoom":12.0,
+    "mz:min_zoom":12,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Lake Eacham"
@@ -60,6 +60,7 @@
     "qs_pg:woe_id":28585767,
     "src:geom":"qs_pg",
     "src:lbl_centroid":"qs_pg",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Queensland",
@@ -74,6 +75,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC31629",
         "gp:id":28585767,
         "qs_pg:id":1285716
     },
@@ -92,10 +94,11 @@
         }
     ],
     "wof:id":1125945571,
-    "wof:lastmodified":1566603242,
+    "wof:lastmodified":1573704763,
     "wof:name":"Lake Eacham",
     "wof:parent_id":404542897,
     "wof:placetype":"locality",
+    "wof:population":457,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

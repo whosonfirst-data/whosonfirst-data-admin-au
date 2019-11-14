@@ -5,8 +5,8 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"149.9475425,-36.786535,149.9475425,-36.786535",
+    "geom:area_square_m":0,
+    "geom:bbox":"149.947542,-36.786535,149.947542,-36.786535",
     "geom:latitude":-36.786535,
     "geom:longitude":149.947542,
     "gn:country":null,
@@ -14,11 +14,11 @@
     "lbl:bbox":"149.9275425,-36.806535,149.9675425,-36.766535",
     "lbl:latitude":-36.786535,
     "lbl:longitude":149.947542,
-    "lbl:max_zoom":18.0,
+    "lbl:max_zoom":18,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "mz:min_zoom":12.0,
+    "mz:min_zoom":12,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "qs_pg:aaroncc":"AU",
     "qs_pg:gn_country":null,
@@ -39,6 +39,7 @@
     "qs_pg:woe_id":28587799,
     "src:geom":"qs_pg",
     "src:lbl_centroid":"qs_pg",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"New South Wales",
@@ -53,12 +54,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC14103",
         "gp:id":28587799,
         "qs_pg:id":234073
     },
     "wof:country":"AU",
     "wof:created":1497298207,
-    "wof:geomhash":"9460fb7c2b3ae657695e9bcd6adfaf27",
+    "wof:geomhash":"e7f590386a0f8252ceeba40a6776e56a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -71,20 +73,21 @@
         }
     ],
     "wof:id":1125972023,
-    "wof:lastmodified":1566603355,
+    "wof:lastmodified":1573703645,
     "wof:name":"Wallagoot",
     "wof:parent_id":404226809,
     "wof:placetype":"locality",
+    "wof:population":518,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    149.9475425,
+    149.947542,
     -36.786535,
-    149.9475425,
+    149.947542,
     -36.786535
 ],
-  "geometry": {"coordinates":[149.9475425,-36.786535],"type":"Point"}
+  "geometry": {"coordinates":[149.947542,-36.786535],"type":"Point"}
 }

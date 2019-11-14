@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"143.68333,-37.03333,143.68333,-37.03333",
     "geom:latitude":-37.03333,
     "geom:longitude":143.68333,
@@ -25,15 +25,16 @@
     "gn:timezone":"Australia/Melbourne",
     "iso:country":"AU",
     "lbl:bbox":"143.66333,-37.05333,143.70333,-37.01333",
-    "lbl:max_zoom":18.0,
+    "lbl:max_zoom":18,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "mz:min_zoom":12.0,
+    "mz:min_zoom":12,
     "name:urd_x_preferred":[
         "\u0627\u0644\u0645\u0627"
     ],
     "src:geom":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681497,
         102191583,
@@ -44,6 +45,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC20030",
         "gn:id":2178037,
         "wk:page":"Alma%2C_Victoria"
     },
@@ -61,10 +63,11 @@
         }
     ],
     "wof:id":1343482401,
-    "wof:lastmodified":1566600412,
+    "wof:lastmodified":1573703751,
     "wof:name":"Alma",
     "wof:parent_id":404537525,
     "wof:placetype":"locality",
+    "wof:population":201,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

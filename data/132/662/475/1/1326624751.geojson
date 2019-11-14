@@ -2,13 +2,14 @@
   "id": 1326624751,
   "type": "Feature",
   "properties": {
+    "au-psma:modified":"2019-08-20",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"144.53633,-36.20032,144.53633,-36.20032",
-    "geom:latitude":-36.20032,
-    "geom:longitude":144.53633,
+    "geom:area":0.005752,
+    "geom:area_square_m":57399804.113664,
+    "geom:bbox":"144.481554,-36.225849,144.570994,-36.158939",
+    "geom:latitude":-36.191602,
+    "geom:longitude":144.524717,
     "gn:admin1_code":"7.0",
     "gn:admin2_code":"21370.0",
     "gn:asciiname":"Kotta",
@@ -25,12 +26,16 @@
     "gn:timezone":"Australia/Melbourne",
     "iso:country":"AU",
     "lbl:bbox":"144.51633,-36.22032,144.55633,-36.18032",
-    "lbl:max_zoom":18.0,
+    "lbl:latitude":-36.191602,
+    "lbl:longitude":144.524717,
+    "lbl:max_zoom":18,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "mz:min_zoom":12,
+    "src:geom":"aus-psma",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681497,
         102191583,
@@ -41,10 +46,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "aus-psma":"VIC1396",
+        "ausstat:2016":"SSC21394",
         "gn:id":2161028
     },
     "wof:country":"AU",
-    "wof:geomhash":"4bc66ec1eb668c3d1546840a035847e2",
+    "wof:geomhash":"0a45db2f63b025f24c1f1944fdbaa942",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,20 +64,21 @@
         }
     ],
     "wof:id":1326624751,
-    "wof:lastmodified":1566599981,
+    "wof:lastmodified":1573704086,
     "wof:name":"Kotta",
     "wof:parent_id":404537647,
     "wof:placetype":"locality",
+    "wof:population":109,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    144.53633,
-    -36.20032,
-    144.53633,
-    -36.20032
+    144.481554,
+    -36.225849,
+    144.570994,
+    -36.158939
 ],
-  "geometry": {"coordinates":[144.53632999999999,-36.20032],"type":"Point"}
+  "geometry": {"coordinates":[[[144.57099400000001,-36.170176],[144.57096999999999,-36.192178],[144.57096300000001,-36.198862],[144.570931,-36.198861],[144.562986,-36.198888],[144.562783,-36.198888],[144.562848,-36.211119],[144.562848,-36.21118],[144.56277800000001,-36.22563],[144.56277800000001,-36.22571],[144.56267099999999,-36.22571],[144.535809,-36.225737],[144.53577999999999,-36.225736],[144.508702,-36.22577],[144.508702,-36.22575],[144.48159699999999,-36.225849],[144.48155399999999,-36.19907],[144.48157800000001,-36.18294],[144.481571,-36.174354],[144.481559,-36.159007],[144.517685,-36.158964],[144.53482600000001,-36.158939],[144.570988,-36.158998],[144.57099400000001,-36.170162],[144.57099400000001,-36.170165],[144.57099400000001,-36.170176]]],"type":"Polygon"}
 }

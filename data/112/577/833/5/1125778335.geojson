@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"138.45,-35.5,138.45,-35.5",
     "geom:latitude":-35.5,
     "geom:longitude":138.45,
@@ -16,11 +16,11 @@
     "lbl:bbox":"138.43,-35.52,138.47,-35.48",
     "lbl:latitude":-35.5,
     "lbl:longitude":138.45,
-    "lbl:max_zoom":17.0,
+    "lbl:max_zoom":17,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "mz:min_zoom":11.0,
+    "mz:min_zoom":11,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Inman Valley"
@@ -56,7 +56,7 @@
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
     "src:lbl_centroid":"qs_pg",
-    "src:population":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681519,
         102191583,
@@ -67,6 +67,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC40618",
         "gn:id":2069358,
         "qs_pg:id":90741,
         "wd:id":"Q6035062"
@@ -86,11 +87,11 @@
         }
     ],
     "wof:id":1125778335,
-    "wof:lastmodified":1566603458,
+    "wof:lastmodified":1573705259,
     "wof:name":"Inman Valley",
     "wof:parent_id":404545539,
     "wof:placetype":"locality",
-    "wof:population":424,
+    "wof:population":343,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"146.98333,-41.38333,146.98333,-41.38333",
     "geom:latitude":-41.38333,
     "geom:longitude":146.98333,
@@ -16,11 +16,11 @@
     "lbl:bbox":"146.96333,-41.40333,147.00333,-41.36333",
     "lbl:latitude":-41.38333,
     "lbl:longitude":146.98333,
-    "lbl:max_zoom":17.0,
+    "lbl:max_zoom":17,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "mz:min_zoom":11.0,
+    "mz:min_zoom":11,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Bridgenorth"
@@ -43,7 +43,7 @@
     "qs_pg:woe_id":1094648,
     "src:geom":"qs_pg",
     "src:lbl_centroid":"qs_pg",
-    "src:population":"geonames",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Tasmania",
@@ -58,6 +58,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC60072",
         "gn:id":2174084,
         "gp:id":1094648,
         "qs_pg:id":1290162
@@ -77,11 +78,11 @@
         }
     ],
     "wof:id":1125954857,
-    "wof:lastmodified":1566603263,
+    "wof:lastmodified":1573705927,
     "wof:name":"Bridgenorth",
     "wof:parent_id":404548755,
     "wof:placetype":"locality",
-    "wof:population":498,
+    "wof:population":373,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],

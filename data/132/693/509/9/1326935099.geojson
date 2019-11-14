@@ -2,13 +2,14 @@
   "id": 1326935099,
   "type": "Feature",
   "properties": {
+    "au-psma:modified":"2019-08-20",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"137.82942,-34.01307,137.82942,-34.01307",
-    "geom:latitude":-34.01307,
-    "geom:longitude":137.82942,
+    "geom:area":0.004898,
+    "geom:area_square_m":50212133.631701,
+    "geom:bbox":"137.766526,-34.027888,137.8725,-33.965341",
+    "geom:latitude":-33.990977,
+    "geom:longitude":137.824725,
     "gn:admin1_code":"5.0",
     "gn:admin2_code":"41560.0",
     "gn:asciiname":"Thrington",
@@ -25,15 +26,19 @@
     "gn:timezone":"Australia/Adelaide",
     "iso:country":"AU",
     "lbl:bbox":"137.80942,-34.03307,137.84942,-33.99307",
-    "lbl:max_zoom":18.0,
+    "lbl:latitude":-33.990976,
+    "lbl:longitude":137.824725,
+    "lbl:max_zoom":18,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "mz:min_zoom":12.0,
+    "mz:min_zoom":12,
     "name:eng_x_preferred":[
         "Thrington"
     ],
-    "src:geom":"geonames",
+    "src:geom":"aus-psma",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681519,
         102191583,
@@ -44,10 +49,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "aus-psma":"SA1383",
+        "ausstat:2016":"SSC41435",
         "gn:id":8615519
     },
     "wof:country":"AU",
-    "wof:geomhash":"6f22b754ea3c87fc01c0835de6a20f57",
+    "wof:geomhash":"2824c9251a75673e96a260dcc6637a45",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -60,20 +67,21 @@
         }
     ],
     "wof:id":1326935099,
-    "wof:lastmodified":1566599934,
+    "wof:lastmodified":1573705460,
     "wof:name":"Thrington",
     "wof:parent_id":404545565,
     "wof:placetype":"locality",
+    "wof:population":23,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    137.82942,
-    -34.01307,
-    137.82942,
-    -34.01307
+    137.766526,
+    -34.027888,
+    137.8725,
+    -33.965341
 ],
-  "geometry": {"coordinates":[137.82942,-34.01307],"type":"Point"}
+  "geometry": {"coordinates":[[[137.78646000000001,-33.965341],[137.821225,-33.965405],[137.83831699999999,-33.965388],[137.872432,-33.965346],[137.87247199999999,-33.990773],[137.8725,-34.008398],[137.870105,-34.00962],[137.86874599999999,-34.010168],[137.85619399999999,-34.016276],[137.85018700000001,-34.017101],[137.84468899999999,-34.017806],[137.84429299999999,-34.017621],[137.84321700000001,-34.017744],[137.84282400000001,-34.018045],[137.83347000000001,-34.019243],[137.826356,-34.019382],[137.81141199999999,-34.025215],[137.804563,-34.027888],[137.804528,-34.023261],[137.80495099999999,-34.020596],[137.80428000000001,-34.019672],[137.79777100000001,-34.014558],[137.77899199999999,-34.000084],[137.766526,-33.991266],[137.773809,-33.988609],[137.777288,-33.985851],[137.77595199999999,-33.985288],[137.775937,-33.965341],[137.78646000000001,-33.965341]]],"type":"Polygon"}
 }

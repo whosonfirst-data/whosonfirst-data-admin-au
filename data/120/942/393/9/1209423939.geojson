@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"148.83333,-30.86667,148.83333,-30.86667",
     "geom:latitude":-30.86667,
     "geom:longitude":148.83333,
@@ -25,12 +25,13 @@
     "gn:timezone":"Australia/Sydney",
     "iso:country":"AU",
     "lbl:bbox":"148.81333,-30.88667,148.85333,-30.84667",
-    "lbl:max_zoom":18.0,
+    "lbl:max_zoom":18,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "mz:min_zoom":12.0,
+    "mz:min_zoom":12,
     "src:geom":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681545,
         102191583,
@@ -41,10 +42,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC13796",
         "gn:id":2147061
     },
     "wof:country":"AU",
-    "wof:geomhash":"78dafc115de38a439f882ecae8cd120b",
+    "wof:geomhash":"2cffdd90b90aa7ee2ab692a2cb18dd56",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,20 +59,21 @@
         }
     ],
     "wof:id":1209423939,
-    "wof:lastmodified":1566600954,
+    "wof:lastmodified":1573703578,
     "wof:name":"Teridgerie",
     "wof:parent_id":404224187,
     "wof:placetype":"locality",
+    "wof:population":60,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    148.83333000000005,
-    -30.86667000000001,
-    148.83333000000005,
-    -30.86667000000001
+    148.83333,
+    -30.86667,
+    148.83333,
+    -30.86667
 ],
-  "geometry": {"coordinates":[148.83333000000005,-30.86667000000001],"type":"Point"}
+  "geometry": {"coordinates":[148.83332999999999,-30.86667],"type":"Point"}
 }

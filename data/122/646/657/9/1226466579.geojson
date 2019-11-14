@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"153.06702,-28.23897,153.06702,-28.23897",
     "geom:latitude":-28.23897,
     "geom:longitude":153.06702,
@@ -25,11 +25,11 @@
     "gn:timezone":"Australia/Brisbane",
     "iso:country":"AU",
     "lbl:bbox":"153.04702,-28.25897,153.08702,-28.21897",
-    "lbl:max_zoom":18.0,
+    "lbl:max_zoom":18,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "mz:min_zoom":12.0,
+    "mz:min_zoom":12,
     "name:ara_x_preferred":[
         "\u062f\u0627\u0631\u0644\u064a\u0646\u063a\u062a\u0648\u0646"
     ],
@@ -148,6 +148,7 @@
         "\u8fbe\u7075\u987f"
     ],
     "src:geom":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681463,
         102191583,
@@ -158,6 +159,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC30816",
         "gn:id":8030529
     },
     "wof:country":"AU",
@@ -174,10 +176,11 @@
         }
     ],
     "wof:id":1226466579,
-    "wof:lastmodified":1566603619,
+    "wof:lastmodified":1573704611,
     "wof:name":"Darlington",
     "wof:parent_id":404541939,
     "wof:placetype":"locality",
+    "wof:population":88,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

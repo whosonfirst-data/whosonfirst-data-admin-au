@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"152.16974,-25.01099,152.16974,-25.01099",
     "geom:latitude":-25.01099,
     "geom:longitude":152.16974,
@@ -25,11 +25,11 @@
     "gn:timezone":"Australia/Brisbane",
     "iso:country":"AU",
     "lbl:bbox":"152.14974,-25.03099,152.18974,-24.99099",
-    "lbl:max_zoom":18.0,
+    "lbl:max_zoom":18,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "mz:min_zoom":12.0,
+    "mz:min_zoom":12,
     "name:ceb_x_preferred":[
         "Pine Creek"
     ],
@@ -46,6 +46,7 @@
         "Pine Creek"
     ],
     "src:geom":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681463,
         102191583,
@@ -56,6 +57,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC32345",
         "gn:id":9535103
     },
     "wof:country":"AU",
@@ -72,10 +74,11 @@
         }
     ],
     "wof:id":1327134757,
-    "wof:lastmodified":1566599941,
+    "wof:lastmodified":1573704915,
     "wof:name":"Pine Creek",
     "wof:parent_id":404543741,
     "wof:placetype":"locality",
+    "wof:population":254,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"145.48333,-40.91667,145.48333,-40.91667",
     "geom:latitude":-40.91667,
     "geom:longitude":145.48333,
@@ -16,11 +16,11 @@
     "lbl:bbox":"145.46333,-40.93667,145.50333,-40.89667",
     "lbl:latitude":-40.91667,
     "lbl:longitude":145.48333,
-    "lbl:max_zoom":17.0,
+    "lbl:max_zoom":17,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "mz:min_zoom":11.0,
+    "mz:min_zoom":11,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Rocky Cape"
@@ -47,7 +47,7 @@
     "qs_pg:woe_id":1098343,
     "src:geom":"qs_pg",
     "src:lbl_centroid":"qs_pg",
-    "src:population":"geonames",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Tasmania",
@@ -62,6 +62,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC60556",
         "gn:id":2151387,
         "gp:id":1098343,
         "qs_pg:id":973609
@@ -81,11 +82,11 @@
         }
     ],
     "wof:id":1126043419,
-    "wof:lastmodified":1566603289,
+    "wof:lastmodified":1573706070,
     "wof:name":"Rocky Cape",
     "wof:parent_id":404549365,
     "wof:placetype":"locality",
-    "wof:population":381,
+    "wof:population":206,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],

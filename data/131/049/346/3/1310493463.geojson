@@ -2,13 +2,14 @@
   "id": 1310493463,
   "type": "Feature",
   "properties": {
+    "au-psma:modified":"2019-08-20",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"143.0,-35.73333,143.0,-35.73333",
-    "geom:latitude":-35.73333,
-    "geom:longitude":143.0,
+    "geom:area":0.005859,
+    "geom:area_square_m":58809144.437693,
+    "geom:bbox":"142.914169,-35.757662,143.033016,-35.708156",
+    "geom:latitude":-35.732862,
+    "geom:longitude":142.973583,
     "gn:admin1_code":"7",
     "gn:admin2_code":"21270",
     "gn:asciiname":"Sutton",
@@ -19,18 +20,20 @@
     "gn:feature_code":"PPL",
     "gn:geonameid":2147797,
     "gn:latitude":-35.73333,
-    "gn:longitude":143.0,
+    "gn:longitude":143,
     "gn:modification_date":"2012-01-18",
     "gn:name":"Sutton",
     "gn:population":0,
     "gn:timezone":"Australia/Melbourne",
     "iso:country":"AU",
     "lbl:bbox":"142.98,-35.75333,143.02,-35.71333",
-    "lbl:max_zoom":18.0,
+    "lbl:latitude":-35.732862,
+    "lbl:longitude":142.973583,
+    "lbl:max_zoom":18,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "mz:min_zoom":12.0,
+    "mz:min_zoom":12,
     "name:ang_x_preferred":[
         "S\u016b\u00fetun"
     ],
@@ -103,7 +106,9 @@
     "name:vol_x_preferred":[
         "Sutton"
     ],
-    "src:geom":"geonames",
+    "src:geom":"aus-psma",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681497,
         102191583,
@@ -114,10 +119,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "aus-psma":"VIC2405",
+        "ausstat:2016":"SSC22390",
         "gn:id":2147797
     },
     "wof:country":"AU",
-    "wof:geomhash":"717cd313c366dc3eafa5e0637f45be63",
+    "wof:geomhash":"32dcc03fd07675a496befb1740eb002b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -130,20 +137,21 @@
         }
     ],
     "wof:id":1310493463,
-    "wof:lastmodified":1566601032,
+    "wof:lastmodified":1573704326,
     "wof:name":"Sutton",
     "wof:parent_id":404537771,
     "wof:placetype":"locality",
+    "wof:population":3,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    143.0,
-    -35.73333,
-    143.0,
-    -35.73333
+    142.914169,
+    -35.757662,
+    143.033016,
+    -35.708156
 ],
-  "geometry": {"coordinates":[143.0,-35.73333],"type":"Point"}
+  "geometry": {"coordinates":[[[142.91420199999999,-35.737315],[142.91425000000001,-35.708156],[142.96118300000001,-35.708179],[142.99699100000001,-35.708184],[142.997006,-35.708184],[143.032951,-35.70824],[143.032951,-35.708259],[143.032916,-35.737482],[143.032916,-35.73757],[143.03301300000001,-35.757575],[143.033016,-35.757662],[143.03290899999999,-35.757662],[142.99731800000001,-35.757496],[142.997083,-35.757495],[142.95564400000001,-35.757512],[142.91961000000001,-35.757514],[142.91416899999999,-35.757513],[142.91420199999999,-35.737315]]],"type":"Polygon"}
 }

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"147.36667,-42.53333,147.36667,-42.53333",
     "geom:latitude":-42.53333,
     "geom:longitude":147.36667,
@@ -16,11 +16,11 @@
     "lbl:bbox":"147.34667,-42.55333,147.38667,-42.51333",
     "lbl:latitude":-42.53333,
     "lbl:longitude":147.36667,
-    "lbl:max_zoom":17.0,
+    "lbl:max_zoom":17,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "mz:min_zoom":11.0,
+    "mz:min_zoom":11,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "Colebrook"
@@ -77,7 +77,7 @@
     "qs_pg:woe_id":1095136,
     "src:geom":"qs_pg",
     "src:lbl_centroid":"qs_pg",
-    "src:population":"geonames",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Tasmania",
@@ -92,6 +92,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC60120",
         "gn:id":2171050,
         "gp:id":1095136,
         "qs_pg:id":1081009
@@ -111,11 +112,11 @@
         }
     ],
     "wof:id":1125794229,
-    "wof:lastmodified":1566603448,
+    "wof:lastmodified":1573705939,
     "wof:name":"Colebrook",
     "wof:parent_id":404548807,
     "wof:placetype":"locality",
-    "wof:population":351,
+    "wof:population":294,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],

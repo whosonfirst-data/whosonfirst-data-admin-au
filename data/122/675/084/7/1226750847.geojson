@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"144.14509,-29.70296,144.14509,-29.70296",
     "geom:latitude":-29.70296,
     "geom:longitude":144.14509,
@@ -25,15 +25,16 @@
     "gn:timezone":"Australia/Sydney",
     "iso:country":"AU",
     "lbl:bbox":"144.12509,-29.72296,144.16509,-29.68296",
-    "lbl:max_zoom":18.0,
+    "lbl:max_zoom":18,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "mz:min_zoom":12.0,
+    "mz:min_zoom":12,
     "name:eng_x_preferred":[
         "Wanaaring"
     ],
     "src:geom":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681545,
         102191583,
@@ -44,10 +45,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC14126",
         "gn:id":2144817
     },
     "wof:country":"AU",
-    "wof:geomhash":"3107b61483b58fa761bf6154bf82938e",
+    "wof:geomhash":"144164f24203b39103feae5919d8335b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -60,20 +62,21 @@
         }
     ],
     "wof:id":1226750847,
-    "wof:lastmodified":1566603584,
+    "wof:lastmodified":1573703649,
     "wof:name":"Wanaaring",
     "wof:parent_id":404226833,
     "wof:placetype":"locality",
+    "wof:population":140,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    144.14508999999995,
+    144.14509,
     -29.70296,
-    144.14508999999995,
+    144.14509,
     -29.70296
 ],
-  "geometry": {"coordinates":[144.14508999999995,-29.70296],"type":"Point"}
+  "geometry": {"coordinates":[144.14509000000001,-29.70296],"type":"Point"}
 }

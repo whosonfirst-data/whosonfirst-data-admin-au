@@ -2,13 +2,14 @@
   "id": 1310226395,
   "type": "Feature",
   "properties": {
+    "au-psma:modified":"2019-08-20",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"143.19162,-35.41874,143.19162,-35.41874",
-    "geom:latitude":-35.41874,
-    "geom:longitude":143.19162,
+    "geom:area":0.004821,
+    "geom:area_square_m":48588013.514181,
+    "geom:bbox":"143.155959,-35.4477,143.227291,-35.373856",
+    "geom:latitude":-35.413258,
+    "geom:longitude":143.190681,
     "gn:admin1_code":"7.0",
     "gn:admin2_code":"26610.0",
     "gn:asciiname":"Gowanford",
@@ -25,12 +26,16 @@
     "gn:timezone":"Australia/Melbourne",
     "iso:country":"AU",
     "lbl:bbox":"143.17162,-35.43874,143.21162,-35.39874",
-    "lbl:max_zoom":18.0,
+    "lbl:latitude":-35.413258,
+    "lbl:longitude":143.190681,
+    "lbl:max_zoom":18,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "mz:min_zoom":12,
+    "src:geom":"aus-psma",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681497,
         102191583,
@@ -41,11 +46,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "aus-psma":"VIC1071",
+        "ausstat:2016":"SSC21073",
         "gn:id":2164816,
         "wk:page":"Gowanford%2C_Victoria"
     },
     "wof:country":"AU",
-    "wof:geomhash":"26f260d9d2f9a35f81998f64a2b958cc",
+    "wof:geomhash":"7bfa0d24e53cf033247b8b9673a91b95",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,20 +65,21 @@
         }
     ],
     "wof:id":1310226395,
-    "wof:lastmodified":1566601029,
+    "wof:lastmodified":1573704005,
     "wof:name":"Gowanford",
     "wof:parent_id":404540583,
     "wof:placetype":"locality",
+    "wof:population":3,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    143.19162,
-    -35.41874,
-    143.19162,
-    -35.41874
+    143.155959,
+    -35.4477,
+    143.227291,
+    -35.373856
 ],
-  "geometry": {"coordinates":[143.19162,-35.41874],"type":"Point"}
+  "geometry": {"coordinates":[[[143.15610599999999,-35.447244],[143.15608800000001,-35.418026],[143.15608800000001,-35.418013],[143.15605500000001,-35.403097],[143.156023,-35.388815],[143.155991,-35.374156],[143.155959,-35.373856],[143.17369600000001,-35.376661],[143.19171600000001,-35.379509],[143.209328,-35.38229],[143.22729100000001,-35.385123],[143.227282,-35.43224],[143.227281,-35.441204],[143.22728000000001,-35.4477],[143.226191,-35.447154],[143.19175899999999,-35.447182],[143.191732,-35.447183],[143.15613400000001,-35.447244],[143.15610599999999,-35.447244]]],"type":"Polygon"}
 }

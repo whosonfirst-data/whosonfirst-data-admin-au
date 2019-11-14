@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"144.56667,-37.0,144.56667,-37.0",
     "geom:latitude":-37.0,
     "geom:longitude":144.56667,
@@ -17,7 +17,7 @@
     "gn:feature_class":"P",
     "gn:feature_code":"PPL",
     "gn:geonameid":2157944,
-    "gn:latitude":-37.0,
+    "gn:latitude":-37,
     "gn:longitude":144.56667,
     "gn:modification_date":"2012-01-18",
     "gn:name":"Mia Mia",
@@ -25,11 +25,11 @@
     "gn:timezone":"Australia/Melbourne",
     "iso:country":"AU",
     "lbl:bbox":"144.54667,-37.02,144.58667,-36.98",
-    "lbl:max_zoom":18.0,
+    "lbl:max_zoom":18,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "mz:min_zoom":12.0,
+    "mz:min_zoom":12,
     "name:deu_x_preferred":[
         "Mia Mia"
     ],
@@ -40,6 +40,7 @@
         "Mia Mia"
     ],
     "src:geom":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681497,
         102191583,
@@ -50,6 +51,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC21663",
         "gn:id":2157944,
         "wk:page":"Mia_Mia%2C_Victoria"
     },
@@ -67,10 +69,11 @@
         }
     ],
     "wof:id":1259504833,
-    "wof:lastmodified":1566603562,
+    "wof:lastmodified":1573704147,
     "wof:name":"Mia Mia",
     "wof:parent_id":404539473,
     "wof:placetype":"locality",
+    "wof:population":178,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -2,13 +2,14 @@
   "id": 1276333547,
   "type": "Feature",
   "properties": {
+    "au-psma:modified":"2019-08-20",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"138.3493,-30.28787,138.3493,-30.28787",
-    "geom:latitude":-30.28787,
-    "geom:longitude":138.3493,
+    "geom:area":0.004371,
+    "geom:area_square_m":46671149.971948,
+    "geom:bbox":"138.333797,-30.35276,138.392642,-30.251088",
+    "geom:latitude":-30.29858,
+    "geom:longitude":138.362469,
     "gn:admin1_code":"5",
     "gn:asciiname":"Lyndhurst",
     "gn:country_code":"AU",
@@ -24,18 +25,22 @@
     "gn:timezone":"Australia/Adelaide",
     "iso:country":"AU",
     "lbl:bbox":"138.3293,-30.30787,138.3693,-30.26787",
-    "lbl:max_zoom":18.0,
+    "lbl:latitude":-30.29858,
+    "lbl:longitude":138.362469,
+    "lbl:max_zoom":18,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "mz:min_zoom":12.0,
+    "mz:min_zoom":12,
     "name:deu_x_preferred":[
         "Lyndhurst"
     ],
     "name:rus_x_preferred":[
         "\u041b\u0438\u043d\u0434\u0445\u0435\u0440\u0441\u0442"
     ],
-    "src:geom":"geonames",
+    "src:geom":"aus-psma",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681519,
         102191583,
@@ -45,11 +50,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "aus-psma":"SA753",
+        "ausstat:2016":"SSC40786",
         "gn:id":2067335,
         "wk:page":"Lyndhurst%2C_South_Australia"
     },
     "wof:country":"AU",
-    "wof:geomhash":"4aa535b2908c406503524624d44e327d",
+    "wof:geomhash":"6d6a719e66f5c2503af6804d97e189f8",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -61,20 +68,21 @@
         }
     ],
     "wof:id":1276333547,
-    "wof:lastmodified":1566600854,
+    "wof:lastmodified":1573705294,
     "wof:name":"Lyndhurst",
     "wof:parent_id":404545749,
     "wof:placetype":"locality",
+    "wof:population":24,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    138.3493,
-    -30.28787,
-    138.3493,
-    -30.28787
+    138.333797,
+    -30.35276,
+    138.392642,
+    -30.251088
 ],
-  "geometry": {"coordinates":[138.3493,-30.28787],"type":"Point"}
+  "geometry": {"coordinates":[[[138.33519999999999,-30.2511],[138.34924699999999,-30.251818],[138.350121,-30.251742],[138.37951200000001,-30.253277],[138.38800800000001,-30.302921],[138.392642,-30.329979],[138.37749500000001,-30.345475],[138.376623,-30.345313],[138.360578,-30.352262],[138.35940500000001,-30.35276],[138.357035,-30.345843],[138.35583700000001,-30.346167],[138.35114200000001,-30.331582],[138.34209799999999,-30.326631],[138.335094,-30.317488],[138.33505400000001,-30.30314],[138.33891299999999,-30.262385],[138.333797,-30.251088],[138.33519999999999,-30.2511]]],"type":"Polygon"}
 }

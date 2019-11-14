@@ -2,13 +2,14 @@
   "id": 1210015597,
   "type": "Feature",
   "properties": {
+    "au-psma:modified":"2019-08-20",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"134.98656,-28.24135,134.98656,-28.24135",
-    "geom:latitude":-28.24135,
-    "geom:longitude":134.98656,
+    "geom:area":0.449504,
+    "geom:area_square_m":4890722238.009908,
+    "geom:bbox":"134.532009,-28.743575,135.187955,-28.019006",
+    "geom:latitude":-28.367491,
+    "geom:longitude":134.870746,
     "gn:admin1_code":"5.0",
     "gn:asciiname":"Mount Barry",
     "gn:country_code":"AU",
@@ -24,15 +25,18 @@
     "gn:timezone":"Australia/Adelaide",
     "iso:country":"AU",
     "lbl:bbox":"134.96656,-28.26135,135.00656,-28.22135",
-    "lbl:max_zoom":18.0,
+    "lbl:latitude":-28.367492,
+    "lbl:longitude":134.870746,
+    "lbl:max_zoom":18,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "mz:min_zoom":12.0,
+    "mz:min_zoom":12,
     "name:eng_x_preferred":[
         "Mount Barry"
     ],
-    "src:geom":"geonames",
+    "src:geom":"aus-psma",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681519,
         102191583,
@@ -42,10 +46,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "aus-psma":"SA210006140",
         "gn:id":8638887
     },
     "wof:country":"AU",
-    "wof:geomhash":"67cf89d3bdb9ea90e00a4b114d8e7c83",
+    "wof:geomhash":"8082396b5e9d6789120617f808cdd6ad",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +62,7 @@
         }
     ],
     "wof:id":1210015597,
-    "wof:lastmodified":1566600965,
+    "wof:lastmodified":1573689825,
     "wof:name":"Mount Barry",
     "wof:parent_id":404545377,
     "wof:placetype":"locality",
@@ -67,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    134.98656,
-    -28.24135,
-    134.98656,
-    -28.24135
+    134.532009,
+    -28.743575,
+    135.187955,
+    -28.019006
 ],
-  "geometry": {"coordinates":[134.98656,-28.24135],"type":"Point"}
+  "geometry": {"coordinates":[[[135.18795499999999,-28.020243],[135.18333200000001,-28.4469],[135.182152,-28.527094],[135.17511999999999,-28.724105],[135.17487600000001,-28.743575],[134.96304799999999,-28.742558],[134.789287,-28.741475],[134.631519,-28.740948],[134.63063700000001,-28.527923],[134.532275,-28.527611],[134.53202200000001,-28.320279],[134.53203500000001,-28.097537],[134.53200899999999,-28.019006],[135.00138100000001,-28.019008],[135.18795499999999,-28.020234],[135.18795499999999,-28.02024],[135.18795499999999,-28.020243]]],"type":"Polygon"}
 }

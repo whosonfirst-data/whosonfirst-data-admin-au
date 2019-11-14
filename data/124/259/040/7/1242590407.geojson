@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"149.8179,-36.9485,149.8179,-36.9485",
     "geom:latitude":-36.9485,
     "geom:longitude":149.8179,
@@ -25,11 +25,11 @@
     "gn:timezone":"Australia/Sydney",
     "iso:country":"AU",
     "lbl:bbox":"149.7979,-36.9685,149.8379,-36.9285",
-    "lbl:max_zoom":18.0,
+    "lbl:max_zoom":18,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "mz:min_zoom":12.0,
+    "mz:min_zoom":12,
     "name:deu_x_preferred":[
         "Lochiel"
     ],
@@ -37,6 +37,7 @@
         "Lochiel"
     ],
     "src:geom":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681545,
         102191583,
@@ -47,6 +48,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC12367",
         "gn:id":2159790
     },
     "wof:country":"AU",
@@ -63,10 +65,11 @@
         }
     ],
     "wof:id":1242590407,
-    "wof:lastmodified":1566603497,
+    "wof:lastmodified":1573703219,
     "wof:name":"Lochiel",
     "wof:parent_id":404224561,
     "wof:placetype":"locality",
+    "wof:population":354,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

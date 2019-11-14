@@ -5,20 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000579,
-    "geom:area_square_m":6907747.989317,
-    "geom:bbox":"145.094357952,-15.3081041545,145.122066624,-15.2846276915",
+    "geom:area_square_m":6907857.698452,
+    "geom:bbox":"145.094358,-15.308104,145.122067,-15.284628",
     "geom:latitude":-15.296425,
     "geom:longitude":145.108832,
     "iso:country":"AU",
     "lbl:latitude":-15.296272,
     "lbl:longitude":145.108832,
-    "lbl:max_zoom":18.0,
+    "lbl:max_zoom":18,
     "lbl:min_zoom":13.5,
     "mps:latitude":-15.296272,
     "mps:longitude":145.108832,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "mz:min_zoom":12.0,
+    "mz:min_zoom":12,
     "name:eng_x_preferred":[
         "Hope Vale"
     ],
@@ -36,6 +36,7 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681463,
         102191583,
@@ -46,12 +47,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC31371",
         "fct:id":"0330f34a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":8219775,
         "gp:id":1102692
     },
     "wof:country":"AU",
-    "wof:geomhash":"d292095dc08d008063f02046ea21ed5f",
+    "wof:geomhash":"bb797ad2f82d0bd2b1e7e0f4919ee352",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -67,20 +69,21 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566601581,
+    "wof:lastmodified":1573704712,
     "wof:name":"Hope Vale",
     "wof:parent_id":404542561,
     "wof:placetype":"locality",
+    "wof:population":1015,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    145.094357952,
-    -15.3081041545,
-    145.122066624,
-    -15.2846276915
+    145.094358,
+    -15.308104,
+    145.122067,
+    -15.284628
 ],
-  "geometry": {"coordinates":[[[145.096623424,-15.2846276915],[145.12202192000001,-15.286084252],[145.12206662400001,-15.3081041545],[145.094357952,-15.3062436095],[145.09532899199999,-15.298764929],[145.096623424,-15.2846276915]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[145.09662299999999,-15.284628],[145.12202199999999,-15.286084],[145.12206699999999,-15.308104],[145.094358,-15.306244],[145.09532899999999,-15.298765],[145.09662299999999,-15.284628]]],"type":"Polygon"}
 }

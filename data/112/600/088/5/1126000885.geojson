@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"140.965994,-38.006172,140.965994,-38.006172",
     "geom:latitude":-38.006172,
     "geom:longitude":140.965994,
@@ -14,11 +14,11 @@
     "lbl:bbox":"140.945994,-38.026172,140.985994,-37.986172",
     "lbl:latitude":-38.006172,
     "lbl:longitude":140.965994,
-    "lbl:max_zoom":18.0,
+    "lbl:max_zoom":18,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "mz:min_zoom":12.0,
+    "mz:min_zoom":12,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bre_x_preferred":[
         "Donovans"
@@ -48,6 +48,7 @@
     "qs_pg:woe_id":1101708,
     "src:geom":"qs_pg",
     "src:lbl_centroid":"qs_pg",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"South Australia",
@@ -62,6 +63,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC40365",
         "gp:id":1101708,
         "qs_pg:id":510696,
         "wd:id":"Q5296872"
@@ -81,10 +83,11 @@
         }
     ],
     "wof:id":1126000885,
-    "wof:lastmodified":1566603406,
+    "wof:lastmodified":1573705194,
     "wof:name":"Donovans",
     "wof:parent_id":404545205,
     "wof:placetype":"locality",
+    "wof:population":83,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

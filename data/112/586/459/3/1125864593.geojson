@@ -5,8 +5,8 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"145.3495375,-17.010335,145.3495375,-17.010335",
+    "geom:area_square_m":0,
+    "geom:bbox":"145.349537,-17.010335,145.349537,-17.010335",
     "geom:latitude":-17.010335,
     "geom:longitude":145.349537,
     "gn:country":null,
@@ -14,11 +14,11 @@
     "lbl:bbox":"145.3295375,-17.030335,145.3695375,-16.990335",
     "lbl:latitude":-17.010335,
     "lbl:longitude":145.349537,
-    "lbl:max_zoom":18.0,
+    "lbl:max_zoom":18,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "mz:min_zoom":12.0,
+    "mz:min_zoom":12,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "qs_pg:aaroncc":"AU",
     "qs_pg:gn_country":null,
@@ -39,6 +39,7 @@
     "qs_pg:woe_id":28586770,
     "src:geom":"qs_pg",
     "src:lbl_centroid":"qs_pg",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Queensland",
@@ -53,12 +54,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC32270",
         "gp:id":28586770,
         "qs_pg:id":1325816
     },
     "wof:country":"AU",
     "wof:created":1497293976,
-    "wof:geomhash":"199b6df2ffc037757e8d82a75661b4c0",
+    "wof:geomhash":"b6873207a0a5c92e1fb5c571b9562b74",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -71,20 +73,21 @@
         }
     ],
     "wof:id":1125864593,
-    "wof:lastmodified":1566603315,
+    "wof:lastmodified":1573704896,
     "wof:name":"Paddys Green",
     "wof:parent_id":404543649,
     "wof:placetype":"locality",
+    "wof:population":361,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    145.3495375,
+    145.349537,
     -17.010335,
-    145.3495375,
+    145.349537,
     -17.010335
 ],
-  "geometry": {"coordinates":[145.3495375,-17.010335],"type":"Point"}
+  "geometry": {"coordinates":[145.349537,-17.010335],"type":"Point"}
 }

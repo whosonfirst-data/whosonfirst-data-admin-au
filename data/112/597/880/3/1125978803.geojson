@@ -5,8 +5,8 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"150.634113,-33.4454385,150.634113,-33.4454385",
+    "geom:area_square_m":0,
+    "geom:bbox":"150.634113,-33.445439,150.634113,-33.445439",
     "geom:latitude":-33.445439,
     "geom:longitude":150.634113,
     "gn:country":null,
@@ -14,11 +14,11 @@
     "lbl:bbox":"150.614113,-33.4654385,150.654113,-33.4254385",
     "lbl:latitude":-33.445439,
     "lbl:longitude":150.634113,
-    "lbl:max_zoom":18.0,
+    "lbl:max_zoom":18,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "mz:min_zoom":12.0,
+    "mz:min_zoom":12,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Mountain Lagoon"
@@ -42,6 +42,7 @@
     "qs_pg:woe_id":28645245,
     "src:geom":"qs_pg",
     "src:lbl_centroid":"qs_pg",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"New South Wales",
@@ -56,13 +57,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC12806",
         "gp:id":28645245,
         "qs_pg:id":993071,
         "wd:id":"Q6925029"
     },
     "wof:country":"AU",
     "wof:created":1497298461,
-    "wof:geomhash":"116c9e46605e14b1e47b06403a5a12bd",
+    "wof:geomhash":"169c207cce2f0065c08f85d3676e5ab4",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -75,10 +77,11 @@
         }
     ],
     "wof:id":1125978803,
-    "wof:lastmodified":1566603354,
+    "wof:lastmodified":1573703327,
     "wof:name":"Mountain Lagoon",
     "wof:parent_id":404225107,
     "wof:placetype":"locality",
+    "wof:population":90,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -86,9 +89,9 @@
 },
   "bbox": [
     150.634113,
-    -33.4454385,
+    -33.445439,
     150.634113,
-    -33.4454385
+    -33.445439
 ],
-  "geometry": {"coordinates":[150.63411300000001,-33.4454385],"type":"Point"}
+  "geometry": {"coordinates":[150.63411300000001,-33.445439],"type":"Point"}
 }

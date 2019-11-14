@@ -5,8 +5,8 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"152.7777985,-31.657235,152.7777985,-31.657235",
+    "geom:area_square_m":0,
+    "geom:bbox":"152.777798,-31.657235,152.777798,-31.657235",
     "geom:latitude":-31.657235,
     "geom:longitude":152.777798,
     "gn:country":null,
@@ -14,11 +14,11 @@
     "lbl:bbox":"152.7577985,-31.677235,152.7977985,-31.637235",
     "lbl:latitude":-31.657235,
     "lbl:longitude":152.777798,
-    "lbl:max_zoom":18.0,
+    "lbl:max_zoom":18,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "mz:min_zoom":12.0,
+    "mz:min_zoom":12,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "North Brother"
@@ -45,6 +45,7 @@
     "qs_pg:woe_id":28586636,
     "src:geom":"qs_pg",
     "src:lbl_centroid":"qs_pg",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"New South Wales",
@@ -59,12 +60,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC12986",
         "gp:id":28586636,
         "qs_pg:id":1285741
     },
     "wof:country":"AU",
     "wof:created":1497296106,
-    "wof:geomhash":"07174ca1f1cc7e6ac58bef5a1b33a236",
+    "wof:geomhash":"99353805e089a90958174934431524a2",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -77,20 +79,21 @@
         }
     ],
     "wof:id":1125909895,
-    "wof:lastmodified":1566603353,
+    "wof:lastmodified":1573703371,
     "wof:name":"North Brother",
     "wof:parent_id":404225341,
     "wof:placetype":"locality",
+    "wof:population":0,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    152.7777985,
+    152.777798,
     -31.657235,
-    152.7777985,
+    152.777798,
     -31.657235
 ],
-  "geometry": {"coordinates":[152.77779849999999,-31.657235],"type":"Point"}
+  "geometry": {"coordinates":[152.77779799999999,-31.657235],"type":"Point"}
 }

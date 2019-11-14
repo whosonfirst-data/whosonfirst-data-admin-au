@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"116.0801,-31.46766,116.0801,-31.46766",
     "geom:latitude":-31.46766,
     "geom:longitude":116.0801,
@@ -25,11 +25,11 @@
     "gn:timezone":"Australia/Perth",
     "iso:country":"AU",
     "lbl:bbox":"116.0601,-31.48766,116.1001,-31.44766",
-    "lbl:max_zoom":17.0,
+    "lbl:max_zoom":17,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "mz:min_zoom":11.0,
+    "mz:min_zoom":11,
     "name:ceb_x_preferred":[
         "Chittering"
     ],
@@ -40,7 +40,7 @@
         "Chittering"
     ],
     "src:geom":"geonames",
-    "src:population":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681439,
         102191583,
@@ -51,6 +51,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC50290",
         "gn:id":2074408,
         "wk:page":"Chittering%2C_Western_Australia"
     },
@@ -68,11 +69,11 @@
         }
     ],
     "wof:id":1293086737,
-    "wof:lastmodified":1566600763,
+    "wof:lastmodified":1573705583,
     "wof:name":"Chittering",
     "wof:parent_id":404547033,
     "wof:placetype":"locality",
-    "wof:population":388,
+    "wof:population":921,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],

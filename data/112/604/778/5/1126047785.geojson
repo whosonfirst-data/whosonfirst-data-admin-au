@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"152.38333,-27.81667,152.38333,-27.81667",
     "geom:latitude":-27.81667,
     "geom:longitude":152.38333,
@@ -16,11 +16,11 @@
     "lbl:bbox":"152.36333,-27.83667,152.40333,-27.79667",
     "lbl:latitude":-27.81667,
     "lbl:longitude":152.38333,
-    "lbl:max_zoom":17.0,
+    "lbl:max_zoom":17,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "mz:min_zoom":11.0,
+    "mz:min_zoom":11,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u062b\u0648\u0631\u0646\u062a\u0648\u0646"
@@ -113,7 +113,7 @@
     "qs_pg:woe_id":1098925,
     "src:geom":"qs_pg",
     "src:lbl_centroid":"qs_pg",
-    "src:population":"geonames",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Queensland",
@@ -128,6 +128,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC32844",
         "gn:id":2146778,
         "gp:id":1098925,
         "qs_pg:id":326738
@@ -147,11 +148,11 @@
         }
     ],
     "wof:id":1126047785,
-    "wof:lastmodified":1566603289,
+    "wof:lastmodified":1573705020,
     "wof:name":"Thornton",
     "wof:parent_id":404544381,
     "wof:placetype":"locality",
-    "wof:population":420,
+    "wof:population":201,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],

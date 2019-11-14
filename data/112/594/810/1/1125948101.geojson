@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"152.31667,-32.21667,152.31667,-32.21667",
     "geom:latitude":-32.21667,
     "geom:longitude":152.31667,
@@ -16,11 +16,11 @@
     "lbl:bbox":"152.29667,-32.23667,152.33667,-32.19667",
     "lbl:latitude":-32.21667,
     "lbl:longitude":152.31667,
-    "lbl:max_zoom":17.0,
+    "lbl:max_zoom":17,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "mz:min_zoom":11.0,
+    "mz:min_zoom":11,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:und_x_variant":[
         "Gooloongolok"
@@ -38,7 +38,7 @@
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
     "src:lbl_centroid":"qs_pg",
-    "src:population":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681545,
         102191583,
@@ -49,6 +49,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC11032",
         "gn:id":2170594,
         "qs_pg:id":573018
     },
@@ -67,11 +68,11 @@
         }
     ],
     "wof:id":1125948101,
-    "wof:lastmodified":1566603244,
+    "wof:lastmodified":1573702888,
     "wof:name":"Coolongolook",
     "wof:parent_id":404222771,
     "wof:placetype":"locality",
-    "wof:population":404,
+    "wof:population":392,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],

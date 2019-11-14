@@ -2,21 +2,22 @@
   "id": 404549839,
   "type": "Feature",
   "properties": {
+    "au-psma:modified":"2019-08-20",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.033611,
-    "geom:area_square_m":403565756.784897,
-    "geom:bbox":"131.73452,-13.9152410045,131.917864,-13.7319060045",
-    "geom:latitude":-13.823575,
-    "geom:longitude":131.826193,
+    "geom:area":0.033614,
+    "geom:area_square_m":403605433.98233,
+    "geom:bbox":"131.734517,-13.915241,131.917864,-13.731848",
+    "geom:latitude":-13.823566,
+    "geom:longitude":131.826198,
     "iso:country":"AU",
-    "lbl:latitude":-13.823575,
-    "lbl:longitude":131.826193,
-    "lbl:max_zoom":18.0,
+    "lbl:latitude":-13.823566,
+    "lbl:longitude":131.826198,
+    "lbl:max_zoom":18,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "mz:min_zoom":12.0,
+    "mz:min_zoom":12,
     "name:ceb_x_preferred":[
         "Pine Creek"
     ],
@@ -47,7 +48,8 @@
     "qs:la_lc":"SSC70158",
     "qs:level":"localadmin",
     "qs:source":"Australian Bureau Of Statistics",
-    "src:geom":"quattroshapes",
+    "src:geom":"aus-psma",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681533,
         102191583,
@@ -56,9 +58,11 @@
         102049217
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "aus-psma":"NT227"
+    },
     "wof:country":"AU",
-    "wof:geomhash":"288419b17f91640d6a5a926f58296adb",
+    "wof:geomhash":"00f61d6d6fd09b287c20beb3f570affd",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":404549839,
-    "wof:lastmodified":1566602905,
+    "wof:lastmodified":1573688249,
     "wof:name":"Pine Creek",
     "wof:parent_id":102049217,
     "wof:placetype":"localadmin",
@@ -80,10 +84,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    131.73452,
-    -13.9152410045,
+    131.734517,
+    -13.915241,
     131.917864,
-    -13.7319060045
+    -13.731848
 ],
-  "geometry": {"coordinates":[[[131.73452,-13.7319149955],[131.78061219200001,-13.7319127385],[131.90986319999999,-13.731906393],[131.917856,-13.7319060045],[131.91785932799999,-13.8084622235],[131.91786400000001,-13.9152380075],[131.76757423999999,-13.915240468],[131.73453100799998,-13.9152410045],[131.73452227199996,-13.808400933],[131.73452,-13.7319149955]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[131.73451700000001,-13.731915],[131.779527,-13.731916],[131.78061199999999,-13.731912],[131.791088,-13.731912],[131.79168000000001,-13.731918],[131.90966900000001,-13.731848],[131.917856,-13.731906],[131.91785899999999,-13.808464],[131.91786400000001,-13.915238],[131.734531,-13.915241],[131.73451700000001,-13.731915]]],"type":"Polygon"}
 }

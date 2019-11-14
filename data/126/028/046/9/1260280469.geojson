@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"146.87514,-38.52377,146.87514,-38.52377",
     "geom:latitude":-38.52377,
     "geom:longitude":146.87514,
@@ -25,11 +25,11 @@
     "gn:timezone":"Australia/Melbourne",
     "iso:country":"AU",
     "lbl:bbox":"146.85514,-38.54377,146.89514,-38.50377",
-    "lbl:max_zoom":18.0,
+    "lbl:max_zoom":18,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "mz:min_zoom":12.0,
+    "mz:min_zoom":12,
     "name:deu_x_preferred":[
         "Woodside"
     ],
@@ -37,6 +37,7 @@
         "\u0412\u0443\u0434\u0441\u0430\u0439\u0434"
     ],
     "src:geom":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681497,
         102191583,
@@ -47,6 +48,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC22826",
         "gn:id":2143064,
         "wk:page":"Woodside%2C_Victoria"
     },
@@ -64,10 +66,11 @@
         }
     ],
     "wof:id":1260280469,
-    "wof:lastmodified":1566601004,
+    "wof:lastmodified":1573704421,
     "wof:name":"Woodside",
     "wof:parent_id":404540831,
     "wof:placetype":"locality",
+    "wof:population":364,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

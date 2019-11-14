@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"150.348492,-34.372793,150.348492,-34.372793",
     "geom:latitude":-34.372793,
     "geom:longitude":150.348492,
@@ -14,11 +14,11 @@
     "lbl:bbox":"150.328492,-34.392793,150.368492,-34.352793",
     "lbl:latitude":-34.372793,
     "lbl:longitude":150.348492,
-    "lbl:max_zoom":18.0,
+    "lbl:max_zoom":18,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "mz:min_zoom":12.0,
+    "mz:min_zoom":12,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "High Range"
@@ -48,6 +48,7 @@
     "qs_pg:woe_id":28585414,
     "src:geom":"qs_pg",
     "src:lbl_centroid":"qs_pg",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"New South Wales",
@@ -63,6 +64,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC11900",
         "gp:id":28585414,
         "qs_pg:id":410807,
         "wd:id":"Q12060062"
@@ -83,10 +85,11 @@
         }
     ],
     "wof:id":1125965995,
-    "wof:lastmodified":1566603363,
+    "wof:lastmodified":1573703100,
     "wof:name":"High Range",
     "wof:parent_id":404223913,
     "wof:placetype":"locality",
+    "wof:population":394,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

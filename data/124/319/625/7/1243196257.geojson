@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"152.96667,-27.9,152.96667,-27.9",
     "geom:latitude":-27.9,
     "geom:longitude":152.96667,
@@ -25,15 +25,16 @@
     "gn:timezone":"Australia/Brisbane",
     "iso:country":"AU",
     "lbl:bbox":"152.94667,-27.92,152.98667,-27.88",
-    "lbl:max_zoom":18.0,
+    "lbl:max_zoom":18,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "mz:min_zoom":12.0,
+    "mz:min_zoom":12,
     "name:deu_x_preferred":[
         "Woodhill"
     ],
     "src:geom":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681463,
         102191583,
@@ -45,6 +46,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC33164",
         "gn:id":2143092
     },
     "wof:country":"AU",
@@ -62,10 +64,11 @@
         }
     ],
     "wof:id":1243196257,
-    "wof:lastmodified":1566603537,
+    "wof:lastmodified":1573705083,
     "wof:name":"Woodhill",
     "wof:parent_id":404544749,
     "wof:placetype":"locality",
+    "wof:population":723,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

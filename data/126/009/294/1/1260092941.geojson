@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"150.7179,-31.0818,150.7179,-31.0818",
     "geom:latitude":-31.0818,
     "geom:longitude":150.7179,
@@ -25,11 +25,11 @@
     "gn:timezone":"Australia/Sydney",
     "iso:country":"AU",
     "lbl:bbox":"150.6979,-31.1018,150.7379,-31.0618",
-    "lbl:max_zoom":18.0,
+    "lbl:max_zoom":18,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "mz:min_zoom":12.0,
+    "mz:min_zoom":12,
     "name:ceb_x_preferred":[
         "Winton"
     ],
@@ -70,6 +70,7 @@
         "Winton"
     ],
     "src:geom":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681545,
         102191583,
@@ -80,6 +81,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC14336",
         "gn:id":2143349
     },
     "wof:country":"AU",
@@ -96,10 +98,11 @@
         }
     ],
     "wof:id":1260092941,
-    "wof:lastmodified":1566600990,
+    "wof:lastmodified":1573703700,
     "wof:name":"Winton",
     "wof:parent_id":404227109,
     "wof:placetype":"locality",
+    "wof:population":222,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

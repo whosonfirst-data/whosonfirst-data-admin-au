@@ -2,13 +2,14 @@
   "id": 1326451549,
   "type": "Feature",
   "properties": {
+    "au-psma:modified":"2019-08-20",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"143.34273,-35.57148,143.34273,-35.57148",
-    "geom:latitude":-35.57148,
-    "geom:longitude":143.34273,
+    "geom:area":0.004983,
+    "geom:area_square_m":50117128.926595,
+    "geom:bbox":"143.288159,-35.592497,143.419269,-35.546744",
+    "geom:latitude":-35.572036,
+    "geom:longitude":143.355398,
     "gn:admin1_code":"7.0",
     "gn:admin2_code":"22250.0",
     "gn:asciiname":"Meatian",
@@ -25,12 +26,16 @@
     "gn:timezone":"Australia/Melbourne",
     "iso:country":"AU",
     "lbl:bbox":"143.32273,-35.59148,143.36273,-35.55148",
-    "lbl:max_zoom":18.0,
+    "lbl:latitude":-35.572036,
+    "lbl:longitude":143.355398,
+    "lbl:max_zoom":18,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "mz:min_zoom":12,
+    "src:geom":"aus-psma",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681497,
         102191583,
@@ -41,11 +46,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "aus-psma":"VIC1630",
+        "ausstat:2016":"SSC21625",
         "gn:id":2158229,
         "wk:page":"Meatian%2C_Victoria"
     },
     "wof:country":"AU",
-    "wof:geomhash":"efb584c8a363561cad8d76c452991204",
+    "wof:geomhash":"afe1b369d92a544f9119af5700820b72",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,20 +65,21 @@
         }
     ],
     "wof:id":1326451549,
-    "wof:lastmodified":1566599928,
+    "wof:lastmodified":1573704139,
     "wof:name":"Meatian",
     "wof:parent_id":404540583,
     "wof:placetype":"locality",
+    "wof:population":20,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    143.34273000000005,
-    -35.57148,
-    143.34273000000005,
-    -35.57148
+    143.288159,
+    -35.592497,
+    143.419269,
+    -35.546744
 ],
-  "geometry": {"coordinates":[143.34273000000005,-35.57148],"type":"Point"}
+  "geometry": {"coordinates":[[[143.28822600000001,-35.592049],[143.28822600000001,-35.59196],[143.28822600000001,-35.591959],[143.288163,-35.57503],[143.288163,-35.57503],[143.288163,-35.575029],[143.28815900000001,-35.57494],[143.28826799999999,-35.57494],[143.28826900000001,-35.57494],[143.306209,-35.574951],[143.306209,-35.574861],[143.306197,-35.546858],[143.377149,-35.546744],[143.37710999999999,-35.557804],[143.40525600000001,-35.557902],[143.40514200000001,-35.558085],[143.419241,-35.558127],[143.419241,-35.558218],[143.41916800000001,-35.57241],[143.41926900000001,-35.5725],[143.41926900000001,-35.57259],[143.41916699999999,-35.592497],[143.388801,-35.592411],[143.378805,-35.592382],[143.37883299999999,-35.592358],[143.37365800000001,-35.592342],[143.33251899999999,-35.592208],[143.28822600000001,-35.592049]]],"type":"Polygon"}
 }

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"153.1929,-29.4318,153.1929,-29.4318",
     "geom:latitude":-29.4318,
     "geom:longitude":153.1929,
@@ -25,11 +25,11 @@
     "gn:timezone":"Australia/Sydney",
     "iso:country":"AU",
     "lbl:bbox":"153.1729,-29.4518,153.2129,-29.4118",
-    "lbl:max_zoom":18.0,
+    "lbl:max_zoom":18,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "mz:min_zoom":12.0,
+    "mz:min_zoom":12,
     "name:cat_x_preferred":[
         "Ashby"
     ],
@@ -73,6 +73,7 @@
         "Ashby"
     ],
     "src:geom":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681545,
         102191583,
@@ -83,6 +84,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC10094",
         "gn:id":2177569
     },
     "wof:country":"AU",
@@ -99,10 +101,11 @@
         }
     ],
     "wof:id":1310008991,
-    "wof:lastmodified":1566601038,
+    "wof:lastmodified":1573702657,
     "wof:name":"Ashby",
     "wof:parent_id":404221559,
     "wof:placetype":"locality",
+    "wof:population":326,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

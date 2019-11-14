@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"114.98703,-33.895069,114.98703,-33.895069",
     "geom:latitude":-33.895069,
     "geom:longitude":114.98703,
@@ -14,11 +14,11 @@
     "lbl:bbox":"114.96703,-33.915069,115.00703,-33.875069",
     "lbl:latitude":-33.895069,
     "lbl:longitude":114.98703,
-    "lbl:max_zoom":18.0,
+    "lbl:max_zoom":18,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "mz:min_zoom":12.0,
+    "mz:min_zoom":12,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:deu_x_preferred":[
         "Gracetown"
@@ -60,6 +60,7 @@
     "qs_pg:woe_id":1102406,
     "src:geom":"qs_pg",
     "src:lbl_centroid":"qs_pg",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Western Australia",
@@ -74,6 +75,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC50573",
         "gp:id":1102406,
         "qs_pg:id":1110337,
         "wd:id":"Q136173"
@@ -93,10 +95,11 @@
         }
     ],
     "wof:id":1125866373,
-    "wof:lastmodified":1566603314,
+    "wof:lastmodified":1573705649,
     "wof:name":"Gracetown",
     "wof:parent_id":404547357,
     "wof:placetype":"locality",
+    "wof:population":237,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -2,25 +2,26 @@
   "id": 1125827041,
   "type": "Feature",
   "properties": {
+    "au-psma:modified":"2019-08-20",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"151.71667,-27.35,151.71667,-27.35",
-    "geom:latitude":-27.35,
-    "geom:longitude":151.71667,
+    "geom:area":0.000754,
+    "geom:area_square_m":8285857.077693,
+    "geom:bbox":"151.695749,-27.370413,151.729485,-27.336012",
+    "geom:latitude":-27.352197,
+    "geom:longitude":151.714262,
     "gn:country":"AU",
     "gn:fcode":"PPL",
     "gn:population":109,
     "iso:country":"AU",
     "lbl:bbox":"151.69667,-27.37,151.73667,-27.33",
-    "lbl:latitude":-27.35,
-    "lbl:longitude":151.71667,
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.0,
+    "lbl:latitude":-27.352197,
+    "lbl:longitude":151.714261,
+    "lbl:max_zoom":18,
+    "lbl:min_zoom":13,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "mz:min_zoom":11.0,
+    "mz:min_zoom":11,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "qs_pg:aaroncc":"AU",
     "qs_pg:gn_country":"AU",
@@ -33,9 +34,9 @@
     "qs_pg:pop_sr":1,
     "qs_pg:qs_id":572845,
     "qs_pg:qs_pg_placetype":"locality",
-    "src:geom":"qs_pg",
-    "src:lbl_centroid":"qs_pg",
-    "src:population":"geonames",
+    "src:geom":"aus-psma",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681463,
         102191583,
@@ -46,12 +47,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "aus-psma":"QLD2561",
+        "ausstat:2016":"SSC32524",
         "gn:id":2150754,
         "qs_pg:id":572845
     },
     "wof:country":"AU",
     "wof:created":1497292326,
-    "wof:geomhash":"c5e8da7dedc2ff9244b0a3a8f6ea9cc4",
+    "wof:geomhash":"922e8e9f60652728feabe129cdd232d1",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -64,11 +67,11 @@
         }
     ],
     "wof:id":1125827041,
-    "wof:lastmodified":1566603424,
+    "wof:lastmodified":1573704953,
     "wof:name":"Sabine",
     "wof:parent_id":404540943,
     "wof:placetype":"locality",
-    "wof:population":109,
+    "wof:population":9,
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
@@ -76,10 +79,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    151.71667,
-    -27.35,
-    151.71667,
-    -27.35
+    151.695749,
+    -27.370413,
+    151.729485,
+    -27.336012
 ],
-  "geometry": {"coordinates":[151.71666999999999,-27.35],"type":"Point"}
+  "geometry": {"coordinates":[[[151.723556,-27.370413],[151.72340500000001,-27.370392],[151.72318100000001,-27.37036],[151.72289499999999,-27.370319],[151.71924100000001,-27.369795],[151.719199,-27.369743],[151.710778,-27.368537],[151.710657,-27.36852],[151.706534,-27.367929],[151.70638299999999,-27.367908],[151.706391,-27.367863],[151.708247,-27.35751],[151.70826299999999,-27.35742],[151.708113,-27.357399],[151.70809700000001,-27.357489],[151.69583399999999,-27.355847],[151.69585000000001,-27.355757],[151.69574900000001,-27.355744],[151.69576599999999,-27.355654],[151.69833499999999,-27.341213],[151.698351,-27.341123],[151.69845100000001,-27.341138],[151.702665,-27.341739],[151.703577,-27.341869],[151.71075999999999,-27.342893],[151.71083100000001,-27.342954],[151.71087900000001,-27.342818],[151.71209999999999,-27.336012],[151.71832499999999,-27.3369],[151.71853400000001,-27.336886],[151.71874199999999,-27.336873],[151.72938300000001,-27.338384],[151.72948500000001,-27.338399],[151.72945300000001,-27.338578],[151.728835,-27.34194],[151.72877,-27.342298],[151.72676799999999,-27.353201],[151.726685,-27.353373],[151.725346,-27.360808],[151.723556,-27.370413]]],"type":"Polygon"}
 }

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"151.83333,-26.58333,151.83333,-26.58333",
     "geom:latitude":-26.58333,
     "geom:longitude":151.83333,
@@ -16,11 +16,11 @@
     "lbl:bbox":"151.81333,-26.60333,151.85333,-26.56333",
     "lbl:latitude":-26.58333,
     "lbl:longitude":151.83333,
-    "lbl:max_zoom":17.0,
+    "lbl:max_zoom":17,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "mz:min_zoom":11.0,
+    "mz:min_zoom":11,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:und_x_variant":[
         "Taabinga Village"
@@ -47,7 +47,7 @@
     "qs_pg:woe_id":1098747,
     "src:geom":"qs_pg",
     "src:lbl_centroid":"qs_pg",
-    "src:population":"geonames",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Queensland",
@@ -62,6 +62,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC32737",
         "gn:id":2147692,
         "gp:id":1098747,
         "qs_pg:id":40069
@@ -81,11 +82,11 @@
         }
     ],
     "wof:id":1125872579,
-    "wof:lastmodified":1566603337,
+    "wof:lastmodified":1573704997,
     "wof:name":"Taabinga",
     "wof:parent_id":404544239,
     "wof:placetype":"locality",
-    "wof:population":610,
+    "wof:population":549,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],

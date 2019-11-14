@@ -2,13 +2,14 @@
   "id": 1243171203,
   "type": "Feature",
   "properties": {
+    "au-psma:modified":"2019-08-20",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"133.32704,-31.96503,133.32704,-31.96503",
-    "geom:latitude":-31.96503,
-    "geom:longitude":133.32704,
+    "geom:area":0.007331,
+    "geom:area_square_m":76909287.492453,
+    "geom:bbox":"133.276112,-31.986434,133.457425,-31.940927",
+    "geom:latitude":-31.965152,
+    "geom:longitude":133.35812,
     "gn:admin1_code":"5.0",
     "gn:admin2_code":"41010.0",
     "gn:asciiname":"Uworra",
@@ -25,15 +26,19 @@
     "gn:timezone":"Australia/Adelaide",
     "iso:country":"AU",
     "lbl:bbox":"133.30704,-31.98503,133.34704,-31.94503",
-    "lbl:max_zoom":18.0,
+    "lbl:latitude":-31.965152,
+    "lbl:longitude":133.35812,
+    "lbl:max_zoom":18,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "mz:min_zoom":12.0,
+    "mz:min_zoom":12,
     "name:eng_x_preferred":[
         "Uworra"
     ],
-    "src:geom":"geonames",
+    "src:geom":"aus-psma",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681519,
         102191583,
@@ -44,10 +49,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "aus-psma":"SA1428",
+        "ausstat:2016":"SSC41482",
         "gn:id":8639295
     },
     "wof:country":"AU",
-    "wof:geomhash":"238e127ac145a29b72fb138fefa30f0f",
+    "wof:geomhash":"7654ef30ef8ed76e497a95ffa7e50417",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -60,20 +67,21 @@
         }
     ],
     "wof:id":1243171203,
-    "wof:lastmodified":1566603535,
+    "wof:lastmodified":1573705471,
     "wof:name":"Uworra",
     "wof:parent_id":404545197,
     "wof:placetype":"locality",
+    "wof:population":9,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    133.32703999999998,
-    -31.96503,
-    133.32703999999998,
-    -31.96503
+    133.276112,
+    -31.986434,
+    133.457425,
+    -31.940927
 ],
-  "geometry": {"coordinates":[133.32703999999998,-31.96503],"type":"Point"}
+  "geometry": {"coordinates":[[[133.45741599999999,-31.986434],[133.36717100000001,-31.986429],[133.340698,-31.986409],[133.34068199999999,-31.986145],[133.340667,-31.985729],[133.33966899999999,-31.98409],[133.33848399999999,-31.984041],[133.338165,-31.984033],[133.33815999999999,-31.986143],[133.33815899999999,-31.986407],[133.27646100000001,-31.986357],[133.27646300000001,-31.986089],[133.27636999999999,-31.974212],[133.27632,-31.967751],[133.27631700000001,-31.967384],[133.27631500000001,-31.967121],[133.276307,-31.966131],[133.27621400000001,-31.954212],[133.27611200000001,-31.941191],[133.27611400000001,-31.940927],[133.32372599999999,-31.94095],[133.400565,-31.940957],[133.41371899999999,-31.948267],[133.457425,-31.972551],[133.45741599999999,-31.986434]]],"type":"Polygon"}
 }

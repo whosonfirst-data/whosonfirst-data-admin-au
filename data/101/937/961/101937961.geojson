@@ -5,20 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000104,
-    "geom:area_square_m":1222851.260109,
-    "geom:bbox":"123.653880128,-17.743085606,123.664387264,-17.727640326",
+    "geom:area_square_m":1222925.44091,
+    "geom:bbox":"123.65388,-17.743086,123.664387,-17.72764",
     "geom:latitude":-17.735476,
     "geom:longitude":123.659298,
     "iso:country":"AU",
     "lbl:latitude":-17.735394,
     "lbl:longitude":123.659298,
-    "lbl:max_zoom":18.0,
+    "lbl:max_zoom":18,
     "lbl:min_zoom":13.5,
     "mps:latitude":-17.735394,
     "mps:longitude":123.659298,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "mz:min_zoom":12.0,
+    "mz:min_zoom":12,
     "name:eng_x_preferred":[
         "Willare"
     ],
@@ -37,6 +37,7 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681439,
         102191583,
@@ -47,13 +48,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC51594",
         "gp:id":28588018
     },
     "wof:coterminous":[
         404548571
     ],
     "wof:country":"AU",
-    "wof:geomhash":"363d15835f4a486b005b8ecd4112fdec",
+    "wof:geomhash":"65c132617dde185efb8860a8d7a4c15b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -66,20 +68,21 @@
         }
     ],
     "wof:id":101937961,
-    "wof:lastmodified":1566601465,
+    "wof:lastmodified":1573705886,
     "wof:name":"Willare",
     "wof:parent_id":404548571,
     "wof:placetype":"locality",
+    "wof:population":179,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    123.65388012800001,
-    -17.743085606,
-    123.66438726399998,
-    -17.727640326
+    123.65388,
+    -17.743086,
+    123.664387,
+    -17.72764
 ],
-  "geometry": {"coordinates":[[[123.654666304,-17.732757056],[123.65388012800001,-17.7304194515],[123.660218656,-17.727640326],[123.66223606399998,-17.73168598],[123.66379878399998,-17.7363314595],[123.66438726399998,-17.7411728725],[123.658194208,-17.743085606],[123.65596083199999,-17.7380187335],[123.65527094399999,-17.736325225],[123.65438031999999,-17.733680317],[123.654666304,-17.732757056]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[123.65466600000001,-17.732757],[123.65388,-17.730419],[123.660219,-17.72764],[123.66223599999999,-17.731686],[123.663799,-17.736331],[123.664387,-17.741173],[123.65819399999999,-17.743086],[123.655961,-17.738019],[123.655271,-17.736325],[123.65438,-17.73368],[123.65466600000001,-17.732757]]],"type":"Polygon"}
 }

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"130.989131,-12.7035,130.989131,-12.7035",
     "geom:latitude":-12.7035,
     "geom:longitude":130.989131,
@@ -14,11 +14,11 @@
     "lbl:bbox":"130.969131,-12.7235,131.009131,-12.6835",
     "lbl:latitude":-12.7035,
     "lbl:longitude":130.989131,
-    "lbl:max_zoom":18.0,
+    "lbl:max_zoom":18,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "mz:min_zoom":12.0,
+    "mz:min_zoom":12,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Berry Springs"
@@ -48,6 +48,7 @@
     "qs_pg:woe_id":7225824,
     "src:geom":"qs_pg",
     "src:lbl_centroid":"qs_pg",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Northern Territory",
@@ -62,6 +63,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC70030",
         "gp:id":7225824,
         "qs_pg:id":1080377,
         "wd:id":"Q4894825"
@@ -81,10 +83,11 @@
         }
     ],
     "wof:id":1125790907,
-    "wof:lastmodified":1566603449,
+    "wof:lastmodified":1573706136,
     "wof:name":"Berry Springs",
     "wof:parent_id":404549651,
     "wof:placetype":"locality",
+    "wof:population":818,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

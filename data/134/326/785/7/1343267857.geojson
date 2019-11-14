@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"146.03333,-17.63333,146.03333,-17.63333",
     "geom:latitude":-17.63333,
     "geom:longitude":146.03333,
@@ -25,11 +25,11 @@
     "gn:timezone":"Australia/Brisbane",
     "iso:country":"AU",
     "lbl:bbox":"146.01333,-17.65333,146.05333,-17.61333",
-    "lbl:max_zoom":18.0,
+    "lbl:max_zoom":18,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "mz:min_zoom":12.0,
+    "mz:min_zoom":12,
     "name:ceb_x_preferred":[
         "Moresby"
     ],
@@ -49,6 +49,7 @@
         "Moresby"
     ],
     "src:geom":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681463,
         102191583,
@@ -59,10 +60,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC31933",
         "gn:id":2156915
     },
     "wof:country":"AU",
-    "wof:geomhash":"1b2b04b0fc5af8038fee505b385f6499",
+    "wof:geomhash":"9c0c4e36d8f775f76c718d470218d768",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -75,10 +77,11 @@
         }
     ],
     "wof:id":1343267857,
-    "wof:lastmodified":1566600456,
+    "wof:lastmodified":1573704824,
     "wof:name":"Moresby",
     "wof:parent_id":404543261,
     "wof:placetype":"locality",
+    "wof:population":149,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -86,9 +89,9 @@
 },
   "bbox": [
     146.03333,
-    -17.63332999999999,
+    -17.63333,
     146.03333,
-    -17.63332999999999
+    -17.63333
 ],
-  "geometry": {"coordinates":[146.03333000000001,-17.63332999999999],"type":"Point"}
+  "geometry": {"coordinates":[146.03333000000001,-17.63333],"type":"Point"}
 }

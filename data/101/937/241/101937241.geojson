@@ -5,20 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000017,
-    "geom:area_square_m":189152.253089,
-    "geom:bbox":"113.69159952,-24.877890437,113.695854496,-24.8735310415",
+    "geom:area_square_m":189102.72024,
+    "geom:bbox":"113.6916,-24.87789,113.695854,-24.873531",
     "geom:latitude":-24.875829,
     "geom:longitude":113.693709,
     "iso:country":"AU",
     "lbl:latitude":-24.875812,
     "lbl:longitude":113.693681,
-    "lbl:max_zoom":18.0,
+    "lbl:max_zoom":18,
     "lbl:min_zoom":13.5,
     "mps:latitude":-24.875812,
     "mps:longitude":113.693681,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "mz:min_zoom":12.0,
+    "mz:min_zoom":12,
     "name:eng_x_preferred":[
         "Greys Plain"
     ],
@@ -39,6 +39,7 @@
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681439,
         102191583,
@@ -49,6 +50,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC50589",
         "gp:id":28585327,
         "qs_pg:id":1091294
     },
@@ -56,7 +58,7 @@
         404547377
     ],
     "wof:country":"AU",
-    "wof:geomhash":"a3e5a63d19835b7f87a2d7488b6817b5",
+    "wof:geomhash":"eaf1710111b22cc79a720b406bd69edf",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -69,20 +71,21 @@
         }
     ],
     "wof:id":101937241,
-    "wof:lastmodified":1566601473,
+    "wof:lastmodified":1573705653,
     "wof:name":"Greys Plain",
     "wof:parent_id":404547377,
     "wof:placetype":"locality",
+    "wof:population":199,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    113.69159952,
-    -24.877890437,
-    113.69585449599998,
-    -24.8735310415
+    113.6916,
+    -24.87789,
+    113.695854,
+    -24.873531
 ],
-  "geometry": {"coordinates":[[[113.69338652799999,-24.877709433],[113.69159952,-24.8777094515],[113.69160051199999,-24.873653419],[113.69161267199998,-24.8735310415],[113.69330748799999,-24.873896879],[113.694445792,-24.8739207255],[113.695081984,-24.8739129925],[113.69563580799998,-24.8738133515],[113.69585449599998,-24.8749903955],[113.695853536,-24.8778904185],[113.69338652799999,-24.877890437],[113.69338652799999,-24.877709433]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[113.693387,-24.877709],[113.69159999999999,-24.877709],[113.69160100000001,-24.873653],[113.691613,-24.873531],[113.693307,-24.873897],[113.694446,-24.873921],[113.695082,-24.873913],[113.69563599999999,-24.873813],[113.695854,-24.87499],[113.695854,-24.87789],[113.693387,-24.87789],[113.693387,-24.877709]]],"type":"Polygon"}
 }

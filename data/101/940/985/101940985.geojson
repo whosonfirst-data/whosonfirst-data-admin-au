@@ -2,23 +2,24 @@
   "id": 101940985,
   "type": "Feature",
   "properties": {
+    "au-psma:modified":"2019-08-20",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.001015,
-    "geom:area_square_m":11269906.726683,
-    "geom:bbox":"131.127759936,-26.172169936,131.161220544,-26.1407329785",
-    "geom:latitude":-26.156615,
-    "geom:longitude":131.144723,
+    "geom:area":0.003273,
+    "geom:area_square_m":36341520.487812,
+    "geom:bbox":"131.123678,-26.170013,131.216472,-26.088089",
+    "geom:latitude":-26.127662,
+    "geom:longitude":131.17388,
     "iso:country":"AU",
-    "lbl:latitude":-26.15669,
-    "lbl:longitude":131.144723,
-    "lbl:max_zoom":18.0,
+    "lbl:latitude":-26.127662,
+    "lbl:longitude":131.17388,
+    "lbl:max_zoom":18,
     "lbl:min_zoom":13.5,
     "mps:latitude":-26.15669,
     "mps:longitude":131.144723,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "mz:min_zoom":12.0,
+    "mz:min_zoom":12,
     "name:cat_x_preferred":[
         "Amata"
     ],
@@ -60,9 +61,10 @@
     "qs:loc":"Amata",
     "qs:pop":0,
     "qs:source":"SAustralian Bureau Of Statistics: urban areas and localities selection",
-    "src:geom":"quattroshapes",
+    "src:geom":"aus-psma",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "wd:latitude":-26.15,
     "wd:longitude":131.133333,
     "wd:wordcount":853,
@@ -75,6 +77,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "aus-psma":"SA210006277",
+        "ausstat:2016":"SSC40017",
         "fct:id":"0330fd5e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2077816,
         "gp:id":1094054,
@@ -82,7 +86,7 @@
         "wk:page":"Amata, South Australia"
     },
     "wof:country":"AU",
-    "wof:geomhash":"43913527d7c6e49c1522657f3f8096f3",
+    "wof:geomhash":"868ce00c405d84bfa8280875984ef0f1",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -97,20 +101,21 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566601557,
+    "wof:lastmodified":1573705110,
     "wof:name":"Amata",
     "wof:parent_id":102049597,
     "wof:placetype":"locality",
+    "wof:population":455,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    131.127759936,
-    -26.172169936,
-    131.161220544,
-    -26.1407329785
+    131.123678,
+    -26.170013,
+    131.216472,
+    -26.088089
 ],
-  "geometry": {"coordinates":[[[131.14692854399999,-26.141251848],[131.15304848,-26.141281818],[131.161116448,-26.141199752],[131.16117846399999,-26.1418917445],[131.161220544,-26.172169936],[131.14748867200001,-26.172052054],[131.139358784,-26.1720121125],[131.12775993599999,-26.171517182],[131.12828889599999,-26.163272139],[131.128279776,-26.1407329785],[131.136798688,-26.141201935],[131.14365862400001,-26.141385899],[131.14692854399999,-26.141251848]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[131.216466,-26.119144],[131.141234,-26.170013],[131.12367800000001,-26.148533],[131.19466399999999,-26.088089],[131.21647200000001,-26.095501],[131.216466,-26.119144]]],"type":"Polygon"}
 }

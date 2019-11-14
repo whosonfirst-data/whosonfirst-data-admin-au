@@ -2,23 +2,24 @@
   "id": 1125879293,
   "type": "Feature",
   "properties": {
+    "au-psma:modified":"2019-08-20",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"145.296615,-36.439513,145.296615,-36.439513",
-    "geom:latitude":-36.439513,
-    "geom:longitude":145.296615,
+    "geom:area":0.001572,
+    "geom:area_square_m":15641909.907137,
+    "geom:bbox":"145.277477,-36.469616,145.31361,-36.410863",
+    "geom:latitude":-36.439634,
+    "geom:longitude":145.293316,
     "gn:country":null,
     "iso:country":"AU",
     "lbl:bbox":"145.276615,-36.459513,145.316615,-36.419513",
-    "lbl:latitude":-36.439513,
-    "lbl:longitude":145.296615,
-    "lbl:max_zoom":18.0,
+    "lbl:latitude":-36.439634,
+    "lbl:longitude":145.293316,
+    "lbl:max_zoom":18,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "mz:min_zoom":12.0,
+    "mz:min_zoom":12,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Tatura East"
@@ -40,8 +41,9 @@
     "qs_pg:qs_pg_placetype_gp":"Town",
     "qs_pg:woe_adm0":23424748,
     "qs_pg:woe_id":28589096,
-    "src:geom":"qs_pg",
-    "src:lbl_centroid":"qs_pg",
+    "src:geom":"aus-psma",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Victoria",
@@ -57,13 +59,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "aus-psma":"VIC2470",
+        "ausstat:2016":"SSC22456",
         "gp:id":28589096,
         "qs_pg:id":528856,
         "wd:id":"Q29364271"
     },
     "wof:country":"AU",
     "wof:created":1497294711,
-    "wof:geomhash":"ec9cf774b737750163b39acff49c6b93",
+    "wof:geomhash":"6173707f446df1031696b76a569a6480",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -77,20 +81,21 @@
         }
     ],
     "wof:id":1125879293,
-    "wof:lastmodified":1566603342,
+    "wof:lastmodified":1573704340,
     "wof:name":"Tatura East",
     "wof:parent_id":404540425,
     "wof:placetype":"locality",
+    "wof:population":143,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    145.296615,
-    -36.439513,
-    145.296615,
-    -36.439513
+    145.277477,
+    -36.469616,
+    145.31361,
+    -36.410863
 ],
-  "geometry": {"coordinates":[145.296615,-36.439513],"type":"Point"}
+  "geometry": {"coordinates":[[[145.277477,-36.410863],[145.29541,-36.4109],[145.29541399999999,-36.425516],[145.31361000000001,-36.425531],[145.313592,-36.437986],[145.313582,-36.440146],[145.31357800000001,-36.457793],[145.29542699999999,-36.457831],[145.29540399999999,-36.469329],[145.29540299999999,-36.469555],[145.29540299999999,-36.469616],[145.29534799999999,-36.469593],[145.277557,-36.462211],[145.277502,-36.462188],[145.27751599999999,-36.454845],[145.27751699999999,-36.45484],[145.27751000000001,-36.440155],[145.27751000000001,-36.440137],[145.277492,-36.425512],[145.277492,-36.425505],[145.277477,-36.410863]]],"type":"Polygon"}
 }

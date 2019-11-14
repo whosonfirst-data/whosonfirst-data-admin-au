@@ -2,13 +2,14 @@
   "id": 1309802973,
   "type": "Feature",
   "properties": {
+    "au-psma:modified":"2019-08-20",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"139.3,-34.76667,139.3,-34.76667",
-    "geom:latitude":-34.76667,
-    "geom:longitude":139.3,
+    "geom:area":0.004946,
+    "geom:area_square_m":50244818.757866,
+    "geom:bbox":"139.243496,-34.78471,139.346582,-34.714288",
+    "geom:latitude":-34.756334,
+    "geom:longitude":139.29417,
     "gn:admin1_code":"5",
     "gn:admin2_code":"44210",
     "gn:asciiname":"Angas Valley",
@@ -25,12 +26,16 @@
     "gn:timezone":"Australia/Adelaide",
     "iso:country":"AU",
     "lbl:bbox":"139.28,-34.78667,139.32,-34.74667",
-    "lbl:max_zoom":18.0,
+    "lbl:latitude":-34.756334,
+    "lbl:longitude":139.29417,
+    "lbl:max_zoom":18,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "mz:min_zoom":12,
+    "src:geom":"aus-psma",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681519,
         102191583,
@@ -41,10 +46,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "aus-psma":"SA25",
+        "ausstat:2016":"SSC40028",
         "gn:id":2077728
     },
     "wof:country":"AU",
-    "wof:geomhash":"e977763baf643f5d58871d7217d0ab23",
+    "wof:geomhash":"f9917f68144be581a3e9669c9651c7ef",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,20 +64,21 @@
         }
     ],
     "wof:id":1309802973,
-    "wof:lastmodified":1566601920,
+    "wof:lastmodified":1573705112,
     "wof:name":"Angas Valley",
     "wof:parent_id":404545051,
     "wof:placetype":"locality",
+    "wof:population":47,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    139.3,
-    -34.76667,
-    139.3,
-    -34.76667
+    139.243496,
+    -34.78471,
+    139.346582,
+    -34.714288
 ],
-  "geometry": {"coordinates":[139.30000000000001,-34.76667],"type":"Point"}
+  "geometry": {"coordinates":[[[139.33531099999999,-34.754611],[139.34658200000001,-34.773636],[139.33914899999999,-34.781839],[139.337941,-34.784274],[139.33800600000001,-34.784601],[139.336546,-34.784604],[139.30959899999999,-34.784663],[139.30951899999999,-34.784664],[139.29807299999999,-34.78467],[139.27166600000001,-34.784691],[139.25366399999999,-34.78471],[139.253623,-34.770213],[139.25374500000001,-34.770213],[139.24358899999999,-34.755492],[139.24349599999999,-34.755492],[139.24658600000001,-34.742818],[139.269676,-34.731184],[139.272144,-34.729936],[139.27465000000001,-34.729135],[139.275755,-34.729043],[139.277523,-34.728352],[139.278648,-34.728299],[139.28007700000001,-34.727969],[139.281868,-34.726474],[139.31144900000001,-34.714336],[139.31153900000001,-34.714288],[139.33531099999999,-34.754611]]],"type":"Polygon"}
 }

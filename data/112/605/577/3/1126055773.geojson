@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"150.344853,-34.590929,150.344853,-34.590929",
     "geom:latitude":-34.590929,
     "geom:longitude":150.344853,
@@ -14,11 +14,11 @@
     "lbl:bbox":"150.324853,-34.610929,150.364853,-34.570929",
     "lbl:latitude":-34.590929,
     "lbl:longitude":150.344853,
-    "lbl:max_zoom":18.0,
+    "lbl:max_zoom":18,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "mz:min_zoom":12.0,
+    "mz:min_zoom":12,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Werai"
@@ -48,6 +48,7 @@
     "qs_pg:woe_id":28587922,
     "src:geom":"qs_pg",
     "src:lbl_centroid":"qs_pg",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"New South Wales",
@@ -63,6 +64,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC14229",
         "gp:id":28587922,
         "qs_pg:id":1062065,
         "wd:id":"Q7983133"
@@ -83,10 +85,11 @@
         }
     ],
     "wof:id":1126055773,
-    "wof:lastmodified":1566603287,
+    "wof:lastmodified":1573703675,
     "wof:name":"Werai",
     "wof:parent_id":404226959,
     "wof:placetype":"locality",
+    "wof:population":90,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

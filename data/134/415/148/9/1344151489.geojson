@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"141.43333,-37.61667,141.43333,-37.61667",
     "geom:latitude":-37.61667,
     "geom:longitude":141.43333,
@@ -25,11 +25,11 @@
     "gn:timezone":"Australia/Melbourne",
     "iso:country":"AU",
     "lbl:bbox":"141.41333,-37.63667,141.45333,-37.59667",
-    "lbl:max_zoom":18.0,
+    "lbl:max_zoom":18,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "mz:min_zoom":12.0,
+    "mz:min_zoom":12,
     "name:ceb_x_preferred":[
         "Sandford"
     ],
@@ -58,6 +58,7 @@
         "\u0421\u0435\u043d\u0434\u0444\u043e\u0440\u0434"
     ],
     "src:geom":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681497,
         102191583,
@@ -68,6 +69,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC22219",
         "gn:id":2150486
     },
     "wof:country":"AU",
@@ -84,10 +86,11 @@
         }
     ],
     "wof:id":1344151489,
-    "wof:lastmodified":1566600401,
+    "wof:lastmodified":1573704281,
     "wof:name":"Sandford",
     "wof:parent_id":404540125,
     "wof:placetype":"locality",
+    "wof:population":144,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

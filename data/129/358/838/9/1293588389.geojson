@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"140.73673,-32.13552,140.73673,-32.13552",
     "geom:latitude":-32.13552,
     "geom:longitude":140.73673,
@@ -24,15 +24,16 @@
     "gn:timezone":"Australia/Adelaide",
     "iso:country":"AU",
     "lbl:bbox":"140.71673,-32.15552,140.75673,-32.11552",
-    "lbl:max_zoom":18.0,
+    "lbl:max_zoom":18,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "mz:min_zoom":12.0,
+    "mz:min_zoom":12,
     "name:rus_x_preferred":[
         "\u041c\u0438\u043d\u0433\u044d\u0440\u0438"
     ],
     "src:geom":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681519,
         102191583,
@@ -42,6 +43,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC40877",
         "gn:id":2157558
     },
     "wof:country":"AU",
@@ -57,10 +59,11 @@
         }
     ],
     "wof:id":1293588389,
-    "wof:lastmodified":1566600799,
+    "wof:lastmodified":1573705317,
     "wof:name":"Mingary",
     "wof:parent_id":404546687,
     "wof:placetype":"locality",
+    "wof:population":75,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

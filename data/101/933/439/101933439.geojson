@@ -2,24 +2,25 @@
   "id": 101933439,
   "type": "Feature",
   "properties": {
+    "au-psma:modified":"2019-08-20",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.000268,
-    "geom:area_square_m":2614719.517588,
-    "geom:bbox":"144.734702624,-37.7960461095,144.754777696,-37.779758025",
-    "geom:latitude":-37.787928,
-    "geom:longitude":144.744783,
+    "geom:area":0.001386,
+    "geom:area_square_m":13547716.00699,
+    "geom:bbox":"144.716344,-37.796046,144.757201,-37.750753",
+    "geom:latitude":-37.775489,
+    "geom:longitude":144.736583,
     "gn:population":911,
     "iso:country":"AU",
-    "lbl:latitude":-37.787925,
-    "lbl:longitude":144.744794,
-    "lbl:max_zoom":17.0,
+    "lbl:latitude":-37.775489,
+    "lbl:longitude":144.736583,
+    "lbl:max_zoom":17,
     "lbl:min_zoom":12.5,
     "mps:latitude":-37.787925,
     "mps:longitude":144.744794,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "mz:min_zoom":11.0,
+    "mz:min_zoom":11,
     "name:eng_x_preferred":[
         "Ravenhall"
     ],
@@ -35,12 +36,12 @@
     "qs:loc":"Ravenhall",
     "qs:pop":0,
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
-    "src:geom":"quattroshapes",
+    "src:geom":"aus-psma",
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"ausstat:2016",
     "wd:wordcount":216,
     "wof:belongsto":[
         85681497,
@@ -52,13 +53,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "aus-psma":"VIC2138",
+        "ausstat:2016":"SSC22129",
         "gn:id":9972587,
         "gp:id":28586985,
         "qs_pg:id":1024561,
         "wd:id":"Q7296449"
     },
     "wof:country":"AU",
-    "wof:geomhash":"059fcd4dbcb994a2f6811a493f799b4e",
+    "wof:geomhash":"e6b643cb36083d65714cc15322fc54af",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -71,11 +74,11 @@
         }
     ],
     "wof:id":101933439,
-    "wof:lastmodified":1566601763,
+    "wof:lastmodified":1573704258,
     "wof:name":"Ravenhall",
     "wof:parent_id":102048697,
     "wof:placetype":"locality",
-    "wof:population":911,
+    "wof:population":1157,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
@@ -83,10 +86,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    144.734702624,
-    -37.7960461095,
-    144.754777696,
-    -37.779758025
+    144.716344,
+    -37.796046,
+    144.757201,
+    -37.750753
 ],
-  "geometry": {"coordinates":[[[144.75283609600001,-37.7960461095],[144.73470262399999,-37.794439551],[144.73682787199999,-37.7798863225],[144.736853696,-37.779758025],[144.74573699200002,-37.7805920049999],[144.75477769599999,-37.781398827],[144.75465372799999,-37.7823388675],[144.75429584,-37.785035039],[144.754035808,-37.786996927],[144.75395427199996,-37.7876131435],[144.75383792,-37.7884919675],[144.75365894399999,-37.789838009],[144.753421664,-37.7916302705],[144.75283609600001,-37.7960461095]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[144.72371000000001,-37.750753],[144.73686699999999,-37.755196],[144.741218,-37.756682],[144.74416600000001,-37.757688],[144.74704500000001,-37.758838],[144.748378,-37.759443],[144.75720100000001,-37.763454],[144.75719000000001,-37.763543],[144.756449,-37.769162],[144.75615500000001,-37.771336],[144.755855,-37.773584],[144.75479000000001,-37.781309],[144.75479000000001,-37.78131],[144.75477799999999,-37.781399],[144.752826,-37.796046],[144.73458600000001,-37.794519],[144.729783,-37.794095],[144.71634399999999,-37.792833],[144.71849900000001,-37.778031],[144.72108299999999,-37.759769],[144.722013,-37.760173],[144.72371000000001,-37.750753]]],"type":"Polygon"}
 }

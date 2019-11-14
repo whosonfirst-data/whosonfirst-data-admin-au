@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"146.66667,-37.93333,146.66667,-37.93333",
     "geom:latitude":-37.93333,
     "geom:longitude":146.66667,
@@ -25,12 +25,13 @@
     "gn:timezone":"Australia/Melbourne",
     "iso:country":"AU",
     "lbl:bbox":"146.64667,-37.95333,146.68667,-37.91333",
-    "lbl:max_zoom":18.0,
+    "lbl:max_zoom":18,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "mz:min_zoom":12.0,
+    "mz:min_zoom":12,
     "src:geom":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681497,
         102191583,
@@ -41,11 +42,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC22241",
         "gn:id":2149951,
         "wk:page":"Seaton%2C_Victoria"
     },
     "wof:country":"AU",
-    "wof:geomhash":"cd1bedac594ba5c050a29ce3ae3f8d49",
+    "wof:geomhash":"94429373d3c3de8c1b108c30752b8c67",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,20 +60,21 @@
         }
     ],
     "wof:id":1344053875,
-    "wof:lastmodified":1566600447,
+    "wof:lastmodified":1573704288,
     "wof:name":"Seaton",
     "wof:parent_id":404540159,
     "wof:placetype":"locality",
+    "wof:population":157,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    146.66666999999995,
+    146.66667,
     -37.93333,
-    146.66666999999995,
+    146.66667,
     -37.93333
 ],
-  "geometry": {"coordinates":[146.66666999999995,-37.93333],"type":"Point"}
+  "geometry": {"coordinates":[146.66667000000001,-37.93333],"type":"Point"}
 }

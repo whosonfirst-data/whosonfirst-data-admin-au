@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"144.878425,-37.591247,144.878425,-37.591247",
     "geom:latitude":-37.591247,
     "geom:longitude":144.878425,
@@ -14,11 +14,11 @@
     "lbl:bbox":"144.858425,-37.611247,144.898425,-37.571247",
     "lbl:latitude":-37.591247,
     "lbl:longitude":144.878425,
-    "lbl:max_zoom":18.0,
+    "lbl:max_zoom":18,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "mz:min_zoom":12.0,
+    "mz:min_zoom":12,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Yuroke"
@@ -42,6 +42,7 @@
     "qs_pg:woe_id":22722099,
     "src:geom":"qs_pg",
     "src:lbl_centroid":"qs_pg",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Victoria",
@@ -57,6 +58,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC22926",
         "gp:id":22722099,
         "qs_pg:id":43477,
         "wd:id":"Q8061752"
@@ -77,10 +79,11 @@
         }
     ],
     "wof:id":1126002045,
-    "wof:lastmodified":1566603403,
+    "wof:lastmodified":1573704438,
     "wof:name":"Yuroke",
     "wof:parent_id":404540939,
     "wof:placetype":"locality",
+    "wof:population":142,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

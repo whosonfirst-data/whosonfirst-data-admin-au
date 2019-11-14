@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"151.91894,-24.629,151.91894,-24.629",
     "geom:latitude":-24.629,
     "geom:longitude":151.91894,
@@ -25,11 +25,11 @@
     "gn:timezone":"Australia/Brisbane",
     "iso:country":"AU",
     "lbl:bbox":"151.89894,-24.649,151.93894,-24.609",
-    "lbl:max_zoom":18.0,
+    "lbl:max_zoom":18,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "mz:min_zoom":12.0,
+    "mz:min_zoom":12,
     "name:ceb_x_preferred":[
         "Rosedale"
     ],
@@ -67,6 +67,7 @@
         "Rosedale"
     ],
     "src:geom":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681463,
         102191583,
@@ -77,6 +78,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC32491",
         "gn:id":2151109
     },
     "wof:country":"AU",
@@ -93,10 +95,11 @@
         }
     ],
     "wof:id":1226652157,
-    "wof:lastmodified":1566603625,
+    "wof:lastmodified":1573704946,
     "wof:name":"Rosedale",
     "wof:parent_id":404543959,
     "wof:placetype":"locality",
+    "wof:population":438,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

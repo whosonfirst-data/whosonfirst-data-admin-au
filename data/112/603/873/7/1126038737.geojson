@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"146.849398,-36.068579,146.849398,-36.068579",
     "geom:latitude":-36.068579,
     "geom:longitude":146.849398,
@@ -14,11 +14,11 @@
     "lbl:bbox":"146.829398,-36.088579,146.869398,-36.048579",
     "lbl:latitude":-36.068579,
     "lbl:longitude":146.849398,
-    "lbl:max_zoom":18.0,
+    "lbl:max_zoom":18,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "mz:min_zoom":12.0,
+    "mz:min_zoom":12,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Splitters Creek"
@@ -45,6 +45,7 @@
     "qs_pg:woe_id":28589054,
     "src:geom":"qs_pg",
     "src:lbl_centroid":"qs_pg",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"New South Wales",
@@ -60,6 +61,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC13610",
         "gp:id":28589054,
         "qs_pg:id":968037,
         "wd:id":"Q3493697"
@@ -80,10 +82,11 @@
         }
     ],
     "wof:id":1126038737,
-    "wof:lastmodified":1566603294,
+    "wof:lastmodified":1573703530,
     "wof:name":"Splitters Creek",
     "wof:parent_id":404226209,
     "wof:placetype":"locality",
+    "wof:population":267,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

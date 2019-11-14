@@ -6,7 +6,7 @@
     "edtf:deprecated":"2019-02-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"119.38894,-34.3846,119.38894,-34.3846",
     "geom:latitude":-34.3846,
     "geom:longitude":119.38894,
@@ -28,6 +28,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":0,
     "src:geom":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681439,
         102191583,
@@ -38,6 +39,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC50505",
         "gn:id":11072229
     },
     "wof:country":"AU",
@@ -54,10 +56,11 @@
         }
     ],
     "wof:id":1326926311,
-    "wof:lastmodified":1550753746,
+    "wof:lastmodified":1573705633,
     "wof:name":"Fitzgerald River National Park",
     "wof:parent_id":404547271,
     "wof:placetype":"locality",
+    "wof:population":0,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

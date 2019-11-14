@@ -5,17 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"150.176583,-35.709068,150.176583,-35.709068",
     "geom:latitude":-35.709068,
     "geom:longitude":150.176583,
     "iso:country":"AU",
     "lbl:bbox":"150.118673005,-35.836894001,150.265743806,-35.657263996",
-    "lbl:max_zoom":18.0,
+    "lbl:max_zoom":18,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "mz:min_zoom":12.0,
+    "mz:min_zoom":12,
     "name:ceb_x_preferred":[
         "Batemans Bay"
     ],
@@ -54,6 +54,7 @@
     ],
     "src:geom":"aus-psma",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681545,
         102191583,
@@ -64,7 +65,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "aus-psma:pid":"SUA16_1004"
+        "aus-psma:pid":"SUA16_1004",
+        "ausstat:2016":"SSC10229"
     },
     "wof:coterminous":[
         1376953377
@@ -89,10 +91,11 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566601844,
+    "wof:lastmodified":1573702688,
     "wof:name":"Batemans Bay",
     "wof:parent_id":404221721,
     "wof:placetype":"locality",
+    "wof:population":1530,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

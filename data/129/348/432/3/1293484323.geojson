@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"144.63368,-37.14919,144.63368,-37.14919",
     "geom:latitude":-37.14919,
     "geom:longitude":144.63368,
@@ -25,15 +25,16 @@
     "gn:timezone":"Australia/Melbourne",
     "iso:country":"AU",
     "lbl:bbox":"144.61368,-37.16919,144.65368,-37.12919",
-    "lbl:max_zoom":18.0,
+    "lbl:max_zoom":18,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "mz:min_zoom":12.0,
+    "mz:min_zoom":12,
     "name:gle_x_preferred":[
         "Baynton"
     ],
     "src:geom":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681497,
         102191583,
@@ -44,6 +45,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC20171",
         "gn:id":2176572,
         "wk:page":"Baynton%2C_Victoria"
     },
@@ -61,10 +63,11 @@
         }
     ],
     "wof:id":1293484323,
-    "wof:lastmodified":1566600777,
+    "wof:lastmodified":1573703787,
     "wof:name":"Baynton",
     "wof:parent_id":404537695,
     "wof:placetype":"locality",
+    "wof:population":107,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

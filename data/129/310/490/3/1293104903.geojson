@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"152.18865,-24.75129,152.18865,-24.75129",
     "geom:latitude":-24.75129,
     "geom:longitude":152.18865,
@@ -25,11 +25,11 @@
     "gn:timezone":"Australia/Brisbane",
     "iso:country":"AU",
     "lbl:bbox":"152.16865,-24.77129,152.20865,-24.73129",
-    "lbl:max_zoom":18.0,
+    "lbl:max_zoom":18,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "mz:min_zoom":12.0,
+    "mz:min_zoom":12,
     "name:bel_x_preferred":[
         "\u0412\u0435\u0440\u0430\u0441\u043e\u0432\u0430\u044f \u043f\u0443\u0441\u0442\u043a\u0430"
     ],
@@ -88,6 +88,7 @@
         "\u0412\u0435\u0440\u0435\u0441\u043e\u0432\u0435 \u043f\u0443\u0441\u0442\u0438\u0449\u0435"
     ],
     "src:geom":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681463,
         102191583,
@@ -98,6 +99,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC31925",
         "gn:id":2156993
     },
     "wof:country":"AU",
@@ -114,10 +116,11 @@
         }
     ],
     "wof:id":1293104903,
-    "wof:lastmodified":1566600822,
+    "wof:lastmodified":1573704822,
     "wof:name":"Moorland",
     "wof:parent_id":404543249,
     "wof:placetype":"locality",
+    "wof:population":270,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

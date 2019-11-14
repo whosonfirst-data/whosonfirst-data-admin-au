@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"138.9,-33.16667,138.9,-33.16667",
     "geom:latitude":-33.16667,
     "geom:longitude":138.9,
@@ -16,11 +16,11 @@
     "lbl:bbox":"138.88,-33.18667,138.92,-33.14667",
     "lbl:latitude":-33.16667,
     "lbl:longitude":138.9,
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.0,
+    "lbl:max_zoom":18,
+    "lbl:min_zoom":13,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "mz:min_zoom":11.0,
+    "mz:min_zoom":11,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Terowie"
@@ -56,7 +56,7 @@
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
     "src:lbl_centroid":"qs_pg",
-    "src:population":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681519,
         102191583,
@@ -67,6 +67,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC41425",
         "gn:id":2060413,
         "qs_pg:id":571844,
         "wd:id":"Q2249626"
@@ -86,11 +87,11 @@
         }
     ],
     "wof:id":1125829195,
-    "wof:lastmodified":1566603426,
+    "wof:lastmodified":1573705458,
     "wof:name":"Terowie",
     "wof:parent_id":404546411,
     "wof:placetype":"locality",
-    "wof:population":144,
+    "wof:population":131,
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],

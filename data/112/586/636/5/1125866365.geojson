@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"135.749205,-30.96791,135.749205,-30.96791",
     "geom:latitude":-30.96791,
     "geom:longitude":135.749205,
@@ -14,11 +14,11 @@
     "lbl:bbox":"135.729205,-30.98791,135.769205,-30.94791",
     "lbl:latitude":-30.96791,
     "lbl:longitude":135.749205,
-    "lbl:max_zoom":18.0,
+    "lbl:max_zoom":18,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "mz:min_zoom":12.0,
+    "mz:min_zoom":12,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Glendambo"
@@ -48,6 +48,7 @@
     "qs_pg:woe_id":1102280,
     "src:geom":"qs_pg",
     "src:lbl_centroid":"qs_pg",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"South Australia",
@@ -61,6 +62,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC40499",
         "gp:id":1102280,
         "qs_pg:id":1110313,
         "wd:id":"Q5568402"
@@ -79,10 +81,11 @@
         }
     ],
     "wof:id":1125866365,
-    "wof:lastmodified":1566603315,
+    "wof:lastmodified":1573705228,
     "wof:name":"Glendambo",
     "wof:parent_id":404545377,
     "wof:placetype":"locality",
+    "wof:population":0,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

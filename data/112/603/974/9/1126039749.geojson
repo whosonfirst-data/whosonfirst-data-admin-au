@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"145.93333,-41.16667,145.93333,-41.16667",
     "geom:latitude":-41.16667,
     "geom:longitude":145.93333,
@@ -16,11 +16,11 @@
     "lbl:bbox":"145.91333,-41.18667,145.95333,-41.14667",
     "lbl:latitude":-41.16667,
     "lbl:longitude":145.93333,
-    "lbl:max_zoom":17.0,
+    "lbl:max_zoom":17,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "mz:min_zoom":11.0,
+    "mz:min_zoom":11,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Natone"
@@ -45,7 +45,7 @@
     "qs_pg:woe_id":1097714,
     "src:geom":"qs_pg",
     "src:lbl_centroid":"qs_pg",
-    "src:population":"geonames",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Tasmania",
@@ -60,6 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC60441",
         "gn:id":2155656,
         "gp:id":1097714,
         "qs_pg:id":969033
@@ -79,11 +80,11 @@
         }
     ],
     "wof:id":1126039749,
-    "wof:lastmodified":1566603298,
+    "wof:lastmodified":1573706036,
     "wof:name":"Natone",
     "wof:parent_id":404549213,
     "wof:placetype":"locality",
-    "wof:population":577,
+    "wof:population":281,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],

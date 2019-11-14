@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"146.89833,-41.19722,146.89833,-41.19722",
     "geom:latitude":-41.19722,
     "geom:longitude":146.89833,
@@ -16,11 +16,11 @@
     "lbl:bbox":"146.87833,-41.21722,146.91833,-41.17722",
     "lbl:latitude":-41.19722,
     "lbl:longitude":146.89833,
-    "lbl:max_zoom":17.0,
+    "lbl:max_zoom":17,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "mz:min_zoom":11.0,
+    "mz:min_zoom":11,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Kayena"
@@ -47,7 +47,7 @@
     "qs_pg:woe_id":1096548,
     "src:geom":"qs_pg",
     "src:lbl_centroid":"qs_pg",
-    "src:population":"geonames",
+    "src:population":"ausstat:2016",
     "woe:adm0_id":23424748,
     "woe:name_adm0":"Australia",
     "woe:name_adm1":"Tasmania",
@@ -62,6 +62,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC60295",
         "gn:id":2205745,
         "gp:id":1096548,
         "qs_pg:id":1081013
@@ -81,11 +82,11 @@
         }
     ],
     "wof:id":1125794251,
-    "wof:lastmodified":1566603448,
+    "wof:lastmodified":1573705991,
     "wof:name":"Kayena",
     "wof:parent_id":404549053,
     "wof:placetype":"locality",
-    "wof:population":328,
+    "wof:population":219,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],

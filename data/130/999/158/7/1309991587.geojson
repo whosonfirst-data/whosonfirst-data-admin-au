@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"121.11697,-30.85199,121.11697,-30.85199",
     "geom:latitude":-30.85199,
     "geom:longitude":121.11697,
@@ -25,15 +25,16 @@
     "gn:timezone":"Australia/Perth",
     "iso:country":"AU",
     "lbl:bbox":"121.09697,-30.87199,121.13697,-30.83199",
-    "lbl:max_zoom":18.0,
+    "lbl:max_zoom":18,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "mz:min_zoom":12.0,
+    "mz:min_zoom":12,
     "name:eng_x_preferred":[
         "Mount Burges"
     ],
     "src:geom":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681439,
         102191583,
@@ -44,6 +45,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC50996",
         "gn:id":8648173
     },
     "wof:country":"AU",
@@ -60,10 +62,11 @@
         }
     ],
     "wof:id":1309991587,
-    "wof:lastmodified":1566601909,
+    "wof:lastmodified":1573705750,
     "wof:name":"Mount Burges",
     "wof:parent_id":404547859,
     "wof:placetype":"locality",
+    "wof:population":96,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],

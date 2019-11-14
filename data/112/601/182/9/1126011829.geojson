@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"146.48333,-33.11667,146.48333,-33.11667",
     "geom:latitude":-33.11667,
     "geom:longitude":146.48333,
@@ -16,11 +16,11 @@
     "lbl:bbox":"146.46333,-33.13667,146.50333,-33.09667",
     "lbl:latitude":-33.11667,
     "lbl:longitude":146.48333,
-    "lbl:max_zoom":17.0,
+    "lbl:max_zoom":17,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "mz:min_zoom":11.0,
+    "mz:min_zoom":11,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Euabalong"
@@ -50,7 +50,7 @@
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
     "src:lbl_centroid":"qs_pg",
-    "src:population":"geonames",
+    "src:population":"ausstat:2016",
     "wof:belongsto":[
         85681545,
         102191583,
@@ -61,6 +61,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:2016":"SSC11449",
         "gn:id":2167174,
         "qs_pg:id":572969,
         "wd:id":"Q21910728"
@@ -80,11 +81,11 @@
         }
     ],
     "wof:id":1126011829,
-    "wof:lastmodified":1566603401,
+    "wof:lastmodified":1573702989,
     "wof:name":"Euabalong",
     "wof:parent_id":404222723,
     "wof:placetype":"locality",
-    "wof:population":212,
+    "wof:population":188,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
