@@ -173,7 +173,8 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":590,
@@ -196,6 +197,10 @@
         404541483
     ],
     "wof:country":"AU",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "naturalearth"
+    ],
     "wof:geomhash":"16a5c0352b5052ea540f25a6ba890d32",
     "wof:hierarchy":[
         {
@@ -209,7 +214,7 @@
         }
     ],
     "wof:id":101934049,
-    "wof:lastmodified":1566601710,
+    "wof:lastmodified":1582313036,
     "wof:name":"Bundaberg North",
     "wof:parent_id":404541483,
     "wof:placetype":"locality",

@@ -158,7 +158,8 @@
     "qs:source":"SAustralian Bureau Of Statistics: urban areas and localities selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -182,6 +183,10 @@
         "wk:page":"Bicheno, Tasmania"
     },
     "wof:country":"AU",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "naturalearth"
+    ],
     "wof:geomhash":"3966e2c0baafb6c660f3b996545ee9b0",
     "wof:hierarchy":[
         {
@@ -195,7 +200,7 @@
         }
     ],
     "wof:id":101941367,
-    "wof:lastmodified":1566601513,
+    "wof:lastmodified":1582313007,
     "wof:name":"Bicheno",
     "wof:parent_id":404548725,
     "wof:placetype":"locality",

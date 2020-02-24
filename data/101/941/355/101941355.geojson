@@ -170,7 +170,8 @@
     "qs:source":"SAustralian Bureau Of Statistics: urban areas and localities selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -195,6 +196,10 @@
         "wk:page":"Wyndham, Western Australia"
     },
     "wof:country":"AU",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "naturalearth"
+    ],
     "wof:geomhash":"a41d07a7b7e8c886283ba447b97545aa",
     "wof:hierarchy":[
         {
@@ -211,7 +216,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566601498,
+    "wof:lastmodified":1582313003,
     "wof:name":"Wyndham",
     "wof:parent_id":404548627,
     "wof:placetype":"locality",

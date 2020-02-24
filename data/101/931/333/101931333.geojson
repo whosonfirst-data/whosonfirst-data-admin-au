@@ -186,7 +186,8 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -214,6 +215,10 @@
         404225113
     ],
     "wof:country":"AU",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "naturalearth"
+    ],
     "wof:geomhash":"f785b9a5b48bd109a226f44210424084",
     "wof:hierarchy":[
         {
@@ -230,7 +235,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566601206,
+    "wof:lastmodified":1582312965,
     "wof:name":"Mudgee",
     "wof:parent_id":404225113,
     "wof:placetype":"locality",

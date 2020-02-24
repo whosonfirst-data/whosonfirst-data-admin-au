@@ -159,7 +159,8 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -187,6 +188,10 @@
         404542581
     ],
     "wof:country":"AU",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "naturalearth"
+    ],
     "wof:geomhash":"4663e7ebc133c47e59b6f43fbd7ed0e1",
     "wof:hierarchy":[
         {
@@ -203,7 +208,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566601723,
+    "wof:lastmodified":1582313037,
     "wof:name":"Hughenden",
     "wof:parent_id":404542581,
     "wof:placetype":"locality",

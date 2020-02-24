@@ -273,7 +273,8 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":265,
@@ -296,6 +297,10 @@
         404543523
     ],
     "wof:country":"AU",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "naturalearth"
+    ],
     "wof:geomhash":"6c95f6a5a3e65dfb915c21e6c159eda6",
     "wof:hierarchy":[
         {
@@ -309,7 +314,7 @@
         }
     ],
     "wof:id":101935009,
-    "wof:lastmodified":1566601664,
+    "wof:lastmodified":1582313031,
     "wof:name":"Newtown",
     "wof:parent_id":404543523,
     "wof:placetype":"locality",

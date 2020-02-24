@@ -174,7 +174,8 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -202,6 +203,10 @@
         404547261
     ],
     "wof:country":"AU",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "naturalearth"
+    ],
     "wof:geomhash":"04b41c8935205045614ac29653f2a9c0",
     "wof:hierarchy":[
         {
@@ -218,7 +223,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566601465,
+    "wof:lastmodified":1582313000,
     "wof:name":"Exmouth",
     "wof:parent_id":404547261,
     "wof:placetype":"locality",

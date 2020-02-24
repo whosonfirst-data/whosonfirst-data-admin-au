@@ -165,7 +165,8 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -193,6 +194,10 @@
         404547771
     ],
     "wof:country":"AU",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "naturalearth"
+    ],
     "wof:geomhash":"dc328cd78d6c21bdabbe6195ebc45487",
     "wof:hierarchy":[
         {
@@ -209,7 +214,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566601474,
+    "wof:lastmodified":1582313001,
     "wof:name":"Meekatharra",
     "wof:parent_id":404547771,
     "wof:placetype":"locality",

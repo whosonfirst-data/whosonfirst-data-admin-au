@@ -163,7 +163,8 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -188,6 +189,10 @@
         "wk:page":"Mount Magnet, Western Australia"
     },
     "wof:country":"AU",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "naturalearth"
+    ],
     "wof:geomhash":"54569244a98e673110580b1edd5f22a0",
     "wof:hierarchy":[
         {
@@ -204,7 +209,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566601460,
+    "wof:lastmodified":1582313000,
     "wof:name":"Mount Magnet",
     "wof:parent_id":404547879,
     "wof:placetype":"locality",

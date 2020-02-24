@@ -210,7 +210,8 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
@@ -232,6 +233,10 @@
         404543947
     ],
     "wof:country":"AU",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "naturalearth"
+    ],
     "wof:geomhash":"3e847ecb41676961e41eb2a8611b5ebc",
     "wof:hierarchy":[
         {
@@ -245,7 +250,7 @@
         }
     ],
     "wof:id":101935239,
-    "wof:lastmodified":1566601688,
+    "wof:lastmodified":1582313033,
     "wof:name":"Rocky Point",
     "wof:parent_id":404543947,
     "wof:placetype":"locality",

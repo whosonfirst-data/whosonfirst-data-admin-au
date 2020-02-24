@@ -156,7 +156,8 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -179,6 +180,10 @@
         "wk:page":"Georgetown, Queensland"
     },
     "wof:country":"AU",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "naturalearth"
+    ],
     "wof:geomhash":"f3596e0bcf1e7da9b93f1f8757ccf687",
     "wof:hierarchy":[
         {
@@ -191,7 +196,7 @@
         }
     ],
     "wof:id":101934445,
-    "wof:lastmodified":1566601736,
+    "wof:lastmodified":1582313038,
     "wof:name":"Georgetown",
     "wof:parent_id":102049251,
     "wof:placetype":"locality",

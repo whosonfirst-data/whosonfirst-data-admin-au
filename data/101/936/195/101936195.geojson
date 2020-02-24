@@ -159,7 +159,8 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -183,6 +184,10 @@
         "wk:page":"Kimba, South Australia"
     },
     "wof:country":"AU",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "naturalearth"
+    ],
     "wof:geomhash":"9c677705801e806dae376efe54f48304",
     "wof:hierarchy":[
         {
@@ -198,7 +203,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566601103,
+    "wof:lastmodified":1582312956,
     "wof:name":"Kimba",
     "wof:parent_id":102049655,
     "wof:placetype":"locality",

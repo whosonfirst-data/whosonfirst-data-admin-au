@@ -167,7 +167,8 @@
     "qs:source":"SAustralian Bureau Of Statistics: urban areas and localities selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -192,6 +193,10 @@
         "wk:page":"Cloncurry, Queensland"
     },
     "wof:country":"AU",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "naturalearth"
+    ],
     "wof:geomhash":"82f4e985a9cf88331cdc7034743a4fa1",
     "wof:hierarchy":[
         {
@@ -208,7 +213,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566601538,
+    "wof:lastmodified":1582313013,
     "wof:name":"Cloncurry",
     "wof:parent_id":404541735,
     "wof:placetype":"locality",

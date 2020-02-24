@@ -1110,8 +1110,9 @@
     "qs:source":"Australia Census",
     "src:geom":"whosonfirst",
     "src:geom_alt":[
+        "naturalearth",
         "quattroshapes",
-        "naturalearth"
+        "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
     "src:lbl_centroid":"mapshaper",
@@ -1168,6 +1169,12 @@
     },
     "wof:country":"AU",
     "wof:country_alpha3":"AUS",
+    "wof:geom_alt":[
+        "naturalearth",
+        "quattroshapes-reversegeo",
+        "quattroshapes",
+        "naturalearth-display-terrestrial-zoom6"
+    ],
     "wof:geomhash":"3f7f1b90225bee533e224b97925e85f0",
     "wof:hierarchy":[
         {
@@ -1183,7 +1190,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566600744,
+    "wof:lastmodified":1582312938,
     "wof:name":"Australia",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

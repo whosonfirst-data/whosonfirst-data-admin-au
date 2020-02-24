@@ -151,7 +151,8 @@
     "qs:source":"SAustralian Bureau Of Statistics: urban areas and localities selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
     "wd:latitude":-35.966667,
@@ -175,6 +176,10 @@
         "wk:page":"Cobram"
     },
     "wof:country":"AU",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "naturalearth"
+    ],
     "wof:geomhash":"653d745bfa38b8580a3edcf7ebf95095",
     "wof:hierarchy":[
         {
@@ -191,7 +196,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566601528,
+    "wof:lastmodified":1582313012,
     "wof:name":"Cobram",
     "wof:parent_id":404538179,
     "wof:placetype":"locality",

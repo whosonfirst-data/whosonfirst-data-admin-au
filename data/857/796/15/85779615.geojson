@@ -65,13 +65,13 @@
     "src:lbl:centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85681439,
         102191583,
         404547333,
         85632793,
         101937205,
         136253039,
-        102048605
+        102048605,
+        85681439
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -81,6 +81,10 @@
         "qs_pg:id":341923
     },
     "wof:country":"AU",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"b50f3a0a9079e7b7a6ca615f5b780e0a",
     "wof:hierarchy":[
         {
@@ -95,7 +99,7 @@
         }
     ],
     "wof:id":85779615,
-    "wof:lastmodified":1550718291,
+    "wof:lastmodified":1582312795,
     "wof:name":"Glen Iris",
     "wof:parent_id":101937205,
     "wof:placetype":"neighbourhood",
