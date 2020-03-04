@@ -140,7 +140,8 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
@@ -161,6 +162,10 @@
         404544053
     ],
     "wof:country":"AU",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "naturalearth"
+    ],
     "wof:geomhash":"a6a92f383ae9ce0b9e2060ab5cc23ede",
     "wof:hierarchy":[
         {
@@ -175,7 +180,7 @@
         }
     ],
     "wof:id":101935295,
-    "wof:lastmodified":1566601663,
+    "wof:lastmodified":1582313031,
     "wof:name":"Shelly Beach",
     "wof:parent_id":404544053,
     "wof:placetype":"locality",

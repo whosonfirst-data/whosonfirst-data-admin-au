@@ -143,7 +143,8 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
     "wd:latitude":-22.9,
@@ -166,6 +167,10 @@
         "wk:page":"Boulia, Queensland"
     },
     "wof:country":"AU",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "naturalearth"
+    ],
     "wof:geomhash":"b93c9053f484c6dc941b9b54fd92bc84",
     "wof:hierarchy":[
         {
@@ -181,7 +186,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566601777,
+    "wof:lastmodified":1582313042,
     "wof:name":"Boulia",
     "wof:parent_id":102048859,
     "wof:placetype":"locality",

@@ -168,7 +168,8 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -195,6 +196,10 @@
         "qs_pg:id":1110559
     },
     "wof:country":"AU",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "naturalearth"
+    ],
     "wof:geomhash":"6bd2f610ddfed69ec9a1786d9b1d94b7",
     "wof:hierarchy":[
         {
@@ -210,7 +215,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566601486,
+    "wof:lastmodified":1582313002,
     "wof:name":"Onslow",
     "wof:parent_id":102048625,
     "wof:placetype":"locality",

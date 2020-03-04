@@ -177,7 +177,8 @@
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -205,6 +206,10 @@
         "qs_pg:id":137934
     },
     "wof:country":"AU",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "naturalearth"
+    ],
     "wof:geomhash":"8b44ecf6529a99386c62b43d317ff1b2",
     "wof:hierarchy":[
         {
@@ -221,7 +226,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566601526,
+    "wof:lastmodified":1582313011,
     "wof:name":"Southern Cross",
     "wof:parent_id":404548321,
     "wof:placetype":"locality",

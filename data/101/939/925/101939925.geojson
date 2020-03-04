@@ -163,7 +163,8 @@
     "qs:source":"SAustralian Bureau Of Statistics: urban areas and localities selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
     "wd:latitude":-32.083333,
@@ -186,6 +187,10 @@
         "wk:page":"Scone, New South Wales"
     },
     "wof:country":"AU",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "naturalearth"
+    ],
     "wof:geomhash":"5cbc470ff029e3b4d6369421bca4a436",
     "wof:hierarchy":[
         {
@@ -199,7 +204,7 @@
         }
     ],
     "wof:id":101939925,
-    "wof:lastmodified":1566601340,
+    "wof:lastmodified":1582312983,
     "wof:name":"Scone",
     "wof:parent_id":404226043,
     "wof:placetype":"locality",

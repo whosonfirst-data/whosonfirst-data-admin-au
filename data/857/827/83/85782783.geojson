@@ -223,13 +223,13 @@
     "src:lbl:centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85681533,
         102191583,
         404549861,
         85632793,
         101938629,
         136253039,
-        102048753
+        102048753,
+        85681533
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -241,6 +241,10 @@
         "wk:page":"Alice Springs"
     },
     "wof:country":"AU",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"dcd32f5a95834730e1809772133006f4",
     "wof:hierarchy":[
         {
@@ -255,7 +259,7 @@
         }
     ],
     "wof:id":85782783,
-    "wof:lastmodified":1550718453,
+    "wof:lastmodified":1582312799,
     "wof:name":"Stuart",
     "wof:parent_id":101938629,
     "wof:placetype":"neighbourhood",

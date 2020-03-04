@@ -186,7 +186,8 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -208,6 +209,10 @@
         "wk:page":"Yulara, Northern Territory"
     },
     "wof:country":"AU",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "naturalearth"
+    ],
     "wof:geomhash":"08547ddeace56339017c2705e80e9389",
     "wof:hierarchy":[
         {
@@ -219,7 +224,7 @@
         }
     ],
     "wof:id":101938699,
-    "wof:lastmodified":1566601292,
+    "wof:lastmodified":1582312974,
     "wof:name":"Yulara",
     "wof:parent_id":85681533,
     "wof:placetype":"locality",

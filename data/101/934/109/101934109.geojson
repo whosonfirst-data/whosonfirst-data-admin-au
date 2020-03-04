@@ -143,7 +143,8 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
     "wd:latitude":-19.9167,
@@ -166,6 +167,10 @@
         "wk:page":"Camooweal"
     },
     "wof:country":"AU",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "naturalearth"
+    ],
     "wof:geomhash":"15c6bd872d112a437cade97bf26e05b1",
     "wof:hierarchy":[
         {
@@ -181,7 +186,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566601726,
+    "wof:lastmodified":1582313037,
     "wof:name":"Camooweal",
     "wof:parent_id":102049087,
     "wof:placetype":"locality",

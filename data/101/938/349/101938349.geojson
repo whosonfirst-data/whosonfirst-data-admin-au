@@ -162,7 +162,8 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -190,6 +191,10 @@
         404549619
     ],
     "wof:country":"AU",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "naturalearth"
+    ],
     "wof:geomhash":"e60d319a40374747eb57bfee4de257c4",
     "wof:hierarchy":[
         {
@@ -206,7 +211,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566601267,
+    "wof:lastmodified":1582312971,
     "wof:name":"Adelaide River",
     "wof:parent_id":404549619,
     "wof:placetype":"locality",

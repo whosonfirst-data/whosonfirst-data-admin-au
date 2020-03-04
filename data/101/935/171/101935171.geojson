@@ -152,7 +152,8 @@
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
     "wd:latitude":-26.866667,
@@ -175,6 +176,10 @@
         "wk:page":"Quilpie, Queensland"
     },
     "wof:country":"AU",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "naturalearth"
+    ],
     "wof:geomhash":"7485e8e1c220dca5ef2cacb7cefa7790",
     "wof:hierarchy":[
         {
@@ -190,7 +195,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566601698,
+    "wof:lastmodified":1582313034,
     "wof:name":"Quilpie",
     "wof:parent_id":102049373,
     "wof:placetype":"locality",
