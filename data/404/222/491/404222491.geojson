@@ -3,19 +3,20 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2020-08-31",
     "edtf:inception":"uuuu",
     "geom:area":0.000069,
-    "geom:area_square_m":724963.028599,
-    "geom:bbox":"150.417667232,-31.398805883,150.429876448,-31.3910362345",
+    "geom:area_square_m":724966.319197,
+    "geom:bbox":"150.417667,-31.398806,150.429876,-31.391036",
     "geom:latitude":-31.394888,
-    "geom:longitude":150.423437,
+    "geom:longitude":150.423436,
     "iso:country":"AU",
     "lbl:latitude":-31.395075,
     "lbl:longitude":150.423437,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Caroona"
@@ -31,11 +32,11 @@
     "qs:source":"Australian Bureau Of Statistics",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
-        85681545,
         102191583,
         85632793,
+        102048659,
         136253039,
-        102048659
+        85681545
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -43,7 +44,7 @@
         101929835
     ],
     "wof:country":"AU",
-    "wof:geomhash":"aea56c26c4899f03e65f579a5ca04741",
+    "wof:geomhash":"6599c8b194774d505788089be70603d4",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +56,7 @@
         }
     ],
     "wof:id":404222491,
-    "wof:lastmodified":1566602770,
+    "wof:lastmodified":1598905359,
     "wof:name":"Caroona",
     "wof:parent_id":102048659,
     "wof:placetype":"localadmin",
@@ -65,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    150.41766723199996,
-    -31.398805883,
-    150.42987644800002,
-    -31.3910362345
+    150.417667,
+    -31.398806,
+    150.429876,
+    -31.391036
 ],
-  "geometry": {"coordinates":[[[150.42577859200003,-31.398805883],[150.41766723199996,-31.397630948],[150.41890460799999,-31.3910362345],[150.42974140800001,-31.392581151],[150.42987644800002,-31.394000175],[150.42966345600001,-31.3950561735],[150.42849648000001,-31.395945191],[150.42577859200003,-31.398805883]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[150.42577900000001,-31.398806],[150.41766699999999,-31.397631],[150.418905,-31.391036],[150.42974100000001,-31.392581],[150.42987600000001,-31.394],[150.42966300000001,-31.395056],[150.428496,-31.395945],[150.42577900000001,-31.398806]]],"type":"Polygon"}
 }
