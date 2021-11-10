@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"115.749978393,-29.5333019828,115.749978393,-29.5333019828",
+    "geom:bbox":"115.749978,-29.533302,115.749978,-29.533302",
     "geom:latitude":-29.533302,
     "geom:longitude":115.749978,
     "iso:country":"AU",
@@ -21,11 +21,17 @@
     "name:ara_x_preferred":[
         "\u062b\u0631\u064a \u0633\u0628\u064a\u0631\u0646\u063a\u0632"
     ],
+    "name:ben_x_preferred":[
+        "\u09a5\u09cd\u09b0\u09bf \u09b8\u09cd\u09aa\u09cd\u09b0\u09bf\u0982\u09b8"
+    ],
     "name:ceb_x_preferred":[
         "Three Springs"
     ],
     "name:deu_x_preferred":[
         "Three Springs"
+    ],
+    "name:ell_x_preferred":[
+        "\u0398\u03c1\u03b9 \u03a3\u03c0\u03c1\u03b9\u03bd\u03b3\u03ba\u03c2"
     ],
     "name:eng_x_preferred":[
         "Three Springs"
@@ -36,8 +42,23 @@
     "name:fra_x_preferred":[
         "Three Springs"
     ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05e8\u05d9 \u05e1\u05e4\u05e8\u05d9\u05e0\u05d2\u05e1"
+    ],
+    "name:hin_x_preferred":[
+        "\u0925\u094d\u0930\u0940 \u0938\u094d\u092a\u094d\u0930\u093f\u0902\u0917\u094d\u0938"
+    ],
+    "name:hun_x_preferred":[
+        "Three Springs"
+    ],
+    "name:ind_x_preferred":[
+        "Three Springs"
+    ],
     "name:ita_x_preferred":[
         "Three Springs"
+    ],
+    "name:kor_x_preferred":[
+        "\uc4f0\ub9ac \uc2a4\ud504\ub9c1\uc2a4"
     ],
     "name:nld_x_preferred":[
         "Three Springs"
@@ -45,11 +66,35 @@
     "name:por_x_preferred":[
         "Three Springs"
     ],
+    "name:rus_x_preferred":[
+        "\u0422\u0440\u0438-\u0421\u043f\u0440\u0438\u043d\u0433\u0441"
+    ],
     "name:sgs_x_preferred":[
+        "Three Springs"
+    ],
+    "name:spa_x_preferred":[
         "Three Springs"
     ],
     "name:swe_x_preferred":[
         "Three Springs"
+    ],
+    "name:tur_x_preferred":[
+        "Three Springs"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0440\u0456-\u0421\u043f\u0440\u0456\u043d\u0433\u0441"
+    ],
+    "name:urd_x_preferred":[
+        "\u062a\u06be\u0631\u06cc \u0627\u0633\u067e\u0631\u0646\u06af\u0632"
+    ],
+    "name:vie_x_preferred":[
+        "Three Springs"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u4e09\u6cc9\u6751"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u4e09\u6cc9\u93ae"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Australia",
@@ -161,7 +206,7 @@
     },
     "wof:country":"AU",
     "wof:created":1499130975,
-    "wof:geomhash":"f12ce439071d26e2e816a6ecd97f8b19",
+    "wof:geomhash":"253949225c7a5ce130010dba3fa00e2a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -174,7 +219,7 @@
         }
     ],
     "wof:id":1141908785,
-    "wof:lastmodified":1566603639,
+    "wof:lastmodified":1636494710,
     "wof:name":"Three Springs",
     "wof:parent_id":404546721,
     "wof:placetype":"locality",
@@ -184,10 +229,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    115.74997839260323,
-    -29.53330198284908,
-    115.74997839260323,
-    -29.53330198284908
+    115.749978,
+    -29.533302,
+    115.749978,
+    -29.533302
 ],
-  "geometry": {"coordinates":[115.74997839260323,-29.53330198284908],"type":"Point"}
+  "geometry": {"coordinates":[115.749978,-29.533302],"type":"Point"}
 }
