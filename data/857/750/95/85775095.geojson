@@ -32,6 +32,9 @@
     "name:als_x_preferred":[
         "Museum"
     ],
+    "name:amh_x_preferred":[
+        "\u1264\u1270 \u1218\u12d8\u12ad\u122d"
+    ],
     "name:ara_x_preferred":[
         "\u0645\u062a\u062d\u0641"
     ],
@@ -44,6 +47,9 @@
     "name:arg_x_variant":[
         "museu"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u062a\u062d\u0641"
+    ],
     "name:ast_x_preferred":[
         "mus\u00e9u"
     ],
@@ -53,26 +59,45 @@
     "name:aze_x_preferred":[
         "Muzey"
     ],
+    "name:aze_x_variant":[
+        "muzey"
+    ],
     "name:bak_x_preferred":[
         "\u041c\u0443\u0437\u0435\u0439"
     ],
     "name:bar_x_preferred":[
         "Museen"
     ],
+    "name:bcl_x_preferred":[
+        "Museo"
+    ],
     "name:bel_x_preferred":[
         "\u041c\u0443\u0437\u0435\u0439"
     ],
     "name:bel_x_variant":[
-        "\u041c\u0443\u0437\u044d\u0439"
+        "\u041c\u0443\u0437\u044d\u0439",
+        "\u043c\u0443\u0437\u0435\u0439"
     ],
     "name:ben_x_preferred":[
         "\u099c\u09be\u09a6\u09c1\u0998\u09b0"
+    ],
+    "name:bho_x_preferred":[
+        "\u092e\u094d\u092f\u0942\u091c\u093f\u092f\u092e"
+    ],
+    "name:bjn_x_preferred":[
+        "Musium"
+    ],
+    "name:blk_x_preferred":[
+        "\u1015\u103b\uaa7b\u1010\u103d\u102d\u102f\u1000\u103a"
     ],
     "name:bod_x_preferred":[
         "\u0f60\u0f42\u0fb2\u0f7a\u0f58\u0f66\u0f0b\u0f66\u0f9f\u0f7c\u0f53\u0f0b\u0f41\u0f44\u0f0b\u0f0d"
     ],
     "name:bos_x_preferred":[
         "Muzej"
+    ],
+    "name:bos_x_variant":[
+        "muzej"
     ],
     "name:bre_x_preferred":[
         "Mirdi"
@@ -98,6 +123,9 @@
     "name:ces_x_variant":[
         "muzeum"
     ],
+    "name:che_x_preferred":[
+        "\u041c\u0443\u0437\u0435\u0439"
+    ],
     "name:chr_x_preferred":[
         "\u13a4\u13ea\u13d8 \u13a0\u13cd\u13c6\u13c2\u13aa\u13db"
     ],
@@ -106,6 +134,9 @@
     ],
     "name:ckb_x_preferred":[
         "\u0645\u06c6\u0632\u06d5\u062e\u0627\u0646\u06d5"
+    ],
+    "name:cor_x_preferred":[
+        "gwithti"
     ],
     "name:csb_x_preferred":[
         "M\u00f9ze\u00f9m"
@@ -130,6 +161,9 @@
     ],
     "name:diq_x_preferred":[
         "Muze"
+    ],
+    "name:dsb_x_preferred":[
+        "muzeum"
     ],
     "name:ell_x_preferred":[
         "\u039c\u03bf\u03c5\u03c3\u03b5\u03af\u03bf"
@@ -179,26 +213,47 @@
     "name:fra_x_variant":[
         "mus\u00e9e"
     ],
+    "name:frp_x_preferred":[
+        "Mus\u00ea"
+    ],
     "name:fry_x_preferred":[
         "Museum"
     ],
     "name:gan_x_preferred":[
         "\u535a\u7269\u9928"
     ],
+    "name:gcr_x_preferred":[
+        "Miz\u00e9"
+    ],
     "name:gla_x_preferred":[
         "Taigh-tasgaidh"
+    ],
+    "name:gla_x_variant":[
+        "taigh-tasgaidh"
     ],
     "name:gle_x_preferred":[
         "M\u00fasaem"
     ],
+    "name:gle_x_variant":[
+        "m\u00fasaem"
+    ],
     "name:glg_x_preferred":[
         "Museo"
+    ],
+    "name:glg_x_variant":[
+        "museo"
+    ],
+    "name:gom_x_preferred":[
+        "\u0938\u0902\u0917\u094d\u0930\u0939\u093e\u0932\u092f\u093e"
     ],
     "name:grn_x_preferred":[
         "Musar\u00f3ga"
     ],
     "name:gsw_x_preferred":[
         "Museum"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab8\u0a82\u0a97\u0acd\u0ab0\u0ab9\u0abe\u0ab2\u0aaf"
     ],
     "name:hak_x_preferred":[
         "Pok-vu\u030dt-k\u00f3n"
@@ -236,14 +291,23 @@
     "name:hye_x_variant":[
         "\u0569\u0561\u0576\u0563\u0561\u0580\u0561\u0576"
     ],
+    "name:hyw_x_preferred":[
+        "\u0539\u0561\u0576\u0563\u0561\u0580\u0561\u0576"
+    ],
     "name:ido_x_preferred":[
         "Muzeo"
     ],
     "name:ile_x_preferred":[
         "Mus\u00e9o"
     ],
+    "name:ina_x_preferred":[
+        "museo"
+    ],
     "name:ind_x_preferred":[
         "Museum"
+    ],
+    "name:ind_x_variant":[
+        "museum"
     ],
     "name:isl_x_preferred":[
         "Safn"
@@ -259,7 +323,8 @@
     ],
     "name:jav_x_variant":[
         "Museum",
-        "Musiyum"
+        "Musiyum",
+        "musiyum"
     ],
     "name:jpn_x_preferred":[
         "\u535a\u7269\u9928"
@@ -270,17 +335,29 @@
     "name:kan_x_variant":[
         "\u0cb5\u0cb8\u0ccd\u0ca4\u0cc1\u0cb8\u0c82\u0c97\u0ccd\u0cb0\u0cb9\u0cbe\u0cb2\u0caf"
     ],
+    "name:kas_x_preferred":[
+        "\u0639\u064e\u062c\u0672\u06cc\u0650\u0628 \u06af\u064e\u0631"
+    ],
     "name:kat_x_preferred":[
         "\u10db\u10e3\u10d6\u10d4\u10e3\u10db\u10d8"
     ],
     "name:kaz_x_preferred":[
         "\u041c\u04b1\u0440\u0430\u0436\u0430\u0439"
     ],
+    "name:kaz_x_variant":[
+        "\u043c\u04b1\u0440\u0430\u0436\u0430\u0439"
+    ],
+    "name:khm_x_preferred":[
+        "\u179f\u17b6\u179a\u1798\u1793\u17d2\u1791\u17b8\u179a"
+    ],
     "name:kir_x_preferred":[
         "\u041c\u0443\u0437\u0435\u0439"
     ],
     "name:kor_x_preferred":[
         "\ubc15\ubb3c\uad00"
+    ],
+    "name:kur_x_preferred":[
+        "muze"
     ],
     "name:lad_x_preferred":[
         "Muzeyo"
@@ -303,6 +380,12 @@
     "name:lit_x_variant":[
         "muziejus"
     ],
+    "name:lld_x_preferred":[
+        "Categoria:Museum"
+    ],
+    "name:lmo_x_preferred":[
+        "Musee"
+    ],
     "name:ltz_x_preferred":[
         "Mus\u00e9e"
     ],
@@ -320,6 +403,9 @@
     ],
     "name:mhr_x_variant":[
         "\u0442\u043e\u0448\u0442\u0435\u0440"
+    ],
+    "name:min_x_preferred":[
+        "Museum"
     ],
     "name:mkd_x_preferred":[
         "\u041c\u0443\u0437\u0435\u0458"
@@ -344,6 +430,9 @@
     ],
     "name:msa_x_preferred":[
         "Muzium"
+    ],
+    "name:msa_x_variant":[
+        "muzium"
     ],
     "name:mya_x_preferred":[
         "\u1015\u103c\u1010\u102d\u102f\u1000\u103a"
@@ -383,6 +472,9 @@
     ],
     "name:nor_x_preferred":[
         "Museum"
+    ],
+    "name:nqo_x_preferred":[
+        "\u07d7\u07cd\u07d3\u07cf\u07f2"
     ],
     "name:oci_x_preferred":[
         "Mus\u00e8u"
@@ -450,8 +542,14 @@
     "name:sin_x_preferred":[
         "\u0d9a\u0dde\u0dad\u0dd4\u0d9a\u0dcf\u0d9c\u0dcf\u0dbb\u0dba"
     ],
+    "name:sjd_x_preferred":[
+        "\u043c\u0443\u0437\u0435\u0439"
+    ],
     "name:slk_x_preferred":[
         "M\u00fazeum"
+    ],
+    "name:slk_x_variant":[
+        "m\u00fazeum"
     ],
     "name:slv_x_preferred":[
         "Muzej"
@@ -464,6 +562,9 @@
     ],
     "name:sme_x_variant":[
         "Musea"
+    ],
+    "name:smj_x_preferred":[
+        "musea"
     ],
     "name:smn_x_preferred":[
         "museo"
@@ -501,11 +602,17 @@
     "name:swe_x_variant":[
         "museum"
     ],
+    "name:szl_x_preferred":[
+        "Muzeum"
+    ],
     "name:tam_x_preferred":[
         "\u0b85\u0bb0\u0bc1\u0b99\u0bcd\u0b95\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf\u0baf\u0b95\u0bae\u0bcd"
     ],
     "name:tat_x_preferred":[
         "\u041c\u0443\u0437\u0435\u0439"
+    ],
+    "name:tat_x_variant":[
+        "\u043c\u0443\u0437\u0435\u0439"
     ],
     "name:tel_x_preferred":[
         "\u0c38\u0c02\u0c17\u0c4d\u0c30\u0c39\u0c3e\u0c32\u0c2f\u0c02"
@@ -543,6 +650,9 @@
     "name:uzb_x_variant":[
         "muzey"
     ],
+    "name:vec_x_preferred":[
+        "muzeo"
+    ],
     "name:vie_x_preferred":[
         "Vi\u1ec7n b\u1ea3o t\u00e0ng"
     ],
@@ -563,6 +673,9 @@
     ],
     "name:zho_x_preferred":[
         "\u535a\u7269\u9986"
+    ],
+    "name:zho_x_variant":[
+        "\u535a\u7269\u9928"
     ],
     "name:zho_yue_x_preferred":[
         "\u535a\u7269\u9928"
@@ -634,7 +747,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582312826,
+    "wof:lastmodified":1690852051,
     "wof:name":"Museum",
     "wof:parent_id":101933229,
     "wof:placetype":"neighbourhood",

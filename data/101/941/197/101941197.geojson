@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000168,
     "geom:area_square_m":1982961.720505,
-    "geom:bbox":"122.658253376,-16.9901052105,122.672103456,-16.977972004",
+    "geom:bbox":"122.658253,-16.990105,122.672103,-16.977972",
     "geom:latitude":-16.984037,
     "geom:longitude":122.665179,
     "iso:country":"AU",
@@ -31,8 +31,20 @@
     "name:est_x_preferred":[
         "Beagle Bay"
     ],
+    "name:jpn_x_preferred":[
+        "\u30d3\u30fc\u30b0\u30eb\u30d9\u30a4\u30b3\u30df\u30e5\u30cb\u30c6\u30a3"
+    ],
+    "name:nld_x_preferred":[
+        "Beagle Bay"
+    ],
+    "name:pol_x_preferred":[
+        "Beagle Bay"
+    ],
     "name:swe_x_preferred":[
         "Beagle Bay"
+    ],
+    "name:zho_x_preferred":[
+        "Beagle\u7063\u793e\u5340"
     ],
     "qs:a0":"Australia",
     "qs:a1":"*Western Australia",
@@ -64,7 +76,7 @@
         "wd:id":"Q4876087"
     },
     "wof:country":"AU",
-    "wof:geomhash":"297260e808bd5472f2597adcc2af845d",
+    "wof:geomhash":"b3a8983d33d9c09d5a9992cf36df5471",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -77,7 +89,7 @@
         }
     ],
     "wof:id":101941197,
-    "wof:lastmodified":1566601513,
+    "wof:lastmodified":1690852820,
     "wof:name":"Beagle Bay",
     "wof:parent_id":404547137,
     "wof:placetype":"locality",
@@ -87,10 +99,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    122.65825337599999,
-    -16.9901052105,
-    122.67210345600002,
-    -16.977972004
+    122.658253,
+    -16.990105,
+    122.672103,
+    -16.977972
 ],
-  "geometry": {"coordinates":[[[122.65825337599999,-16.9779721335],[122.672079328,-16.977972004],[122.67210345600002,-16.990099087],[122.65828252799999,-16.9901052105],[122.65825337599999,-16.9779721335]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[122.658253,-16.977972],[122.672079,-16.977972],[122.67210300000001,-16.990099],[122.658283,-16.990105],[122.658253,-16.977972]]],"type":"Polygon"}
 }
