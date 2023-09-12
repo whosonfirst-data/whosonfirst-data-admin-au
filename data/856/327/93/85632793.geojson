@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":695.877218,
-    "geom:area_square_m":7706248818762.777344,
+    "geom:area_square_m":7706248818762.854492,
     "geom:bbox":"112.921124,-54.777194,159.104288,-9.219936",
     "geom:latitude":-25.729376,
     "geom:longitude":134.492002,
@@ -13,6 +13,9 @@
     "iso:country":"AU",
     "itu:country_code":[
         "61"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "country"
     ],
     "label:eng_x_preferred_shortcode":[
         "AU"
@@ -1345,7 +1348,8 @@
     ],
     "src:geom_via":"quattroshapes",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"naturalearth",
+    "src:population_year":"2019",
     "statoids:dial":"61",
     "statoids:ds":"AUS",
     "statoids:fifa":"AUS",
@@ -1406,7 +1410,7 @@
         "quattroshapes",
         "naturalearth-display-terrestrial-zoom6"
     ],
-    "wof:geomhash":"3709b78839739029242fdc8dfdcb0acd",
+    "wof:geomhash":"c7b63f45f343b71f962c61e2a7d9233d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -1421,12 +1425,12 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690852117,
+    "wof:lastmodified":1694492040,
     "wof:name":"Australia",
     "wof:parent_id":102191583,
     "wof:placetype":"country",
-    "wof:population":23130931,
-    "wof:population_rank":15,
+    "wof:population":25364307,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:shortcode":"AU",
     "wof:superseded_by":[],
