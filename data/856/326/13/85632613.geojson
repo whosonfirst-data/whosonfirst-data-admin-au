@@ -5,12 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00024,
-    "geom:area_square_m":2896139.254157,
+    "geom:area_square_m":2896139.254159,
     "geom:bbox":"122.928001,-12.532583,123.559525,-12.249611",
     "geom:latitude":-12.29014,
     "geom:longitude":123.027562,
     "iso:country":"XY",
     "iso:parent":"AU",
+    "label:eng_x_preferred_placetype":[
+        "external territory"
+    ],
     "lbl:latitude":-12.273766,
     "lbl:longitude":122.968311,
     "lbl:max_zoom":8.0,
@@ -295,8 +298,7 @@
         "\u963f\u4ec0\u83ab\u5c14\u548c\u5361\u6377\u5c9b"
     ],
     "name:zho_x_variant":[
-        "\u963f\u4ec0\u83ab\u723e\u5cf6\u8207\u5361\u6377\u5cf6",
-        "\u963f\u4ec0\u83ab\u5c14\u548c\u5361\u6377\u5c9b"
+        "\u963f\u4ec0\u83ab\u723e\u5cf6\u8207\u5361\u6377\u5cf6"
     ],
     "name:zho_yue_x_preferred":[
         "\u4e9e\u4ec0\u6469\u540c\u5361\u5730\u723e\u7fa4\u5cf6"
@@ -431,6 +433,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"naturalearth",
+    "src:population_date":"2017",
     "wof:belongsto":[
         102191583,
         136253039
@@ -450,7 +454,7 @@
         "wof:parent_id"
     ],
     "wof:country":"AU",
-    "wof:geomhash":"5d27cf5225feca92bf90fdb2e516d0c5",
+    "wof:geomhash":"c8ee1c6fed0ee06ee8a16b50a117f0ab",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -459,13 +463,15 @@
         }
     ],
     "wof:id":85632613,
-    "wof:lastmodified":1690852120,
+    "wof:lastmodified":1694639809,
     "wof:name":"Ashmore and Cartier Is.",
     "wof:parent_id":136253039,
     "wof:placetype":"dependency",
     "wof:placetype_alt":[
         "region"
     ],
+    "wof:population":0,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[

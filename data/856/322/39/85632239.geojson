@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.052547,
-    "geom:area_square_m":390176245.551723,
+    "geom:area_square_m":390176245.551817,
     "geom:bbox":"72.580803,-53.197945,73.847557,-52.912918",
     "geom:latitude":-53.094153,
     "geom:longitude":73.510198,
@@ -13,6 +13,9 @@
     "iso:parent":"AU",
     "itu:country_code":[
         "672"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "external territory"
     ],
     "label:eng_x_preferred_shortcode":[
         "HM"
@@ -589,7 +592,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"naturalearth",
+    "src:population":"wd",
+    "src:population_date":"2019",
     "statoids:area_km":"412",
     "statoids:area_mi":"159",
     "statoids:as_of_date":"",
@@ -642,7 +646,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c9761ed9aac35617cf3dde88d21f1bb6",
+    "wof:geomhash":"58354cbbca22d2f9c1cc74d68580d497",
     "wof:hierarchy":[
         {
             "continent_id":102193527,
@@ -651,7 +655,7 @@
         }
     ],
     "wof:id":85632239,
-    "wof:lastmodified":1690852070,
+    "wof:lastmodified":1694639812,
     "wof:name":"Heard Island and McDonald Islands",
     "wof:parent_id":136253039,
     "wof:placetype":"dependency",
@@ -659,6 +663,8 @@
         "region"
     ],
     "wof:placetype_local":"external territory of AU",
+    "wof:population":0,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:shortcode":"HM",
     "wof:superseded_by":[],
