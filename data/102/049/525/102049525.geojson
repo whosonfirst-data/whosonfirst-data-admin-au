@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007194,
-    "geom:area_square_m":77787462.433458,
+    "geom:area_square_m":77787462.433439,
     "geom:bbox":"134.694103,-29.051708,134.809687,-28.971028",
     "geom:latitude":-29.015858,
     "geom:longitude":134.752353,
@@ -150,19 +150,24 @@
     "statoids:type":"district council",
     "wof:belongsto":[
         102191583,
+        85681519,
         85632793,
-        136253039,
-        85681519
+        136253039
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"41330",
         "hasc:id":"AU.SA.CP"
     },
+    "wof:concordances_official":"ausstat:area_code",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:coterminous":[
         101935879
     ],
     "wof:country":"AU",
-    "wof:geomhash":"0bfa4bcd5d738ee86cc042f2587961b7",
+    "wof:geomhash":"23cec7f08b0aaeed1c78d9f6df911dca",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -173,7 +178,7 @@
         }
     ],
     "wof:id":102049525,
-    "wof:lastmodified":1607991005,
+    "wof:lastmodified":1695886409,
     "wof:name":"Coober Pedy",
     "wof:parent_id":85681519,
     "wof:placetype":"county",

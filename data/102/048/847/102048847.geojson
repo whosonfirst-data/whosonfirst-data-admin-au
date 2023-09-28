@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001266,
-    "geom:area_square_m":13135062.475339,
+    "geom:area_square_m":13135062.47535,
     "geom:bbox":"117.148676,-32.954992,117.194668,-32.920119",
     "geom:latitude":-32.936475,
     "geom:longitude":117.172044,
@@ -23,7 +23,7 @@
     "mps:latitude":-32.93843,
     "mps:longitude":117.171594,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:ben_x_preferred":[
         "\u09a8\u09be\u09b0\u09b0\u09cb\u0997\u09bf\u09a8"
@@ -101,13 +101,16 @@
         136253039
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"56520"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937575,
         404547955
     ],
     "wof:country":"AU",
-    "wof:geomhash":"332c6f235de6d68250c745d752a5596a",
+    "wof:geomhash":"28d749b37d9c9b544a64a307c21aa90f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":102048847,
-    "wof:lastmodified":1636494457,
+    "wof:lastmodified":1695887129,
     "wof:name":"Narrogin",
     "wof:parent_id":85681439,
     "wof:placetype":"county",
