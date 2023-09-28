@@ -10,12 +10,18 @@
     "geom:latitude":-24.833609,
     "geom:longitude":113.727326,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-24.831436,
     "lbl:longitude":113.732104,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "North Plantations"
@@ -38,12 +44,15 @@
         102048891
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50591"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937607
     ],
     "wof:country":"AU",
-    "wof:geomhash":"23caaaaa47ff9a16440c1bc5e067f473",
+    "wof:geomhash":"2543cd9533aad6d67312baf2c3a52a8c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404548013,
-    "wof:lastmodified":1566603172,
+    "wof:lastmodified":1695877800,
     "wof:name":"North Plantations",
     "wof:parent_id":102048891,
     "wof:placetype":"localadmin",

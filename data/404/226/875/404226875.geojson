@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004905,
-    "geom:area_square_m":51904047.500756,
+    "geom:area_square_m":51904047.500776,
     "geom:bbox":"150.812635456,-31.192596003,150.903706304,-31.1170570065",
     "geom:latitude":-31.157771,
     "geom:longitude":150.857963,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.159594,
     "lbl:longitude":150.861656,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Warral"
@@ -38,9 +44,12 @@
         102048785
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12422"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"ebbb361f3aaa24cc3d985f65f97d1056",
+    "wof:geomhash":"4deb2d15fbb5fbd325fc371a2721a343",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404226875,
-    "wof:lastmodified":1566602029,
+    "wof:lastmodified":1695877149,
     "wof:name":"Warral",
     "wof:parent_id":102048785,
     "wof:placetype":"localadmin",

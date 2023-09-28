@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003921,
-    "geom:area_square_m":36511053.075816,
+    "geom:area_square_m":36511053.075801,
     "geom:bbox":"145.799276,-41.1803999975,145.888489792,-41.1141695905",
     "geom:latitude":-41.146547,
     "geom:longitude":145.844354,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-41.145494,
     "lbl:longitude":145.843502,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ridgley"
@@ -38,9 +44,12 @@
         102049367
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60302"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"5103ca5ceb2882c1efd78abce05efae7",
+    "wof:geomhash":"7ceffe13482ae45b7e88fe840621bd67",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404549349,
-    "wof:lastmodified":1566602861,
+    "wof:lastmodified":1695877633,
     "wof:name":"Ridgley",
     "wof:parent_id":102049367,
     "wof:placetype":"localadmin",

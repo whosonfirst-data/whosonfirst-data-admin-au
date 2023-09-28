@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001781,
-    "geom:area_square_m":18504004.851561,
+    "geom:area_square_m":18504004.851559,
     "geom:bbox":"151.790620608,-32.861023794,151.878762016,-32.820187005",
     "geom:latitude":-32.840479,
     "geom:longitude":151.837943,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.839654,
     "lbl:longitude":151.837924,
     "lbl:max_zoom":18.0,
@@ -42,10 +48,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC10920",
         "wd:id":"Q5508287"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"24ac2358935b45d603af7479c5416196",
+    "wof:geomhash":"df203049b3780fd43383edfe6353ccd6",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +65,7 @@
         }
     ],
     "wof:id":404223495,
-    "wof:lastmodified":1566602556,
+    "wof:lastmodified":1695877970,
     "wof:name":"Fullerton Cove",
     "wof:parent_id":102049095,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004615,
-    "geom:area_square_m":45267691.96268,
+    "geom:area_square_m":45267691.962647,
     "geom:bbox":"145.150840128,-37.5428550725,145.241035712,-37.464581998",
     "geom:latitude":-37.502245,
     "geom:longitude":145.192835,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.499371,
     "lbl:longitude":145.189165,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Humevale"
@@ -38,9 +44,12 @@
         102049577
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20643"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"673a9df28a1160b237495493a84de02b",
+    "wof:geomhash":"a1d18412663eb619554881a7e4262d34",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404538927,
-    "wof:lastmodified":1566602480,
+    "wof:lastmodified":1695877402,
     "wof:name":"Humevale",
     "wof:parent_id":102049577,
     "wof:placetype":"localadmin",

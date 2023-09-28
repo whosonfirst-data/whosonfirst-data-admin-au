@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0278,
-    "geom:area_square_m":285829023.389398,
+    "geom:area_square_m":285829023.389446,
     "geom:bbox":"138.541026304,-33.873026001,138.73563216,-33.658656511",
     "geom:latitude":-33.747756,
     "geom:longitude":138.647558,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.712341,
     "lbl:longitude":138.645728,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Hilltown"
@@ -44,9 +50,12 @@
         102048457
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40296"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"48dbeea13ec7c7c46ea0c332af4f8605",
+    "wof:geomhash":"70c404ce7de541fc08d840d6fd24a475",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404545505,
-    "wof:lastmodified":1566602210,
+    "wof:lastmodified":1695877248,
     "wof:name":"Hilltown",
     "wof:parent_id":102048457,
     "wof:placetype":"localadmin",

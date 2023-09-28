@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.072701,
-    "geom:area_square_m":770367467.15275,
+    "geom:area_square_m":770367467.152115,
     "geom:bbox":"152.269824672,-31.1680830035,152.670038624,-30.822006001",
     "geom:latitude":-31.024455,
     "geom:longitude":152.476614,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.04419,
     "lbl:longitude":152.456849,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Wittitrin"
@@ -38,9 +44,12 @@
         102048527
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12529"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"a93129c849c6990ceea9ac59ef1f1bbe",
+    "wof:geomhash":"f2fa844b6a4daf16eb0196f398c4f4b2",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404227115,
-    "wof:lastmodified":1566601959,
+    "wof:lastmodified":1695877113,
     "wof:name":"Wittitrin",
     "wof:parent_id":102048527,
     "wof:placetype":"localadmin",

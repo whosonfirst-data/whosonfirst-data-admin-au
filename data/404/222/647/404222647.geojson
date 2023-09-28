@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003037,
-    "geom:area_square_m":32926552.942179,
+    "geom:area_square_m":32926552.942161,
     "geom:bbox":"153.376914016,-28.7665659985,153.466268992,-28.6986242305",
     "geom:latitude":-28.732506,
     "geom:longitude":153.418403,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.725644,
     "lbl:longitude":153.413977,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Clunes"
@@ -47,9 +53,12 @@
         102048747
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10543"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"76c9b2b31f9fd95571502759235fe988",
+    "wof:geomhash":"bf5a1efdbc84c810b88df900b36a4978",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":404222647,
-    "wof:lastmodified":1566602794,
+    "wof:lastmodified":1695877589,
     "wof:name":"Clunes",
     "wof:parent_id":102048747,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015287,
-    "geom:area_square_m":177653737.857719,
+    "geom:area_square_m":177653737.857678,
     "geom:bbox":"146.20447008,-20.0596190315,146.436956992,-19.881255962",
     "geom:latitude":-19.980429,
     "geom:longitude":146.290404,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-19.987963,
     "lbl:longitude":146.272816,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Breddan"
@@ -38,9 +44,12 @@
         102048989
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30229"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"a36ddc8f7f84dea8fc8250cc7bb533b4",
+    "wof:geomhash":"1b2ba2bc09a32bbdc357b2102cb0ffdc",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404541417,
-    "wof:lastmodified":1566603080,
+    "wof:lastmodified":1695877760,
     "wof:name":"Breddan",
     "wof:parent_id":102048989,
     "wof:placetype":"localadmin",

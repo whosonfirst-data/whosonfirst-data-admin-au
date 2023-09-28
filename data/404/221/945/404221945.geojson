@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006708,
-    "geom:area_square_m":69705851.98403,
+    "geom:area_square_m":69705851.984092,
     "geom:bbox":"151.495035552,-32.853264006,151.675459008,-32.7829184035",
     "geom:latitude":-32.819852,
     "geom:longitude":151.585352,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.820663,
     "lbl:longitude":151.584059,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Black Hill"
@@ -53,9 +59,12 @@
         102048575
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10231"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"0bb948676d1a6d3ea246f5d01273cf1a",
+    "wof:geomhash":"c8b890f82e3c91144003a726b9fc17d8",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -67,7 +76,7 @@
         }
     ],
     "wof:id":404221945,
-    "wof:lastmodified":1566602008,
+    "wof:lastmodified":1695877136,
     "wof:name":"Black Hill",
     "wof:parent_id":102048575,
     "wof:placetype":"localadmin",

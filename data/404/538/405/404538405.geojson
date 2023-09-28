@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.06691,
-    "geom:area_square_m":661035451.699218,
+    "geom:area_square_m":661035556.17469,
     "geom:bbox":"141.428129,-37.121001,141.792308,-36.747784",
     "geom:latitude":-36.968117,
     "geom:longitude":141.624118,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.967393,
     "lbl:longitude":141.581354,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Douglas"
@@ -161,9 +167,12 @@
         102049637
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20410"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"88345e4bea3a8e91c97328bfa64bf361",
+    "wof:geomhash":"a5c1f872e8afcd7b118988f74adeba02",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -175,7 +184,7 @@
         }
     ],
     "wof:id":404538405,
-    "wof:lastmodified":1636494641,
+    "wof:lastmodified":1695877861,
     "wof:name":"Douglas",
     "wof:parent_id":102049637,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009614,
-    "geom:area_square_m":93826862.779373,
+    "geom:area_square_m":93826862.779547,
     "geom:bbox":"147.653326944,-37.9378659625,147.88337136,-37.839341974",
     "geom:latitude":-37.883067,
     "geom:longitude":147.763597,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.877916,
     "lbl:longitude":147.752319,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Boole Poole"
@@ -38,9 +44,12 @@
         102049039
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20159"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"55a9a59c89ba40a76f40c97ba9731643",
+    "wof:geomhash":"13500621666a3770678f2bf9d7c60a80",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404537847,
-    "wof:lastmodified":1566602340,
+    "wof:lastmodified":1695877319,
     "wof:name":"Boole Poole",
     "wof:parent_id":102049039,
     "wof:placetype":"localadmin",

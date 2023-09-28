@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.134647,
-    "geom:area_square_m":1378592979.892006,
+    "geom:area_square_m":1378592979.892212,
     "geom:bbox":"146.458028064,-34.310850701,147.055795008,-33.918256651",
     "geom:latitude":-34.104767,
     "geom:longitude":146.780688,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.117821,
     "lbl:longitude":146.801144,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tallimba"
@@ -38,9 +44,12 @@
         102049365
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12203"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"9fe758a0fb317209464fa4a2fc273515",
+    "wof:geomhash":"680a30d660fa52ed35685676483ff4ba",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404226381,
-    "wof:lastmodified":1566602088,
+    "wof:lastmodified":1695877186,
     "wof:name":"Tallimba",
     "wof:parent_id":102049365,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.039993,
-    "geom:area_square_m":448612612.642403,
+    "geom:area_square_m":448612612.642429,
     "geom:bbox":"150.849391008,-25.059161688,151.090663008,-24.6352738335",
     "geom:latitude":-24.883737,
     "geom:longitude":150.973096,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-24.915025,
     "lbl:longitude":150.975031,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Cania"
@@ -44,9 +50,12 @@
         102049053
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30309"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"fabef27ee3350a104996e0b87615433d",
+    "wof:geomhash":"b847a58861392fd6fbb8b31322c013b3",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404541589,
-    "wof:lastmodified":1566603071,
+    "wof:lastmodified":1695877755,
     "wof:name":"Cania",
     "wof:parent_id":102049053,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.063272,
-    "geom:area_square_m":650505398.067216,
+    "geom:area_square_m":650505398.067366,
     "geom:bbox":"138.084655776,-33.872774993,138.403684992,-33.6261963185",
     "geom:latitude":-33.751353,
     "geom:longitude":138.224233,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.737827,
     "lbl:longitude":138.205183,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Snowtown"
@@ -38,9 +44,12 @@
         102049309
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40675"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"f944a0e9e4dd9364676c64adaaa64ca7",
+    "wof:geomhash":"b2b800024c052f2402e5cb4dbecd5f7a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404546315,
-    "wof:lastmodified":1566603126,
+    "wof:lastmodified":1695877780,
     "wof:name":"Snowtown",
     "wof:parent_id":102049309,
     "wof:placetype":"localadmin",

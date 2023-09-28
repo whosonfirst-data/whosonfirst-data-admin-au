@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037431,
-    "geom:area_square_m":370439120.147754,
+    "geom:area_square_m":370439120.14784,
     "geom:bbox":"143.459578496,-36.956181056,143.71929504,-36.6987729255",
     "geom:latitude":-36.836434,
     "geom:longitude":143.568332,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.836457,
     "lbl:longitude":143.56644,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bealiba"
@@ -38,9 +44,12 @@
         102048773
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20096"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"18a13483a30db92a4aff6319191cf5b1",
+    "wof:geomhash":"37b080c9f2442d87c9575ee82603836e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404537707,
-    "wof:lastmodified":1566602323,
+    "wof:lastmodified":1695877308,
     "wof:name":"Bealiba",
     "wof:parent_id":102048773,
     "wof:placetype":"localadmin",

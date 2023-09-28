@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011174,
-    "geom:area_square_m":116699572.005261,
+    "geom:area_square_m":116699572.005198,
     "geom:bbox":"150.603588992,-32.437714009,150.800702016,-32.317074991",
     "geom:latitude":-32.372688,
     "geom:longitude":150.698899,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.37378,
     "lbl:longitude":150.667681,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Denman"
@@ -44,9 +50,12 @@
         102048429
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10712"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"49eb6b11d2bb58c825b1d279740c7722",
+    "wof:geomhash":"25144c315be25d101ca87f94477e7b5a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404223027,
-    "wof:lastmodified":1566602542,
+    "wof:lastmodified":1695877439,
     "wof:name":"Denman",
     "wof:parent_id":102048429,
     "wof:placetype":"localadmin",

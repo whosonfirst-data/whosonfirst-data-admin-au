@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000126,
-    "geom:area_square_m":1293122.566413,
+    "geom:area_square_m":1293122.566422,
     "geom:bbox":"150.966408256,-33.799501007,150.983658048,-33.7865048125",
     "geom:latitude":-33.793705,
     "geom:longitude":150.974943,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.793564,
     "lbl:longitude":150.974219,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Constitution Hill"
@@ -48,12 +54,15 @@
         102049565
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10586"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101929975
     ],
     "wof:country":"AU",
-    "wof:geomhash":"5bd17482405717e44bcd42e40154ade1",
+    "wof:geomhash":"7fcc8eb60f44776e3b5d90c9d8af213d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -66,7 +75,7 @@
         }
     ],
     "wof:id":404222743,
-    "wof:lastmodified":1566602810,
+    "wof:lastmodified":1695877598,
     "wof:name":"Constitution Hill",
     "wof:parent_id":102049565,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005375,
-    "geom:area_square_m":56912060.724016,
+    "geom:area_square_m":56912060.724092,
     "geom:bbox":"150.814543456,-31.134761007,150.914166112,-31.0434189405",
     "geom:latitude":-31.090522,
     "geom:longitude":150.856783,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.086273,
     "lbl:longitude":150.85773,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Westdale"
@@ -47,9 +53,12 @@
         102048785
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12482"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"efcbb5071e4e430416174e8e939e3184",
+    "wof:geomhash":"93f0a57091e5162ef2e0926e2cd73275",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":404227009,
-    "wof:lastmodified":1566601944,
+    "wof:lastmodified":1695877105,
     "wof:name":"Westdale",
     "wof:parent_id":102048785,
     "wof:placetype":"localadmin",

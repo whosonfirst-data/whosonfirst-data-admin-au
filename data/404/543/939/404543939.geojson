@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004953,
-    "geom:area_square_m":54242188.8942,
+    "geom:area_square_m":54242188.894228,
     "geom:bbox":"151.983012992,-27.7064859915,152.090194016,-27.631646998",
     "geom:latitude":-27.671817,
     "geom:longitude":152.038688,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.67122,
     "lbl:longitude":152.04935,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Rockmount"
@@ -38,9 +44,12 @@
         102049033
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31417"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"8a05cc57d349b9c26b7ccbf3b2bde5fa",
+    "wof:geomhash":"b0d75d195110bac5d2ecdc64c47cf489",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404543939,
-    "wof:lastmodified":1566602095,
+    "wof:lastmodified":1695877189,
     "wof:name":"Rockmount",
     "wof:parent_id":102049033,
     "wof:placetype":"localadmin",

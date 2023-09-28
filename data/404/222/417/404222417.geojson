@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000411,
-    "geom:area_square_m":4205330.486096,
+    "geom:area_square_m":4205330.486087,
     "geom:bbox":"150.6856544,-34.093409027,150.715785696,-34.071233003",
     "geom:latitude":-34.08418,
     "geom:longitude":150.700379,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.083849,
     "lbl:longitude":150.69916,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Camden South"
@@ -39,12 +45,15 @@
         102048421
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10441"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101929791
     ],
     "wof:country":"AU",
-    "wof:geomhash":"9003910df6e6855a6fc531dd5e2edfbf",
+    "wof:geomhash":"0ab3cbd9562aaf60178f3f51a38df07e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404222417,
-    "wof:lastmodified":1566602792,
+    "wof:lastmodified":1695877587,
     "wof:name":"Camden South",
     "wof:parent_id":102048421,
     "wof:placetype":"localadmin",

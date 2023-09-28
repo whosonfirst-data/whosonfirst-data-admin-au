@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00046,
-    "geom:area_square_m":4726473.246649,
+    "geom:area_square_m":4726473.246646,
     "geom:bbox":"151.275816,-33.7469579915,151.317714016,-33.7230169935",
     "geom:latitude":-33.734301,
     "geom:longitude":151.29463,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.733492,
     "lbl:longitude":151.294952,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Collaroy"
@@ -42,12 +48,15 @@
         102049493
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10558"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101929949
     ],
     "wof:country":"AU",
-    "wof:geomhash":"53f4f49eadbccaeb1bcf203ed1a4da53",
+    "wof:geomhash":"945b6131c675f4d3333d86dff5b17d8f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -60,7 +69,7 @@
         }
     ],
     "wof:id":404222681,
-    "wof:lastmodified":1566602753,
+    "wof:lastmodified":1695877561,
     "wof:name":"Collaroy",
     "wof:parent_id":102049493,
     "wof:placetype":"localadmin",

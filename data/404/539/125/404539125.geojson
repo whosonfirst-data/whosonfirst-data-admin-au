@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013217,
-    "geom:area_square_m":134991222.179178,
+    "geom:area_square_m":134991222.179167,
     "geom:bbox":"141.996822816,-34.3815660075,142.107636,-34.215756002",
     "geom:latitude":-34.313645,
     "geom:longitude":142.046156,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.312273,
     "lbl:longitude":142.041602,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Koorlong"
@@ -38,9 +44,12 @@
         102049611
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20733"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"93350234fc6bdcf2f1a1e24ace2d8d08",
+    "wof:geomhash":"386679d21c7876a73940d0d224081981",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404539125,
-    "wof:lastmodified":1566602417,
+    "wof:lastmodified":1695877368,
     "wof:name":"Koorlong",
     "wof:parent_id":102049611,
     "wof:placetype":"localadmin",

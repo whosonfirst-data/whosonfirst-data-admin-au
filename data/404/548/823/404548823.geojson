@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003162,
-    "geom:area_square_m":28622595.758529,
+    "geom:area_square_m":28622595.758431,
     "geom:bbox":"146.988385824,-42.9753829955,147.098243008,-42.903408431",
     "geom:latitude":-42.932897,
     "geom:longitude":147.048905,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-42.931918,
     "lbl:longitude":147.048879,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Crabtree"
@@ -77,9 +83,12 @@
         102048679
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60068"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"084591ae0e7d2dca3a22a1071aca35ec",
+    "wof:geomhash":"52ff1efdaff298ee07a386c1217d77ad",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -91,7 +100,7 @@
         }
     ],
     "wof:id":404548823,
-    "wof:lastmodified":1566603207,
+    "wof:lastmodified":1695877820,
     "wof:name":"Crabtree",
     "wof:parent_id":102048679,
     "wof:placetype":"localadmin",

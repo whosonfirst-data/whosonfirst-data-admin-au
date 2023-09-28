@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002207,
-    "geom:area_square_m":22496919.600034,
+    "geom:area_square_m":22496919.599971,
     "geom:bbox":"150.743944832,-34.482969003,150.83359136,-34.4363029935",
     "geom:latitude":-34.462836,
     "geom:longitude":150.785125,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.465073,
     "lbl:longitude":150.784416,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kembla Grange"
@@ -38,9 +44,12 @@
         102048853
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11223"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"02ad1903b863c9964fd0c61274b11f54",
+    "wof:geomhash":"ca192198dbbb64fb2f823a316d00fc46",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404224177,
-    "wof:lastmodified":1566602648,
+    "wof:lastmodified":1695877501,
     "wof:name":"Kembla Grange",
     "wof:parent_id":102048853,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007204,
-    "geom:area_square_m":83066296.709667,
+    "geom:area_square_m":83066296.709662,
     "geom:bbox":"148.896529984,-21.218615005,149.001072992,-21.1117112935",
     "geom:latitude":-21.170195,
     "geom:longitude":148.951236,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-21.168526,
     "lbl:longitude":148.955461,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Marian"
@@ -50,9 +56,12 @@
         102048783
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31016"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"d792de79037326c8db53a5c1d1977b43",
+    "wof:geomhash":"8c3af2b7c65279444f477bff9f4ccbb1",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":404543085,
-    "wof:lastmodified":1566602103,
+    "wof:lastmodified":1695877193,
     "wof:name":"Marian",
     "wof:parent_id":102048783,
     "wof:placetype":"localadmin",

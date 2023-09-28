@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000637,
-    "geom:area_square_m":5909324.868356,
+    "geom:area_square_m":5909324.868371,
     "geom:bbox":"146.986497984,-41.3681049935,147.02517984,-41.336680283",
     "geom:latitude":-41.351465,
     "geom:longitude":147.00524,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-41.35172,
     "lbl:longitude":147.004946,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:als_x_preferred":[
         "Grindelwald"
@@ -161,12 +167,15 @@
         102049419
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60143"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938115
     ],
     "wof:country":"AU",
-    "wof:geomhash":"7f4481a64aa29c64c41f3677984d195c",
+    "wof:geomhash":"fef8b1200d9cc24d896315cdb4afff08",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -178,7 +187,7 @@
         }
     ],
     "wof:id":404548991,
-    "wof:lastmodified":1566603161,
+    "wof:lastmodified":1695877795,
     "wof:name":"Grindelwald",
     "wof:parent_id":102049419,
     "wof:placetype":"localadmin",

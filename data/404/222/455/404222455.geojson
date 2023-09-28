@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015272,
-    "geom:area_square_m":155700143.886413,
+    "geom:area_square_m":155700143.886533,
     "geom:bbox":"150.045220448,-34.5643988435,150.19736,-34.3675460045",
     "geom:latitude":-34.462707,
     "geom:longitude":150.125876,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.448956,
     "lbl:longitude":150.133368,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Canyonleigh"
@@ -39,9 +45,12 @@
         102048539
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10458"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"6c3fc1fd10420e8aba749bd4bdc22c85",
+    "wof:geomhash":"21453a58ab1edb381547e815657c3382",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":404222455,
-    "wof:lastmodified":1566602766,
+    "wof:lastmodified":1695877570,
     "wof:name":"Canyonleigh",
     "wof:parent_id":102048539,
     "wof:placetype":"localadmin",

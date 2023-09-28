@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000418,
-    "geom:area_square_m":4641395.106956,
+    "geom:area_square_m":4641395.106955,
     "geom:bbox":"152.968309792,-25.9909972715,153.0035096,-25.9564731265",
     "geom:latitude":-25.973602,
     "geom:longitude":152.98479,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-25.968679,
     "lbl:longitude":152.978647,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Cooloola Cove"
@@ -38,12 +44,15 @@
         102049393
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30409"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934211
     ],
     "wof:country":"AU",
-    "wof:geomhash":"d9cd3ea1266f298cdabb3eaaeed885e4",
+    "wof:geomhash":"5deb31e308ddd8dccb3b815fdf39d4b6",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404541803,
-    "wof:lastmodified":1566603060,
+    "wof:lastmodified":1695877750,
     "wof:name":"Cooloola Cove",
     "wof:parent_id":102049393,
     "wof:placetype":"localadmin",

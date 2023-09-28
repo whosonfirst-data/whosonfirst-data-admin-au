@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000966,
-    "geom:area_square_m":9941207.598223,
+    "geom:area_square_m":9941207.598219,
     "geom:bbox":"150.586209632,-33.7013183065,150.636176992,-33.6619475685",
     "geom:latitude":-33.678471,
     "geom:longitude":150.612135,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.673756,
     "lbl:longitude":150.61213,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Winmalee"
@@ -38,12 +44,15 @@
         102049627
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12524"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932373
     ],
     "wof:country":"AU",
-    "wof:geomhash":"137fd3e351ab6510e670956f12f92a87",
+    "wof:geomhash":"ded3cc58bf03af2dc13bbe7da010c1ab",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404227103,
-    "wof:lastmodified":1566601935,
+    "wof:lastmodified":1695877101,
     "wof:name":"Winmalee",
     "wof:parent_id":102049627,
     "wof:placetype":"localadmin",

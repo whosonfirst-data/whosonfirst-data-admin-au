@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00039,
-    "geom:area_square_m":3802725.753228,
+    "geom:area_square_m":3802694.691411,
     "geom:bbox":"145.04469,-37.9065,145.06746,-37.881026",
     "geom:latitude":-37.893391,
     "geom:longitude":145.055898,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.892883,
     "lbl:longitude":145.056115,
     "lbl:max_zoom":18.0,
@@ -115,13 +121,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC20261",
         "wd:id":"Q5043870"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932725
     ],
     "wof:country":"AU",
-    "wof:geomhash":"05f19f713344310a73d7238b8877587a",
+    "wof:geomhash":"bc297b3d29ce52b2de76d1987c5e9103",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -134,7 +142,7 @@
         }
     ],
     "wof:id":404538073,
-    "wof:lastmodified":1690853590,
+    "wof:lastmodified":1695877959,
     "wof:name":"Carnegie",
     "wof:parent_id":102048479,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017185,
-    "geom:area_square_m":173740436.834078,
+    "geom:area_square_m":173740707.843826,
     "geom:bbox":"149.126856,-35.258141,149.339889,-35.077016",
     "geom:latitude":-35.153894,
     "geom:longitude":149.229424,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.155933,
     "lbl:longitude":149.231018,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ang_x_preferred":[
         "S\u016b\u00fetun"
@@ -122,9 +128,12 @@
         102049253
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12185"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"816f02c48bf653294b4e3dd1170c72b1",
+    "wof:geomhash":"cb24f69102da480657e2b907430f9f19",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -136,7 +145,7 @@
         }
     ],
     "wof:id":404226341,
-    "wof:lastmodified":1636494614,
+    "wof:lastmodified":1695877850,
     "wof:name":"Sutton",
     "wof:parent_id":102049253,
     "wof:placetype":"localadmin",

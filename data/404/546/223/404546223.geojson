@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000246,
-    "geom:area_square_m":2493325.970618,
+    "geom:area_square_m":2493325.970616,
     "geom:bbox":"139.288696,-35.110033385,139.313140192,-35.089695003",
     "geom:latitude":-35.099739,
     "geom:longitude":139.300543,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.09993,
     "lbl:longitude":139.300359,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Riverglades"
@@ -39,12 +45,15 @@
         102048515
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40627"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101936539
     ],
     "wof:country":"AU",
-    "wof:geomhash":"d001aa034ea1c42d7d2ef24afafcc94f",
+    "wof:geomhash":"818075d04d60d6c23b1031a26eb01e94",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404546223,
-    "wof:lastmodified":1566603138,
+    "wof:lastmodified":1695877786,
     "wof:name":"Riverglades",
     "wof:parent_id":102048515,
     "wof:placetype":"localadmin",

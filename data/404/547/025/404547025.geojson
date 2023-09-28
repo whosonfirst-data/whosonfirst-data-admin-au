@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000538,
-    "geom:area_square_m":5630729.482665,
+    "geom:area_square_m":5630729.48265,
     "geom:bbox":"115.963003616,-32.142174659,116.012928608,-32.090479591",
     "geom:latitude":-32.119125,
     "geom:longitude":115.986165,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.130958,
     "lbl:longitude":115.975368,
     "lbl:max_zoom":18.0,
@@ -45,13 +51,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC50150",
         "wd:id":"Q5070011"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937007
     ],
     "wof:country":"AU",
-    "wof:geomhash":"aa0a71477cb2e0042dd15e4f209f8790",
+    "wof:geomhash":"296c372f887a6334553003fac1567ade",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -63,7 +71,7 @@
         }
     ],
     "wof:id":404547025,
-    "wof:lastmodified":1566602930,
+    "wof:lastmodified":1695878016,
     "wof:name":"Champion Lakes",
     "wof:parent_id":102048875,
     "wof:placetype":"localadmin",

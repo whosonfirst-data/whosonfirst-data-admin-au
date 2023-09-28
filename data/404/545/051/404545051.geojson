@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.040268,
-    "geom:area_square_m":409383784.967112,
+    "geom:area_square_m":409383784.967312,
     "geom:bbox":"139.150688032,-34.784709997,139.437224992,-34.6120859975",
     "geom:latitude":-34.695578,
     "geom:longitude":139.294697,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.695173,
     "lbl:longitude":139.292,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Cambrai"
@@ -200,9 +206,12 @@
         102049005
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40089"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"a97f4081a31cebf23f0e240ebba66fb5",
+    "wof:geomhash":"8aa5d2f5e4c0c632037f5c10d9af2740",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -214,7 +223,7 @@
         }
     ],
     "wof:id":404545051,
-    "wof:lastmodified":1566602249,
+    "wof:lastmodified":1695877265,
     "wof:name":"Cambrai",
     "wof:parent_id":102049005,
     "wof:placetype":"localadmin",

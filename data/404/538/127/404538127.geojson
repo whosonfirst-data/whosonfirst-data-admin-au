@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.083827,
-    "geom:area_square_m":828424068.280838,
+    "geom:area_square_m":828424068.280197,
     "geom:bbox":"146.27712,-37.162591476,146.673978496,-36.73396801",
     "geom:latitude":-36.941818,
     "geom:longitude":146.513277,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.943706,
     "lbl:longitude":146.526749,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0686\u0632\u0646\u062a"
@@ -92,9 +98,12 @@
         102049395
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20285"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"a2b93fd3f3c132787e05b4b0a98aa200",
+    "wof:geomhash":"ddfbb69fa388bb298b4d2d7e0c1af578",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -106,7 +115,7 @@
         }
     ],
     "wof:id":404538127,
-    "wof:lastmodified":1566602451,
+    "wof:lastmodified":1695877386,
     "wof:name":"Cheshunt",
     "wof:parent_id":102049395,
     "wof:placetype":"localadmin",

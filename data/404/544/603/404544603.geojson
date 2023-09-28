@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.086728,
-    "geom:area_square_m":1023283401.127221,
+    "geom:area_square_m":1023283401.127307,
     "geom:bbox":"144.927662016,-17.624645535,145.437168928,-17.2116158485",
     "geom:latitude":-17.408545,
     "geom:longitude":145.164593,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-17.448281,
     "lbl:longitude":145.143349,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Watsonville"
@@ -38,9 +44,12 @@
         102048519
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31736"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"75b813bd09966a494d14535ab8591034",
+    "wof:geomhash":"efa84981d77a9b302ac91206e8ac29ac",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404544603,
-    "wof:lastmodified":1566602167,
+    "wof:lastmodified":1695877226,
     "wof:name":"Watsonville",
     "wof:parent_id":102048519,
     "wof:placetype":"localadmin",

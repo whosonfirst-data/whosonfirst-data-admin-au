@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.149863,
-    "geom:area_square_m":1675853997.485101,
+    "geom:area_square_m":1675853997.483772,
     "geom:bbox":"152.925158176,-25.7974239645,153.360352096,-24.696996031",
     "geom:latitude":-25.261594,
     "geom:longitude":153.141294,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-25.226406,
     "lbl:longitude":153.145921,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062c\u0632\u064a\u0631\u0629 \u0641\u0631\u064a\u0631\u0632"
@@ -176,9 +182,12 @@
         102049435
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30624"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"37f9f9d652a2d2cd2dd184a4031009c8",
+    "wof:geomhash":"96205f8399d6147d1de988e37a6ac8e4",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -190,7 +199,7 @@
         }
     ],
     "wof:id":404542249,
-    "wof:lastmodified":1566602300,
+    "wof:lastmodified":1695877293,
     "wof:name":"Fraser Island",
     "wof:parent_id":102049435,
     "wof:placetype":"localadmin",

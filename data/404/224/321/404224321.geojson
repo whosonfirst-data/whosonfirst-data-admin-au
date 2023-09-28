@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00005,
-    "geom:area_square_m":522650.884546,
+    "geom:area_square_m":522650.884545,
     "geom:bbox":"151.682976992,-32.953822865,151.697225888,-32.948434999",
     "geom:latitude":-32.951217,
     "geom:longitude":151.689857,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.951139,
     "lbl:longitude":151.68986,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kotara South"
@@ -39,12 +45,15 @@
         102048999
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11287"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101930943
     ],
     "wof:country":"AU",
-    "wof:geomhash":"6bdc2d455874ff4bb8d172200b974b57",
+    "wof:geomhash":"56d8c196b99ecf06552b60fb2ba93217",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404224321,
-    "wof:lastmodified":1566602654,
+    "wof:lastmodified":1695877503,
     "wof:name":"Kotara South",
     "wof:parent_id":102048999,
     "wof:placetype":"localadmin",

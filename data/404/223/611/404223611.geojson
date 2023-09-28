@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01764,
-    "geom:area_square_m":188793767.988364,
+    "geom:area_square_m":188793767.988124,
     "geom:bbox":"152.89303552,-30.1543470505,153.10528,-29.9776420065",
     "geom:latitude":-30.054341,
     "geom:longitude":153.004307,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-30.049078,
     "lbl:longitude":153.032247,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Glenreagh"
@@ -50,9 +56,12 @@
         102048835
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10972"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"186f4fa4d2bdb48be105194d95c54231",
+    "wof:geomhash":"8698c13f00c959d14067b724a20151f3",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":404223611,
-    "wof:lastmodified":1566602509,
+    "wof:lastmodified":1695877419,
     "wof:name":"Glenreagh",
     "wof:parent_id":102048835,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001391,
-    "geom:area_square_m":14303616.002306,
+    "geom:area_square_m":14303616.002297,
     "geom:bbox":"151.147750752,-33.7519440005,151.191801376,-33.697875364",
     "geom:latitude":-33.725021,
     "geom:longitude":151.172293,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.728832,
     "lbl:longitude":151.170804,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "St Ives"
@@ -69,12 +75,15 @@
         102049381
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12146"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931943
     ],
     "wof:country":"AU",
-    "wof:geomhash":"90bf4b4e98d61579dc657cb2998458a9",
+    "wof:geomhash":"d09899cc8e6b80129ca11324c3e6522c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -87,7 +96,7 @@
         }
     ],
     "wof:id":404226253,
-    "wof:lastmodified":1566602075,
+    "wof:lastmodified":1695877178,
     "wof:name":"St Ives",
     "wof:parent_id":102049381,
     "wof:placetype":"localadmin",

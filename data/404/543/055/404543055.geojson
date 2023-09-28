@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000219,
-    "geom:area_square_m":2541086.91564,
+    "geom:area_square_m":2541091.410992,
     "geom:bbox":"148.732421,-20.285314,148.746497,-20.252921",
     "geom:latitude":-20.269958,
     "geom:longitude":148.738919,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-20.270134,
     "lbl:longitude":148.738227,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Mandalay"
@@ -227,12 +233,15 @@
         102049581
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31000"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934767
     ],
     "wof:country":"AU",
-    "wof:geomhash":"3840bc53e212f699c511194fdf6d8b7c",
+    "wof:geomhash":"4c27c7add72419f1cf4c4aecf077ed12",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -244,7 +253,7 @@
         }
     ],
     "wof:id":404543055,
-    "wof:lastmodified":1636494617,
+    "wof:lastmodified":1695877851,
     "wof:name":"Mandalay",
     "wof:parent_id":102049581,
     "wof:placetype":"localadmin",

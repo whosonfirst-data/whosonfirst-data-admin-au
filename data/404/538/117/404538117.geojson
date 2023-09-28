@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.083365,
-    "geom:area_square_m":830481230.159696,
+    "geom:area_square_m":830481230.160081,
     "geom:bbox":"143.074196,-36.4999386625,143.568731904,-36.188043925",
     "geom:latitude":-36.327516,
     "geom:longitude":143.319437,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.326332,
     "lbl:longitude":143.34374,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Charlton"
@@ -86,9 +92,12 @@
         102049557
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20280"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"380930dbaa970cebd048319929e03d7e",
+    "wof:geomhash":"83c171b22b8b002980a93ccf01152cac",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -100,7 +109,7 @@
         }
     ],
     "wof:id":404538117,
-    "wof:lastmodified":1566602455,
+    "wof:lastmodified":1695877388,
     "wof:name":"Charlton",
     "wof:parent_id":102049557,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000112,
-    "geom:area_square_m":1158894.391338,
+    "geom:area_square_m":1158894.391343,
     "geom:bbox":"151.669867488,-32.942663221,151.686288672,-32.929345922",
     "geom:latitude":-32.935767,
     "geom:longitude":151.67788,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.936189,
     "lbl:longitude":151.679931,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Cardiff Heights"
@@ -39,12 +45,15 @@
         102048999
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10464"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101929819
     ],
     "wof:country":"AU",
-    "wof:geomhash":"57733116bb6c034d573f284168b46a71",
+    "wof:geomhash":"f7ae96668d89463279f4e6a9f7d8bdb2",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404222469,
-    "wof:lastmodified":1566602800,
+    "wof:lastmodified":1695877592,
     "wof:name":"Cardiff Heights",
     "wof:parent_id":102048999,
     "wof:placetype":"localadmin",

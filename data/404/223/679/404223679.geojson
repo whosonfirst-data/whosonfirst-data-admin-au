@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005456,
-    "geom:area_square_m":55436175.772434,
+    "geom:area_square_m":55436317.319085,
     "geom:bbox":"149.671622,-34.793823,149.775883,-34.6956",
     "geom:latitude":-34.747878,
     "geom:longitude":149.727754,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.747283,
     "lbl:longitude":149.726961,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u0997\u09cb\u0989\u09b2\u09ac\u09be\u09b0\u09cd\u09a8"
@@ -59,12 +65,15 @@
         102048827
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11002"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101930483
     ],
     "wof:country":"AU",
-    "wof:geomhash":"89c8f401b8571f33f74eb90ea7374aef",
+    "wof:geomhash":"144a8a09bfee769e15e40cbf9b72b988",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -76,7 +85,7 @@
         }
     ],
     "wof:id":404223679,
-    "wof:lastmodified":1636494644,
+    "wof:lastmodified":1695877862,
     "wof:name":"Goulburn",
     "wof:parent_id":102048827,
     "wof:placetype":"localadmin",

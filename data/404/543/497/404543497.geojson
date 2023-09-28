@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004093,
-    "geom:area_square_m":46445274.441646,
+    "geom:area_square_m":46445274.44156,
     "geom:bbox":"150.571105184,-23.48266591,150.659821088,-23.3417557945",
     "geom:latitude":-23.412106,
     "geom:longitude":150.610098,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-23.402518,
     "lbl:longitude":150.591613,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Nerimbera"
@@ -38,9 +44,12 @@
         102048825
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31211"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"97038bea4f6a45b95e323effbb518a8f",
+    "wof:geomhash":"de109a56b7763e353584051d5b81e839",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404543497,
-    "wof:lastmodified":1566602108,
+    "wof:lastmodified":1695877195,
     "wof:name":"Nerimbera",
     "wof:parent_id":102048825,
     "wof:placetype":"localadmin",

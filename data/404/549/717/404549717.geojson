@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000992,
-    "geom:area_square_m":11973776.858859,
+    "geom:area_square_m":11973776.858848,
     "geom:bbox":"135.774024992,-12.520479995,135.816327008,-12.486390008",
     "geom:latitude":-12.505575,
     "geom:longitude":135.795428,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-12.506974,
     "lbl:longitude":135.795025,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Gapuwiyak"
@@ -38,12 +44,15 @@
         102049201
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC70069"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938457
     ],
     "wof:country":"AU",
-    "wof:geomhash":"3d7172880b2c43c09bd7d59b1d0f33f0",
+    "wof:geomhash":"c17a6621c3708efdae1020abedc161e2",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404549717,
-    "wof:lastmodified":1566602913,
+    "wof:lastmodified":1695877669,
     "wof:name":"Gapuwiyak",
     "wof:parent_id":102049201,
     "wof:placetype":"localadmin",

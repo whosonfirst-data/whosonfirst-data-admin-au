@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020345,
-    "geom:area_square_m":207444560.823092,
+    "geom:area_square_m":207444560.822767,
     "geom:bbox":"149.339216992,-34.56077153,149.562302016,-34.3379023815",
     "geom:latitude":-34.453285,
     "geom:longitude":149.457366,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.468557,
     "lbl:longitude":149.458909,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Crookwell"
@@ -38,9 +44,12 @@
         102048469
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10644"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"007602a35a8a825a778cb632f6d50cab",
+    "wof:geomhash":"b6ed3001c1813232b4961b76ef94d394",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404222873,
-    "wof:lastmodified":1566602757,
+    "wof:lastmodified":1695877565,
     "wof:name":"Crookwell",
     "wof:parent_id":102048469,
     "wof:placetype":"localadmin",

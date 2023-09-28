@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002661,
-    "geom:area_square_m":27248518.664636,
+    "geom:area_square_m":27248518.66468,
     "geom:bbox":"150.936565024,-34.147715592,151.020989632,-34.060178994",
     "geom:latitude":-34.106119,
     "geom:longitude":150.980455,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.118203,
     "lbl:longitude":150.974077,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Heathcote"
@@ -63,9 +69,12 @@
         102049511
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11092"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"510306d9e8e420af8742370f0d5c7bbe",
+    "wof:geomhash":"c300b1fa925ddeefe047a08aa66864e5",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -78,7 +87,7 @@
         }
     ],
     "wof:id":404223881,
-    "wof:lastmodified":1566602508,
+    "wof:lastmodified":1695877419,
     "wof:name":"Heathcote",
     "wof:parent_id":102049511,
     "wof:placetype":"localadmin",

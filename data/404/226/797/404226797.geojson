@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031465,
-    "geom:area_square_m":315744750.160357,
+    "geom:area_square_m":315744750.160119,
     "geom:bbox":"146.766210016,-35.9235770085,146.973871008,-35.6303319915",
     "geom:latitude":-35.753209,
     "geom:longitude":146.878434,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.741358,
     "lbl:longitude":146.888547,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Walla Walla"
@@ -74,9 +80,12 @@
         102049625
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12388"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"6cf9a08d2bc0b906a3370c144c6b47bb",
+    "wof:geomhash":"23824140f97d73aa422661d20156f9dc",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -88,7 +97,7 @@
         }
     ],
     "wof:id":404226797,
-    "wof:lastmodified":1566602012,
+    "wof:lastmodified":1695877139,
     "wof:name":"Walla Walla",
     "wof:parent_id":102049625,
     "wof:placetype":"localadmin",

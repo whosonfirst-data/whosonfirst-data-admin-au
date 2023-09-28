@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007397,
-    "geom:area_square_m":80388729.245365,
+    "geom:area_square_m":80388729.245366,
     "geom:bbox":"153.149772928,-28.5271550565,153.286730016,-28.444016001",
     "geom:latitude":-28.48994,
     "geom:longitude":153.224747,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.486736,
     "lbl:longitude":153.231594,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mount Burrell"
@@ -44,9 +50,12 @@
         102048589
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11611"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"ddb6b2c2b36bedbce8c06185792142b3",
+    "wof:geomhash":"8285aacbb94d2dd3ecfee5749e23bf53",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404225049,
-    "wof:lastmodified":1566602677,
+    "wof:lastmodified":1695877517,
     "wof:name":"Mount Burrell",
     "wof:parent_id":102048589,
     "wof:placetype":"localadmin",

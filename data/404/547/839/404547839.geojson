@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033954,
-    "geom:area_square_m":361321198.867561,
+    "geom:area_square_m":361321198.867542,
     "geom:bbox":"115.887377056,-30.7192099925,116.125980992,-30.5047460045",
     "geom:latitude":-30.615261,
     "geom:longitude":116.008424,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-30.611707,
     "lbl:longitude":115.99422,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Moora"
@@ -41,9 +47,12 @@
         102048971
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50514"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"1094ee5118a4390a333684ec78a1b561",
+    "wof:geomhash":"e79e81a3946d45428fe91e2c6350ea58",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404547839,
-    "wof:lastmodified":1566602968,
+    "wof:lastmodified":1695877700,
     "wof:name":"Moora",
     "wof:parent_id":102048971,
     "wof:placetype":"localadmin",

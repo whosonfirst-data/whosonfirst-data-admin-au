@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034544,
-    "geom:area_square_m":380917273.499319,
+    "geom:area_square_m":380916843.627316,
     "geom:bbox":"151.369415,-26.9986,151.674504,-26.772076",
     "geom:latitude":-26.90375,
     "geom:longitude":151.507963,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-26.889784,
     "lbl:longitude":151.493089,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Klok"
@@ -272,9 +278,12 @@
         102048423
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30134"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"069e764ec25109e07053cb12d48cd928",
+    "wof:geomhash":"cc23db88464a9502b0c10df2609963ef",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -286,7 +295,7 @@
         }
     ],
     "wof:id":404541223,
-    "wof:lastmodified":1636494676,
+    "wof:lastmodified":1695877883,
     "wof:name":"Bell",
     "wof:parent_id":102048423,
     "wof:placetype":"localadmin",

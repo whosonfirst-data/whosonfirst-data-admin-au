@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001142,
-    "geom:area_square_m":11217321.292677,
+    "geom:area_square_m":11217321.292685,
     "geom:bbox":"145.020584992,-37.4000739965,145.066376,-37.362587243",
     "geom:latitude":-37.381715,
     "geom:longitude":145.042107,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.382317,
     "lbl:longitude":145.042543,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Heathcote Junction"
@@ -38,9 +44,12 @@
         102048437
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20612"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"e0b5325212165121929ed006dfff96a6",
+    "wof:geomhash":"ca5cbd31b666fa0d3e22baec1070a45d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404538857,
-    "wof:lastmodified":1566602440,
+    "wof:lastmodified":1695877381,
     "wof:name":"Heathcote Junction",
     "wof:parent_id":102048437,
     "wof:placetype":"localadmin",

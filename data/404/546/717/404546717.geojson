@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001339,
-    "geom:area_square_m":13798911.275288,
+    "geom:area_square_m":13798911.275302,
     "geom:bbox":"115.746468,-33.572829424,115.791747968,-33.52137789",
     "geom:latitude":-33.54579,
     "geom:longitude":115.770675,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.550128,
     "lbl:longitude":115.776343,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Argyle"
@@ -86,9 +92,12 @@
         102049113
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50013"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"d3bb8dba29353ad5b9b841cdfe423e0b",
+    "wof:geomhash":"e25330481c29b35078c33403ba69c36b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -100,7 +109,7 @@
         }
     ],
     "wof:id":404546717,
-    "wof:lastmodified":1566603151,
+    "wof:lastmodified":1695877790,
     "wof:name":"Argyle",
     "wof:parent_id":102049113,
     "wof:placetype":"localadmin",

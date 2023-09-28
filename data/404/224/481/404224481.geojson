@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001135,
-    "geom:area_square_m":11670041.980262,
+    "geom:area_square_m":11670041.980271,
     "geom:bbox":"150.320218016,-33.7378800045,150.357548,-33.681699001",
     "geom:latitude":-33.707756,
     "geom:longitude":150.337781,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.709936,
     "lbl:longitude":150.337489,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Leura"
@@ -38,12 +44,15 @@
         102049627
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11358"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931029
     ],
     "wof:country":"AU",
-    "wof:geomhash":"2158593070eb1ca75c3a43be4b392d4d",
+    "wof:geomhash":"26502e52cec982707a6ed9f4dd609426",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404224481,
-    "wof:lastmodified":1566602624,
+    "wof:lastmodified":1695877488,
     "wof:name":"Leura",
     "wof:parent_id":102049627,
     "wof:placetype":"localadmin",

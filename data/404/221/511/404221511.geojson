@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001755,
-    "geom:area_square_m":18250094.648708,
+    "geom:area_square_m":18250094.648719,
     "geom:bbox":"152.056717568,-32.790141007,152.132624384,-32.7426669915",
     "geom:latitude":-32.763671,
     "geom:longitude":152.094164,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.762778,
     "lbl:longitude":152.093591,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Anna Bay"
@@ -38,9 +44,12 @@
         102049095
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10038"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"57e532a77f94e3d9f19d4e5979b9a37b",
+    "wof:geomhash":"0ff4eb88c73da19e764a4482795c40f8",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404221511,
-    "wof:lastmodified":1566601986,
+    "wof:lastmodified":1695877126,
     "wof:name":"Anna Bay",
     "wof:parent_id":102049095,
     "wof:placetype":"localadmin",

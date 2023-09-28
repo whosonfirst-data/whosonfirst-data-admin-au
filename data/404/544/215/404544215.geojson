@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00008,
-    "geom:area_square_m":903518.408721,
+    "geom:area_square_m":903518.408727,
     "geom:bbox":"151.253148,-23.882711242,151.261373152,-23.868194403",
     "geom:latitude":-23.875155,
     "geom:longitude":151.257521,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-23.874847,
     "lbl:longitude":151.25752,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sun Valley"
@@ -77,12 +83,15 @@
         102049463
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31551"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935391
     ],
     "wof:country":"AU",
-    "wof:geomhash":"8582027a8fed8523b68107bb1d4e4122",
+    "wof:geomhash":"42f981dec98129bc94cd473c43e0ebfd",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -94,7 +103,7 @@
         }
     ],
     "wof:id":404544215,
-    "wof:lastmodified":1566602187,
+    "wof:lastmodified":1695877237,
     "wof:name":"Sun Valley",
     "wof:parent_id":102049463,
     "wof:placetype":"localadmin",

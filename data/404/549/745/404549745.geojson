@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.319423,
-    "geom:area_square_m":15904777129.048557,
+    "geom:area_square_m":15904777129.04595,
     "geom:bbox":"131.878915008,-13.8085363345,132.999241536,-12.0729529145",
     "geom:latitude":-12.868499,
     "geom:longitude":132.473978,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-12.922183,
     "lbl:longitude":132.482775,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Kakadu"
@@ -44,9 +50,12 @@
         102049147
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC70095"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"314cc2a01e3c3e82dcf76f955047591d",
+    "wof:geomhash":"f6f2248c05bc2f0b0f2c9f3f0572eb1b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404549745,
-    "wof:lastmodified":1566602916,
+    "wof:lastmodified":1695877672,
     "wof:name":"Kakadu",
     "wof:parent_id":102049147,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000904,
-    "geom:area_square_m":8844596.727349,
+    "geom:area_square_m":8844596.727336,
     "geom:bbox":"144.897486272,-37.716249301,144.959268,-37.692197821",
     "geom:latitude":-37.702851,
     "geom:longitude":144.927489,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.703471,
     "lbl:longitude":144.925,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Glenroy"
@@ -42,12 +48,15 @@
         102049195
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20547"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932977
     ],
     "wof:country":"AU",
-    "wof:geomhash":"02c258a00584b4b306bb824f1807d381",
+    "wof:geomhash":"3b57905cc1b5b1c872253d7448002417",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -60,7 +69,7 @@
         }
     ],
     "wof:id":404538711,
-    "wof:lastmodified":1566602484,
+    "wof:lastmodified":1695877404,
     "wof:name":"Glenroy",
     "wof:parent_id":102049195,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.185748,
-    "geom:area_square_m":2013476246.736199,
+    "geom:area_square_m":2013476246.735404,
     "geom:bbox":"150.754603552,-29.1778976995,151.505801888,-28.4747129955",
     "geom:latitude":-28.75972,
     "geom:longitude":151.170597,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.714449,
     "lbl:longitude":151.145139,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Texas"
@@ -578,9 +584,12 @@
         102048595
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31600"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"821667258d0e7fac70af15517905d83b",
+    "wof:geomhash":"ac292a0c3df1dcaab088cfaddd62581f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -592,7 +601,7 @@
         }
     ],
     "wof:id":404544325,
-    "wof:lastmodified":1566602177,
+    "wof:lastmodified":1695877232,
     "wof:name":"Texas",
     "wof:parent_id":102048595,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009627,
-    "geom:area_square_m":98834999.344501,
+    "geom:area_square_m":98834999.344563,
     "geom:bbox":"137.60025984,-33.9089809915,137.775894016,-33.8180070195",
     "geom:latitude":-33.870407,
     "geom:longitude":137.684887,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.864055,
     "lbl:longitude":137.677831,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Wallaroo Plain"
@@ -38,9 +44,12 @@
         102049563
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40763"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"f7d4985f518936c63a9b9b9c1087a0da",
+    "wof:geomhash":"1617d791684772457d0bffef34736900",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404546509,
-    "wof:lastmodified":1566603134,
+    "wof:lastmodified":1695877784,
     "wof:name":"Wallaroo Plain",
     "wof:parent_id":102049563,
     "wof:placetype":"localadmin",

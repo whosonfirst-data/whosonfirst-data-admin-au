@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000168,
-    "geom:area_square_m":1686057.872925,
+    "geom:area_square_m":1686057.872926,
     "geom:bbox":"140.045531392,-35.891465393,140.068711456,-35.8760803675",
     "geom:latitude":-35.885004,
     "geom:longitude":140.057078,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.883658,
     "lbl:longitude":140.058044,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tintinara"
@@ -38,12 +44,15 @@
         102048883
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40725"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101936679
     ],
     "wof:country":"AU",
-    "wof:geomhash":"dcbd6f9bcb82599df135edc583018081",
+    "wof:geomhash":"a80ec2212afd5624ff6c0af9cb71e2a3",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404546423,
-    "wof:lastmodified":1566603116,
+    "wof:lastmodified":1695877776,
     "wof:name":"Tintinara",
     "wof:parent_id":102048883,
     "wof:placetype":"localadmin",

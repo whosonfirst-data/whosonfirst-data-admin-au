@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.173994,
-    "geom:area_square_m":1766797729.727474,
+    "geom:area_square_m":1766797729.727539,
     "geom:bbox":"140.367218816,-35.0195943035,140.85138672,-34.5065309915",
     "geom:latitude":-34.793985,
     "geom:longitude":140.592872,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.817686,
     "lbl:longitude":140.597644,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Paruna"
@@ -38,9 +44,12 @@
         102049421
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40556"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"396e62624dfd681e06d8b133dc9b98ac",
+    "wof:geomhash":"fb8ac17cfced45a3246e6f45f7668a07",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404546069,
-    "wof:lastmodified":1566603146,
+    "wof:lastmodified":1695877788,
     "wof:name":"Paruna",
     "wof:parent_id":102049421,
     "wof:placetype":"localadmin",

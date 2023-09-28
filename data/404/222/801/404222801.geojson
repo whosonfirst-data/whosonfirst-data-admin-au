@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022983,
-    "geom:area_square_m":239906351.553229,
+    "geom:area_square_m":239906351.5531,
     "geom:bbox":"149.657712992,-32.5026399995,149.867558016,-32.3045020025",
     "geom:latitude":-32.414659,
     "geom:longitude":149.763061,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.412152,
     "lbl:longitude":149.773433,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Cooyal"
@@ -38,9 +44,12 @@
         102049261
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10612"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"a0e86cb8565fc19c07f9c93381cef6fe",
+    "wof:geomhash":"25f89c0f3320d5ce8ac7f5dff37e1492",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404222801,
-    "wof:lastmodified":1566602807,
+    "wof:lastmodified":1695877597,
     "wof:name":"Cooyal",
     "wof:parent_id":102049261,
     "wof:placetype":"localadmin",

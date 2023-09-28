@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00037,
-    "geom:area_square_m":4017349.262296,
+    "geom:area_square_m":4017349.262305,
     "geom:bbox":"153.505248,-28.4883560055,153.538472992,-28.461214415",
     "geom:latitude":-28.473346,
     "geom:longitude":153.519415,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.472422,
     "lbl:longitude":153.519418,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Wooyung"
@@ -38,9 +44,12 @@
         102048747
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12573"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"1c2e26e716a2c47c1357ccf0dca8f1ca",
+    "wof:geomhash":"0a7b73c76e3c06f7025fbba6de550d02",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404227213,
-    "wof:lastmodified":1566601954,
+    "wof:lastmodified":1695877111,
     "wof:name":"Wooyung",
     "wof:parent_id":102048747,
     "wof:placetype":"localadmin",

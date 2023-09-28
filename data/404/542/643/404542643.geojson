@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014507,
-    "geom:area_square_m":158857427.464634,
+    "geom:area_square_m":158857427.464622,
     "geom:bbox":"151.431913088,-27.7569450005,151.605000992,-27.5859759925",
     "geom:latitude":-27.676946,
     "geom:longitude":151.516201,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.675405,
     "lbl:longitude":151.50768,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Irongate"
@@ -38,9 +44,12 @@
         102049357
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30810"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"1df0b039ceb00a47e53a616bcae8f49e",
+    "wof:geomhash":"ca52889571430b49280c9c06e72dad51",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404542643,
-    "wof:lastmodified":1566602268,
+    "wof:lastmodified":1695877274,
     "wof:name":"Irongate",
     "wof:parent_id":102049357,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000458,
-    "geom:area_square_m":4704360.996451,
+    "geom:area_square_m":4704360.996424,
     "geom:bbox":"151.137953632,-33.783116667,151.178023072,-33.7548600075",
     "geom:latitude":-33.76796,
     "geom:longitude":151.157291,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.769383,
     "lbl:longitude":151.154294,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Killara"
@@ -54,12 +60,15 @@
         102049381
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11244"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101930883
     ],
     "wof:country":"AU",
-    "wof:geomhash":"1146c137545f0e1acd88bf553df2b8ef",
+    "wof:geomhash":"71765428ebb2a60b0906adf38cd820a0",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -72,7 +81,7 @@
         }
     ],
     "wof:id":404224223,
-    "wof:lastmodified":1566602624,
+    "wof:lastmodified":1695877488,
     "wof:name":"Killara",
     "wof:parent_id":102049381,
     "wof:placetype":"localadmin",

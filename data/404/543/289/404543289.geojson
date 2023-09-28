@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010898,
-    "geom:area_square_m":119904660.583553,
+    "geom:area_square_m":119904660.583548,
     "geom:bbox":"152.356102016,-27.217285996,152.53569504,-27.077792",
     "geom:latitude":-27.151162,
     "geom:longitude":152.43557,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.144241,
     "lbl:longitude":152.434127,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mount Beppo"
@@ -38,9 +44,12 @@
         102049287
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31116"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"d97f0558e207a45efcb9713315c46b43",
+    "wof:geomhash":"d510c904b852340b36cf196aea98c983",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404543289,
-    "wof:lastmodified":1566602101,
+    "wof:lastmodified":1695877192,
     "wof:name":"Mount Beppo",
     "wof:parent_id":102049287,
     "wof:placetype":"localadmin",

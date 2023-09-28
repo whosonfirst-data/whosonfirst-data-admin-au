@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000273,
-    "geom:area_square_m":2759629.426187,
+    "geom:area_square_m":2759629.426188,
     "geom:bbox":"149.131000832,-35.1668961135,149.156544992,-35.147699163",
     "geom:latitude":-35.155991,
     "geom:longitude":149.142955,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.155752,
     "lbl:longitude":149.141892,
     "lbl:max_zoom":18.0,
@@ -71,13 +77,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC80008",
         "wd:id":"Q692763"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938715
     ],
     "wof:country":"AU",
-    "wof:geomhash":"88b53058add1663a39592a817d29964c",
+    "wof:geomhash":"f5da095d245f48208ae563d778312d33",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -88,7 +96,7 @@
         }
     ],
     "wof:id":404549933,
-    "wof:lastmodified":1566602874,
+    "wof:lastmodified":1695878010,
     "wof:name":"Bonner",
     "wof:parent_id":85681493,
     "wof:placetype":"localadmin",

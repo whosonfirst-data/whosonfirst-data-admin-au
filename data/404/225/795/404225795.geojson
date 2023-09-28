@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000039,
-    "geom:area_square_m":402907.432437,
+    "geom:area_square_m":402907.432433,
     "geom:bbox":"151.142631136,-33.986632244,151.150028992,-33.978483401",
     "geom:latitude":-33.982196,
     "geom:longitude":151.146193,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.981692,
     "lbl:longitude":151.146635,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ramsgate Beach"
@@ -39,12 +45,15 @@
         102048425
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11942"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931681
     ],
     "wof:country":"AU",
-    "wof:geomhash":"7dd718cfd475bdcfd57b898b6ed01ebe",
+    "wof:geomhash":"0db7d7495a1bef37b6ff217c128f1670",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404225795,
-    "wof:lastmodified":1566602709,
+    "wof:lastmodified":1695877533,
     "wof:name":"Ramsgate Beach",
     "wof:parent_id":102048425,
     "wof:placetype":"localadmin",

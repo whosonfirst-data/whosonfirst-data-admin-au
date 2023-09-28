@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006343,
-    "geom:area_square_m":65433728.958549,
+    "geom:area_square_m":65433728.958462,
     "geom:bbox":"149.124432,-33.5013896575,149.265228,-33.422991338",
     "geom:latitude":-33.457819,
     "geom:longitude":149.189485,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.463097,
     "lbl:longitude":149.1789,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Millthorpe"
@@ -38,9 +44,12 @@
         102049333
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11542"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"453183af976d989451b6ed174f4688e3",
+    "wof:geomhash":"c3732b90b95250d50d3129b6e290f84a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404224895,
-    "wof:lastmodified":1566602590,
+    "wof:lastmodified":1695877468,
     "wof:name":"Millthorpe",
     "wof:parent_id":102049333,
     "wof:placetype":"localadmin",

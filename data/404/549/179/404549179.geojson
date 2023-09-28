@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000396,
-    "geom:area_square_m":3593127.227319,
+    "geom:area_square_m":3593070.798886,
     "geom:bbox":"147.228688,-42.8409,147.272383,-42.819724",
     "geom:latitude":-42.828953,
     "geom:longitude":147.247346,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-42.828201,
     "lbl:longitude":147.237905,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09ae\u09a8\u09cd\u099f\u09cd\u09b0\u09cb\u09b8"
@@ -125,12 +131,15 @@
         102048933
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60227"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938179
     ],
     "wof:country":"AU",
-    "wof:geomhash":"716a50d00b6e8022ec1264ec501f564b",
+    "wof:geomhash":"9890d89d653884eb606206c0efa974b2",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -142,7 +151,7 @@
         }
     ],
     "wof:id":404549179,
-    "wof:lastmodified":1636494663,
+    "wof:lastmodified":1695877875,
     "wof:name":"Montrose",
     "wof:parent_id":102048933,
     "wof:placetype":"localadmin",

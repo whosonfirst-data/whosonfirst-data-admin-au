@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018338,
-    "geom:area_square_m":193876113.591846,
+    "geom:area_square_m":193876113.591644,
     "geom:bbox":"152.541852992,-31.3435069965,152.751654496,-31.139763",
     "geom:latitude":-31.240075,
     "geom:longitude":152.656244,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.22253,
     "lbl:longitude":152.640278,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Upper Rollands Plains"
@@ -38,9 +44,12 @@
         102049203
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12355"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"125a116c14168ea3cdf2c295199e7fb7",
+    "wof:geomhash":"cc617dcb4d0a09ceb51fff170ad57a10",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404226723,
-    "wof:lastmodified":1566602048,
+    "wof:lastmodified":1695877161,
     "wof:name":"Upper Rollands Plains",
     "wof:parent_id":102049203,
     "wof:placetype":"localadmin",

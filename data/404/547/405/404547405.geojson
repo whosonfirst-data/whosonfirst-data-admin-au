@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.071958,
-    "geom:area_square_m":745589439.323069,
+    "geom:area_square_m":745589439.323052,
     "geom:bbox":"115.84128,-33.23193799,116.209065056,-32.9264735195",
     "geom:latitude":-33.075089,
     "geom:longitude":116.050521,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.073272,
     "lbl:longitude":116.046886,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Harvey"
@@ -101,9 +107,12 @@
         102049561
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50321"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"886739594a7ec4a4c7f6bbd8ae59a694",
+    "wof:geomhash":"f2786e7a856fc0d84b57af156a27fcab",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -115,7 +124,7 @@
         }
     ],
     "wof:id":404547405,
-    "wof:lastmodified":1566602966,
+    "wof:lastmodified":1695877698,
     "wof:name":"Harvey",
     "wof:parent_id":102049561,
     "wof:placetype":"localadmin",

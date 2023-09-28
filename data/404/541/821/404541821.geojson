@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.059058,
-    "geom:area_square_m":651469196.134835,
+    "geom:area_square_m":651469196.135008,
     "geom:bbox":"151.12368288,-27.009155002,151.520098016,-26.7241117565",
     "geom:latitude":-26.861135,
     "geom:longitude":151.308101,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-26.874215,
     "lbl:longitude":151.278031,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Cooranga"
@@ -38,9 +44,12 @@
         102048423
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30418"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"b93486735efb07afe2d60011ce3cbc77",
+    "wof:geomhash":"d8692b9c4900c8a54a85adadf046f88b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404541821,
-    "wof:lastmodified":1566603055,
+    "wof:lastmodified":1695877748,
     "wof:name":"Cooranga",
     "wof:parent_id":102048423,
     "wof:placetype":"localadmin",

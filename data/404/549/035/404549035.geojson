@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000723,
-    "geom:area_square_m":6552310.15189,
+    "geom:area_square_m":6552310.151873,
     "geom:bbox":"147.387487008,-42.9060837345,147.428446496,-42.865870266",
     "geom:latitude":-42.883781,
     "geom:longitude":147.410595,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-42.884125,
     "lbl:longitude":147.412611,
     "lbl:max_zoom":18.0,
@@ -214,13 +220,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC60163",
         "wd:id":"Q5922480"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938133
     ],
     "wof:country":"AU",
-    "wof:geomhash":"f77ea0ab87d438ab28716a58f43a5d2d",
+    "wof:geomhash":"3236c2efda6292851a62c29776d25bd0",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -233,7 +241,7 @@
         }
     ],
     "wof:id":404549035,
-    "wof:lastmodified":1566602900,
+    "wof:lastmodified":1695878011,
     "wof:name":"Howrah",
     "wof:parent_id":102048771,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000124,
-    "geom:area_square_m":1442984.955706,
+    "geom:area_square_m":1442984.955701,
     "geom:bbox":"146.781988928,-19.2906441095,146.792675872,-19.2706709175",
     "geom:latitude":-19.281722,
     "geom:longitude":146.788031,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-19.285476,
     "lbl:longitude":146.786776,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u0645\u0644\u0643\u0648"
@@ -101,12 +107,15 @@
         102048451
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31322"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935131
     ],
     "wof:country":"AU",
-    "wof:geomhash":"077249692bf9719f6e8cc57315ffef3e",
+    "wof:geomhash":"de1bc13d5a9469fcbdbfaf434e2a0007",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -118,7 +127,7 @@
         }
     ],
     "wof:id":404543735,
-    "wof:lastmodified":1566602123,
+    "wof:lastmodified":1695877204,
     "wof:name":"Pimlico",
     "wof:parent_id":102048451,
     "wof:placetype":"localadmin",

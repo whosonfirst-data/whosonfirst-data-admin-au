@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014276,
-    "geom:area_square_m":160605473.153184,
+    "geom:area_square_m":160605473.153201,
     "geom:bbox":"151.761151008,-24.583878003,151.92677,-24.4483816535",
     "geom:latitude":-24.516525,
     "geom:longitude":151.839783,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-24.516589,
     "lbl:longitude":151.841412,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Euleilah"
@@ -38,9 +44,12 @@
         102049463
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30584"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"1a6f004d63b3a21eb63c6a5c9f5c6470",
+    "wof:geomhash":"6f75e2d411c3c523ba4e579a583ec2d7",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404542163,
-    "wof:lastmodified":1566602292,
+    "wof:lastmodified":1695877288,
     "wof:name":"Euleilah",
     "wof:parent_id":102049463,
     "wof:placetype":"localadmin",

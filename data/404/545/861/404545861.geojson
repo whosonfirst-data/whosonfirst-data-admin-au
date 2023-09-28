@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01008,
-    "geom:area_square_m":101660235.7035,
+    "geom:area_square_m":101660235.703539,
     "geom:bbox":"138.53988,-35.3978537025,138.735384,-35.288529007",
     "geom:latitude":-35.348437,
     "geom:longitude":138.628689,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.339264,
     "lbl:longitude":138.627211,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mount Compass"
@@ -38,9 +44,12 @@
         102048815
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40459"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"d88620b6b833f137b6e71bb6876fcfe6",
+    "wof:geomhash":"73264765ec4e8ca2492316fdc0caccf8",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404545861,
-    "wof:lastmodified":1566602221,
+    "wof:lastmodified":1695877253,
     "wof:name":"Mount Compass",
     "wof:parent_id":102048815,
     "wof:placetype":"localadmin",

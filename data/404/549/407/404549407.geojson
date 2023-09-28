@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00035,
-    "geom:area_square_m":3259709.66763,
+    "geom:area_square_m":3259709.667628,
     "geom:bbox":"146.517423008,-41.166209554,146.5482192,-41.1463403505",
     "geom:latitude":-41.156732,
     "geom:longitude":146.531784,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-41.156042,
     "lbl:longitude":146.532004,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Tort"
@@ -68,12 +74,15 @@
         102048629
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60328"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938269
     ],
     "wof:country":"AU",
-    "wof:geomhash":"082631eb307b06213392e57081e3103c",
+    "wof:geomhash":"4b04a684ccc60f97fd9f1d52f8e49d73",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -85,7 +94,7 @@
         }
     ],
     "wof:id":404549407,
-    "wof:lastmodified":1566602850,
+    "wof:lastmodified":1695877626,
     "wof:name":"Shearwater",
     "wof:parent_id":102048629,
     "wof:placetype":"localadmin",

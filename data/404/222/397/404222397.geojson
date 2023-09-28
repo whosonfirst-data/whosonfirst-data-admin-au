@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005908,
-    "geom:area_square_m":63511280.491641,
+    "geom:area_square_m":63511280.49167,
     "geom:bbox":"153.028332384,-29.6486819995,153.129776512,-29.5626831215",
     "geom:latitude":-29.604964,
     "geom:longitude":153.082431,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-29.60282,
     "lbl:longitude":153.077359,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u0644\u064a\u0648\u0628\u064a"
@@ -191,9 +197,12 @@
         102048835
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10432"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"547e353465ca80e214da11e5b0e17e38",
+    "wof:geomhash":"e772652a72718d8a43b564ab7a1a90e1",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -205,7 +214,7 @@
         }
     ],
     "wof:id":404222397,
-    "wof:lastmodified":1566602751,
+    "wof:lastmodified":1695877560,
     "wof:name":"Calliope",
     "wof:parent_id":102048835,
     "wof:placetype":"localadmin",

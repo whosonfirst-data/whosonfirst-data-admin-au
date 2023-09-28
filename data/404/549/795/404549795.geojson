@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000245,
-    "geom:area_square_m":2925981.222053,
+    "geom:area_square_m":2925981.222054,
     "geom:bbox":"134.066659008,-15.237564006,134.090042016,-15.217984457",
     "geom:latitude":-15.225452,
     "geom:longitude":134.079809,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-15.223827,
     "lbl:longitude":134.080606,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Miniyeri"
@@ -38,12 +44,15 @@
         102048829
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC70130"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938565
     ],
     "wof:country":"AU",
-    "wof:geomhash":"280c32ed8cdcc7c6f342d86dcb0399ad",
+    "wof:geomhash":"6dc6e5294350daf800ea020cf9b80f73",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404549795,
-    "wof:lastmodified":1566602874,
+    "wof:lastmodified":1695877640,
     "wof:name":"Miniyeri",
     "wof:parent_id":102048829,
     "wof:placetype":"localadmin",

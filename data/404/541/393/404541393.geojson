@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.20395,
-    "geom:area_square_m":2297353659.307993,
+    "geom:area_square_m":2297353659.308635,
     "geom:bbox":"150.770162016,-24.668240445,151.471271168,-24.0483650335",
     "geom:latitude":-24.360395,
     "geom:longitude":151.181273,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-24.320689,
     "lbl:longitude":151.181268,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Boyne Valley"
@@ -38,9 +44,12 @@
         102049463
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30217"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"cedcdb30ef21b79bfb2f48816f9d43b1",
+    "wof:geomhash":"6a2c49c1890227661a0ba27f443c6de2",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404541393,
-    "wof:lastmodified":1566603076,
+    "wof:lastmodified":1695877758,
     "wof:name":"Boyne Valley",
     "wof:parent_id":102049463,
     "wof:placetype":"localadmin",

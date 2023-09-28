@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.036123,
-    "geom:area_square_m":365403930.285248,
+    "geom:area_square_m":365403930.285167,
     "geom:bbox":"146.929603008,-35.1878277535,147.289162016,-35.0073619925",
     "geom:latitude":-35.10901,
     "geom:longitude":147.087026,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.096088,
     "lbl:longitude":147.054341,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Brookdale"
@@ -71,9 +77,12 @@
         102049075
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10351"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"65bcfdf3a9821d87d30e89c792546082",
+    "wof:geomhash":"42554b1dc3547731b1351214ef7eea9e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -85,7 +94,7 @@
         }
     ],
     "wof:id":404222215,
-    "wof:lastmodified":1566602793,
+    "wof:lastmodified":1695877588,
     "wof:name":"Brookdale",
     "wof:parent_id":102049075,
     "wof:placetype":"localadmin",

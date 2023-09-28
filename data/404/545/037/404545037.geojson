@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000816,
-    "geom:area_square_m":8295984.035446,
+    "geom:area_square_m":8295984.035459,
     "geom:bbox":"138.582921248,-34.7520409025,138.621221952,-34.7107211155",
     "geom:latitude":-34.733386,
     "geom:longitude":138.602472,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.734323,
     "lbl:longitude":138.602754,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Burton"
@@ -108,12 +114,15 @@
         102048731
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40083"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935833
     ],
     "wof:country":"AU",
-    "wof:geomhash":"831c60f8da299127094a6a53e8fd19e3",
+    "wof:geomhash":"21ded50fc74c4a2391743c370010ffe2",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -126,7 +135,7 @@
         }
     ],
     "wof:id":404545037,
-    "wof:lastmodified":1566602224,
+    "wof:lastmodified":1695877253,
     "wof:name":"Burton",
     "wof:parent_id":102048731,
     "wof:placetype":"localadmin",

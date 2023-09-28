@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001411,
-    "geom:area_square_m":15330023.236048,
+    "geom:area_square_m":15330023.236062,
     "geom:bbox":"153.47390112,-28.523946213,153.532152,-28.465183553",
     "geom:latitude":-28.494436,
     "geom:longitude":153.507501,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.504888,
     "lbl:longitude":153.516731,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Billinudgel"
@@ -38,9 +44,12 @@
         102048747
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10213"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"119d95812ab678b33db929c4379497ce",
+    "wof:geomhash":"15317e6a838e82df4dfd3c6d0aa43998",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404221903,
-    "wof:lastmodified":1566601990,
+    "wof:lastmodified":1695877129,
     "wof:name":"Billinudgel",
     "wof:parent_id":102048747,
     "wof:placetype":"localadmin",

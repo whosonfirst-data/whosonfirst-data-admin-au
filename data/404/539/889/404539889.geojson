@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.16873,
-    "geom:area_square_m":1698526316.246107,
+    "geom:area_square_m":1698526316.245896,
     "geom:bbox":"141.997469408,-35.7493189965,142.722613696,-35.2908639845",
     "geom:latitude":-35.501266,
     "geom:longitude":142.410319,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.434507,
     "lbl:longitude":142.404989,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Patchewollock"
@@ -41,9 +47,12 @@
         102048571
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21075"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"a6e781c103b5ff3ac041c9592a2da729",
+    "wof:geomhash":"39006d3d082d5392f4d3b3236e53ff29",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404539889,
-    "wof:lastmodified":1566602362,
+    "wof:lastmodified":1695877332,
     "wof:name":"Patchewollock",
     "wof:parent_id":102048571,
     "wof:placetype":"localadmin",

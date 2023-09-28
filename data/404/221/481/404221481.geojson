@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000653,
-    "geom:area_square_m":6711227.367219,
+    "geom:area_square_m":6711227.367202,
     "geom:bbox":"151.232375296,-33.7838290465,151.267626976,-33.7546052255",
     "geom:latitude":-33.769158,
     "geom:longitude":151.248193,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.770566,
     "lbl:longitude":151.247852,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Allambie Heights"
@@ -54,12 +60,15 @@
         102049493
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10025"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101929381
     ],
     "wof:country":"AU",
-    "wof:geomhash":"2f32caa83f348f4ebf69302dacfeca14",
+    "wof:geomhash":"0dd9792c25a5ee28c1c14812ab39324d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -72,7 +81,7 @@
         }
     ],
     "wof:id":404221481,
-    "wof:lastmodified":1566601995,
+    "wof:lastmodified":1695877130,
     "wof:name":"Allambie Heights",
     "wof:parent_id":102049493,
     "wof:placetype":"localadmin",

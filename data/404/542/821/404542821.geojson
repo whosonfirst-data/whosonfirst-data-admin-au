@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.651376,
-    "geom:area_square_m":7272502303.480282,
+    "geom:area_square_m":7272502303.480649,
     "geom:bbox":"148.81308,-25.966084006,149.803136,-24.837075996",
     "geom:latitude":-25.453569,
     "geom:longitude":149.294009,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-25.451524,
     "lbl:longitude":149.327942,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kinnoul"
@@ -38,9 +44,12 @@
         102049135
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30891"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"091a12ccbee1c7475bffee2ee51ff4c8",
+    "wof:geomhash":"bcf5b0845198c7edf44cd53cc6c2959c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404542821,
-    "wof:lastmodified":1566602271,
+    "wof:lastmodified":1695877276,
     "wof:name":"Kinnoul",
     "wof:parent_id":102049135,
     "wof:placetype":"localadmin",

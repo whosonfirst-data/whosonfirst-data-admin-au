@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.03921,
-    "geom:area_square_m":364453347.402349,
+    "geom:area_square_m":364453347.401647,
     "geom:bbox":"145.621179008,-41.356302567,145.8773872,-41.116385169",
     "geom:latitude":-41.261401,
     "geom:longitude":145.751586,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-41.259374,
     "lbl:longitude":145.749093,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0647\u0627\u06cc\u06a9\u0644\u06cc\u0631"
@@ -56,9 +62,12 @@
         102049367
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60155"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"36abc5a031d1c2b332ffae1831675ed5",
+    "wof:geomhash":"b3db7c9465e44da5602c77702febe8a9",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -70,7 +79,7 @@
         }
     ],
     "wof:id":404549017,
-    "wof:lastmodified":1566602885,
+    "wof:lastmodified":1695877647,
     "wof:name":"Highclere",
     "wof:parent_id":102049367,
     "wof:placetype":"localadmin",

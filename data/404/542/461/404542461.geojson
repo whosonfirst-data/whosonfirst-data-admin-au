@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011903,
-    "geom:area_square_m":131534146.319243,
+    "geom:area_square_m":131534146.319177,
     "geom:bbox":"151.636291008,-26.740907999,151.789795968,-26.596427994",
     "geom:latitude":-26.66223,
     "geom:longitude":151.717153,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-26.670532,
     "lbl:longitude":151.741491,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Haly Creek"
@@ -38,9 +44,12 @@
         102048861
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30723"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"0685be30bbbdaba13cde8d29fe23dd7c",
+    "wof:geomhash":"eecd09fe72488ae6ddf4a1589cfdce00",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404542461,
-    "wof:lastmodified":1566602308,
+    "wof:lastmodified":1695877300,
     "wof:name":"Haly Creek",
     "wof:parent_id":102048861,
     "wof:placetype":"localadmin",

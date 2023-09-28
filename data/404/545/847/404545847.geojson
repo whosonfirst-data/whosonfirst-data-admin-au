@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.215989,
-    "geom:area_square_m":2212053635.861742,
+    "geom:area_square_m":2212053635.860889,
     "geom:bbox":"139.350870368,-34.477086003,139.8574408,-33.8007767855",
     "geom:latitude":-34.080026,
     "geom:longitude":139.550166,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.081481,
     "lbl:longitude":139.520255,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0648\u0631\u063a\u0627\u0646"
@@ -131,9 +137,12 @@
         102049005
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40453"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"c857fd2ea6a279c63135de2bba564cf5",
+    "wof:geomhash":"7db148dd44748cde0d07816bb31acb9f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -145,7 +154,7 @@
         }
     ],
     "wof:id":404545847,
-    "wof:lastmodified":1566602243,
+    "wof:lastmodified":1695877262,
     "wof:name":"Morgan",
     "wof:parent_id":102049005,
     "wof:placetype":"localadmin",

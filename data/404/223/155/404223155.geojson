@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000137,
-    "geom:area_square_m":1394948.662419,
+    "geom:area_square_m":1394948.662425,
     "geom:bbox":"150.903523168,-34.382925184,150.921059008,-34.3718740795",
     "geom:latitude":-34.377094,
     "geom:longitude":150.912172,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.377044,
     "lbl:longitude":150.912334,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "East Corrimal"
@@ -38,12 +44,15 @@
         102048853
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10769"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101930149
     ],
     "wof:country":"AU",
-    "wof:geomhash":"16909d1e723c4f02eba787af850b89c3",
+    "wof:geomhash":"bc8008436818e13e9d57805fb19711aa",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404223155,
-    "wof:lastmodified":1566602536,
+    "wof:lastmodified":1695877435,
     "wof:name":"East Corrimal",
     "wof:parent_id":102048853,
     "wof:placetype":"localadmin",

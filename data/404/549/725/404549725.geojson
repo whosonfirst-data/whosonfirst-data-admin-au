@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.462368,
-    "geom:area_square_m":41226122634.67482,
+    "geom:area_square_m":41226122634.674149,
     "geom:bbox":"129.498416704,-17.2205359935,132.092488288,-14.6633922525",
     "geom:latitude":-15.636403,
     "geom:longitude":130.854975,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-15.329187,
     "lbl:longitude":131.158186,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u063a\u0631\u064a\u063a\u0648\u0631\u064a"
@@ -104,9 +110,12 @@
         102049217
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC70074"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"d9cb788f77b0d069729889d93975195f",
+    "wof:geomhash":"992d595d8d1124fc44a01dfe143c481f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -118,7 +127,7 @@
         }
     ],
     "wof:id":404549725,
-    "wof:lastmodified":1566602854,
+    "wof:lastmodified":1695877628,
     "wof:name":"Gregory",
     "wof:parent_id":102049217,
     "wof:placetype":"localadmin",

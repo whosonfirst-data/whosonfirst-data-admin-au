@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000372,
-    "geom:area_square_m":3625355.893088,
+    "geom:area_square_m":3625355.893083,
     "geom:bbox":"145.009323424,-37.9857368955,145.037161792,-37.96137789",
     "geom:latitude":-37.970523,
     "geom:longitude":145.022962,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.969532,
     "lbl:longitude":145.019696,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Black Rock"
@@ -87,12 +93,15 @@
         102049181
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20141"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932609
     ],
     "wof:country":"AU",
-    "wof:geomhash":"cc10fe1a7f0a460b5b6597b23afce40c",
+    "wof:geomhash":"02a43e26657402a5ca779c80d983a1bd",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -105,7 +114,7 @@
         }
     ],
     "wof:id":404537807,
-    "wof:lastmodified":1566602342,
+    "wof:lastmodified":1695877320,
     "wof:name":"Black Rock",
     "wof:parent_id":102049181,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004416,
-    "geom:area_square_m":45373320.843501,
+    "geom:area_square_m":45373320.843546,
     "geom:bbox":"138.557722016,-33.8762590055,138.655671008,-33.7640119945",
     "geom:latitude":-33.809057,
     "geom:longitude":138.613927,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.793166,
     "lbl:longitude":138.602393,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Stanley Flat"
@@ -38,9 +44,12 @@
         102048457
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40689"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"4d9bd98c762230d65b69148d8b8e6c23",
+    "wof:geomhash":"7517ed6e9f9fc63b069de4549cbe5f75",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404546345,
-    "wof:lastmodified":1566603151,
+    "wof:lastmodified":1695877790,
     "wof:name":"Stanley Flat",
     "wof:parent_id":102048457,
     "wof:placetype":"localadmin",

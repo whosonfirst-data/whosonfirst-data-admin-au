@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026283,
-    "geom:area_square_m":274969445.320261,
+    "geom:area_square_m":274969445.320122,
     "geom:bbox":"150.486051744,-32.3323554545,150.751100736,-32.130034219",
     "geom:latitude":-32.212429,
     "geom:longitude":150.584838,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.198158,
     "lbl:longitude":150.551768,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Giants Creek"
@@ -38,9 +44,12 @@
         102048429
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10938"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"6b40408f6fd9ca9ad5bdb59abd5b5b9f",
+    "wof:geomhash":"38b121c1859c2fc23f9c17eb9d7393a2",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404223535,
-    "wof:lastmodified":1566602498,
+    "wof:lastmodified":1695877413,
     "wof:name":"Giants Creek",
     "wof:parent_id":102048429,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001467,
-    "geom:area_square_m":15469844.566139,
+    "geom:area_square_m":15469844.566143,
     "geom:bbox":"152.663276384,-31.478315997,152.722411008,-31.4369260025",
     "geom:latitude":-31.457311,
     "geom:longitude":152.689947,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.456047,
     "lbl:longitude":152.692333,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062e\u0634\u0628 \u0627\u0644\u0648\u0631\u062f"
@@ -113,9 +119,12 @@
         102049203
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12002"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"c04580dec834e079a6e484127215e1f2",
+    "wof:geomhash":"fb2349bc1b9504b5b9a3161d0556d8aa",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -127,7 +136,7 @@
         }
     ],
     "wof:id":404225929,
-    "wof:lastmodified":1566602732,
+    "wof:lastmodified":1695877549,
     "wof:name":"Rosewood",
     "wof:parent_id":102049203,
     "wof:placetype":"localadmin",

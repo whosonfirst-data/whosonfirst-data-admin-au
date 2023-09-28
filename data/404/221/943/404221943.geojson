@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000336,
-    "geom:area_square_m":3516767.857497,
+    "geom:area_square_m":3516767.857496,
     "geom:bbox":"152.521556096,-32.0792784515,152.549159008,-32.058529092",
     "geom:latitude":-32.070526,
     "geom:longitude":152.534404,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.070668,
     "lbl:longitude":152.534366,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Black Head"
@@ -47,12 +53,15 @@
         102048833
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10230"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101929587
     ],
     "wof:country":"AU",
-    "wof:geomhash":"d1b1516103be4069a5215f3a3b865fc7",
+    "wof:geomhash":"c3255dd8b1af840deabe57fd4c688070",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":404221943,
-    "wof:lastmodified":1566602011,
+    "wof:lastmodified":1695877138,
     "wof:name":"Black Head",
     "wof:parent_id":102048833,
     "wof:placetype":"localadmin",

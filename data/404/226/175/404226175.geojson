@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001038,
-    "geom:area_square_m":11298983.027578,
+    "geom:area_square_m":11298983.027584,
     "geom:bbox":"153.393068992,-28.354215003,153.436955008,-28.3167639915",
     "geom:latitude":-28.337126,
     "geom:longitude":153.416573,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.337073,
     "lbl:longitude":153.413971,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "South Murwillumbah"
@@ -38,12 +44,15 @@
         102048589
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12111"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931897
     ],
     "wof:country":"AU",
-    "wof:geomhash":"51c071d5ec53d02f3b2d45a8cfee3395",
+    "wof:geomhash":"da085e5ca84c8dd2ef46d78f75ee9935",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404226175,
-    "wof:lastmodified":1566602047,
+    "wof:lastmodified":1695877159,
     "wof:name":"South Murwillumbah",
     "wof:parent_id":102048589,
     "wof:placetype":"localadmin",

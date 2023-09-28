@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005993,
-    "geom:area_square_m":65532000.545042,
+    "geom:area_square_m":65532000.545061,
     "geom:bbox":"153.09734688,-27.8971759995,153.216384992,-27.7935340045",
     "geom:latitude":-27.83518,
     "geom:longitude":153.161972,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.824326,
     "lbl:longitude":153.152973,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Cedar Creek"
@@ -66,9 +72,12 @@
         102048665
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30342"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"bd77a6a4c9afa45a870c292e06ad641e",
+    "wof:geomhash":"8d0dfcb59d4f835e79346f2cab3ae9a7",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -81,7 +90,7 @@
         }
     ],
     "wof:id":404541663,
-    "wof:lastmodified":1566603088,
+    "wof:lastmodified":1695877764,
     "wof:name":"Cedar Creek",
     "wof:parent_id":102048665,
     "wof:placetype":"localadmin",

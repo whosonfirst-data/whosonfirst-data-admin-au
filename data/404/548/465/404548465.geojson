@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.182375,
-    "geom:area_square_m":1900923769.596925,
+    "geom:area_square_m":1900923769.596336,
     "geom:bbox":"116.189554,-32.815897,116.943796,-32.235885",
     "geom:latitude":-32.54741,
     "geom:longitude":116.581976,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.643212,
     "lbl:longitude":116.713034,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Wandering"
@@ -37,19 +43,22 @@
     "qs:source":"Australian Bureau Of Statistics",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681439,
         102191583,
         85632793,
-        102049069,
         136253039,
-        85681439
+        102049069
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50796"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         102049069
     ],
     "wof:country":"AU",
-    "wof:geomhash":"7118b4d0769aba4c839c50b7845359fb",
+    "wof:geomhash":"14ab4fd5f913faa6e6db533d8e14f49d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":404548465,
-    "wof:lastmodified":1608001913,
+    "wof:lastmodified":1695877846,
     "wof:name":"Wandering",
     "wof:parent_id":102049069,
     "wof:placetype":"localadmin",

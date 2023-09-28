@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.049731,
-    "geom:area_square_m":508467467.443495,
+    "geom:area_square_m":508467467.443314,
     "geom:bbox":"145.734305856,-34.366559899,146.0134,-34.0988896705",
     "geom:latitude":-34.221991,
     "geom:longitude":145.870548,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.196735,
     "lbl:longitude":145.867857,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tharbogang"
@@ -38,9 +44,12 @@
         102049013
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12253"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"df432a8176222abcf352749fc4565970",
+    "wof:geomhash":"4eea3605d1d406876342d28ba4992d48",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404226493,
-    "wof:lastmodified":1566602072,
+    "wof:lastmodified":1695877175,
     "wof:name":"Tharbogang",
     "wof:parent_id":102049013,
     "wof:placetype":"localadmin",

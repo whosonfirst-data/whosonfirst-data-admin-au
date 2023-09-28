@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01435,
-    "geom:area_square_m":168999951.287513,
+    "geom:area_square_m":168999951.287307,
     "geom:bbox":"145.949273504,-17.809292481,146.163926976,-17.6440429885",
     "geom:latitude":-17.743588,
     "geom:longitude":146.028788,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-17.747857,
     "lbl:longitude":146.02732,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u064a\u0644\u0643\u0648\u0648\u062f"
@@ -104,9 +110,12 @@
         102049237
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31480"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"c004b075c55801417c21c48976768673",
+    "wof:geomhash":"c54bf77dae2d0d420a54146afe421e83",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -118,7 +127,7 @@
         }
     ],
     "wof:id":404544065,
-    "wof:lastmodified":1566602162,
+    "wof:lastmodified":1695877223,
     "wof:name":"Silkwood",
     "wof:parent_id":102049237,
     "wof:placetype":"localadmin",

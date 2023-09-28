@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010377,
-    "geom:area_square_m":105889531.834464,
+    "geom:area_square_m":105889531.834576,
     "geom:bbox":"150.385944992,-34.437096995,150.572752992,-34.311665996",
     "geom:latitude":-34.383431,
     "geom:longitude":150.473725,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.386715,
     "lbl:longitude":150.459662,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Colo Vale"
@@ -39,9 +45,12 @@
         102048539
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10565"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"06ed3465a452c269f7af5e5903a5f4c8",
+    "wof:geomhash":"f6e3110b08641940f0b9456cc9d03c6b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":404222695,
-    "wof:lastmodified":1566602769,
+    "wof:lastmodified":1695877572,
     "wof:name":"Colo Vale",
     "wof:parent_id":102048539,
     "wof:placetype":"localadmin",

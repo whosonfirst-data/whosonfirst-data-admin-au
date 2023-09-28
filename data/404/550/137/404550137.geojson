@@ -10,6 +10,12 @@
     "geom:latitude":-35.352972,
     "geom:longitude":149.062144,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.35281,
     "lbl:longitude":149.062144,
     "lbl:max_zoom":18.0,
@@ -41,13 +47,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC80099",
         "wd:id":"Q7968787"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938913
     ],
     "wof:country":"AU",
-    "wof:geomhash":"589b952efdcefd30a80b318099917bba",
+    "wof:geomhash":"e371406e55c0c18689efa391575c9580",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +66,7 @@
         }
     ],
     "wof:id":404550137,
-    "wof:lastmodified":1566601929,
+    "wof:lastmodified":1695877892,
     "wof:name":"Waramanga",
     "wof:parent_id":85681493,
     "wof:placetype":"localadmin",

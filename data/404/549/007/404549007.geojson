@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004924,
-    "geom:area_square_m":44731953.887851,
+    "geom:area_square_m":44731932.848206,
     "geom:bbox":"146.895473,-42.769597,147.044251,-42.66841",
     "geom:latitude":-42.721405,
     "geom:longitude":146.968862,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-42.718938,
     "lbl:longitude":146.967727,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Hayes"
@@ -122,9 +128,12 @@
         102048499
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60150"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"3985077720976607da975bf7e024fb46",
+    "wof:geomhash":"4e0659afb7278f20805d925cd5767037",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -136,7 +145,7 @@
         }
     ],
     "wof:id":404549007,
-    "wof:lastmodified":1636494659,
+    "wof:lastmodified":1695877871,
     "wof:name":"Hayes",
     "wof:parent_id":102048499,
     "wof:placetype":"localadmin",

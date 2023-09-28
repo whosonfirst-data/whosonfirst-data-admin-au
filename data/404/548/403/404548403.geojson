@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.116773,
-    "geom:area_square_m":1212885569.048546,
+    "geom:area_square_m":1212885569.048662,
     "geom:bbox":"117.561027712,-33.1031898855,117.922181312,-32.576531497",
     "geom:latitude":-32.860254,
     "geom:longitude":117.762074,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.922431,
     "lbl:longitude":117.783577,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Toolibin"
@@ -38,9 +44,12 @@
         102048667
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50769"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"54c885b646f822e97a57eb3836b099cf",
+    "wof:geomhash":"35a9484358925043d8c0d32ea99f0e01",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404548403,
-    "wof:lastmodified":1566603226,
+    "wof:lastmodified":1695877830,
     "wof:name":"Toolibin",
     "wof:parent_id":102048667,
     "wof:placetype":"localadmin",

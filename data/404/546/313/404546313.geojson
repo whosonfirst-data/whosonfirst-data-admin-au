@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000092,
-    "geom:area_square_m":956092.424106,
+    "geom:area_square_m":956092.424109,
     "geom:bbox":"133.9325608,-32.381853222,133.941870688,-32.369006859",
     "geom:latitude":-32.375096,
     "geom:longitude":133.937724,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.374969,
     "lbl:longitude":133.938101,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Smoky Bay"
@@ -38,12 +44,15 @@
         102048593
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40674"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101936621
     ],
     "wof:country":"AU",
-    "wof:geomhash":"f20ea08bea5abe7cbff8e992fc5ade65",
+    "wof:geomhash":"cfa98feef9ba43dcbb06677d5fdb476c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404546313,
-    "wof:lastmodified":1566603128,
+    "wof:lastmodified":1695877781,
     "wof:name":"Smoky Bay",
     "wof:parent_id":102048593,
     "wof:placetype":"localadmin",

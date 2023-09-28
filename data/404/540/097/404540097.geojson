@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014678,
-    "geom:area_square_m":143470015.014501,
+    "geom:area_square_m":143470015.014467,
     "geom:bbox":"144.250141984,-37.846288983,144.41768,-37.6817840045",
     "geom:latitude":-37.769408,
     "geom:longitude":144.340735,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.76809,
     "lbl:longitude":144.355908,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Rowsley"
@@ -59,9 +65,12 @@
         102049283
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21168"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"187bc399096a57bf8bc6b79ef87ba064",
+    "wof:geomhash":"1fcdf4805405d11dc305a3d8a4c82d65",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -73,7 +82,7 @@
         }
     ],
     "wof:id":404540097,
-    "wof:lastmodified":1566603001,
+    "wof:lastmodified":1695877718,
     "wof:name":"Rowsley",
     "wof:parent_id":102049283,
     "wof:placetype":"localadmin",

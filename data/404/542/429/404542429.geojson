@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001455,
-    "geom:area_square_m":15990389.744863,
+    "geom:area_square_m":15990389.744862,
     "geom:bbox":"153.017540992,-27.298385001,153.077877184,-27.2486829935",
     "geom:latitude":-27.271492,
     "geom:longitude":153.039421,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.267714,
     "lbl:longitude":153.03988,
     "lbl:max_zoom":18.0,
@@ -238,13 +244,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC30708",
         "wd:id":"Q5608774"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934491
     ],
     "wof:country":"AU",
-    "wof:geomhash":"e4860a144acce1215618e39d02d8aeb7",
+    "wof:geomhash":"44dd5dc844a9eee2117bc6c3a8720393",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -257,7 +265,7 @@
         }
     ],
     "wof:id":404542429,
-    "wof:lastmodified":1566602299,
+    "wof:lastmodified":1695877942,
     "wof:name":"Griffin",
     "wof:parent_id":102049131,
     "wof:placetype":"localadmin",

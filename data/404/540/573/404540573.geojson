@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004963,
-    "geom:area_square_m":48337377.956871,
+    "geom:area_square_m":48337377.956899,
     "geom:bbox":"145.581905024,-38.0722790075,145.669260992,-37.983432998",
     "geom:latitude":-38.028101,
     "geom:longitude":145.628001,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.045843,
     "lbl:longitude":145.635908,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tynong North"
@@ -38,9 +44,12 @@
         102048791
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21380"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"a6a49e9952b1a0526feb047adf4772c9",
+    "wof:geomhash":"ae3075c53f93aeab35e4dc33baa72feb",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404540573,
-    "wof:lastmodified":1566603011,
+    "wof:lastmodified":1695877724,
     "wof:name":"Tynong North",
     "wof:parent_id":102048791,
     "wof:placetype":"localadmin",

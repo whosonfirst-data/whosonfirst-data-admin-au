@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003425,
-    "geom:area_square_m":35448989.064623,
+    "geom:area_square_m":35448989.064258,
     "geom:bbox":"151.342063008,-33.2043099975,151.41238608,-33.1091509925",
     "geom:latitude":-33.166381,
     "geom:longitude":151.371973,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.175583,
     "lbl:longitude":151.368529,
     "lbl:max_zoom":18.0,
@@ -42,10 +48,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC10723",
         "wd:id":"Q5297220"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"1a1e93ad349f2a2560abe5ee01521796",
+    "wof:geomhash":"a600ba5c3d3355381ddb19d0153976f3",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +65,7 @@
         }
     ],
     "wof:id":404223051,
-    "wof:lastmodified":1566602558,
+    "wof:lastmodified":1695877971,
     "wof:name":"Dooralong",
     "wof:parent_id":102049097,
     "wof:placetype":"localadmin",

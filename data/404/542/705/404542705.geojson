@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003341,
-    "geom:area_square_m":39464957.435625,
+    "geom:area_square_m":39464957.435615,
     "geom:bbox":"145.50942,-17.254987008,145.581384288,-17.1739410055",
     "geom:latitude":-17.214257,
     "geom:longitude":145.543476,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-17.214628,
     "lbl:longitude":145.544032,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kairi"
@@ -50,9 +56,12 @@
         102048519
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30837"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"cf1bae612fe518b9dd5deb0d68f4944b",
+    "wof:geomhash":"a2d0c445fa2d0c227f2ec16518441160",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":404542705,
-    "wof:lastmodified":1566602289,
+    "wof:lastmodified":1695877286,
     "wof:name":"Kairi",
     "wof:parent_id":102048519,
     "wof:placetype":"localadmin",

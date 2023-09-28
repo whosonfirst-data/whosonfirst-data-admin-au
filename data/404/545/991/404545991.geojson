@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002664,
-    "geom:area_square_m":26987481.195149,
+    "geom:area_square_m":26987481.195139,
     "geom:bbox":"138.809729568,-35.0063550005,138.901831936,-34.9465649985",
     "geom:latitude":-34.980159,
     "geom:longitude":138.857745,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.97744,
     "lbl:longitude":138.850758,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Oakbank"
@@ -44,9 +50,12 @@
         102049017
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40518"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"c67a3466bd778fa669cf6d3acadc23f0",
+    "wof:geomhash":"929c26b67cd35750bd7753e9be02ff65",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404545991,
-    "wof:lastmodified":1566602210,
+    "wof:lastmodified":1695877249,
     "wof:name":"Oakbank",
     "wof:parent_id":102049017,
     "wof:placetype":"localadmin",

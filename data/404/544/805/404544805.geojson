@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000213,
-    "geom:area_square_m":2486043.92017,
+    "geom:area_square_m":2486043.920167,
     "geom:bbox":"146.575217,-19.219526,146.609778,-19.18358",
     "geom:latitude":-19.200968,
     "geom:longitude":146.588754,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-19.187291,
     "lbl:longitude":146.581326,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Yabulu"
@@ -31,19 +37,22 @@
     "qs:source":"Australian Bureau Of Statistics",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681463,
         102191583,
         85632793,
-        102048451,
         136253039,
-        85681463
+        102048451
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31833"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935695
     ],
     "wof:country":"AU",
-    "wof:geomhash":"fc11c9377009756d95fb2cc233967712",
+    "wof:geomhash":"4580a23ad54b43cf0ea2954afa6ba687",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404544805,
-    "wof:lastmodified":1607990871,
+    "wof:lastmodified":1695877842,
     "wof:name":"Yabulu",
     "wof:parent_id":102048451,
     "wof:placetype":"localadmin",

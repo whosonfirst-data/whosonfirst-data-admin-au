@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002497,
-    "geom:area_square_m":27380170.149178,
+    "geom:area_square_m":27380170.149168,
     "geom:bbox":"152.374810016,-27.5646639925,152.438376,-27.487162997",
     "geom:latitude":-27.523235,
     "geom:longitude":152.408752,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.523556,
     "lbl:longitude":152.406564,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Glenore Grove"
@@ -38,9 +44,12 @@
         102049033
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30665"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"565e26db3dd94ab7e02f2beca03db8ca",
+    "wof:geomhash":"72dcb455cf4fc4b2770a337157b4317c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404542335,
-    "wof:lastmodified":1566602291,
+    "wof:lastmodified":1695877287,
     "wof:name":"Glenore Grove",
     "wof:parent_id":102049033,
     "wof:placetype":"localadmin",

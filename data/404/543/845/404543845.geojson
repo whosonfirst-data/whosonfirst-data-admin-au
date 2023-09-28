@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000754,
-    "geom:area_square_m":8265879.545617,
+    "geom:area_square_m":8265879.545613,
     "geom:bbox":"151.964299584,-27.599562004,152.01676,-27.570322569",
     "geom:latitude":-27.584852,
     "geom:longitude":151.986339,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.58603,
     "lbl:longitude":151.983752,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Rangeville"
@@ -38,12 +44,15 @@
         102049357
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31373"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935181
     ],
     "wof:country":"AU",
-    "wof:geomhash":"2d08919e857b0be0b2ec42c4f7659629",
+    "wof:geomhash":"4f6b159c8e3ae00dec7e0354bb474faf",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404543845,
-    "wof:lastmodified":1566602099,
+    "wof:lastmodified":1695877191,
     "wof:name":"Rangeville",
     "wof:parent_id":102049357,
     "wof:placetype":"localadmin",

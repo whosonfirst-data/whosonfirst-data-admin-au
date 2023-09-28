@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.049693,
-    "geom:area_square_m":539446315.187907,
+    "geom:area_square_m":539446315.187865,
     "geom:bbox":"152.373651008,-28.74714579,152.737487008,-28.468704991",
     "geom:latitude":-28.607239,
     "geom:longitude":152.559462,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.601487,
     "lbl:longitude":152.544379,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Old Bonalbo"
@@ -44,9 +50,12 @@
         102048855
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11804"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"91170c56d4bab1b84ff4cf639b6301ae",
+    "wof:geomhash":"5cab42d0b9dd7695cd9ee9bb9d4b9b1e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404225483,
-    "wof:lastmodified":1566602674,
+    "wof:lastmodified":1695877515,
     "wof:name":"Old Bonalbo",
     "wof:parent_id":102048855,
     "wof:placetype":"localadmin",

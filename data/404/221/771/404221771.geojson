@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000373,
-    "geom:area_square_m":3837633.710758,
+    "geom:area_square_m":3837624.284011,
     "geom:bbox":"150.942352,-33.758133,150.966945,-33.72637",
     "geom:latitude":-33.741271,
     "geom:longitude":150.954558,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.744185,
     "lbl:longitude":150.955769,
     "lbl:max_zoom":18.0,
@@ -118,10 +124,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC10154",
         "gp:id":26793517,
         "qs_pg:id":1119013,
         "wd:id":"Q4883381"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101929525
     ],
@@ -129,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"11ccabe0052a09ad36b594f094b4a419",
+    "wof:geomhash":"ad7c92860f312fdb103308aba6dbc31d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -142,7 +150,7 @@
         }
     ],
     "wof:id":404221771,
-    "wof:lastmodified":1636494611,
+    "wof:lastmodified":1695878056,
     "wof:name":"Bella Vista",
     "wof:parent_id":102049139,
     "wof:placetype":"localadmin",

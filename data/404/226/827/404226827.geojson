@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001625,
-    "geom:area_square_m":16869544.163447,
+    "geom:area_square_m":16869560.448903,
     "geom:bbox":"151.607157,-32.919124,151.69218,-32.881212",
     "geom:latitude":-32.899082,
     "geom:longitude":151.653124,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.898807,
     "lbl:longitude":151.650233,
     "lbl:max_zoom":18.0,
@@ -100,13 +106,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC12401",
         "wd:id":"Q7963243"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932219
     ],
     "wof:country":"AU",
-    "wof:geomhash":"ead623da388c2f462580d9ac645ba995",
+    "wof:geomhash":"2dc382cdf26ad197234f6f76884e3e3e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -119,7 +127,7 @@
         }
     ],
     "wof:id":404226827,
-    "wof:lastmodified":1690853421,
+    "wof:lastmodified":1695877906,
     "wof:name":"Wallsend",
     "wof:parent_id":102048981,
     "wof:placetype":"localadmin",

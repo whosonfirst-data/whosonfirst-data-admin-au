@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.062486,
-    "geom:area_square_m":642734668.680442,
+    "geom:area_square_m":642734278.137522,
     "geom:bbox":"136.670519,-33.877422,137.018197,-33.61566",
     "geom:latitude":-33.710686,
     "geom:longitude":136.821087,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.707882,
     "lbl:longitude":136.821059,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u0995\u09cb\u0993\u09df\u09c7\u09b2"
@@ -89,9 +95,12 @@
         102048653
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40137"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"cb28b4721b26800327941c203cea493b",
+    "wof:geomhash":"754a10d003eb387dea393f8e84df9ae7",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -103,7 +112,7 @@
         }
     ],
     "wof:id":404545157,
-    "wof:lastmodified":1636494623,
+    "wof:lastmodified":1695877854,
     "wof:name":"Cowell",
     "wof:parent_id":102048653,
     "wof:placetype":"localadmin",

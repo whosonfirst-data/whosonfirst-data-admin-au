@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003162,
-    "geom:area_square_m":36391628.281713,
+    "geom:area_square_m":36391628.281783,
     "geom:bbox":"149.24056608,-21.475472039,149.338222912,-21.3990159605",
     "geom:latitude":-21.431035,
     "geom:longitude":149.27848,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-21.428369,
     "lbl:longitude":149.269834,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Freshwater Point"
@@ -38,9 +44,12 @@
         102048783
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30630"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"bce520a1563472b83cf345a5ce5d4282",
+    "wof:geomhash":"809d6493c693f4dc5b5bb31062966f53",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404542263,
-    "wof:lastmodified":1566602309,
+    "wof:lastmodified":1695877300,
     "wof:name":"Freshwater Point",
     "wof:parent_id":102048783,
     "wof:placetype":"localadmin",

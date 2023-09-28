@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001145,
-    "geom:area_square_m":11154644.067953,
+    "geom:area_square_m":11154616.772531,
     "geom:bbox":"145.192099,-38.003079,145.2357,-37.967544",
     "geom:latitude":-37.984735,
     "geom:longitude":145.212156,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.985069,
     "lbl:longitude":145.211746,
     "lbl:max_zoom":18.0,
@@ -100,13 +106,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC20366",
         "wd:id":"Q1159408"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932819
     ],
     "wof:country":"AU",
-    "wof:geomhash":"b719d1305bc75cb530c831651cd8e4db",
+    "wof:geomhash":"2b9edd98a7f41934e318debf26071d2b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -119,7 +127,7 @@
         }
     ],
     "wof:id":404538311,
-    "wof:lastmodified":1690853595,
+    "wof:lastmodified":1695877961,
     "wof:name":"Dandenong",
     "wof:parent_id":102049651,
     "wof:placetype":"localadmin",

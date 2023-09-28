@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000492,
-    "geom:area_square_m":5035434.107553,
+    "geom:area_square_m":5035434.107559,
     "geom:bbox":"138.403332704,-34.1615244545,138.431649952,-34.137253694",
     "geom:latitude":-34.149573,
     "geom:longitude":138.417788,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.148279,
     "lbl:longitude":138.417519,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:als_x_preferred":[
         "Balaklawa"
@@ -134,12 +140,15 @@
         102049309
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40031"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935763
     ],
     "wof:country":"AU",
-    "wof:geomhash":"a14e007bea9a2ec903de44c1021a8fe1",
+    "wof:geomhash":"f7801efd04a28777c5645c9a09fac94c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -151,7 +160,7 @@
         }
     ],
     "wof:id":404544923,
-    "wof:lastmodified":1566602174,
+    "wof:lastmodified":1695877230,
     "wof:name":"Balaklava",
     "wof:parent_id":102049309,
     "wof:placetype":"localadmin",

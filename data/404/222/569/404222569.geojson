@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019464,
-    "geom:area_square_m":202168331.511716,
+    "geom:area_square_m":202168331.511888,
     "geom:bbox":"149.742603776,-32.9264690055,150.02174,-32.796407993",
     "geom:latitude":-32.859941,
     "geom:longitude":149.866073,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.867332,
     "lbl:longitude":149.808191,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Charbon"
@@ -38,9 +44,12 @@
         102049261
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10509"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"ed350201889207b7ebf0634ca1f2541b",
+    "wof:geomhash":"883f2b5dad968eed678a4692d4b73587",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404222569,
-    "wof:lastmodified":1566602744,
+    "wof:lastmodified":1695877557,
     "wof:name":"Charbon",
     "wof:parent_id":102049261,
     "wof:placetype":"localadmin",

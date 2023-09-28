@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012354,
-    "geom:area_square_m":145880801.284467,
+    "geom:area_square_m":145880801.284354,
     "geom:bbox":"145.62339696,-17.340876995,145.800516992,-17.171773453",
     "geom:latitude":-17.264021,
     "geom:longitude":145.713032,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-17.272405,
     "lbl:longitude":145.720341,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Lake Barrine"
@@ -56,9 +62,12 @@
         102048519
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30925"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"3450fc7b6b1ed9a72d0f25a2a7bc98ab",
+    "wof:geomhash":"15b2e5eb49e2dff86402a130864b1dc3",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -70,7 +79,7 @@
         }
     ],
     "wof:id":404542893,
-    "wof:lastmodified":1566602279,
+    "wof:lastmodified":1695877281,
     "wof:name":"Lake Barrine",
     "wof:parent_id":102048519,
     "wof:placetype":"localadmin",

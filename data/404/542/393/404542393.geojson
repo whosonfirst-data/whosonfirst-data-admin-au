@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000167,
-    "geom:area_square_m":1833658.250002,
+    "geom:area_square_m":1833658.250001,
     "geom:bbox":"152.969305184,-27.528466948,152.996356032,-27.516322068",
     "geom:latitude":-27.522014,
     "geom:longitude":152.982219,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.522288,
     "lbl:longitude":152.984269,
     "lbl:max_zoom":18.0,
@@ -70,13 +76,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC30692",
         "wd:id":"Q5591478"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934479
     ],
     "wof:country":"AU",
-    "wof:geomhash":"b4bf642c39ee53d9a51a38c133f13eca",
+    "wof:geomhash":"5a70d942fc682914b6fafbe2f571012c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -89,7 +97,7 @@
         }
     ],
     "wof:id":404542393,
-    "wof:lastmodified":1566602293,
+    "wof:lastmodified":1695877941,
     "wof:name":"Graceville",
     "wof:parent_id":102049495,
     "wof:placetype":"localadmin",

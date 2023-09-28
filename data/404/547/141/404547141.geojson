@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.192263,
-    "geom:area_square_m":2016012116.349159,
+    "geom:area_square_m":2016012116.349084,
     "geom:bbox":"117.087634688,-32.234148852,117.709054912,-31.795079213",
     "geom:latitude":-32.004809,
     "geom:longitude":117.423469,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.021042,
     "lbl:longitude":117.548213,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Dangin"
@@ -44,9 +50,12 @@
         102049441
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50204"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"b313a4235a1beee2d68c0806b850c903",
+    "wof:geomhash":"ba27e1fde9b600b8b2e24f39b9fc4db3",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404547141,
-    "wof:lastmodified":1566602974,
+    "wof:lastmodified":1695877703,
     "wof:name":"Dangin",
     "wof:parent_id":102049441,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001325,
-    "geom:area_square_m":13777406.41441,
+    "geom:area_square_m":13777406.414369,
     "geom:bbox":"151.48943264,-32.784889005,151.553543712,-32.7369570035",
     "geom:latitude":-32.76099,
     "geom:longitude":151.521559,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.761179,
     "lbl:longitude":151.524227,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Gillieston Heights"
@@ -39,9 +45,12 @@
         102048483
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10944"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"b5a1def3081608951d3e6b290ce3042c",
+    "wof:geomhash":"ac8a7f1350a7d5fc05a7b8fd0077f150",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":404223549,
-    "wof:lastmodified":1566602559,
+    "wof:lastmodified":1695877451,
     "wof:name":"Gillieston Heights",
     "wof:parent_id":102048483,
     "wof:placetype":"localadmin",

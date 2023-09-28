@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028998,
-    "geom:area_square_m":286014937.931557,
+    "geom:area_square_m":286014937.931834,
     "geom:bbox":"145.284604864,-37.209865007,145.545925056,-36.989211696",
     "geom:latitude":-37.093661,
     "geom:longitude":145.418348,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.090275,
     "lbl:longitude":145.42715,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Highlands"
@@ -38,9 +44,12 @@
         102048737
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20628"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"f344662f08d573b5b4b8d3d21a939285",
+    "wof:geomhash":"ba684dae23b8ad7f0bb1da4a00374038",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404538893,
-    "wof:lastmodified":1566602445,
+    "wof:lastmodified":1695877384,
     "wof:name":"Highlands",
     "wof:parent_id":102048737,
     "wof:placetype":"localadmin",

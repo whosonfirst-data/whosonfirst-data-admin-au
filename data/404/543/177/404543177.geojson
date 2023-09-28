@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.178785,
-    "geom:area_square_m":1955257994.629527,
+    "geom:area_square_m":1955257994.629916,
     "geom:bbox":"150.702671808,-28.167517998,151.152126016,-27.507528648",
     "geom:latitude":-27.816332,
     "geom:longitude":150.918658,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.806597,
     "lbl:longitude":150.914371,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Millmerran Downs"
@@ -38,9 +44,12 @@
         102049357
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31063"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"1479e9a3b9a8a408054ce453e3dcc7f3",
+    "wof:geomhash":"61560aef9c1cf6d71e8f450da1f47aaa",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404543177,
-    "wof:lastmodified":1566602141,
+    "wof:lastmodified":1695877213,
     "wof:name":"Millmerran Downs",
     "wof:parent_id":102049357,
     "wof:placetype":"localadmin",

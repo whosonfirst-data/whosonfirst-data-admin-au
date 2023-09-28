@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000759,
-    "geom:area_square_m":7702548.66597,
+    "geom:area_square_m":7702548.66596,
     "geom:bbox":"138.525438016,-34.8494026655,138.599308992,-34.8105427495",
     "geom:latitude":-34.828084,
     "geom:longitude":138.554704,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.824384,
     "lbl:longitude":138.545708,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Dry Creek"
@@ -72,12 +78,15 @@
         102048839
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40160"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935923
     ],
     "wof:country":"AU",
-    "wof:geomhash":"c2a54dbdf0148681af8af07070aca401",
+    "wof:geomhash":"bea0addb0349ce36dc8c66b32f0992e6",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -90,7 +99,7 @@
         }
     ],
     "wof:id":404545209,
-    "wof:lastmodified":1566602245,
+    "wof:lastmodified":1695877263,
     "wof:name":"Dry Creek",
     "wof:parent_id":102048839,
     "wof:placetype":"localadmin",

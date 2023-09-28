@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028211,
-    "geom:area_square_m":275961569.416043,
+    "geom:area_square_m":275961569.416096,
     "geom:bbox":"142.430895296,-37.821063567,142.619143872,-37.607538787",
     "geom:latitude":-37.711224,
     "geom:longitude":142.527201,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.715371,
     "lbl:longitude":142.527215,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Glenthompson"
@@ -38,9 +44,12 @@
         102048455
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20548"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"7df83a00c72cac8260a003f0d21d04dc",
+    "wof:geomhash":"7715c99d9c41fb0fe6821237de26af78",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404538713,
-    "wof:lastmodified":1566602449,
+    "wof:lastmodified":1695877386,
     "wof:name":"Glenthompson",
     "wof:parent_id":102048455,
     "wof:placetype":"localadmin",

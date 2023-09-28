@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002505,
-    "geom:area_square_m":25587377.265509,
+    "geom:area_square_m":25587377.265523,
     "geom:bbox":"140.312969088,-34.3283482785,140.384075808,-34.283933201",
     "geom:latitude":-34.308497,
     "geom:longitude":140.348797,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.307855,
     "lbl:longitude":140.348784,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Moorook South"
@@ -38,9 +44,12 @@
         102049421
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40451"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"20515b21500e229fb8fdeb9d93900c80",
+    "wof:geomhash":"cd8c3727fa6507c28b3e5d69b1bb3297",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404545843,
-    "wof:lastmodified":1566602219,
+    "wof:lastmodified":1695877252,
     "wof:name":"Moorook South",
     "wof:parent_id":102049421,
     "wof:placetype":"localadmin",

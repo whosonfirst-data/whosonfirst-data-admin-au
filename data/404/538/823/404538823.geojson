@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.084816,
-    "geom:area_square_m":835349544.411598,
+    "geom:area_square_m":835349898.347334,
     "geom:bbox":"141.160925,-37.372302,141.779965,-37.040131",
     "geom:latitude":-37.202035,
     "geom:longitude":141.435945,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.215806,
     "lbl:longitude":141.410336,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0647\u0627\u0631\u0648"
@@ -83,9 +89,12 @@
         102049637
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20597"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"44984c3bf820befc16f11b80850a86ac",
+    "wof:geomhash":"856065f487af8d6fed2c7f4d96d3c69c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -97,7 +106,7 @@
         }
     ],
     "wof:id":404538823,
-    "wof:lastmodified":1636494640,
+    "wof:lastmodified":1695877861,
     "wof:name":"Harrow",
     "wof:parent_id":102049637,
     "wof:placetype":"localadmin",

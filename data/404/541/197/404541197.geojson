@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003402,
-    "geom:area_square_m":37444376.312352,
+    "geom:area_square_m":37444376.312308,
     "geom:bbox":"152.989494208,-27.150394547,153.09240848,-27.072592908",
     "geom:latitude":-27.103214,
     "geom:longitude":153.039029,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.109873,
     "lbl:longitude":153.039817,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Beachmere"
@@ -39,9 +45,12 @@
         102049131
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30122"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"29ebf82e8f6b3c8720556f85f42e8b65",
+    "wof:geomhash":"a536c6d71288809f789763fb01b44ebd",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":404541197,
-    "wof:lastmodified":1566603076,
+    "wof:lastmodified":1695877757,
     "wof:name":"Beachmere",
     "wof:parent_id":102049131,
     "wof:placetype":"localadmin",

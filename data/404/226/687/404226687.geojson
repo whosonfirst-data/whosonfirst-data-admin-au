@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016351,
-    "geom:area_square_m":172730891.618513,
+    "geom:area_square_m":172730891.618587,
     "geom:bbox":"149.283384864,-31.398066993,149.465800992,-31.1962040025",
     "geom:latitude":-31.315992,
     "geom:longitude":149.365699,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.341351,
     "lbl:longitude":149.364285,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ulamambri"
@@ -38,9 +44,12 @@
         102049559
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12339"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"a25a4378178be306bbfe380e1bc53a35",
+    "wof:geomhash":"ca0ccef5c160a944b61de3265e169ea3",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404226687,
-    "wof:lastmodified":1566602028,
+    "wof:lastmodified":1695877147,
     "wof:name":"Ulamambri",
     "wof:parent_id":102049559,
     "wof:placetype":"localadmin",

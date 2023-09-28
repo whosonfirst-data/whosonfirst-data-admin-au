@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001563,
-    "geom:area_square_m":16095772.681916,
+    "geom:area_square_m":16095772.681912,
     "geom:bbox":"115.063552992,-33.6396430065,115.122260992,-33.58049612",
     "geom:latitude":-33.608146,
     "geom:longitude":115.094079,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.60766,
     "lbl:longitude":115.093637,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Dunsborough"
@@ -39,12 +45,15 @@
         102048623
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50232"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937127
     ],
     "wof:country":"AU",
-    "wof:geomhash":"b3bdd316dc9def93be66db9cf5d6b155",
+    "wof:geomhash":"c9be0e8819aa78df6b234a81dc1daafe",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404547205,
-    "wof:lastmodified":1566602940,
+    "wof:lastmodified":1695877682,
     "wof:name":"Dunsborough",
     "wof:parent_id":102048623,
     "wof:placetype":"localadmin",

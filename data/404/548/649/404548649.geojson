@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000575,
-    "geom:area_square_m":6024380.270537,
+    "geom:area_square_m":6024380.270541,
     "geom:bbox":"115.788265984,-32.129465048,115.837713856,-32.106466551",
     "geom:latitude":-32.120648,
     "geom:longitude":115.816225,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.119004,
     "lbl:longitude":115.824089,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Yangebup"
@@ -39,12 +45,15 @@
         102049397
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50878"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937999
     ],
     "wof:country":"AU",
-    "wof:geomhash":"5a9bc399c4c7efe56f26f4f2cced466d",
+    "wof:geomhash":"0b60b6d056251769484a65f32af1309d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404548649,
-    "wof:lastmodified":1566603207,
+    "wof:lastmodified":1695877819,
     "wof:name":"Yangebup",
     "wof:parent_id":102049397,
     "wof:placetype":"localadmin",

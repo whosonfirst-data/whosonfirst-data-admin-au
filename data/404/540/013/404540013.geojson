@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020186,
-    "geom:area_square_m":206096560.412643,
+    "geom:area_square_m":206096560.412418,
     "geom:bbox":"142.106102464,-34.407161997,142.397686112,-34.267097979",
     "geom:latitude":-34.342578,
     "geom:longitude":142.247061,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.346852,
     "lbl:longitude":142.247008,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Red Cliffs"
@@ -38,9 +44,12 @@
         102049611
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21131"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"f7b83bf9974dd430f8fd96a776e5404d",
+    "wof:geomhash":"a7fc6bdfd9bbc63a0672bcd4c9460c73",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404540013,
-    "wof:lastmodified":1566602993,
+    "wof:lastmodified":1695877714,
     "wof:name":"Red Cliffs",
     "wof:parent_id":102049611,
     "wof:placetype":"localadmin",

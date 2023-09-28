@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.178025,
-    "geom:area_square_m":2054395081.638766,
+    "geom:area_square_m":2054395081.638525,
     "geom:bbox":"148.148926016,-21.3786595965,148.807494016,-20.7367170335",
     "geom:latitude":-21.050906,
     "geom:longitude":148.456962,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-20.90437,
     "lbl:longitude":148.42946,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ang_x_preferred":[
         "Cridiant\u016bn"
@@ -95,9 +101,12 @@
         102048783
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30445"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"d984b40d9174d0c8dd7d68915e70df62",
+    "wof:geomhash":"79f78a67b2c8416adbdca259ae721375",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -109,7 +118,7 @@
         }
     ],
     "wof:id":404541875,
-    "wof:lastmodified":1566603057,
+    "wof:lastmodified":1695877749,
     "wof:name":"Crediton",
     "wof:parent_id":102048783,
     "wof:placetype":"localadmin",

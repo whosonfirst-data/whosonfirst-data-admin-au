@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00397,
-    "geom:area_square_m":40345188.267836,
+    "geom:area_square_m":40345396.113705,
     "geom:bbox":"135.821374,-34.779441,135.953064,-34.672936",
     "geom:latitude":-34.723439,
     "geom:longitude":135.869966,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.730421,
     "lbl:longitude":135.845128,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0648\u0631\u062a \u0644\u064a\u0646\u0643\u0648\u0644\u0646"
@@ -120,12 +126,15 @@
         102048841
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40590"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101936483
     ],
     "wof:country":"AU",
-    "wof:geomhash":"10b145c149c03fe66d6e92027ef4454a",
+    "wof:geomhash":"5600e8976cfd26f6a9f1e29f4a7b33aa",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -138,7 +147,7 @@
         }
     ],
     "wof:id":404546141,
-    "wof:lastmodified":1636494682,
+    "wof:lastmodified":1695877886,
     "wof:name":"Port Lincoln",
     "wof:parent_id":102048841,
     "wof:placetype":"localadmin",

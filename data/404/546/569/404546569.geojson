@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.071952,
-    "geom:area_square_m":714567362.125397,
+    "geom:area_square_m":714567362.125313,
     "geom:bbox":"140.611996,-36.669151225,140.968905856,-36.435721999",
     "geom:latitude":-36.567125,
     "geom:longitude":140.793191,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.585423,
     "lbl:longitude":140.793188,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Western Flat"
@@ -38,9 +44,12 @@
         102048871
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40792"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"e91a9f7d6dd8bc4789cfb81d7487ae2a",
+    "wof:geomhash":"a08608113920315cc280f4c60bf3eb2d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404546569,
-    "wof:lastmodified":1566603101,
+    "wof:lastmodified":1695877771,
     "wof:name":"Western Flat",
     "wof:parent_id":102048871,
     "wof:placetype":"localadmin",

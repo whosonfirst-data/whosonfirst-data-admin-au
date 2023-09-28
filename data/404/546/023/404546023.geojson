@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.078936,
-    "geom:area_square_m":784811125.919487,
+    "geom:area_square_m":784811125.919655,
     "geom:bbox":"140.431411744,-36.7024293025,140.64292,-36.252958501",
     "geom:latitude":-36.480099,
     "geom:longitude":140.522787,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.479378,
     "lbl:longitude":140.520774,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Padthaway"
@@ -38,9 +44,12 @@
         102048871
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40535"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"be09eb3d38f1fe9115c8f3ffa600e402",
+    "wof:geomhash":"022d7142a854a36ccdcfb6189c40b2d6",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404546023,
-    "wof:lastmodified":1566603108,
+    "wof:lastmodified":1695877772,
     "wof:name":"Padthaway",
     "wof:parent_id":102048871,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001628,
-    "geom:area_square_m":18882438.987307,
+    "geom:area_square_m":18882438.987274,
     "geom:bbox":"148.618049696,-20.330955997,148.666960992,-20.266465996",
     "geom:latitude":-20.29388,
     "geom:longitude":148.638679,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-20.298725,
     "lbl:longitude":148.632933,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Riordanvale"
@@ -38,9 +44,12 @@
         102049581
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31403"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"2c00c4cebf4fde2d85baa8cad8f00dc5",
+    "wof:geomhash":"8fb4af5e0d5c7eb408d9db14c0aa128e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404543913,
-    "wof:lastmodified":1566602118,
+    "wof:lastmodified":1695877201,
     "wof:name":"Riordanvale",
     "wof:parent_id":102049581,
     "wof:placetype":"localadmin",

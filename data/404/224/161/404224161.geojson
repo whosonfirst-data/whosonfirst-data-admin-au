@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.05918,
-    "geom:area_square_m":628537320.550961,
+    "geom:area_square_m":628537320.551341,
     "geom:bbox":"150.29438688,-30.993395995,150.56320176,-30.5898522945",
     "geom:latitude":-30.803824,
     "geom:longitude":150.41386,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-30.844322,
     "lbl:longitude":150.411941,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Keepit"
@@ -38,9 +44,12 @@
         102049111
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11216"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"9c11d811f1187a92d91c5e0adc6e28df",
+    "wof:geomhash":"0e3f92379aee6b6e4e5012021059115e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404224161,
-    "wof:lastmodified":1566602574,
+    "wof:lastmodified":1695877461,
     "wof:name":"Keepit",
     "wof:parent_id":102049111,
     "wof:placetype":"localadmin",

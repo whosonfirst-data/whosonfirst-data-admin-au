@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000422,
-    "geom:area_square_m":4324392.59849,
+    "geom:area_square_m":4324392.598487,
     "geom:bbox":"150.699566016,-34.071491004,150.730571584,-34.044824068",
     "geom:latitude":-34.058355,
     "geom:longitude":150.714777,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.057562,
     "lbl:longitude":150.715838,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Elderslie"
@@ -87,12 +93,15 @@
         102048421
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10801"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101930199
     ],
     "wof:country":"AU",
-    "wof:geomhash":"18504b3d1b18259966818396429b6c4b",
+    "wof:geomhash":"f2e994c8fa5eda9f0105e3e47f7810c3",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -105,7 +114,7 @@
         }
     ],
     "wof:id":404223227,
-    "wof:lastmodified":1566602500,
+    "wof:lastmodified":1695877413,
     "wof:name":"Elderslie",
     "wof:parent_id":102048421,
     "wof:placetype":"localadmin",

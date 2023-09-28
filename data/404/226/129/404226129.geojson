@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007739,
-    "geom:area_square_m":79907224.905862,
+    "geom:area_square_m":79907224.905761,
     "geom:bbox":"151.224474016,-33.4409912275,151.34202,-33.310012874",
     "geom:latitude":-33.378998,
     "geom:longitude":151.277229,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.389732,
     "lbl:longitude":151.282085,
     "lbl:max_zoom":18.0,
@@ -60,10 +66,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC12091",
         "wd:id":"Q7559790"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"d66e77d26ac087aae2729c921225f087",
+    "wof:geomhash":"baf2f88c7e7b50b66c280d7a95e2c8fd",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -75,7 +83,7 @@
         }
     ],
     "wof:id":404226129,
-    "wof:lastmodified":1566602043,
+    "wof:lastmodified":1695877908,
     "wof:name":"Somersby",
     "wof:parent_id":102048513,
     "wof:placetype":"localadmin",

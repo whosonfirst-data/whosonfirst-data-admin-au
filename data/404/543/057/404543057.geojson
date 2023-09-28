@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.893746,
-    "geom:area_square_m":21499836652.585526,
+    "geom:area_square_m":21499836652.583015,
     "geom:bbox":"142.808700416,-24.283520994,144.662032896,-22.4965770045",
     "geom:latitude":-23.339419,
     "geom:longitude":143.653738,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-23.418298,
     "lbl:longitude":143.513548,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Maneroo"
@@ -38,9 +44,12 @@
         102049401
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31001"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"68e50d1b8f9fb54678eacbbc7c752be2",
+    "wof:geomhash":"5ce7841e866e0f9f8c652915ab2f4f04",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404543057,
-    "wof:lastmodified":1566602135,
+    "wof:lastmodified":1695877210,
     "wof:name":"Maneroo",
     "wof:parent_id":102049401,
     "wof:placetype":"localadmin",

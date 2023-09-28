@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017125,
-    "geom:area_square_m":191765632.693346,
+    "geom:area_square_m":191765632.693301,
     "geom:bbox":"151.742908096,-25.1868332775,151.916298496,-25.0219937265",
     "geom:latitude":-25.095539,
     "geom:longitude":151.832489,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-25.091125,
     "lbl:longitude":151.830955,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Horse Camp"
@@ -38,9 +44,12 @@
         102048763
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30774"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"61bcb0010317f6c9cc8e231ce99aced6",
+    "wof:geomhash":"aad399f70f9bebf603021cd8e1eabdef",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404542565,
-    "wof:lastmodified":1566602294,
+    "wof:lastmodified":1695877289,
     "wof:name":"Horse Camp",
     "wof:parent_id":102048763,
     "wof:placetype":"localadmin",

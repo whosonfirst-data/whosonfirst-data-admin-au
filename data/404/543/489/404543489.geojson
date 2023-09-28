@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008701,
-    "geom:area_square_m":96736800.84795,
+    "geom:area_square_m":96736800.847866,
     "geom:bbox":"152.643557984,-26.0104230855,152.789029696,-25.8815639995",
     "geom:latitude":-25.950797,
     "geom:longitude":152.725592,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-25.945786,
     "lbl:longitude":152.731618,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Neerdie"
@@ -38,9 +44,12 @@
         102049393
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31208"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"c35110326a69887ead1c678d598d47c0",
+    "wof:geomhash":"c3dc8fc2f33d596794d7467743ba9b8b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404543489,
-    "wof:lastmodified":1566602131,
+    "wof:lastmodified":1695877208,
     "wof:name":"Neerdie",
     "wof:parent_id":102049393,
     "wof:placetype":"localadmin",

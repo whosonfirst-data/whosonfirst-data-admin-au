@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000187,
-    "geom:area_square_m":2092736.151721,
+    "geom:area_square_m":2092736.151716,
     "geom:bbox":"152.31249504,-24.886135998,152.330214016,-24.8645774115",
     "geom:latitude":-24.875363,
     "geom:longitude":152.322171,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-24.875206,
     "lbl:longitude":152.322041,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Millbank"
@@ -77,12 +83,15 @@
         102048763
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31060"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934845
     ],
     "wof:country":"AU",
-    "wof:geomhash":"a87c0761469ce26fe5b84cc43d11fd7e",
+    "wof:geomhash":"b2e8aba9b5718afd3b2aee065026d407",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -94,7 +103,7 @@
         }
     ],
     "wof:id":404543173,
-    "wof:lastmodified":1566602113,
+    "wof:lastmodified":1695877198,
     "wof:name":"Millbank",
     "wof:parent_id":102048763,
     "wof:placetype":"localadmin",

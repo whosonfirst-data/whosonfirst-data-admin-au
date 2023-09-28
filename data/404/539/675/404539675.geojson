@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004312,
-    "geom:area_square_m":41999764.25882,
+    "geom:area_square_m":41999764.25883,
     "geom:bbox":"145.526699008,-38.0702460055,145.603848992,-37.9881859995",
     "geom:latitude":-38.035444,
     "geom:longitude":145.565165,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.037218,
     "lbl:longitude":145.565188,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Nar Nar Goon North"
@@ -38,9 +44,12 @@
         102048791
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20978"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"ac7268f1682b9512aa9594e3b21bb7c5",
+    "wof:geomhash":"8314f93d10a53e215124dd061bb35e67",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404539675,
-    "wof:lastmodified":1566602359,
+    "wof:lastmodified":1695877330,
     "wof:name":"Nar Nar Goon North",
     "wof:parent_id":102048791,
     "wof:placetype":"localadmin",

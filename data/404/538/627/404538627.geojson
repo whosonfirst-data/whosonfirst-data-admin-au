@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002508,
-    "geom:area_square_m":24398798.677369,
+    "geom:area_square_m":24398798.677371,
     "geom:bbox":"144.26110512,-38.156949641,144.321203872,-38.095179436",
     "geom:latitude":-38.12485,
     "geom:longitude":144.292337,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.125628,
     "lbl:longitude":144.294769,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Fyansford"
@@ -39,9 +45,12 @@
         102049571
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20510"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"ebc4ce203df6e24b7ac6b8a49c415333",
+    "wof:geomhash":"e86dc18f4cd0c53ce411d687e689ecfa",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":404538627,
-    "wof:lastmodified":1566602437,
+    "wof:lastmodified":1695877379,
     "wof:name":"Fyansford",
     "wof:parent_id":102049571,
     "wof:placetype":"localadmin",

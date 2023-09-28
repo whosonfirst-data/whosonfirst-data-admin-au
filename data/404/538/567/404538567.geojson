@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002346,
-    "geom:area_square_m":23157710.678019,
+    "geom:area_square_m":23157710.678058,
     "geom:bbox":"144.264811008,-37.0851580055,144.329647008,-37.020653001",
     "geom:latitude":-37.046676,
     "geom:longitude":144.301086,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.04639,
     "lbl:longitude":144.305977,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Faraday"
@@ -38,9 +44,12 @@
         102049601
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20483"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"cb7e065d59c05074f713baa1682c3836",
+    "wof:geomhash":"e8d63193e341f6f6a532c4f09d4e741e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404538567,
-    "wof:lastmodified":1566602422,
+    "wof:lastmodified":1695877371,
     "wof:name":"Faraday",
     "wof:parent_id":102049601,
     "wof:placetype":"localadmin",

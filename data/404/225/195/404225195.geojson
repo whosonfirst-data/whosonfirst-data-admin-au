@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006087,
-    "geom:area_square_m":65096819.099236,
+    "geom:area_square_m":65096819.099334,
     "geom:bbox":"152.966049184,-30.182833295,153.057519008,-30.086996228",
     "geom:latitude":-30.1304,
     "geom:longitude":153.010419,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-30.130162,
     "lbl:longitude":153.01417,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Nana Glen"
@@ -38,9 +44,12 @@
         102048797
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11676"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"e16eae51301e908fea4d7d6dfe250d15",
+    "wof:geomhash":"68ff5c530ad296c164390d7eeb2c4e1f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404225195,
-    "wof:lastmodified":1566602662,
+    "wof:lastmodified":1695877508,
     "wof:name":"Nana Glen",
     "wof:parent_id":102048797,
     "wof:placetype":"localadmin",

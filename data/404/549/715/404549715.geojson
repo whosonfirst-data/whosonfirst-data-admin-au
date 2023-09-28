@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001281,
-    "geom:area_square_m":14499259.890714,
+    "geom:area_square_m":14499259.890741,
     "geom:bbox":"133.81152928,-23.7285349985,133.866510848,-23.695654597",
     "geom:latitude":-23.713456,
     "geom:longitude":133.835588,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-23.712237,
     "lbl:longitude":133.835582,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Flynn"
@@ -42,12 +48,15 @@
         102048753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC70067"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938451
     ],
     "wof:country":"AU",
-    "wof:geomhash":"c8be1b2c683791b3ba007ee453958b05",
+    "wof:geomhash":"c2f05b967e507bea4195cd21f98a9efb",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -60,7 +69,7 @@
         }
     ],
     "wof:id":404549715,
-    "wof:lastmodified":1566602860,
+    "wof:lastmodified":1695877633,
     "wof:name":"Flynn",
     "wof:parent_id":102048753,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000969,
-    "geom:area_square_m":9959626.839375,
+    "geom:area_square_m":9959626.839318,
     "geom:bbox":"150.439440992,-33.7574560015,150.472420992,-33.6992110085",
     "geom:latitude":-33.732466,
     "geom:longitude":150.454196,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.734739,
     "lbl:longitude":150.452564,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Hazelbrook"
@@ -38,12 +44,15 @@
         102049627
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11091"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101930669
     ],
     "wof:country":"AU",
-    "wof:geomhash":"c12135caf8ac158082ae4ec2cb33e858",
+    "wof:geomhash":"66df179615d1d286867cf799d2155210",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404223879,
-    "wof:lastmodified":1566602540,
+    "wof:lastmodified":1695877438,
     "wof:name":"Hazelbrook",
     "wof:parent_id":102049627,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009666,
-    "geom:area_square_m":96364848.122165,
+    "geom:area_square_m":96364848.122174,
     "geom:bbox":"144.629793536,-36.315495457,144.831985056,-36.225398977",
     "geom:latitude":-36.268973,
     "geom:longitude":144.73672,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.26133,
     "lbl:longitude":144.746654,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ballendella"
@@ -38,9 +44,12 @@
         102049529
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20060"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"28a5a1fb97da662017ba42141c4af015",
+    "wof:geomhash":"d7b6a44a956f80061b76029500f805e0",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404537627,
-    "wof:lastmodified":1566602326,
+    "wof:lastmodified":1695877310,
     "wof:name":"Ballendella",
     "wof:parent_id":102049529,
     "wof:placetype":"localadmin",

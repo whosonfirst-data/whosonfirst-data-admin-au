@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000514,
-    "geom:area_square_m":4999225.345,
+    "geom:area_square_m":4999225.344993,
     "geom:bbox":"144.548984448,-38.170076205,144.591636896,-38.139118157",
     "geom:latitude":-38.154236,
     "geom:longitude":144.570616,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.151605,
     "lbl:longitude":144.575625,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Clifton Springs"
@@ -48,12 +54,15 @@
         102049571
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20301"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932765
     ],
     "wof:country":"AU",
-    "wof:geomhash":"68d5ac9a2843a750079bc8c0a58f9e0a",
+    "wof:geomhash":"5b5bea580fc3565f934d0301211c5554",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -66,7 +75,7 @@
         }
     ],
     "wof:id":404538163,
-    "wof:lastmodified":1566602460,
+    "wof:lastmodified":1695877390,
     "wof:name":"Clifton Springs",
     "wof:parent_id":102049571,
     "wof:placetype":"localadmin",

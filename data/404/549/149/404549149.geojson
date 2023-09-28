@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000046,
-    "geom:area_square_m":421432.058521,
+    "geom:area_square_m":421432.058523,
     "geom:bbox":"146.621757696,-42.7589691815,146.63173152,-42.7509973835",
     "geom:latitude":-42.755333,
     "geom:longitude":146.626297,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-42.755927,
     "lbl:longitude":146.62622,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Maydena"
@@ -41,12 +47,15 @@
         102048499
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60213"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938165
     ],
     "wof:country":"AU",
-    "wof:geomhash":"5908c2bdca0b0d8fb74ec83bf3c4bd33",
+    "wof:geomhash":"c1ba633c910788aff8d837fceb9a99fe",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404549149,
-    "wof:lastmodified":1566602917,
+    "wof:lastmodified":1695877672,
     "wof:name":"Maydena",
     "wof:parent_id":102048499,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020205,
-    "geom:area_square_m":221828143.146469,
+    "geom:area_square_m":221828143.146549,
     "geom:bbox":"151.503295008,-27.493190001,151.660082016,-27.274746996",
     "geom:latitude":-27.388814,
     "geom:longitude":151.586713,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.396737,
     "lbl:longitude":151.580432,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Jondaryan"
@@ -38,9 +44,12 @@
         102049357
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30825"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"dcd4cccb21b55e70d4d80c6237bcc879",
+    "wof:geomhash":"d961d35fe09de1982fff44013ed2ae34",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404542677,
-    "wof:lastmodified":1566602303,
+    "wof:lastmodified":1695877296,
     "wof:name":"Jondaryan",
     "wof:parent_id":102049357,
     "wof:placetype":"localadmin",

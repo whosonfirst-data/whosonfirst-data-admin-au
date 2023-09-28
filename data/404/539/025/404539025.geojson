@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012671,
-    "geom:area_square_m":126636217.184979,
+    "geom:area_square_m":126636217.185007,
     "geom:bbox":"145.631648992,-36.1379738785,145.76183568,-35.9989623255",
     "geom:latitude":-36.075381,
     "geom:longitude":145.692006,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.074537,
     "lbl:longitude":145.684222,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Katamatite"
@@ -44,9 +50,12 @@
         102048427
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20688"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"065723b2a1752d64229baae800adf6ac",
+    "wof:geomhash":"2656190a040d818fdf91defaf74f362f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404539025,
-    "wof:lastmodified":1566602364,
+    "wof:lastmodified":1695877332,
     "wof:name":"Katamatite",
     "wof:parent_id":102048427,
     "wof:placetype":"localadmin",

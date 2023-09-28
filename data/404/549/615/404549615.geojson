@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000194,
-    "geom:area_square_m":1788883.657538,
+    "geom:area_square_m":1788883.657528,
     "geom:bbox":"145.322996736,-41.897278605,145.348498528,-41.8758354585",
     "geom:latitude":-41.887255,
     "geom:longitude":145.336404,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-41.886417,
     "lbl:longitude":145.335154,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Zeehan"
@@ -65,12 +71,15 @@
         102049543
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60420"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938345
     ],
     "wof:country":"AU",
-    "wof:geomhash":"fd05b33a565e771653a4a0d05b86160e",
+    "wof:geomhash":"54e461d6e73eb21db9a9a5931e272920",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -82,7 +91,7 @@
         }
     ],
     "wof:id":404549615,
-    "wof:lastmodified":1566602884,
+    "wof:lastmodified":1695877647,
     "wof:name":"Zeehan",
     "wof:parent_id":102049543,
     "wof:placetype":"localadmin",

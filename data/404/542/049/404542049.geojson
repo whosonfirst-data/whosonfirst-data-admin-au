@@ -10,6 +10,12 @@
     "geom:latitude":-27.698602,
     "geom:longitude":153.219269,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.697334,
     "lbl:longitude":153.217188,
     "lbl:max_zoom":18.0,
@@ -43,13 +49,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC30531",
         "wd:id":"Q5325321"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934339
     ],
     "wof:country":"AU",
-    "wof:geomhash":"95d49747a6d9e02dcdb05eb87bbe8dfe",
+    "wof:geomhash":"64378bea9dbc4dcaf5a3b2a1fc97227a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -62,7 +70,7 @@
         }
     ],
     "wof:id":404542049,
-    "wof:lastmodified":1566602273,
+    "wof:lastmodified":1695877939,
     "wof:name":"Eagleby",
     "wof:parent_id":102048665,
     "wof:placetype":"localadmin",

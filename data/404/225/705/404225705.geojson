@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001068,
-    "geom:area_square_m":11582249.37112,
+    "geom:area_square_m":11582249.371145,
     "geom:bbox":"153.473232,-28.6958930385,153.512504,-28.6465010355",
     "geom:latitude":-28.670718,
     "geom:longitude":153.494087,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.676368,
     "lbl:longitude":153.491107,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Possum Creek"
@@ -38,9 +44,12 @@
         102048747
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11902"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"9c3980711949b27574207f05e3bdfe02",
+    "wof:geomhash":"7a4f603724035d03f008416ae3db03a1",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404225705,
-    "wof:lastmodified":1566602700,
+    "wof:lastmodified":1695877529,
     "wof:name":"Possum Creek",
     "wof:parent_id":102048747,
     "wof:placetype":"localadmin",

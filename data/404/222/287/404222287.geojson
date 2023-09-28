@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014837,
-    "geom:area_square_m":155716445.027912,
+    "geom:area_square_m":155716445.027491,
     "geom:bbox":"151.946154016,-31.9972143385,152.149112192,-31.8575809265",
     "geom:latitude":-31.922834,
     "geom:longitude":152.044754,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.925673,
     "lbl:longitude":152.037912,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bundook"
@@ -38,9 +44,12 @@
         102049121
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10383"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"9929f235ff1e5e6fb236dffb67256692",
+    "wof:geomhash":"496ba3a791815206b500e9ba7d8a084a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404222287,
-    "wof:lastmodified":1566602756,
+    "wof:lastmodified":1695877563,
     "wof:name":"Bundook",
     "wof:parent_id":102049121,
     "wof:placetype":"localadmin",

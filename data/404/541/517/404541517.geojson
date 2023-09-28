@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000324,
-    "geom:area_square_m":3582730.525651,
+    "geom:area_square_m":3582757.645512,
     "geom:bbox":"152.923807,-26.643423,152.955222,-26.620021",
     "geom:latitude":-26.63255,
     "geom:longitude":152.940629,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-26.63461,
     "lbl:longitude":152.944787,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Burnside"
@@ -108,12 +114,15 @@
         102049303
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30275"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934073
     ],
     "wof:country":"AU",
-    "wof:geomhash":"789cdc440c6740ec88f581ba116740d0",
+    "wof:geomhash":"181c0d99bdd4f0b05d63fbda28c8e96e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -126,7 +135,7 @@
         }
     ],
     "wof:id":404541517,
-    "wof:lastmodified":1636494674,
+    "wof:lastmodified":1695877882,
     "wof:name":"Burnside",
     "wof:parent_id":102049303,
     "wof:placetype":"localadmin",

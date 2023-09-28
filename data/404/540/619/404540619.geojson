@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033646,
-    "geom:area_square_m":333264653.329695,
+    "geom:area_square_m":333264653.330234,
     "geom:bbox":"145.07648784,-36.893069194,145.336171008,-36.6419206865",
     "geom:latitude":-36.770129,
     "geom:longitude":145.217749,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.751458,
     "lbl:longitude":145.249585,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Wahring"
@@ -38,9 +44,12 @@
         102048611
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21401"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"9aa0c1105ae12e686e7a3edfcc2498e5",
+    "wof:geomhash":"7811c3b70645ad7961130223f2f0f707",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404540619,
-    "wof:lastmodified":1566602992,
+    "wof:lastmodified":1695877714,
     "wof:name":"Wahring",
     "wof:parent_id":102048611,
     "wof:placetype":"localadmin",

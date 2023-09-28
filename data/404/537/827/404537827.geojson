@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003306,
-    "geom:area_square_m":32090570.6032,
+    "geom:area_square_m":32090570.603127,
     "geom:bbox":"141.580533344,-38.3114970315,141.68146688,-38.2504661975",
     "geom:latitude":-38.277296,
     "geom:longitude":141.624891,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.275566,
     "lbl:longitude":141.624143,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bolwarra"
@@ -44,9 +50,12 @@
         102049579
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20150"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"4ea81e33cea8c042cb0d44bf174da40f",
+    "wof:geomhash":"a878396819c929fa7daaf9ea62af9a5a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404537827,
-    "wof:lastmodified":1566602324,
+    "wof:lastmodified":1695877308,
     "wof:name":"Bolwarra",
     "wof:parent_id":102049579,
     "wof:placetype":"localadmin",

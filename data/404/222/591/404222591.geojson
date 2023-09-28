@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000385,
-    "geom:area_square_m":3954912.873468,
+    "geom:area_square_m":3954912.873481,
     "geom:bbox":"150.98140224,-33.8960126025,151.01327,-33.8640737215",
     "geom:latitude":-33.878961,
     "geom:longitude":150.999452,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.879225,
     "lbl:longitude":151.000771,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062a\u0634\u0633\u062a\u0631 \u0647\u064a\u0644"
@@ -51,12 +57,15 @@
         102049447
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10518"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101929895
     ],
     "wof:country":"AU",
-    "wof:geomhash":"e35dbb35d378f3076b2be7b965f66bc5",
+    "wof:geomhash":"d4519cca69fbf39833a0ffb7ea1234c0",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -69,7 +78,7 @@
         }
     ],
     "wof:id":404222591,
-    "wof:lastmodified":1566602789,
+    "wof:lastmodified":1695877586,
     "wof:name":"Chester Hill",
     "wof:parent_id":102049447,
     "wof:placetype":"localadmin",

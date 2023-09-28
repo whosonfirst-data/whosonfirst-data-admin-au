@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014149,
-    "geom:area_square_m":141108283.682478,
+    "geom:area_square_m":141108283.682376,
     "geom:bbox":"146.130997664,-36.301034969,146.271921152,-36.182967969",
     "geom:latitude":-36.241239,
     "geom:longitude":146.196097,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.242948,
     "lbl:longitude":146.196122,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Peechelba"
@@ -38,9 +44,12 @@
         102049395
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21079"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"138acb86153a576792d4cd08042895ff",
+    "wof:geomhash":"ca91bedc5eef9683b2725fa926b2343b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404539899,
-    "wof:lastmodified":1566602406,
+    "wof:lastmodified":1695877361,
     "wof:name":"Peechelba",
     "wof:parent_id":102049395,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037906,
-    "geom:area_square_m":386555121.130527,
+    "geom:area_square_m":386555121.131076,
     "geom:bbox":"147.765529696,-34.559565996,148.031300992,-34.3365112925",
     "geom:latitude":-34.440846,
     "geom:longitude":147.894256,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.436334,
     "lbl:longitude":147.878464,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Stockinbingal"
@@ -41,9 +47,12 @@
         102049653
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12158"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"37ce9fa2e6fbd085d9f8f8d32fa880bd",
+    "wof:geomhash":"cd8c2b73daf1c2fd7537dc3985e3a22a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404226281,
-    "wof:lastmodified":1566602029,
+    "wof:lastmodified":1695877148,
     "wof:name":"Stockinbingal",
     "wof:parent_id":102049653,
     "wof:placetype":"localadmin",

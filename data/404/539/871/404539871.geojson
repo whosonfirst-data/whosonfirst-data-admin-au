@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002331,
-    "geom:area_square_m":22826819.733569,
+    "geom:area_square_m":22826819.733542,
     "geom:bbox":"145.215071008,-37.671241428,145.286101632,-37.6142200065",
     "geom:latitude":-37.644255,
     "geom:longitude":145.247669,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.643884,
     "lbl:longitude":145.248182,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Panton Hill"
@@ -38,9 +44,12 @@
         102048735
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21067"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"eba3e2e0f6cbd1f1de9c4a291622a8ee",
+    "wof:geomhash":"5799c89e03bcb5e6d271790b8085454f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404539871,
-    "wof:lastmodified":1566602397,
+    "wof:lastmodified":1695877354,
     "wof:name":"Panton Hill",
     "wof:parent_id":102048735,
     "wof:placetype":"localadmin",

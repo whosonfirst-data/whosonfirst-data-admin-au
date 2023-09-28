@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000751,
-    "geom:area_square_m":7003378.275866,
+    "geom:area_square_m":7003378.275841,
     "geom:bbox":"145.92219264,-41.087805999,145.985166976,-41.063026174",
     "geom:latitude":-41.073684,
     "geom:longitude":145.952926,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-41.072309,
     "lbl:longitude":145.94814,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Wivenhoe"
@@ -86,12 +92,15 @@
         102049367
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60412"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938341
     ],
     "wof:country":"AU",
-    "wof:geomhash":"efa3a211d548b1bee0c0a508f3d75d9a",
+    "wof:geomhash":"53ada7146de3ee70b686c34de36c3048",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -103,7 +112,7 @@
         }
     ],
     "wof:id":404549597,
-    "wof:lastmodified":1566602867,
+    "wof:lastmodified":1695877638,
     "wof:name":"Wivenhoe",
     "wof:parent_id":102049367,
     "wof:placetype":"localadmin",

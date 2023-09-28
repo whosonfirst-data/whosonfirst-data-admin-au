@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000174,
-    "geom:area_square_m":1783398.096849,
+    "geom:area_square_m":1783398.096844,
     "geom:bbox":"151.077009344,-33.912023039,151.095304832,-33.8964049875",
     "geom:latitude":-33.904424,
     "geom:longitude":151.085846,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.903779,
     "lbl:longitude":151.085106,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Belfield"
@@ -51,12 +57,15 @@
         102049409
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10151"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101929521
     ],
     "wof:country":"AU",
-    "wof:geomhash":"34b6b3cbcefa04f60de66fa67c5a6831",
+    "wof:geomhash":"e7ab35d41ee110bec86562ef36bd6cc9",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -69,7 +78,7 @@
         }
     ],
     "wof:id":404221765,
-    "wof:lastmodified":1566601967,
+    "wof:lastmodified":1695877117,
     "wof:name":"Belfield",
     "wof:parent_id":102049409,
     "wof:placetype":"localadmin",

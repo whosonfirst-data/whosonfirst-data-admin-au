@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00265,
-    "geom:area_square_m":28838122.371236,
+    "geom:area_square_m":28838122.371252,
     "geom:bbox":"153.260603008,-28.3685559995,153.355715104,-28.328276005",
     "geom:latitude":-28.348893,
     "geom:longitude":153.304936,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.349616,
     "lbl:longitude":153.308786,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Eungella"
@@ -41,9 +47,12 @@
         102048589
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10849"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"b24dd6db3be741bfffb82147b64302a9",
+    "wof:geomhash":"82827247ad86fe8ae7c7d9cf7bb0cd21",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404223335,
-    "wof:lastmodified":1566602534,
+    "wof:lastmodified":1695877434,
     "wof:name":"Eungella",
     "wof:parent_id":102048589,
     "wof:placetype":"localadmin",

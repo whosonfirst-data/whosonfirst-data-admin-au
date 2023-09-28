@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.098906,
-    "geom:area_square_m":985902883.08257,
+    "geom:area_square_m":985902883.081886,
     "geom:bbox":"148.441806784,-36.4688110065,148.973728,-36.0637720065",
     "geom:latitude":-36.279072,
     "geom:longitude":148.735922,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.324592,
     "lbl:longitude":148.783994,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Berridale"
@@ -38,9 +44,12 @@
         102048967
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10193"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"20036cd855bc6a70599c6cdadb7b7300",
+    "wof:geomhash":"dcb13e81c45f1888c24bfbf465d69817",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404221859,
-    "wof:lastmodified":1566601976,
+    "wof:lastmodified":1695877122,
     "wof:name":"Berridale",
     "wof:parent_id":102048967,
     "wof:placetype":"localadmin",

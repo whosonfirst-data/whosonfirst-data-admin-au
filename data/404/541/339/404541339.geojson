@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.812008,
-    "geom:area_square_m":8831469712.775414,
+    "geom:area_square_m":8831469712.776476,
     "geom:bbox":"146.863143584,-28.9991489975,147.910641856,-27.704696949",
     "geom:latitude":-28.407055,
     "geom:longitude":147.342151,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.310138,
     "lbl:longitude":147.289838,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bollon"
@@ -38,9 +44,12 @@
         102049509
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30192"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"6b9e89eabdf478a7aec0b6e71a38f803",
+    "wof:geomhash":"e830097a34d4ab142597f54a1a6925a9",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404541339,
-    "wof:lastmodified":1566603048,
+    "wof:lastmodified":1695877745,
     "wof:name":"Bollon",
     "wof:parent_id":102049509,
     "wof:placetype":"localadmin",

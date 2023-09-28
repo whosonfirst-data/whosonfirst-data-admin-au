@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004867,
-    "geom:area_square_m":52667251.254909,
+    "geom:area_square_m":52667251.254966,
     "geom:bbox":"151.908759744,-28.991734771,152.021826016,-28.8954828415",
     "geom:latitude":-28.940562,
     "geom:longitude":151.969366,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.943106,
     "lbl:longitude":151.96858,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Jennings"
@@ -41,9 +47,12 @@
         102048787
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11172"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"fa3f5950bdcf93d7ceabdeb58c686ab0",
+    "wof:geomhash":"c0ede577815f347b624dd603f5418621",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404224061,
-    "wof:lastmodified":1566602637,
+    "wof:lastmodified":1695877495,
     "wof:name":"Jennings",
     "wof:parent_id":102048787,
     "wof:placetype":"localadmin",

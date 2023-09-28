@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002503,
-    "geom:area_square_m":24981259.57842,
+    "geom:area_square_m":24981259.578556,
     "geom:bbox":"150.04594,-36.225159994,150.134174016,-36.1548779945",
     "geom:latitude":-36.186428,
     "geom:longitude":150.089775,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.181448,
     "lbl:longitude":150.092757,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kianga"
@@ -47,12 +53,15 @@
         102049609
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11240"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101930879
     ],
     "wof:country":"AU",
-    "wof:geomhash":"d39f1781fa34d523b5db90fb77f917ab",
+    "wof:geomhash":"5ea53a6db4faf3559a72b6d11b305145",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":404224215,
-    "wof:lastmodified":1566602623,
+    "wof:lastmodified":1695877487,
     "wof:name":"Kianga",
     "wof:parent_id":102049609,
     "wof:placetype":"localadmin",

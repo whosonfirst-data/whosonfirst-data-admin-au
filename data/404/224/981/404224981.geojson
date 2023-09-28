@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.094155,
-    "geom:area_square_m":988143019.920712,
+    "geom:area_square_m":988143019.919707,
     "geom:bbox":"151.012851872,-32.0900337965,151.594033696,-31.7182720045",
     "geom:latitude":-31.924809,
     "geom:longitude":151.308804,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.948377,
     "lbl:longitude":151.232071,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Moonan Flat"
@@ -44,9 +50,12 @@
         102048493
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11581"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"07dc07f87b41aeedcc22b91f7fd5596e",
+    "wof:geomhash":"877570799941fe5da360b9ba7acd6ba2",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404224981,
-    "wof:lastmodified":1566602656,
+    "wof:lastmodified":1695877505,
     "wof:name":"Moonan Flat",
     "wof:parent_id":102048493,
     "wof:placetype":"localadmin",

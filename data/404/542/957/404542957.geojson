@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000201,
-    "geom:area_square_m":2333945.169385,
+    "geom:area_square_m":2333945.169383,
     "geom:bbox":"146.248166304,-20.086774016,146.26565712,-20.067868977",
     "geom:latitude":-20.077623,
     "geom:longitude":146.258207,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-20.077405,
     "lbl:longitude":146.258918,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lissner"
@@ -38,12 +44,15 @@
         102048989
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30953"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934721
     ],
     "wof:country":"AU",
-    "wof:geomhash":"ed029289f970973dac3e6b7dfa58d7fe",
+    "wof:geomhash":"8331721e3bfd841ad70591f402efbf7a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404542957,
-    "wof:lastmodified":1566602289,
+    "wof:lastmodified":1695877286,
     "wof:name":"Lissner",
     "wof:parent_id":102048989,
     "wof:placetype":"localadmin",

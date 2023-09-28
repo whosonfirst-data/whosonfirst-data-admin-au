@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019371,
-    "geom:area_square_m":207927426.718947,
+    "geom:area_square_m":207927394.932151,
     "geom:bbox":"151.02107,-29.8519,151.20435,-29.678074",
     "geom:latitude":-29.762576,
     "geom:longitude":151.110029,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-29.75593,
     "lbl:longitude":151.117387,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0625\u064a\u0646\u0641\u064a\u0631\u064a\u0644"
@@ -107,9 +113,12 @@
         102049369
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11159"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"7a76261e729898a4191b8e741892277f",
+    "wof:geomhash":"1cbaa8ba03fc8c9e231ce0f29c00aac0",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -121,7 +130,7 @@
         }
     ],
     "wof:id":404224033,
-    "wof:lastmodified":1636494649,
+    "wof:lastmodified":1695877865,
     "wof:name":"Inverell",
     "wof:parent_id":102049369,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002596,
-    "geom:area_square_m":30546182.323992,
+    "geom:area_square_m":30546182.323986,
     "geom:bbox":"145.958923008,-17.922655005,146.023676,-17.848004286",
     "geom:latitude":-17.88709,
     "geom:longitude":145.99362,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-17.886369,
     "lbl:longitude":145.996815,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "East Feluga"
@@ -38,9 +44,12 @@
         102049237
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30536"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"b1e5e8b5b7f4e165740642e7f5628b11",
+    "wof:geomhash":"5d5b65641a59e8c3f5b841f861d96307",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404542061,
-    "wof:lastmodified":1566602305,
+    "wof:lastmodified":1695877297,
     "wof:name":"East Feluga",
     "wof:parent_id":102049237,
     "wof:placetype":"localadmin",

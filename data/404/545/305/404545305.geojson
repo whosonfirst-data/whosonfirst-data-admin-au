@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000112,
-    "geom:area_square_m":1153865.654301,
+    "geom:area_square_m":1153865.654302,
     "geom:bbox":"137.93485408,-33.5737262855,137.951807296,-33.5525918485",
     "geom:latitude":-33.559441,
     "geom:longitude":137.942881,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.557181,
     "lbl:longitude":137.940179,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Fisherman Bay"
@@ -38,12 +44,15 @@
         102048789
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40203"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101936001
     ],
     "wof:country":"AU",
-    "wof:geomhash":"38b03dea4d503fe462347e92e51cc8c4",
+    "wof:geomhash":"fd6270e33a13d1356e9556a908f333da",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404545305,
-    "wof:lastmodified":1566602239,
+    "wof:lastmodified":1695877260,
     "wof:name":"Fisherman Bay",
     "wof:parent_id":102048789,
     "wof:placetype":"localadmin",

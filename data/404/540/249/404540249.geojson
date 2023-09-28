@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000252,
-    "geom:area_square_m":2458574.791983,
+    "geom:area_square_m":2458520.196791,
     "geom:bbox":"144.940812,-37.842169,144.971767,-37.82582",
     "geom:latitude":-37.83341,
     "geom:longitude":144.956973,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.83292,
     "lbl:longitude":144.954622,
     "lbl:max_zoom":18.0,
@@ -91,13 +97,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC21236",
         "wd:id":"Q3965520"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101933545
     ],
     "wof:country":"AU",
-    "wof:geomhash":"068084e4bbe371b4e1311d3f4609df0a",
+    "wof:geomhash":"5eb12ccf9d722e98837f2400aadb37ba",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -110,7 +118,7 @@
         }
     ],
     "wof:id":404540249,
-    "wof:lastmodified":1690853786,
+    "wof:lastmodified":1695878027,
     "wof:name":"South Melbourne",
     "wof:parent_id":102049535,
     "wof:placetype":"localadmin",

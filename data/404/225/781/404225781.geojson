@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00026,
-    "geom:area_square_m":2659735.684991,
+    "geom:area_square_m":2659735.684979,
     "geom:bbox":"150.805311008,-34.02972977,150.827900544,-34.010655308",
     "geom:latitude":-34.018464,
     "geom:longitude":150.817638,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.018622,
     "lbl:longitude":150.81785,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Raby"
@@ -56,12 +62,15 @@
         102048887
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11936"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931675
     ],
     "wof:country":"AU",
-    "wof:geomhash":"f14918a1d093e00e76a6fad9e019cd0f",
+    "wof:geomhash":"8da0963e66ed5f07c6955707777e6017",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -73,7 +82,7 @@
         }
     ],
     "wof:id":404225781,
-    "wof:lastmodified":1566602733,
+    "wof:lastmodified":1695877549,
     "wof:name":"Raby",
     "wof:parent_id":102048887,
     "wof:placetype":"localadmin",

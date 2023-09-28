@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00426,
-    "geom:area_square_m":43932558.804358,
+    "geom:area_square_m":43932558.804346,
     "geom:bbox":"149.499199008,-33.5302459945,149.593533312,-33.4552881015",
     "geom:latitude":-33.492561,
     "geom:longitude":149.552745,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.49403,
     "lbl:longitude":149.561269,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Perthville"
@@ -50,9 +56,12 @@
         102049305
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11865"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"be543f94a3f9cbebb02c04e617c7a4c2",
+    "wof:geomhash":"2112d68d2beb2ce157214f0ebb340724",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":404225621,
-    "wof:lastmodified":1566602672,
+    "wof:lastmodified":1695877515,
     "wof:name":"Perthville",
     "wof:parent_id":102049305,
     "wof:placetype":"localadmin",

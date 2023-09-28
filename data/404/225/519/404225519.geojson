@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027794,
-    "geom:area_square_m":281318106.316132,
+    "geom:area_square_m":281318106.315984,
     "geom:bbox":"147.402569856,-35.1456669935,147.69502896,-34.9720391655",
     "geom:latitude":-35.058664,
     "geom:longitude":147.558761,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.052222,
     "lbl:longitude":147.558841,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Oura"
@@ -47,9 +53,12 @@
         102049075
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11820"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"4e940f28a15f76512355fe455e30e6f8",
+    "wof:geomhash":"3eb3fb39aef99fbef7c178cd9b035458",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":404225519,
-    "wof:lastmodified":1566602692,
+    "wof:lastmodified":1695877525,
     "wof:name":"Oura",
     "wof:parent_id":102049075,
     "wof:placetype":"localadmin",

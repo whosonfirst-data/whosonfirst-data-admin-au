@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000066,
-    "geom:area_square_m":662779.239125,
+    "geom:area_square_m":662779.239126,
     "geom:bbox":"143.44584048,-35.2958228725,143.457552,-35.287289581",
     "geom:latitude":-35.290813,
     "geom:longitude":143.452216,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.290708,
     "lbl:longitude":143.452221,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Woorinen South"
@@ -38,12 +44,15 @@
         102049167
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21506"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101933751
     ],
     "wof:country":"AU",
-    "wof:geomhash":"a3f06c6a17d6a28b6a7b715030589282",
+    "wof:geomhash":"4b778a794990e21ab9b955d23aa2fa70",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404540853,
-    "wof:lastmodified":1566603029,
+    "wof:lastmodified":1695877735,
     "wof:name":"Woorinen South",
     "wof:parent_id":102049167,
     "wof:placetype":"localadmin",

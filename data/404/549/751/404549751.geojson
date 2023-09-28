@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000295,
-    "geom:area_square_m":3526613.215108,
+    "geom:area_square_m":3526622.79276,
     "geom:bbox":"132.260202,-14.467828,132.281815,-14.437737",
     "geom:latitude":-14.45271,
     "geom:longitude":132.272454,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-14.453207,
     "lbl:longitude":132.275151,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u041a\u0430\u0446\u044f\u0440\u044b\u043d\u0430"
@@ -68,12 +74,15 @@
         102049277
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC70099"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938513
     ],
     "wof:country":"AU",
-    "wof:geomhash":"840146920f325370ed2867d74433478c",
+    "wof:geomhash":"e4da43e07d5d7574efa7a9f281661a60",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -85,7 +94,7 @@
         }
     ],
     "wof:id":404549751,
-    "wof:lastmodified":1636494659,
+    "wof:lastmodified":1695877871,
     "wof:name":"Katherine",
     "wof:parent_id":102049277,
     "wof:placetype":"localadmin",

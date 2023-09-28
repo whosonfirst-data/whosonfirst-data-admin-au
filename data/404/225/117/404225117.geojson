@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00666,
-    "geom:area_square_m":69175046.682498,
+    "geom:area_square_m":69175046.682485,
     "geom:bbox":"151.450738016,-32.909814991,151.614980512,-32.8221599005",
     "geom:latitude":-32.863982,
     "geom:longitude":151.525376,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.857664,
     "lbl:longitude":151.525407,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mulbring"
@@ -38,9 +44,12 @@
         102048575
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11641"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"8ae64853d9748c7ed32604850dbf608e",
+    "wof:geomhash":"4dd102bfe4f2d12741d088767e769ce9",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404225117,
-    "wof:lastmodified":1566602699,
+    "wof:lastmodified":1695877528,
     "wof:name":"Mulbring",
     "wof:parent_id":102048575,
     "wof:placetype":"localadmin",

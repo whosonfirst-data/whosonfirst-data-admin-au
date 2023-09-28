@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002215,
-    "geom:area_square_m":25402646.242872,
+    "geom:area_square_m":25402672.331411,
     "geom:bbox":"114.113326,-21.97515,114.146784,-21.872907",
     "geom:latitude":-21.924802,
     "geom:longitude":114.128626,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-21.911376,
     "lbl:longitude":114.128307,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ang_x_preferred":[
         "Exanm\u016b\u00fea"
@@ -141,12 +147,15 @@
         102049323
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50257"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937165
     ],
     "wof:country":"AU",
-    "wof:geomhash":"1cd7746947e2c6e692eb6ee7a2d84293",
+    "wof:geomhash":"117de94ca0cbc965e14ba8036f27b004",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -158,7 +167,7 @@
         }
     ],
     "wof:id":404547261,
-    "wof:lastmodified":1636494665,
+    "wof:lastmodified":1695877876,
     "wof:name":"Exmouth",
     "wof:parent_id":102049323,
     "wof:placetype":"localadmin",

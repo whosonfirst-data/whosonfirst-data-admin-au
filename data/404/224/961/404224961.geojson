@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.042275,
-    "geom:area_square_m":437898410.27269,
+    "geom:area_square_m":437898410.27256,
     "geom:bbox":"148.722787584,-33.2422709985,149.011517152,-32.9884869995",
     "geom:latitude":-33.102433,
     "geom:longitude":148.865507,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.103836,
     "lbl:longitude":148.887398,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Molong"
@@ -53,9 +59,12 @@
         102048769
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11572"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"09a1c9527c1cfdab69325a79541350d9",
+    "wof:geomhash":"f43055d9ed06b7069998d1dd4f20a00a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -67,7 +76,7 @@
         }
     ],
     "wof:id":404224961,
-    "wof:lastmodified":1566602610,
+    "wof:lastmodified":1695877482,
     "wof:name":"Molong",
     "wof:parent_id":102048769,
     "wof:placetype":"localadmin",

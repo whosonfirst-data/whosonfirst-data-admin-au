@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020982,
-    "geom:area_square_m":213399064.27314,
+    "geom:area_square_m":213399064.273148,
     "geom:bbox":"117.771701984,-34.763236825,117.974929984,-34.587720036",
     "geom:latitude":-34.663883,
     "geom:longitude":117.880026,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.666801,
     "lbl:longitude":117.881616,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Porongurup"
@@ -38,9 +44,12 @@
         102049271
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50656"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"77942bec73b12b74eb12b059131d4c02",
+    "wof:geomhash":"a27f2ea5fd3f5a24b9e9588dc9146896",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404548151,
-    "wof:lastmodified":1566603165,
+    "wof:lastmodified":1695877796,
     "wof:name":"Porongurup",
     "wof:parent_id":102049271,
     "wof:placetype":"localadmin",

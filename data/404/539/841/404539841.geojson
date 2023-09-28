@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002874,
-    "geom:area_square_m":27980654.258358,
+    "geom:area_square_m":27980649.949457,
     "geom:bbox":"145.374872,-38.083263,145.438066,-38.013286",
     "geom:latitude":-38.054286,
     "geom:longitude":145.411399,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.054107,
     "lbl:longitude":145.410793,
     "lbl:max_zoom":18.0,
@@ -75,10 +81,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC21053",
         "wd:id":"Q7079440"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"b2ce61dfa0f7dc77a2aa043054e96d6d",
+    "wof:geomhash":"2cdd92e13501636a6a0e7f25eb736016",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -90,7 +98,7 @@
         }
     ],
     "wof:id":404539841,
-    "wof:lastmodified":1690853563,
+    "wof:lastmodified":1695877951,
     "wof:name":"Officer",
     "wof:parent_id":102048791,
     "wof:placetype":"localadmin",

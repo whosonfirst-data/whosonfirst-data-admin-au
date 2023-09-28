@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000244,
-    "geom:area_square_m":2264084.256235,
+    "geom:area_square_m":2264084.256249,
     "geom:bbox":"147.052316096,-41.5171067315,147.083262176,-41.4940938785",
     "geom:latitude":-41.504518,
     "geom:longitude":147.065909,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-41.505584,
     "lbl:longitude":147.063563,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Hadspen"
@@ -38,12 +44,15 @@
         102048535
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60145"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938117
     ],
     "wof:country":"AU",
-    "wof:geomhash":"8a61c8434e30eb6fdae4f627d3f1c37c",
+    "wof:geomhash":"32f2fc1ca1937fcec2c654a21514db88",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404548995,
-    "wof:lastmodified":1566603197,
+    "wof:lastmodified":1695877815,
     "wof:name":"Hadspen",
     "wof:parent_id":102048535,
     "wof:placetype":"localadmin",

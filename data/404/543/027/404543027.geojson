@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001908,
-    "geom:area_square_m":22583422.360243,
+    "geom:area_square_m":22583422.360219,
     "geom:bbox":"145.617072768,-16.8530664605,145.688079104,-16.7048479755",
     "geom:latitude":-16.77552,
     "geom:longitude":145.655078,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-16.731212,
     "lbl:longitude":145.643421,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Macalister Range"
@@ -38,12 +44,15 @@
         102048911
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30985"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934749
     ],
     "wof:country":"AU",
-    "wof:geomhash":"1940cc034c4dc59a72dda5de3fa2779b",
+    "wof:geomhash":"aab0991e71d23206137c9597c690f863",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404543027,
-    "wof:lastmodified":1566602128,
+    "wof:lastmodified":1695877206,
     "wof:name":"Macalister Range",
     "wof:parent_id":102048911,
     "wof:placetype":"localadmin",

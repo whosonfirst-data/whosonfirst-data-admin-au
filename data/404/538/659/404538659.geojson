@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.045497,
-    "geom:area_square_m":453254521.975092,
+    "geom:area_square_m":453254521.974969,
     "geom:bbox":"141.722820992,-36.456729008,141.957423008,-36.159401966",
     "geom:latitude":-36.324203,
     "geom:longitude":141.837056,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.353159,
     "lbl:longitude":141.827531,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Gerang Gerung"
@@ -38,9 +44,12 @@
         102048501
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20524"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"0bbc669d4054adc8a872f5cff01f4dd9",
+    "wof:geomhash":"e37ddc6548899a4c613707b251e1f2b2",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404538659,
-    "wof:lastmodified":1566602446,
+    "wof:lastmodified":1695877384,
     "wof:name":"Gerang Gerung",
     "wof:parent_id":102048501,
     "wof:placetype":"localadmin",

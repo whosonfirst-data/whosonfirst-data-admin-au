@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000882,
-    "geom:area_square_m":9668746.075958,
+    "geom:area_square_m":9668746.075964,
     "geom:bbox":"152.44951104,-27.5465550085,152.496197984,-27.518163003",
     "geom:latitude":-27.532781,
     "geom:longitude":152.472052,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.532266,
     "lbl:longitude":152.472047,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kensington Grove"
@@ -38,9 +44,12 @@
         102049033
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30866"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"29e510670f9e1f5e71879681f20d765e",
+    "wof:geomhash":"c5fe95f6b27412c1a2778436471312fd",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404542769,
-    "wof:lastmodified":1566602291,
+    "wof:lastmodified":1695877288,
     "wof:name":"Kensington Grove",
     "wof:parent_id":102049033,
     "wof:placetype":"localadmin",

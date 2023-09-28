@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001828,
-    "geom:area_square_m":21502061.586649,
+    "geom:area_square_m":21502061.586628,
     "geom:bbox":"146.059282016,-17.994501346,146.10138944,-17.911108711",
     "geom:latitude":-17.95506,
     "geom:longitude":146.07955,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-17.955119,
     "lbl:longitude":146.078112,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "South Mission Beach"
@@ -38,12 +44,15 @@
         102049237
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31502"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935333
     ],
     "wof:country":"AU",
-    "wof:geomhash":"b8aff36e517b197c6424fb37c752f0b3",
+    "wof:geomhash":"7b0eb59e9c63b2c80cea2442805e0152",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404544115,
-    "wof:lastmodified":1566602200,
+    "wof:lastmodified":1695877243,
     "wof:name":"South Mission Beach",
     "wof:parent_id":102049237,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002342,
-    "geom:area_square_m":25425400.184994,
+    "geom:area_square_m":25425400.184995,
     "geom:bbox":"151.890527008,-28.604372521,151.991810016,-28.560118005",
     "geom:latitude":-28.582941,
     "geom:longitude":151.94695,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.582166,
     "lbl:longitude":151.958819,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "The Summit"
@@ -48,9 +54,12 @@
         102048963
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31620"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"4071bb656d06a488858811d47ac4ecc3",
+    "wof:geomhash":"2ede6d9057467e2eb9d950ea2ea11bf7",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -63,7 +72,7 @@
         }
     ],
     "wof:id":404544365,
-    "wof:lastmodified":1566602149,
+    "wof:lastmodified":1695877217,
     "wof:name":"The Summit",
     "wof:parent_id":102048963,
     "wof:placetype":"localadmin",

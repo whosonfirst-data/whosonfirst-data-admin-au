@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003941,
-    "geom:area_square_m":38356672.293247,
+    "geom:area_square_m":38356672.293267,
     "geom:bbox":"146.506391872,-38.121806005,146.616152992,-38.056957918",
     "geom:latitude":-38.08798,
     "geom:longitude":146.562293,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.090108,
     "lbl:longitude":146.5623,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Glengarry North"
@@ -38,9 +44,12 @@
         102049021
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20540"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"11abc158bdc102b45ad59d58979985f7",
+    "wof:geomhash":"7c3e08ca47b37debbab95be39e44fb0f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404538695,
-    "wof:lastmodified":1566602446,
+    "wof:lastmodified":1695877384,
     "wof:name":"Glengarry North",
     "wof:parent_id":102049021,
     "wof:placetype":"localadmin",

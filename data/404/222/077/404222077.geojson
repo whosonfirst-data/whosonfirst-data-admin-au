@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.078335,
-    "geom:area_square_m":785979507.789978,
+    "geom:area_square_m":785979507.790301,
     "geom:bbox":"145.753648864,-35.9918382715,146.007644352,-35.539613079",
     "geom:latitude":-35.763059,
     "geom:longitude":145.878257,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.762024,
     "lbl:longitude":145.888592,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Boomanoomana"
@@ -38,9 +44,12 @@
         102048823
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10290"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"de9fee704203df3427c3ed9a8ef27741",
+    "wof:geomhash":"b7bef34634064724cb6e3285c612ef1c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404222077,
-    "wof:lastmodified":1566602756,
+    "wof:lastmodified":1695877563,
     "wof:name":"Boomanoomana",
     "wof:parent_id":102048823,
     "wof:placetype":"localadmin",

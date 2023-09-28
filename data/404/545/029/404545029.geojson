@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002289,
-    "geom:area_square_m":23144323.203193,
+    "geom:area_square_m":23144323.203182,
     "geom:bbox":"138.829351008,-35.164069998,138.917510656,-35.107453005",
     "geom:latitude":-35.132654,
     "geom:longitude":138.871646,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.124424,
     "lbl:longitude":138.856958,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bugle Ranges"
@@ -39,9 +45,12 @@
         102048895
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40079"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"f879a875f75ff810b8b73d66f37a9b20",
+    "wof:geomhash":"a5e1d1ca6e43edaac40b835eddaec60e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":404545029,
-    "wof:lastmodified":1566602242,
+    "wof:lastmodified":1695877262,
     "wof:name":"Bugle Ranges",
     "wof:parent_id":102048895,
     "wof:placetype":"localadmin",

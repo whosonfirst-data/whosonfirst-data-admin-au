@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002927,
-    "geom:area_square_m":27334985.098762,
+    "geom:area_square_m":27334985.098715,
     "geom:bbox":"145.615333312,-40.991200479,145.733368672,-40.938121389",
     "geom:latitude":-40.96191,
     "geom:longitude":145.678549,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-40.958589,
     "lbl:longitude":145.687435,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Flowerdale"
@@ -44,9 +50,12 @@
         102048983
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60113"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"f21334e5bd449a224fce7645be0c9a42",
+    "wof:geomhash":"a07996d0edf3b438262f11bf6bee4906",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404548923,
-    "wof:lastmodified":1566603191,
+    "wof:lastmodified":1695877812,
     "wof:name":"Flowerdale",
     "wof:parent_id":102048983,
     "wof:placetype":"localadmin",

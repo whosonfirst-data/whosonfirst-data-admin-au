@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000201,
-    "geom:area_square_m":2104069.58973,
+    "geom:area_square_m":2104069.589724,
     "geom:bbox":"115.8731712,-32.0411276035,115.901152512,-32.0203561365",
     "geom:latitude":-32.029567,
     "geom:longitude":115.886636,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.028521,
     "lbl:longitude":115.886417,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Shelley"
@@ -42,12 +48,15 @@
         102049055
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50706"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937759
     ],
     "wof:country":"AU",
-    "wof:geomhash":"b7b2dedb8d7a5207c673d0aecea78b56",
+    "wof:geomhash":"3c514348d883251db185c83e743e6e8b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -60,7 +69,7 @@
         }
     ],
     "wof:id":404548265,
-    "wof:lastmodified":1566603218,
+    "wof:lastmodified":1695877825,
     "wof:name":"Shelley",
     "wof:parent_id":102049055,
     "wof:placetype":"localadmin",

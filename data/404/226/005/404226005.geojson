@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003437,
-    "geom:area_square_m":36258106.766006,
+    "geom:area_square_m":36258106.765959,
     "geom:bbox":"152.75568,-31.4704527755,152.825531712,-31.399062996",
     "geom:latitude":-31.437503,
     "geom:longitude":152.79328,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.439214,
     "lbl:longitude":152.796775,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Sancrox"
@@ -38,9 +44,12 @@
         102049203
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12036"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"17f5f8a3dbf1d6afad6d33b45b34b909",
+    "wof:geomhash":"c04c2198f9056d117ab3cce5fb79df71",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404226005,
-    "wof:lastmodified":1566602078,
+    "wof:lastmodified":1695877180,
     "wof:name":"Sancrox",
     "wof:parent_id":102049203,
     "wof:placetype":"localadmin",

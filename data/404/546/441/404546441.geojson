@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.054669,
-    "geom:area_square_m":557815278.506884,
+    "geom:area_square_m":557815278.506889,
     "geom:bbox":"139.093764416,-34.502841999,139.438263008,-34.2889514925",
     "geom:latitude":-34.39391,
     "geom:longitude":139.281216,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.40149,
     "lbl:longitude":139.229529,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062a\u0631\u0648\u0631\u0648"
@@ -218,9 +224,12 @@
         102049005
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40733"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"c4f6a7ea5b5c31af91b4930f4d74ffe2",
+    "wof:geomhash":"8e71abc6ae43cb2f82f1cf5d39fb1f14",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -232,7 +241,7 @@
         }
     ],
     "wof:id":404546441,
-    "wof:lastmodified":1566603113,
+    "wof:lastmodified":1695877774,
     "wof:name":"Truro",
     "wof:parent_id":102049005,
     "wof:placetype":"localadmin",

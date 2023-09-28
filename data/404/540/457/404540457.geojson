@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000585,
-    "geom:area_square_m":5713236.562248,
+    "geom:area_square_m":5713236.562256,
     "geom:bbox":"145.298870016,-37.8670657595,145.347619328,-37.844862041",
     "geom:latitude":-37.855687,
     "geom:longitude":145.321373,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.855963,
     "lbl:longitude":145.323405,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "The Basin"
@@ -54,12 +60,15 @@
         102048465
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21328"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101933625
     ],
     "wof:country":"AU",
-    "wof:geomhash":"b638295573ac46db40d6a5ad07f2b89c",
+    "wof:geomhash":"2e72919a0e2f866878d8ac580834fe02",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -72,7 +81,7 @@
         }
     ],
     "wof:id":404540457,
-    "wof:lastmodified":1566603030,
+    "wof:lastmodified":1695877736,
     "wof:name":"The Basin",
     "wof:parent_id":102048465,
     "wof:placetype":"localadmin",

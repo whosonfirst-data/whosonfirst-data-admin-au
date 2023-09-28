@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001015,
-    "geom:area_square_m":10494690.36804,
+    "geom:area_square_m":10494690.367985,
     "geom:bbox":"151.4577312,-33.2520818075,151.507566496,-33.2079216045",
     "geom:latitude":-33.231197,
     "geom:longitude":151.484566,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.232241,
     "lbl:longitude":151.482111,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Woongarrah"
@@ -38,12 +44,15 @@
         102049097
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12570"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932415
     ],
     "wof:country":"AU",
-    "wof:geomhash":"9ac07831b874296cc90e734bc14b15c7",
+    "wof:geomhash":"0b67e9bf04a28d4d4172a7ff1d79ce2d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404227207,
-    "wof:lastmodified":1566601955,
+    "wof:lastmodified":1695877112,
     "wof:name":"Woongarrah",
     "wof:parent_id":102049097,
     "wof:placetype":"localadmin",

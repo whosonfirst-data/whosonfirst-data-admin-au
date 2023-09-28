@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020552,
-    "geom:area_square_m":202171130.106807,
+    "geom:area_square_m":202171130.106564,
     "geom:bbox":"143.516654016,-37.395732065,143.702071008,-37.18109673",
     "geom:latitude":-37.293098,
     "geom:longitude":143.612476,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.283251,
     "lbl:longitude":143.618731,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Waubra"
@@ -41,9 +47,12 @@
         102049485
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21444"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"1de0a7431751bbdbb499b31dc598a615",
+    "wof:geomhash":"0a3d8db50cb02eda5503634b966f1998",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404540715,
-    "wof:lastmodified":1566603007,
+    "wof:lastmodified":1695877722,
     "wof:name":"Waubra",
     "wof:parent_id":102049485,
     "wof:placetype":"localadmin",

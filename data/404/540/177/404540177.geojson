@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002186,
-    "geom:area_square_m":21363866.499117,
+    "geom:area_square_m":21363855.756651,
     "geom:bbox":"145.44051,-37.828789,145.507739,-37.767475",
     "geom:latitude":-37.792642,
     "geom:longitude":145.475536,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.786958,
     "lbl:longitude":145.476047,
     "lbl:max_zoom":18.0,
@@ -415,10 +421,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC21204",
         "wd:id":"Q7458058"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"b50ad90c4b3fe630624cbbef7718309e",
+    "wof:geomhash":"822dfc00f8d4b2512c21cc80ec195dbd",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -431,7 +439,7 @@
         }
     ],
     "wof:id":404540177,
-    "wof:lastmodified":1690853789,
+    "wof:lastmodified":1695878028,
     "wof:name":"Seville",
     "wof:parent_id":102048969,
     "wof:placetype":"localadmin",

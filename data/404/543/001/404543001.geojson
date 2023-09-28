@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.039906,
-    "geom:area_square_m":448590962.887784,
+    "geom:area_square_m":448590962.887762,
     "geom:bbox":"151.594476992,-24.771426637,151.86424,-24.4762699965",
     "geom:latitude":-24.618814,
     "geom:longitude":151.731498,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-24.627643,
     "lbl:longitude":151.744744,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lowmead"
@@ -38,9 +44,12 @@
         102049463
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30973"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"1a4b40d1f196e7798e9ed6afb8ed28b0",
+    "wof:geomhash":"004124dcc51a94e1b8154330b343b3f5",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404543001,
-    "wof:lastmodified":1566602112,
+    "wof:lastmodified":1695877197,
     "wof:name":"Lowmead",
     "wof:parent_id":102049463,
     "wof:placetype":"localadmin",

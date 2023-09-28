@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006523,
-    "geom:area_square_m":75312945.974121,
+    "geom:area_square_m":75312945.974037,
     "geom:bbox":"148.908183008,-21.0316459945,149.022583936,-20.9405899935",
     "geom:latitude":-20.982602,
     "geom:longitude":148.969085,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-20.982384,
     "lbl:longitude":148.970166,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mount Jukes"
@@ -50,9 +56,12 @@
         102048783
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31135"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"28027287bbbef8a90deb074faae8504d",
+    "wof:geomhash":"453e1d51f6ee47e43199ad11efb770c7",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":404543333,
-    "wof:lastmodified":1566602125,
+    "wof:lastmodified":1695877205,
     "wof:name":"Mount Jukes",
     "wof:parent_id":102048783,
     "wof:placetype":"localadmin",

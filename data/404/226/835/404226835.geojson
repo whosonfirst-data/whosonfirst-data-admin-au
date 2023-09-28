@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005454,
-    "geom:area_square_m":55172382.823348,
+    "geom:area_square_m":55172382.823474,
     "geom:bbox":"150.435424992,-35.170028996,150.554752544,-35.054681977",
     "geom:latitude":-35.108309,
     "geom:longitude":150.491157,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.085844,
     "lbl:longitude":150.506922,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Wandandian"
@@ -38,9 +44,12 @@
         102049405
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12405"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"6eac0669eb8431cfce2baa63ad703415",
+    "wof:geomhash":"c765796cf024f7bea9bbb0824f70720d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404226835,
-    "wof:lastmodified":1566602033,
+    "wof:lastmodified":1695877152,
     "wof:name":"Wandandian",
     "wof:parent_id":102049405,
     "wof:placetype":"localadmin",

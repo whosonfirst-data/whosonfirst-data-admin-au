@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001319,
-    "geom:area_square_m":13376090.615656,
+    "geom:area_square_m":13376090.615658,
     "geom:bbox":"150.72508,-34.9476350015,150.785786784,-34.895557002",
     "geom:latitude":-34.92802,
     "geom:longitude":150.751373,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.928517,
     "lbl:longitude":150.748839,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Culburra Beach"
@@ -50,12 +56,15 @@
         102049405
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10657"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101930033
     ],
     "wof:country":"AU",
-    "wof:geomhash":"76e2cc5b109d2014c91f0de73933bb3b",
+    "wof:geomhash":"74077f4b5da01fd974afa012834aa7f1",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -67,7 +76,7 @@
         }
     ],
     "wof:id":404222903,
-    "wof:lastmodified":1566602785,
+    "wof:lastmodified":1695877583,
     "wof:name":"Culburra Beach",
     "wof:parent_id":102049405,
     "wof:placetype":"localadmin",

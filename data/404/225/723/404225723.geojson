@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00011,
-    "geom:area_square_m":1135466.528992,
+    "geom:area_square_m":1135466.52899,
     "geom:bbox":"151.340972992,-33.5324550055,151.362271456,-33.521100908",
     "geom:latitude":-33.527532,
     "geom:longitude":151.351501,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.526935,
     "lbl:longitude":151.35327,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Pretty Beach"
@@ -41,12 +47,15 @@
         102048513
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11910"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931639
     ],
     "wof:country":"AU",
-    "wof:geomhash":"5b1f8c26f6eb65df4b531eddeccef7d8",
+    "wof:geomhash":"eb5b834627fb1bad626f9d3cf621b6b3",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404225723,
-    "wof:lastmodified":1566602697,
+    "wof:lastmodified":1695877527,
     "wof:name":"Pretty Beach",
     "wof:parent_id":102048513,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.055974,
-    "geom:area_square_m":550319664.646096,
+    "geom:area_square_m":550319664.646377,
     "geom:bbox":"141.43150608,-37.4700340035,141.76903,-37.1940979195",
     "geom:latitude":-37.334038,
     "geom:longitude":141.589586,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.338622,
     "lbl:longitude":141.6033,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Nareen"
@@ -38,9 +44,12 @@
         102048455
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20980"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"7df348b3db6c93f31d598de8fd8358f8",
+    "wof:geomhash":"eedc03505868ef47f1dbddd96ef4d3a1",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404539681,
-    "wof:lastmodified":1566602360,
+    "wof:lastmodified":1695877331,
     "wof:name":"Nareen",
     "wof:parent_id":102048455,
     "wof:placetype":"localadmin",

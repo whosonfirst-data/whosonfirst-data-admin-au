@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00481,
-    "geom:area_square_m":55752427.331842,
+    "geom:area_square_m":55752427.331878,
     "geom:bbox":"148.601162176,-20.434656489,148.697462016,-20.3232809945",
     "geom:latitude":-20.37852,
     "geom:longitude":148.654675,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-20.373448,
     "lbl:longitude":148.646623,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Preston"
@@ -116,9 +122,12 @@
         102049581
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31354"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"10c335cc0202c9a33610bc6bf1532a24",
+    "wof:geomhash":"3b7917c5ca091b9109826671d579cca1",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -130,7 +139,7 @@
         }
     ],
     "wof:id":404543805,
-    "wof:lastmodified":1566602112,
+    "wof:lastmodified":1695877198,
     "wof:name":"Preston",
     "wof:parent_id":102049581,
     "wof:placetype":"localadmin",

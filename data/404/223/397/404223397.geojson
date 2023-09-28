@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002547,
-    "geom:area_square_m":27634802.882498,
+    "geom:area_square_m":27634802.882476,
     "geom:bbox":"153.415245248,-28.697807992,153.489942016,-28.6205250005",
     "geom:latitude":-28.654533,
     "geom:longitude":153.454865,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.655188,
     "lbl:longitude":153.452316,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Federal"
@@ -68,9 +74,12 @@
         102048747
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10877"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"a8dde208a512cc355ecbdda0ad9e10e7",
+    "wof:geomhash":"aa8c8d49adec01e9aab7a62eaf0528ef",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -82,7 +91,7 @@
         }
     ],
     "wof:id":404223397,
-    "wof:lastmodified":1566602497,
+    "wof:lastmodified":1695877412,
     "wof:name":"Federal",
     "wof:parent_id":102048747,
     "wof:placetype":"localadmin",

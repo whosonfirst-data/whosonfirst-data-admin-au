@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.27874,
-    "geom:area_square_m":2782108790.514686,
+    "geom:area_square_m":2782108790.513629,
     "geom:bbox":"149.396903648,-36.6514450785,150.065119584,-35.7124639995",
     "geom:latitude":-36.177445,
     "geom:longitude":149.746419,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.153781,
     "lbl:longitude":149.741299,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Nerrigundah"
@@ -38,9 +44,12 @@
         102049609
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11705"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"05a79d7f7e61725c55a25457332d7b0f",
+    "wof:geomhash":"b7a02e097c875d76d23a7f6fadeb7399",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404225261,
-    "wof:lastmodified":1566602681,
+    "wof:lastmodified":1695877520,
     "wof:name":"Nerrigundah",
     "wof:parent_id":102049609,
     "wof:placetype":"localadmin",

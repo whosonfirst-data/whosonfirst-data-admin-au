@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004705,
-    "geom:area_square_m":52086439.711679,
+    "geom:area_square_m":52086439.711688,
     "geom:bbox":"152.789208192,-26.49940467,152.879550528,-26.412343004",
     "geom:latitude":-26.453526,
     "geom:longitude":152.82731,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-26.454955,
     "lbl:longitude":152.82645,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ridgewood"
@@ -66,9 +72,12 @@
         102049303
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31401"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"0a9d389600e7f8786b05c7e97309f96b",
+    "wof:geomhash":"2ec7a2fcca7bffe2892f17eab4797a66",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -81,7 +90,7 @@
         }
     ],
     "wof:id":404543909,
-    "wof:lastmodified":1566602090,
+    "wof:lastmodified":1695877187,
     "wof:name":"Ridgewood",
     "wof:parent_id":102049303,
     "wof:placetype":"localadmin",

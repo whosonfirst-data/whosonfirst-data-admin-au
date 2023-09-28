@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002964,
-    "geom:area_square_m":28722747.482867,
+    "geom:area_square_m":28722747.482873,
     "geom:bbox":"144.931490464,-38.4310809945,145.009532992,-38.3731700005",
     "geom:latitude":-38.400321,
     "geom:longitude":144.96658,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.40031,
     "lbl:longitude":144.966571,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Main Ridge"
@@ -44,9 +50,12 @@
         102048695
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20829"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"0728062dcefeb4829f46ff77ff5afa62",
+    "wof:geomhash":"4c1d951dd90a52ea253a155c482bad9a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404539341,
-    "wof:lastmodified":1566602375,
+    "wof:lastmodified":1695877339,
     "wof:name":"Main Ridge",
     "wof:parent_id":102048695,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000319,
-    "geom:area_square_m":3215222.467611,
+    "geom:area_square_m":3215222.467606,
     "geom:bbox":"138.90712912,-35.5046375525,138.931892896,-35.477581469",
     "geom:latitude":-35.491361,
     "geom:longitude":138.91939,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.4917,
     "lbl:longitude":138.917171,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Clayton Bay"
@@ -38,12 +44,15 @@
         102048815
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40111"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935865
     ],
     "wof:country":"AU",
-    "wof:geomhash":"24a93db28b6ee1b7d843cfbf147f8617",
+    "wof:geomhash":"c4d54abda08649bd0ebace474f4873a1",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404545101,
-    "wof:lastmodified":1566602238,
+    "wof:lastmodified":1695877260,
     "wof:name":"Clayton Bay",
     "wof:parent_id":102048815,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.053523,
-    "geom:area_square_m":543632137.581313,
+    "geom:area_square_m":543632137.581215,
     "geom:bbox":"117.488149568,-34.851240881,117.952863424,-34.687292993",
     "geom:latitude":-34.773854,
     "geom:longitude":117.712243,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.768142,
     "lbl:longitude":117.716697,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Narrikup"
@@ -38,9 +44,12 @@
         102049271
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50565"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"b0596a9d4b56aa0b5eb0db310a894e4e",
+    "wof:geomhash":"254372724ef6a5cf4adb91503b1fc1a6",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404547953,
-    "wof:lastmodified":1566602921,
+    "wof:lastmodified":1695877674,
     "wof:name":"Narrikup",
     "wof:parent_id":102049271,
     "wof:placetype":"localadmin",

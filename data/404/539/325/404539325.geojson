@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000504,
-    "geom:area_square_m":4931690.387072,
+    "geom:area_square_m":4931690.387044,
     "geom:bbox":"145.0550632,-37.733463366,145.095763168,-37.7082093305",
     "geom:latitude":-37.720438,
     "geom:longitude":145.069825,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.721243,
     "lbl:longitude":145.067813,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Macleod"
@@ -42,12 +48,15 @@
         102049337
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20822"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101933189
     ],
     "wof:country":"AU",
-    "wof:geomhash":"d3e2a86475f8cbc896c3ab36583fe121",
+    "wof:geomhash":"4c150bd503fe9280fe0183d213b13a29",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -60,7 +69,7 @@
         }
     ],
     "wof:id":404539325,
-    "wof:lastmodified":1566602383,
+    "wof:lastmodified":1695877344,
     "wof:name":"Macleod",
     "wof:parent_id":102049337,
     "wof:placetype":"localadmin",

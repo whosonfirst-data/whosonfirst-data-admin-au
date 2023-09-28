@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003082,
-    "geom:area_square_m":30200088.570688,
+    "geom:area_square_m":30200088.570684,
     "geom:bbox":"145.352573024,-37.622093995,145.411197696,-37.5397050035",
     "geom:latitude":-37.579749,
     "geom:longitude":145.380952,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.57546,
     "lbl:longitude":145.380928,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Steels Creek"
@@ -39,9 +45,12 @@
         102048969
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21263"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"5431380f3394ada9bd27393cb971fd77",
+    "wof:geomhash":"a5f3a080daa14fbcf9c25e5bbd4a0c2d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":404540311,
-    "wof:lastmodified":1566603035,
+    "wof:lastmodified":1695877738,
     "wof:name":"Steels Creek",
     "wof:parent_id":102048969,
     "wof:placetype":"localadmin",

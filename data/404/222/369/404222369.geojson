@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000054,
-    "geom:area_square_m":588501.174153,
+    "geom:area_square_m":588501.174151,
     "geom:bbox":"153.452906272,-28.987399629,153.460066336,-28.9719654305",
     "geom:latitude":-28.980434,
     "geom:longitude":153.456694,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.980676,
     "lbl:longitude":153.457344,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Cabbage Tree Island"
@@ -47,12 +53,15 @@
         102049481
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10420"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101929765
     ],
     "wof:country":"AU",
-    "wof:geomhash":"3626805750800d47a4e25f111e226349",
+    "wof:geomhash":"dc1ccf8ac6db0c1bf27cfc38e77b7a2c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":404222369,
-    "wof:lastmodified":1566602786,
+    "wof:lastmodified":1695877583,
     "wof:name":"Cabbage Tree Island",
     "wof:parent_id":102049481,
     "wof:placetype":"localadmin",

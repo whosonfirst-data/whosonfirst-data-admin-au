@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000632,
-    "geom:area_square_m":6620236.597794,
+    "geom:area_square_m":6620236.597772,
     "geom:bbox":"115.761100992,-32.09447807,115.798547008,-32.074552164",
     "geom:latitude":-32.084509,
     "geom:longitude":115.779458,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.084137,
     "lbl:longitude":115.779712,
     "lbl:max_zoom":18.0,
@@ -46,13 +52,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC50317",
         "wd:id":"Q5644998"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937257
     ],
     "wof:country":"AU",
-    "wof:geomhash":"dadca8c4dbb8312263b7622375aa0e5d",
+    "wof:geomhash":"9105a3a3179b134995bdb3dc89eaa5ab",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -65,7 +73,7 @@
         }
     ],
     "wof:id":404547395,
-    "wof:lastmodified":1566602949,
+    "wof:lastmodified":1695878019,
     "wof:name":"Hamilton Hill",
     "wof:parent_id":102049397,
     "wof:placetype":"localadmin",

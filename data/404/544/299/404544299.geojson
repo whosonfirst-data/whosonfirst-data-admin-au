@@ -10,12 +10,18 @@
     "geom:latitude":-23.149967,
     "geom:longitude":150.741365,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-23.149982,
     "lbl:longitude":150.741425,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Taroomball"
@@ -38,12 +44,15 @@
         102048825
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31589"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935429
     ],
     "wof:country":"AU",
-    "wof:geomhash":"90816b368a11315c51647309e8e0d6fb",
+    "wof:geomhash":"219465625244b019bc8ec59e086af913",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404544299,
-    "wof:lastmodified":1566602199,
+    "wof:lastmodified":1695877243,
     "wof:name":"Taroomball",
     "wof:parent_id":102048825,
     "wof:placetype":"localadmin",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001338,
-    "geom:area_square_m":15151909.317107,
+    "geom:area_square_m":15151673.909985,
     "geom:bbox":"133.865715,-23.737883,133.940458,-23.70824",
     "geom:latitude":-23.72322,
     "geom:longitude":133.913017,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-23.722133,
     "lbl:longitude":133.913734,
     "lbl:max_zoom":18.0,
@@ -70,13 +76,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC70134",
         "wd:id":"Q29272782"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938573
     ],
     "wof:country":"AU",
-    "wof:geomhash":"6425345b1591c219f68ac02a93d63977",
+    "wof:geomhash":"21cf80077acd444906a7a95b86d3583d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -89,7 +97,7 @@
         }
     ],
     "wof:id":404549797,
-    "wof:lastmodified":1690853715,
+    "wof:lastmodified":1695878006,
     "wof:name":"Mount Johns",
     "wof:parent_id":102048753,
     "wof:placetype":"localadmin",

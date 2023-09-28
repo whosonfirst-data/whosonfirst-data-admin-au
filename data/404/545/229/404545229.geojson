@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006768,
-    "geom:area_square_m":68832691.233322,
+    "geom:area_square_m":68832691.233269,
     "geom:bbox":"139.065812,-34.709519522,139.1693544,-34.6170059985",
     "geom:latitude":-34.660688,
     "geom:longitude":139.119828,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.655625,
     "lbl:longitude":139.120793,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Eden Valley"
@@ -47,9 +53,12 @@
         102048713
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40169"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"31ac525f9ca242a152223baaa9acf36f",
+    "wof:geomhash":"27fb38c47b5e1ca2e254a0a9a6bc32c3",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":404545229,
-    "wof:lastmodified":1566602214,
+    "wof:lastmodified":1695877250,
     "wof:name":"Eden Valley",
     "wof:parent_id":102048713,
     "wof:placetype":"localadmin",

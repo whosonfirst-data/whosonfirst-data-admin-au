@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003691,
-    "geom:area_square_m":43567108.159154,
+    "geom:area_square_m":43567108.159158,
     "geom:bbox":"145.416591904,-17.360814001,145.523961984,-17.3033248255",
     "geom:latitude":-17.330298,
     "geom:longitude":145.465321,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-17.330973,
     "lbl:longitude":145.460944,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Wongabel"
@@ -38,9 +44,12 @@
         102048519
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31795"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"f56841c5943cf1bf7f5cfa1fb93767f4",
+    "wof:geomhash":"f28823d3dfdf48d2e23ac571169b2a4d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404544729,
-    "wof:lastmodified":1566602206,
+    "wof:lastmodified":1695877247,
     "wof:name":"Wongabel",
     "wof:parent_id":102048519,
     "wof:placetype":"localadmin",

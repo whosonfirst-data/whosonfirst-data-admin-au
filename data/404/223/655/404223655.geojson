@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009351,
-    "geom:area_square_m":94205934.712537,
+    "geom:area_square_m":94205934.712389,
     "geom:bbox":"149.138162912,-35.495258996,149.274192992,-35.3849089935",
     "geom:latitude":-35.438727,
     "geom:longitude":149.2131,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.43854,
     "lbl:longitude":149.218582,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Googong"
@@ -38,9 +44,12 @@
         102048627
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10991"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"e886af3b6ee2c826cc673d22a3f84560",
+    "wof:geomhash":"39bfe53cb2852fe11dec948344d4559e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404223655,
-    "wof:lastmodified":1566602550,
+    "wof:lastmodified":1695877446,
     "wof:name":"Googong",
     "wof:parent_id":102048627,
     "wof:placetype":"localadmin",

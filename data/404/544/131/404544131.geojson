@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020815,
-    "geom:area_square_m":241823092.120365,
+    "geom:area_square_m":241823073.019893,
     "geom:bbox":"146.092561,-20.13203,146.253788,-19.893762",
     "geom:latitude":-20.026252,
     "geom:longitude":146.181005,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-20.039097,
     "lbl:longitude":146.187711,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09b8\u09be\u09b0\u09cd\u09a6\u09be\u09a8 \u0995\u09cd\u09b0\u09b8"
@@ -83,9 +89,12 @@
         102048989
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31510"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"eba3972089cbb0355e822e6727c5890a",
+    "wof:geomhash":"4ccbc251efb956fbdd9ce4d63fe988f6",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -97,7 +106,7 @@
         }
     ],
     "wof:id":404544131,
-    "wof:lastmodified":1636494621,
+    "wof:lastmodified":1695877853,
     "wof:name":"Southern Cross",
     "wof:parent_id":102048989,
     "wof:placetype":"localadmin",

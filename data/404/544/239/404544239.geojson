@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002821,
-    "geom:area_square_m":31194959.192624,
+    "geom:area_square_m":31194959.192646,
     "geom:bbox":"151.781923008,-26.618503008,151.864167008,-26.569332006",
     "geom:latitude":-26.593024,
     "geom:longitude":151.824336,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-26.593031,
     "lbl:longitude":151.824295,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Taabinga"
@@ -38,9 +44,12 @@
         102048861
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31562"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"184ee1b1e78756fedada791b4450b78b",
+    "wof:geomhash":"0213306eb7c8dc769475a5e5b8c63681",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404544239,
-    "wof:lastmodified":1566602196,
+    "wof:lastmodified":1695877241,
     "wof:name":"Taabinga",
     "wof:parent_id":102048861,
     "wof:placetype":"localadmin",

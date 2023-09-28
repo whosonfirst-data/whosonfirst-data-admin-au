@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0138,
-    "geom:area_square_m":141667389.273093,
+    "geom:area_square_m":141667389.273139,
     "geom:bbox":"148.740366784,-33.9519208605,148.896151008,-33.796701587",
     "geom:latitude":-33.88226,
     "geom:longitude":148.81527,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.886017,
     "lbl:longitude":148.803521,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Darbys Falls"
@@ -38,9 +44,12 @@
         102048613
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10685"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"b71de30d0c9d1eaa80d5b4979337523e",
+    "wof:geomhash":"9f1cb78dc011d348f30b630cd7da5a90",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404222965,
-    "wof:lastmodified":1566602746,
+    "wof:lastmodified":1695877558,
     "wof:name":"Darbys Falls",
     "wof:parent_id":102048613,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.092367,
-    "geom:area_square_m":937803399.722356,
+    "geom:area_square_m":937803399.722266,
     "geom:bbox":"142.51704432,-34.9255899945,143.017577792,-34.647856321",
     "geom:latitude":-34.805061,
     "geom:longitude":142.802399,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.814185,
     "lbl:longitude":142.822708,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Wemen"
@@ -38,9 +44,12 @@
         102049167
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21450"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"f5651c25e83d789381289ba8a1fdb98e",
+    "wof:geomhash":"ac97f09b5d044959edb05154fc44bb8d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404540729,
-    "wof:lastmodified":1566603040,
+    "wof:lastmodified":1695877742,
     "wof:name":"Wemen",
     "wof:parent_id":102049167,
     "wof:placetype":"localadmin",

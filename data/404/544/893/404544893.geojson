@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006943,
-    "geom:area_square_m":70725183.72793,
+    "geom:area_square_m":70725183.727863,
     "geom:bbox":"139.000377248,-34.5837069975,139.134165472,-34.4853589995",
     "geom:latitude":-34.532955,
     "geom:longitude":139.059062,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.538572,
     "lbl:longitude":139.048901,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Angaston"
@@ -38,9 +44,12 @@
         102048713
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40016"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"92ebd767617aceadd2a627584983e796",
+    "wof:geomhash":"4690c80a98d99fad8a9084b1932594a3",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404544893,
-    "wof:lastmodified":1566602168,
+    "wof:lastmodified":1695877227,
     "wof:name":"Angaston",
     "wof:parent_id":102048713,
     "wof:placetype":"localadmin",

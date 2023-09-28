@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008574,
-    "geom:area_square_m":84729994.771711,
+    "geom:area_square_m":84729994.771672,
     "geom:bbox":"144.006390016,-37.0176347075,144.127933984,-36.896435824",
     "geom:latitude":-36.946709,
     "geom:longitude":144.065585,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.945378,
     "lbl:longitude":144.06652,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Maldon"
@@ -68,9 +74,12 @@
         102049601
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20831"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"1aacd16479c3edf4b9f5f74460611069",
+    "wof:geomhash":"6712eeb9b138473be650c3f92b6e4551",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -82,7 +91,7 @@
         }
     ],
     "wof:id":404539345,
-    "wof:lastmodified":1566602410,
+    "wof:lastmodified":1695877363,
     "wof:name":"Maldon",
     "wof:parent_id":102049601,
     "wof:placetype":"localadmin",

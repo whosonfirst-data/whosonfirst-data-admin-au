@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00039,
-    "geom:area_square_m":4282472.041808,
+    "geom:area_square_m":4282472.041813,
     "geom:bbox":"152.912564992,-27.5074332805,152.942357152,-27.4806243385",
     "geom:latitude":-27.496291,
     "geom:longitude":152.928166,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.495498,
     "lbl:longitude":152.928398,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kenmore Hills"
@@ -39,12 +45,15 @@
         102049495
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30864"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934653
     ],
     "wof:country":"AU",
-    "wof:geomhash":"e6f84b70155a77a320293c3e93123b46",
+    "wof:geomhash":"3162424e4a6f488b798990794e8a8a5c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404542765,
-    "wof:lastmodified":1566602264,
+    "wof:lastmodified":1695877272,
     "wof:name":"Kenmore Hills",
     "wof:parent_id":102049495,
     "wof:placetype":"localadmin",

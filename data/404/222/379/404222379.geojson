@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.11276,
-    "geom:area_square_m":1187195015.592367,
+    "geom:area_square_m":1187195015.592058,
     "geom:bbox":"151.753343296,-31.8440418125,152.31726,-31.4425330565",
     "geom:latitude":-31.628558,
     "geom:longitude":152.044793,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.623884,
     "lbl:longitude":152.072775,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Caffreys Flat"
@@ -38,9 +44,12 @@
         102048833
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10424"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"ae80637b2472b4be7f746a5a7b18147e",
+    "wof:geomhash":"90771862dce2ce6fc2347def204e2d8e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404222379,
-    "wof:lastmodified":1566602771,
+    "wof:lastmodified":1695877574,
     "wof:name":"Caffreys Flat",
     "wof:parent_id":102048833,
     "wof:placetype":"localadmin",

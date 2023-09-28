@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005525,
-    "geom:area_square_m":56654282.505562,
+    "geom:area_square_m":56654282.505564,
     "geom:bbox":"114.993639424,-34.010599475,115.112159008,-33.9363199955",
     "geom:latitude":-33.971669,
     "geom:longitude":115.054993,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.96985,
     "lbl:longitude":115.060896,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Margaret River"
@@ -56,9 +62,12 @@
         102048475
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50471"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"8b966a70ae7038e1d652c3f94b8927d3",
+    "wof:geomhash":"ba137acd9f8be9685b3b87ff6428498f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -70,7 +79,7 @@
         }
     ],
     "wof:id":404547743,
-    "wof:lastmodified":1566602971,
+    "wof:lastmodified":1695877702,
     "wof:name":"Margaret River",
     "wof:parent_id":102048475,
     "wof:placetype":"localadmin",

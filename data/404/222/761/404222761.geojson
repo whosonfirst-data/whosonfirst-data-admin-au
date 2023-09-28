@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005331,
-    "geom:area_square_m":53053927.761032,
+    "geom:area_square_m":53053927.760999,
     "geom:bbox":"149.882620704,-36.441862001,150.032804448,-36.379956006",
     "geom:latitude":-36.408213,
     "geom:longitude":149.960391,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.408622,
     "lbl:longitude":149.949077,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Coolagolite"
@@ -38,9 +44,12 @@
         102049439
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10594"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"80b87921aec7a2af87371472258f59fe",
+    "wof:geomhash":"bb597c2512c239bc16caf2b8b21c7474",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404222761,
-    "wof:lastmodified":1566602790,
+    "wof:lastmodified":1695877586,
     "wof:name":"Coolagolite",
     "wof:parent_id":102049439,
     "wof:placetype":"localadmin",

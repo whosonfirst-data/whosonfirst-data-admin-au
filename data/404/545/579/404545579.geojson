@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00747,
-    "geom:area_square_m":76209230.295258,
+    "geom:area_square_m":76209230.295237,
     "geom:bbox":"140.482165248,-34.456326561,140.597459968,-34.3454950775",
     "geom:latitude":-34.403674,
     "geom:longitude":140.54193,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.417233,
     "lbl:longitude":140.538004,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Katarapko"
@@ -38,9 +44,12 @@
         102048599
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40329"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"9a4ce778a765ad5fe993ac569eb5624e",
+    "wof:geomhash":"4bbdbd9fa08864b0117f50c4cc123413",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404545579,
-    "wof:lastmodified":1566602254,
+    "wof:lastmodified":1695877267,
     "wof:name":"Katarapko",
     "wof:parent_id":102048599,
     "wof:placetype":"localadmin",

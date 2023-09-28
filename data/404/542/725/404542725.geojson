@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004872,
-    "geom:area_square_m":54180659.515562,
+    "geom:area_square_m":54180659.515464,
     "geom:bbox":"152.5644,-25.9737709965,152.672510016,-25.8830740065",
     "geom:latitude":-25.926174,
     "geom:longitude":152.611244,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-25.909079,
     "lbl:longitude":152.619432,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kanigan"
@@ -38,12 +44,15 @@
         102049435
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30846"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934623
     ],
     "wof:country":"AU",
-    "wof:geomhash":"4d3d345c951a614c45ebc5553dc0b1ab",
+    "wof:geomhash":"d34be9a2e68b6669366090a11c916f79",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404542725,
-    "wof:lastmodified":1566602282,
+    "wof:lastmodified":1695877282,
     "wof:name":"Kanigan",
     "wof:parent_id":102049435,
     "wof:placetype":"localadmin",

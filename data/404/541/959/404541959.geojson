@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000396,
-    "geom:area_square_m":4365957.631975,
+    "geom:area_square_m":4365957.631969,
     "geom:bbox":"152.778348,-27.015488995,152.81294,-26.990671134",
     "geom:latitude":-27.004557,
     "geom:longitude":152.795399,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.001069,
     "lbl:longitude":152.799977,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Delaneys Creek"
@@ -39,12 +45,15 @@
         102049131
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30487"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934289
     ],
     "wof:country":"AU",
-    "wof:geomhash":"7fad6cc3734ed3fcf84ada2895a9365a",
+    "wof:geomhash":"38a667b617b4dbd43081ea9c564d0f74",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404541959,
-    "wof:lastmodified":1566603073,
+    "wof:lastmodified":1695877756,
     "wof:name":"Delaneys Creek",
     "wof:parent_id":102049131,
     "wof:placetype":"localadmin",

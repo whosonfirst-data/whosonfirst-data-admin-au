@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019518,
-    "geom:area_square_m":220240554.645145,
+    "geom:area_square_m":220240554.645019,
     "geom:bbox":"149.351303936,-24.240409075,149.510627104,-23.9878699965",
     "geom:latitude":-24.136045,
     "geom:longitude":149.446121,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-24.143698,
     "lbl:longitude":149.453958,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Woorabinda"
@@ -47,9 +53,12 @@
         102049241
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31815"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"28d4dbea2695400a1aa23708b8dce2f9",
+    "wof:geomhash":"ccd902fd3ac7d8dddf9fd864286eb04a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":404544769,
-    "wof:lastmodified":1566602181,
+    "wof:lastmodified":1695877234,
     "wof:name":"Woorabinda",
     "wof:parent_id":102049241,
     "wof:placetype":"localadmin",

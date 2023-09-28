@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.118442,
-    "geom:area_square_m":1225231088.797121,
+    "geom:area_square_m":1225231088.797016,
     "geom:bbox":"117.083169504,-33.406187566,117.687905248,-33.031992765",
     "geom:latitude":-33.218542,
     "geom:longitude":117.426476,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.205891,
     "lbl:longitude":117.531943,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Piesseville"
@@ -38,9 +44,12 @@
         102049133
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50646"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"db70e6845130e6c5da9f32c72ab66586",
+    "wof:geomhash":"0603b8c7bc226496237cef00084904f7",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404548131,
-    "wof:lastmodified":1566603198,
+    "wof:lastmodified":1695877815,
     "wof:name":"Piesseville",
     "wof:parent_id":102049133,
     "wof:placetype":"localadmin",

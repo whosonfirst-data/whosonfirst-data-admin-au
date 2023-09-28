@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001825,
-    "geom:area_square_m":16928252.293208,
+    "geom:area_square_m":16928252.293175,
     "geom:bbox":"147.10828,-41.4045829975,147.21056928,-41.3542409455",
     "geom:latitude":-41.380829,
     "geom:longitude":147.157378,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-41.389067,
     "lbl:longitude":147.179444,
     "lbl:max_zoom":18.0,
@@ -42,10 +48,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC60307",
         "wd:id":"Q7353913"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"b2b7e9639181ca94d447d1c8462b0e89",
+    "wof:geomhash":"cc2ada10b7074470d67ac8acef082312",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +65,7 @@
         }
     ],
     "wof:id":404549359,
-    "wof:lastmodified":1566602864,
+    "wof:lastmodified":1695878009,
     "wof:name":"Rocherlea",
     "wof:parent_id":102049411,
     "wof:placetype":"localadmin",

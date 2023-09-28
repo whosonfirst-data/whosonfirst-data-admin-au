@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.110855,
-    "geom:area_square_m":1136356852.112007,
+    "geom:area_square_m":1136356852.111892,
     "geom:bbox":"115.536004256,-34.2223509005,116.011008064,-33.783906136",
     "geom:latitude":-34.003212,
     "geom:longitude":115.800545,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.060313,
     "lbl:longitude":115.843798,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Nannup"
@@ -38,9 +44,12 @@
         102049329
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50561"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"65e3e8ef3a596eb53b5a879ac940e8c3",
+    "wof:geomhash":"8dae8ca19cc69f5dfec5dfd598fbd5fd",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404547945,
-    "wof:lastmodified":1566602974,
+    "wof:lastmodified":1695877704,
     "wof:name":"Nannup",
     "wof:parent_id":102049329,
     "wof:placetype":"localadmin",

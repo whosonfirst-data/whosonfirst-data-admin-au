@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005477,
-    "geom:area_square_m":50945309.555211,
+    "geom:area_square_m":50945272.92361,
     "geom:bbox":"146.098474,-41.285047,146.2031,-41.158815",
     "geom:latitude":-41.218979,
     "geom:longitude":146.154021,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-41.220354,
     "lbl:longitude":146.166221,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Gawler"
@@ -50,9 +56,12 @@
         102049415
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60122"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"e32b747d313c11291b7ccee9a65e833e",
+    "wof:geomhash":"0b55e3fdf5a89cac44e3cbcf46f0346e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":404548943,
-    "wof:lastmodified":1636494689,
+    "wof:lastmodified":1695877890,
     "wof:name":"Gawler",
     "wof:parent_id":102049415,
     "wof:placetype":"localadmin",

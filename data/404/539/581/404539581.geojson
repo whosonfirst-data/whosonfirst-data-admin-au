@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000508,
-    "geom:area_square_m":4963013.821565,
+    "geom:area_square_m":4963013.821563,
     "geom:bbox":"145.338023008,-37.847547094,145.37000064,-37.8189788575",
     "geom:latitude":-37.832134,
     "geom:longitude":145.355106,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.830819,
     "lbl:longitude":145.356676,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mount Dandenong"
@@ -39,12 +45,15 @@
         102048969
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20936"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101933287
     ],
     "wof:country":"AU",
-    "wof:geomhash":"734c9a73dae9317e4af4b0405deb82e3",
+    "wof:geomhash":"cd12079d54fa7c936aa47a09061ed80a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404539581,
-    "wof:lastmodified":1566602377,
+    "wof:lastmodified":1695877341,
     "wof:name":"Mount Dandenong",
     "wof:parent_id":102048969,
     "wof:placetype":"localadmin",

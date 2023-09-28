@@ -10,6 +10,12 @@
     "geom:latitude":-19.292365,
     "geom:longitude":146.816918,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-19.288738,
     "lbl:longitude":146.814982,
     "lbl:max_zoom":18.0,
@@ -42,13 +48,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC31268",
         "wd:id":"Q7095370"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935055
     ],
     "wof:country":"AU",
-    "wof:geomhash":"cda560a71df533c9a457d0a8d9cf03ce",
+    "wof:geomhash":"85d985269f68fc1841e8de8f81108bed",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -60,7 +68,7 @@
         }
     ],
     "wof:id":404543617,
-    "wof:lastmodified":1566602100,
+    "wof:lastmodified":1695877915,
     "wof:name":"Oonoonba",
     "wof:parent_id":102048451,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002904,
-    "geom:area_square_m":28293796.605566,
+    "geom:area_square_m":28293796.605531,
     "geom:bbox":"145.375841888,-38.0264504375,145.473716,-37.9706279455",
     "geom:latitude":-37.998085,
     "geom:longitude":145.42378,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.996209,
     "lbl:longitude":145.427102,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Beaconsfield Upper"
@@ -38,9 +44,12 @@
         102048791
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20095"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"d5d581064818872eaca69f02b055ae1c",
+    "wof:geomhash":"3824cf9f3d145497df4c71dde8612c8b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404537705,
-    "wof:lastmodified":1566602335,
+    "wof:lastmodified":1695877315,
     "wof:name":"Beaconsfield Upper",
     "wof:parent_id":102048791,
     "wof:placetype":"localadmin",

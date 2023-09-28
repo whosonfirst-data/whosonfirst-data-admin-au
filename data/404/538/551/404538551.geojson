@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018889,
-    "geom:area_square_m":187100504.2404,
+    "geom:area_square_m":187100504.240399,
     "geom:bbox":"145.453096992,-36.8587881945,145.666538016,-36.6870439995",
     "geom:latitude":-36.768591,
     "geom:longitude":145.561789,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.759675,
     "lbl:longitude":145.581226,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Euroa"
@@ -41,9 +47,12 @@
         102048611
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20476"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"4a9a3114ffa5767d3b166b9464086ae4",
+    "wof:geomhash":"334e31b69991b248918aa44fa22fd88b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404538551,
-    "wof:lastmodified":1566602421,
+    "wof:lastmodified":1695877370,
     "wof:name":"Euroa",
     "wof:parent_id":102048611,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.051713,
-    "geom:area_square_m":534983527.120685,
+    "geom:area_square_m":534983576.393507,
     "geom:bbox":"138.519598,-33.329566,138.791161,-33.085294",
     "geom:latitude":-33.212415,
     "geom:longitude":138.649696,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.213411,
     "lbl:longitude":138.652264,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Jamestown"
@@ -161,9 +167,12 @@
         102049313
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40317"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"71251c9a594f63d6bbb9e3c19eada168",
+    "wof:geomhash":"c8c4c08b4d8e64aff9c07a8789aa55c5",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -175,7 +184,7 @@
         }
     ],
     "wof:id":404545553,
-    "wof:lastmodified":1636494626,
+    "wof:lastmodified":1695877854,
     "wof:name":"Jamestown",
     "wof:parent_id":102049313,
     "wof:placetype":"localadmin",

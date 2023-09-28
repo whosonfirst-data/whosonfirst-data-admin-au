@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003017,
-    "geom:area_square_m":28109443.169368,
+    "geom:area_square_m":28109443.169348,
     "geom:bbox":"145.79716384,-41.1243581325,145.901510016,-41.0724384375",
     "geom:latitude":-41.098911,
     "geom:longitude":145.848761,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-41.095673,
     "lbl:longitude":145.849539,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Mooreville"
@@ -41,9 +47,12 @@
         102049367
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60229"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"71174b0b46a93f2c46c33aa42235407b",
+    "wof:geomhash":"f6cdc1fe45ebfbc1cf1ff6bb88cc26b3",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404549185,
-    "wof:lastmodified":1566602918,
+    "wof:lastmodified":1695877672,
     "wof:name":"Mooreville",
     "wof:parent_id":102049367,
     "wof:placetype":"localadmin",

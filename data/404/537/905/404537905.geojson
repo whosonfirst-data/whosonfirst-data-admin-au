@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000813,
-    "geom:area_square_m":7957060.699364,
+    "geom:area_square_m":7957060.699358,
     "geom:bbox":"144.904847776,-37.694691436,144.958534912,-37.6652632455",
     "geom:latitude":-37.683299,
     "geom:longitude":144.932282,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.684973,
     "lbl:longitude":144.928208,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Broadmeadows"
@@ -42,12 +48,15 @@
         102049057
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20186"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932655
     ],
     "wof:country":"AU",
-    "wof:geomhash":"3439aba8409f170ef690c7527e58e0ad",
+    "wof:geomhash":"ffa7e83c5c3563d244db5b44823e32f0",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -60,7 +69,7 @@
         }
     ],
     "wof:id":404537905,
-    "wof:lastmodified":1566602338,
+    "wof:lastmodified":1695877318,
     "wof:name":"Broadmeadows",
     "wof:parent_id":102049057,
     "wof:placetype":"localadmin",

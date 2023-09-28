@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000065,
-    "geom:area_square_m":671925.960309,
+    "geom:area_square_m":671925.960308,
     "geom:bbox":"151.015671712,-33.8373429975,151.029990016,-33.829435006",
     "geom:latitude":-33.833129,
     "geom:longitude":151.021919,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.833162,
     "lbl:longitude":151.020618,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Clyde"
@@ -96,12 +102,15 @@
         102049565
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10545"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101929935
     ],
     "wof:country":"AU",
-    "wof:geomhash":"13af9ae128f90b66074b49ed46d68743",
+    "wof:geomhash":"4cfdfd8ee167c965e8304692e9479b41",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -114,7 +123,7 @@
         }
     ],
     "wof:id":404222651,
-    "wof:lastmodified":1566602765,
+    "wof:lastmodified":1695877570,
     "wof:name":"Clyde",
     "wof:parent_id":102049565,
     "wof:placetype":"localadmin",

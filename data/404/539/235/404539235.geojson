@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009002,
-    "geom:area_square_m":89817092.369708,
+    "geom:area_square_m":89817092.369757,
     "geom:bbox":"146.784531968,-36.2596275105,146.938137856,-36.144852308",
     "geom:latitude":-36.204497,
     "geom:longitude":146.871084,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.19991,
     "lbl:longitude":146.891426,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Leneva"
@@ -39,9 +45,12 @@
         102049665
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20782"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"373a7a817dc67286c3e1b9b106af925f",
+    "wof:geomhash":"a2c99629ab6a4bc71be68bd250778fe2",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":404539235,
-    "wof:lastmodified":1566602369,
+    "wof:lastmodified":1695877336,
     "wof:name":"Leneva",
     "wof:parent_id":102049665,
     "wof:placetype":"localadmin",

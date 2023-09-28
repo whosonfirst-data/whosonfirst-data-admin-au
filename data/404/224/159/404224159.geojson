@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000161,
-    "geom:area_square_m":1668023.227504,
+    "geom:area_square_m":1668023.227506,
     "geom:bbox":"151.381156992,-32.8636322015,151.40129488,-32.8471791155",
     "geom:latitude":-32.853954,
     "geom:longitude":151.39127,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.852582,
     "lbl:longitude":151.388601,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kearsley"
@@ -62,12 +68,15 @@
         102048575
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11215"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101930853
     ],
     "wof:country":"AU",
-    "wof:geomhash":"390e28933c3be635065a80efc6015362",
+    "wof:geomhash":"5ab3ab16e6c11e59de30a7b76bd30447",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -79,7 +88,7 @@
         }
     ],
     "wof:id":404224159,
-    "wof:lastmodified":1566602574,
+    "wof:lastmodified":1695877461,
     "wof:name":"Kearsley",
     "wof:parent_id":102048575,
     "wof:placetype":"localadmin",

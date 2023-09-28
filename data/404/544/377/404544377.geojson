@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000232,
-    "geom:area_square_m":2548497.906344,
+    "geom:area_square_m":2548497.906341,
     "geom:bbox":"153.186956768,-27.492605697,153.212456608,-27.4727527735",
     "geom:latitude":-27.484585,
     "geom:longitude":153.201009,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.485063,
     "lbl:longitude":153.201875,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Thorneside"
@@ -39,12 +45,15 @@
         102048569
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31625"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935465
     ],
     "wof:country":"AU",
-    "wof:geomhash":"0054c3a1a0ed37ae140e18dfe9f569c5",
+    "wof:geomhash":"935ca92ca24c99b5edfb94c3366dd898",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404544377,
-    "wof:lastmodified":1566602172,
+    "wof:lastmodified":1695877229,
     "wof:name":"Thorneside",
     "wof:parent_id":102048569,
     "wof:placetype":"localadmin",

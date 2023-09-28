@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000449,
-    "geom:area_square_m":4565187.120533,
+    "geom:area_square_m":4565159.408773,
     "geom:bbox":"138.620321,-34.777028,138.659311,-34.75077",
     "geom:latitude":-34.764062,
     "geom:longitude":138.641862,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.766808,
     "lbl:longitude":138.643189,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Salisbury"
@@ -237,12 +243,15 @@
         102048731
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40642"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101936561
     ],
     "wof:country":"AU",
-    "wof:geomhash":"62e44c5a7595c02d0c6c8feb3981ee2c",
+    "wof:geomhash":"5bb78beedbe1846371256dbb4a480400",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -255,7 +264,7 @@
         }
     ],
     "wof:id":404546251,
-    "wof:lastmodified":1636494679,
+    "wof:lastmodified":1695877884,
     "wof:name":"Salisbury",
     "wof:parent_id":102048731,
     "wof:placetype":"localadmin",

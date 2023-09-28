@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001057,
-    "geom:area_square_m":11456497.162708,
+    "geom:area_square_m":11456497.162748,
     "geom:bbox":"153.469607456,-28.7893209985,153.508144992,-28.7490833135",
     "geom:latitude":-28.768071,
     "geom:longitude":153.490928,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.764666,
     "lbl:longitude":153.493218,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Fernleigh"
@@ -38,9 +44,12 @@
         102049481
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10882"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"e1912587de8ce012e054f4850c0ce830",
+    "wof:geomhash":"af119046d7cb00ce7b58f47f24cedf3e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404223409,
-    "wof:lastmodified":1566602516,
+    "wof:lastmodified":1695877423,
     "wof:name":"Fernleigh",
     "wof:parent_id":102049481,
     "wof:placetype":"localadmin",

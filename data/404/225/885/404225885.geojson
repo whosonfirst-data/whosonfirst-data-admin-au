@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003474,
-    "geom:area_square_m":37672222.027236,
+    "geom:area_square_m":37672222.027201,
     "geom:bbox":"153.126958016,-28.775987993,153.214195008,-28.676076005",
     "geom:latitude":-28.728256,
     "geom:longitude":153.162542,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.73269,
     "lbl:longitude":153.154637,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Rock Valley"
@@ -41,9 +47,12 @@
         102049635
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11982"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"c178ecdab6d36065b5311491977e9c5a",
+    "wof:geomhash":"ceb7428ebb7bdbcc5e8ee114d8a78c55",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404225885,
-    "wof:lastmodified":1566602718,
+    "wof:lastmodified":1695877539,
     "wof:name":"Rock Valley",
     "wof:parent_id":102049635,
     "wof:placetype":"localadmin",

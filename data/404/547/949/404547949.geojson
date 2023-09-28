@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025988,
-    "geom:area_square_m":263928554.417019,
+    "geom:area_square_m":263928554.416942,
     "geom:bbox":"117.855063712,-34.912138552,118.086723008,-34.6458917875",
     "geom:latitude":-34.784095,
     "geom:longitude":117.97606,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.81739,
     "lbl:longitude":117.956755,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Napier"
@@ -101,9 +107,12 @@
         102048671
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50563"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"c9b87c32b57cdf155724d564290ede1f",
+    "wof:geomhash":"8f256bde23ebeb221973b6d662926da6",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -115,7 +124,7 @@
         }
     ],
     "wof:id":404547949,
-    "wof:lastmodified":1566602947,
+    "wof:lastmodified":1695877687,
     "wof:name":"Napier",
     "wof:parent_id":102048671,
     "wof:placetype":"localadmin",

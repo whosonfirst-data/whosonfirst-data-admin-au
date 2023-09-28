@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034309,
-    "geom:area_square_m":339967082.68372,
+    "geom:area_square_m":339967082.683889,
     "geom:bbox":"145.292224992,-36.8839860085,145.498187008,-36.6124298365",
     "geom:latitude":-36.739421,
     "geom:longitude":145.399904,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.737731,
     "lbl:longitude":145.39784,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Longwood"
@@ -68,9 +74,12 @@
         102048611
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20807"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"fb2ebdbda456d8bae16a7cb3fde54d10",
+    "wof:geomhash":"e2f50869afee0672e1d2956ddf49d63e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -82,7 +91,7 @@
         }
     ],
     "wof:id":404539291,
-    "wof:lastmodified":1566602404,
+    "wof:lastmodified":1695877359,
     "wof:name":"Longwood",
     "wof:parent_id":102048611,
     "wof:placetype":"localadmin",

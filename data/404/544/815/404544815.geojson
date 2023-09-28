@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019742,
-    "geom:area_square_m":215909506.719752,
+    "geom:area_square_m":215909506.719607,
     "geom:bbox":"151.248516992,-27.9103179925,151.455868928,-27.735108026",
     "geom:latitude":-27.814939,
     "geom:longitude":151.36144,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.80936,
     "lbl:longitude":151.362943,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Yandilla"
@@ -38,9 +44,12 @@
         102049357
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31837"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"a66c4eadab385b8e21ad2806fb919704",
+    "wof:geomhash":"6af43b7cdae45e062060c12e249d52ab",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404544815,
-    "wof:lastmodified":1566602188,
+    "wof:lastmodified":1695877237,
     "wof:name":"Yandilla",
     "wof:parent_id":102049357,
     "wof:placetype":"localadmin",

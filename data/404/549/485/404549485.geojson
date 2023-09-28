@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000188,
-    "geom:area_square_m":1745985.924308,
+    "geom:area_square_m":1745985.924312,
     "geom:bbox":"146.95542752,-41.2710526615,146.974736064,-41.251689248",
     "geom:latitude":-41.261347,
     "geom:longitude":146.964361,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-41.260942,
     "lbl:longitude":146.962755,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Swan Point"
@@ -41,12 +47,15 @@
         102049419
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60363"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938301
     ],
     "wof:country":"AU",
-    "wof:geomhash":"20d69d4f424bdd52bf9978ac617062d2",
+    "wof:geomhash":"5f53cb585dfe7364ac1269a932975c44",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404549485,
-    "wof:lastmodified":1566602834,
+    "wof:lastmodified":1695877616,
     "wof:name":"Swan Point",
     "wof:parent_id":102049419,
     "wof:placetype":"localadmin",

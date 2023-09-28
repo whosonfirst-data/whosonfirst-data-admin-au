@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002395,
-    "geom:area_square_m":24170038.140469,
+    "geom:area_square_m":24170038.140478,
     "geom:bbox":"143.480736992,-35.314045021,143.550451648,-35.254890013",
     "geom:latitude":-35.282763,
     "geom:longitude":143.513259,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.283559,
     "lbl:longitude":143.513248,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tyntynder South"
@@ -38,9 +44,12 @@
         102049167
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21382"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"35317028aa9c9d6019aa1255b44289c7",
+    "wof:geomhash":"98cd26e78d2a43b6f8decbbf8f30d979",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404540579,
-    "wof:lastmodified":1566603038,
+    "wof:lastmodified":1695877740,
     "wof:name":"Tyntynder South",
     "wof:parent_id":102049167,
     "wof:placetype":"localadmin",

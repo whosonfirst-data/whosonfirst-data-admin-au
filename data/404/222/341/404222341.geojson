@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017846,
-    "geom:area_square_m":178910685.453553,
+    "geom:area_square_m":178910685.453538,
     "geom:bbox":"146.709822016,-35.916101991,146.876326016,-35.7404614",
     "geom:latitude":-35.829988,
     "geom:longitude":146.795092,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.828543,
     "lbl:longitude":146.793531,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Burrumbuttock"
@@ -38,9 +44,12 @@
         102049625
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10407"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"ece13cdb70ffba5cfa593cf50622561e",
+    "wof:geomhash":"4df9873f19ee90279d2c09d3c0cdac22",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404222341,
-    "wof:lastmodified":1566602772,
+    "wof:lastmodified":1695877575,
     "wof:name":"Burrumbuttock",
     "wof:parent_id":102049625,
     "wof:placetype":"localadmin",

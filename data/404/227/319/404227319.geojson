@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.213564,
-    "geom:area_square_m":2311585484.611705,
+    "geom:area_square_m":2311585484.614499,
     "geom:bbox":"150.47911296,-29.1899470085,151.186405792,-28.6334239035",
     "geom:latitude":-28.913301,
     "geom:longitude":150.87467,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.890462,
     "lbl:longitude":150.879987,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Yetman"
@@ -38,9 +44,12 @@
         102049369
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12620"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"8eecac9525e5feac6080f17f6a9bf112",
+    "wof:geomhash":"2e7791645d1e840d8356edeacc4377bd",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404227319,
-    "wof:lastmodified":1566601961,
+    "wof:lastmodified":1695877114,
     "wof:name":"Yetman",
     "wof:parent_id":102049369,
     "wof:placetype":"localadmin",

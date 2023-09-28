@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006912,
-    "geom:area_square_m":70883335.666452,
+    "geom:area_square_m":70883335.666454,
     "geom:bbox":"138.5853072,-34.0099889935,138.711308,-33.9277240075",
     "geom:latitude":-33.969227,
     "geom:longitude":138.649419,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.967745,
     "lbl:longitude":138.656909,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Watervale"
@@ -41,9 +47,12 @@
         102048457
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40777"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"e78f1f3ccc9eba215d64a6b078ae1241",
+    "wof:geomhash":"32866323aa1199f8eaf18e424b52b3b4",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404546539,
-    "wof:lastmodified":1566603130,
+    "wof:lastmodified":1695877782,
     "wof:name":"Watervale",
     "wof:parent_id":102048457,
     "wof:placetype":"localadmin",

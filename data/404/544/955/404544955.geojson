@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000151,
-    "geom:area_square_m":1533264.79024,
+    "geom:area_square_m":1533264.79025,
     "geom:bbox":"138.5405792,-34.904710987,138.552094688,-34.884056144",
     "geom:latitude":-34.89512,
     "geom:longitude":138.546331,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.8951,
     "lbl:longitude":138.546332,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0628\u0648\u0631\u0644\u06cc"
@@ -126,12 +132,15 @@
         102049185
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40045"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935783
     ],
     "wof:country":"AU",
-    "wof:geomhash":"440e233e207b2dc69aa933a77362ffb4",
+    "wof:geomhash":"6eb14050e4676b193b473642bdf5a2ba",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -144,7 +153,7 @@
         }
     ],
     "wof:id":404544955,
-    "wof:lastmodified":1566602153,
+    "wof:lastmodified":1695877219,
     "wof:name":"Beverley",
     "wof:parent_id":102049185,
     "wof:placetype":"localadmin",

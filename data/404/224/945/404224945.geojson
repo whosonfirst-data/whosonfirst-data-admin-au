@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004064,
-    "geom:area_square_m":40297098.05185,
+    "geom:area_square_m":40297098.05164,
     "geom:bbox":"149.859307264,-36.7197929955,149.997142016,-36.6434130075",
     "geom:latitude":-36.689161,
     "geom:longitude":149.914117,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.689102,
     "lbl:longitude":149.896993,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mogareeka"
@@ -38,9 +44,12 @@
         102049439
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11565"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"be0b9bd378f669b49bd01b5607ede40a",
+    "wof:geomhash":"007de573c0a4f2042ca7e5a47a476c7f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404224945,
-    "wof:lastmodified":1566602651,
+    "wof:lastmodified":1695877502,
     "wof:name":"Mogareeka",
     "wof:parent_id":102049439,
     "wof:placetype":"localadmin",

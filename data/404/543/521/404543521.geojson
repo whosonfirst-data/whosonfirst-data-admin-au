@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000066,
-    "geom:area_square_m":717750.603585,
+    "geom:area_square_m":717750.603586,
     "geom:bbox":"152.770511168,-27.6202260045,152.783501056,-27.612734004",
     "geom:latitude":-27.616302,
     "geom:longitude":152.776752,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.616302,
     "lbl:longitude":152.776752,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Newtown"
@@ -120,12 +126,15 @@
         102048583
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31223"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935007
     ],
     "wof:country":"AU",
-    "wof:geomhash":"980316efd2fcce8ed733cc60172d04d6",
+    "wof:geomhash":"d9fe0df81db61fb5d5c04552bb3bcf8c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -138,7 +147,7 @@
         }
     ],
     "wof:id":404543521,
-    "wof:lastmodified":1566602114,
+    "wof:lastmodified":1695877198,
     "wof:name":"Newtown",
     "wof:parent_id":102048583,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021984,
-    "geom:area_square_m":217932835.430768,
+    "geom:area_square_m":217932835.430757,
     "geom:bbox":"146.878494208,-36.790391863,147.136289056,-36.6249533005",
     "geom:latitude":-36.70693,
     "geom:longitude":147.024171,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.72682,
     "lbl:longitude":147.056249,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Freeburgh"
@@ -38,9 +44,12 @@
         102049467
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20505"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"cce7963300af897b147cbe30c435ce46",
+    "wof:geomhash":"72647383fcd6d0e4db18434df5ef5493",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404538617,
-    "wof:lastmodified":1566602433,
+    "wof:lastmodified":1695877376,
     "wof:name":"Freeburgh",
     "wof:parent_id":102049467,
     "wof:placetype":"localadmin",

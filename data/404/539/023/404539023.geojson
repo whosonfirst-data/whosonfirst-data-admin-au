@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003893,
-    "geom:area_square_m":37723573.028981,
+    "geom:area_square_m":37723573.02903,
     "geom:bbox":"145.832620992,-38.4407339985,145.924768,-38.371955864",
     "geom:latitude":-38.403495,
     "geom:longitude":145.879038,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.40304,
     "lbl:longitude":145.879904,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kardella"
@@ -38,9 +44,12 @@
         102048701
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20687"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"a40829e6e16d32140f313c438b9f5ad0",
+    "wof:geomhash":"6818040ae72508919663d73a9e166f7c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404539023,
-    "wof:lastmodified":1566602359,
+    "wof:lastmodified":1695877330,
     "wof:name":"Kardella",
     "wof:parent_id":102048701,
     "wof:placetype":"localadmin",

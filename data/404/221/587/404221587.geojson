@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001473,
-    "geom:area_square_m":15109402.150106,
+    "geom:area_square_m":15109402.150089,
     "geom:bbox":"150.786592992,-33.9519978205,150.830636992,-33.9002547265",
     "geom:latitude":-33.92745,
     "geom:longitude":150.808114,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.928813,
     "lbl:longitude":150.806319,
     "lbl:max_zoom":18.0,
@@ -82,13 +88,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC10072",
         "wd:id":"Q4823377"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101929433
     ],
     "wof:country":"AU",
-    "wof:geomhash":"e38d7ebc6934b5cf156551ddb8824c88",
+    "wof:geomhash":"ee05b001274266b8c42d65cf8523789d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -101,7 +109,7 @@
         }
     ],
     "wof:id":404221587,
-    "wof:lastmodified":1566601987,
+    "wof:lastmodified":1695877899,
     "wof:name":"Austral",
     "wof:parent_id":102049387,
     "wof:placetype":"localadmin",

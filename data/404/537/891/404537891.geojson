@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000949,
-    "geom:area_square_m":9407288.862803,
+    "geom:area_square_m":9407288.862802,
     "geom:bbox":"146.926533312,-36.7509869925,147.000029088,-36.7064990065",
     "geom:latitude":-36.72926,
     "geom:longitude":146.95678,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.724566,
     "lbl:longitude":146.942064,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Bright"
@@ -77,12 +83,15 @@
         102049467
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20180"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932649
     ],
     "wof:country":"AU",
-    "wof:geomhash":"280d87c701595ab5952fa8e84c997e8c",
+    "wof:geomhash":"5eabcc86cbf141ca0072a87f779e8308",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -94,7 +103,7 @@
         }
     ],
     "wof:id":404537891,
-    "wof:lastmodified":1566602342,
+    "wof:lastmodified":1695877320,
     "wof:name":"Bright",
     "wof:parent_id":102049467,
     "wof:placetype":"localadmin",

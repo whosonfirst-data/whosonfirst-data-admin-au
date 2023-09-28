@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023678,
-    "geom:area_square_m":220748344.645451,
+    "geom:area_square_m":220748344.645091,
     "geom:bbox":"146.804634944,-41.1552802905,147.078787008,-40.9802620025",
     "geom:latitude":-41.064411,
     "geom:longitude":146.944066,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-41.072495,
     "lbl:longitude":146.934724,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Beechford"
@@ -38,9 +44,12 @@
         102049339
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60020"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"9751ce382563b7f561c320f0d0498cd9",
+    "wof:geomhash":"bf07c71abd53b4f9bba29fd3177211c0",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404548715,
-    "wof:lastmodified":1566603192,
+    "wof:lastmodified":1695877813,
     "wof:name":"Beechford",
     "wof:parent_id":102049339,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009903,
-    "geom:area_square_m":107989550.430683,
+    "geom:area_square_m":107989550.430728,
     "geom:bbox":"152.095714016,-28.182670016,152.258415008,-28.080892007",
     "geom:latitude":-28.134008,
     "geom:longitude":152.18168,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.133422,
     "lbl:longitude":152.181645,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Freestone"
@@ -39,9 +45,12 @@
         102048963
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30626"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"d57da22ec17bb7d9bd715b4af15ae59f",
+    "wof:geomhash":"ac848a415a128a68a8c06655197ff451",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":404542255,
-    "wof:lastmodified":1566602309,
+    "wof:lastmodified":1695877300,
     "wof:name":"Freestone",
     "wof:parent_id":102048963,
     "wof:placetype":"localadmin",

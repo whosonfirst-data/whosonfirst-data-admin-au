@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.080906,
-    "geom:area_square_m":902011074.855945,
+    "geom:area_square_m":902011074.855862,
     "geom:bbox":"150.911158752,-25.770695035,151.349370112,-25.4842196305",
     "geom:latitude":-25.626248,
     "geom:longitude":151.132897,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-25.604283,
     "lbl:longitude":151.132875,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Boynewood"
@@ -38,9 +44,12 @@
         102049053
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30218"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"32d85da1be4bf1e8a3d1761403281e23",
+    "wof:geomhash":"7b099ec66b471e1ed68beb1ee566c789",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404541395,
-    "wof:lastmodified":1566603072,
+    "wof:lastmodified":1695877755,
     "wof:name":"Boynewood",
     "wof:parent_id":102049053,
     "wof:placetype":"localadmin",

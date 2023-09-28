@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028541,
-    "geom:area_square_m":284925154.482188,
+    "geom:area_square_m":284925154.482079,
     "geom:bbox":"147.98023024,-36.3400239965,148.156439488,-35.9965949915",
     "geom:latitude":-36.162807,
     "geom:longitude":148.073492,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.182703,
     "lbl:longitude":148.067582,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Khancoban"
@@ -50,9 +56,12 @@
         102049347
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11235"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"b450d80ef470ff2eb096d07c466ab336",
+    "wof:geomhash":"f9af40289cc8b85ef2ee4933e32a743d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":404224203,
-    "wof:lastmodified":1566602593,
+    "wof:lastmodified":1695877470,
     "wof:name":"Khancoban",
     "wof:parent_id":102049347,
     "wof:placetype":"localadmin",

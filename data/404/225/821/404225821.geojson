@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000244,
-    "geom:area_square_m":2559443.44154,
+    "geom:area_square_m":2559443.44153,
     "geom:bbox":"152.521148992,-32.0646644135,152.548238752,-32.049935435",
     "geom:latitude":-32.057048,
     "geom:longitude":152.535744,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.05751,
     "lbl:longitude":152.539561,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Red Head"
@@ -38,12 +44,15 @@
         102048833
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11954"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931695
     ],
     "wof:country":"AU",
-    "wof:geomhash":"c098a246023e0bdba6a09ac4a38c76b2",
+    "wof:geomhash":"de1b4bc66ce11b6793d94308192249d7",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404225821,
-    "wof:lastmodified":1566602675,
+    "wof:lastmodified":1695877516,
     "wof:name":"Red Head",
     "wof:parent_id":102048833,
     "wof:placetype":"localadmin",

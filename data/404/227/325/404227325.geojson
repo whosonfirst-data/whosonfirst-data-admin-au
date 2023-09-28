@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007966,
-    "geom:area_square_m":86191445.95143,
+    "geom:area_square_m":86191445.951447,
     "geom:bbox":"153.004744096,-29.014230179,153.141499232,-28.904854997",
     "geom:latitude":-28.955042,
     "geom:longitude":153.060819,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.948548,
     "lbl:longitude":153.054118,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Yorklea"
@@ -38,9 +44,12 @@
         102049223
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12622"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"7b4b9950d984295658515933e6a267bf",
+    "wof:geomhash":"d7324768982514873d299c7b60fc5e69",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404227325,
-    "wof:lastmodified":1566601948,
+    "wof:lastmodified":1695877108,
     "wof:name":"Yorklea",
     "wof:parent_id":102049223,
     "wof:placetype":"localadmin",

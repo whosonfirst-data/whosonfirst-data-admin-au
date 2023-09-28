@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000653,
-    "geom:area_square_m":7156639.265832,
+    "geom:area_square_m":7156639.26584,
     "geom:bbox":"152.321819552,-27.5726332375,152.349250944,-27.5315139905",
     "geom:latitude":-27.553342,
     "geom:longitude":152.334773,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.552847,
     "lbl:longitude":152.3357,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Lawes"
@@ -50,9 +56,12 @@
         102049033
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30943"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"0994b543ae9eb0550d463d6aa909d48e",
+    "wof:geomhash":"40e7cb4fa508bdbc6465858ac27e3fdc",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":404542933,
-    "wof:lastmodified":1566602295,
+    "wof:lastmodified":1695877291,
     "wof:name":"Lawes",
     "wof:parent_id":102049033,
     "wof:placetype":"localadmin",

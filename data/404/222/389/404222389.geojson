@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000173,
-    "geom:area_square_m":1791798.023028,
+    "geom:area_square_m":1791798.023016,
     "geom:bbox":"151.694902016,-32.8973456765,151.718488192,-32.883159007",
     "geom:latitude":-32.892047,
     "geom:longitude":151.705315,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.891759,
     "lbl:longitude":151.706286,
     "lbl:max_zoom":18.0,
@@ -277,13 +283,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC10429",
         "wd:id":"Q5021706"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101929771
     ],
     "wof:country":"AU",
-    "wof:geomhash":"f4ed4c502f92c7317d845b952dcdfb57",
+    "wof:geomhash":"ae4bd22b010a2e373eb914b9635437be",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -296,7 +304,7 @@
         }
     ],
     "wof:id":404222389,
-    "wof:lastmodified":1566602812,
+    "wof:lastmodified":1695878005,
     "wof:name":"Callaghan",
     "wof:parent_id":102048981,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011051,
-    "geom:area_square_m":116666960.389888,
+    "geom:area_square_m":116666960.389906,
     "geom:bbox":"152.403849984,-31.4460970075,152.614171744,-31.3057220045",
     "geom:latitude":-31.373906,
     "geom:longitude":152.5112,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.362155,
     "lbl:longitude":152.493651,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lower Pappinbarra"
@@ -38,9 +44,12 @@
         102049203
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11418"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"9acc7529cc3bf48c85bd120c3a6f5fc6",
+    "wof:geomhash":"82f93130d34817337549599e46194083",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404224615,
-    "wof:lastmodified":1566602628,
+    "wof:lastmodified":1695877491,
     "wof:name":"Lower Pappinbarra",
     "wof:parent_id":102049203,
     "wof:placetype":"localadmin",

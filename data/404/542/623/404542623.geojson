@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000901,
-    "geom:area_square_m":10108317.730116,
+    "geom:area_square_m":10108317.730102,
     "geom:bbox":"152.447972992,-24.8851919985,152.484502176,-24.848657995",
     "geom:latitude":-24.868413,
     "geom:longitude":152.467389,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-24.870474,
     "lbl:longitude":152.467042,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Innes Park"
@@ -38,12 +44,15 @@
         102048763
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30801"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934589
     ],
     "wof:country":"AU",
-    "wof:geomhash":"685a5c0d896b4812fb07d4f8d39b1290",
+    "wof:geomhash":"11ae6ad6e9bf9a32f2d612cd40f5a20e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404542623,
-    "wof:lastmodified":1566602299,
+    "wof:lastmodified":1695877293,
     "wof:name":"Innes Park",
     "wof:parent_id":102048763,
     "wof:placetype":"localadmin",

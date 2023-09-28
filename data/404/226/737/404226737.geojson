@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005358,
-    "geom:area_square_m":57074771.87664,
+    "geom:area_square_m":57074771.876602,
     "geom:bbox":"152.944743968,-30.5670959995,153.032432992,-30.476824602",
     "geom:latitude":-30.521334,
     "geom:longitude":152.992992,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-30.520454,
     "lbl:longitude":152.993826,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Urunga"
@@ -38,9 +44,12 @@
         102048545
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12361"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"71d1eaa2eb1e7b59f6980a66b9e30be5",
+    "wof:geomhash":"33649d191ec1d8f04d5d95dc279745b7",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404226737,
-    "wof:lastmodified":1566602015,
+    "wof:lastmodified":1695877140,
     "wof:name":"Urunga",
     "wof:parent_id":102048545,
     "wof:placetype":"localadmin",

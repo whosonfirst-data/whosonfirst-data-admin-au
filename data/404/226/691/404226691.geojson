@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007846,
-    "geom:area_square_m":84294584.099714,
+    "geom:area_square_m":84294584.099635,
     "geom:bbox":"152.974809696,-29.7456499715,153.105454368,-29.623882287",
     "geom:latitude":-29.678741,
     "geom:longitude":153.053815,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-29.654346,
     "lbl:longitude":153.049336,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ulmarra"
@@ -38,9 +44,12 @@
         102048835
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12341"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"c2acd7897c13e83588299041dd239f08",
+    "wof:geomhash":"6c6fadd25838b57d8b97d71db9dea017",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404226691,
-    "wof:lastmodified":1566602077,
+    "wof:lastmodified":1695877180,
     "wof:name":"Ulmarra",
     "wof:parent_id":102048835,
     "wof:placetype":"localadmin",

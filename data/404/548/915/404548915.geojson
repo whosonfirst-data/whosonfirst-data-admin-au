@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006912,
-    "geom:area_square_m":63967263.280928,
+    "geom:area_square_m":63967403.230071,
     "geom:bbox":"148.20538,-41.611885,148.319541,-41.486132",
     "geom:latitude":-41.548023,
     "geom:longitude":148.262895,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-41.517398,
     "lbl:longitude":148.240021,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0424\u0430\u043b\u043c\u0443\u0442"
@@ -116,9 +122,12 @@
         102049669
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60109"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"9184cc0197c415c9b9d40166b8aa5567",
+    "wof:geomhash":"1b66291d5972ac51a26638c59214613a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -130,7 +139,7 @@
         }
     ],
     "wof:id":404548915,
-    "wof:lastmodified":1636494686,
+    "wof:lastmodified":1695877889,
     "wof:name":"Falmouth",
     "wof:parent_id":102049669,
     "wof:placetype":"localadmin",

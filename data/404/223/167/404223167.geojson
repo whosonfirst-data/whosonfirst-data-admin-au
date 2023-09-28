@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000132,
-    "geom:area_square_m":1398148.295326,
+    "geom:area_square_m":1398148.29533,
     "geom:bbox":"152.833964992,-31.088812557,152.85604208,-31.0704902865",
     "geom:latitude":-31.080299,
     "geom:longitude":152.847988,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.080284,
     "lbl:longitude":152.849075,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "East Kempsey"
@@ -38,12 +44,15 @@
         102048527
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10774"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101930159
     ],
     "wof:country":"AU",
-    "wof:geomhash":"4ccfd025ed6c38593b061f96cd664d58",
+    "wof:geomhash":"d12fc626d59dbb97e559754eff8ccfa6",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404223167,
-    "wof:lastmodified":1566602497,
+    "wof:lastmodified":1695877412,
     "wof:name":"East Kempsey",
     "wof:parent_id":102048527,
     "wof:placetype":"localadmin",

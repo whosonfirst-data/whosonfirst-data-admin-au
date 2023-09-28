@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001077,
-    "geom:area_square_m":11803063.833552,
+    "geom:area_square_m":11803063.833522,
     "geom:bbox":"151.967714752,-27.5807490025,152.0047056,-27.5180199055",
     "geom:latitude":-27.546369,
     "geom:longitude":151.986026,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.530014,
     "lbl:longitude":151.981691,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Redwood"
@@ -38,12 +44,15 @@
         102049357
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31390"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935201
     ],
     "wof:country":"AU",
-    "wof:geomhash":"f9953b903d9d630db66a043ebfaa133d",
+    "wof:geomhash":"c7845fb592764a55940e429e4492dbb3",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404543883,
-    "wof:lastmodified":1566602127,
+    "wof:lastmodified":1695877206,
     "wof:name":"Redwood",
     "wof:parent_id":102049357,
     "wof:placetype":"localadmin",

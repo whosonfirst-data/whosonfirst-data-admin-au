@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000256,
-    "geom:area_square_m":2503652.92852,
+    "geom:area_square_m":2503643.588566,
     "geom:bbox":"144.975716,-37.794169,144.995722,-37.773497",
     "geom:latitude":-37.784078,
     "geom:longitude":144.984302,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.784107,
     "lbl:longitude":144.984301,
     "lbl:max_zoom":18.0,
@@ -73,10 +79,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC20491",
         "gn:id":2154962,
         "qs_pg:id":1028574,
         "wd:id":"Q5455716"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932941
     ],
@@ -84,7 +92,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7fdffcf9109bc5f7cdaf1c882bb6a7ef",
+    "wof:geomhash":"bffe2f19e8f05716b78a7ca875531288",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -97,7 +105,7 @@
         }
     ],
     "wof:id":404538585,
-    "wof:lastmodified":1690853595,
+    "wof:lastmodified":1695878054,
     "wof:name":"Fitzroy North",
     "wof:parent_id":102048607,
     "wof:placetype":"localadmin",

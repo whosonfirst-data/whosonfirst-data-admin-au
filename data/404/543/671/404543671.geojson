@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003005,
-    "geom:area_square_m":34638423.992758,
+    "geom:area_square_m":34638423.99269,
     "geom:bbox":"149.037576992,-21.2352159985,149.120884,-21.173596994",
     "geom:latitude":-21.205487,
     "geom:longitude":149.079481,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-21.206365,
     "lbl:longitude":149.083597,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Palmyra"
@@ -260,9 +266,12 @@
         102048783
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31294"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"d98c47f3b6c706446116b80c6bc08113",
+    "wof:geomhash":"27a02e82275a3882c715dcf8ec48343f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -274,7 +283,7 @@
         }
     ],
     "wof:id":404543671,
-    "wof:lastmodified":1566602128,
+    "wof:lastmodified":1695877207,
     "wof:name":"Palmyra",
     "wof:parent_id":102048783,
     "wof:placetype":"localadmin",

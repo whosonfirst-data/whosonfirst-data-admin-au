@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000513,
-    "geom:area_square_m":5379286.496579,
+    "geom:area_square_m":5379286.49658,
     "geom:bbox":"115.886632672,-32.013449735,115.932771392,-31.9912997405",
     "geom:latitude":-32.005116,
     "geom:longitude":115.90668,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.005895,
     "lbl:longitude":115.89672,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Bentley"
@@ -192,12 +198,15 @@
         102048663
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50060"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101936901
     ],
     "wof:country":"AU",
-    "wof:geomhash":"ad8742384db9c946969fa205ee8362c4",
+    "wof:geomhash":"3df0d47ff0fc5d1ed5c6c8831fb681f4",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -210,7 +219,7 @@
         }
     ],
     "wof:id":404546821,
-    "wof:lastmodified":1566603112,
+    "wof:lastmodified":1695877774,
     "wof:name":"Bentley",
     "wof:parent_id":102048663,
     "wof:placetype":"localadmin",

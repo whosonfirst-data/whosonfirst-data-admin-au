@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000327,
-    "geom:area_square_m":3382235.663012,
+    "geom:area_square_m":3382235.663007,
     "geom:bbox":"151.52982848,-33.193072006,151.55805696,-33.1692846875",
     "geom:latitude":-33.184795,
     "geom:longitude":151.546897,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.185676,
     "lbl:longitude":151.546679,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Doyalson North"
@@ -38,12 +44,15 @@
         102049097
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10732"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101930117
     ],
     "wof:country":"AU",
-    "wof:geomhash":"3cb07df2197d4260149904089726fd5d",
+    "wof:geomhash":"0559e76ecaa013fd8af3b0d82add869b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404223071,
-    "wof:lastmodified":1566602507,
+    "wof:lastmodified":1695877417,
     "wof:name":"Doyalson North",
     "wof:parent_id":102049097,
     "wof:placetype":"localadmin",

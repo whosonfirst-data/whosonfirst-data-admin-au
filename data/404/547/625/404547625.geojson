@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001844,
-    "geom:area_square_m":21604642.681822,
+    "geom:area_square_m":21604642.681823,
     "geom:bbox":"121.755786848,-18.6989930195,121.824454656,-18.661084873",
     "geom:latitude":-18.682329,
     "geom:longitude":121.790604,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-18.681829,
     "lbl:longitude":121.790617,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lagrange"
@@ -38,9 +44,12 @@
         102048717
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50419"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"69d3a282ab9d5fa4ded7288027e32b4f",
+    "wof:geomhash":"0fa42730a93ac3531130351c8f7a0cf3",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404547625,
-    "wof:lastmodified":1566602958,
+    "wof:lastmodified":1695877693,
     "wof:name":"Lagrange",
     "wof:parent_id":102048717,
     "wof:placetype":"localadmin",

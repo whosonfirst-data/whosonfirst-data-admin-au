@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007359,
-    "geom:area_square_m":81323262.182381,
+    "geom:area_square_m":81323262.182342,
     "geom:bbox":"151.778376992,-26.718150964,151.886915744,-26.610710993",
     "geom:latitude":-26.658517,
     "geom:longitude":151.82365,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-26.652778,
     "lbl:longitude":151.822631,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Goodger"
@@ -38,9 +44,12 @@
         102048861
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30675"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"419ef4aed99badcc6b435fad0e0837a9",
+    "wof:geomhash":"1e6e14c3f2786bb1fc18812f2780aeb4",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404542357,
-    "wof:lastmodified":1566602289,
+    "wof:lastmodified":1695877286,
     "wof:name":"Goodger",
     "wof:parent_id":102048861,
     "wof:placetype":"localadmin",

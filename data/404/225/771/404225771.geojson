@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00005,
-    "geom:area_square_m":512018.446402,
+    "geom:area_square_m":512018.446399,
     "geom:bbox":"151.278404896,-33.786526994,151.291350016,-33.7787679275",
     "geom:latitude":-33.782782,
     "geom:longitude":151.284951,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.782312,
     "lbl:longitude":151.284953,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Queenscliff"
@@ -42,12 +48,15 @@
         102049493
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11932"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931673
     ],
     "wof:country":"AU",
-    "wof:geomhash":"2946ed55204a7799a72582fdfdf15052",
+    "wof:geomhash":"25b656f8e31b54c5aab207215f1acd06",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -60,7 +69,7 @@
         }
     ],
     "wof:id":404225771,
-    "wof:lastmodified":1566602694,
+    "wof:lastmodified":1695877526,
     "wof:name":"Queenscliff",
     "wof:parent_id":102049493,
     "wof:placetype":"localadmin",

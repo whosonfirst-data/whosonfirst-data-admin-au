@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000081,
-    "geom:area_square_m":862878.420948,
+    "geom:area_square_m":862878.420949,
     "geom:bbox":"121.463957088,-30.781887678,121.479110272,-30.774107725",
     "geom:latitude":-30.778816,
     "geom:longitude":121.472616,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-30.778827,
     "lbl:longitude":121.472761,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Victory Heights"
@@ -41,12 +47,15 @@
         102049523
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50785"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937875
     ],
     "wof:country":"AU",
-    "wof:geomhash":"a96474a523ad30d82ee0bc34ef171c47",
+    "wof:geomhash":"608418cab117ea1f53ee0fcd8e9b41e9",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404548439,
-    "wof:lastmodified":1566603177,
+    "wof:lastmodified":1695877802,
     "wof:name":"Victory Heights",
     "wof:parent_id":102049523,
     "wof:placetype":"localadmin",

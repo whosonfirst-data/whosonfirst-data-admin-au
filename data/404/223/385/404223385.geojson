@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00135,
-    "geom:area_square_m":14046549.730249,
+    "geom:area_square_m":14046549.730251,
     "geom:bbox":"151.466436736,-32.754488991,151.54590272,-32.7181437615",
     "geom:latitude":-32.734404,
     "geom:longitude":151.504653,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.73916,
     "lbl:longitude":151.510649,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Farley"
@@ -78,9 +84,12 @@
         102048483
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10871"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"32de24f706ebaf43aa88c0f4e5cc3642",
+    "wof:geomhash":"bfe99b9c4385bf9decede83c5dd8a0bd",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -93,7 +102,7 @@
         }
     ],
     "wof:id":404223385,
-    "wof:lastmodified":1566602525,
+    "wof:lastmodified":1695877428,
     "wof:name":"Farley",
     "wof:parent_id":102048483,
     "wof:placetype":"localadmin",

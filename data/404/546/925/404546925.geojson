@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.463462,
-    "geom:area_square_m":15609724530.516996,
+    "geom:area_square_m":15609724530.517372,
     "geom:bbox":"118.503738048,-31.121039002,120.013889408,-29.61232345",
     "geom:latitude":-30.388982,
     "geom:longitude":119.237752,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-30.451095,
     "lbl:longitude":119.252127,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bullfinch"
@@ -38,9 +44,12 @@
         102049615
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50106"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"248ee4cacff8fcfb8bb276d23b88b01e",
+    "wof:geomhash":"62a5e4ef18667d72732f582eaa258bcc",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404546925,
-    "wof:lastmodified":1566603128,
+    "wof:lastmodified":1695877781,
     "wof:name":"Bullfinch",
     "wof:parent_id":102049615,
     "wof:placetype":"localadmin",

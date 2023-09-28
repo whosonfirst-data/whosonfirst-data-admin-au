@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000278,
-    "geom:area_square_m":2850336.985988,
+    "geom:area_square_m":2850336.98598,
     "geom:bbox":"150.828841248,-34.0790587435,150.850944992,-34.0578583355",
     "geom:latitude":-34.069755,
     "geom:longitude":150.841678,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.070334,
     "lbl:longitude":150.841892,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ruse"
@@ -83,12 +89,15 @@
         102048887
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12016"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931771
     ],
     "wof:country":"AU",
-    "wof:geomhash":"f21a7991ece2cab6e23735e61c148163",
+    "wof:geomhash":"9f3b2cca5100044a7d584f2dfafe16a8",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -100,7 +109,7 @@
         }
     ],
     "wof:id":404225961,
-    "wof:lastmodified":1566602700,
+    "wof:lastmodified":1695877529,
     "wof:name":"Ruse",
     "wof:parent_id":102048887,
     "wof:placetype":"localadmin",

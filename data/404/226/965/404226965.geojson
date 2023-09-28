@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00005,
-    "geom:area_square_m":504695.820975,
+    "geom:area_square_m":504695.820967,
     "geom:bbox":"150.83019,-34.7401417025,150.83956752,-34.727618997",
     "geom:latitude":-34.733138,
     "geom:longitude":150.834451,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.732185,
     "lbl:longitude":150.834844,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Werri Beach"
@@ -38,12 +44,15 @@
         102048749
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12462"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932285
     ],
     "wof:country":"AU",
-    "wof:geomhash":"51cbe80a048446b5b310f9d16cd07eb2",
+    "wof:geomhash":"0861c32f7cd42e3e88b2dbda5d7fe517",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404226965,
-    "wof:lastmodified":1566602014,
+    "wof:lastmodified":1695877140,
     "wof:name":"Werri Beach",
     "wof:parent_id":102048749,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001946,
-    "geom:area_square_m":20414261.918259,
+    "geom:area_square_m":20414261.918255,
     "geom:bbox":"115.946326624,-31.981639725,115.995403712,-31.915880994",
     "geom:latitude":-31.945613,
     "geom:longitude":115.971062,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.940614,
     "lbl:longitude":115.970601,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0637\u0627\u0631 \u0628\u064a\u0631\u062b"
@@ -99,12 +105,15 @@
         102049189
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50640"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937683
     ],
     "wof:country":"AU",
-    "wof:geomhash":"d1cae0d0753e66efc20bc20cd9643481",
+    "wof:geomhash":"49e7100b1d8d63984292cbd82476ee45",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -117,7 +126,7 @@
         }
     ],
     "wof:id":404548117,
-    "wof:lastmodified":1566603196,
+    "wof:lastmodified":1695877814,
     "wof:name":"Perth Airport",
     "wof:parent_id":102049189,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007807,
-    "geom:area_square_m":90109376.036972,
+    "geom:area_square_m":90109376.036934,
     "geom:bbox":"149.018920416,-21.079567007,149.152032,-20.9748549535",
     "geom:latitude":-21.027315,
     "geom:longitude":149.081381,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-21.03114,
     "lbl:longitude":149.080228,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Habana"
@@ -38,9 +44,12 @@
         102048783
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30719"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"b7bc049c177ebb52e60aa06be1b63219",
+    "wof:geomhash":"c7d28e2c20e038afbfac028818a8b983",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404542453,
-    "wof:lastmodified":1566602280,
+    "wof:lastmodified":1695877281,
     "wof:name":"Habana",
     "wof:parent_id":102048783,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01108,
-    "geom:area_square_m":127874726.906052,
+    "geom:area_square_m":127874726.90579,
     "geom:bbox":"148.819168992,-21.086005932,148.996896,-20.961610008",
     "geom:latitude":-21.031436,
     "geom:longitude":148.897036,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-21.030733,
     "lbl:longitude":148.888266,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kuttabul"
@@ -38,9 +44,12 @@
         102048783
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30916"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"ac6f4ee2d1096da9908035a85603ef0a",
+    "wof:geomhash":"18bbedd203098d68d54926e87a43644d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404542873,
-    "wof:lastmodified":1566602270,
+    "wof:lastmodified":1695877275,
     "wof:name":"Kuttabul",
     "wof:parent_id":102048783,
     "wof:placetype":"localadmin",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00011,
-    "geom:area_square_m":1070683.548796,
+    "geom:area_square_m":1070683.548794,
     "geom:bbox":"145.006159136,-37.8344589545,145.028365056,-37.8250650245",
     "geom:latitude":-37.829639,
     "geom:longitude":145.017521,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.828834,
     "lbl:longitude":145.01677,
     "lbl:max_zoom":18.0,
@@ -163,13 +169,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC20217",
         "wd:id":"Q4999948"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932671
     ],
     "wof:country":"AU",
-    "wof:geomhash":"1271f31227987c63fd9ebfd0cbc207ce",
+    "wof:geomhash":"8758adf8525749fe871f9030e07f8d6a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -182,7 +190,7 @@
         }
     ],
     "wof:id":404537975,
-    "wof:lastmodified":1566602350,
+    "wof:lastmodified":1695877947,
     "wof:name":"Burnley",
     "wof:parent_id":102048607,
     "wof:placetype":"localadmin",

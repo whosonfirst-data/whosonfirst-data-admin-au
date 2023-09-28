@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000365,
-    "geom:area_square_m":4416759.03411,
+    "geom:area_square_m":4416759.034142,
     "geom:bbox":"134.881024992,-12.111185995,134.929213216,-12.089049006",
     "geom:latitude":-12.101326,
     "geom:longitude":134.910955,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-12.103456,
     "lbl:longitude":134.9126,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Milingimbi"
@@ -38,12 +44,15 @@
         102049201
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC70127"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938557
     ],
     "wof:country":"AU",
-    "wof:geomhash":"73e67fafa26c936aab1324aa126b0ad5",
+    "wof:geomhash":"c8cbb3805701faba1c2daac7e6c2428b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404549789,
-    "wof:lastmodified":1566602915,
+    "wof:lastmodified":1695877671,
     "wof:name":"Milingimbi",
     "wof:parent_id":102049201,
     "wof:placetype":"localadmin",

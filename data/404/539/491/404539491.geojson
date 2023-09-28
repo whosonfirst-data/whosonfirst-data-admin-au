@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000247,
-    "geom:area_square_m":2418479.946725,
+    "geom:area_square_m":2418479.946715,
     "geom:bbox":"145.640761568,-37.760656997,145.66655728,-37.743860403",
     "geom:latitude":-37.75311,
     "geom:longitude":145.654694,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.754373,
     "lbl:longitude":145.652352,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Millgrove"
@@ -42,12 +48,15 @@
         102048969
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20896"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101933245
     ],
     "wof:country":"AU",
-    "wof:geomhash":"7f54b1e8b7023912665b784bb9b25f95",
+    "wof:geomhash":"1f77dde04231475bce722557daa8c6d9",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -60,7 +69,7 @@
         }
     ],
     "wof:id":404539491,
-    "wof:lastmodified":1566602374,
+    "wof:lastmodified":1695877339,
     "wof:name":"Millgrove",
     "wof:parent_id":102048969,
     "wof:placetype":"localadmin",

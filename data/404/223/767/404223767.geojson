@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009861,
-    "geom:area_square_m":102986139.716365,
+    "geom:area_square_m":102986139.716349,
     "geom:bbox":"149.437504992,-32.422627999,149.598679008,-32.321360997",
     "geom:latitude":-32.368881,
     "geom:longitude":149.523491,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.370527,
     "lbl:longitude":149.525041,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Gulgong"
@@ -56,9 +62,12 @@
         102049261
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11041"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"85308429c00576b51ba6e0c6b1313266",
+    "wof:geomhash":"b1713a7aef4c731e8f19d19465669837",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -70,7 +79,7 @@
         }
     ],
     "wof:id":404223767,
-    "wof:lastmodified":1566602532,
+    "wof:lastmodified":1695877433,
     "wof:name":"Gulgong",
     "wof:parent_id":102049261,
     "wof:placetype":"localadmin",

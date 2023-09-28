@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027905,
-    "geom:area_square_m":313793431.363136,
+    "geom:area_square_m":313793431.363126,
     "geom:bbox":"151.426829472,-24.710041491,151.680003008,-24.4545634655",
     "geom:latitude":-24.574861,
     "geom:longitude":151.558279,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-24.58333,
     "lbl:longitude":151.581201,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Gindoran"
@@ -38,9 +44,12 @@
         102049463
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30647"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"343b840e042cbdec07fd83b1bd015d83",
+    "wof:geomhash":"03c28278e93eb2f4c6798ad5ec622e86",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404542299,
-    "wof:lastmodified":1566602310,
+    "wof:lastmodified":1695877300,
     "wof:name":"Gindoran",
     "wof:parent_id":102049463,
     "wof:placetype":"localadmin",

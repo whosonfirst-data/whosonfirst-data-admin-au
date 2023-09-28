@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000295,
-    "geom:area_square_m":3092452.092552,
+    "geom:area_square_m":3092452.092558,
     "geom:bbox":"115.822247648,-32.046047919,115.845785984,-32.031840326",
     "geom:latitude":-32.039451,
     "geom:longitude":115.833688,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.039447,
     "lbl:longitude":115.834316,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Booragoon"
@@ -39,12 +45,15 @@
         102048851
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50077"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101936923
     ],
     "wof:country":"AU",
-    "wof:geomhash":"82b8cc2f55bd08f76ef279f2849ee238",
+    "wof:geomhash":"62b9bf97e045657b37c41484e1dd4108",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404546861,
-    "wof:lastmodified":1566603117,
+    "wof:lastmodified":1695877777,
     "wof:name":"Booragoon",
     "wof:parent_id":102048851,
     "wof:placetype":"localadmin",

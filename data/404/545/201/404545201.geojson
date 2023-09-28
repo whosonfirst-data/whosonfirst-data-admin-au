@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000036,
-    "geom:area_square_m":364208.424292,
+    "geom:area_square_m":364208.424294,
     "geom:bbox":"138.575856992,-34.8902544025,138.583631584,-34.8850455055",
     "geom:latitude":-34.887642,
     "geom:longitude":138.579765,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.887647,
     "lbl:longitude":138.579768,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Devon Park"
@@ -48,12 +54,15 @@
         102048839
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40157"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935919
     ],
     "wof:country":"AU",
-    "wof:geomhash":"bda8193870c34545785361a6b67be75f",
+    "wof:geomhash":"22ec2769e4812d4bb333b2b9e5fec2de",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -66,7 +75,7 @@
         }
     ],
     "wof:id":404545201,
-    "wof:lastmodified":1566602248,
+    "wof:lastmodified":1695877264,
     "wof:name":"Devon Park",
     "wof:parent_id":102048839,
     "wof:placetype":"localadmin",

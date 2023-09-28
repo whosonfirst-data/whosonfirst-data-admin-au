@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017264,
-    "geom:area_square_m":182473561.014868,
+    "geom:area_square_m":182473561.0148,
     "geom:bbox":"149.060902368,-31.3365060045,149.325613344,-31.1882539975",
     "geom:latitude":-31.266271,
     "geom:longitude":149.214195,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.269345,
     "lbl:longitude":149.234174,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Coonabarabran"
@@ -74,9 +80,12 @@
         102049559
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10603"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"74d5fb848620d4941b25a70b8072e6c8",
+    "wof:geomhash":"42e6cf2efb5b574a55262870bd48d65c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -88,7 +97,7 @@
         }
     ],
     "wof:id":404222781,
-    "wof:lastmodified":1566602811,
+    "wof:lastmodified":1695877599,
     "wof:name":"Coonabarabran",
     "wof:parent_id":102049559,
     "wof:placetype":"localadmin",

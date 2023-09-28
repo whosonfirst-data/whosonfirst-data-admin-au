@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017795,
-    "geom:area_square_m":194093934.316128,
+    "geom:area_square_m":194093934.316594,
     "geom:bbox":"152.979267008,-28.2006992095,153.125852,-28.0029570015",
     "geom:latitude":-28.102067,
     "geom:longitude":153.053081,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.092155,
     "lbl:longitude":153.047188,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Kerry"
@@ -80,9 +86,12 @@
         102048945
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30871"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"a88e9b51b1249245fd2f4ef95a7d6d06",
+    "wof:geomhash":"dbac5de20581e9bf5f2a5fc878cfcc65",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -94,7 +103,7 @@
         }
     ],
     "wof:id":404542779,
-    "wof:lastmodified":1566602287,
+    "wof:lastmodified":1695877285,
     "wof:name":"Kerry",
     "wof:parent_id":102048945,
     "wof:placetype":"localadmin",

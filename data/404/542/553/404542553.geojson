@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001737,
-    "geom:area_square_m":20224468.876092,
+    "geom:area_square_m":20224468.876111,
     "geom:bbox":"147.384615968,-19.689381991,147.443000992,-19.629653039",
     "geom:latitude":-19.660962,
     "geom:longitude":147.413803,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-19.660004,
     "lbl:longitude":147.411825,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Home Hill"
@@ -38,12 +44,15 @@
         102048927
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30769"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934561
     ],
     "wof:country":"AU",
-    "wof:geomhash":"6434033369b86b57ebb302b6bc317531",
+    "wof:geomhash":"2760a464dc0825c77c1fc5ee50ecb6df",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404542553,
-    "wof:lastmodified":1566602295,
+    "wof:lastmodified":1695877290,
     "wof:name":"Home Hill",
     "wof:parent_id":102048927,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001817,
-    "geom:area_square_m":17810624.512079,
+    "geom:area_square_m":17810624.512076,
     "geom:bbox":"144.586736,-37.5677216995,144.671645536,-37.5299211305",
     "geom:latitude":-37.548801,
     "geom:longitude":144.624321,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.547638,
     "lbl:longitude":144.621436,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Gisborne South"
@@ -38,9 +44,12 @@
         102048977
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20529"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"91df0cb71ed65defe6407a6fe6e19306",
+    "wof:geomhash":"8700d278dd5edd7a4904e1b8d147d5ec",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404538671,
-    "wof:lastmodified":1566602466,
+    "wof:lastmodified":1695877393,
     "wof:name":"Gisborne South",
     "wof:parent_id":102048977,
     "wof:placetype":"localadmin",

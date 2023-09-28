@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005212,
-    "geom:area_square_m":54832619.236027,
+    "geom:area_square_m":54832619.236005,
     "geom:bbox":"152.508599008,-31.7407629355,152.659594016,-31.6617485845",
     "geom:latitude":-31.706282,
     "geom:longitude":152.584735,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.718811,
     "lbl:longitude":152.572182,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Hannam Vale"
@@ -38,9 +44,12 @@
         102048833
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11071"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"b79c85a842984444180c7f7c145a766b",
+    "wof:geomhash":"d6ea9a63edfe609231bf5300d940f4d9",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404223835,
-    "wof:lastmodified":1566602513,
+    "wof:lastmodified":1695877421,
     "wof:name":"Hannam Vale",
     "wof:parent_id":102048833,
     "wof:placetype":"localadmin",

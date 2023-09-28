@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.448463,
-    "geom:area_square_m":5082716032.444973,
+    "geom:area_square_m":5082716032.444107,
     "geom:bbox":"149.19992,-24.1658399965,150.066708,-22.875143004",
     "geom:latitude":-23.567545,
     "geom:longitude":149.6117,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-23.773924,
     "lbl:longitude":149.617997,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Duaringa"
@@ -41,9 +47,12 @@
         102049631
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30510"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"d756443f0253ae9ca4660b90c2cc75d7",
+    "wof:geomhash":"65b2fa1c32262fa75e16e77c1f98e568",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404542009,
-    "wof:lastmodified":1566602276,
+    "wof:lastmodified":1695877279,
     "wof:name":"Duaringa",
     "wof:parent_id":102049631,
     "wof:placetype":"localadmin",

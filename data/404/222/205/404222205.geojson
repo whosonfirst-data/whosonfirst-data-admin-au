@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019588,
-    "geom:area_square_m":203662324.461408,
+    "geom:area_square_m":203662324.461149,
     "geom:bbox":"151.001452992,-32.846793002,151.224972992,-32.6794299955",
     "geom:latitude":-32.768125,
     "geom:longitude":151.088308,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.780669,
     "lbl:longitude":151.077323,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Broke"
@@ -47,9 +53,12 @@
         102048757
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10347"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"d7380d9f666f8eb0d54c39cab4e18663",
+    "wof:geomhash":"456d469db1b7b697b5c34f64dfffc04d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":404222205,
-    "wof:lastmodified":1566602769,
+    "wof:lastmodified":1695877572,
     "wof:name":"Broke",
     "wof:parent_id":102048757,
     "wof:placetype":"localadmin",

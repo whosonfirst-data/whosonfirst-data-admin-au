@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022094,
-    "geom:area_square_m":201779395.88585,
+    "geom:area_square_m":201779395.885866,
     "geom:bbox":"147.217568992,-42.461964946,147.525071008,-42.3326149995",
     "geom:latitude":-42.389227,
     "geom:longitude":147.353933,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-42.391433,
     "lbl:longitude":147.315456,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Parattah"
@@ -47,9 +53,12 @@
         102049259
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60269"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"650ec785c6da9a898c6364b55ce5081c",
+    "wof:geomhash":"f46da60839a5d909b6dc17e02a57f72c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":404549275,
-    "wof:lastmodified":1566602842,
+    "wof:lastmodified":1695877621,
     "wof:name":"Parattah",
     "wof:parent_id":102049259,
     "wof:placetype":"localadmin",

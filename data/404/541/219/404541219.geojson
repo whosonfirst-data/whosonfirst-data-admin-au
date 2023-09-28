@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000098,
-    "geom:area_square_m":1146492.816762,
+    "geom:area_square_m":1146492.816758,
     "geom:bbox":"146.786698592,-19.2555031375,146.799689056,-19.24044201",
     "geom:latitude":-19.247818,
     "geom:longitude":146.792381,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-19.247192,
     "lbl:longitude":146.792479,
     "lbl:max_zoom":18.0,
@@ -42,13 +48,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC30132",
         "wd:id":"Q4882466"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101933905
     ],
     "wof:country":"AU",
-    "wof:geomhash":"e3c2bd5a305d5b1dc67b0aeb06e1dafe",
+    "wof:geomhash":"7c2a86fb2f5457c64b0689d143f7594a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -60,7 +68,7 @@
         }
     ],
     "wof:id":404541219,
-    "wof:lastmodified":1566603055,
+    "wof:lastmodified":1695878031,
     "wof:name":"Belgian Gardens",
     "wof:parent_id":102048451,
     "wof:placetype":"localadmin",

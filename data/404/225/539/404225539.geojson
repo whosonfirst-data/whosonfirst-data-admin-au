@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000541,
-    "geom:area_square_m":5553061.59958,
+    "geom:area_square_m":5553001.133466,
     "geom:bbox":"151.01934,-33.968541,151.042655,-33.933779",
     "geom:latitude":-33.950258,
     "geom:longitude":151.032109,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.948778,
     "lbl:longitude":151.033498,
     "lbl:max_zoom":18.0,
@@ -112,13 +118,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC11829",
         "wd:id":"Q7123965"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931537
     ],
     "wof:country":"AU",
-    "wof:geomhash":"b7ec5610d2a849c16bfaa21831594ecd",
+    "wof:geomhash":"dd294b95caff8c9b27a0e6095bf87f8e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -131,7 +139,7 @@
         }
     ],
     "wof:id":404225539,
-    "wof:lastmodified":1690853676,
+    "wof:lastmodified":1695877990,
     "wof:name":"Padstow",
     "wof:parent_id":102049447,
     "wof:placetype":"localadmin",

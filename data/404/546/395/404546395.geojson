@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008078,
-    "geom:area_square_m":82548195.193704,
+    "geom:area_square_m":82548195.193708,
     "geom:bbox":"138.7176768,-34.300596891,138.840843104,-34.219723993",
     "geom:latitude":-34.26398,
     "geom:longitude":138.779523,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.260237,
     "lbl:longitude":138.784512,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tarlee"
@@ -38,9 +44,12 @@
         102048457
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40712"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"967e95015319bad3b5885a8ed27a9a93",
+    "wof:geomhash":"a2e321325e76daabae1f46f2d843d2cc",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404546395,
-    "wof:lastmodified":1566603129,
+    "wof:lastmodified":1695877782,
     "wof:name":"Tarlee",
     "wof:parent_id":102048457,
     "wof:placetype":"localadmin",

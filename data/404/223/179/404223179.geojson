@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000095,
-    "geom:area_square_m":971712.342059,
+    "geom:area_square_m":971712.342049,
     "geom:bbox":"151.12721,-33.8171560195,151.143903008,-33.8034790065",
     "geom:latitude":-33.810289,
     "geom:longitude":151.135316,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.80907,
     "lbl:longitude":151.134626,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "East Ryde"
@@ -39,12 +45,15 @@
         102049349
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10780"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101930169
     ],
     "wof:country":"AU",
-    "wof:geomhash":"b7ea4a8e83431298b1ae3629c7c07ba5",
+    "wof:geomhash":"68aa2ebb9ba3ccac4f4e0042f956d054",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404223179,
-    "wof:lastmodified":1566602564,
+    "wof:lastmodified":1695877454,
     "wof:name":"East Ryde",
     "wof:parent_id":102049349,
     "wof:placetype":"localadmin",

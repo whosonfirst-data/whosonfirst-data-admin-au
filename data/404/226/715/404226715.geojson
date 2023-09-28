@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008034,
-    "geom:area_square_m":84514106.292295,
+    "geom:area_square_m":84514106.29214,
     "geom:bbox":"152.414271008,-31.7982740335,152.515852,-31.6452341895",
     "geom:latitude":-31.710263,
     "geom:longitude":152.467232,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.701621,
     "lbl:longitude":152.472171,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Upper Lansdowne"
@@ -38,9 +44,12 @@
         102048833
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12351"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"50f5f80abadbeb6da8d8f5323e4744c8",
+    "wof:geomhash":"5fdd5c32e90c41c5f08c6b3d6ae230d0",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404226715,
-    "wof:lastmodified":1566602046,
+    "wof:lastmodified":1695877159,
     "wof:name":"Upper Lansdowne",
     "wof:parent_id":102048833,
     "wof:placetype":"localadmin",

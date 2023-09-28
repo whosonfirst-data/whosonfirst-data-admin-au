@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002737,
-    "geom:area_square_m":28879438.558322,
+    "geom:area_square_m":28879438.558268,
     "geom:bbox":"152.691974016,-31.459783992,152.77527,-31.400094001",
     "geom:latitude":-31.424199,
     "geom:longitude":152.739321,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.421549,
     "lbl:longitude":152.736501,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Redbank"
@@ -53,9 +59,12 @@
         102049203
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11957"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"1d670820c412603f9da02b931142daf1",
+    "wof:geomhash":"2ea7b74726ca61bcf2f78adec1afa015",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -67,7 +76,7 @@
         }
     ],
     "wof:id":404225827,
-    "wof:lastmodified":1566602668,
+    "wof:lastmodified":1695877513,
     "wof:name":"Redbank",
     "wof:parent_id":102049203,
     "wof:placetype":"localadmin",

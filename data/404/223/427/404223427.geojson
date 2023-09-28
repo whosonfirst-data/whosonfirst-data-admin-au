@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000393,
-    "geom:area_square_m":4286066.249419,
+    "geom:area_square_m":4286066.249428,
     "geom:bbox":"153.548627,-28.23469,153.571431,-28.170016",
     "geom:latitude":-28.201876,
     "geom:longitude":153.561315,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.223922,
     "lbl:longitude":153.563043,
     "lbl:max_zoom":18.0,
@@ -34,21 +40,23 @@
     "qs:source":"Australian Bureau Of Statistics",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681545,
         102191583,
         85632793,
-        102048589,
         136253039,
-        85681545
+        102048589
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC10890",
         "wd:id":"Q5450182"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101930297
     ],
     "wof:country":"AU",
-    "wof:geomhash":"b8072917cb937f65e1add14d016be279",
+    "wof:geomhash":"5f91ab9a9cdfedc39d8197ce8af36d4b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -60,7 +68,7 @@
         }
     ],
     "wof:id":404223427,
-    "wof:lastmodified":1607988820,
+    "wof:lastmodified":1695878055,
     "wof:name":"Fingal Head",
     "wof:parent_id":102048589,
     "wof:placetype":"localadmin",

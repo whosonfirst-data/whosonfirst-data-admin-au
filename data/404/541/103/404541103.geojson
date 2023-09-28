@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000227,
-    "geom:area_square_m":2681227.581794,
+    "geom:area_square_m":2681227.581785,
     "geom:bbox":"145.905933312,-17.3531303405,145.934286112,-17.330476998",
     "geom:latitude":-17.343477,
     "geom:longitude":145.921072,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-17.34725,
     "lbl:longitude":145.917746,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Babinda"
@@ -56,12 +62,15 @@
         102048911
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30078"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101933849
     ],
     "wof:country":"AU",
-    "wof:geomhash":"e9f09e768b6de5dfc66165cfd6b98779",
+    "wof:geomhash":"ca07484c98583dff0bfa2112116302d4",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -73,7 +82,7 @@
         }
     ],
     "wof:id":404541103,
-    "wof:lastmodified":1566603044,
+    "wof:lastmodified":1695877743,
     "wof:name":"Babinda",
     "wof:parent_id":102048911,
     "wof:placetype":"localadmin",

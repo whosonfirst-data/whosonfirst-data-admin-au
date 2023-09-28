@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.110007,
-    "geom:area_square_m":1164130352.415607,
+    "geom:area_square_m":1164130352.415554,
     "geom:bbox":"117.928786,-31.337075,118.506572,-30.937203",
     "geom:latitude":-31.149603,
     "geom:longitude":118.208485,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.148248,
     "lbl:longitude":118.179889,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Nungarin"
@@ -31,19 +37,22 @@
     "qs:source":"Australian Bureau Of Statistics",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681439,
         102191583,
         85632793,
-        102049019,
         136253039,
-        85681439
+        102049019
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50601"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         102049019
     ],
     "wof:country":"AU",
-    "wof:geomhash":"19c791773d407c05072011b05649543e",
+    "wof:geomhash":"dfb67a00a4f7f5f729a09e7668d7c836",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404548035,
-    "wof:lastmodified":1608002060,
+    "wof:lastmodified":1695877847,
     "wof:name":"Nungarin",
     "wof:parent_id":102049019,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003355,
-    "geom:area_square_m":33433100.617782,
+    "geom:area_square_m":33433100.617775,
     "geom:bbox":"146.881085056,-36.3454590005,146.976444992,-36.282706612",
     "geom:latitude":-36.311524,
     "geom:longitude":146.925971,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.308139,
     "lbl:longitude":146.925249,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Osbornes Flat"
@@ -38,9 +44,12 @@
         102049541
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21059"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"44e7b54f70075587dd01442214ddf3d9",
+    "wof:geomhash":"539932b37adcfc3fdd0ff7be8a369895",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404539853,
-    "wof:lastmodified":1566602403,
+    "wof:lastmodified":1695877359,
     "wof:name":"Osbornes Flat",
     "wof:parent_id":102049541,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02532,
-    "geom:area_square_m":263015113.162222,
+    "geom:area_square_m":263015113.162199,
     "geom:bbox":"115.997009856,-32.943110033,116.17995312,-32.755206569",
     "geom:latitude":-32.850814,
     "geom:longitude":116.095884,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.855611,
     "lbl:longitude":116.112435,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Nanga Brook"
@@ -38,9 +44,12 @@
         102048647
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50560"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"37213fc8e2e19cbadb663da97a440a9f",
+    "wof:geomhash":"19b17b5633b6ecc73070d4de8a253b44",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404547943,
-    "wof:lastmodified":1566602977,
+    "wof:lastmodified":1695877706,
     "wof:name":"Nanga Brook",
     "wof:parent_id":102048647,
     "wof:placetype":"localadmin",

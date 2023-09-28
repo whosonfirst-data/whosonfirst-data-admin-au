@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026983,
-    "geom:area_square_m":267296885.526571,
+    "geom:area_square_m":267296885.526549,
     "geom:bbox":"145.584770752,-36.861522994,145.873985408,-36.653347008",
     "geom:latitude":-36.760762,
     "geom:longitude":145.706748,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.775581,
     "lbl:longitude":145.70886,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Balmattum"
@@ -38,9 +44,12 @@
         102048611
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20062"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"30181b42c75f6dfb5b4b6cf803407c6d",
+    "wof:geomhash":"59154418ebde930db4f5d35ae5f1349b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404537631,
-    "wof:lastmodified":1566602345,
+    "wof:lastmodified":1695877321,
     "wof:name":"Balmattum",
     "wof:parent_id":102048611,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0246,
-    "geom:area_square_m":254148057.931121,
+    "geom:area_square_m":254148057.931139,
     "geom:bbox":"149.161022848,-33.461473706,149.363663872,-33.2186210055",
     "geom:latitude":-33.33211,
     "geom:longitude":149.263455,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.326214,
     "lbl:longitude":149.256555,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lewis Ponds"
@@ -38,9 +44,12 @@
         102048769
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11359"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"73ed842425dbbd9f49cfe9b7069acfb9",
+    "wof:geomhash":"2d6fa86efd29e9ad9830d4943392f3ca",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404224483,
-    "wof:lastmodified":1566602585,
+    "wof:lastmodified":1695877466,
     "wof:name":"Lewis Ponds",
     "wof:parent_id":102048769,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000256,
-    "geom:area_square_m":2497861.566834,
+    "geom:area_square_m":2497861.566828,
     "geom:bbox":"145.402716928,-37.9408220035,145.430308448,-37.9229006835",
     "geom:latitude":-37.934082,
     "geom:longitude":145.417637,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.933614,
     "lbl:longitude":145.418796,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0638\u064a\u0627\u0646"
@@ -179,9 +185,12 @@
         102048791
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20298"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"1665bf956802455c9362189434e2b572",
+    "wof:geomhash":"868f5fbe4fb72af336396489218fc4c3",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -193,7 +202,7 @@
         }
     ],
     "wof:id":404538157,
-    "wof:lastmodified":1566602423,
+    "wof:lastmodified":1695877371,
     "wof:name":"Clematis",
     "wof:parent_id":102048791,
     "wof:placetype":"localadmin",

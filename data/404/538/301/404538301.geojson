@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004984,
-    "geom:area_square_m":49143486.933853,
+    "geom:area_square_m":49143486.933821,
     "geom:bbox":"143.682166016,-37.1471459925,143.801868,-37.0740218195",
     "geom:latitude":-37.110173,
     "geom:longitude":143.735061,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.112467,
     "lbl:longitude":143.725981,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Daisy Hill"
@@ -44,9 +50,12 @@
         102048773
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20362"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"d4c10adfe744d805fae029cc353addda",
+    "wof:geomhash":"0db230e6c78cff6acf95fb47a930e70f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404538301,
-    "wof:lastmodified":1566602427,
+    "wof:lastmodified":1695877373,
     "wof:name":"Daisy Hill",
     "wof:parent_id":102048773,
     "wof:placetype":"localadmin",

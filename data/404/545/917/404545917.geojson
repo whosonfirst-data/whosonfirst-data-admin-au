@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003627,
-    "geom:area_square_m":37558494.016899,
+    "geom:area_square_m":37558494.016909,
     "geom:bbox":"138.067622272,-33.146560009,138.17027232,-33.104023107",
     "geom:latitude":-33.122725,
     "geom:longitude":138.117531,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.122467,
     "lbl:longitude":138.11756,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Nelshaby"
@@ -38,9 +44,12 @@
         102049233
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40485"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"4fb895d891743293990487d83c524c77",
+    "wof:geomhash":"7a8f8b687cd7dcbdedf2842a3dcb338e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404545917,
-    "wof:lastmodified":1566602255,
+    "wof:lastmodified":1695877268,
     "wof:name":"Nelshaby",
     "wof:parent_id":102049233,
     "wof:placetype":"localadmin",

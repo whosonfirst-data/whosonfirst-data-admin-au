@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001895,
-    "geom:area_square_m":19376374.656743,
+    "geom:area_square_m":19376374.656711,
     "geom:bbox":"150.541023008,-34.2268409985,150.597116992,-34.168325998",
     "geom:latitude":-34.197762,
     "geom:longitude":150.569664,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.199573,
     "lbl:longitude":150.572431,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Thirlmere"
@@ -59,9 +65,12 @@
         102048943
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12270"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"bfb75f66afed9fbca00c029284c34932",
+    "wof:geomhash":"b44d568db797379c3c44dbc4ee0d72c8",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -73,7 +82,7 @@
         }
     ],
     "wof:id":404226533,
-    "wof:lastmodified":1566602014,
+    "wof:lastmodified":1695877140,
     "wof:name":"Thirlmere",
     "wof:parent_id":102048943,
     "wof:placetype":"localadmin",

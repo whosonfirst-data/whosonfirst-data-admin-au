@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005427,
-    "geom:area_square_m":63622675.24416,
+    "geom:area_square_m":63622675.243975,
     "geom:bbox":"146.201060992,-18.5964149965,146.289943008,-18.4949376495",
     "geom:latitude":-18.541576,
     "geom:longitude":146.250859,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-18.538736,
     "lbl:longitude":146.253899,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Macknade"
@@ -38,9 +44,12 @@
         102048645
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30992"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"eff984af6bb80b0861a0aa3478f70a3f",
+    "wof:geomhash":"30c216093d3cd197735821abda771b30",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404543037,
-    "wof:lastmodified":1566602111,
+    "wof:lastmodified":1695877197,
     "wof:name":"Macknade",
     "wof:parent_id":102048645,
     "wof:placetype":"localadmin",

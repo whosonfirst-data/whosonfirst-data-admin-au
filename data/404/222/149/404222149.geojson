@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023241,
-    "geom:area_square_m":234145371.249903,
+    "geom:area_square_m":234145371.249973,
     "geom:bbox":"149.696739008,-35.5197290015,149.9145792,-35.3352420065",
     "geom:latitude":-35.434875,
     "geom:longitude":149.802693,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.434953,
     "lbl:longitude":149.804331,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Braidwood"
@@ -53,9 +59,12 @@
         102049385
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10322"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"0d4bba30c779bd0ab14cdf33e6baa2a2",
+    "wof:geomhash":"778686f1773b21755684befa6481f102",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -67,7 +76,7 @@
         }
     ],
     "wof:id":404222149,
-    "wof:lastmodified":1566602818,
+    "wof:lastmodified":1695877603,
     "wof:name":"Braidwood",
     "wof:parent_id":102049385,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.159853,
-    "geom:area_square_m":1567263158.865083,
+    "geom:area_square_m":1567263158.864861,
     "geom:bbox":"149.340890016,-37.7780226695,149.976679008,-37.2969323525",
     "geom:latitude":-37.542268,
     "geom:longitude":149.562854,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.534408,
     "lbl:longitude":149.557815,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Genua"
@@ -389,9 +395,12 @@
         102049039
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20522"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"9ca6167278380c409afcb986afaec2aa",
+    "wof:geomhash":"3f6cbfef50fa3d869cdf63321bdb07ad",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -403,7 +412,7 @@
         }
     ],
     "wof:id":404538655,
-    "wof:lastmodified":1566602471,
+    "wof:lastmodified":1695877395,
     "wof:name":"Genoa",
     "wof:parent_id":102049039,
     "wof:placetype":"localadmin",

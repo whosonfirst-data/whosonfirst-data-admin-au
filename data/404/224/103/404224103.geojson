@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000192,
-    "geom:area_square_m":2058449.977263,
+    "geom:area_square_m":2058449.977256,
     "geom:bbox":"152.91686224,-29.6506304565,152.934226816,-29.630859932",
     "geom:latitude":-29.641135,
     "geom:longitude":152.924915,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-29.641829,
     "lbl:longitude":152.924064,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Junction Hill"
@@ -38,12 +44,15 @@
         102048835
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11190"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101930827
     ],
     "wof:country":"AU",
-    "wof:geomhash":"67f14d8404f334379bddd51b098d9a24",
+    "wof:geomhash":"a6c971c03f121482a7d3260272a257ab",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404224103,
-    "wof:lastmodified":1566602572,
+    "wof:lastmodified":1695877459,
     "wof:name":"Junction Hill",
     "wof:parent_id":102048835,
     "wof:placetype":"localadmin",

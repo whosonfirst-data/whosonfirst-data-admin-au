@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000488,
-    "geom:area_square_m":5034040.115044,
+    "geom:area_square_m":5034077.106755,
     "geom:bbox":"149.561751,-33.434266,149.594493,-33.403977",
     "geom:latitude":-33.418159,
     "geom:longitude":149.576209,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.417962,
     "lbl:longitude":149.576458,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Bathurst"
@@ -116,12 +122,15 @@
         102049305
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10133"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101929501
     ],
     "wof:country":"AU",
-    "wof:geomhash":"ee4b2b749b754baf11e2baab380531b0",
+    "wof:geomhash":"1c1011c557036bfc5197b8e41be8626e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -133,7 +142,7 @@
         }
     ],
     "wof:id":404221723,
-    "wof:lastmodified":1636494611,
+    "wof:lastmodified":1695877848,
     "wof:name":"Bathurst",
     "wof:parent_id":102049305,
     "wof:placetype":"localadmin",

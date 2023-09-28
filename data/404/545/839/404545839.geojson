@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001875,
-    "geom:area_square_m":19206797.763382,
+    "geom:area_square_m":19206797.763383,
     "geom:bbox":"137.551604896,-34.097587289,137.6408112,-34.064542996",
     "geom:latitude":-34.084289,
     "geom:longitude":137.604718,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.083859,
     "lbl:longitude":137.604707,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Moonta Mines"
@@ -38,12 +44,15 @@
         102049563
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40449"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101936301
     ],
     "wof:country":"AU",
-    "wof:geomhash":"91d58ecb4c7eb761bfdf85200760ac8e",
+    "wof:geomhash":"6b3127fc3d75313157dfdc542ad210ae",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404545839,
-    "wof:lastmodified":1566602248,
+    "wof:lastmodified":1695877265,
     "wof:name":"Moonta Mines",
     "wof:parent_id":102049563,
     "wof:placetype":"localadmin",

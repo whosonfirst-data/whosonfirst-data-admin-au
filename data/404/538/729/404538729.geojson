@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028399,
-    "geom:area_square_m":276792872.848449,
+    "geom:area_square_m":276792872.848647,
     "geom:bbox":"147.360613088,-38.07884808,147.652383904,-37.8897339945",
     "geom:latitude":-37.979084,
     "geom:longitude":147.508381,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.982537,
     "lbl:longitude":147.522787,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Goon Nure"
@@ -38,9 +44,12 @@
         102049039
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20555"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"7b72ee1ed0e39f26ea5a3825715e310d",
+    "wof:geomhash":"5e8c0d2589386278ad3f017892bdf997",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404538729,
-    "wof:lastmodified":1566602484,
+    "wof:lastmodified":1695877404,
     "wof:name":"Goon Nure",
     "wof:parent_id":102049039,
     "wof:placetype":"localadmin",

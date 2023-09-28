@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020095,
-    "geom:area_square_m":209900170.361454,
+    "geom:area_square_m":209900170.361317,
     "geom:bbox":"151.89934,-32.444828998,152.07384,-32.2647220075",
     "geom:latitude":-32.354336,
     "geom:longitude":151.989524,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.345853,
     "lbl:longitude":151.996613,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0627\u0633\u062a\u0631\u0648\u062f"
@@ -113,9 +119,12 @@
         102049617
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12166"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"ed368bb614a7a72c49cf86f5d9f761dc",
+    "wof:geomhash":"eafc784aacdefb85077d86b3ef1a5b35",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -127,7 +136,7 @@
         }
     ],
     "wof:id":404226299,
-    "wof:lastmodified":1566602081,
+    "wof:lastmodified":1695877181,
     "wof:name":"Stroud",
     "wof:parent_id":102049617,
     "wof:placetype":"localadmin",

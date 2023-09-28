@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000483,
-    "geom:area_square_m":4982071.403284,
+    "geom:area_square_m":4982071.4033,
     "geom:bbox":"151.394035008,-33.513660541,151.429384064,-33.481463992",
     "geom:latitude":-33.495842,
     "geom:longitude":151.412093,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.497913,
     "lbl:longitude":151.413573,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Macmasters Beach"
@@ -38,12 +44,15 @@
         102048513
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11433"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931107
     ],
     "wof:country":"AU",
-    "wof:geomhash":"64790f1f86c3c933162a32b575ef662d",
+    "wof:geomhash":"9001d3dcc9c8226e10fcf7fe167fda15",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404224649,
-    "wof:lastmodified":1566602623,
+    "wof:lastmodified":1695877488,
     "wof:name":"Macmasters Beach",
     "wof:parent_id":102048513,
     "wof:placetype":"localadmin",

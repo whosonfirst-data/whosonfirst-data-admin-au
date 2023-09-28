@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000346,
-    "geom:area_square_m":3567447.440606,
+    "geom:area_square_m":3567440.969479,
     "geom:bbox":"149.546665,-33.438106,149.568968,-33.41414",
     "geom:latitude":-33.427319,
     "geom:longitude":149.556736,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.427101,
     "lbl:longitude":149.556735,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u041c\u0456\u0442\u0447\u044d\u043b"
@@ -146,12 +152,15 @@
         102049305
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11559"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931257
     ],
     "wof:country":"AU",
-    "wof:geomhash":"c5965a8b6f727602f558fba23591d124",
+    "wof:geomhash":"f5310d3bdb3ee2ae082bd838be53c8e1",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -163,7 +172,7 @@
         }
     ],
     "wof:id":404224933,
-    "wof:lastmodified":1636494649,
+    "wof:lastmodified":1695877865,
     "wof:name":"Mitchell",
     "wof:parent_id":102049305,
     "wof:placetype":"localadmin",

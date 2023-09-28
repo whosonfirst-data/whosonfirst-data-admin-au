@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00002,
-    "geom:area_square_m":207373.146689,
+    "geom:area_square_m":207373.146687,
     "geom:bbox":"151.082376832,-33.8455189985,151.085638624,-33.836107956",
     "geom:latitude":-33.840946,
     "geom:longitude":151.084016,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.841133,
     "lbl:longitude":151.084206,
     "lbl:max_zoom":18.0,
@@ -52,13 +58,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC11362",
         "wd:id":"Q11755678"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931033
     ],
     "wof:country":"AU",
-    "wof:geomhash":"c56ad638c86e766f0e93fc490be3e4ca",
+    "wof:geomhash":"ce0a54f210f5d2a39c124a1d50118be9",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -71,7 +79,7 @@
         }
     ],
     "wof:id":404224489,
-    "wof:lastmodified":1566602630,
+    "wof:lastmodified":1695877981,
     "wof:name":"Liberty Grove",
     "wof:parent_id":102049003,
     "wof:placetype":"localadmin",

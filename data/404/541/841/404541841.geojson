@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024344,
-    "geom:area_square_m":281434504.033863,
+    "geom:area_square_m":281434504.033801,
     "geom:bbox":"142.62199488,-22.7348515285,150.998883424,-9.6050073305",
     "geom:latitude":-20.495536,
     "geom:longitude":149.058197,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-22.169328,
     "lbl:longitude":149.894159,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Koraalsee"
@@ -266,9 +272,12 @@
         102048825
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30429"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"89aec943efc36bedf87a0417917c9f62",
+    "wof:geomhash":"2f6bb65e20ef2389ef2a94113ff3fe1e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -280,7 +289,7 @@
         }
     ],
     "wof:id":404541841,
-    "wof:lastmodified":1566603079,
+    "wof:lastmodified":1695877759,
     "wof:name":"Coral Sea",
     "wof:parent_id":102048825,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003209,
-    "geom:area_square_m":31404410.691882,
+    "geom:area_square_m":31404410.691923,
     "geom:bbox":"145.19169,-37.7255277725,145.2692888,-37.6568090045",
     "geom:latitude":-37.689185,
     "geom:longitude":145.231701,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.689078,
     "lbl:longitude":145.231693,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kangaroo Ground"
@@ -38,9 +44,12 @@
         102048735
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20684"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"b27d0478545794fe41cad2f408b10b1d",
+    "wof:geomhash":"1a03250934c92d9c46a1ee874118a379",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404539017,
-    "wof:lastmodified":1566602398,
+    "wof:lastmodified":1695877354,
     "wof:name":"Kangaroo Ground",
     "wof:parent_id":102048735,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008427,
-    "geom:area_square_m":84412095.986651,
+    "geom:area_square_m":84412095.986689,
     "geom:bbox":"144.231727008,-35.9341966745,144.418183264,-35.839655107",
     "geom:latitude":-35.891832,
     "geom:longitude":144.320476,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.910073,
     "lbl:longitude":144.314193,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Leitchville"
@@ -38,9 +44,12 @@
         102049383
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20780"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"68770fffd16f6c0b6397a25bb60dba6c",
+    "wof:geomhash":"c97a81fcf41d3710de6cb532fb154d2c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404539231,
-    "wof:lastmodified":1566602401,
+    "wof:lastmodified":1695877357,
     "wof:name":"Leitchville",
     "wof:parent_id":102049383,
     "wof:placetype":"localadmin",

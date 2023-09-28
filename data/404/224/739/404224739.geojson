@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005992,
-    "geom:area_square_m":61811047.480147,
+    "geom:area_square_m":61811047.480439,
     "geom:bbox":"150.057567008,-33.528557999,150.173,-33.413075005",
     "geom:latitude":-33.455919,
     "geom:longitude":150.116022,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.449081,
     "lbl:longitude":150.116022,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Marrangaroo"
@@ -38,9 +44,12 @@
         102049125
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11473"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"8254bcdcffcc1f376d5c360623d232b6",
+    "wof:geomhash":"2af03aeffcc7a27d1ba592173b7fcce2",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404224739,
-    "wof:lastmodified":1566602573,
+    "wof:lastmodified":1695877460,
     "wof:name":"Marrangaroo",
     "wof:parent_id":102049125,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.078388,
-    "geom:area_square_m":798434176.895762,
+    "geom:area_square_m":798434176.89562,
     "geom:bbox":"140.164517888,-34.694687961,140.52263952,-34.3769769715",
     "geom:latitude":-34.539789,
     "geom:longitude":140.330951,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.537934,
     "lbl:longitude":140.312971,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Wunkar"
@@ -38,9 +44,12 @@
         102049421
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40833"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"bc6e82c43effbbe2e3cca8ee5ee74506",
+    "wof:geomhash":"f82058844a8317d41ab0f47ab3624c0d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404546663,
-    "wof:lastmodified":1566603143,
+    "wof:lastmodified":1695877787,
     "wof:name":"Wunkar",
     "wof:parent_id":102049421,
     "wof:placetype":"localadmin",

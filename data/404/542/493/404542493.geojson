@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000218,
-    "geom:area_square_m":2525429.593943,
+    "geom:area_square_m":2525429.593936,
     "geom:bbox":"139.492476,-20.7578913935,139.509003968,-20.7367737915",
     "geom:latitude":-20.747349,
     "geom:longitude":139.501355,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-20.747251,
     "lbl:longitude":139.501355,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Healy"
@@ -74,12 +80,15 @@
         102049087
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30739"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934517
     ],
     "wof:country":"AU",
-    "wof:geomhash":"5fa69e7226e473042818bf332795a112",
+    "wof:geomhash":"1ec3f94d2398d5988dd6db5ad31aff73",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -91,7 +100,7 @@
         }
     ],
     "wof:id":404542493,
-    "wof:lastmodified":1566602303,
+    "wof:lastmodified":1695877296,
     "wof:name":"Healy",
     "wof:parent_id":102049087,
     "wof:placetype":"localadmin",

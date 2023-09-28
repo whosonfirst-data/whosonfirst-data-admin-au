@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002334,
-    "geom:area_square_m":22808909.635333,
+    "geom:area_square_m":22808909.635351,
     "geom:bbox":"145.507083904,-37.8236020075,145.576404,-37.742556708",
     "geom:latitude":-37.787971,
     "geom:longitude":145.536597,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.788685,
     "lbl:longitude":145.540029,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Woori Yallock"
@@ -45,9 +51,12 @@
         102048969
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21504"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"1c8119e7b0440e661bc644b89b542654",
+    "wof:geomhash":"a1c3be9b9b6ef43d42e0070db54519ae",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -60,7 +69,7 @@
         }
     ],
     "wof:id":404540849,
-    "wof:lastmodified":1566603023,
+    "wof:lastmodified":1695877732,
     "wof:name":"Woori Yallock",
     "wof:parent_id":102048969,
     "wof:placetype":"localadmin",

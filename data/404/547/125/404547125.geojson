@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.114787,
-    "geom:area_square_m":1200709425.639892,
+    "geom:area_square_m":1200709425.639939,
     "geom:bbox":"116.280081952,-32.357760487,116.886151008,-32.0825752625",
     "geom:latitude":-32.225853,
     "geom:longitude":116.577522,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.248786,
     "lbl:longitude":116.571611,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Dale"
@@ -104,9 +110,12 @@
         102048985
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50197"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"8064a6817e07db5e3b1a9b9ea80765d1",
+    "wof:geomhash":"4c2b9fb26835d83437baa9ab2c84d553",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -118,7 +127,7 @@
         }
     ],
     "wof:id":404547125,
-    "wof:lastmodified":1566602975,
+    "wof:lastmodified":1695877704,
     "wof:name":"Dale",
     "wof:parent_id":102048985,
     "wof:placetype":"localadmin",

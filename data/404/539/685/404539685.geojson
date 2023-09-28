@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008979,
-    "geom:area_square_m":86999984.823294,
+    "geom:area_square_m":86999984.823267,
     "geom:bbox":"142.681352992,-38.4571690285,142.851575008,-38.359232008",
     "geom:latitude":-38.411969,
     "geom:longitude":142.766826,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.420249,
     "lbl:longitude":142.786882,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Naringal"
@@ -38,9 +44,12 @@
         102049109
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20982"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"9035fb6f63fa9f88aaecdb777d59683e",
+    "wof:geomhash":"353bca6552e6af7d4dff5f147edbfec1",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404539685,
-    "wof:lastmodified":1566602394,
+    "wof:lastmodified":1695877352,
     "wof:name":"Naringal",
     "wof:parent_id":102049109,
     "wof:placetype":"localadmin",

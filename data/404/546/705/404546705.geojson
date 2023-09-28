@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003736,
-    "geom:area_square_m":38422949.160192,
+    "geom:area_square_m":38422949.160181,
     "geom:bbox":"115.265520992,-33.7370369965,115.369924,-33.6814570025",
     "geom:latitude":-33.711972,
     "geom:longitude":115.317967,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.710117,
     "lbl:longitude":115.32741,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cym_x_preferred":[
         "Ambergate"
@@ -51,9 +57,12 @@
         102048623
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50008"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"0a833d6314c4fc762f7bc38eee381090",
+    "wof:geomhash":"a65c229fc2648afdbb8f22b7bc5a8e28",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -66,7 +75,7 @@
         }
     ],
     "wof:id":404546705,
-    "wof:lastmodified":1566603129,
+    "wof:lastmodified":1695877782,
     "wof:name":"Ambergate",
     "wof:parent_id":102048623,
     "wof:placetype":"localadmin",

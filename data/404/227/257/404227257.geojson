@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00118,
-    "geom:area_square_m":12704819.2907,
+    "geom:area_square_m":12704869.753102,
     "geom:bbox":"153.311435,-29.453039,153.372819,-29.414557",
     "geom:latitude":-29.435776,
     "geom:longitude":153.33806,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-29.435005,
     "lbl:longitude":153.329906,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u0987\u09df\u09be\u09ae\u09cd\u09ac\u09be"
@@ -101,12 +107,15 @@
         102048835
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12592"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932441
     ],
     "wof:country":"AU",
-    "wof:geomhash":"3982c0a6a9e521fe916ad38a26eb77f2",
+    "wof:geomhash":"e18670930b6225f786c9dfe6f0f28e08",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -118,7 +127,7 @@
         }
     ],
     "wof:id":404227257,
-    "wof:lastmodified":1636494609,
+    "wof:lastmodified":1695877847,
     "wof:name":"Yamba",
     "wof:parent_id":102048835,
     "wof:placetype":"localadmin",

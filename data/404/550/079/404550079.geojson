@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000412,
-    "geom:area_square_m":4159777.140915,
+    "geom:area_square_m":4159777.140903,
     "geom:bbox":"149.098146976,-35.1862083375,149.128586688,-35.156512748",
     "geom:latitude":-35.172803,
     "geom:longitude":149.111466,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.172297,
     "lbl:longitude":149.110197,
     "lbl:max_zoom":18.0,
@@ -50,13 +56,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC80074",
         "wd:id":"Q1217662"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938861
     ],
     "wof:country":"AU",
-    "wof:geomhash":"760275484e59ac8aefce511d80075602",
+    "wof:geomhash":"59829acd8a45e885ae39ce8510d98cb1",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -67,7 +75,7 @@
         }
     ],
     "wof:id":404550079,
-    "wof:lastmodified":1566601925,
+    "wof:lastmodified":1695877891,
     "wof:name":"Ngunnawal",
     "wof:parent_id":85681493,
     "wof:placetype":"localadmin",

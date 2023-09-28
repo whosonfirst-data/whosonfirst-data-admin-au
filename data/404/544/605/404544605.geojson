@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006647,
-    "geom:area_square_m":73579447.113505,
+    "geom:area_square_m":73579447.11351,
     "geom:bbox":"151.90261712,-26.511657035,152.022224,-26.4176339115",
     "geom:latitude":-26.457231,
     "geom:longitude":151.96235,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-26.459819,
     "lbl:longitude":151.96348,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Wattle Camp"
@@ -38,9 +44,12 @@
         102048861
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31737"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"34cb517fdfa717a9894ced81c983aa50",
+    "wof:geomhash":"7b0b55c9993302e006fbccf4230ebbaf",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404544605,
-    "wof:lastmodified":1566602163,
+    "wof:lastmodified":1695877224,
     "wof:name":"Wattle Camp",
     "wof:parent_id":102048861,
     "wof:placetype":"localadmin",

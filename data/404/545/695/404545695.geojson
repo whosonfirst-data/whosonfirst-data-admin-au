@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003984,
-    "geom:area_square_m":40643491.860125,
+    "geom:area_square_m":40643491.860154,
     "geom:bbox":"140.561816224,-34.445207543,140.662581184,-34.391448763",
     "geom:latitude":-34.417308,
     "geom:longitude":140.621356,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.419624,
     "lbl:longitude":140.625439,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Loxton North"
@@ -38,9 +44,12 @@
         102049421
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40384"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"8eaa0da17ae7f2417b2c59f7ec922167",
+    "wof:geomhash":"dbaac5f6dc95b7b32d37a616daab9de0",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404545695,
-    "wof:lastmodified":1566602224,
+    "wof:lastmodified":1695877254,
     "wof:name":"Loxton North",
     "wof:parent_id":102049421,
     "wof:placetype":"localadmin",

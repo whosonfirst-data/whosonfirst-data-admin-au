@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.062974,
-    "geom:area_square_m":666232658.605264,
+    "geom:area_square_m":666232658.605387,
     "geom:bbox":"116.271140992,-31.311745919,116.636915616,-30.9889019935",
     "geom:latitude":-31.175852,
     "geom:longitude":116.449191,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.212544,
     "lbl:longitude":116.479758,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bolgart"
@@ -38,9 +44,12 @@
         102049115
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50074"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"382c90847586c1d71d8f3a754da76c61",
+    "wof:geomhash":"b5e668061e3569ad78c48d1dfee7cc5d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404546853,
-    "wof:lastmodified":1566603144,
+    "wof:lastmodified":1695877787,
     "wof:name":"Bolgart",
     "wof:parent_id":102049115,
     "wof:placetype":"localadmin",

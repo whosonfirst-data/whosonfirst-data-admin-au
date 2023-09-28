@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000077,
-    "geom:area_square_m":774079.20277,
+    "geom:area_square_m":774079.202771,
     "geom:bbox":"150.65786416,-35.1182799265,150.6658,-35.103370277",
     "geom:latitude":-35.110916,
     "geom:longitude":150.661753,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.110585,
     "lbl:longitude":150.661674,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bream Beach"
@@ -38,12 +44,15 @@
         102049405
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10330"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101929697
     ],
     "wof:country":"AU",
-    "wof:geomhash":"4a25bd85ba3e169907bdcab5da810ff0",
+    "wof:geomhash":"1ae85bdfe4f4b393dce2b5029b6234d2",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404222167,
-    "wof:lastmodified":1566602750,
+    "wof:lastmodified":1695877560,
     "wof:name":"Bream Beach",
     "wof:parent_id":102049405,
     "wof:placetype":"localadmin",

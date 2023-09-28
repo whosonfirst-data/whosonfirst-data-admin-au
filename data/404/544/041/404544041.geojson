@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000729,
-    "geom:area_square_m":7989730.037188,
+    "geom:area_square_m":7989730.037198,
     "geom:bbox":"153.157402336,-27.667361433,153.193572608,-27.6341589835",
     "geom:latitude":-27.649801,
     "geom:longitude":153.177534,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.649869,
     "lbl:longitude":153.177879,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Shailer Park"
@@ -39,12 +45,15 @@
         102048665
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31469"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935293
     ],
     "wof:country":"AU",
-    "wof:geomhash":"7724612f765bb82e9dec47c73fd960b3",
+    "wof:geomhash":"8ec0cf5cfc31186ee47ea72633ccf0d6",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404544041,
-    "wof:lastmodified":1566602155,
+    "wof:lastmodified":1695877219,
     "wof:name":"Shailer Park",
     "wof:parent_id":102048665,
     "wof:placetype":"localadmin",

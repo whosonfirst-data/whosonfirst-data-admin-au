@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003132,
-    "geom:area_square_m":32224794.687866,
+    "geom:area_square_m":32224794.687876,
     "geom:bbox":"115.36746608,-33.703378966,115.447297984,-33.637708998",
     "geom:latitude":-33.674961,
     "geom:longitude":115.414491,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.676968,
     "lbl:longitude":115.414486,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Yalyalup"
@@ -39,9 +45,12 @@
         102048623
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50875"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"6f550a57d3d48560bc981c16ddde7be5",
+    "wof:geomhash":"92a908d9f3748dff18d1f2f75986978e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":404548643,
-    "wof:lastmodified":1566603168,
+    "wof:lastmodified":1695877798,
     "wof:name":"Yalyalup",
     "wof:parent_id":102048623,
     "wof:placetype":"localadmin",

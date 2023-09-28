@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000117,
-    "geom:area_square_m":1199519.868301,
+    "geom:area_square_m":1199519.868303,
     "geom:bbox":"151.242233856,-33.792379654,151.260728992,-33.781572176",
     "geom:latitude":-33.786738,
     "geom:longitude":151.251431,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.787422,
     "lbl:longitude":151.252055,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "North Balgowlah"
@@ -39,12 +45,15 @@
         102049493
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11737"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931429
     ],
     "wof:country":"AU",
-    "wof:geomhash":"28a86c06fa7016e3a1e35ea9445b6e62",
+    "wof:geomhash":"78bad2a2eec04c82fb38d98c7b5d1ea1",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404225333,
-    "wof:lastmodified":1566602708,
+    "wof:lastmodified":1695877532,
     "wof:name":"North Balgowlah",
     "wof:parent_id":102049493,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.109414,
-    "geom:area_square_m":1118763136.880113,
+    "geom:area_square_m":1118763136.880443,
     "geom:bbox":"135.241088736,-34.3793870035,135.777685184,-34.054779991",
     "geom:latitude":-34.216327,
     "geom:longitude":135.52534,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.206958,
     "lbl:longitude":135.503568,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u06a9\u0627\u0645\u06cc\u0646\u0632"
@@ -98,9 +104,12 @@
         102049451
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40147"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"0e0f6b67670a1ad9ecd3c89d1937df60",
+    "wof:geomhash":"223b80e761d2553a7d98328f636b9dc6",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -112,7 +121,7 @@
         }
     ],
     "wof:id":404545179,
-    "wof:lastmodified":1566602253,
+    "wof:lastmodified":1695877266,
     "wof:name":"Cummins",
     "wof:parent_id":102049451,
     "wof:placetype":"localadmin",

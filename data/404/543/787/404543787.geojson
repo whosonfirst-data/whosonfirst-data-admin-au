@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000546,
-    "geom:area_square_m":6478159.288324,
+    "geom:area_square_m":6478159.941261,
     "geom:bbox":"145.454122,-16.530062,145.475903,-16.477079",
     "geom:latitude":-16.504978,
     "geom:longitude":145.464399,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-16.499911,
     "lbl:longitude":145.462419,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0648\u0631\u062a \u062f\u0648\u063a\u0644\u0627\u0633"
@@ -116,12 +122,15 @@
         102048911
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31345"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935153
     ],
     "wof:country":"AU",
-    "wof:geomhash":"e6d7ae8c405b35ab5e61d4c735d11e1a",
+    "wof:geomhash":"5f1e5fa4942246fcd747b691db4ea2f7",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -133,7 +142,7 @@
         }
     ],
     "wof:id":404543787,
-    "wof:lastmodified":1636494619,
+    "wof:lastmodified":1695877851,
     "wof:name":"Port Douglas",
     "wof:parent_id":102048911,
     "wof:placetype":"localadmin",

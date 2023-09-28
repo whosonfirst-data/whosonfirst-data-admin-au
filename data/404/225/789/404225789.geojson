@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.22352,
-    "geom:area_square_m":2398734723.82333,
+    "geom:area_square_m":2398734723.823975,
     "geom:bbox":"152.168298816,-30.194925006,152.827227136,-29.510348009",
     "geom:latitude":-29.785472,
     "geom:longitude":152.492298,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-29.742237,
     "lbl:longitude":152.487357,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ramornie"
@@ -38,9 +44,12 @@
         102048835
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11940"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"e48b5c93db3b2b744c635b1ee542b0a3",
+    "wof:geomhash":"884fbf8d0b967c4b8d8d4472798e1ff4",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404225789,
-    "wof:lastmodified":1566602736,
+    "wof:lastmodified":1695877551,
     "wof:name":"Ramornie",
     "wof:parent_id":102048835,
     "wof:placetype":"localadmin",

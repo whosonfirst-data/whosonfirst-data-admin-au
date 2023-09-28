@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018649,
-    "geom:area_square_m":203037235.939909,
+    "geom:area_square_m":203037235.940031,
     "geom:bbox":"152.019,-28.4035550025,152.224020992,-28.2114120045",
     "geom:latitude":-28.299573,
     "geom:longitude":152.104275,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.30723,
     "lbl:longitude":152.104304,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Junabee"
@@ -39,9 +45,12 @@
         102048963
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30833"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"de512d36eabec3818ad668a3e2343430",
+    "wof:geomhash":"9a57cfe43938d98c85f03ee7f2e2bd86",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":404542695,
-    "wof:lastmodified":1566602280,
+    "wof:lastmodified":1695877282,
     "wof:name":"Junabee",
     "wof:parent_id":102048963,
     "wof:placetype":"localadmin",

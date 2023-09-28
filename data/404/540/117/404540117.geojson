@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000619,
-    "geom:area_square_m":6004453.0369,
+    "geom:area_square_m":6004453.036892,
     "geom:bbox":"144.973078912,-38.329928378,145.026627712,-38.302080661",
     "geom:latitude":-38.315348,
     "geom:longitude":145.000266,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.314306,
     "lbl:longitude":145.000666,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Safety Beach"
@@ -41,12 +47,15 @@
         102048695
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21177"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101933481
     ],
     "wof:country":"AU",
-    "wof:geomhash":"0913639967d0fc3d01d1ba02d726216f",
+    "wof:geomhash":"cfc1274f56eea331feead079bb94bc54",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404540117,
-    "wof:lastmodified":1566603012,
+    "wof:lastmodified":1695877725,
     "wof:name":"Safety Beach",
     "wof:parent_id":102048695,
     "wof:placetype":"localadmin",

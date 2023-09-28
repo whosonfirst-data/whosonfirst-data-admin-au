@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.04484,
-    "geom:area_square_m":457822609.374145,
+    "geom:area_square_m":457822609.374111,
     "geom:bbox":"137.471467264,-34.4296899095,137.834362016,-34.2339597985",
     "geom:latitude":-34.339685,
     "geom:longitude":137.647524,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.342473,
     "lbl:longitude":137.605231,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Balgowan"
@@ -47,9 +53,12 @@
         102049327
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40032"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"aac4fd25facea24c29c94aa36d0cc16c",
+    "wof:geomhash":"0e4344a15076712f1697bdaf2d9312f7",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":404544925,
-    "wof:lastmodified":1566602176,
+    "wof:lastmodified":1695877232,
     "wof:name":"Balgowan",
     "wof:parent_id":102049327,
     "wof:placetype":"localadmin",

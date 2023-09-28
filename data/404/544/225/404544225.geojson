@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000095,
-    "geom:area_square_m":1097765.826956,
+    "geom:area_square_m":1097765.826958,
     "geom:bbox":"139.500904448,-20.715533479,139.5145752,-20.7053324495",
     "geom:latitude":-20.710263,
     "geom:longitude":139.508236,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-20.709928,
     "lbl:longitude":139.508367,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u063a\u0631\u0648\u0628"
@@ -239,12 +245,15 @@
         102049087
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31556"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935403
     ],
     "wof:country":"AU",
-    "wof:geomhash":"10cd2885d5c64592ea555cb1b88ea6a8",
+    "wof:geomhash":"2d49ee999ba3af8168f4d71ea2b7104f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -256,7 +265,7 @@
         }
     ],
     "wof:id":404544225,
-    "wof:lastmodified":1566602190,
+    "wof:lastmodified":1695877238,
     "wof:name":"Sunset",
     "wof:parent_id":102049087,
     "wof:placetype":"localadmin",

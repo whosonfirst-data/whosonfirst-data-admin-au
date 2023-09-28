@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005254,
-    "geom:area_square_m":59676444.636681,
+    "geom:area_square_m":59676444.636686,
     "geom:bbox":"150.422509312,-23.3405763085,150.510071776,-23.2188659925",
     "geom:latitude":-23.274007,
     "geom:longitude":150.462664,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-23.286527,
     "lbl:longitude":150.458412,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Glenlee"
@@ -50,9 +56,12 @@
         102048825
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30664"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"91a901c29943435d2df2a43446f335fc",
+    "wof:geomhash":"4ecd2908eb0842ae3dc2e8b81c396dbb",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":404542333,
-    "wof:lastmodified":1566602294,
+    "wof:lastmodified":1695877289,
     "wof:name":"Glenlee",
     "wof:parent_id":102048825,
     "wof:placetype":"localadmin",

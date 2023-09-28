@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000056,
-    "geom:area_square_m":598124.223586,
+    "geom:area_square_m":598124.223579,
     "geom:bbox":"153.329250528,-29.6149861735,153.342783936,-29.5996151895",
     "geom:latitude":-29.608013,
     "geom:longitude":153.336029,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-29.611358,
     "lbl:longitude":153.338384,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Brooms Head"
@@ -38,12 +44,15 @@
         102048835
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10356"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101929715
     ],
     "wof:country":"AU",
-    "wof:geomhash":"793423d04d1e2ec3b705b6c12f644656",
+    "wof:geomhash":"272af87d0fc9db1823c0ea004c237f1d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404222225,
-    "wof:lastmodified":1566602796,
+    "wof:lastmodified":1695877590,
     "wof:name":"Brooms Head",
     "wof:parent_id":102048835,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000105,
-    "geom:area_square_m":977027.495385,
+    "geom:area_square_m":977027.495384,
     "geom:bbox":"145.8384192,-41.046229839,145.864978176,-41.0381929765",
     "geom:latitude":-41.041925,
     "geom:longitude":145.849736,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-41.042389,
     "lbl:longitude":145.847536,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ocean Vista"
@@ -38,12 +44,15 @@
         102049367
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60259"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938207
     ],
     "wof:country":"AU",
-    "wof:geomhash":"04420c5384663dbebd8306944f1fafc4",
+    "wof:geomhash":"780eb158575a220e7d4323cf47f1835e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404549251,
-    "wof:lastmodified":1566602851,
+    "wof:lastmodified":1695877627,
     "wof:name":"Ocean Vista",
     "wof:parent_id":102049367,
     "wof:placetype":"localadmin",

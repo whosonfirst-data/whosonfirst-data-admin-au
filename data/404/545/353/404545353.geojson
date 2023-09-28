@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028894,
-    "geom:area_square_m":298295973.725602,
+    "geom:area_square_m":298295955.241058,
     "geom:bbox":"138.258781,-33.474446,138.5436,-33.308559",
     "geom:latitude":-33.394812,
     "geom:longitude":138.371314,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.377079,
     "lbl:longitude":138.371356,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Georgetown"
@@ -216,9 +222,12 @@
         102049313
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40224"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"7c85ea80f5b1feb190f56fbeec97c366",
+    "wof:geomhash":"1db2c45f1eeea8b2b0cfd387be058b6e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -230,7 +239,7 @@
         }
     ],
     "wof:id":404545353,
-    "wof:lastmodified":1636494624,
+    "wof:lastmodified":1695877854,
     "wof:name":"Georgetown",
     "wof:parent_id":102049313,
     "wof:placetype":"localadmin",

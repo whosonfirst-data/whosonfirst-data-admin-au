@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012406,
-    "geom:area_square_m":137201518.788075,
+    "geom:area_square_m":137201518.788181,
     "geom:bbox":"151.617392992,-26.6404779925,151.809336,-26.5263980015",
     "geom:latitude":-26.573006,
     "geom:longitude":151.713812,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-26.572567,
     "lbl:longitude":151.713998,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Inverlaw"
@@ -38,9 +44,12 @@
         102048861
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30806"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"80aff0fb0084ef4bce6ab6685e6d0d30",
+    "wof:geomhash":"34c44fe727f130ccf96dff186f672854",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404542635,
-    "wof:lastmodified":1566602279,
+    "wof:lastmodified":1695877281,
     "wof:name":"Inverlaw",
     "wof:parent_id":102048861,
     "wof:placetype":"localadmin",

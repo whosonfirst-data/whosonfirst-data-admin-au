@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000599,
-    "geom:area_square_m":6911331.353925,
+    "geom:area_square_m":6911331.353921,
     "geom:bbox":"149.1612328,-21.1794379065,149.19499008,-21.150191978",
     "geom:latitude":-21.164814,
     "geom:longitude":149.181163,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-21.162518,
     "lbl:longitude":149.18149,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "South Mackay"
@@ -38,12 +44,15 @@
         102048783
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31500"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935331
     ],
     "wof:country":"AU",
-    "wof:geomhash":"8189292b9ef1f2d8deb02ed4bd75459e",
+    "wof:geomhash":"dc3d6431d0e9ab2874dafdf42d7f5acb",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404544111,
-    "wof:lastmodified":1566602173,
+    "wof:lastmodified":1695877229,
     "wof:name":"South Mackay",
     "wof:parent_id":102048783,
     "wof:placetype":"localadmin",

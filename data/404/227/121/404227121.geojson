@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015979,
-    "geom:area_square_m":165815983.339404,
+    "geom:area_square_m":165815983.339511,
     "geom:bbox":"151.00608752,-33.006748997,151.210844096,-32.862317055",
     "geom:latitude":-32.940282,
     "geom:longitude":151.107612,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.931196,
     "lbl:longitude":151.100646,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Wollombi"
@@ -38,9 +44,12 @@
         102048575
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12532"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"148dc0757373f3fa3adbbe68451f7389",
+    "wof:geomhash":"bd3af965abf23f707ff5d6b73571c043",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404227121,
-    "wof:lastmodified":1566601948,
+    "wof:lastmodified":1695877107,
     "wof:name":"Wollombi",
     "wof:parent_id":102048575,
     "wof:placetype":"localadmin",

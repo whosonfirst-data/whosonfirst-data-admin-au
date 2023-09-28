@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000183,
-    "geom:area_square_m":1899801.925884,
+    "geom:area_square_m":1899801.925883,
     "geom:bbox":"118.443545792,-33.1058618405,118.484361184,-33.0982258915",
     "geom:latitude":-33.102027,
     "geom:longitude":118.464037,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.102247,
     "lbl:longitude":118.464337,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lake Grace"
@@ -38,12 +44,15 @@
         102048857
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50422"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937391
     ],
     "wof:country":"AU",
-    "wof:geomhash":"e5eb47255c5cb451182994b90cbc2812",
+    "wof:geomhash":"23ed09561dff96850a133d56e8d68a03",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404547631,
-    "wof:lastmodified":1566602970,
+    "wof:lastmodified":1695877701,
     "wof:name":"Lake Grace",
     "wof:parent_id":102048857,
     "wof:placetype":"localadmin",

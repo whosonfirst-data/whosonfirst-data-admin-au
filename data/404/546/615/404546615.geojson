@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004103,
-    "geom:area_square_m":41900028.378089,
+    "geom:area_square_m":41900028.378096,
     "geom:bbox":"140.500626016,-34.3571979925,140.599727328,-34.284099701",
     "geom:latitude":-34.315928,
     "geom:longitude":140.551159,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.321373,
     "lbl:longitude":140.546296,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Winkie"
@@ -41,9 +47,12 @@
         102048599
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40812"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"8a982343f534ea0871c2f50cfc1fec6c",
+    "wof:geomhash":"724a4251d06cc32bfb39bf49ec0a97f4",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404546615,
-    "wof:lastmodified":1566603140,
+    "wof:lastmodified":1695877786,
     "wof:name":"Winkie",
     "wof:parent_id":102048599,
     "wof:placetype":"localadmin",

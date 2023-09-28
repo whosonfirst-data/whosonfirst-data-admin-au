@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00262,
-    "geom:area_square_m":25309873.179827,
+    "geom:area_square_m":25309873.179796,
     "geom:bbox":"145.524227328,-38.664256678,145.60430592,-38.5861042975",
     "geom:latitude":-38.622454,
     "geom:longitude":145.5646,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.63922,
     "lbl:longitude":145.575188,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Harmers Haven"
@@ -38,9 +44,12 @@
         102049085
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20595"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"822fb0dbbc2d9ca43084880fb8636073",
+    "wof:geomhash":"e612280dc2bb956c768b3bb8236cb6be",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404538819,
-    "wof:lastmodified":1566602436,
+    "wof:lastmodified":1695877378,
     "wof:name":"Harmers Haven",
     "wof:parent_id":102049085,
     "wof:placetype":"localadmin",

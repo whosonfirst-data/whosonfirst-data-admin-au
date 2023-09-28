@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.979081,
-    "geom:area_square_m":23524335347.144188,
+    "geom:area_square_m":23524335347.144585,
     "geom:bbox":"129.000439712,-17.146071995,130.378304,-14.839052324",
     "geom:latitude":-15.982797,
     "geom:longitude":129.499581,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-15.991682,
     "lbl:longitude":129.489097,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Baines"
@@ -38,9 +44,12 @@
         102049217
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC70017"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"d3082461eae48186e9f044400c5b3d09",
+    "wof:geomhash":"c1db0f219be3769c2b0a10308f26b919",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404549637,
-    "wof:lastmodified":1566602901,
+    "wof:lastmodified":1695877662,
     "wof:name":"Baines",
     "wof:parent_id":102049217,
     "wof:placetype":"localadmin",

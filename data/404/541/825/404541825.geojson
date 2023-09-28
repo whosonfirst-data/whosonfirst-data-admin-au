@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00223,
-    "geom:area_square_m":24695149.662367,
+    "geom:area_square_m":24695149.662419,
     "geom:bbox":"152.86755,-26.469828683,152.937110016,-26.397812438",
     "geom:latitude":-26.433753,
     "geom:longitude":152.900857,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-26.433642,
     "lbl:longitude":152.900337,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Cooroy"
@@ -39,9 +45,12 @@
         102049303
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30420"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"62cd616c7b8e88f2f06dd56960120b33",
+    "wof:geomhash":"65d122d1beeb44b904dea309d46db7fb",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":404541825,
-    "wof:lastmodified":1566603086,
+    "wof:lastmodified":1695877764,
     "wof:name":"Cooroy",
     "wof:parent_id":102049303,
     "wof:placetype":"localadmin",

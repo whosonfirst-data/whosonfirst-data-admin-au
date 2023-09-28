@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00044,
-    "geom:area_square_m":4300681.649149,
+    "geom:area_square_m":4300681.649145,
     "geom:bbox":"146.231742496,-37.856191811,146.279426144,-37.8318307705",
     "geom:latitude":-37.841461,
     "geom:longitude":146.258001,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.840542,
     "lbl:longitude":146.257639,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Baw Baw Village"
@@ -37,12 +43,15 @@
         85681497
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20088"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932557
     ],
     "wof:country":"AU",
-    "wof:geomhash":"546b9339fc040044cfc40bbf81c4a0f2",
+    "wof:geomhash":"ddc1beb56b1d2391d19d18ae854159c3",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":404537689,
-    "wof:lastmodified":1566602325,
+    "wof:lastmodified":1695877309,
     "wof:name":"Baw Baw Village",
     "wof:parent_id":85681497,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000573,
-    "geom:area_square_m":6730439.334243,
+    "geom:area_square_m":6730439.334252,
     "geom:bbox":"130.620292704,-18.3422751685,130.655668416,-18.3233017905",
     "geom:latitude":-18.332401,
     "geom:longitude":130.640291,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-18.332785,
     "lbl:longitude":130.640287,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lajamanu"
@@ -38,12 +44,15 @@
         102049183
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC70105"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938523
     ],
     "wof:country":"AU",
-    "wof:geomhash":"1f0cc319d458d4fef2017896384e5758",
+    "wof:geomhash":"29511502da6cd2c174ac3712dfc78da9",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404549759,
-    "wof:lastmodified":1566602875,
+    "wof:lastmodified":1695877641,
     "wof:name":"Lajamanu",
     "wof:parent_id":102049183,
     "wof:placetype":"localadmin",

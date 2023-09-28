@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.164284,
-    "geom:area_square_m":1659539056.088044,
+    "geom:area_square_m":1659539056.088817,
     "geom:bbox":"146.35422576,-35.5139042025,147.000416992,-34.899853997",
     "geom:latitude":-35.220164,
     "geom:longitude":146.662883,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.344002,
     "lbl:longitude":146.528617,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Lockhart"
@@ -92,9 +98,12 @@
         102048617
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11396"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"a2b897885209e0625c5c5666778d576d",
+    "wof:geomhash":"24c3e8ea2db32f3eac973e2d6731fd48",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -106,7 +115,7 @@
         }
     ],
     "wof:id":404224565,
-    "wof:lastmodified":1566602618,
+    "wof:lastmodified":1695877485,
     "wof:name":"Lockhart",
     "wof:parent_id":102048617,
     "wof:placetype":"localadmin",

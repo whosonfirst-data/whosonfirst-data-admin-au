@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000783,
-    "geom:area_square_m":7882045.015375,
+    "geom:area_square_m":7882045.015377,
     "geom:bbox":"138.788378016,-35.4990499975,138.829092,-35.469284996",
     "geom:latitude":-35.484711,
     "geom:longitude":138.808804,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.485584,
     "lbl:longitude":138.809188,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Goolwa North"
@@ -38,9 +44,12 @@
         102048815
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40252"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"c51a18cce7198957030351d9c1d83fd3",
+    "wof:geomhash":"54b6effd136df3078e83db7783a49714",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404545413,
-    "wof:lastmodified":1566602216,
+    "wof:lastmodified":1695877250,
     "wof:name":"Goolwa North",
     "wof:parent_id":102048815,
     "wof:placetype":"localadmin",

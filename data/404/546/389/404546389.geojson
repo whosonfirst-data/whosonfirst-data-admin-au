@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006699,
-    "geom:area_square_m":68233789.636533,
+    "geom:area_square_m":68233789.636532,
     "geom:bbox":"138.861281152,-34.585017038,139.01473776,-34.4876296525",
     "geom:latitude":-34.533617,
     "geom:longitude":138.927889,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.542379,
     "lbl:longitude":138.913923,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tanunda"
@@ -38,9 +44,12 @@
         102049171
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40709"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"479e451f5a21c2f696fdf9394a483c8d",
+    "wof:geomhash":"b4a61b77f3abe21aff511fdfe4a56a5a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404546389,
-    "wof:lastmodified":1566603150,
+    "wof:lastmodified":1695877790,
     "wof:name":"Tanunda",
     "wof:parent_id":102049171,
     "wof:placetype":"localadmin",

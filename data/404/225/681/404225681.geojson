@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000275,
-    "geom:area_square_m":2740132.414571,
+    "geom:area_square_m":2740132.414568,
     "geom:bbox":"149.141392992,-36.240841001,149.161366208,-36.2226930005",
     "geom:latitude":-36.231512,
     "geom:longitude":149.151041,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.231621,
     "lbl:longitude":149.151059,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Polo Flat"
@@ -38,12 +44,15 @@
         102048491
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11892"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931617
     ],
     "wof:country":"AU",
-    "wof:geomhash":"5cdaa23bde3af9adfca135538f8e538c",
+    "wof:geomhash":"4afa0a4c4eb70d376cde8a630b514ef2",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404225681,
-    "wof:lastmodified":1566602669,
+    "wof:lastmodified":1695877513,
     "wof:name":"Polo Flat",
     "wof:parent_id":102048491,
     "wof:placetype":"localadmin",

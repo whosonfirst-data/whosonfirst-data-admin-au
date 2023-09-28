@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.015548,
-    "geom:area_square_m":47489012985.331062,
+    "geom:area_square_m":47489012985.327492,
     "geom:bbox":"142.17439872,-18.2161330295,145.339232992,-16.042535747",
     "geom:latitude":-16.971503,
     "geom:longitude":143.789315,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-16.904655,
     "lbl:longitude":143.790781,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mount Carbine"
@@ -38,9 +44,12 @@
         102048519
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31118"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"a8e0066f9b3061ca3b48afb814dc11f0",
+    "wof:geomhash":"169a8521f3a1ecfacafb300d874da78c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404543293,
-    "wof:lastmodified":1566602110,
+    "wof:lastmodified":1695877196,
     "wof:name":"Mount Carbine",
     "wof:parent_id":102048519,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.049185,
-    "geom:area_square_m":492401073.916247,
+    "geom:area_square_m":492401073.916535,
     "geom:bbox":"145.944082816,-36.0478096145,146.320602016,-35.8182689405",
     "geom:latitude":-35.940197,
     "geom:longitude":146.117408,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.937617,
     "lbl:longitude":146.114479,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Collendina"
@@ -38,9 +44,12 @@
         102048635
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10560"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"f1e6a368810117bd50c27855727e8e57",
+    "wof:geomhash":"07170ea35b1a5d82d4fb1054cb383c51",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404222685,
-    "wof:lastmodified":1566602792,
+    "wof:lastmodified":1695877587,
     "wof:name":"Collendina",
     "wof:parent_id":102048635,
     "wof:placetype":"localadmin",

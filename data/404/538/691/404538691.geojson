@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007304,
-    "geom:area_square_m":70781208.993953,
+    "geom:area_square_m":70781208.994094,
     "geom:bbox":"142.942930016,-38.4467220045,143.082370016,-38.34993006",
     "geom:latitude":-38.400311,
     "geom:longitude":143.008725,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.39853,
     "lbl:longitude":143.01931,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Glenfyne"
@@ -38,9 +44,12 @@
         102049319
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20538"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"3b242a8dc11ec8ba5800094caac1a2d8",
+    "wof:geomhash":"f6212cfdc301f54e5128628163573cc2",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404538691,
-    "wof:lastmodified":1566602474,
+    "wof:lastmodified":1695877398,
     "wof:name":"Glenfyne",
     "wof:parent_id":102049319,
     "wof:placetype":"localadmin",

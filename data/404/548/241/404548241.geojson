@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.006246,
-    "geom:area_square_m":32716595569.245865,
+    "geom:area_square_m":32716595569.244564,
     "geom:bbox":"117.773604,-29.612733,120.203322,-27.231052",
     "geom:latitude":-28.336626,
     "geom:longitude":119.172727,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.49881,
     "lbl:longitude":119.18985,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Sandsteen"
@@ -229,19 +235,22 @@
     "qs:source":"Australian Bureau Of Statistics",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681439,
         102191583,
         85632793,
-        102048485,
         136253039,
-        85681439
+        102048485
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50696"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         102048485
     ],
     "wof:country":"AU",
-    "wof:geomhash":"6dc098ee0c3099f2b2462d19a8be78ba",
+    "wof:geomhash":"872bfb2c242a529c97c831de6fe03b70",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -253,7 +262,7 @@
         }
     ],
     "wof:id":404548241,
-    "wof:lastmodified":1608002012,
+    "wof:lastmodified":1695877846,
     "wof:name":"Sandstone",
     "wof:parent_id":102048485,
     "wof:placetype":"localadmin",

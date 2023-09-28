@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003098,
-    "geom:area_square_m":33839361.225733,
+    "geom:area_square_m":33839361.225708,
     "geom:bbox":"152.566384992,-27.964857047,152.655812992,-27.912549999",
     "geom:latitude":-27.938925,
     "geom:longitude":152.610867,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.938973,
     "lbl:longitude":152.610871,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kalbar"
@@ -41,9 +47,12 @@
         102048945
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30838"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"9e9cb3cb2cc8be807750f4df8a404d04",
+    "wof:geomhash":"d7cc636c1c6236a6ca3f2bbdce6dbde4",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404542707,
-    "wof:lastmodified":1566602266,
+    "wof:lastmodified":1695877272,
     "wof:name":"Kalbar",
     "wof:parent_id":102048945,
     "wof:placetype":"localadmin",

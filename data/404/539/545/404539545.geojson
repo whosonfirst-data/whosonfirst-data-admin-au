@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004413,
-    "geom:area_square_m":42853013.292672,
+    "geom:area_square_m":42853013.292659,
     "geom:bbox":"145.070772128,-38.2847020015,145.158204992,-38.204038209",
     "geom:latitude":-38.24703,
     "geom:longitude":145.118995,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.247083,
     "lbl:longitude":145.118165,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Moorooduc"
@@ -38,9 +44,12 @@
         102048695
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20920"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"a32d1a92d6a7f40cc52b2e3eb8301ddc",
+    "wof:geomhash":"4333ce4e7168ccf4a3109cce01b57938",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404539545,
-    "wof:lastmodified":1566602381,
+    "wof:lastmodified":1695877343,
     "wof:name":"Moorooduc",
     "wof:parent_id":102048695,
     "wof:placetype":"localadmin",

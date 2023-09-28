@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003698,
-    "geom:area_square_m":37400225.408122,
+    "geom:area_square_m":37400225.408202,
     "geom:bbox":"143.308655008,-35.167911819,143.391141088,-35.086038996",
     "geom:latitude":-35.126656,
     "geom:longitude":143.344853,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.126052,
     "lbl:longitude":143.345462,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Wood Wood"
@@ -38,9 +44,12 @@
         102049167
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21492"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"e341edeb1d1bd3d1263e2399512467f4",
+    "wof:geomhash":"b5d376eea14b12e01113ebed27369f57",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404540821,
-    "wof:lastmodified":1566602994,
+    "wof:lastmodified":1695877716,
     "wof:name":"Wood Wood",
     "wof:parent_id":102049167,
     "wof:placetype":"localadmin",

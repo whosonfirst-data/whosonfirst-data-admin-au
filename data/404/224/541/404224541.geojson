@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.13757,
-    "geom:area_square_m":1381349783.728939,
+    "geom:area_square_m":1381349783.728989,
     "geom:bbox":"147.357018848,-35.91021,147.819174688,-35.4821861005",
     "geom:latitude":-35.70407,
     "geom:longitude":147.587111,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.709569,
     "lbl:longitude":147.582559,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Little Billabong"
@@ -38,9 +44,12 @@
         102049625
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11385"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"cccbe4adde20362a2767df33c5a4ea49",
+    "wof:geomhash":"2a129976739c711d197317707f81c25d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404224541,
-    "wof:lastmodified":1566602652,
+    "wof:lastmodified":1695877503,
     "wof:name":"Little Billabong",
     "wof:parent_id":102049625,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004163,
-    "geom:area_square_m":44834580.914754,
+    "geom:area_square_m":44834580.914708,
     "geom:bbox":"153.259072992,-29.4846639965,153.333328992,-29.3793249965",
     "geom:latitude":-29.428697,
     "geom:longitude":153.29821,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-29.437465,
     "lbl:longitude":153.29145,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Palmers Island"
@@ -38,9 +44,12 @@
         102048835
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11834"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"4205cc3244ce2618e9d1b1a0e65e3fc5",
+    "wof:geomhash":"f4b6160453642bef3318bb84abeadd66",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404225551,
-    "wof:lastmodified":1566602658,
+    "wof:lastmodified":1695877506,
     "wof:name":"Palmers Island",
     "wof:parent_id":102048835,
     "wof:placetype":"localadmin",

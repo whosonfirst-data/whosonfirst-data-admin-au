@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003307,
-    "geom:area_square_m":35799713.979764,
+    "geom:area_square_m":35799713.979721,
     "geom:bbox":"151.855932,-28.9293071685,151.967415008,-28.875881333",
     "geom:latitude":-28.902248,
     "geom:longitude":151.91617,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.908,
     "lbl:longitude":151.925428,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Wallangarra"
@@ -39,9 +45,12 @@
         102048963
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31714"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"2275954e9eda3bfe9b37ee3f0724918e",
+    "wof:geomhash":"5b1dec7fd4d8768a2f73e1278d6f03b3",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":404544559,
-    "wof:lastmodified":1566602151,
+    "wof:lastmodified":1695877217,
     "wof:name":"Wallangarra",
     "wof:parent_id":102048963,
     "wof:placetype":"localadmin",

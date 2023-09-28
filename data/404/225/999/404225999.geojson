@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004957,
-    "geom:area_square_m":51524464.406666,
+    "geom:area_square_m":51524464.406494,
     "geom:bbox":"151.865584928,-32.8414830025,151.969612992,-32.7474610445",
     "geom:latitude":-32.790274,
     "geom:longitude":151.91859,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.80289,
     "lbl:longitude":151.923728,
     "lbl:max_zoom":18.0,
@@ -42,10 +48,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC12033",
         "wd:id":"Q7405804"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"bc93386948c20151ed1f32ef07cafd47",
+    "wof:geomhash":"13224f7715bcefbb0dad5d3d907c54ed",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +65,7 @@
         }
     ],
     "wof:id":404225999,
-    "wof:lastmodified":1566602667,
+    "wof:lastmodified":1695877985,
     "wof:name":"Salt Ash",
     "wof:parent_id":102049095,
     "wof:placetype":"localadmin",

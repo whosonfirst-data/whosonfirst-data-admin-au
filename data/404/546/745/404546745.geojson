@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007126,
-    "geom:area_square_m":75025216.223815,
+    "geom:area_square_m":75025216.223842,
     "geom:bbox":"116.131736992,-31.6820655065,116.238366368,-31.6000074615",
     "geom:latitude":-31.63607,
     "geom:longitude":116.188734,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.636528,
     "lbl:longitude":116.188743,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Avon Valley National Park"
@@ -56,9 +62,12 @@
         102049575
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50026"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"15db5c15b20c8c745a4023f5bcdaf6db",
+    "wof:geomhash":"bd4bdd2691e132fc4a97aa5835216596",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -70,7 +79,7 @@
         }
     ],
     "wof:id":404546745,
-    "wof:lastmodified":1566603154,
+    "wof:lastmodified":1695877792,
     "wof:name":"Avon Valley National Park",
     "wof:parent_id":102049575,
     "wof:placetype":"localadmin",

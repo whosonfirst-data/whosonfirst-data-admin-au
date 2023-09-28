@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037723,
-    "geom:area_square_m":425110307.036566,
+    "geom:area_square_m":425110307.036836,
     "geom:bbox":"150.206359296,-24.431137008,150.483376992,-24.175778992",
     "geom:latitude":-24.303319,
     "geom:longitude":150.334995,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-24.302619,
     "lbl:longitude":150.348677,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Orange Creek"
@@ -38,9 +44,12 @@
         102049135
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31270"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"e4a9a40fd2d4f0852da0b5ab145179bd",
+    "wof:geomhash":"f46aec865d16199eaad2cb5572f72d6e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404543621,
-    "wof:lastmodified":1566602100,
+    "wof:lastmodified":1695877192,
     "wof:name":"Orange Creek",
     "wof:parent_id":102049135,
     "wof:placetype":"localadmin",

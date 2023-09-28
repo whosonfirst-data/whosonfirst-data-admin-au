@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009155,
-    "geom:area_square_m":94359965.822708,
+    "geom:area_square_m":94359965.822893,
     "geom:bbox":"150.073819008,-33.585310005,150.257670208,-33.4808810015",
     "geom:latitude":-33.539039,
     "geom:longitude":150.177475,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.557393,
     "lbl:longitude":150.160698,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Hartley"
@@ -98,9 +104,12 @@
         102049125
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11079"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"8be80ee00847e74c47f3b4182b6b875b",
+    "wof:geomhash":"366188acd7e78eaed678a0ca1dec1ab9",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -112,7 +121,7 @@
         }
     ],
     "wof:id":404223853,
-    "wof:lastmodified":1566602554,
+    "wof:lastmodified":1695877449,
     "wof:name":"Hartley",
     "wof:parent_id":102049125,
     "wof:placetype":"localadmin",

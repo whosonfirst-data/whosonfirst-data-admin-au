@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000207,
-    "geom:area_square_m":2396536.329201,
+    "geom:area_square_m":2396536.329202,
     "geom:bbox":"139.492040288,-20.7151154715,139.506058016,-20.693959889",
     "geom:latitude":-20.703744,
     "geom:longitude":139.499132,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-20.703921,
     "lbl:longitude":139.499703,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Winston"
@@ -101,12 +107,15 @@
         102049087
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31782"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935643
     ],
     "wof:country":"AU",
-    "wof:geomhash":"c7a1e145911aaf79983598f790141ddd",
+    "wof:geomhash":"0624328a0078f045deddc196387a3152",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -118,7 +127,7 @@
         }
     ],
     "wof:id":404544701,
-    "wof:lastmodified":1566602149,
+    "wof:lastmodified":1695877217,
     "wof:name":"Winston",
     "wof:parent_id":102049087,
     "wof:placetype":"localadmin",

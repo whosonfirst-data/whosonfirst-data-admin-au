@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01962,
-    "geom:area_square_m":191998677.266555,
+    "geom:area_square_m":191998677.266649,
     "geom:bbox":"140.637733312,-37.791396005,140.798103008,-37.5801539955",
     "geom:latitude":-37.683184,
     "geom:longitude":140.72361,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.683738,
     "lbl:longitude":140.724792,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Wandilo"
@@ -38,9 +44,12 @@
         102049129
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40767"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"363a25df2982a79abbefc1eb8b9d02be",
+    "wof:geomhash":"ec88f7185b1860da82f1dc1358a0b575",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404546515,
-    "wof:lastmodified":1566603156,
+    "wof:lastmodified":1695877792,
     "wof:name":"Wandilo",
     "wof:parent_id":102049129,
     "wof:placetype":"localadmin",

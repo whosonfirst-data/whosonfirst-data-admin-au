@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000293,
-    "geom:area_square_m":2980751.962341,
+    "geom:area_square_m":2980751.962342,
     "geom:bbox":"150.318084192,-34.5164370015,150.344240256,-34.499068295",
     "geom:latitude":-34.507219,
     "geom:longitude":150.331884,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.506889,
     "lbl:longitude":150.332142,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "New Berrima"
@@ -39,12 +45,15 @@
         102048539
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11711"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931389
     ],
     "wof:country":"AU",
-    "wof:geomhash":"870132e20d1eb77f4e4a19365f55ca86",
+    "wof:geomhash":"668528e1ea588b880925bd27eea32919",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404225275,
-    "wof:lastmodified":1566602678,
+    "wof:lastmodified":1695877518,
     "wof:name":"New Berrima",
     "wof:parent_id":102048539,
     "wof:placetype":"localadmin",

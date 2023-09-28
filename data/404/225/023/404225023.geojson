@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016837,
-    "geom:area_square_m":169591931.006722,
+    "geom:area_square_m":169591931.007149,
     "geom:bbox":"150.196199168,-35.5684473085,150.390005792,-35.371456996",
     "geom:latitude":-35.452881,
     "geom:longitude":150.286265,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.455195,
     "lbl:longitude":150.279653,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Morton"
@@ -101,9 +107,12 @@
         102049405
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11599"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"d413d0e6ac99420e3666f341ae55b776",
+    "wof:geomhash":"8c16134b7123c0ac46ae81975cf84b69",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -115,7 +124,7 @@
         }
     ],
     "wof:id":404225023,
-    "wof:lastmodified":1566602669,
+    "wof:lastmodified":1695877513,
     "wof:name":"Morton",
     "wof:parent_id":102049405,
     "wof:placetype":"localadmin",

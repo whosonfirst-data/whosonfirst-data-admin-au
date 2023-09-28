@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.067851,
-    "geom:area_square_m":737655082.554899,
+    "geom:area_square_m":737655082.555697,
     "geom:bbox":"152.267599008,-28.686132568,152.631444768,-28.2492435425",
     "geom:latitude":-28.452068,
     "geom:longitude":152.443616,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.429783,
     "lbl:longitude":152.471103,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Urbenville"
@@ -38,9 +44,12 @@
         102048787
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12360"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"f6f4a85c308ca458ecfca76b2e9d74af",
+    "wof:geomhash":"7904bb55a33fdcace9bbc69129a4a87d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404226735,
-    "wof:lastmodified":1566602057,
+    "wof:lastmodified":1695877166,
     "wof:name":"Urbenville",
     "wof:parent_id":102048787,
     "wof:placetype":"localadmin",

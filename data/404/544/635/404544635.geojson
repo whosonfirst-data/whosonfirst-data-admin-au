@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003206,
-    "geom:area_square_m":37451474.430484,
+    "geom:area_square_m":37451474.430618,
     "geom:bbox":"146.779027936,-19.181619003,146.876535008,-19.104813996",
     "geom:latitude":-19.14087,
     "geom:longitude":146.824353,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-19.140135,
     "lbl:longitude":146.821028,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "West Point"
@@ -38,12 +44,15 @@
         102048451
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31751"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935613
     ],
     "wof:country":"AU",
-    "wof:geomhash":"a1de731ac2767d97832d020394ee79d4",
+    "wof:geomhash":"2668946fb114ee35e2161f2656e7d421",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404544635,
-    "wof:lastmodified":1566602167,
+    "wof:lastmodified":1695877226,
     "wof:name":"West Point",
     "wof:parent_id":102048451,
     "wof:placetype":"localadmin",

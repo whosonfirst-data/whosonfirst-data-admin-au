@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000574,
-    "geom:area_square_m":5798409.597861,
+    "geom:area_square_m":5798409.597863,
     "geom:bbox":"149.0733904,-35.2569965525,149.113968672,-35.2310146715",
     "geom:latitude":-35.244053,
     "geom:longitude":149.090829,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.243826,
     "lbl:longitude":149.089442,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Bruce"
@@ -52,12 +58,15 @@
         85681493
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC80011"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938721
     ],
     "wof:country":"AU",
-    "wof:geomhash":"8e876eb5ee4ecda866d3fb8179215249",
+    "wof:geomhash":"81fcd13c1d914ae604254ee96596385d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -68,7 +77,7 @@
         }
     ],
     "wof:id":404549941,
-    "wof:lastmodified":1566602856,
+    "wof:lastmodified":1695877630,
     "wof:name":"Bruce",
     "wof:parent_id":85681493,
     "wof:placetype":"localadmin",

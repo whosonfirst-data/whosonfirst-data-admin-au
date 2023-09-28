@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.053619,
-    "geom:area_square_m":526238583.45713,
+    "geom:area_square_m":526238583.457259,
     "geom:bbox":"140.403656,-37.636807008,140.61023568,-37.321436694",
     "geom:latitude":-37.466691,
     "geom:longitude":140.516436,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.46708,
     "lbl:longitude":140.517909,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Wattle Range"
@@ -38,9 +44,12 @@
         102048639
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40779"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"879d4d1656be2523d2454942992b5101",
+    "wof:geomhash":"6816d8d8d7c40ce7154b907d8e2507ec",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404546543,
-    "wof:lastmodified":1566603126,
+    "wof:lastmodified":1695877780,
     "wof:name":"Wattle Range",
     "wof:parent_id":102048639,
     "wof:placetype":"localadmin",

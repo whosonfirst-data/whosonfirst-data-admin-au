@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014457,
-    "geom:area_square_m":157892632.638723,
+    "geom:area_square_m":157892632.638472,
     "geom:bbox":"152.78027728,-28.0387670075,152.986708992,-27.862939992",
     "geom:latitude":-27.964082,
     "geom:longitude":152.886559,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.969512,
     "lbl:longitude":152.878076,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bromelton"
@@ -38,9 +44,12 @@
         102048945
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30241"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"50bc8b51d8210156a414a8954e4fbdd3",
+    "wof:geomhash":"d30001a7bbb5b083ed240c50443a8655",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404541445,
-    "wof:lastmodified":1566603086,
+    "wof:lastmodified":1695877763,
     "wof:name":"Bromelton",
     "wof:parent_id":102048945,
     "wof:placetype":"localadmin",

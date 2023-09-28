@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000121,
-    "geom:area_square_m":1223981.153193,
+    "geom:area_square_m":1223981.15319,
     "geom:bbox":"138.609811072,-34.9008328505,138.625949088,-34.883860229",
     "geom:latitude":-34.891874,
     "geom:longitude":138.617857,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.89113,
     "lbl:longitude":138.617982,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Walkerville"
@@ -69,12 +75,15 @@
         102049161
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40759"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101936721
     ],
     "wof:country":"AU",
-    "wof:geomhash":"08854da5b4e2421454b1a2a1885e831e",
+    "wof:geomhash":"01d635686435c66a51b2475acd74b448",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -87,7 +96,7 @@
         }
     ],
     "wof:id":404546501,
-    "wof:lastmodified":1566603130,
+    "wof:lastmodified":1695877782,
     "wof:name":"Walkerville",
     "wof:parent_id":102049161,
     "wof:placetype":"localadmin",

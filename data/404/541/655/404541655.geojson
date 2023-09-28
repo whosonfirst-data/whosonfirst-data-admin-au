@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000197,
-    "geom:area_square_m":2302543.384912,
+    "geom:area_square_m":2302543.384894,
     "geom:bbox":"146.788671456,-19.263809064,146.811780512,-19.244957046",
     "geom:latitude":-19.255833,
     "geom:longitude":146.800316,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-19.256659,
     "lbl:longitude":146.799359,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Castle Hill"
@@ -71,12 +77,15 @@
         102048451
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30339"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934149
     ],
     "wof:country":"AU",
-    "wof:geomhash":"dd4a13b326b80d01fde3a47b083ad436",
+    "wof:geomhash":"9282f8296165f463bc23cea8f925bc27",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -88,7 +97,7 @@
         }
     ],
     "wof:id":404541655,
-    "wof:lastmodified":1566603087,
+    "wof:lastmodified":1695877764,
     "wof:name":"Castle Hill",
     "wof:parent_id":102048451,
     "wof:placetype":"localadmin",

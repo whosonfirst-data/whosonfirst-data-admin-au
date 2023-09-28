@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033482,
-    "geom:area_square_m":330728681.346959,
+    "geom:area_square_m":330728681.346883,
     "geom:bbox":"143.240439008,-37.0766881875,143.603659072,-36.9022384785",
     "geom:latitude":-36.981291,
     "geom:longitude":143.420369,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.975778,
     "lbl:longitude":143.450662,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Moonambel"
@@ -38,9 +44,12 @@
         102049485
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20915"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"7be50d0ba4e62900c1ba83f75682a277",
+    "wof:geomhash":"8e321f69853c7744b9e42d5e0c7a7123",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404539535,
-    "wof:lastmodified":1566602358,
+    "wof:lastmodified":1695877330,
     "wof:name":"Moonambel",
     "wof:parent_id":102049485,
     "wof:placetype":"localadmin",

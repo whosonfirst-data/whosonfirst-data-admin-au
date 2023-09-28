@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018025,
-    "geom:area_square_m":181514177.415924,
+    "geom:area_square_m":181514177.415904,
     "geom:bbox":"143.587540992,-35.5434119985,143.81163504,-35.402688992",
     "geom:latitude":-35.474259,
     "geom:longitude":143.68371,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.459437,
     "lbl:longitude":143.70005,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Tresco"
@@ -56,9 +62,12 @@
         102049167
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21371"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"019702c5f22b77fa43afe9c4f0d0e6d0",
+    "wof:geomhash":"e6a98c1007112645fdd3332705c426c3",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -70,7 +79,7 @@
         }
     ],
     "wof:id":404540553,
-    "wof:lastmodified":1566603018,
+    "wof:lastmodified":1695877729,
     "wof:name":"Tresco",
     "wof:parent_id":102049167,
     "wof:placetype":"localadmin",

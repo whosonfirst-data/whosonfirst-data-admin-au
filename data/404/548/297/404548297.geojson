@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000289,
-    "geom:area_square_m":3071071.736096,
+    "geom:area_square_m":3071071.736093,
     "geom:bbox":"121.469219744,-30.7754709345,121.489982048,-30.750414146",
     "geom:latitude":-30.76357,
     "geom:longitude":121.479059,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-30.763259,
     "lbl:longitude":121.478901,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "South Kalgoorlie"
@@ -38,12 +44,15 @@
         102049523
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50721"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937793
     ],
     "wof:country":"AU",
-    "wof:geomhash":"622cffaa572c367df38bd4f3bb78f58e",
+    "wof:geomhash":"e9ce47fd6f7ea05fb68170b1febf4556",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404548297,
-    "wof:lastmodified":1566603225,
+    "wof:lastmodified":1695877830,
     "wof:name":"South Kalgoorlie",
     "wof:parent_id":102049523,
     "wof:placetype":"localadmin",

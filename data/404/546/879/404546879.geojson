@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020647,
-    "geom:area_square_m":212043265.663293,
+    "geom:area_square_m":212043265.663352,
     "geom:bbox":"116.335036992,-33.964494996,116.50526,-33.7589690055",
     "geom:latitude":-33.84569,
     "geom:longitude":116.406206,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.842336,
     "lbl:longitude":116.404604,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Boyup Brook"
@@ -38,9 +44,12 @@
         102048873
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50085"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"f330f0110fa2dc3b7fee8cb635da847f",
+    "wof:geomhash":"7f4098f86d2cab9b8d97b85976dd6189",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404546879,
-    "wof:lastmodified":1566603136,
+    "wof:lastmodified":1695877785,
     "wof:name":"Boyup Brook",
     "wof:parent_id":102048873,
     "wof:placetype":"localadmin",

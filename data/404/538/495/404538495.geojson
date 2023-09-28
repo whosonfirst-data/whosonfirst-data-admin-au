@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000346,
-    "geom:area_square_m":3450221.819702,
+    "geom:area_square_m":3450221.819704,
     "geom:bbox":"146.500173,-36.321468,146.544202,-36.301251",
     "geom:latitude":-36.310121,
     "geom:longitude":146.520958,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.307044,
     "lbl:longitude":146.52278,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u062f\u0648\u0631\u0627\u062f\u0648"
@@ -98,12 +104,15 @@
         102049395
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20450"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932887
     ],
     "wof:country":"AU",
-    "wof:geomhash":"a75322c748f06970a6d508705c58df75",
+    "wof:geomhash":"06facd50d42fc8d7e54077fe4241dda9",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -115,7 +124,7 @@
         }
     ],
     "wof:id":404538495,
-    "wof:lastmodified":1636494641,
+    "wof:lastmodified":1695877861,
     "wof:name":"Eldorado",
     "wof:parent_id":102049395,
     "wof:placetype":"localadmin",

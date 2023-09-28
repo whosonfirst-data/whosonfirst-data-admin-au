@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002387,
-    "geom:area_square_m":23196513.208472,
+    "geom:area_square_m":23196513.208418,
     "geom:bbox":"145.061237888,-38.22489374,145.128751968,-38.1624044215",
     "geom:latitude":-38.195076,
     "geom:longitude":145.092892,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.195062,
     "lbl:longitude":145.093401,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mount Eliza"
@@ -53,12 +59,15 @@
         102048695
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20939"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101933291
     ],
     "wof:country":"AU",
-    "wof:geomhash":"9063d33dbf80c75fbd4eb4617f63bd45",
+    "wof:geomhash":"636eb7633655ff489022b19dc50a48a8",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -70,7 +79,7 @@
         }
     ],
     "wof:id":404539589,
-    "wof:lastmodified":1566602382,
+    "wof:lastmodified":1695877343,
     "wof:name":"Mount Eliza",
     "wof:parent_id":102048695,
     "wof:placetype":"localadmin",

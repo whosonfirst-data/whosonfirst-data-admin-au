@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006327,
-    "geom:area_square_m":69249811.243944,
+    "geom:area_square_m":69249811.243966,
     "geom:bbox":"152.291921184,-27.757978429,152.413490816,-27.6870832285",
     "geom:latitude":-27.721609,
     "geom:longitude":152.351384,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.721683,
     "lbl:longitude":152.356296,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mulgowie"
@@ -38,9 +44,12 @@
         102049033
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31179"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"97cff1c8e5eee8f7603ab2d0fc8bff24",
+    "wof:geomhash":"6c2f1b0ccb8d9d84dab6fe3d108f5638",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404543429,
-    "wof:lastmodified":1566602130,
+    "wof:lastmodified":1695877208,
     "wof:name":"Mulgowie",
     "wof:parent_id":102049033,
     "wof:placetype":"localadmin",

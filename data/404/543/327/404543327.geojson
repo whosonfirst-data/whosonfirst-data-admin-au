@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.120064,
-    "geom:area_square_m":36213048929.036606,
+    "geom:area_square_m":36213048755.195694,
     "geom:bbox":"137.996038,-21.314979,140.032887,-19.13945",
     "geom:latitude":-20.16851,
     "geom:longitude":138.84504,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-20.140102,
     "lbl:longitude":138.776575,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Mount Isa"
@@ -146,9 +152,12 @@
         102049087
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31133"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"f9a27134688a590b05fb82dd29742809",
+    "wof:geomhash":"76f123865aad934d9baaa29cfe3eaffc",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -160,7 +169,7 @@
         }
     ],
     "wof:id":404543327,
-    "wof:lastmodified":1636494618,
+    "wof:lastmodified":1695877851,
     "wof:name":"Mount Isa",
     "wof:parent_id":102049087,
     "wof:placetype":"localadmin",

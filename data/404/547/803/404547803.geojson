@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.118524,
-    "geom:area_square_m":1263836479.280432,
+    "geom:area_square_m":1263836479.28023,
     "geom:bbox":"115.876120672,-30.5682089965,116.514340544,-30.2612199225",
     "geom:latitude":-30.418484,
     "geom:longitude":116.227216,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-30.473065,
     "lbl:longitude":116.296942,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Miling"
@@ -38,9 +44,12 @@
         102048971
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50498"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"fab427268c9be726f4167a590a480f57",
+    "wof:geomhash":"600256d6f600de8db24457b6e530169a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404547803,
-    "wof:lastmodified":1566602936,
+    "wof:lastmodified":1695877680,
     "wof:name":"Miling",
     "wof:parent_id":102048971,
     "wof:placetype":"localadmin",

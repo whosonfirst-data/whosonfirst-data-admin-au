@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000526,
-    "geom:area_square_m":5256953.725378,
+    "geom:area_square_m":5256953.725381,
     "geom:bbox":"146.899368992,-36.0861605215,146.934022016,-36.060885137",
     "geom:latitude":-36.074169,
     "geom:longitude":146.914504,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.07477,
     "lbl:longitude":146.914504,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:amh_x_preferred":[
         "\u12a0\u120d\u1260\u122a"
@@ -153,12 +159,15 @@
         102048675
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10020"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101929375
     ],
     "wof:country":"AU",
-    "wof:geomhash":"3bbffa75f891a1a4b8a01a469759e849",
+    "wof:geomhash":"0d328a0b6c5500679ead72ad0d682e48",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -171,7 +180,7 @@
         }
     ],
     "wof:id":404221469,
-    "wof:lastmodified":1566602000,
+    "wof:lastmodified":1695877132,
     "wof:name":"Albury",
     "wof:parent_id":102048675,
     "wof:placetype":"localadmin",

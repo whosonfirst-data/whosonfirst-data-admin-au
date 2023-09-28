@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006109,
-    "geom:area_square_m":60811083.405873,
+    "geom:area_square_m":60811083.405891,
     "geom:bbox":"149.797302016,-36.439385924,149.8988552,-36.3465250075",
     "geom:latitude":-36.391986,
     "geom:longitude":149.85082,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.391698,
     "lbl:longitude":149.849851,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Cobargo"
@@ -38,9 +44,12 @@
         102049439
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10550"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"882dccfb2ae7cc10d827a1a098f511c8",
+    "wof:geomhash":"f8e9208287f71d697df81d92a59018d8",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404222663,
-    "wof:lastmodified":1566602800,
+    "wof:lastmodified":1695877592,
     "wof:name":"Cobargo",
     "wof:parent_id":102049439,
     "wof:placetype":"localadmin",

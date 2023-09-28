@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004207,
-    "geom:area_square_m":42989728.915683,
+    "geom:area_square_m":42989728.915769,
     "geom:bbox":"150.539305216,-34.319295729,150.623436,-34.2364940025",
     "geom:latitude":-34.278213,
     "geom:longitude":150.583432,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.276873,
     "lbl:longitude":150.584237,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bargo"
@@ -38,9 +44,12 @@
         102048943
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10116"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"b17cc6c4fada1babd0e23681c98a020c",
+    "wof:geomhash":"874ea6bc02684480e0e71c98b1a1ddd9",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404221685,
-    "wof:lastmodified":1566601995,
+    "wof:lastmodified":1695877130,
     "wof:name":"Bargo",
     "wof:parent_id":102048943,
     "wof:placetype":"localadmin",

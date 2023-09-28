@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.209125,
-    "geom:area_square_m":2168237005.595854,
+    "geom:area_square_m":2168237005.595812,
     "geom:bbox":"118.656193984,-33.326379084,119.254875008,-32.741464769",
     "geom:latitude":-33.018389,
     "geom:longitude":118.925677,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.938034,
     "lbl:longitude":118.871478,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Newdegate"
@@ -38,9 +44,12 @@
         102048857
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50575"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"dc7a029e2242985206a524a07974238e",
+    "wof:geomhash":"33bbb9037414a4ccea3ecc0f8362f7d8",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404547977,
-    "wof:lastmodified":1566602942,
+    "wof:lastmodified":1695877684,
     "wof:name":"Newdegate",
     "wof:parent_id":102048857,
     "wof:placetype":"localadmin",

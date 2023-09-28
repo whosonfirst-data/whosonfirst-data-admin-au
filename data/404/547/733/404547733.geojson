@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010799,
-    "geom:area_square_m":109443200.823754,
+    "geom:area_square_m":109443200.823782,
     "geom:bbox":"117.68324976,-35.0165749925,117.820047136,-34.905632546",
     "geom:latitude":-34.958437,
     "geom:longitude":117.758347,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.954479,
     "lbl:longitude":117.759627,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Marbelup"
@@ -38,9 +44,12 @@
         102048671
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50467"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"5b5339a6692663174ed22f7a61974ce3",
+    "wof:geomhash":"50e523eaba6e01ed93c5600738ae6ab6",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404547733,
-    "wof:lastmodified":1566602950,
+    "wof:lastmodified":1695877689,
     "wof:name":"Marbelup",
     "wof:parent_id":102048671,
     "wof:placetype":"localadmin",

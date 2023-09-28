@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.047585,
-    "geom:area_square_m":483354386.506429,
+    "geom:area_square_m":483354386.506564,
     "geom:bbox":"137.456592128,-34.896062422,137.65696992,-34.627449008",
     "geom:latitude":-34.767157,
     "geom:longitude":137.567179,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.770153,
     "lbl:longitude":137.567183,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Minlaton"
@@ -38,9 +44,12 @@
         102049327
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40432"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"1b1897824ed5d57bb2b7b8b5341bb10c",
+    "wof:geomhash":"ac4fdd71c572d5f86e1ba729c86f68ca",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404545801,
-    "wof:lastmodified":1566602249,
+    "wof:lastmodified":1695877265,
     "wof:name":"Minlaton",
     "wof:parent_id":102049327,
     "wof:placetype":"localadmin",

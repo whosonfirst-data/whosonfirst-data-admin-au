@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000606,
-    "geom:area_square_m":7128956.951235,
+    "geom:area_square_m":7128956.951243,
     "geom:bbox":"146.02058256,-17.959584002,146.064858016,-17.936170994",
     "geom:latitude":-17.947293,
     "geom:longitude":146.045747,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-17.947778,
     "lbl:longitude":146.044242,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Carmoo"
@@ -38,12 +44,15 @@
         102049237
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30330"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934137
     ],
     "wof:country":"AU",
-    "wof:geomhash":"c57b7765bdfc1e3404572044074ff98c",
+    "wof:geomhash":"dd5292c3a89682cdb52c4d7fe6836ed2",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404541635,
-    "wof:lastmodified":1566603062,
+    "wof:lastmodified":1695877751,
     "wof:name":"Carmoo",
     "wof:parent_id":102049237,
     "wof:placetype":"localadmin",

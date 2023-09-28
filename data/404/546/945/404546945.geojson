@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000326,
-    "geom:area_square_m":3415362.559966,
+    "geom:area_square_m":3415362.559984,
     "geom:bbox":"115.88423904,-31.97205247,115.903780928,-31.9397740215",
     "geom:latitude":-31.955752,
     "geom:longitude":115.893037,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.956089,
     "lbl:longitude":115.893848,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Burswood"
@@ -39,12 +45,15 @@
         102048663
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50115"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101936963
     ],
     "wof:country":"AU",
-    "wof:geomhash":"d71c1832150ae93dcc2e2ba0dfa4fe93",
+    "wof:geomhash":"69f43d922174c10a39ebe75bee18dc60",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404546945,
-    "wof:lastmodified":1566603152,
+    "wof:lastmodified":1695877791,
     "wof:name":"Burswood",
     "wof:parent_id":102048663,
     "wof:placetype":"localadmin",

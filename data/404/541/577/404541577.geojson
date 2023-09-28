@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000733,
-    "geom:area_square_m":8032142.801113,
+    "geom:area_square_m":8032142.801058,
     "geom:bbox":"152.900879008,-27.657731332,152.939367392,-27.612072999",
     "geom:latitude":-27.634614,
     "geom:longitude":152.920915,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.632715,
     "lbl:longitude":152.922228,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Camira"
@@ -42,12 +48,15 @@
         102048583
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30302"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934107
     ],
     "wof:country":"AU",
-    "wof:geomhash":"823f3751dbba74b7148f6f2888fb61e3",
+    "wof:geomhash":"1fd7f5bb93aa0690493ee0342689bc71",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -60,7 +69,7 @@
         }
     ],
     "wof:id":404541577,
-    "wof:lastmodified":1566603098,
+    "wof:lastmodified":1695877769,
     "wof:name":"Camira",
     "wof:parent_id":102048583,
     "wof:placetype":"localadmin",

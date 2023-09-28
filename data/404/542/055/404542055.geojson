@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003412,
-    "geom:area_square_m":40284395.858284,
+    "geom:area_square_m":40284395.858291,
     "geom:bbox":"145.509634016,-17.3637690245,145.581104896,-17.2381385585",
     "geom:latitude":-17.295254,
     "geom:longitude":145.547919,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-17.280911,
     "lbl:longitude":145.556822,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "East Barron"
@@ -38,9 +44,12 @@
         102048519
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30533"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"c16b9e8832c4a63874fc7bc6f36565bf",
+    "wof:geomhash":"90d9b7421b5425db9f736820227e8852",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404542055,
-    "wof:lastmodified":1566602278,
+    "wof:lastmodified":1695877280,
     "wof:name":"East Barron",
     "wof:parent_id":102048519,
     "wof:placetype":"localadmin",

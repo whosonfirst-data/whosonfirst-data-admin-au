@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023375,
-    "geom:area_square_m":274280806.032098,
+    "geom:area_square_m":274280806.031668,
     "geom:bbox":"145.947636992,-18.5333200065,146.222662272,-18.2144249985",
     "geom:latitude":-18.386564,
     "geom:longitude":146.103163,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-18.385654,
     "lbl:longitude":146.109606,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ellerbeck"
@@ -50,9 +56,12 @@
         102049237
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30563"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"7df5372fd6536f95eee21c1eb4616123",
+    "wof:geomhash":"e0904edb0c56e00b10173f7e4bcf3c6d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":404542117,
-    "wof:lastmodified":1566602288,
+    "wof:lastmodified":1695877285,
     "wof:name":"Ellerbeck",
     "wof:parent_id":102049237,
     "wof:placetype":"localadmin",

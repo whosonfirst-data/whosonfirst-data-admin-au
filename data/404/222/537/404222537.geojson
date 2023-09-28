@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000397,
-    "geom:area_square_m":3985026.442686,
+    "geom:area_square_m":3985026.442707,
     "geom:bbox":"150.173151872,-35.7452298675,150.19505712,-35.714469677",
     "geom:latitude":-35.730005,
     "geom:longitude":150.184945,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.730787,
     "lbl:longitude":150.186242,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Catalina"
@@ -92,12 +98,15 @@
         102049609
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10494"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101929865
     ],
     "wof:country":"AU",
-    "wof:geomhash":"bbd7afe8e41bbf0971b4748adf033e7d",
+    "wof:geomhash":"505f6b880c3b115e3c767463112598ea",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -109,7 +118,7 @@
         }
     ],
     "wof:id":404222537,
-    "wof:lastmodified":1566602782,
+    "wof:lastmodified":1695877581,
     "wof:name":"Catalina",
     "wof:parent_id":102049609,
     "wof:placetype":"localadmin",

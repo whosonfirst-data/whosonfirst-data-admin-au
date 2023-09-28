@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002417,
-    "geom:area_square_m":25319567.091985,
+    "geom:area_square_m":25319567.091975,
     "geom:bbox":"115.884284672,-32.1153370235,115.951618304,-32.0542700035",
     "geom:latitude":-32.081442,
     "geom:longitude":115.916939,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.081241,
     "lbl:longitude":115.916291,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Canning Vale"
@@ -39,12 +45,15 @@
         102049055
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50127"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101936975
     ],
     "wof:country":"AU",
-    "wof:geomhash":"554cc9b7b4db2fda80ed659c63d68127",
+    "wof:geomhash":"147f1984bcfdfa05f6607d6f233b064d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404546973,
-    "wof:lastmodified":1566603151,
+    "wof:lastmodified":1695877790,
     "wof:name":"Canning Vale",
     "wof:parent_id":102049055,
     "wof:placetype":"localadmin",

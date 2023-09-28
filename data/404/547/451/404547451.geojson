@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004962,
-    "geom:area_square_m":51815470.146335,
+    "geom:area_square_m":51815470.146345,
     "geom:bbox":"115.826588448,-32.406386331,115.953359968,-32.349177005",
     "geom:latitude":-32.381594,
     "geom:longitude":115.887273,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.37746,
     "lbl:longitude":115.887282,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Hopeland"
@@ -41,9 +47,12 @@
         102049507
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50342"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"de56c274089b6c9e43ac140f1c252eb2",
+    "wof:geomhash":"b41fc90d6fbcd168b58cfaf28cfe7225",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404547451,
-    "wof:lastmodified":1566602965,
+    "wof:lastmodified":1695877698,
     "wof:name":"Hopeland",
     "wof:parent_id":102049507,
     "wof:placetype":"localadmin",

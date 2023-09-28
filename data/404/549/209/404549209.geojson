@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025848,
-    "geom:area_square_m":240574200.345241,
+    "geom:area_square_m":240574200.345229,
     "geom:bbox":"147.241080992,-41.277666763,147.487282016,-41.0963019205",
     "geom:latitude":-41.175398,
     "geom:longitude":147.364894,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-41.176823,
     "lbl:longitude":147.363042,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Nabowla"
@@ -38,9 +44,12 @@
         102048565
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60240"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"8c9bf6877d6c717a6a8e96a41de97baa",
+    "wof:geomhash":"28c2579d7555b1bb53098ad935186504",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404549209,
-    "wof:lastmodified":1566602899,
+    "wof:lastmodified":1695877660,
     "wof:name":"Nabowla",
     "wof:parent_id":102048565,
     "wof:placetype":"localadmin",

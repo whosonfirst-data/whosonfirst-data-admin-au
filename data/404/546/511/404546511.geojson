@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.180045,
-    "geom:area_square_m":1829800284.305314,
+    "geom:area_square_m":1829800284.3052,
     "geom:bbox":"139.758731584,-34.9237710005,140.367583072,-34.5021555565",
     "geom:latitude":-34.723918,
     "geom:longitude":140.03719,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.723103,
     "lbl:longitude":140.031492,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Wanbi"
@@ -38,9 +44,12 @@
         102049517
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40765"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"e910b548cff3f3a1577410d03f51c729",
+    "wof:geomhash":"28ba75c26d0f44921ff65f460d56702b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404546511,
-    "wof:lastmodified":1566603128,
+    "wof:lastmodified":1695877781,
     "wof:name":"Wanbi",
     "wof:parent_id":102049517,
     "wof:placetype":"localadmin",

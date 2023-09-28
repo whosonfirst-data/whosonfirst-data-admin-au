@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00362,
-    "geom:area_square_m":35305311.638629,
+    "geom:area_square_m":35305311.638673,
     "geom:bbox":"145.467324,-37.969475636,145.556606176,-37.8833769875",
     "geom:latitude":-37.929884,
     "geom:longitude":145.512738,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.941652,
     "lbl:longitude":145.504682,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Kaketoe"
@@ -242,9 +248,12 @@
         102048791
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20313"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"51a2fcc862379f71107af01025063499",
+    "wof:geomhash":"0e18b6e6a8d717210972e4aa93386c1d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -256,7 +265,7 @@
         }
     ],
     "wof:id":404538191,
-    "wof:lastmodified":1566602458,
+    "wof:lastmodified":1695877389,
     "wof:name":"Cockatoo",
     "wof:parent_id":102048791,
     "wof:placetype":"localadmin",

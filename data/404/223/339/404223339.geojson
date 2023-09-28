@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008688,
-    "geom:area_square_m":86755016.431187,
+    "geom:area_square_m":86755016.431138,
     "geom:bbox":"149.884300288,-36.2027559945,150.05383488,-36.059061",
     "geom:latitude":-36.141574,
     "geom:longitude":149.96673,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.173544,
     "lbl:longitude":149.931607,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Eurobodalla"
@@ -38,9 +44,12 @@
         102049609
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10851"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"b52275b258f2d491f5b11e802bb23299",
+    "wof:geomhash":"386bf44df6a89b017965d4dc1dda82e8",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404223339,
-    "wof:lastmodified":1566602496,
+    "wof:lastmodified":1695877411,
     "wof:name":"Eurobodalla",
     "wof:parent_id":102049609,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001901,
-    "geom:area_square_m":18673520.014769,
+    "geom:area_square_m":18673520.014771,
     "geom:bbox":"143.880800032,-37.4335920005,143.955164992,-37.370495993",
     "geom:latitude":-37.397242,
     "geom:longitude":143.920018,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.40111,
     "lbl:longitude":143.925639,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Broomfield"
@@ -71,9 +77,12 @@
         102049553
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20190"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"d13526cf74a9757f30427778ce185408",
+    "wof:geomhash":"68596731bc1e0596b6b0f95b6dbe59d6",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -85,7 +94,7 @@
         }
     ],
     "wof:id":404537915,
-    "wof:lastmodified":1566602332,
+    "wof:lastmodified":1695877314,
     "wof:name":"Broomfield",
     "wof:parent_id":102049553,
     "wof:placetype":"localadmin",

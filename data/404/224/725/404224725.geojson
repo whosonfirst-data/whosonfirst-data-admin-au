@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000123,
-    "geom:area_square_m":1269839.716946,
+    "geom:area_square_m":1269839.716962,
     "geom:bbox":"151.63886592,-33.0685199975,151.654888992,-33.053775035",
     "geom:latitude":-33.061174,
     "geom:longitude":151.647241,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.065294,
     "lbl:longitude":151.646295,
     "lbl:max_zoom":18.0,
@@ -43,13 +49,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC11467",
         "wd:id":"Q6771387"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931153
     ],
     "wof:country":"AU",
-    "wof:geomhash":"f2c5f00638abd04a07da3a036e121296",
+    "wof:geomhash":"77b276d17e744456640caca43174b330",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -62,7 +70,7 @@
         }
     ],
     "wof:id":404224725,
-    "wof:lastmodified":1566602600,
+    "wof:lastmodified":1695877977,
     "wof:name":"Marks Point",
     "wof:parent_id":102048999,
     "wof:placetype":"localadmin",

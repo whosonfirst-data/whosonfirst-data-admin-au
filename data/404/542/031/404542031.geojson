@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000401,
-    "geom:area_square_m":4485277.221892,
+    "geom:area_square_m":4485277.221893,
     "geom:bbox":"152.737086016,-25.284510003,152.770518144,-25.2677600105",
     "geom:latitude":-25.274908,
     "geom:longitude":152.755241,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-25.275175,
     "lbl:longitude":152.755244,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Dundowran Beach"
@@ -38,12 +44,15 @@
         102049435
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30520"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934323
     ],
     "wof:country":"AU",
-    "wof:geomhash":"b0fd88bfe68275ca5ac6d04a57f6ad29",
+    "wof:geomhash":"76e22af26a1121d6acd7a50430bc73d3",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404542031,
-    "wof:lastmodified":1566602277,
+    "wof:lastmodified":1695877279,
     "wof:name":"Dundowran Beach",
     "wof:parent_id":102049435,
     "wof:placetype":"localadmin",

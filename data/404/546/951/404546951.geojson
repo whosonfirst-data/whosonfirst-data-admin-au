@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000509,
-    "geom:area_square_m":5361414.482869,
+    "geom:area_square_m":5361414.482871,
     "geom:bbox":"115.687792992,-31.657065994,115.719837984,-31.631237996",
     "geom:latitude":-31.642978,
     "geom:longitude":115.704308,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.642924,
     "lbl:longitude":115.704003,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0642\u0647\u0631\u0645\u0627\u0646"
@@ -83,12 +89,15 @@
         102048879
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50117"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101936967
     ],
     "wof:country":"AU",
-    "wof:geomhash":"d10b2b1517254eec1dfc66d55dbb6f2f",
+    "wof:geomhash":"6087cb59ead9618b4601627779d4cd3b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -100,7 +109,7 @@
         }
     ],
     "wof:id":404546951,
-    "wof:lastmodified":1566603134,
+    "wof:lastmodified":1695877784,
     "wof:name":"Butler",
     "wof:parent_id":102048879,
     "wof:placetype":"localadmin",

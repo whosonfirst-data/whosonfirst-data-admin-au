@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000354,
-    "geom:area_square_m":3578429.736346,
+    "geom:area_square_m":3578429.736345,
     "geom:bbox":"149.007139616,-35.205495605,149.033235488,-35.184260528",
     "geom:latitude":-35.194022,
     "geom:longitude":149.019841,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.194073,
     "lbl:longitude":149.018777,
     "lbl:max_zoom":18.0,
@@ -89,13 +95,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC80028",
         "wd:id":"Q5315441"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938759
     ],
     "wof:country":"AU",
-    "wof:geomhash":"17513846cc1ecb26909478a576bda4fc",
+    "wof:geomhash":"3d4a60c608a45baa88156bd642f4fd5a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -106,7 +114,7 @@
         }
     ],
     "wof:id":404549979,
-    "wof:lastmodified":1566602855,
+    "wof:lastmodified":1695878008,
     "wof:name":"Dunlop",
     "wof:parent_id":85681493,
     "wof:placetype":"localadmin",

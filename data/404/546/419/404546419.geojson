@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030222,
-    "geom:area_square_m":310504642.496122,
+    "geom:area_square_m":310504642.496082,
     "geom:bbox":"137.662546304,-33.9157430005,137.922560992,-33.69579996",
     "geom:latitude":-33.810842,
     "geom:longitude":137.814505,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.810336,
     "lbl:longitude":137.814454,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tickera"
@@ -38,9 +44,12 @@
         102048789
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40723"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"40562901139fb9c8f0c6c3b80cb41c66",
+    "wof:geomhash":"26711dcf9b14f41f61e4bbe68cd68902",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404546419,
-    "wof:lastmodified":1566603136,
+    "wof:lastmodified":1695877785,
     "wof:name":"Tickera",
     "wof:parent_id":102048789,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.066212,
-    "geom:area_square_m":677331290.866373,
+    "geom:area_square_m":677331290.866579,
     "geom:bbox":"140.66700336,-34.323378938,140.964156032,-33.9626972955",
     "geom:latitude":-34.177767,
     "geom:longitude":140.858357,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.145738,
     "lbl:longitude":140.876048,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Murtho"
@@ -38,9 +44,12 @@
         102048689
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40474"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"98cbf3a6768e6423ebff9afc7c7bf6a7",
+    "wof:geomhash":"eed0a0850beedfdf8f7494b63eca28ee",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404545895,
-    "wof:lastmodified":1566602220,
+    "wof:lastmodified":1695877252,
     "wof:name":"Murtho",
     "wof:parent_id":102048689,
     "wof:placetype":"localadmin",

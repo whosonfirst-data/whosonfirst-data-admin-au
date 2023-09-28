@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000257,
-    "geom:area_square_m":2638351.385135,
+    "geom:area_square_m":2638351.385132,
     "geom:bbox":"151.081424,-33.856278469,151.10258112,-33.8307149655",
     "geom:latitude":-33.843609,
     "geom:longitude":151.091109,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.84426,
     "lbl:longitude":151.090389,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Concord West"
@@ -39,12 +45,15 @@
         102049003
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10575"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101929963
     ],
     "wof:country":"AU",
-    "wof:geomhash":"3d62025817b02c12aa10f714122b5040",
+    "wof:geomhash":"ef2f979b7f92ae35a1481062aa6e8d78",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404222719,
-    "wof:lastmodified":1566602812,
+    "wof:lastmodified":1695877600,
     "wof:name":"Concord West",
     "wof:parent_id":102049003,
     "wof:placetype":"localadmin",

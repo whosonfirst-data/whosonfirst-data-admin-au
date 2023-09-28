@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001677,
-    "geom:area_square_m":19798231.182584,
+    "geom:area_square_m":19798231.182603,
     "geom:bbox":"145.574220768,-17.294400999,145.635317216,-17.245416255",
     "geom:latitude":-17.270993,
     "geom:longitude":145.601316,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-17.279006,
     "lbl:longitude":145.596675,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Yungaburra"
@@ -56,9 +62,12 @@
         102048519
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31857"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"ef0de7e5bf2259ec6eef7c9bf14b1e93",
+    "wof:geomhash":"4a425ca66f90028677c63c28971e13e7",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -70,7 +79,7 @@
         }
     ],
     "wof:id":404544857,
-    "wof:lastmodified":1566602163,
+    "wof:lastmodified":1695877224,
     "wof:name":"Yungaburra",
     "wof:parent_id":102048519,
     "wof:placetype":"localadmin",

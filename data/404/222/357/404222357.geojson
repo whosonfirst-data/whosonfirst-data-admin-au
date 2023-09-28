@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016303,
-    "geom:area_square_m":171846556.380199,
+    "geom:area_square_m":171846556.380178,
     "geom:bbox":"152.476368,-31.5963748015,152.728393984,-31.471983003",
     "geom:latitude":-31.522928,
     "geom:longitude":152.591691,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.52366,
     "lbl:longitude":152.583027,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Byabarra"
@@ -38,9 +44,12 @@
         102049203
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10414"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"9a990c592750f448abf84beee8f4dbe0",
+    "wof:geomhash":"feeb3a305f231756022dedd703a3173a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404222357,
-    "wof:lastmodified":1566602783,
+    "wof:lastmodified":1695877581,
     "wof:name":"Byabarra",
     "wof:parent_id":102049203,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.042522,
-    "geom:area_square_m":434734551.165575,
+    "geom:area_square_m":434734551.165736,
     "geom:bbox":"138.09402288,-34.346355124,138.385704032,-34.1169899965",
     "geom:latitude":-34.226839,
     "geom:longitude":138.256846,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.222512,
     "lbl:longitude":138.254129,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bowmans"
@@ -38,9 +44,12 @@
         102049309
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40064"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"31bdc7cf2032d3bceaf603217cac8fe0",
+    "wof:geomhash":"50c6d78cdacfb9d0ef3ac0a17ad0cdd5",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404544997,
-    "wof:lastmodified":1566602152,
+    "wof:lastmodified":1695877218,
     "wof:name":"Bowmans",
     "wof:parent_id":102049309,
     "wof:placetype":"localadmin",

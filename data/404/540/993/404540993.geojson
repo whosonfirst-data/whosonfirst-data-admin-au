@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006497,
-    "geom:area_square_m":72837462.532276,
+    "geom:area_square_m":72837462.532376,
     "geom:bbox":"152.304228992,-24.995069992,152.423495008,-24.9115336305",
     "geom:latitude":-24.956821,
     "geom:longitude":152.359807,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-24.955347,
     "lbl:longitude":152.364634,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Alloway"
@@ -83,9 +89,12 @@
         102048763
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30028"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"56c852eb0724462ee5b20cf84f3cc54e",
+    "wof:geomhash":"eba8c9926536bd45f5f9cb2c6364aebe",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -97,7 +106,7 @@
         }
     ],
     "wof:id":404540993,
-    "wof:lastmodified":1566603015,
+    "wof:lastmodified":1695877728,
     "wof:name":"Alloway",
     "wof:parent_id":102048763,
     "wof:placetype":"localadmin",

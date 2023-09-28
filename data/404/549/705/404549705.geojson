@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000218,
-    "geom:area_square_m":2468305.904982,
+    "geom:area_square_m":2468315.647702,
     "geom:bbox":"133.88505,-23.703351,133.905688,-23.684402",
     "geom:latitude":-23.691954,
     "geom:longitude":133.893198,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-23.692342,
     "lbl:longitude":133.891329,
     "lbl:max_zoom":18.0,
@@ -76,13 +82,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC70058",
         "wd:id":"Q29191133"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938433
     ],
     "wof:country":"AU",
-    "wof:geomhash":"42e0bb5bc26ec16da8ddada4583b804c",
+    "wof:geomhash":"f91204e6ef967d38a8943bbdaa840070",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -95,7 +103,7 @@
         }
     ],
     "wof:id":404549705,
-    "wof:lastmodified":1690853725,
+    "wof:lastmodified":1695878009,
     "wof:name":"East Side",
     "wof:parent_id":102048753,
     "wof:placetype":"localadmin",

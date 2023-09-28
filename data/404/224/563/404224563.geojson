@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004747,
-    "geom:area_square_m":49401720.296925,
+    "geom:area_square_m":49401855.540042,
     "geom:bbox":"151.423786,-32.742852,151.515592,-32.635733",
     "geom:latitude":-32.688082,
     "geom:longitude":151.468478,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.698001,
     "lbl:longitude":151.452479,
     "lbl:max_zoom":18.0,
@@ -73,10 +79,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC11395",
         "wd:id":"Q6665121"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"1c3f9bb9c62392ae49f64e43a210a396",
+    "wof:geomhash":"9084c15bcda07e201301e4ceecf1684d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -89,7 +97,7 @@
         }
     ],
     "wof:id":404224563,
-    "wof:lastmodified":1690853645,
+    "wof:lastmodified":1695877978,
     "wof:name":"Lochinvar",
     "wof:parent_id":102048483,
     "wof:placetype":"localadmin",

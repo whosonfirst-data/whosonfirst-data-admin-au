@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00498,
-    "geom:area_square_m":50245558.04716,
+    "geom:area_square_m":50245558.047144,
     "geom:bbox":"138.515750656,-35.361693621,138.65539,-35.265529881",
     "geom:latitude":-35.313505,
     "geom:longitude":138.578384,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.320542,
     "lbl:longitude":138.571524,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Willunga Hill"
@@ -38,9 +44,12 @@
         102048815
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40805"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"5cb22712bbf68447759f6ced98a808e1",
+    "wof:geomhash":"a367033528918f3fd6074b3117f49f19",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404546599,
-    "wof:lastmodified":1566603131,
+    "wof:lastmodified":1695877783,
     "wof:name":"Willunga Hill",
     "wof:parent_id":102048815,
     "wof:placetype":"localadmin",

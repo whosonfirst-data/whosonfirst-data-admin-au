@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002612,
-    "geom:area_square_m":28409969.492428,
+    "geom:area_square_m":28409969.492401,
     "geom:bbox":"153.476980992,-28.416888008,153.563035968,-28.357984008",
     "geom:latitude":-28.390704,
     "geom:longitude":153.519831,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.386512,
     "lbl:longitude":153.516281,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Cudgera Creek"
@@ -38,9 +44,12 @@
         102048589
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10655"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"f26ed428892f288aab6aac1ac4b9d005",
+    "wof:geomhash":"abc44a69cc07851ad8a1685144db405b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404222899,
-    "wof:lastmodified":1566602807,
+    "wof:lastmodified":1695877597,
     "wof:name":"Cudgera Creek",
     "wof:parent_id":102048589,
     "wof:placetype":"localadmin",

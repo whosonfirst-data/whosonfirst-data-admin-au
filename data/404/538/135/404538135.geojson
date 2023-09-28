@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026789,
-    "geom:area_square_m":267375109.956487,
+    "geom:area_square_m":267375109.956558,
     "geom:bbox":"146.51242848,-36.278915925,146.710362016,-36.0717690015",
     "geom:latitude":-36.178772,
     "geom:longitude":146.602903,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.196707,
     "lbl:longitude":146.604862,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Chiltern"
@@ -53,9 +59,12 @@
         102049541
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20288"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"73ae4d1dc3ba66da8d3c332417c4f540",
+    "wof:geomhash":"260fca52b0711526714fe084667c3e76",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -67,7 +76,7 @@
         }
     ],
     "wof:id":404538135,
-    "wof:lastmodified":1566602421,
+    "wof:lastmodified":1695877370,
     "wof:name":"Chiltern",
     "wof:parent_id":102049541,
     "wof:placetype":"localadmin",

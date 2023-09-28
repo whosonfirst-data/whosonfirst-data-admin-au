@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000314,
-    "geom:area_square_m":3500343.974371,
+    "geom:area_square_m":3500343.974374,
     "geom:bbox":"152.887776,-25.7276242045,152.92268784,-25.7040089915",
     "geom:latitude":-25.715432,
     "geom:longitude":152.909554,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-25.714669,
     "lbl:longitude":152.911025,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Poona"
@@ -38,12 +44,15 @@
         102049435
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31342"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935151
     ],
     "wof:country":"AU",
-    "wof:geomhash":"4426f7305c260e5553f8229739b2d861",
+    "wof:geomhash":"067861887c7aba6c23d43c244b4133d9",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404543779,
-    "wof:lastmodified":1566602118,
+    "wof:lastmodified":1695877201,
     "wof:name":"Poona",
     "wof:parent_id":102049435,
     "wof:placetype":"localadmin",

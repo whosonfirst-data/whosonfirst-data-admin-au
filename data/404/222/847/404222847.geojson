@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.076685,
-    "geom:area_square_m":797371229.537118,
+    "geom:area_square_m":797371229.538046,
     "geom:bbox":"149.995686016,-32.9202520065,150.362638592,-32.5643500055",
     "geom:latitude":-32.763703,
     "geom:longitude":150.188018,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.763987,
     "lbl:longitude":150.184605,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Coxs Creek"
@@ -38,9 +44,12 @@
         102049261
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10632"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"c4ab02b3604196f4472d305daa7a58ef",
+    "wof:geomhash":"9b76d96735f1b4da63cda8e4121103e4",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404222847,
-    "wof:lastmodified":1566602795,
+    "wof:lastmodified":1695877589,
     "wof:name":"Coxs Creek",
     "wof:parent_id":102049261,
     "wof:placetype":"localadmin",

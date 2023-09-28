@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000132,
-    "geom:area_square_m":1389770.43236,
+    "geom:area_square_m":1389770.432361,
     "geom:bbox":"115.984660672,-31.897928002,116.00137936,-31.8836729935",
     "geom:latitude":-31.890985,
     "geom:longitude":115.993324,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.891874,
     "lbl:longitude":115.991804,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Woodbridge"
@@ -95,12 +101,15 @@
         102049575
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50859"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937981
     ],
     "wof:country":"AU",
-    "wof:geomhash":"6216dbb602049635f71a2084774e90a5",
+    "wof:geomhash":"361b76b0f0f3468f5e84bb8a503d0452",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -112,7 +121,7 @@
         }
     ],
     "wof:id":404548607,
-    "wof:lastmodified":1566603226,
+    "wof:lastmodified":1695877831,
     "wof:name":"Woodbridge",
     "wof:parent_id":102049575,
     "wof:placetype":"localadmin",

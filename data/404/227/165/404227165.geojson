@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000038,
-    "geom:area_square_m":386621.629183,
+    "geom:area_square_m":386621.629181,
     "geom:bbox":"150.956226048,-33.844704092,150.96629168,-33.8380394855",
     "geom:latitude":-33.841367,
     "geom:longitude":150.960546,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.841355,
     "lbl:longitude":150.960547,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Woodpark"
@@ -39,12 +45,15 @@
         102048495
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12551"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932395
     ],
     "wof:country":"AU",
-    "wof:geomhash":"655ffd70b32d3d915f5ba32e245d7084",
+    "wof:geomhash":"521a7a4219f430be5f902347fcc495ed",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404227165,
-    "wof:lastmodified":1566601949,
+    "wof:lastmodified":1695877108,
     "wof:name":"Woodpark",
     "wof:parent_id":102048495,
     "wof:placetype":"localadmin",

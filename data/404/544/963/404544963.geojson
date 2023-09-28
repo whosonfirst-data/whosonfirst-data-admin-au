@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000068,
-    "geom:area_square_m":693119.625985,
+    "geom:area_square_m":693130.633662,
     "geom:bbox":"138.5723,-34.967267,138.581369,-34.954115",
     "geom:latitude":-34.960277,
     "geom:longitude":138.576676,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.960157,
     "lbl:longitude":138.576606,
     "lbl:max_zoom":18.0,
@@ -457,13 +463,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC40049",
         "wd:id":"Q4920780"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935787
     ],
     "wof:country":"AU",
-    "wof:geomhash":"8c062317f0e41fe5afd9b96c8350eb3c",
+    "wof:geomhash":"adc966cf8df2bbd3c355bc6134d9a1b9",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -476,7 +484,7 @@
         }
     ],
     "wof:id":404544963,
-    "wof:lastmodified":1690853464,
+    "wof:lastmodified":1695877922,
     "wof:name":"Black Forest",
     "wof:parent_id":102048503,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004785,
-    "geom:area_square_m":48716137.400634,
+    "geom:area_square_m":48716137.400647,
     "geom:bbox":"150.63793696,-34.6130224675,150.774323296,-34.5429729205",
     "geom:latitude":-34.582233,
     "geom:longitude":150.704439,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.584945,
     "lbl:longitude":150.709081,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Yellow Rock"
@@ -48,9 +54,12 @@
         102048497
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12613"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"adab955505a6f2a111b52b9403c6e0ff",
+    "wof:geomhash":"5b157e165e1f468b44af0357dd8b65c4",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -63,7 +72,7 @@
         }
     ],
     "wof:id":404227303,
-    "wof:lastmodified":1566601949,
+    "wof:lastmodified":1695877108,
     "wof:name":"Yellow Rock",
     "wof:parent_id":102048497,
     "wof:placetype":"localadmin",

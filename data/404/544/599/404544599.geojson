@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000663,
-    "geom:area_square_m":7261528.461845,
+    "geom:area_square_m":7261528.461844,
     "geom:bbox":"153.122268224,-27.720684982,153.16080912,-27.6880847815",
     "geom:latitude":-27.707425,
     "geom:longitude":153.142451,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.71141,
     "lbl:longitude":153.150775,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Waterford"
@@ -204,12 +210,15 @@
         102048665
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31734"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935589
     ],
     "wof:country":"AU",
-    "wof:geomhash":"ec70f9e958debae79a6544d96c208370",
+    "wof:geomhash":"27feb0032cffd71930c11c2fbb62bdb9",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -222,7 +231,7 @@
         }
     ],
     "wof:id":404544599,
-    "wof:lastmodified":1566602181,
+    "wof:lastmodified":1695877234,
     "wof:name":"Waterford",
     "wof:parent_id":102048665,
     "wof:placetype":"localadmin",

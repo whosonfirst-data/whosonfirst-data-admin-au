@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000076,
-    "geom:area_square_m":871158.595092,
+    "geom:area_square_m":871158.595091,
     "geom:bbox":"149.282776608,-21.458403865,149.291754112,-21.445127007",
     "geom:latitude":-21.450698,
     "geom:longitude":149.28776,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-21.449247,
     "lbl:longitude":149.287669,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Armstrong Beach"
@@ -38,12 +44,15 @@
         102048783
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30055"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101933821
     ],
     "wof:country":"AU",
-    "wof:geomhash":"ad79480651a23ebfb5ee28b8a232d3de",
+    "wof:geomhash":"7fe4709254597774f692d253e839e005",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404541051,
-    "wof:lastmodified":1566603092,
+    "wof:lastmodified":1695877766,
     "wof:name":"Armstrong Beach",
     "wof:parent_id":102048783,
     "wof:placetype":"localadmin",

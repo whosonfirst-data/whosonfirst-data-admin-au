@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000183,
-    "geom:area_square_m":2009761.981373,
+    "geom:area_square_m":2009761.981364,
     "geom:bbox":"151.815122016,-27.527925009,151.830418016,-27.5050100025",
     "geom:latitude":-27.515259,
     "geom:longitude":151.821681,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.511308,
     "lbl:longitude":151.822203,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Gowrie Mountain"
@@ -38,12 +44,15 @@
         102049357
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30690"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934475
     ],
     "wof:country":"AU",
-    "wof:geomhash":"10568c2a985a83c0cf152466717c9d9d",
+    "wof:geomhash":"62a1000a528ab1f2588aeac2111a95a0",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404542389,
-    "wof:lastmodified":1566602312,
+    "wof:lastmodified":1695877302,
     "wof:name":"Gowrie Mountain",
     "wof:parent_id":102049357,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000273,
-    "geom:area_square_m":3090706.384683,
+    "geom:area_square_m":3090706.384688,
     "geom:bbox":"151.253507872,-23.860739754,151.276442048,-23.83149303",
     "geom:latitude":-23.844239,
     "geom:longitude":151.266705,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-23.842113,
     "lbl:longitude":151.26669,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Barney Point"
@@ -38,12 +44,15 @@
         102049463
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30110"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101933885
     ],
     "wof:country":"AU",
-    "wof:geomhash":"ce1c0273dfbd766543341c1c5b94937f",
+    "wof:geomhash":"c610aa01143ffdeb6ccb3645c59db2b6",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404541169,
-    "wof:lastmodified":1566603050,
+    "wof:lastmodified":1695877746,
     "wof:name":"Barney Point",
     "wof:parent_id":102049463,
     "wof:placetype":"localadmin",

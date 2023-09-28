@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018271,
-    "geom:area_square_m":169186209.336937,
+    "geom:area_square_m":169186209.336927,
     "geom:bbox":"146.921934016,-41.6076548335,147.112900224,-41.42569788",
     "geom:latitude":-41.509617,
     "geom:longitude":147.007604,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-41.495337,
     "lbl:longitude":147.009033,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Carrick"
@@ -71,9 +77,12 @@
         102048535
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60052"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"9183049a48031c76c413370c806b13ed",
+    "wof:geomhash":"153d0b8aabbef56407dcd65add83d2a4",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -85,7 +94,7 @@
         }
     ],
     "wof:id":404548787,
-    "wof:lastmodified":1566603237,
+    "wof:lastmodified":1695877836,
     "wof:name":"Carrick",
     "wof:parent_id":102048535,
     "wof:placetype":"localadmin",

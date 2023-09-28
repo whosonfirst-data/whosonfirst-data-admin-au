@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000215,
-    "geom:area_square_m":2328785.52718,
+    "geom:area_square_m":2328785.527182,
     "geom:bbox":"153.28786992,-28.72433788,153.313380992,-28.7084673405",
     "geom:latitude":-28.716411,
     "geom:longitude":153.298384,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.715866,
     "lbl:longitude":153.293943,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Modanville"
@@ -38,12 +44,15 @@
         102049635
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11564"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931259
     ],
     "wof:country":"AU",
-    "wof:geomhash":"d5d533d3c28dc5c39a92683fc0c71586",
+    "wof:geomhash":"a412e3250c656e5f6567dd76655f5319",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404224943,
-    "wof:lastmodified":1566602655,
+    "wof:lastmodified":1695877504,
     "wof:name":"Modanville",
     "wof:parent_id":102049635,
     "wof:placetype":"localadmin",

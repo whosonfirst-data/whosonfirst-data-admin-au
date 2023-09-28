@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000198,
-    "geom:area_square_m":2386334.071781,
+    "geom:area_square_m":2386334.071782,
     "geom:bbox":"130.816377696,-12.4204319025,130.845683552,-12.4045203485",
     "geom:latitude":-12.41159,
     "geom:longitude":130.830042,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-12.412799,
     "lbl:longitude":130.833488,
     "lbl:max_zoom":18.0,
@@ -61,13 +67,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC70057",
         "wd:id":"Q5329163"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938431
     ],
     "wof:country":"AU",
-    "wof:geomhash":"1383beff26f981232c57c9778bbb9532",
+    "wof:geomhash":"017ab96dbbb7b937a60e2ba5249c142e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -80,7 +88,7 @@
         }
     ],
     "wof:id":404549701,
-    "wof:lastmodified":1566602824,
+    "wof:lastmodified":1695878006,
     "wof:name":"East Point",
     "wof:parent_id":102049235,
     "wof:placetype":"localadmin",

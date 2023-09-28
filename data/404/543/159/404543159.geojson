@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000354,
-    "geom:area_square_m":4172643.687898,
+    "geom:area_square_m":4172643.687907,
     "geom:bbox":"146.003992928,-17.5522429915,146.031012,-17.526292024",
     "geom:latitude":-17.541658,
     "geom:longitude":146.020384,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-17.544508,
     "lbl:longitude":146.020583,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mighell"
@@ -38,12 +44,15 @@
         102049237
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31054"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934841
     ],
     "wof:country":"AU",
-    "wof:geomhash":"7fa61ffcb574bf43a66e5fcc541e904f",
+    "wof:geomhash":"178fa3bd8bf9f3b28d557da345e9b4f9",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404543159,
-    "wof:lastmodified":1566602093,
+    "wof:lastmodified":1695877188,
     "wof:name":"Mighell",
     "wof:parent_id":102049237,
     "wof:placetype":"localadmin",

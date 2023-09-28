@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000233,
-    "geom:area_square_m":2557969.001693,
+    "geom:area_square_m":2557969.001696,
     "geom:bbox":"117.8868288,-27.43402578,117.911597984,-27.413678518",
     "geom:latitude":-27.423325,
     "geom:longitude":117.897986,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.423378,
     "lbl:longitude":117.896779,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Cue"
@@ -65,12 +71,15 @@
         102049513
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50190"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937065
     ],
     "wof:country":"AU",
-    "wof:geomhash":"979510712db4e90031bd802a466888ea",
+    "wof:geomhash":"55365b1986c5281b558f953a9daa2dc8",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -82,7 +91,7 @@
         }
     ],
     "wof:id":404547113,
-    "wof:lastmodified":1566602976,
+    "wof:lastmodified":1695877704,
     "wof:name":"Cue",
     "wof:parent_id":102049513,
     "wof:placetype":"localadmin",

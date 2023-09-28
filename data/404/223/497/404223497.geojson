@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.046161,
-    "geom:area_square_m":469821328.344388,
+    "geom:area_square_m":469821328.344951,
     "geom:bbox":"148.344891008,-34.7854260025,148.669807648,-34.426713352",
     "geom:latitude":-34.60231,
     "geom:longitude":148.514544,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.51775,
     "lbl:longitude":148.557624,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Galong"
@@ -38,9 +44,12 @@
         102049663
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10921"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"a09b84f2520f3b1c3fff8a37059ef950",
+    "wof:geomhash":"afcae57b8e21da5bb77c0966f75d7f53",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404223497,
-    "wof:lastmodified":1566602513,
+    "wof:lastmodified":1695877421,
     "wof:name":"Galong",
     "wof:parent_id":102049663,
     "wof:placetype":"localadmin",

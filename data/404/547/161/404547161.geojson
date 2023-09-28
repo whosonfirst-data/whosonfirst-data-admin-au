@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005502,
-    "geom:area_square_m":56244880.578035,
+    "geom:area_square_m":56244880.578022,
     "geom:bbox":"116.040567232,-34.2970919735,116.158984992,-34.186010999",
     "geom:latitude":-34.235315,
     "geom:longitude":116.097502,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.243736,
     "lbl:longitude":116.093518,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Deanmill"
@@ -38,9 +44,12 @@
         102049063
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50213"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"548774bf6a265100b9cd4dded51806f9",
+    "wof:geomhash":"d9592f5268e58db7ec979addd3c4e493",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404547161,
-    "wof:lastmodified":1566602922,
+    "wof:lastmodified":1695877674,
     "wof:name":"Deanmill",
     "wof:parent_id":102049063,
     "wof:placetype":"localadmin",

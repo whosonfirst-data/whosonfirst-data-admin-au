@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000727,
-    "geom:area_square_m":7699425.618749,
+    "geom:area_square_m":7699425.618776,
     "geom:bbox":"152.786496,-31.064761003,152.821615008,-31.027802998",
     "geom:latitude":-31.048495,
     "geom:longitude":152.805292,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.04946,
     "lbl:longitude":152.805566,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Greenhill"
@@ -59,9 +65,12 @@
         102048527
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11023"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"2febffb6f569e6e485988fe34749b2fb",
+    "wof:geomhash":"eddde204dd511c57292784acac8268b8",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -73,7 +82,7 @@
         }
     ],
     "wof:id":404223727,
-    "wof:lastmodified":1566602568,
+    "wof:lastmodified":1695877458,
     "wof:name":"Greenhill",
     "wof:parent_id":102048527,
     "wof:placetype":"localadmin",

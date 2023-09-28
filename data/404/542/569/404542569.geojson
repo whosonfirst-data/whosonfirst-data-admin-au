@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000836,
-    "geom:area_square_m":9764271.642042,
+    "geom:area_square_m":9764271.642061,
     "geom:bbox":"146.832642016,-19.135844009,146.883741856,-19.102521957",
     "geom:latitude":-19.122176,
     "geom:longitude":146.860008,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-19.126024,
     "lbl:longitude":146.861744,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Horseshoe Bay"
@@ -53,12 +59,15 @@
         102048451
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30776"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934569
     ],
     "wof:country":"AU",
-    "wof:geomhash":"3e98783d4e6bdac1c69ad87e3e1d8af4",
+    "wof:geomhash":"b963ddbc5f899aff73fbf7f05c294d2d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -70,7 +79,7 @@
         }
     ],
     "wof:id":404542569,
-    "wof:lastmodified":1566602260,
+    "wof:lastmodified":1695877270,
     "wof:name":"Horseshoe Bay",
     "wof:parent_id":102048451,
     "wof:placetype":"localadmin",

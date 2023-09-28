@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004162,
-    "geom:area_square_m":46053176.700927,
+    "geom:area_square_m":46053176.700893,
     "geom:bbox":"152.682295104,-26.552645746,152.769545024,-26.4757210255",
     "geom:latitude":-26.517595,
     "geom:longitude":152.720807,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-26.516864,
     "lbl:longitude":152.712901,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Brooloo"
@@ -38,9 +44,12 @@
         102049393
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30246"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"864b126abb90e602c782b654e816afef",
+    "wof:geomhash":"13dc7ff9248e12b232e26c96ce414943",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404541455,
-    "wof:lastmodified":1566603061,
+    "wof:lastmodified":1695877750,
     "wof:name":"Brooloo",
     "wof:parent_id":102049393,
     "wof:placetype":"localadmin",

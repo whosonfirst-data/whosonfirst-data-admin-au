@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000212,
-    "geom:area_square_m":2137801.885215,
+    "geom:area_square_m":2137801.88522,
     "geom:bbox":"150.459817984,-35.336113005,150.487312,-35.318650004",
     "geom:latitude":-35.325423,
     "geom:longitude":150.47291,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.325065,
     "lbl:longitude":150.472708,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mollymook Beach"
@@ -38,12 +44,15 @@
         102049405
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11571"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931265
     ],
     "wof:country":"AU",
-    "wof:geomhash":"27cecaded918da85ee935340383b127a",
+    "wof:geomhash":"42bb273d04c526890c05b241aa1b6f4f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404224959,
-    "wof:lastmodified":1566602611,
+    "wof:lastmodified":1695877482,
     "wof:name":"Mollymook Beach",
     "wof:parent_id":102049405,
     "wof:placetype":"localadmin",

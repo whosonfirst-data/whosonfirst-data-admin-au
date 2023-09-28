@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000098,
-    "geom:area_square_m":1005738.206332,
+    "geom:area_square_m":1005738.206347,
     "geom:bbox":"151.124340352,-33.9840885495,151.136747296,-33.9704861285",
     "geom:latitude":-33.978127,
     "geom:longitude":151.131782,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.978305,
     "lbl:longitude":151.131879,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Beverley Park"
@@ -39,12 +45,15 @@
         102049593
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10199"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101929565
     ],
     "wof:country":"AU",
-    "wof:geomhash":"106ccc23b08a1b276af85523e1326c1c",
+    "wof:geomhash":"f56382613d98c7c5b8c5b44a65bad3ee",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404221873,
-    "wof:lastmodified":1566601973,
+    "wof:lastmodified":1695877120,
     "wof:name":"Beverley Park",
     "wof:parent_id":102049593,
     "wof:placetype":"localadmin",

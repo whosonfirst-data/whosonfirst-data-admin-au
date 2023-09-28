@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000192,
-    "geom:area_square_m":1931753.869156,
+    "geom:area_square_m":1931753.869159,
     "geom:bbox":"149.102219264,-35.4207973655,149.119458848,-35.402967343",
     "geom:latitude":-35.411869,
     "geom:longitude":149.109035,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.411301,
     "lbl:longitude":149.108871,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Gowrie"
@@ -46,12 +52,15 @@
         85681493
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC80043"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938793
     ],
     "wof:country":"AU",
-    "wof:geomhash":"114ba5bacf0b78635e41a6c6c3d5141c",
+    "wof:geomhash":"ad1d82a8e891fa6c83828b5ddd967792",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -62,7 +71,7 @@
         }
     ],
     "wof:id":404550013,
-    "wof:lastmodified":1566601925,
+    "wof:lastmodified":1695877099,
     "wof:name":"Gowrie",
     "wof:parent_id":85681493,
     "wof:placetype":"localadmin",

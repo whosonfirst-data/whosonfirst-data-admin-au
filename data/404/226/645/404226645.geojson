@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010207,
-    "geom:area_square_m":102389129.719304,
+    "geom:area_square_m":102389129.719338,
     "geom:bbox":"147.926570016,-35.8516540035,148.112188992,-35.724809512",
     "geom:latitude":-35.781112,
     "geom:longitude":148.009592,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.776013,
     "lbl:longitude":148.008181,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Tumbarumba"
@@ -62,9 +68,12 @@
         102049347
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12320"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"b387ae4ac0728d8bfaa8ae9d822cb267",
+    "wof:geomhash":"b55229cde3ebe3760b917b2855f8664a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -76,7 +85,7 @@
         }
     ],
     "wof:id":404226645,
-    "wof:lastmodified":1566602026,
+    "wof:lastmodified":1695877146,
     "wof:name":"Tumbarumba",
     "wof:parent_id":102049347,
     "wof:placetype":"localadmin",

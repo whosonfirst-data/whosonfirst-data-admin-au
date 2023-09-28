@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010248,
-    "geom:area_square_m":114917869.953409,
+    "geom:area_square_m":114917869.953455,
     "geom:bbox":"152.098302976,-24.9974080035,152.256223008,-24.859009004",
     "geom:latitude":-24.926212,
     "geom:longitude":152.169904,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-24.927979,
     "lbl:longitude":152.148942,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "South Kolan"
@@ -38,9 +44,12 @@
         102048763
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31499"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"616cb747fc2bbd573515545ecb141154",
+    "wof:geomhash":"75defe012c6a3792f0258adfbf81796c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404544109,
-    "wof:lastmodified":1566602181,
+    "wof:lastmodified":1695877234,
     "wof:name":"South Kolan",
     "wof:parent_id":102048763,
     "wof:placetype":"localadmin",

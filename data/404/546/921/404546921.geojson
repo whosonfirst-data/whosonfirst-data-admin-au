@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000397,
-    "geom:area_square_m":4162473.703161,
+    "geom:area_square_m":4162473.703157,
     "geom:bbox":"115.850684512,-32.0661510365,115.873058144,-32.0450692505",
     "geom:latitude":-32.056254,
     "geom:longitude":115.86242,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.056549,
     "lbl:longitude":115.862422,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bull Creek"
@@ -54,12 +60,15 @@
         102048851
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50104"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101936953
     ],
     "wof:country":"AU",
-    "wof:geomhash":"a535d8a204713b7bf520bac1734f5ae0",
+    "wof:geomhash":"0730c0edab39a85dd588a54f414ee7ea",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -72,7 +81,7 @@
         }
     ],
     "wof:id":404546921,
-    "wof:lastmodified":1566603153,
+    "wof:lastmodified":1695877791,
     "wof:name":"Bull Creek",
     "wof:parent_id":102048851,
     "wof:placetype":"localadmin",

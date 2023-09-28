@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020471,
-    "geom:area_square_m":211407156.904834,
+    "geom:area_square_m":211407156.904933,
     "geom:bbox":"149.742315008,-33.5115599955,149.927188,-33.216347004",
     "geom:latitude":-33.365383,
     "geom:longitude":149.838483,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.35128,
     "lbl:longitude":149.821706,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Sunny Corner"
@@ -38,9 +44,12 @@
         102049305
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12176"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"b48cd733f75095f0a0bd64389aaf3fa1",
+    "wof:geomhash":"24cd16c649f4a1d19969843100df118c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404226321,
-    "wof:lastmodified":1566602087,
+    "wof:lastmodified":1695877185,
     "wof:name":"Sunny Corner",
     "wof:parent_id":102049305,
     "wof:placetype":"localadmin",

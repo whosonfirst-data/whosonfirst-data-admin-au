@@ -10,6 +10,12 @@
     "geom:latitude":-35.238637,
     "geom:longitude":149.049875,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.238227,
     "lbl:longitude":149.049188,
     "lbl:max_zoom":18.0,
@@ -128,13 +134,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC80080",
         "wd:id":"Q1227783"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938875
     ],
     "wof:country":"AU",
-    "wof:geomhash":"38de9a30b5e052541d259fdeb8e5c228",
+    "wof:geomhash":"11498c776b42cffb6a6412006f9f4fb5",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -145,7 +153,7 @@
         }
     ],
     "wof:id":404550093,
-    "wof:lastmodified":1566601932,
+    "wof:lastmodified":1695877893,
     "wof:name":"Page",
     "wof:parent_id":85681493,
     "wof:placetype":"localadmin",

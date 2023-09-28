@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001741,
-    "geom:area_square_m":19014737.171096,
+    "geom:area_square_m":19014737.171101,
     "geom:bbox":"153.132640064,-28.010241987,153.183686048,-27.956534045",
     "geom:latitude":-27.981041,
     "geom:longitude":153.161478,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.978123,
     "lbl:longitude":153.161983,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Wonglepong"
@@ -38,9 +44,12 @@
         102048945
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31798"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"11fc63e7272c40ac3e3a927770a23b53",
+    "wof:geomhash":"e06473db3cef01e4a7c0b1d547743654",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404544737,
-    "wof:lastmodified":1566602150,
+    "wof:lastmodified":1695877217,
     "wof:name":"Wonglepong",
     "wof:parent_id":102048945,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001014,
-    "geom:area_square_m":10755609.298128,
+    "geom:area_square_m":10755609.298145,
     "geom:bbox":"153.008418016,-30.9459730025,153.043118016,-30.894458217",
     "geom:latitude":-30.917048,
     "geom:longitude":153.027714,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-30.908012,
     "lbl:longitude":153.025087,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Jerseyville"
@@ -38,9 +44,12 @@
         102048527
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11179"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"b18da286f8f3d4ca9946358db80f916a",
+    "wof:geomhash":"739b5ffd04156ad07b0adce93cdde2dc",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404224077,
-    "wof:lastmodified":1566602584,
+    "wof:lastmodified":1695877465,
     "wof:name":"Jerseyville",
     "wof:parent_id":102048527,
     "wof:placetype":"localadmin",

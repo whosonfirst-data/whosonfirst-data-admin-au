@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.164303,
-    "geom:area_square_m":13635458299.396179,
+    "geom:area_square_m":13635458299.395992,
     "geom:bbox":"143.765624,-19.635137734,144.83242784,-17.8896379995",
     "geom:latitude":-18.71229,
     "geom:longitude":144.300368,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-18.816786,
     "lbl:longitude":144.343408,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mount Surprise"
@@ -38,9 +44,12 @@
         102049251
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31165"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"87811516cbbbf734d0a487718e96e9ea",
+    "wof:geomhash":"285f923e3b64f2bb3266f9caac0ddfa8",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404543397,
-    "wof:lastmodified":1566602096,
+    "wof:lastmodified":1695877190,
     "wof:name":"Mount Surprise",
     "wof:parent_id":102049251,
     "wof:placetype":"localadmin",

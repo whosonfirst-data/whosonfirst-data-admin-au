@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.044467,
-    "geom:area_square_m":451400889.049971,
+    "geom:area_square_m":451400889.050227,
     "geom:bbox":"147.090078368,-34.907458755,147.44111648,-34.685294993",
     "geom:latitude":-34.818488,
     "geom:longitude":147.246087,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.824841,
     "lbl:longitude":147.231886,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Coolamon"
@@ -47,9 +53,12 @@
         102049103
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10596"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"f16759e1f02fb02c0ef96749d6467f77",
+    "wof:geomhash":"b671acd3f2ad53617029ef49f1e04337",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":404222765,
-    "wof:lastmodified":1566602749,
+    "wof:lastmodified":1695877559,
     "wof:name":"Coolamon",
     "wof:parent_id":102049103,
     "wof:placetype":"localadmin",

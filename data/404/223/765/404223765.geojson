@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.110856,
-    "geom:area_square_m":1171683085.586907,
+    "geom:area_square_m":1171683085.587311,
     "geom:bbox":"147.99837248,-31.416120958,148.728996,-31.10259983",
     "geom:latitude":-31.265086,
     "geom:longitude":148.364714,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.301782,
     "lbl:longitude":148.370156,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Gulargambone"
@@ -47,9 +53,12 @@
         102048419
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11040"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"0406029b840518f946598f038818501a",
+    "wof:geomhash":"3b911ad693f92be8e491f730c4b792f7",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":404223765,
-    "wof:lastmodified":1566602494,
+    "wof:lastmodified":1695877410,
     "wof:name":"Gulargambone",
     "wof:parent_id":102048419,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000062,
-    "geom:area_square_m":628430.394619,
+    "geom:area_square_m":628430.39462,
     "geom:bbox":"138.609215648,-34.909515992,138.618586848,-34.892948243",
     "geom:latitude":-34.900511,
     "geom:longitude":138.612599,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.900751,
     "lbl:longitude":138.611745,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Gilberton"
@@ -42,12 +48,15 @@
         102049161
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40227"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101936037
     ],
     "wof:country":"AU",
-    "wof:geomhash":"3f6adbaa7ae804c54a8214bc278c7299",
+    "wof:geomhash":"7ff906c323a65d0d797bd157812a5581",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -60,7 +69,7 @@
         }
     ],
     "wof:id":404545359,
-    "wof:lastmodified":1566602234,
+    "wof:lastmodified":1695877258,
     "wof:name":"Gilberton",
     "wof:parent_id":102049161,
     "wof:placetype":"localadmin",

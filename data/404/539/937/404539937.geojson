@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015262,
-    "geom:area_square_m":148097350.922932,
+    "geom:area_square_m":148097350.922971,
     "geom:bbox":"143.210727776,-38.3591573605,143.483182816,-38.2636070065",
     "geom:latitude":-38.301136,
     "geom:longitude":143.346524,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.302287,
     "lbl:longitude":143.371316,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Pomborneit"
@@ -38,9 +44,12 @@
         102049319
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21096"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"6dcb6f71986643e82ca895d48a261944",
+    "wof:geomhash":"5116c2d5855b02aa64e407215f5a35fb",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404539937,
-    "wof:lastmodified":1566602357,
+    "wof:lastmodified":1695877329,
     "wof:name":"Pomborneit",
     "wof:parent_id":102049319,
     "wof:placetype":"localadmin",

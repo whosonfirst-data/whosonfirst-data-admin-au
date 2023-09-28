@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.067956,
-    "geom:area_square_m":728698681.410444,
+    "geom:area_square_m":728698681.411371,
     "geom:bbox":"151.151675008,-29.997092444,151.604621888,-29.737343971",
     "geom:latitude":-29.864953,
     "geom:longitude":151.378129,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-29.864442,
     "lbl:longitude":151.378179,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Elsmore"
@@ -41,9 +47,12 @@
         102049369
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10814"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"3d73861b8ceb20c5b708daee16e48cd6",
+    "wof:geomhash":"55249ccb4b7eaa7be27808f96b2b05f7",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404223257,
-    "wof:lastmodified":1566602510,
+    "wof:lastmodified":1695877419,
     "wof:name":"Elsmore",
     "wof:parent_id":102049369,
     "wof:placetype":"localadmin",

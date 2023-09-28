@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013684,
-    "geom:area_square_m":140889684.526648,
+    "geom:area_square_m":140889684.526609,
     "geom:bbox":"115.836695008,-33.6895709915,116.028431296,-33.563553006",
     "geom:latitude":-33.625466,
     "geom:longitude":115.943157,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.622468,
     "lbl:longitude":115.965597,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Brookhampton"
@@ -38,9 +44,12 @@
         102049113
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50094"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"8c09e09229d8cc60800310840322d6a3",
+    "wof:geomhash":"1e29d1c6b630e4f19e71dc755f7fe96d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404546899,
-    "wof:lastmodified":1566603147,
+    "wof:lastmodified":1695877789,
     "wof:name":"Brookhampton",
     "wof:parent_id":102049113,
     "wof:placetype":"localadmin",

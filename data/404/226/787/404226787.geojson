@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000159,
-    "geom:area_square_m":1629587.72818,
+    "geom:area_square_m":1629587.728185,
     "geom:bbox":"150.900800768,-33.882290727,150.91656736,-33.865335033",
     "geom:latitude":-33.874267,
     "geom:longitude":150.90976,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.874395,
     "lbl:longitude":150.909609,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Wakeley"
@@ -39,12 +45,15 @@
         102049221
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12383"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932211
     ],
     "wof:country":"AU",
-    "wof:geomhash":"918e4a98dac18080881469919bf54212",
+    "wof:geomhash":"3148b9be183aedb51df6a13339706466",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404226787,
-    "wof:lastmodified":1566602086,
+    "wof:lastmodified":1695877184,
     "wof:name":"Wakeley",
     "wof:parent_id":102049221,
     "wof:placetype":"localadmin",

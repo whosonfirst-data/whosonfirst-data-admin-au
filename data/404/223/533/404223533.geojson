@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027955,
-    "geom:area_square_m":291840182.977999,
+    "geom:area_square_m":291840182.978091,
     "geom:bbox":"148.753582208,-32.541855689,148.957770624,-32.271444445",
     "geom:latitude":-32.404568,
     "geom:longitude":148.869951,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.397341,
     "lbl:longitude":148.853004,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Geurie"
@@ -38,9 +44,12 @@
         102049591
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10937"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"6ca80d9d5ef84dc2435c36ee26fd8d61",
+    "wof:geomhash":"3d22a00054e505060086c51995b5e8e9",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404223533,
-    "wof:lastmodified":1566602489,
+    "wof:lastmodified":1695877407,
     "wof:name":"Geurie",
     "wof:parent_id":102049591,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004477,
-    "geom:area_square_m":43891895.476391,
+    "geom:area_square_m":43891895.476377,
     "geom:bbox":"143.684946016,-37.5666710475,143.802864992,-37.507245995",
     "geom:latitude":-37.539577,
     "geom:longitude":143.740655,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.539004,
     "lbl:longitude":143.759471,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Cardigan"
@@ -71,9 +77,12 @@
         102049037
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20253"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"251260c0571a4fdc6e99316f8bf95c0b",
+    "wof:geomhash":"a324c8d86be3ace9d99a87487146af3c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -85,7 +94,7 @@
         }
     ],
     "wof:id":404538055,
-    "wof:lastmodified":1566602444,
+    "wof:lastmodified":1695877383,
     "wof:name":"Cardigan",
     "wof:parent_id":102049037,
     "wof:placetype":"localadmin",

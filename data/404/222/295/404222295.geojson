@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032051,
-    "geom:area_square_m":325113605.811284,
+    "geom:area_square_m":325113605.81133,
     "geom:bbox":"149.829055008,-34.967191999,150.091803008,-34.7898260055",
     "geom:latitude":-34.880379,
     "geom:longitude":149.955047,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.882991,
     "lbl:longitude":149.957532,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bungonia"
@@ -38,9 +44,12 @@
         102048827
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10387"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"4aaa3c20da5fa55d33088a0aaac75d19",
+    "wof:geomhash":"fb2fcae388a99c3a8b2f54bc0ef7c086",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404222295,
-    "wof:lastmodified":1566602764,
+    "wof:lastmodified":1695877569,
     "wof:name":"Bungonia",
     "wof:parent_id":102048827,
     "wof:placetype":"localadmin",

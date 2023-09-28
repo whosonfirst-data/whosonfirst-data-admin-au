@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001007,
-    "geom:area_square_m":10204328.540361,
+    "geom:area_square_m":10204328.540359,
     "geom:bbox":"138.745004,-34.9841959965,138.791668992,-34.946788312",
     "geom:latitude":-34.967756,
     "geom:longitude":138.769378,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.966626,
     "lbl:longitude":138.771325,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Carey Gully"
@@ -50,9 +56,12 @@
         102049017
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40094"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"8f041d94023b27dfcdf8138aa69d701a",
+    "wof:geomhash":"fc0b35a9c7be15e7367712c08cce142c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":404545063,
-    "wof:lastmodified":1566602223,
+    "wof:lastmodified":1695877253,
     "wof:name":"Carey Gully",
     "wof:parent_id":102049017,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0001,
-    "geom:area_square_m":928656.807873,
+    "geom:area_square_m":928656.807875,
     "geom:bbox":"145.886986016,-41.0803539955,145.899100992,-41.064792998",
     "geom:latitude":-41.071566,
     "geom:longitude":145.89168,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-41.070735,
     "lbl:longitude":145.891268,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ang_x_preferred":[
         "Acan t\u016bn"
@@ -119,12 +125,15 @@
         102049367
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60003"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938009
     ],
     "wof:country":"AU",
-    "wof:geomhash":"4c15e9d0b117351e9b7818953ba4e51a",
+    "wof:geomhash":"cd0662313d0a004012d4bcfa7185c3f4",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -136,7 +145,7 @@
         }
     ],
     "wof:id":404548675,
-    "wof:lastmodified":1566603166,
+    "wof:lastmodified":1695877797,
     "wof:name":"Acton",
     "wof:parent_id":102049367,
     "wof:placetype":"localadmin",

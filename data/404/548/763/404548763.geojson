@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019789,
-    "geom:area_square_m":180033291.572264,
+    "geom:area_square_m":180033291.572486,
     "geom:bbox":"147.011733376,-42.715454314,147.210325568,-42.531843997",
     "geom:latitude":-42.630754,
     "geom:longitude":147.1041,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-42.628314,
     "lbl:longitude":147.097367,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Broadmarsh"
@@ -38,9 +44,12 @@
         102049259
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60042"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"eef4c511a24202b319b966d326fdea48",
+    "wof:geomhash":"4638045f4377412eb55d898f9ef01c24",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404548763,
-    "wof:lastmodified":1566603158,
+    "wof:lastmodified":1695877793,
     "wof:name":"Broadmarsh",
     "wof:parent_id":102049259,
     "wof:placetype":"localadmin",

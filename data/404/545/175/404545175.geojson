@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004291,
-    "geom:area_square_m":43532501.08833,
+    "geom:area_square_m":43532501.088319,
     "geom:bbox":"138.77354912,-34.892196329,138.885395008,-34.824284013",
     "geom:latitude":-34.862041,
     "geom:longitude":138.83562,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.862514,
     "lbl:longitude":138.836486,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Cudlee Creek"
@@ -44,9 +50,12 @@
         102049017
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40145"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"5013f385950d35f3bfd192cea982d5a5",
+    "wof:geomhash":"dffdf2f1644f6947282dfb049d8f189f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404545175,
-    "wof:lastmodified":1566602231,
+    "wof:lastmodified":1695877257,
     "wof:name":"Cudlee Creek",
     "wof:parent_id":102049017,
     "wof:placetype":"localadmin",

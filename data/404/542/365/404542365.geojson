@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004266,
-    "geom:area_square_m":47380680.056957,
+    "geom:area_square_m":47380680.056946,
     "geom:bbox":"152.742860608,-26.1247329945,152.846867392,-26.0399814975",
     "geom:latitude":-26.081046,
     "geom:longitude":152.791241,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-26.068776,
     "lbl:longitude":152.768869,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Goomboorian"
@@ -38,9 +44,12 @@
         102049393
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30678"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"f1d21d72bc3ff84933c5418cd3328251",
+    "wof:geomhash":"f07fefcdc4afc33949e6975f3ec64c4f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404542365,
-    "wof:lastmodified":1566602261,
+    "wof:lastmodified":1695877270,
     "wof:name":"Goomboorian",
     "wof:parent_id":102049393,
     "wof:placetype":"localadmin",

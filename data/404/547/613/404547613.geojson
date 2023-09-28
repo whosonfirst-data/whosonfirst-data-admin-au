@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.245643,
-    "geom:area_square_m":2540894179.119297,
+    "geom:area_square_m":2540894179.11904,
     "geom:bbox":"117.620562112,-33.4855051135,118.354441312,-32.950089898",
     "geom:latitude":-33.224273,
     "geom:longitude":117.964531,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.222595,
     "lbl:longitude":117.958422,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kukerin"
@@ -38,9 +44,12 @@
         102048805
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50414"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"09e3085c2e2f0a77a39398d2a44b64c6",
+    "wof:geomhash":"82761030261cba51f30f8b43d391f198",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404547613,
-    "wof:lastmodified":1566602957,
+    "wof:lastmodified":1695877692,
     "wof:name":"Kukerin",
     "wof:parent_id":102048805,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.083117,
-    "geom:area_square_m":850985369.257685,
+    "geom:area_square_m":850985369.258586,
     "geom:bbox":"149.00284016,-34.2802260045,149.390664992,-33.8878283875",
     "geom:latitude":-34.105412,
     "geom:longitude":149.164562,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.10909,
     "lbl:longitude":149.145357,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bigga"
@@ -50,9 +56,12 @@
         102048469
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10208"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"7e9339b8f56b364a1a18b4b000df93c6",
+    "wof:geomhash":"8a8b497977c65487dc77c316cb66ae58",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":404221893,
-    "wof:lastmodified":1566601980,
+    "wof:lastmodified":1695877124,
     "wof:name":"Bigga",
     "wof:parent_id":102048469,
     "wof:placetype":"localadmin",

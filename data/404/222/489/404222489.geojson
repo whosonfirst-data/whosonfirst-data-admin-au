@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003048,
-    "geom:area_square_m":33203474.585766,
+    "geom:area_square_m":33203474.585777,
     "geom:bbox":"153.361839008,-28.282253,153.446879008,-28.2094939985",
     "geom:latitude":-28.243869,
     "geom:longitude":153.404463,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.245265,
     "lbl:longitude":153.405086,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Carool"
@@ -38,9 +44,12 @@
         102048589
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10473"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"b06b9d094c19dab81a1ec9fb8846658f",
+    "wof:geomhash":"a13d40a0dc1ebb7e747ae2b81dc8ada3",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404222489,
-    "wof:lastmodified":1566602797,
+    "wof:lastmodified":1695877590,
     "wof:name":"Carool",
     "wof:parent_id":102048589,
     "wof:placetype":"localadmin",

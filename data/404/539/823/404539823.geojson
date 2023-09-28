@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005942,
-    "geom:area_square_m":57642613.126888,
+    "geom:area_square_m":57642613.126864,
     "geom:bbox":"145.60568352,-38.3552659965,145.712983072,-38.2822320665",
     "geom:latitude":-38.316755,
     "geom:longitude":145.660628,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.321086,
     "lbl:longitude":145.66701,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Nyora"
@@ -56,9 +62,12 @@
         102048701
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21045"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"92e1c0b6cdd86af2842560f388e86f02",
+    "wof:geomhash":"3385a6794fb6fa0c681d714a3c649f24",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -70,7 +79,7 @@
         }
     ],
     "wof:id":404539823,
-    "wof:lastmodified":1566602394,
+    "wof:lastmodified":1695877352,
     "wof:name":"Nyora",
     "wof:parent_id":102048701,
     "wof:placetype":"localadmin",

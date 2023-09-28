@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007197,
-    "geom:area_square_m":73192407.38515,
+    "geom:area_square_m":73192407.384973,
     "geom:bbox":"150.168882976,-34.710371003,150.329820992,-34.6169489815",
     "geom:latitude":-34.668767,
     "geom:longitude":150.235864,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.664721,
     "lbl:longitude":150.22917,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Penrose"
@@ -78,9 +84,12 @@
         102048539
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11862"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"925eed5cdd567ba329e0c954c7597366",
+    "wof:geomhash":"ccf787cba4fcc0346b8b07d8d3cec77f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -93,7 +102,7 @@
         }
     ],
     "wof:id":404225615,
-    "wof:lastmodified":1566602718,
+    "wof:lastmodified":1695877539,
     "wof:name":"Penrose",
     "wof:parent_id":102048539,
     "wof:placetype":"localadmin",

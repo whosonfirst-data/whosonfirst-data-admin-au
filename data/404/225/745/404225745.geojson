@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.137071,
-    "geom:area_square_m":1423960768.553291,
+    "geom:area_square_m":1423960768.552251,
     "geom:bbox":"150.548311008,-33.072023139,151.090667296,-32.638747996",
     "geom:latitude":-32.844784,
     "geom:longitude":150.791802,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.85406,
     "lbl:longitude":150.701776,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Tmel"
@@ -125,9 +131,12 @@
         102048757
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11920"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"90c0a09fb580210892027a50e0c5eeb4",
+    "wof:geomhash":"46aed0924bb6ce2f644c82245da04680",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -139,7 +148,7 @@
         }
     ],
     "wof:id":404225745,
-    "wof:lastmodified":1566602738,
+    "wof:lastmodified":1695877552,
     "wof:name":"Putty",
     "wof:parent_id":102048757,
     "wof:placetype":"localadmin",

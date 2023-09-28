@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002872,
-    "geom:area_square_m":27912220.217746,
+    "geom:area_square_m":27912102.413319,
     "geom:bbox":"144.423256,-38.23471,144.503237,-38.158121",
     "geom:latitude":-38.192815,
     "geom:longitude":144.468894,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.189461,
     "lbl:longitude":144.472827,
     "lbl:max_zoom":18.0,
@@ -124,10 +130,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC20786",
         "wd:id":"Q6526896"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"bc9c32a6913ad9af0d6ae91f20e8554b",
+    "wof:geomhash":"0f3628681ef413db3bf653ca02db2fe1",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -140,7 +148,7 @@
         }
     ],
     "wof:id":404539243,
-    "wof:lastmodified":1690853554,
+    "wof:lastmodified":1695877948,
     "wof:name":"Leopold",
     "wof:parent_id":102049571,
     "wof:placetype":"localadmin",

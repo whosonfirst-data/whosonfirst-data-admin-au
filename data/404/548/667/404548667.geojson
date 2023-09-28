@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01055,
-    "geom:area_square_m":106876261.881402,
+    "geom:area_square_m":106876261.881435,
     "geom:bbox":"117.451528032,-35.0419860005,117.599965984,-34.9355079925",
     "geom:latitude":-34.987179,
     "geom:longitude":117.52419,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.988746,
     "lbl:longitude":117.522796,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Youngs Siding"
@@ -38,9 +44,12 @@
         102048671
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50886"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"ccadb716f3d352bcec05ab2f01abf303",
+    "wof:geomhash":"e27154e059c8386278294367eb67da36",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404548667,
-    "wof:lastmodified":1566603181,
+    "wof:lastmodified":1695877806,
     "wof:name":"Youngs Siding",
     "wof:parent_id":102048671,
     "wof:placetype":"localadmin",

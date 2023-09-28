@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002027,
-    "geom:area_square_m":24470160.819865,
+    "geom:area_square_m":24470160.819861,
     "geom:bbox":"130.891808,-12.5042907745,130.963677856,-12.450802594",
     "geom:latitude":-12.474462,
     "geom:longitude":130.93184,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-12.47024,
     "lbl:longitude":130.922291,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "East Arm"
@@ -52,12 +58,15 @@
         85681533
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC70055"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938429
     ],
     "wof:country":"AU",
-    "wof:geomhash":"91315f7e8d9c9edd3e7a699abce4a38a",
+    "wof:geomhash":"c01628e7b683d8aa89170c72482f06fd",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -68,7 +77,7 @@
         }
     ],
     "wof:id":404549697,
-    "wof:lastmodified":1566602900,
+    "wof:lastmodified":1695877661,
     "wof:name":"East Arm",
     "wof:parent_id":85681533,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":-33.293361,
     "geom:longitude":151.469896,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.293157,
     "lbl:longitude":151.470096,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Rocky Point"
@@ -71,12 +77,15 @@
         102049097
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11985"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931735
     ],
     "wof:country":"AU",
-    "wof:geomhash":"592413a988d8169f830db7b4829f40b5",
+    "wof:geomhash":"e64452444fc37651cc3e1fd563bf8404",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -88,7 +97,7 @@
         }
     ],
     "wof:id":404225891,
-    "wof:lastmodified":1566602725,
+    "wof:lastmodified":1695877545,
     "wof:name":"Rocky Point",
     "wof:parent_id":102049097,
     "wof:placetype":"localadmin",

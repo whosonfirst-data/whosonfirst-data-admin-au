@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.086522,
-    "geom:area_square_m":883961546.844756,
+    "geom:area_square_m":883961546.845206,
     "geom:bbox":"147.710784128,-34.4667673505,148.253995008,-34.1370018905",
     "geom:latitude":-34.285589,
     "geom:longitude":148.01396,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.303372,
     "lbl:longitude":148.108523,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Memagong"
@@ -38,9 +44,12 @@
         102049073
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11509"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"0b4aef5b3b800c15661308e0c022bcfb",
+    "wof:geomhash":"122376d126210609204d49339e383883",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404224819,
-    "wof:lastmodified":1566602586,
+    "wof:lastmodified":1695877466,
     "wof:name":"Memagong",
     "wof:parent_id":102049073,
     "wof:placetype":"localadmin",

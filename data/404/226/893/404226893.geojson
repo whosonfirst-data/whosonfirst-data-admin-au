@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001029,
-    "geom:area_square_m":10583302.600144,
+    "geom:area_square_m":10583302.600152,
     "geom:bbox":"150.588994016,-33.73925091,150.652115008,-33.7108079925",
     "geom:latitude":-33.723448,
     "geom:longitude":150.615443,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.724491,
     "lbl:longitude":150.612797,
     "lbl:max_zoom":18.0,
@@ -48,13 +54,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC12430",
         "wd:id":"Q7970699"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932251
     ],
     "wof:country":"AU",
-    "wof:geomhash":"8c5c8569329e6b6bb025af48745ba600",
+    "wof:geomhash":"86e583b9749c8e7766820fac8fe63685",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -66,7 +74,7 @@
         }
     ],
     "wof:id":404226893,
-    "wof:lastmodified":1566602037,
+    "wof:lastmodified":1695877907,
     "wof:name":"Warrimoo",
     "wof:parent_id":102049627,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.040371,
-    "geom:area_square_m":376867008.576938,
+    "geom:area_square_m":376867008.577166,
     "geom:bbox":"145.27299,-41.112684059,145.541711072,-40.837688145",
     "geom:latitude":-40.97819,
     "geom:longitude":145.380089,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-40.997718,
     "lbl:longitude":145.380034,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mawbanna"
@@ -38,9 +44,12 @@
         102049649
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60212"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"c30e876770da22890af0dd7c12cca805",
+    "wof:geomhash":"50de4837e4a313493e3e136328f880f6",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404549147,
-    "wof:lastmodified":1566602916,
+    "wof:lastmodified":1695877671,
     "wof:name":"Mawbanna",
     "wof:parent_id":102049649,
     "wof:placetype":"localadmin",

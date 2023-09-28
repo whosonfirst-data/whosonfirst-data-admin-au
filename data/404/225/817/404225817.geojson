@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002378,
-    "geom:area_square_m":24728137.017228,
+    "geom:area_square_m":24728137.017215,
     "geom:bbox":"151.723070368,-32.803485723,151.809891008,-32.734348374",
     "geom:latitude":-32.772466,
     "geom:longitude":151.770529,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.766751,
     "lbl:longitude":151.767511,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Raymond Terrace"
@@ -59,9 +65,12 @@
         102049095
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11952"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"fe526f477c54916a3a5f59b7d888dcfe",
+    "wof:geomhash":"18f16191fabc15027827d78c322ceff2",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -73,7 +82,7 @@
         }
     ],
     "wof:id":404225817,
-    "wof:lastmodified":1566602675,
+    "wof:lastmodified":1695877516,
     "wof:name":"Raymond Terrace",
     "wof:parent_id":102049095,
     "wof:placetype":"localadmin",

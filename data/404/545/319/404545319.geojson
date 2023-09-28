@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000922,
-    "geom:area_square_m":9346824.052455,
+    "geom:area_square_m":9346824.052433,
     "geom:bbox":"138.780171008,-34.961954649,138.822296032,-34.902892807",
     "geom:latitude":-34.929872,
     "geom:longitude":138.800872,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.917575,
     "lbl:longitude":138.806124,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Forest Range"
@@ -38,9 +44,12 @@
         102049017
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40209"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"1674c539dd26919809887e9410728b1d",
+    "wof:geomhash":"c04796f8eee67b059452ff7e52fec748",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404545319,
-    "wof:lastmodified":1566602255,
+    "wof:lastmodified":1695877267,
     "wof:name":"Forest Range",
     "wof:parent_id":102049017,
     "wof:placetype":"localadmin",

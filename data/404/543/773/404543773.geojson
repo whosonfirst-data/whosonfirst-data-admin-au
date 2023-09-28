@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000204,
-    "geom:area_square_m":2235502.30696,
+    "geom:area_square_m":2235502.306966,
     "geom:bbox":"153.510612064,-27.4372560835,153.546707552,-27.4202802985",
     "geom:latitude":-27.428129,
     "geom:longitude":153.530066,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.428587,
     "lbl:longitude":153.525295,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Point Lookout"
@@ -48,12 +54,15 @@
         102048569
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31339"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935147
     ],
     "wof:country":"AU",
-    "wof:geomhash":"390d520339026276cd7d60b4be3fea14",
+    "wof:geomhash":"0dd1b520289d4f4c4a9df6b412f3b3a3",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -66,7 +75,7 @@
         }
     ],
     "wof:id":404543773,
-    "wof:lastmodified":1566602143,
+    "wof:lastmodified":1695877214,
     "wof:name":"Point Lookout",
     "wof:parent_id":102048569,
     "wof:placetype":"localadmin",

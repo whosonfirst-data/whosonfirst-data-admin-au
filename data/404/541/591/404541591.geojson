@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002308,
-    "geom:area_square_m":25627989.967186,
+    "geom:area_square_m":25627989.967129,
     "geom:bbox":"152.71353792,-26.172755017,152.771960896,-26.0811204655",
     "geom:latitude":-26.124633,
     "geom:longitude":152.744776,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-26.138847,
     "lbl:longitude":152.75004,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Canina"
@@ -41,9 +47,12 @@
         102049393
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30310"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"b6b30599e42904eea9346de17ae9cae0",
+    "wof:geomhash":"334d4f908f6a2ee816aced2bc443897e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404541591,
-    "wof:lastmodified":1566603078,
+    "wof:lastmodified":1695877758,
     "wof:name":"Canina",
     "wof:parent_id":102049393,
     "wof:placetype":"localadmin",

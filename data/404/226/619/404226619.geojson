@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.067629,
-    "geom:area_square_m":694558411.815122,
+    "geom:area_square_m":694558411.815065,
     "geom:bbox":"149.116949088,-33.9975755305,149.519016992,-33.693216953",
     "geom:latitude":-33.842738,
     "geom:longitude":149.318055,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.840273,
     "lbl:longitude":149.315119,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Trunkey Creek"
@@ -38,9 +44,12 @@
         102049305
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12309"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"0ba84ca607b13e40ab26309f919397fa",
+    "wof:geomhash":"65f0ff766bc278a1210fab6508852c36",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404226619,
-    "wof:lastmodified":1566602026,
+    "wof:lastmodified":1695877146,
     "wof:name":"Trunkey Creek",
     "wof:parent_id":102049305,
     "wof:placetype":"localadmin",

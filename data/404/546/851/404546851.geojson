@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.081634,
-    "geom:area_square_m":849413709.569927,
+    "geom:area_square_m":849413709.56962,
     "geom:bbox":"116.206349504,-32.9213542365,116.659442464,-32.498077363",
     "geom:latitude":-32.702795,
     "geom:longitude":116.429978,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.699965,
     "lbl:longitude":116.426547,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Boddington"
@@ -53,9 +59,12 @@
         102049531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50073"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"d453f39bde453a45ad327bb90356e09c",
+    "wof:geomhash":"8248c9938293256ce6378a03dadabd32",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -67,7 +76,7 @@
         }
     ],
     "wof:id":404546851,
-    "wof:lastmodified":1566603120,
+    "wof:lastmodified":1695877777,
     "wof:name":"Boddington",
     "wof:parent_id":102049531,
     "wof:placetype":"localadmin",

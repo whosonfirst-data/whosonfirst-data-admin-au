@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003585,
-    "geom:area_square_m":39309786.192807,
+    "geom:area_square_m":39309786.192752,
     "geom:bbox":"152.676710016,-27.579866423,152.762702688,-27.4903269965",
     "geom:latitude":-27.536814,
     "geom:longitude":152.716514,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.534086,
     "lbl:longitude":152.719442,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Pine Mountain"
@@ -60,9 +66,12 @@
         102048583
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31326"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"2b203a04df0f3f63339be8b13c61cecf",
+    "wof:geomhash":"9c3edff8715d6e73e6615dcb42fb9a6e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -75,7 +84,7 @@
         }
     ],
     "wof:id":404543743,
-    "wof:lastmodified":1566602139,
+    "wof:lastmodified":1695877212,
     "wof:name":"Pine Mountain",
     "wof:parent_id":102048583,
     "wof:placetype":"localadmin",

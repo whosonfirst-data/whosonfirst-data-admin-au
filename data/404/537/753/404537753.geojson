@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.181995,
-    "geom:area_square_m":1800051238.308864,
+    "geom:area_square_m":1800051238.308924,
     "geom:bbox":"147.26330096,-37.0571460085,147.973379008,-36.687750903",
     "geom:latitude":-36.881539,
     "geom:longitude":147.622606,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.838863,
     "lbl:longitude":147.629545,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Benambra"
@@ -38,9 +44,12 @@
         102049039
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20116"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"8ab47ee31b6fd2f1f937da299264d963",
+    "wof:geomhash":"78f20beb27783be29a16881c63085cf1",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404537753,
-    "wof:lastmodified":1566602321,
+    "wof:lastmodified":1695877306,
     "wof:name":"Benambra",
     "wof:parent_id":102049039,
     "wof:placetype":"localadmin",

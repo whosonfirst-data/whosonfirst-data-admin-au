@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000592,
-    "geom:area_square_m":6716184.40295,
+    "geom:area_square_m":6716184.402954,
     "geom:bbox":"150.459709984,-23.406070138,150.493556896,-23.3669409915",
     "geom:latitude":-23.384271,
     "geom:longitude":150.480501,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-23.380367,
     "lbl:longitude":150.480758,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "West Rockhampton"
@@ -38,12 +44,15 @@
         102048825
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31752"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935615
     ],
     "wof:country":"AU",
-    "wof:geomhash":"6f24c5cd5890fe0c5071835cfafe9c3c",
+    "wof:geomhash":"e5ace4f565f2aa5fb8394536e6a4c1e7",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404544637,
-    "wof:lastmodified":1566602194,
+    "wof:lastmodified":1695877241,
     "wof:name":"West Rockhampton",
     "wof:parent_id":102048825,
     "wof:placetype":"localadmin",

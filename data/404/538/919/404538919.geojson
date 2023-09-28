@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.116366,
-    "geom:area_square_m":1145214016.591478,
+    "geom:area_square_m":1145214016.591249,
     "geom:bbox":"146.200291008,-37.5345936755,146.647393568,-37.002414887",
     "geom:latitude":-37.259799,
     "geom:longitude":146.42947,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.294393,
     "lbl:longitude":146.43287,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Howqua Hills"
@@ -38,9 +44,12 @@
         102049455
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20640"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"c7dd38f9afcdf226e3e31fb50d28ed13",
+    "wof:geomhash":"eef7458f19bed66f83be575bb2ba525c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404538919,
-    "wof:lastmodified":1566602482,
+    "wof:lastmodified":1695877403,
     "wof:name":"Howqua Hills",
     "wof:parent_id":102049455,
     "wof:placetype":"localadmin",

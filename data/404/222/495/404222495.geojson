@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.301196,
-    "geom:area_square_m":3079697818.166934,
+    "geom:area_square_m":3079697818.166247,
     "geom:bbox":"145.206816032,-34.58015583,146.046657952,-33.800054009",
     "geom:latitude":-34.217029,
     "geom:longitude":145.632236,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.252732,
     "lbl:longitude":145.591119,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Carrathool"
@@ -47,9 +53,12 @@
         102049179
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10476"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"9e9d68de36e17c6b7bc0a4e1384d9196",
+    "wof:geomhash":"91ff0a16fb5949a8efeb1f1aa95ed3c1",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":404222495,
-    "wof:lastmodified":1566602805,
+    "wof:lastmodified":1695877595,
     "wof:name":"Carrathool",
     "wof:parent_id":102049179,
     "wof:placetype":"localadmin",

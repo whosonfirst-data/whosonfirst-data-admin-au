@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005693,
-    "geom:area_square_m":63452215.758471,
+    "geom:area_square_m":63452215.758383,
     "geom:bbox":"152.577752,-25.7133789825,152.66086,-25.592953991",
     "geom:latitude":-25.654501,
     "geom:longitude":152.627023,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-25.673005,
     "lbl:longitude":152.626428,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Owanyilla"
@@ -38,9 +44,12 @@
         102049435
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31275"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"c90081560b6e2a9dc9f088573b6d6cc2",
+    "wof:geomhash":"40b90c04de641809f4df05c834cab04c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404543631,
-    "wof:lastmodified":1566602138,
+    "wof:lastmodified":1695877212,
     "wof:name":"Owanyilla",
     "wof:parent_id":102049435,
     "wof:placetype":"localadmin",

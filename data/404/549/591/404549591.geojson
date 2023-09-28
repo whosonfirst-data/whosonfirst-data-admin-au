@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005037,
-    "geom:area_square_m":46796009.165654,
+    "geom:area_square_m":46796009.165716,
     "geom:bbox":"146.786790016,-41.343035995,146.916474016,-41.2413059935",
     "geom:latitude":-41.295255,
     "geom:longitude":146.845868,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-41.291911,
     "lbl:longitude":146.845847,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cym_x_preferred":[
         "Winkleigh"
@@ -59,9 +65,12 @@
         102049419
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60410"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"47e34311bef5a6acd88ab0b2cf37edff",
+    "wof:geomhash":"2f529eb6969da9fd77d4c7014cfffd1f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -73,7 +82,7 @@
         }
     ],
     "wof:id":404549591,
-    "wof:lastmodified":1566602871,
+    "wof:lastmodified":1695877640,
     "wof:name":"Winkleigh",
     "wof:parent_id":102049419,
     "wof:placetype":"localadmin",

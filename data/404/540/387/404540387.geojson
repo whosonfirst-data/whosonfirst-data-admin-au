@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032203,
-    "geom:area_square_m":320884313.243696,
+    "geom:area_square_m":320884313.243832,
     "geom:bbox":"147.114494048,-36.440041009,147.427964,-36.2020439665",
     "geom:latitude":-36.309015,
     "geom:longitude":147.265944,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.306006,
     "lbl:longitude":147.263056,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tallangatta South"
@@ -38,9 +44,12 @@
         102048643
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21297"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"53afa5ad4eee1c146570db830fa50f4f",
+    "wof:geomhash":"45d402d10bedbdb23ba115625c5b6513",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404540387,
-    "wof:lastmodified":1566603037,
+    "wof:lastmodified":1695877740,
     "wof:name":"Tallangatta South",
     "wof:parent_id":102048643,
     "wof:placetype":"localadmin",

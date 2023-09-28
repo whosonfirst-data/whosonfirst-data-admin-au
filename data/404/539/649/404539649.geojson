@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003704,
-    "geom:area_square_m":36406410.980063,
+    "geom:area_square_m":36406410.979929,
     "geom:bbox":"144.137758016,-37.397536,144.233760896,-37.304956006",
     "geom:latitude":-37.354531,
     "geom:longitude":144.182181,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.367248,
     "lbl:longitude":144.186142,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0633\u0643"
@@ -191,9 +197,12 @@
         102049553
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20966"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"b895e9ad66401535e58bb080d1c24fb7",
+    "wof:geomhash":"e52a24d6ead1978236957a635f176c66",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -205,7 +214,7 @@
         }
     ],
     "wof:id":404539649,
-    "wof:lastmodified":1566602394,
+    "wof:lastmodified":1695877352,
     "wof:name":"Musk",
     "wof:parent_id":102049553,
     "wof:placetype":"localadmin",

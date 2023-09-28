@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000953,
-    "geom:area_square_m":9295164.149451,
+    "geom:area_square_m":9295164.149438,
     "geom:bbox":"145.341291264,-37.908727556,145.389743744,-37.8721860045",
     "geom:latitude":-37.891217,
     "geom:longitude":145.364879,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.888631,
     "lbl:longitude":145.358477,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Sherbrooke"
@@ -171,9 +177,12 @@
         102048969
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21214"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"0baefb52632d51e3534b45065890ba6b",
+    "wof:geomhash":"59fd2c1ed1ebade6e727b38567fd7a66",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -186,7 +195,7 @@
         }
     ],
     "wof:id":404540201,
-    "wof:lastmodified":1566603030,
+    "wof:lastmodified":1695877736,
     "wof:name":"Sherbrooke",
     "wof:parent_id":102048969,
     "wof:placetype":"localadmin",

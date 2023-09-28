@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004196,
-    "geom:area_square_m":42916268.862546,
+    "geom:area_square_m":42916268.862535,
     "geom:bbox":"139.946684,-34.216371127,140.041959008,-34.1539790075",
     "geom:latitude":-34.189451,
     "geom:longitude":139.993201,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.195521,
     "lbl:longitude":139.978059,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Waikerie"
@@ -38,9 +44,12 @@
         102049421
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40756"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"6a620ca4d92d61e7ae5aa58fd1aeae3e",
+    "wof:geomhash":"c191db91c41b060f85dabb951863bd83",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404546493,
-    "wof:lastmodified":1566603142,
+    "wof:lastmodified":1695877787,
     "wof:name":"Waikerie",
     "wof:parent_id":102049421,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000218,
-    "geom:area_square_m":2293642.16962,
+    "geom:area_square_m":2293642.169609,
     "geom:bbox":"115.704460992,-31.6763969955,115.721364992,-31.6543740035",
     "geom:latitude":-31.664938,
     "geom:longitude":115.712729,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.664765,
     "lbl:longitude":115.7126,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Merriwa"
@@ -41,12 +47,15 @@
         102048879
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50492"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937489
     ],
     "wof:country":"AU",
-    "wof:geomhash":"a68b4bbc432c2fb10a498f4dd76bebba",
+    "wof:geomhash":"f4932af0dccd90a445938ccce4436539",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404547789,
-    "wof:lastmodified":1566602975,
+    "wof:lastmodified":1695877704,
     "wof:name":"Merriwa",
     "wof:parent_id":102048879,
     "wof:placetype":"localadmin",

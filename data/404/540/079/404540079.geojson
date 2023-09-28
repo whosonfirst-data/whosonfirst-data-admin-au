@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00826,
-    "geom:area_square_m":81192226.655535,
+    "geom:area_square_m":81192226.655598,
     "geom:bbox":"144.650504128,-37.4032450075,144.790537568,-37.306612977",
     "geom:latitude":-37.352345,
     "geom:longitude":144.728298,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.355127,
     "lbl:longitude":144.735304,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0631\u0627\u0645\u0633\u06cc"
@@ -92,9 +98,12 @@
         102048977
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21160"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"141343ab359f97eec3fad70149fccb37",
+    "wof:geomhash":"f14ae22dc28c66f0b2a19dee1251eb16",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -106,7 +115,7 @@
         }
     ],
     "wof:id":404540079,
-    "wof:lastmodified":1566602990,
+    "wof:lastmodified":1695877713,
     "wof:name":"Romsey",
     "wof:parent_id":102048977,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004343,
-    "geom:area_square_m":44446555.824449,
+    "geom:area_square_m":44446555.824409,
     "geom:bbox":"150.6951336,-34.2047572155,150.75670752,-34.0771346695",
     "geom:latitude":-34.136426,
     "geom:longitude":150.726306,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.115563,
     "lbl:longitude":150.718258,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Douglas Park"
@@ -44,9 +50,12 @@
         102048943
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10728"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"38087eed2dbea7d5e34b1af4399697b2",
+    "wof:geomhash":"8386b918e586547367bdd5989870fa77",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404223063,
-    "wof:lastmodified":1566602518,
+    "wof:lastmodified":1695877424,
     "wof:name":"Douglas Park",
     "wof:parent_id":102048943,
     "wof:placetype":"localadmin",

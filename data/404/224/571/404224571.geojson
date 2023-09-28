@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000662,
-    "geom:area_square_m":7174309.18944,
+    "geom:area_square_m":7174309.189487,
     "geom:bbox":"153.234565792,-28.848051006,153.269455008,-28.8053520995",
     "geom:latitude":-28.828115,
     "geom:longitude":153.25386,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.835779,
     "lbl:longitude":153.261396,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Loftville"
@@ -38,12 +44,15 @@
         102049635
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11398"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931077
     ],
     "wof:country":"AU",
-    "wof:geomhash":"ffe22859425e8c55f60184f00ae4e29f",
+    "wof:geomhash":"3151bfc95e2a39bacfa26ac6908276d4",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404224571,
-    "wof:lastmodified":1566602645,
+    "wof:lastmodified":1695877498,
     "wof:name":"Loftville",
     "wof:parent_id":102049635,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.287415,
-    "geom:area_square_m":2819321369.119034,
+    "geom:area_square_m":2819321369.118666,
     "geom:bbox":"148.787504,-37.803776945,149.442193344,-37.1427520205",
     "geom:latitude":-37.505248,
     "geom:longitude":149.111072,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.399192,
     "lbl:longitude":149.187262,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bemm River"
@@ -47,9 +53,12 @@
         102049039
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20113"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"2d8a7165fc3fb85a9d7fa55162b169cc",
+    "wof:geomhash":"4955fee0b984810821e4e8429ccda7f2",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":404537745,
-    "wof:lastmodified":1566602349,
+    "wof:lastmodified":1695877324,
     "wof:name":"Bemm River",
     "wof:parent_id":102049039,
     "wof:placetype":"localadmin",

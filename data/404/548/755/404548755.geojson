@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00641,
-    "geom:area_square_m":59474980.484557,
+    "geom:area_square_m":59474980.484574,
     "geom:bbox":"146.896492544,-41.4285182975,147.015254752,-41.331183489",
     "geom:latitude":-41.37809,
     "geom:longitude":146.958256,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-41.382187,
     "lbl:longitude":146.959199,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bridgenorth"
@@ -38,9 +44,12 @@
         102049419
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60038"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"8ae7472be7a828e29ce0f9a2a1bbc12a",
+    "wof:geomhash":"d736b1484db90cd7a7755a3ea860e03a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404548755,
-    "wof:lastmodified":1566603158,
+    "wof:lastmodified":1695877793,
     "wof:name":"Bridgenorth",
     "wof:parent_id":102049419,
     "wof:placetype":"localadmin",

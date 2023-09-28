@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000681,
-    "geom:area_square_m":7230831.318693,
+    "geom:area_square_m":7230831.318701,
     "geom:bbox":"117.45961,-30.8327910015,117.500538592,-30.8038150065",
     "geom:latitude":-30.817679,
     "geom:longitude":117.480609,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-30.819029,
     "lbl:longitude":117.482626,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Koorda"
@@ -38,12 +44,15 @@
         102048693
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50410"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937385
     ],
     "wof:country":"AU",
-    "wof:geomhash":"85d6b6559d5a671d100f7e83b4b0a760",
+    "wof:geomhash":"b99c7fcdb2c44e90538ad58e44016841",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404547605,
-    "wof:lastmodified":1566602934,
+    "wof:lastmodified":1695877679,
     "wof:name":"Koorda",
     "wof:parent_id":102048693,
     "wof:placetype":"localadmin",

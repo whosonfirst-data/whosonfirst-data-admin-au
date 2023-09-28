@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000101,
-    "geom:area_square_m":994050.165303,
+    "geom:area_square_m":994050.165307,
     "geom:bbox":"149.144084896,-37.5725580065,149.16378272,-37.5596131125",
     "geom:latitude":-37.567108,
     "geom:longitude":149.153578,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.566993,
     "lbl:longitude":149.152908,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Cann River"
@@ -44,12 +50,15 @@
         102049039
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20243"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932705
     ],
     "wof:country":"AU",
-    "wof:geomhash":"a2a728c71dc51c9fd8bb382197b6022b",
+    "wof:geomhash":"aed563f402c5bd923594be763929c441",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":404538033,
-    "wof:lastmodified":1566602475,
+    "wof:lastmodified":1695877398,
     "wof:name":"Cann River",
     "wof:parent_id":102049039,
     "wof:placetype":"localadmin",

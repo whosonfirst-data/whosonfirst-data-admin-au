@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.075178,
-    "geom:area_square_m":771522788.069301,
+    "geom:area_square_m":771522788.069635,
     "geom:bbox":"149.394686048,-34.1230582555,149.750181088,-33.667157742",
     "geom:latitude":-33.904779,
     "geom:longitude":149.558518,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.925056,
     "lbl:longitude":149.556,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Burraga"
@@ -44,9 +50,12 @@
         102048655
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10397"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"2821fc70a86dc9483b6cc343c45d36e1",
+    "wof:geomhash":"ef5dd680badd895aa900210d8bb0e552",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404222317,
-    "wof:lastmodified":1566602815,
+    "wof:lastmodified":1695877601,
     "wof:name":"Burraga",
     "wof:parent_id":102048655,
     "wof:placetype":"localadmin",

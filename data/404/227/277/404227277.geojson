@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002332,
-    "geom:area_square_m":24704154.056112,
+    "geom:area_square_m":24704154.056056,
     "geom:bbox":"152.725544992,-31.075269003,152.800610016,-31.008635",
     "geom:latitude":-31.042955,
     "geom:longitude":152.761907,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.040899,
     "lbl:longitude":152.761346,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Yarravel"
@@ -38,9 +44,12 @@
         102048527
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12601"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"1573c9c5b61562a231ea8670b43c999e",
+    "wof:geomhash":"d20b5ca5669b060c7459ad6daf7e75ec",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404227277,
-    "wof:lastmodified":1566601952,
+    "wof:lastmodified":1695877110,
     "wof:name":"Yarravel",
     "wof:parent_id":102048527,
     "wof:placetype":"localadmin",

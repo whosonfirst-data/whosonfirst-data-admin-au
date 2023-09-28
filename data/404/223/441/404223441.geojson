@@ -10,6 +10,12 @@
     "geom:latitude":-33.052805,
     "geom:longitude":151.594935,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.05243,
     "lbl:longitude":151.595489,
     "lbl:max_zoom":18.0,
@@ -43,13 +49,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC10896",
         "wd:id":"Q5455023"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101930305
     ],
     "wof:country":"AU",
-    "wof:geomhash":"9c5c2ff1796a7629677b373a9fc78bba",
+    "wof:geomhash":"80e09dd338d3294c3b942d22326fa47f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -62,7 +70,7 @@
         }
     ],
     "wof:id":404223441,
-    "wof:lastmodified":1566602507,
+    "wof:lastmodified":1695877964,
     "wof:name":"Fishing Point",
     "wof:parent_id":102048999,
     "wof:placetype":"localadmin",

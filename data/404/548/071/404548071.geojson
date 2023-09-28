@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.099079,
-    "geom:area_square_m":1016560210.888627,
+    "geom:area_square_m":1016560210.888652,
     "geom:bbox":"117.854208704,-34.1129530005,118.265812992,-33.767518688",
     "geom:latitude":-33.926184,
     "geom:longitude":118.076385,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.913736,
     "lbl:longitude":118.124485,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Pallinup"
@@ -38,9 +44,12 @@
         102049091
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50618"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"2fc52d558ef3e038aa61608890a0f7bf",
+    "wof:geomhash":"aa19531e629e6fcfd661e95e0be257cf",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404548071,
-    "wof:lastmodified":1566603174,
+    "wof:lastmodified":1695877801,
     "wof:name":"Pallinup",
     "wof:parent_id":102049091,
     "wof:placetype":"localadmin",

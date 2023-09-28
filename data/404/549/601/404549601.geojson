@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030307,
-    "geom:area_square_m":276071497.348334,
+    "geom:area_square_m":276071497.348783,
     "geom:bbox":"147.482210016,-42.7000513065,147.697849952,-42.4273170175",
     "geom:latitude":-42.550054,
     "geom:longitude":147.577023,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-42.515589,
     "lbl:longitude":147.569641,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Woodsdale"
@@ -38,9 +44,12 @@
         102049259
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60414"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"76a417eda275f9e02bba3f137a948703",
+    "wof:geomhash":"6f1644744900d2d18e45e1972c383119",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404549601,
-    "wof:lastmodified":1566602903,
+    "wof:lastmodified":1695877662,
     "wof:name":"Woodsdale",
     "wof:parent_id":102049259,
     "wof:placetype":"localadmin",

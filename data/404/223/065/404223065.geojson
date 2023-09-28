@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000095,
-    "geom:area_square_m":978182.073116,
+    "geom:area_square_m":978174.681379,
     "geom:bbox":"151.277481,-33.88334,151.284667,-33.86461",
     "geom:latitude":-33.873298,
     "geom:longitude":151.281051,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.873345,
     "lbl:longitude":151.281342,
     "lbl:max_zoom":18.0,
@@ -76,13 +82,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC10729",
         "wd:id":"Q2900729"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101930113
     ],
     "wof:country":"AU",
-    "wof:geomhash":"9012fd5f19aaf7ba5f56775e45b8d6fd",
+    "wof:geomhash":"7575f699762e6441207473918ba220c7",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -95,7 +103,7 @@
         }
     ],
     "wof:id":404223065,
-    "wof:lastmodified":1690853606,
+    "wof:lastmodified":1695877964,
     "wof:name":"Dover Heights",
     "wof:parent_id":102049285,
     "wof:placetype":"localadmin",

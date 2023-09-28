@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008287,
-    "geom:area_square_m":82541788.769134,
+    "geom:area_square_m":82541788.769059,
     "geom:bbox":"146.342458464,-36.3853713445,146.564473504,-36.2920375495",
     "geom:latitude":-36.342571,
     "geom:longitude":146.454796,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.346516,
     "lbl:longitude":146.447212,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "East Wangaratta"
@@ -38,9 +44,12 @@
         102049395
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20436"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"39a4896c32e1bf52e41db0a8bdf2d872",
+    "wof:geomhash":"739af68c124a402ebc584b17834424cc",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404538463,
-    "wof:lastmodified":1566602441,
+    "wof:lastmodified":1695877381,
     "wof:name":"East Wangaratta",
     "wof:parent_id":102049395,
     "wof:placetype":"localadmin",

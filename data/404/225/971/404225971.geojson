@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005829,
-    "geom:area_square_m":60083430.271209,
+    "geom:area_square_m":60083430.270831,
     "geom:bbox":"150.007651008,-33.591081006,150.085371008,-33.4525059975",
     "geom:latitude":-33.523996,
     "geom:longitude":150.045497,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.507033,
     "lbl:longitude":150.036392,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Rydal"
@@ -50,9 +56,12 @@
         102049125
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12021"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"87dfb11f28b537743a20790c48af6789",
+    "wof:geomhash":"259a3b4747672d475c15fb0dcd043358",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":404225971,
-    "wof:lastmodified":1566602696,
+    "wof:lastmodified":1695877527,
     "wof:name":"Rydal",
     "wof:parent_id":102049125,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":-33.500616,
     "geom:longitude":150.137292,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.500864,
     "lbl:longitude":150.138285,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "South Littleton"
@@ -59,12 +65,15 @@
         102049125
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12108"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931893
     ],
     "wof:country":"AU",
-    "wof:geomhash":"b0d9ac207cd4a7ce4e8b747c1c1231f8",
+    "wof:geomhash":"4fccc84ecac1f93418c85fdf71f1a0ae",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -76,7 +85,7 @@
         }
     ],
     "wof:id":404226167,
-    "wof:lastmodified":1566602019,
+    "wof:lastmodified":1695877142,
     "wof:name":"South Littleton",
     "wof:parent_id":102049125,
     "wof:placetype":"localadmin",

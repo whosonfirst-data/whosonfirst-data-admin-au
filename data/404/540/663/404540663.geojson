@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012106,
-    "geom:area_square_m":120255997.354719,
+    "geom:area_square_m":120255997.354696,
     "geom:bbox":"145.02084848,-36.606803672,145.157557696,-36.4989363325",
     "geom:latitude":-36.548913,
     "geom:longitude":145.089913,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.550757,
     "lbl:longitude":145.091194,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Waranga Shores"
@@ -38,9 +44,12 @@
         102049529
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21421"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"d295b5f17e5d25704d37fc7bb5a3f5c5",
+    "wof:geomhash":"3dad59a091b8ca546111152c6105926a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404540663,
-    "wof:lastmodified":1566603027,
+    "wof:lastmodified":1695877734,
     "wof:name":"Waranga Shores",
     "wof:parent_id":102049529,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012587,
-    "geom:area_square_m":122675297.470635,
+    "geom:area_square_m":122675297.470757,
     "geom:bbox":"145.97015,-38.065388997,146.119153984,-37.896855218",
     "geom:latitude":-37.980907,
     "geom:longitude":146.047955,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.961362,
     "lbl:longitude":146.03668,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Neerim East"
@@ -38,9 +44,12 @@
         102048523
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20994"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"d3a49b91bee10a211cc50863f1f87e9f",
+    "wof:geomhash":"19d15cee46afd5bd6c2ec9dc3c915472",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404539711,
-    "wof:lastmodified":1566602419,
+    "wof:lastmodified":1695877369,
     "wof:name":"Neerim East",
     "wof:parent_id":102048523,
     "wof:placetype":"localadmin",

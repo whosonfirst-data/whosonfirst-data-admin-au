@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031201,
-    "geom:area_square_m":301424035.278395,
+    "geom:area_square_m":301424035.278491,
     "geom:bbox":"143.63803,-38.7152070285,143.946105888,-38.531402998",
     "geom:latitude":-38.62247,
     "geom:longitude":143.774025,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.636477,
     "lbl:longitude":143.758875,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Wye River"
@@ -38,9 +44,12 @@
         102049117
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21512"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"75b7dc2980053ba7f98d02794621814c",
+    "wof:geomhash":"7c87eb8cbcc1c4fa035d3e343cf7a049",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404540867,
-    "wof:lastmodified":1566603001,
+    "wof:lastmodified":1695877719,
     "wof:name":"Wye River",
     "wof:parent_id":102049117,
     "wof:placetype":"localadmin",

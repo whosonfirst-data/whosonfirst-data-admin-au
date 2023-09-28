@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031747,
-    "geom:area_square_m":315238542.90127,
+    "geom:area_square_m":315238542.901232,
     "geom:bbox":"145.899476,-36.6927449965,146.114134016,-36.4494729935",
     "geom:latitude":-36.578908,
     "geom:longitude":145.996767,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.577908,
     "lbl:longitude":145.984011,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Benalla"
@@ -89,9 +95,12 @@
         102049239
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20115"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"885fa039d1052476ecc52a427fa4d2f3",
+    "wof:geomhash":"1619fbbeeef8e5ad862a656f29eaab62",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -103,7 +112,7 @@
         }
     ],
     "wof:id":404537749,
-    "wof:lastmodified":1566602333,
+    "wof:lastmodified":1695877314,
     "wof:name":"Benalla",
     "wof:parent_id":102049239,
     "wof:placetype":"localadmin",

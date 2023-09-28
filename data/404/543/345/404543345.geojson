@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000261,
-    "geom:area_square_m":2861126.907508,
+    "geom:area_square_m":2861126.907502,
     "geom:bbox":"151.963406464,-27.5589824205,151.982439392,-27.5295060005",
     "geom:latitude":-27.546281,
     "geom:longitude":151.972185,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.546786,
     "lbl:longitude":151.970744,
     "lbl:max_zoom":18.0,
@@ -57,13 +63,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC31141",
         "wd:id":"Q6921865"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934919
     ],
     "wof:country":"AU",
-    "wof:geomhash":"7520df27c9d03ec23cdd842f83456c3b",
+    "wof:geomhash":"63fa5a875d763dae440711520a289ae9",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -75,7 +83,7 @@
         }
     ],
     "wof:id":404543345,
-    "wof:lastmodified":1566602141,
+    "wof:lastmodified":1695877920,
     "wof:name":"Mount Lofty",
     "wof:parent_id":102049357,
     "wof:placetype":"localadmin",

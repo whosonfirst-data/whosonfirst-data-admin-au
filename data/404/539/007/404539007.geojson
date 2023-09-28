@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000793,
-    "geom:area_square_m":7736268.392791,
+    "geom:area_square_m":7736268.392794,
     "geom:bbox":"147.938827008,-37.883637005,147.99031488,-37.8553243645",
     "geom:latitude":-37.870106,
     "geom:longitude":147.966637,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.869791,
     "lbl:longitude":147.966646,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kalimna"
@@ -38,12 +44,15 @@
         102049039
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20680"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101933089
     ],
     "wof:country":"AU",
-    "wof:geomhash":"087567ec80dad31d269ec3e405b9b947",
+    "wof:geomhash":"fd5ec2c9f38eff47df248427ec7d325e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404539007,
-    "wof:lastmodified":1566602368,
+    "wof:lastmodified":1695877335,
     "wof:name":"Kalimna",
     "wof:parent_id":102049039,
     "wof:placetype":"localadmin",

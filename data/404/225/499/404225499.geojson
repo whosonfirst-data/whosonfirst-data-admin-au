@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.040014,
-    "geom:area_square_m":414413084.065996,
+    "geom:area_square_m":414413084.066212,
     "geom:bbox":"147.296816512,-33.264995788,147.559164832,-32.9842260055",
     "geom:latitude":-33.115795,
     "geom:longitude":147.424727,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.115725,
     "lbl:longitude":147.424847,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ootha"
@@ -38,9 +44,12 @@
         102048487
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11811"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"a30c9e30c2e0ac484ef0bcba26b0d110",
+    "wof:geomhash":"e84e4e1c273e05bea6db01f66da08b65",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404225499,
-    "wof:lastmodified":1566602683,
+    "wof:lastmodified":1695877521,
     "wof:name":"Ootha",
     "wof:parent_id":102048487,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000908,
-    "geom:area_square_m":9220679.767292,
+    "geom:area_square_m":9220679.767287,
     "geom:bbox":"149.654329152,-34.7897599975,149.687887296,-34.7477930065",
     "geom:latitude":-34.766532,
     "geom:longitude":149.670193,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.759658,
     "lbl:longitude":149.671551,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Run-O-Waters"
@@ -38,12 +44,15 @@
         102048827
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12015"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931769
     ],
     "wof:country":"AU",
-    "wof:geomhash":"e0852ff54cf1972bc1799e43369443c9",
+    "wof:geomhash":"01b45ca11b83d3260729ed5c8d1c155f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404225959,
-    "wof:lastmodified":1566602701,
+    "wof:lastmodified":1695877529,
     "wof:name":"Run-O-Waters",
     "wof:parent_id":102048827,
     "wof:placetype":"localadmin",

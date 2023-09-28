@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000532,
-    "geom:area_square_m":5587358.253229,
+    "geom:area_square_m":5587358.253235,
     "geom:bbox":"152.646204992,-31.891307999,152.701190272,-31.8657939275",
     "geom:latitude":-31.879237,
     "geom:longitude":152.671199,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.88436,
     "lbl:longitude":152.659813,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:amh_x_preferred":[
         "\u1200\u122a\u1295\u130d\u1270\u1295"
@@ -104,12 +110,15 @@
         102048833
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11076"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101930629
     ],
     "wof:country":"AU",
-    "wof:geomhash":"d9db445d273e97b6d891c635060a4351",
+    "wof:geomhash":"b45379d61ef47f691fe026180bf4d214",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -121,7 +130,7 @@
         }
     ],
     "wof:id":404223845,
-    "wof:lastmodified":1566602501,
+    "wof:lastmodified":1695877414,
     "wof:name":"Harrington",
     "wof:parent_id":102048833,
     "wof:placetype":"localadmin",

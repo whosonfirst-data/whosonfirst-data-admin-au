@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004136,
-    "geom:area_square_m":46241204.462999,
+    "geom:area_square_m":46241204.463053,
     "geom:bbox":"152.26421248,-25.317090982,152.347100992,-25.240005552",
     "geom:latitude":-25.275494,
     "geom:longitude":152.303197,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-25.270635,
     "lbl:longitude":152.306563,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "South Isis"
@@ -38,9 +44,12 @@
         102048763
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31497"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"c8c58118040a60795077430b4e0dfec3",
+    "wof:geomhash":"869dffd8453d76570098f1926fb161af",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404544103,
-    "wof:lastmodified":1566602148,
+    "wof:lastmodified":1695877216,
     "wof:name":"South Isis",
     "wof:parent_id":102048763,
     "wof:placetype":"localadmin",

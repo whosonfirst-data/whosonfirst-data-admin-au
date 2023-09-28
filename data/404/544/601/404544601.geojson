@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00048,
-    "geom:area_square_m":5259402.499431,
+    "geom:area_square_m":5259402.499436,
     "geom:bbox":"153.102506432,-27.708259679,153.146826976,-27.677133984",
     "geom:latitude":-27.69248,
     "geom:longitude":153.12694,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.692342,
     "lbl:longitude":153.132483,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Waterford West"
@@ -39,12 +45,15 @@
         102048665
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31735"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935591
     ],
     "wof:country":"AU",
-    "wof:geomhash":"0e6009fe90eda2e703f931e36cf48154",
+    "wof:geomhash":"35b3de3addc857cc16e65e7b019246a4",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404544601,
-    "wof:lastmodified":1566602196,
+    "wof:lastmodified":1695877242,
     "wof:name":"Waterford West",
     "wof:parent_id":102048665,
     "wof:placetype":"localadmin",

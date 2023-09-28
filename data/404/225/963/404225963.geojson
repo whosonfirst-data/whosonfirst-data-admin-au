@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000015,
-    "geom:area_square_m":155894.945797,
+    "geom:area_square_m":155893.783222,
     "geom:bbox":"151.224439,-33.876931,151.230592,-33.872212",
     "geom:latitude":-33.8748,
     "geom:longitude":151.227992,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.874816,
     "lbl:longitude":151.228512,
     "lbl:max_zoom":18.0,
@@ -73,13 +79,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC12017",
         "wd:id":"Q2919661"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931773
     ],
     "wof:country":"AU",
-    "wof:geomhash":"d991addd1d911e7e6b236db8334f180e",
+    "wof:geomhash":"e166e5d51d406dc0e52721abf1ceb6e6",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -92,7 +100,7 @@
         }
     ],
     "wof:id":404225963,
-    "wof:lastmodified":1690853661,
+    "wof:lastmodified":1695877985,
     "wof:name":"Rushcutters Bay",
     "wof:parent_id":102049151,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019143,
-    "geom:area_square_m":224423843.276172,
+    "geom:area_square_m":224423843.276282,
     "geom:bbox":"146.016572,-18.6378969915,146.180322208,-18.4008349575",
     "geom:latitude":-18.535222,
     "geom:longitude":146.093672,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-18.54261,
     "lbl:longitude":146.088114,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Hawkins Creek"
@@ -38,9 +44,12 @@
         102048645
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30735"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"7f7e6f4b9fad0cf5c05600c45286c8aa",
+    "wof:geomhash":"847295ad69f5d51a1613d028e991cb5b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404542483,
-    "wof:lastmodified":1566602271,
+    "wof:lastmodified":1695877276,
     "wof:name":"Hawkins Creek",
     "wof:parent_id":102048645,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027949,
-    "geom:area_square_m":285629685.490961,
+    "geom:area_square_m":285629685.490866,
     "geom:bbox":"138.526892992,-34.3890584705,138.720033728,-34.140475617",
     "geom:latitude":-34.260756,
     "geom:longitude":138.628116,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.255323,
     "lbl:longitude":138.634827,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Alma"
@@ -131,9 +137,12 @@
         102049309
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40011"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"c8d91163517e585cab66c25a584020f3",
+    "wof:geomhash":"13ae134d53e99031620cb87bc2b7b3d0",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -145,7 +154,7 @@
         }
     ],
     "wof:id":404544885,
-    "wof:lastmodified":1566602189,
+    "wof:lastmodified":1695877238,
     "wof:name":"Alma",
     "wof:parent_id":102049309,
     "wof:placetype":"localadmin",

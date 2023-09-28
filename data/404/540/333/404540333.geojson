@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017863,
-    "geom:area_square_m":178894480.40436,
+    "geom:area_square_m":178894480.404293,
     "geom:bbox":"145.349925984,-35.978881038,145.531586016,-35.836509145",
     "geom:latitude":-35.91155,
     "geom:longitude":145.449971,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.913048,
     "lbl:longitude":145.448234,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Strathmerton"
@@ -41,9 +47,12 @@
         102048427
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21273"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"29d34acf2d5f701ef752a9ebc83246d8",
+    "wof:geomhash":"6340c13062a1a9ab0f16dc51ca3d0b35",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404540333,
-    "wof:lastmodified":1566603017,
+    "wof:lastmodified":1695877728,
     "wof:name":"Strathmerton",
     "wof:parent_id":102048427,
     "wof:placetype":"localadmin",

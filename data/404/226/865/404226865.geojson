@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000636,
-    "geom:area_square_m":6599282.799626,
+    "geom:area_square_m":6599282.799644,
     "geom:bbox":"151.634432992,-32.991184133,151.667488448,-32.955823233",
     "geom:latitude":-32.972509,
     "geom:longitude":151.652678,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.976061,
     "lbl:longitude":151.653799,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Warners Bay"
@@ -39,12 +45,15 @@
         102048999
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12418"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932237
     ],
     "wof:country":"AU",
-    "wof:geomhash":"bf8ba71d5d95dcc8f0e94345ff5246b6",
+    "wof:geomhash":"fce0948ef864bef987fbe7cbc6842a1e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404226865,
-    "wof:lastmodified":1566602075,
+    "wof:lastmodified":1695877178,
     "wof:name":"Warners Bay",
     "wof:parent_id":102048999,
     "wof:placetype":"localadmin",

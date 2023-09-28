@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015606,
-    "geom:area_square_m":140868075.971529,
+    "geom:area_square_m":140868075.971762,
     "geom:bbox":"147.869089952,-43.246565782,148.056967936,-43.000058721",
     "geom:latitude":-43.114295,
     "geom:longitude":147.928792,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-43.09962,
     "lbl:longitude":147.923219,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0418\u0433\u044a\u043b\u0445\u043e\u0443\u043a \u041d\u0435\u043a"
@@ -56,9 +62,12 @@
         102048661
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60097"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"720815bddb64f14f78042ba8588e8a99",
+    "wof:geomhash":"a5339a71f314d3f1bef1ecf41f125976",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -70,7 +79,7 @@
         }
     ],
     "wof:id":404548887,
-    "wof:lastmodified":1566603170,
+    "wof:lastmodified":1695877799,
     "wof:name":"Eaglehawk Neck",
     "wof:parent_id":102048661,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.688607,
-    "geom:area_square_m":7143907525.719249,
+    "geom:area_square_m":7143907525.720392,
     "geom:bbox":"146.45194208,-33.5918164735,147.498247008,-32.2780594345",
     "geom:latitude":-32.963798,
     "geom:longitude":146.993885,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.960745,
     "lbl:longitude":147.001953,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Condobolin"
@@ -56,9 +62,12 @@
         102048865
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10577"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"1ccc016ad920d45d5675c5053e5422ae",
+    "wof:geomhash":"5f4a124d3bf898d24557d080211d0aa4",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -70,7 +79,7 @@
         }
     ],
     "wof:id":404222723,
-    "wof:lastmodified":1566602780,
+    "wof:lastmodified":1695877580,
     "wof:name":"Condobolin",
     "wof:parent_id":102048865,
     "wof:placetype":"localadmin",

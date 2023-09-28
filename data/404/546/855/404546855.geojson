@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.072517,
-    "geom:area_square_m":783443642.305384,
+    "geom:area_square_m":783443642.305428,
     "geom:bbox":"114.826578144,-29.251703209,115.26464688,-28.9787733565",
     "geom:latitude":-29.106947,
     "geom:longitude":115.071493,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-29.116388,
     "lbl:longitude":115.141295,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bonniefield"
@@ -38,9 +44,12 @@
         102048739
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50075"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"516cfad94bd3688dd27649b6cd84d26b",
+    "wof:geomhash":"a129f912dd4091aff7503212518d64a3",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404546855,
-    "wof:lastmodified":1566603146,
+    "wof:lastmodified":1695877788,
     "wof:name":"Bonniefield",
     "wof:parent_id":102048739,
     "wof:placetype":"localadmin",

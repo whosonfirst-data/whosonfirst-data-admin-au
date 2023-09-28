@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006857,
-    "geom:area_square_m":82873500.492929,
+    "geom:area_square_m":82873500.492871,
     "geom:bbox":"136.672869152,-12.249113004,136.869286368,-12.0424641005",
     "geom:latitude":-12.181493,
     "geom:longitude":136.776558,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-12.18869,
     "lbl:longitude":136.767653,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Nhulunbuy"
@@ -80,9 +86,12 @@
         102049201
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC70144"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"df298408969b49d6fee309c9d23c17fe",
+    "wof:geomhash":"bb27d47419c3bbc17bf093c7d171c37c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -94,7 +103,7 @@
         }
     ],
     "wof:id":404549809,
-    "wof:lastmodified":1566602900,
+    "wof:lastmodified":1695877661,
     "wof:name":"Nhulunbuy",
     "wof:parent_id":102049201,
     "wof:placetype":"localadmin",

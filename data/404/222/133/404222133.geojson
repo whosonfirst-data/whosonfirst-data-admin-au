@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003523,
-    "geom:area_square_m":35915024.476736,
+    "geom:area_square_m":35915024.476733,
     "geom:bbox":"150.369204992,-34.500777991,150.47488304,-34.445201105",
     "geom:latitude":-34.476197,
     "geom:longitude":150.413943,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.474661,
     "lbl:longitude":150.397099,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bowral"
@@ -66,9 +72,12 @@
         102048539
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10315"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"9afb56ee8b6e2d4de19f81b07f3a484f",
+    "wof:geomhash":"8f8ab952ef523c29908166df3956c7a6",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -81,7 +90,7 @@
         }
     ],
     "wof:id":404222133,
-    "wof:lastmodified":1566602749,
+    "wof:lastmodified":1695877559,
     "wof:name":"Bowral",
     "wof:parent_id":102048539,
     "wof:placetype":"localadmin",

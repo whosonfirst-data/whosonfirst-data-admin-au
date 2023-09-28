@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007093,
-    "geom:area_square_m":66286392.884061,
+    "geom:area_square_m":66286392.883758,
     "geom:bbox":"145.404304992,-40.941636093,145.571728896,-40.8514903845",
     "geom:latitude":-40.902742,
     "geom:longitude":145.484153,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-40.899269,
     "lbl:longitude":145.485396,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Rocky Cape"
@@ -38,9 +44,12 @@
         102049649
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60309"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"581883873de5b7323c6ad8673751b3b6",
+    "wof:geomhash":"e619da47d022d8cee49279fc3d62db3f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404549365,
-    "wof:lastmodified":1566602824,
+    "wof:lastmodified":1695877607,
     "wof:name":"Rocky Cape",
     "wof:parent_id":102049649,
     "wof:placetype":"localadmin",

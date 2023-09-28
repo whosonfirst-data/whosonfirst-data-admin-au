@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.316483,
-    "geom:area_square_m":3425779823.901457,
+    "geom:area_square_m":3425779823.896986,
     "geom:bbox":"149.265336,-29.290798001,149.984804,-28.571075481",
     "geom:latitude":-28.906897,
     "geom:longitude":149.622849,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.883772,
     "lbl:longitude":149.629881,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Garah"
@@ -38,9 +44,12 @@
         102049009
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10925"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"f6d1056a499ee58bdeacce4d8b5e0f27",
+    "wof:geomhash":"474dd28a2deea1c9ba2d3fcb9f302780",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404223505,
-    "wof:lastmodified":1566602491,
+    "wof:lastmodified":1695877408,
     "wof:name":"Garah",
     "wof:parent_id":102049009,
     "wof:placetype":"localadmin",

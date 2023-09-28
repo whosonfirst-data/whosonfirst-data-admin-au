@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.066348,
-    "geom:area_square_m":651517315.026928,
+    "geom:area_square_m":651517315.026846,
     "geom:bbox":"139.86841616,-37.585158005,140.303839008,-37.320380529",
     "geom:latitude":-37.42614,
     "geom:longitude":140.103046,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.424142,
     "lbl:longitude":140.13592,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Beachport"
@@ -50,9 +56,12 @@
         102048639
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40037"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"fdf4f5a02257f45cf2e07c1bc1c0ec6f",
+    "wof:geomhash":"f231d1f081cba74d34f95f3416baabb8",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":404544937,
-    "wof:lastmodified":1566602152,
+    "wof:lastmodified":1695877218,
     "wof:name":"Beachport",
     "wof:parent_id":102048639,
     "wof:placetype":"localadmin",

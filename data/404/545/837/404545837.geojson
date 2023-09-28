@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000386,
-    "geom:area_square_m":3952071.110455,
+    "geom:area_square_m":3952071.11045,
     "geom:bbox":"137.555807392,-34.070821785,137.58484224,-34.046777927",
     "geom:latitude":-34.059955,
     "geom:longitude":137.569537,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.059625,
     "lbl:longitude":137.56976,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Moonta Bay"
@@ -38,12 +44,15 @@
         102049563
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40448"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101936299
     ],
     "wof:country":"AU",
-    "wof:geomhash":"82d8492ea22e01b5a32def7c233f0d9b",
+    "wof:geomhash":"773af1240407cd549393231957a67883",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404545837,
-    "wof:lastmodified":1566602248,
+    "wof:lastmodified":1695877265,
     "wof:name":"Moonta Bay",
     "wof:parent_id":102049563,
     "wof:placetype":"localadmin",

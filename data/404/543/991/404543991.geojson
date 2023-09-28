@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028586,
-    "geom:area_square_m":316376584.509945,
+    "geom:area_square_m":316376584.509462,
     "geom:bbox":"151.987896,-26.6102829955,152.173776992,-26.3591949645",
     "geom:latitude":-26.482495,
     "geom:longitude":152.076023,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-26.479026,
     "lbl:longitude":152.074268,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Runnymede"
@@ -71,9 +77,12 @@
         102048861
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31441"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"0bb50314d564495296f15b7f5587a873",
+    "wof:geomhash":"174e369f821c5103d68b1cef6b458f9e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -85,7 +94,7 @@
         }
     ],
     "wof:id":404543991,
-    "wof:lastmodified":1566602093,
+    "wof:lastmodified":1695877188,
     "wof:name":"Runnymede",
     "wof:parent_id":102048861,
     "wof:placetype":"localadmin",

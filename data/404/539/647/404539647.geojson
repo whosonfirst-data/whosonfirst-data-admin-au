@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.047969,
-    "geom:area_square_m":475896459.192997,
+    "geom:area_square_m":475896459.192979,
     "geom:bbox":"142.369845792,-36.804635013,142.631395552,-36.4880981445",
     "geom:latitude":-36.64697,
     "geom:longitude":142.49311,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.630093,
     "lbl:longitude":142.469323,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Murtoa"
@@ -38,9 +44,12 @@
         102048571
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20965"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"cf50d39a801e56f43df9c5c519b4750b",
+    "wof:geomhash":"6ee6abbdebf60769c18b47015e2370c1",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404539647,
-    "wof:lastmodified":1566602395,
+    "wof:lastmodified":1695877353,
     "wof:name":"Murtoa",
     "wof:parent_id":102048571,
     "wof:placetype":"localadmin",

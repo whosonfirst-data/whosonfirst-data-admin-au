@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000368,
-    "geom:area_square_m":3774352.81348,
+    "geom:area_square_m":3774352.813479,
     "geom:bbox":"150.994010368,-33.9836002235,151.021924,-33.962417668",
     "geom:latitude":-33.973849,
     "geom:longitude":151.006889,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.973091,
     "lbl:longitude":151.008015,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Picnic Point"
@@ -45,12 +51,15 @@
         102049447
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11874"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931593
     ],
     "wof:country":"AU",
-    "wof:geomhash":"aa4b9eda012843cc7dd35c110b5a04da",
+    "wof:geomhash":"1ed8ffc2698eebf0a9e5fa8d5415a663",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -63,7 +72,7 @@
         }
     ],
     "wof:id":404225641,
-    "wof:lastmodified":1566602719,
+    "wof:lastmodified":1695877539,
     "wof:name":"Picnic Point",
     "wof:parent_id":102049447,
     "wof:placetype":"localadmin",

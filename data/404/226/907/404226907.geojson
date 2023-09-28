@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.080046,
-    "geom:area_square_m":850872274.054804,
+    "geom:area_square_m":850872274.05447,
     "geom:bbox":"150.755338016,-30.9176749955,151.161137952,-30.552457005",
     "geom:latitude":-30.722422,
     "geom:longitude":150.970755,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-30.725983,
     "lbl:longitude":150.967601,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Watsons Creek"
@@ -41,9 +47,12 @@
         102048785
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12437"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"91c04fa75deb5156007c1f8c334af282",
+    "wof:geomhash":"b10da3557c309e42015a64ba693967f1",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404226907,
-    "wof:lastmodified":1566602013,
+    "wof:lastmodified":1695877139,
     "wof:name":"Watsons Creek",
     "wof:parent_id":102048785,
     "wof:placetype":"localadmin",

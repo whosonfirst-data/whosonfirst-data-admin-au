@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000383,
-    "geom:area_square_m":4261380.912427,
+    "geom:area_square_m":4261380.912444,
     "geom:bbox":"152.980543296,-25.937559004,153.016418176,-25.9013870085",
     "geom:latitude":-25.921592,
     "geom:longitude":152.999129,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-25.92127,
     "lbl:longitude":153.000869,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tin Can Bay"
@@ -38,12 +44,15 @@
         102049393
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31634"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935475
     ],
     "wof:country":"AU",
-    "wof:geomhash":"9dca6b70bc57d56ddf06231bd7a2e9aa",
+    "wof:geomhash":"9cb3a26f68371047c73030f3048f5240",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404544397,
-    "wof:lastmodified":1566602153,
+    "wof:lastmodified":1695877219,
     "wof:name":"Tin Can Bay",
     "wof:parent_id":102049393,
     "wof:placetype":"localadmin",

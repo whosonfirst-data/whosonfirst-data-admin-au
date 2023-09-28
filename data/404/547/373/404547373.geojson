@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012074,
-    "geom:area_square_m":130618137.838672,
+    "geom:area_square_m":130618137.838764,
     "geom:bbox":"114.664344992,-29.0617786015,114.870741984,-28.8621270085",
     "geom:latitude":-28.964671,
     "geom:longitude":114.764117,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.925482,
     "lbl:longitude":114.722733,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Greenough"
@@ -47,9 +53,12 @@
         102048715
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50307"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"861096c97d02318e31796292464033ec",
+    "wof:geomhash":"83b7e587a61a2115d8225d6a6538417e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":404547373,
-    "wof:lastmodified":1566602974,
+    "wof:lastmodified":1695877703,
     "wof:name":"Greenough",
     "wof:parent_id":102048715,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028819,
-    "geom:area_square_m":293435991.147536,
+    "geom:area_square_m":293435991.14738,
     "geom:bbox":"140.598416992,-34.638221003,140.819339872,-34.48589981",
     "geom:latitude":-34.568195,
     "geom:longitude":140.715085,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.562078,
     "lbl:longitude":140.720872,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Woodleigh"
@@ -44,9 +50,12 @@
         102049421
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40820"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"82479b82d4e5f63ed1263d0851c948b3",
+    "wof:geomhash":"3f0c525a3ba83f729d4c0dc4e8760917",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404546633,
-    "wof:lastmodified":1566603117,
+    "wof:lastmodified":1695877776,
     "wof:name":"Woodleigh",
     "wof:parent_id":102049421,
     "wof:placetype":"localadmin",

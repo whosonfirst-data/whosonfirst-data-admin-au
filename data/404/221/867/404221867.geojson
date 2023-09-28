@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005088,
-    "geom:area_square_m":51669211.877672,
+    "geom:area_square_m":51669211.877669,
     "geom:bbox":"150.665374016,-34.8400861025,150.781336832,-34.7588620005",
     "geom:latitude":-34.792403,
     "geom:longitude":150.726631,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.795335,
     "lbl:longitude":150.740184,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Bessie"
@@ -116,9 +122,12 @@
         102049405
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10197"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"db10c47e2413009105c130111cbf32f9",
+    "wof:geomhash":"0677d3bac0176c12381e3e08f50eb2a3",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -130,7 +139,7 @@
         }
     ],
     "wof:id":404221867,
-    "wof:lastmodified":1566601980,
+    "wof:lastmodified":1695877124,
     "wof:name":"Berry",
     "wof:parent_id":102049405,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000255,
-    "geom:area_square_m":2613228.916201,
+    "geom:area_square_m":2613228.91622,
     "geom:bbox":"151.144554432,-33.8900501635,151.16734512,-33.8728463475",
     "geom:latitude":-33.882314,
     "geom:longitude":151.154686,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.881842,
     "lbl:longitude":151.153757,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Leichhardt"
@@ -54,12 +60,15 @@
         102049643
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11351"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931017
     ],
     "wof:country":"AU",
-    "wof:geomhash":"17498381a28f385b182bbba25cbb322e",
+    "wof:geomhash":"04e928506738f7e91833d051eaf39897",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -72,7 +81,7 @@
         }
     ],
     "wof:id":404224465,
-    "wof:lastmodified":1566602599,
+    "wof:lastmodified":1695877474,
     "wof:name":"Leichhardt",
     "wof:parent_id":102049643,
     "wof:placetype":"localadmin",

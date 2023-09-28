@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006683,
-    "geom:area_square_m":64932429.467627,
+    "geom:area_square_m":64932429.467637,
     "geom:bbox":"141.551624992,-38.256805833,141.697043008,-38.1667552145",
     "geom:latitude":-38.212903,
     "geom:longitude":141.625258,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.216208,
     "lbl:longitude":141.625228,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Heathmere"
@@ -38,9 +44,12 @@
         102049579
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20614"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"60e7dbac3f1513a2b1a85902a3d1a3c0",
+    "wof:geomhash":"31d5ffe02aa7435209832f87af6f5ca2",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404538861,
-    "wof:lastmodified":1566602440,
+    "wof:lastmodified":1695877381,
     "wof:name":"Heathmere",
     "wof:parent_id":102049579,
     "wof:placetype":"localadmin",

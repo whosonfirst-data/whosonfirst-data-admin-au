@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000248,
-    "geom:area_square_m":2547995.326485,
+    "geom:area_square_m":2547995.326464,
     "geom:bbox":"151.248084064,-33.7617291685,151.2697,-33.742836358",
     "geom:latitude":-33.752798,
     "geom:longitude":151.258568,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.752772,
     "lbl:longitude":151.257688,
     "lbl:max_zoom":18.0,
@@ -73,13 +79,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC10139",
         "wd:id":"Q4875940"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101929507
     ],
     "wof:country":"AU",
-    "wof:geomhash":"ccb4a87f953390b2151734fb8dd0f8a1",
+    "wof:geomhash":"8ec61aa9a5f59dadd6cb538adbd2dbd1",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -92,7 +100,7 @@
         }
     ],
     "wof:id":404221737,
-    "wof:lastmodified":1566601966,
+    "wof:lastmodified":1695877897,
     "wof:name":"Beacon Hill",
     "wof:parent_id":102049493,
     "wof:placetype":"localadmin",

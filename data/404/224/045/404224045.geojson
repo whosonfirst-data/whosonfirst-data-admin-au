@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001037,
-    "geom:area_square_m":11161465.677054,
+    "geom:area_square_m":11161465.677018,
     "geom:bbox":"153.220675744,-29.478125005,153.259187008,-29.4278210075",
     "geom:latitude":-29.453895,
     "geom:longitude":153.241714,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-29.45404,
     "lbl:longitude":153.241421,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "James Creek"
@@ -38,12 +44,15 @@
         102048835
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11165"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101930811
     ],
     "wof:country":"AU",
-    "wof:geomhash":"ee777b767415fc933995085414e8c347",
+    "wof:geomhash":"9c9b5bec424170670c1734c5b9d6f458",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404224045,
-    "wof:lastmodified":1566602620,
+    "wof:lastmodified":1695877486,
     "wof:name":"James Creek",
     "wof:parent_id":102048835,
     "wof:placetype":"localadmin",

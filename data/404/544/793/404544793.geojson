@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000317,
-    "geom:area_square_m":3472815.832961,
+    "geom:area_square_m":3472815.832956,
     "geom:bbox":"152.712642016,-27.627581993,152.740840128,-27.6010930085",
     "geom:latitude":-27.612801,
     "geom:longitude":152.727047,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.609091,
     "lbl:longitude":152.729185,
     "lbl:max_zoom":18.0,
@@ -46,13 +52,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC31826",
         "wd:id":"Q8039209"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935681
     ],
     "wof:country":"AU",
-    "wof:geomhash":"a4762b589d1344ec92d634bdc8d1fdff",
+    "wof:geomhash":"3d2d82c92f655ae750a5e6a3223b676a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -65,7 +73,7 @@
         }
     ],
     "wof:id":404544793,
-    "wof:lastmodified":1566602181,
+    "wof:lastmodified":1695877926,
     "wof:name":"Wulkuraka",
     "wof:parent_id":102048583,
     "wof:placetype":"localadmin",

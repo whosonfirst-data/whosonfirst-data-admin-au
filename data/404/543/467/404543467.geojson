@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005279,
-    "geom:area_square_m":57750170.247567,
+    "geom:area_square_m":57750170.247529,
     "geom:bbox":"152.623428992,-27.836687974,152.713146976,-27.7365560025",
     "geom:latitude":-27.788707,
     "geom:longitude":152.664187,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.780037,
     "lbl:longitude":152.659869,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mutdapilly"
@@ -38,9 +44,12 @@
         102048945
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31196"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"e2ac0bb9ebe6116a592fcc329115e40d",
+    "wof:geomhash":"a8b4a0eb66914e82415524ed9177fe54",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404543467,
-    "wof:lastmodified":1566602132,
+    "wof:lastmodified":1695877209,
     "wof:name":"Mutdapilly",
     "wof:parent_id":102048945,
     "wof:placetype":"localadmin",

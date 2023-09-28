@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020805,
-    "geom:area_square_m":242581122.759455,
+    "geom:area_square_m":242581122.759374,
     "geom:bbox":"146.719953888,-19.549255998,146.945225504,-19.3381868525",
     "geom:latitude":-19.445034,
     "geom:longitude":146.841855,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-19.415488,
     "lbl:longitude":146.880989,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Julago"
@@ -38,9 +44,12 @@
         102048451
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30830"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"8f88ba0e2ee3c0ca8d07392162f763ba",
+    "wof:geomhash":"661ce9c8ef9603f790820ec4fffe2da2",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404542689,
-    "wof:lastmodified":1566602271,
+    "wof:lastmodified":1695877276,
     "wof:name":"Julago",
     "wof:parent_id":102048451,
     "wof:placetype":"localadmin",

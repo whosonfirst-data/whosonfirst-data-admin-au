@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029541,
-    "geom:area_square_m":329558406.549206,
+    "geom:area_square_m":329558406.549133,
     "geom:bbox":"151.3040376,-25.63069203,151.604445952,-25.4655739245",
     "geom:latitude":-25.551729,
     "geom:longitude":151.474315,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-25.548127,
     "lbl:longitude":151.477233,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Binjour"
@@ -38,9 +44,12 @@
         102049053
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30164"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"345542b1ac7541bde5f5c70015f155ee",
+    "wof:geomhash":"d8a36bc69a3da2a37c2ff7110a8734ff",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404541285,
-    "wof:lastmodified":1566603085,
+    "wof:lastmodified":1695877762,
     "wof:name":"Binjour",
     "wof:parent_id":102049053,
     "wof:placetype":"localadmin",

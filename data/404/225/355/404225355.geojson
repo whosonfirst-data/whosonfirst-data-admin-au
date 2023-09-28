@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000442,
-    "geom:area_square_m":4658130.570064,
+    "geom:area_square_m":4658130.570048,
     "geom:bbox":"152.78704,-31.648475001,152.837526976,-31.6236719955",
     "geom:latitude":-31.634466,
     "geom:longitude":152.811122,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.632916,
     "lbl:longitude":152.810751,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "North Haven"
@@ -71,12 +77,15 @@
         102049203
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11747"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931443
     ],
     "wof:country":"AU",
-    "wof:geomhash":"e79be7aba251a1cca34f597e2094ec86",
+    "wof:geomhash":"7be59deca1986875cfe1cb15fc21a5b1",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -88,7 +97,7 @@
         }
     ],
     "wof:id":404225355,
-    "wof:lastmodified":1566602667,
+    "wof:lastmodified":1695877512,
     "wof:name":"North Haven",
     "wof:parent_id":102049203,
     "wof:placetype":"localadmin",

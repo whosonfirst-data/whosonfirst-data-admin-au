@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00053,
-    "geom:area_square_m":5249839.825641,
+    "geom:area_square_m":5249839.825624,
     "geom:bbox":"147.155072512,-36.7490820105,147.189566816,-36.715105373",
     "geom:latitude":-36.732489,
     "geom:longitude":147.172565,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.732981,
     "lbl:longitude":147.172566,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mount Beauty"
@@ -38,12 +44,15 @@
         102049467
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20931"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101933281
     ],
     "wof:country":"AU",
-    "wof:geomhash":"7f4868e6587ced40fd55a28acf4ab283",
+    "wof:geomhash":"c2d5702d7707424ff0f3221db371f519",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404539571,
-    "wof:lastmodified":1566602408,
+    "wof:lastmodified":1695877362,
     "wof:name":"Mount Beauty",
     "wof:parent_id":102049467,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001745,
-    "geom:area_square_m":18999160.540533,
+    "geom:area_square_m":18999160.540518,
     "geom:bbox":"153.236764,-28.3349160065,153.300443232,-28.292323327",
     "geom:latitude":-28.315755,
     "geom:longitude":153.269499,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.317376,
     "lbl:longitude":153.268896,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Chillingham"
@@ -38,9 +44,12 @@
         102048589
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10521"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"31c81bffa8556af4d68d5577b04736f7",
+    "wof:geomhash":"a217419c4358bc8e7f2340fdbf961646",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404222597,
-    "wof:lastmodified":1566602786,
+    "wof:lastmodified":1695877584,
     "wof:name":"Chillingham",
     "wof:parent_id":102048589,
     "wof:placetype":"localadmin",

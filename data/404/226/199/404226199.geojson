@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000195,
-    "geom:area_square_m":2027479.859739,
+    "geom:area_square_m":2027479.85975,
     "geom:bbox":"151.614,-32.973822993,151.638672032,-32.954681154",
     "geom:latitude":-32.963833,
     "geom:longitude":151.626182,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.960408,
     "lbl:longitude":151.62313,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Speers Point"
@@ -39,12 +45,15 @@
         102048999
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12122"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931917
     ],
     "wof:country":"AU",
-    "wof:geomhash":"4952cf5d02dd6e9e73f4cf8aa779a554",
+    "wof:geomhash":"73875cfb4f09472aa25da3f7bdb4b95d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404226199,
-    "wof:lastmodified":1566602059,
+    "wof:lastmodified":1695877167,
     "wof:name":"Speers Point",
     "wof:parent_id":102048999,
     "wof:placetype":"localadmin",

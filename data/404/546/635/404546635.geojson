@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009784,
-    "geom:area_square_m":98809364.810171,
+    "geom:area_square_m":98809364.810164,
     "geom:bbox":"139.29339,-35.2996956255,139.456760928,-35.15424561",
     "geom:latitude":-35.243586,
     "geom:longitude":139.37616,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.247528,
     "lbl:longitude":139.374912,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Woods Point"
@@ -42,9 +48,12 @@
         102048515
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40821"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"6e4694d7a2b5d977f4aa5e9833e9ef4f",
+    "wof:geomhash":"39cc34432524ecb442a986c55a1eba29",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404546635,
-    "wof:lastmodified":1566603121,
+    "wof:lastmodified":1695877778,
     "wof:name":"Woods Point",
     "wof:parent_id":102048515,
     "wof:placetype":"localadmin",

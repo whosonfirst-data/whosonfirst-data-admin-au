@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000104,
-    "geom:area_square_m":1203416.027429,
+    "geom:area_square_m":1203416.027428,
     "geom:bbox":"135.582236992,-20.6488370015,135.591472992,-20.629246001",
     "geom:latitude":-20.640265,
     "geom:longitude":135.586508,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-20.638905,
     "lbl:longitude":135.586123,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Canteen Creek"
@@ -38,12 +44,15 @@
         102048951
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC70036"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938403
     ],
     "wof:country":"AU",
-    "wof:geomhash":"a392f8f8592e9a36e1ab8f665849e49f",
+    "wof:geomhash":"7a8774ce46550797942853f4e7af8691",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404549663,
-    "wof:lastmodified":1566602900,
+    "wof:lastmodified":1695877660,
     "wof:name":"Canteen Creek",
     "wof:parent_id":102048951,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014399,
-    "geom:area_square_m":143726344.897671,
+    "geom:area_square_m":143726020.602423,
     "geom:bbox":"144.663988,-36.2487,144.850235,-36.061207",
     "geom:latitude":-36.170342,
     "geom:longitude":144.758608,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.182256,
     "lbl:longitude":144.752231,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0625\u062a\u0634\u0648\u0643\u0627"
@@ -104,9 +110,12 @@
         102049529
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20440"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"ac75058f199bc9d228d7b23503b2ff2d",
+    "wof:geomhash":"21266d388af7fa0ce9928efe79ac9006",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -118,7 +127,7 @@
         }
     ],
     "wof:id":404538473,
-    "wof:lastmodified":1636494641,
+    "wof:lastmodified":1695877861,
     "wof:name":"Echuca",
     "wof:parent_id":102049529,
     "wof:placetype":"localadmin",

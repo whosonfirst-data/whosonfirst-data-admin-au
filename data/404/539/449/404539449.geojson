@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021587,
-    "geom:area_square_m":210738629.443856,
+    "geom:area_square_m":210738629.444001,
     "geom:bbox":"143.912417536,-37.938466972,144.163866144,-37.795770663",
     "geom:latitude":-37.861796,
     "geom:longitude":144.043371,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.874662,
     "lbl:longitude":144.041021,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Meredith"
@@ -80,9 +86,12 @@
         102049027
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20877"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"b88622b013a362617167d5328f662cc2",
+    "wof:geomhash":"a8dba7472ca5e8da591a83180dfa4470",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -94,7 +103,7 @@
         }
     ],
     "wof:id":404539449,
-    "wof:lastmodified":1566602361,
+    "wof:lastmodified":1695877331,
     "wof:name":"Meredith",
     "wof:parent_id":102049027,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000531,
-    "geom:area_square_m":6469946.342176,
+    "geom:area_square_m":6469946.342171,
     "geom:bbox":"142.16469408,-9.9728319525,142.201194848,-9.9423819885",
     "geom:latitude":-9.954785,
     "geom:longitude":142.181751,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-9.953828,
     "lbl:longitude":142.180508,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mabuiag Island"
@@ -47,12 +53,15 @@
         102048439
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30983"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934745
     ],
     "wof:country":"AU",
-    "wof:geomhash":"aefe5a723cba84e2f02e10697ca1254f",
+    "wof:geomhash":"09ceabb9dff39109ba04f1d10eb095d6",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":404543021,
-    "wof:lastmodified":1566602132,
+    "wof:lastmodified":1695877209,
     "wof:name":"Mabuiag Island",
     "wof:parent_id":102048439,
     "wof:placetype":"localadmin",

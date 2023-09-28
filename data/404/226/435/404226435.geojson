@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000641,
-    "geom:area_square_m":6350138.56714,
+    "geom:area_square_m":6350138.567071,
     "geom:bbox":"149.949821984,-36.7388350085,149.991868992,-36.699644997",
     "geom:latitude":-36.716342,
     "geom:longitude":149.972692,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.716698,
     "lbl:longitude":149.972372,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tathra"
@@ -38,9 +44,12 @@
         102049439
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12227"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"997a7960cdb36970d8de2fe81f187e0e",
+    "wof:geomhash":"4681cbd7a6819355fbcf99312d8020b8",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404226435,
-    "wof:lastmodified":1566602079,
+    "wof:lastmodified":1695877181,
     "wof:name":"Tathra",
     "wof:parent_id":102049439,
     "wof:placetype":"localadmin",

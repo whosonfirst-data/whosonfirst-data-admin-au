@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.049858,
-    "geom:area_square_m":488882123.884559,
+    "geom:area_square_m":488882123.884569,
     "geom:bbox":"140.609104928,-37.6114239905,140.973856128,-37.464711498",
     "geom:latitude":-37.534685,
     "geom:longitude":140.795475,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.528311,
     "lbl:longitude":140.74988,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kalangadoo"
@@ -38,9 +44,12 @@
         102048639
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40323"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"76c27a02281e4be9d6e73183ad6aafe8",
+    "wof:geomhash":"8db21748d9d04890948864a16a9f3244",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404545567,
-    "wof:lastmodified":1566602208,
+    "wof:lastmodified":1695877248,
     "wof:name":"Kalangadoo",
     "wof:parent_id":102048639,
     "wof:placetype":"localadmin",

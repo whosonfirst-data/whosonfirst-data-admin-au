@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.102034,
-    "geom:area_square_m":999185942.336677,
+    "geom:area_square_m":999185942.336181,
     "geom:bbox":"140.970265056,-37.8577158225,141.264432992,-37.3583257125",
     "geom:latitude":-37.631555,
     "geom:longitude":141.095656,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.715754,
     "lbl:longitude":141.081018,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Strathdownie"
@@ -38,9 +44,12 @@
         102049579
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21270"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"ef15f13ee99688f675109460b54e48b9",
+    "wof:geomhash":"3f5d019de4c1852446f22a19c7787ed7",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404540327,
-    "wof:lastmodified":1566603034,
+    "wof:lastmodified":1695877738,
     "wof:name":"Strathdownie",
     "wof:parent_id":102049579,
     "wof:placetype":"localadmin",

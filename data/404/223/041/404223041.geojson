@@ -10,6 +10,12 @@
     "geom:latitude":-33.993355,
     "geom:longitude":151.143401,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.993528,
     "lbl:longitude":151.14236,
     "lbl:max_zoom":18.0,
@@ -58,13 +64,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC10718",
         "wd:id":"Q5289307"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101930101
     ],
     "wof:country":"AU",
-    "wof:geomhash":"72b789b67324c0572604fbbc4a2f23ba",
+    "wof:geomhash":"66eb778a3f6bbcf57cf73342c5aee4fe",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -77,7 +85,7 @@
         }
     ],
     "wof:id":404223041,
-    "wof:lastmodified":1566602502,
+    "wof:lastmodified":1695877963,
     "wof:name":"Dolls Point",
     "wof:parent_id":102048425,
     "wof:placetype":"localadmin",

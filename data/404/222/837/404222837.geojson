@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000275,
-    "geom:area_square_m":2806993.820568,
+    "geom:area_square_m":2806993.820571,
     "geom:bbox":"150.543631584,-34.246023001,150.566642016,-34.225238991",
     "geom:latitude":-34.236505,
     "geom:longitude":150.554678,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.23843,
     "lbl:longitude":150.553542,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Couridjah"
@@ -38,12 +44,15 @@
         102048943
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10628"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101929997
     ],
     "wof:country":"AU",
-    "wof:geomhash":"b81b1cb30c6c0e666d8438072dadfe64",
+    "wof:geomhash":"c381be46f03916758f637e46ffcf68b6",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404222837,
-    "wof:lastmodified":1566602803,
+    "wof:lastmodified":1695877594,
     "wof:name":"Couridjah",
     "wof:parent_id":102048943,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015049,
-    "geom:area_square_m":145396837.721721,
+    "geom:area_square_m":145396837.722028,
     "geom:bbox":"146.500812192,-38.703788995,146.652810112,-38.521044996",
     "geom:latitude":-38.615397,
     "geom:longitude":146.570871,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.613643,
     "lbl:longitude":146.56974,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Jack River"
@@ -47,9 +53,12 @@
         102049585
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20666"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"6dec746ce332ffbeab2e9cabca04c778",
+    "wof:geomhash":"cc54a26844c4477fd0c3c67e61c24358",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":404538977,
-    "wof:lastmodified":1566602448,
+    "wof:lastmodified":1695877385,
     "wof:name":"Jack River",
     "wof:parent_id":102049585,
     "wof:placetype":"localadmin",

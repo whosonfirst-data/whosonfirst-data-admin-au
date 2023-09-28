@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011288,
-    "geom:area_square_m":112570985.836056,
+    "geom:area_square_m":112570985.83614,
     "geom:bbox":"146.972326016,-36.310182886,147.1282488,-36.18480698",
     "geom:latitude":-36.246376,
     "geom:longitude":147.045832,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.238461,
     "lbl:longitude":147.072479,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Huon"
@@ -50,9 +56,12 @@
         102049541
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20647"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"58474e33c6f2e9278149b8b659345b7c",
+    "wof:geomhash":"ac0b08e7efa2bd87e5aff9d9bed7b60d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":404538933,
-    "wof:lastmodified":1566602464,
+    "wof:lastmodified":1695877392,
     "wof:name":"Huon",
     "wof:parent_id":102049541,
     "wof:placetype":"localadmin",

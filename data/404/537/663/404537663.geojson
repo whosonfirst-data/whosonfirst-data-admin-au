@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002326,
-    "geom:area_square_m":22964676.904072,
+    "geom:area_square_m":22964676.904096,
     "geom:bbox":"144.194879968,-37.0580710455,144.270934016,-36.985837999",
     "geom:latitude":-37.022933,
     "geom:longitude":144.236114,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.025684,
     "lbl:longitude":144.236689,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Barkers Creek"
@@ -41,9 +47,12 @@
         102049601
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20076"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"fe11bfd858d108407f7f4d831e6aa9e1",
+    "wof:geomhash":"0b8597146625a2a5ae4c64e512bc25a4",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404537663,
-    "wof:lastmodified":1566602342,
+    "wof:lastmodified":1695877319,
     "wof:name":"Barkers Creek",
     "wof:parent_id":102049601,
     "wof:placetype":"localadmin",

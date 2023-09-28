@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000735,
-    "geom:area_square_m":7584561.705779,
+    "geom:area_square_m":7584561.705747,
     "geom:bbox":"150.962290016,-33.411483006,151.009865472,-33.364535297",
     "geom:latitude":-33.388663,
     "geom:longitude":150.984773,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.385908,
     "lbl:longitude":150.985118,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Wisemans Ferry"
@@ -39,9 +45,12 @@
         102049139
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12528"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"b51628f6528a554e6b106e6b7a655e8b",
+    "wof:geomhash":"813e59d07c6ba05ff1e505a1ec0945fa",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":404227113,
-    "wof:lastmodified":1566601961,
+    "wof:lastmodified":1695877114,
     "wof:name":"Wisemans Ferry",
     "wof:parent_id":102049139,
     "wof:placetype":"localadmin",

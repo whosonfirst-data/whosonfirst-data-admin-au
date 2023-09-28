@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000568,
-    "geom:area_square_m":5827998.127921,
+    "geom:area_square_m":5827998.127954,
     "geom:bbox":"150.969343008,-33.8730903625,151.00824528,-33.844129001",
     "geom:latitude":-33.856152,
     "geom:longitude":150.991216,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.856022,
     "lbl:longitude":150.994168,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Guildford"
@@ -174,12 +180,15 @@
         102049565
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11038"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101930557
     ],
     "wof:country":"AU",
-    "wof:geomhash":"876df2d4358934537cb714cbea027497",
+    "wof:geomhash":"92e8092d5311288907dd22d6e4f7e9b0",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -192,7 +201,7 @@
         }
     ],
     "wof:id":404223761,
-    "wof:lastmodified":1566602539,
+    "wof:lastmodified":1695877437,
     "wof:name":"Guildford",
     "wof:parent_id":102049565,
     "wof:placetype":"localadmin",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000638,
-    "geom:area_square_m":6546668.521914,
+    "geom:area_square_m":6546668.521898,
     "geom:bbox":"150.793607168,-33.88061126,150.822150496,-33.840615999",
     "geom:latitude":-33.860357,
     "geom:longitude":150.810073,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.860757,
     "lbl:longitude":150.81029,
     "lbl:max_zoom":18.0,
@@ -145,10 +151,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC11632",
         "wd:id":"Q3326048"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"8b58b7f7cd8efa2925a3d348f6e8863e",
+    "wof:geomhash":"fbca1ee318358b401f233f6ada1fdfba",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -161,7 +169,7 @@
         }
     ],
     "wof:id":404225097,
-    "wof:lastmodified":1566602687,
+    "wof:lastmodified":1695877988,
     "wof:name":"Mount Vernon",
     "wof:parent_id":102048677,
     "wof:placetype":"localadmin",

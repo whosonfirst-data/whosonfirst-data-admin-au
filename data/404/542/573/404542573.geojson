@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026202,
-    "geom:area_square_m":292862640.936705,
+    "geom:area_square_m":292862640.936711,
     "geom:bbox":"152.327486784,-25.4194620085,152.591150016,-25.208922",
     "geom:latitude":-25.322499,
     "geom:longitude":152.469152,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-25.302422,
     "lbl:longitude":152.478189,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0647\u0648\u0627\u0631\u062f"
@@ -44,9 +50,12 @@
         102049435
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30778"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"f6b8884cdb97a49dbf688439b6edb210",
+    "wof:geomhash":"195c3cf3b530a2e0f5bd9e90b9c95f43",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404542573,
-    "wof:lastmodified":1566602288,
+    "wof:lastmodified":1695877286,
     "wof:name":"Howard",
     "wof:parent_id":102049435,
     "wof:placetype":"localadmin",

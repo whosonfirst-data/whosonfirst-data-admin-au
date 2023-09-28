@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000039,
-    "geom:area_square_m":392139.386055,
+    "geom:area_square_m":392139.386061,
     "geom:bbox":"138.490486208,-34.850868032,138.501908288,-34.8391501135",
     "geom:latitude":-34.84467,
     "geom:longitude":138.495321,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.843938,
     "lbl:longitude":138.49475,
     "lbl:max_zoom":18.0,
@@ -46,13 +52,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC40491",
         "wd:id":"Q18165882"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101936337
     ],
     "wof:country":"AU",
-    "wof:geomhash":"f32f417013af651a1747e66007cb193f",
+    "wof:geomhash":"4fd8f3e6a54cc26086211c2a4c294a09",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -65,7 +73,7 @@
         }
     ],
     "wof:id":404545931,
-    "wof:lastmodified":1566602208,
+    "wof:lastmodified":1695877929,
     "wof:name":"New Port",
     "wof:parent_id":102048839,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002017,
-    "geom:area_square_m":22166088.291945,
+    "geom:area_square_m":22166088.29194,
     "geom:bbox":"152.872400288,-27.293052931,152.950367424,-27.217769031",
     "geom:latitude":-27.257066,
     "geom:longitude":152.911648,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.260018,
     "lbl:longitude":152.921334,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Whiteside"
@@ -54,9 +60,12 @@
         102049131
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31763"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"602fc309ed597e3119c9f121e1fed32e",
+    "wof:geomhash":"1b9915177cf47fb8499def0e8deec483",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -69,7 +78,7 @@
         }
     ],
     "wof:id":404544661,
-    "wof:lastmodified":1566602169,
+    "wof:lastmodified":1695877227,
     "wof:name":"Whiteside",
     "wof:parent_id":102049131,
     "wof:placetype":"localadmin",

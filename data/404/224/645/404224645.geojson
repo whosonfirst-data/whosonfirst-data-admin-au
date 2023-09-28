@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001077,
-    "geom:area_square_m":11445796.445299,
+    "geom:area_square_m":11445796.445292,
     "geom:bbox":"152.894803008,-30.742639003,152.937850048,-30.699352",
     "geom:latitude":-30.722075,
     "geom:longitude":152.91712,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-30.720059,
     "lbl:longitude":152.918592,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Macksville"
@@ -38,12 +44,15 @@
         102049433
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11431"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931103
     ],
     "wof:country":"AU",
-    "wof:geomhash":"99f5bfe24a699ad2a65c56d371514ffc",
+    "wof:geomhash":"591df75746b32d85075c4fd4d2697e4a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404224645,
-    "wof:lastmodified":1566602585,
+    "wof:lastmodified":1695877466,
     "wof:name":"Macksville",
     "wof:parent_id":102049433,
     "wof:placetype":"localadmin",

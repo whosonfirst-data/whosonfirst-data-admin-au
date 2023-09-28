@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000164,
-    "geom:area_square_m":1681749.094119,
+    "geom:area_square_m":1681749.094122,
     "geom:bbox":"150.818806016,-33.7573420045,150.829065504,-33.734166222",
     "geom:latitude":-33.745823,
     "geom:longitude":150.823851,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.745659,
     "lbl:longitude":150.823945,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Hebersham"
@@ -39,12 +45,15 @@
         102048555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11094"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101930673
     ],
     "wof:country":"AU",
-    "wof:geomhash":"553488ba12e6f4cf6bc1d6a7157fd705",
+    "wof:geomhash":"4e883d8825f95eb676d2feaf1031add1",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404223887,
-    "wof:lastmodified":1566602504,
+    "wof:lastmodified":1695877416,
     "wof:name":"Hebersham",
     "wof:parent_id":102048555,
     "wof:placetype":"localadmin",

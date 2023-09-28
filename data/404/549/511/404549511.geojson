@@ -10,12 +10,18 @@
     "geom:latitude":-41.490336,
     "geom:longitude":147.087933,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-41.491432,
     "lbl:longitude":147.084742,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Travellers Rest"
@@ -38,12 +44,15 @@
         102048535
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60374"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938313
     ],
     "wof:country":"AU",
-    "wof:geomhash":"28a36ad1817bdd17baf718a568f5c5b9",
+    "wof:geomhash":"bdce2d97da91685cc1977c939f3408bd",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404549511,
-    "wof:lastmodified":1566602861,
+    "wof:lastmodified":1695877633,
     "wof:name":"Travellers Rest",
     "wof:parent_id":102048535,
     "wof:placetype":"localadmin",

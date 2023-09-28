@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.078039,
-    "geom:area_square_m":804151058.861414,
+    "geom:area_square_m":804151058.862042,
     "geom:bbox":"147.969434016,-33.7206127705,148.42358992,-33.391436998",
     "geom:latitude":-33.555813,
     "geom:longitude":148.167309,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.543817,
     "lbl:longitude":148.126234,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Grawlin"
@@ -38,9 +44,12 @@
         102048487
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11012"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"8435fe3a4ca25bc05b80abfdb1a53e3a",
+    "wof:geomhash":"65be3fa564d6662a5fd3719cbb395cc3",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404223701,
-    "wof:lastmodified":1566602489,
+    "wof:lastmodified":1695877407,
     "wof:name":"Grawlin",
     "wof:parent_id":102048487,
     "wof:placetype":"localadmin",

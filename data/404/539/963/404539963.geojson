@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00194,
-    "geom:area_square_m":18824551.467708,
+    "geom:area_square_m":18824551.467726,
     "geom:bbox":"141.535692544,-38.321760739,141.603598016,-38.2769330005",
     "geom:latitude":-38.302942,
     "geom:longitude":141.566926,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.305543,
     "lbl:longitude":141.566262,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Portland North"
@@ -38,9 +44,12 @@
         102049579
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21108"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"35b634f98152505c46bf7f1b472e683f",
+    "wof:geomhash":"5064d8eb3a51ba77187978bc074a8d0d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404539963,
-    "wof:lastmodified":1566602357,
+    "wof:lastmodified":1695877329,
     "wof:name":"Portland North",
     "wof:parent_id":102049579,
     "wof:placetype":"localadmin",

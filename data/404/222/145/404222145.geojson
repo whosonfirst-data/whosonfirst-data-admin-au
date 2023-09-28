@@ -10,12 +10,18 @@
     "geom:latitude":-34.0854,
     "geom:longitude":150.815414,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.087192,
     "lbl:longitude":150.814316,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0411\u0440\u044d\u0434\u0431\u0435\u0440\u044b"
@@ -92,12 +98,15 @@
         102048887
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10320"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101929687
     ],
     "wof:country":"AU",
-    "wof:geomhash":"4441e8f59ee69d8c77b34dbc8a7dfa43",
+    "wof:geomhash":"9dcb5635e59f4ea601e2dbac5056fc63",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -109,7 +118,7 @@
         }
     ],
     "wof:id":404222145,
-    "wof:lastmodified":1566602772,
+    "wof:lastmodified":1695877574,
     "wof:name":"Bradbury",
     "wof:parent_id":102048887,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.059688,
-    "geom:area_square_m":601498407.004552,
+    "geom:area_square_m":601498407.00474,
     "geom:bbox":"147.843733824,-35.5747150715,148.16102,-35.2508070075",
     "geom:latitude":-35.414154,
     "geom:longitude":147.988739,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.424692,
     "lbl:longitude":148.004427,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Wondalga"
@@ -38,9 +44,12 @@
         102049445
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12540"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"9bc3e9b4513a6c96b4196023d269ff7b",
+    "wof:geomhash":"ccf8f330c87f68344ebbb7ea8653c6f0",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404227139,
-    "wof:lastmodified":1566601950,
+    "wof:lastmodified":1695877109,
     "wof:name":"Wondalga",
     "wof:parent_id":102049445,
     "wof:placetype":"localadmin",

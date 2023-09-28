@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014611,
-    "geom:area_square_m":143017178.1922,
+    "geom:area_square_m":143017178.19216,
     "geom:bbox":"140.535006016,-37.7355102985,140.686253792,-37.573758268",
     "geom:latitude":-37.663793,
     "geom:longitude":140.616923,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.659797,
     "lbl:longitude":140.618366,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Glencoe"
@@ -95,9 +101,12 @@
         102048639
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40235"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"df199b55d54bd25cff891b5a563bfa5c",
+    "wof:geomhash":"5b0a72a27c608a088d7719b3c38f3566",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -109,7 +118,7 @@
         }
     ],
     "wof:id":404545375,
-    "wof:lastmodified":1566602256,
+    "wof:lastmodified":1695877268,
     "wof:name":"Glencoe",
     "wof:parent_id":102048639,
     "wof:placetype":"localadmin",

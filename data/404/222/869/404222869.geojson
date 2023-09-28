@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000696,
-    "geom:area_square_m":7159664.052594,
+    "geom:area_square_m":7159664.052645,
     "geom:bbox":"151.245877696,-33.744780708,151.293073984,-33.7160456385",
     "geom:latitude":-33.731199,
     "geom:longitude":151.26788,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.728431,
     "lbl:longitude":151.265556,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Cromer"
@@ -102,12 +108,15 @@
         102049493
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10642"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101930015
     ],
     "wof:country":"AU",
-    "wof:geomhash":"d2e918190de18522b3b08bfb5b9f9f89",
+    "wof:geomhash":"8f2cf0258efe6b3ed70948cbca9b4451",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -120,7 +129,7 @@
         }
     ],
     "wof:id":404222869,
-    "wof:lastmodified":1566602767,
+    "wof:lastmodified":1695877571,
     "wof:name":"Cromer",
     "wof:parent_id":102049493,
     "wof:placetype":"localadmin",

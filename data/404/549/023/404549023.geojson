@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000075,
-    "geom:area_square_m":702836.606826,
+    "geom:area_square_m":702836.606831,
     "geom:bbox":"145.886831008,-41.0674106925,145.902602016,-41.0582917835",
     "geom:latitude":-41.063245,
     "geom:longitude":145.894369,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-41.063429,
     "lbl:longitude":145.892287,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Hillcrest"
@@ -74,12 +80,15 @@
         102049367
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60157"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938125
     ],
     "wof:country":"AU",
-    "wof:geomhash":"da5eab82d1715c778696e7e3238fc962",
+    "wof:geomhash":"2803d8c92559b99839741113ad35e254",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -91,7 +100,7 @@
         }
     ],
     "wof:id":404549023,
-    "wof:lastmodified":1566602833,
+    "wof:lastmodified":1695877614,
     "wof:name":"Hillcrest",
     "wof:parent_id":102049367,
     "wof:placetype":"localadmin",

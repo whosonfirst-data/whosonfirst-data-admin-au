@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000262,
-    "geom:area_square_m":2802988.131601,
+    "geom:area_square_m":2802988.1316,
     "geom:bbox":"151.665190016,-30.25181998,151.680974496,-30.221455856",
     "geom:latitude":-30.237742,
     "geom:longitude":151.6731,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-30.237261,
     "lbl:longitude":151.673215,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "South Guyra"
@@ -38,12 +44,15 @@
         102049231
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12104"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931887
     ],
     "wof:country":"AU",
-    "wof:geomhash":"8bc283f484f0a7e87c3d5606e92a694e",
+    "wof:geomhash":"774925fe3ec79848c27a33db0fd04e23",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404226159,
-    "wof:lastmodified":1566602014,
+    "wof:lastmodified":1695877140,
     "wof:name":"South Guyra",
     "wof:parent_id":102049231,
     "wof:placetype":"localadmin",

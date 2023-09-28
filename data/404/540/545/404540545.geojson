@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000043,
-    "geom:area_square_m":418101.692213,
+    "geom:area_square_m":418101.692211,
     "geom:bbox":"144.929904832,-37.787015168,144.940280032,-37.7770349915",
     "geom:latitude":-37.780756,
     "geom:longitude":144.935446,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.780475,
     "lbl:longitude":144.935525,
     "lbl:max_zoom":18.0,
@@ -121,13 +127,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC21367",
         "wd:id":"Q7835866"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101933645
     ],
     "wof:country":"AU",
-    "wof:geomhash":"628e4bed3a9ab205d2cf510a3a6214ab",
+    "wof:geomhash":"ee9a2cd3946c3ea844e608970e532a80",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -140,7 +148,7 @@
         }
     ],
     "wof:id":404540545,
-    "wof:lastmodified":1566603010,
+    "wof:lastmodified":1695878026,
     "wof:name":"Travancore",
     "wof:parent_id":102049001,
     "wof:placetype":"localadmin",

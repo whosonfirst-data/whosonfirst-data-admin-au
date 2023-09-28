@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002583,
-    "geom:area_square_m":26193361.903684,
+    "geom:area_square_m":26193361.903653,
     "geom:bbox":"138.837802016,-34.932514008,138.914137344,-34.869092419",
     "geom:latitude":-34.899845,
     "geom:longitude":138.873874,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.905376,
     "lbl:longitude":138.861196,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Lobethal"
@@ -53,9 +59,12 @@
         102049017
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40371"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"cd9239350563987078e3b9c0169bba0e",
+    "wof:geomhash":"c2e430865a4ea191c591d22328a7c75b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -67,7 +76,7 @@
         }
     ],
     "wof:id":404545665,
-    "wof:lastmodified":1566602248,
+    "wof:lastmodified":1695877265,
     "wof:name":"Lobethal",
     "wof:parent_id":102049017,
     "wof:placetype":"localadmin",

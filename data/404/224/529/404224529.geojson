@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00035,
-    "geom:area_square_m":3796032.936499,
+    "geom:area_square_m":3796031.495191,
     "geom:bbox":"153.269283,-28.816836,153.306658,-28.79641",
     "geom:latitude":-28.809328,
     "geom:longitude":153.288073,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.810195,
     "lbl:longitude":153.289348,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Lismore"
@@ -83,12 +89,15 @@
         102049635
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11380"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931053
     ],
     "wof:country":"AU",
-    "wof:geomhash":"41235a002476041cd4879c2152d14139",
+    "wof:geomhash":"3b28eecf7077311533633a93f2c4ff04",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -100,7 +109,7 @@
         }
     ],
     "wof:id":404224529,
-    "wof:lastmodified":1636494647,
+    "wof:lastmodified":1695877864,
     "wof:name":"Lismore",
     "wof:parent_id":102049635,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000085,
-    "geom:area_square_m":880567.941993,
+    "geom:area_square_m":880567.941997,
     "geom:bbox":"115.806923776,-33.318693925,115.822707424,-33.3076387135",
     "geom:latitude":-33.312837,
     "geom:longitude":115.814671,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.313211,
     "lbl:longitude":115.814788,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Burekup"
@@ -38,12 +44,15 @@
         102049295
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50111"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101936957
     ],
     "wof:country":"AU",
-    "wof:geomhash":"1f923cd74c1de572d587c8c3eb482210",
+    "wof:geomhash":"aec33a3a4e0cc930ffd2a48a9c4bef06",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404546937,
-    "wof:lastmodified":1566603106,
+    "wof:lastmodified":1695877772,
     "wof:name":"Burekup",
     "wof:parent_id":102049295,
     "wof:placetype":"localadmin",

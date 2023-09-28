@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001173,
-    "geom:area_square_m":10612307.16255,
+    "geom:area_square_m":10612307.162556,
     "geom:bbox":"147.138096672,-42.9953794605,147.179911008,-42.938834007",
     "geom:latitude":-42.971771,
     "geom:longitude":147.159468,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-42.978038,
     "lbl:longitude":147.156296,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lower Longley"
@@ -38,9 +44,12 @@
         102048889
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60203"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"ca798c376d33bccabbb9b4b37038e9f4",
+    "wof:geomhash":"8b3746ca15a4f19af340dcff4c869c39",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404549125,
-    "wof:lastmodified":1566602914,
+    "wof:lastmodified":1695877669,
     "wof:name":"Lower Longley",
     "wof:parent_id":102048889,
     "wof:placetype":"localadmin",

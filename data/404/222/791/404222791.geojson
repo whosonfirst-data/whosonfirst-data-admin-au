@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004428,
-    "geom:area_square_m":43936986.920576,
+    "geom:area_square_m":43936986.920451,
     "geom:bbox":"149.751166688,-36.6718330035,149.852795008,-36.5946520025",
     "geom:latitude":-36.628781,
     "geom:longitude":149.799883,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.632701,
     "lbl:longitude":149.799112,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Coopers Gully"
@@ -38,9 +44,12 @@
         102049439
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10607"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"860da3bd5f5a7263a16e9afe877f95b4",
+    "wof:geomhash":"9f624a090ae4946b9f43f981fd9f963f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404222791,
-    "wof:lastmodified":1566602748,
+    "wof:lastmodified":1695877559,
     "wof:name":"Coopers Gully",
     "wof:parent_id":102049439,
     "wof:placetype":"localadmin",

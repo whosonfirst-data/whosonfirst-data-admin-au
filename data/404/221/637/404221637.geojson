@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.989142,
-    "geom:area_square_m":20400688492.756786,
+    "geom:area_square_m":20400688492.757477,
     "geom:bbox":"142.799897,-35.024172,144.689291,-33.115708",
     "geom:latitude":-33.957384,
     "geom:longitude":143.732024,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.7846,
     "lbl:longitude":143.746721,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Balranald"
@@ -52,19 +58,22 @@
     "qs:source":"Australian Bureau Of Statistics",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681545,
         102191583,
         85632793,
-        102048817,
         136253039,
-        85681545
+        102048817
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10094"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         102048817
     ],
     "wof:country":"AU",
-    "wof:geomhash":"56917c6936bca00662fe101499191a0f",
+    "wof:geomhash":"d1c4445830d06c82e4f6fc3e969f925a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -76,7 +85,7 @@
         }
     ],
     "wof:id":404221637,
-    "wof:lastmodified":1607993442,
+    "wof:lastmodified":1695877843,
     "wof:name":"Balranald",
     "wof:parent_id":102048817,
     "wof:placetype":"localadmin",

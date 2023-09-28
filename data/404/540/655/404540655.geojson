@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004938,
-    "geom:area_square_m":49172204.260895,
+    "geom:area_square_m":49172200.311909,
     "geom:bbox":"146.25683,-36.406416,146.371043,-36.324305",
     "geom:latitude":-36.365561,
     "geom:longitude":146.313963,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.363389,
     "lbl:longitude":146.314859,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0648\u0627\u0646\u062c\u0627\u0631\u062a\u0627"
@@ -119,12 +125,15 @@
         102049395
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21417"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101933683
     ],
     "wof:country":"AU",
-    "wof:geomhash":"703433047bd55541d05567c0856ee6e7",
+    "wof:geomhash":"1dc0c571c74f53d1d835af76d88e0a89",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -136,7 +145,7 @@
         }
     ],
     "wof:id":404540655,
-    "wof:lastmodified":1636494671,
+    "wof:lastmodified":1695877880,
     "wof:name":"Wangaratta",
     "wof:parent_id":102049395,
     "wof:placetype":"localadmin",

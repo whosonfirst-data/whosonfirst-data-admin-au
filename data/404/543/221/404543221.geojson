@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005285,
-    "geom:area_square_m":59307688.311174,
+    "geom:area_square_m":59307688.311204,
     "geom:bbox":"151.068227008,-24.885316004,151.154668992,-24.7922909925",
     "geom:latitude":-24.843159,
     "geom:longitude":151.108531,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-24.844591,
     "lbl:longitude":151.112022,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Monto"
@@ -41,9 +47,12 @@
         102049053
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31084"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"392985a958419f7206ef0f6ef717bd31",
+    "wof:geomhash":"123c91861bb50aeecc5fc5529257ac38",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404543221,
-    "wof:lastmodified":1566602101,
+    "wof:lastmodified":1695877192,
     "wof:name":"Monto",
     "wof:parent_id":102049053,
     "wof:placetype":"localadmin",

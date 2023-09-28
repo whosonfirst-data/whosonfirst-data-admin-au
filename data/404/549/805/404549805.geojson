@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.156303,
-    "geom:area_square_m":13855993988.918264,
+    "geom:area_square_m":13855993988.919157,
     "geom:bbox":"129.580674848,-14.8920983545,131.423502944,-13.305756229",
     "geom:latitude":-14.276806,
     "geom:longitude":130.375861,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-14.577578,
     "lbl:longitude":130.299468,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Nemarluk"
@@ -44,9 +50,12 @@
         102049217
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC70141"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"c102023d9c1295a742416bfbdadd7072",
+    "wof:geomhash":"5a64e54bbc71121f37207561d053ad46",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404549805,
-    "wof:lastmodified":1566602854,
+    "wof:lastmodified":1695877628,
     "wof:name":"Nemarluk",
     "wof:parent_id":102049217,
     "wof:placetype":"localadmin",

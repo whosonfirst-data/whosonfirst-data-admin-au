@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000169,
-    "geom:area_square_m":1703448.550911,
+    "geom:area_square_m":1703448.550903,
     "geom:bbox":"149.073000032,-35.370445638,149.092609696,-35.3557025255",
     "geom:latitude":-35.362222,
     "geom:longitude":149.08338,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.362114,
     "lbl:longitude":149.082711,
     "lbl:max_zoom":18.0,
@@ -68,13 +74,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC80083",
         "wd:id":"Q302921"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938881
     ],
     "wof:country":"AU",
-    "wof:geomhash":"355792d0fa863e2ba81df115174b1f0e",
+    "wof:geomhash":"7c4b5930743a9ccab72c2a4e46f6e45e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -85,7 +93,7 @@
         }
     ],
     "wof:id":404550101,
-    "wof:lastmodified":1566601929,
+    "wof:lastmodified":1695877892,
     "wof:name":"Pearce",
     "wof:parent_id":85681493,
     "wof:placetype":"localadmin",

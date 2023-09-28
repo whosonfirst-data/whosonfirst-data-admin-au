@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000287,
-    "geom:area_square_m":2983447.397495,
+    "geom:area_square_m":2983447.397501,
     "geom:bbox":"151.568236992,-32.703816048,151.599573376,-32.6837299505",
     "geom:latitude":-32.695715,
     "geom:longitude":151.58229,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.69609,
     "lbl:longitude":151.581216,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bolwarra Heights"
@@ -39,12 +45,15 @@
         102048483
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10266"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101929629
     ],
     "wof:country":"AU",
-    "wof:geomhash":"f1e06b1875bb7fbde3bfcfea3143515d",
+    "wof:geomhash":"f4fedd8be9fc071fd147afc8984ec077",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404222023,
-    "wof:lastmodified":1566602753,
+    "wof:lastmodified":1695877561,
     "wof:name":"Bolwarra Heights",
     "wof:parent_id":102048483,
     "wof:placetype":"localadmin",

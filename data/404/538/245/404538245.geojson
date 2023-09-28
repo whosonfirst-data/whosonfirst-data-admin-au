@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.039495,
-    "geom:area_square_m":392522144.899264,
+    "geom:area_square_m":392522144.899412,
     "geom:bbox":"144.58341168,-36.598601512,144.93188384,-36.3987580555",
     "geom:latitude":-36.51015,
     "geom:longitude":144.752588,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.492743,
     "lbl:longitude":144.755355,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Corop"
@@ -38,9 +44,12 @@
         102049529
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20337"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"3e6f8756b74ed71765dfd7887d5ba5db",
+    "wof:geomhash":"ee0654ebcb9d8e8643e938b2fa73793b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404538245,
-    "wof:lastmodified":1566602434,
+    "wof:lastmodified":1695877377,
     "wof:name":"Corop",
     "wof:parent_id":102049529,
     "wof:placetype":"localadmin",

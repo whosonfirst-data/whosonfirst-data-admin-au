@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0003,
-    "geom:area_square_m":3540041.14459,
+    "geom:area_square_m":3540041.144593,
     "geom:bbox":"145.375982016,-17.402403592,145.3949144,-17.36407655",
     "geom:latitude":-17.381747,
     "geom:longitude":145.386086,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-17.378385,
     "lbl:longitude":145.383717,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Herberton"
@@ -38,12 +44,15 @@
         102048519
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30748"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934529
     ],
     "wof:country":"AU",
-    "wof:geomhash":"59a4c2968080366b9975b5d3e49af2c4",
+    "wof:geomhash":"358e0fc8c9ce15492236e66ca4f46588",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404542511,
-    "wof:lastmodified":1566602286,
+    "wof:lastmodified":1695877284,
     "wof:name":"Herberton",
     "wof:parent_id":102048519,
     "wof:placetype":"localadmin",

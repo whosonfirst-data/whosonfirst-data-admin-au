@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024197,
-    "geom:area_square_m":241014434.8255,
+    "geom:area_square_m":241014434.82547,
     "geom:bbox":"140.818372992,-36.437129997,140.967729664,-36.2507858795",
     "geom:latitude":-36.338075,
     "geom:longitude":140.900344,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.337768,
     "lbl:longitude":140.906311,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Wolseley"
@@ -59,9 +65,12 @@
         102048871
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40816"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"86d551d340a4f87d00c23a75f375097f",
+    "wof:geomhash":"c766c198d1e0c5c3c70ff7bf468044d7",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -73,7 +82,7 @@
         }
     ],
     "wof:id":404546623,
-    "wof:lastmodified":1566603139,
+    "wof:lastmodified":1695877786,
     "wof:name":"Wolseley",
     "wof:parent_id":102048871,
     "wof:placetype":"localadmin",

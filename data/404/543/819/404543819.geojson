@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.070084,
-    "geom:area_square_m":778553702.496023,
+    "geom:area_square_m":778553702.495804,
     "geom:bbox":"151.418239936,-26.255016007,151.68573,-25.8536233385",
     "geom:latitude":-26.050963,
     "geom:longitude":151.561269,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-26.05595,
     "lbl:longitude":151.563756,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Proston"
@@ -41,9 +47,12 @@
         102048861
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31360"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"5155a80039e16319d0cf8624e52ff81e",
+    "wof:geomhash":"6c181b50b7502153aa5f6f0ab543807d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404543819,
-    "wof:lastmodified":1566602102,
+    "wof:lastmodified":1695877193,
     "wof:name":"Proston",
     "wof:parent_id":102048861,
     "wof:placetype":"localadmin",

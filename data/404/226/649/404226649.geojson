@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.047298,
-    "geom:area_square_m":478186338.88888,
+    "geom:area_square_m":478186338.888554,
     "geom:bbox":"147.686054048,-35.281692221,148.127478144,-35.0631667985",
     "geom:latitude":-35.152255,
     "geom:longitude":147.918865,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.158758,
     "lbl:longitude":147.867141,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tumblong"
@@ -38,9 +44,12 @@
         102049279
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12322"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"cae656f78d9ff8bdc63cebcdf2f5ca88",
+    "wof:geomhash":"ee5325a739f2457fdaf08992a5f71222",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404226649,
-    "wof:lastmodified":1566602065,
+    "wof:lastmodified":1695877171,
     "wof:name":"Tumblong",
     "wof:parent_id":102049279,
     "wof:placetype":"localadmin",

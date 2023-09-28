@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.051894,
-    "geom:area_square_m":511696856.512576,
+    "geom:area_square_m":511696856.512465,
     "geom:bbox":"143.062962816,-37.2322340045,143.43377,-37.0095171295",
     "geom:latitude":-37.113591,
     "geom:longitude":143.251556,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.105646,
     "lbl:longitude":143.266428,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Elmhurst"
@@ -65,9 +71,12 @@
         102049485
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20454"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"632e30da97128d77e548efbd0301fc62",
+    "wof:geomhash":"0782e484a4b4b6bb0e5568e559811c1f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -79,7 +88,7 @@
         }
     ],
     "wof:id":404538503,
-    "wof:lastmodified":1566602428,
+    "wof:lastmodified":1695877374,
     "wof:name":"Elmhurst",
     "wof:parent_id":102049485,
     "wof:placetype":"localadmin",

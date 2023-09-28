@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00417,
-    "geom:area_square_m":41296738.078823,
+    "geom:area_square_m":41296738.078896,
     "geom:bbox":"149.891848992,-36.829383129,149.985518016,-36.7103986215",
     "geom:latitude":-36.776324,
     "geom:longitude":149.943454,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.770716,
     "lbl:longitude":149.950529,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Wallagoot"
@@ -38,9 +44,12 @@
         102049439
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12393"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"3eeb5fe7678964808be63fec84da0edf",
+    "wof:geomhash":"41d2fc32d1000e2e09a179d88f29ba67",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404226809,
-    "wof:lastmodified":1566602074,
+    "wof:lastmodified":1695877177,
     "wof:name":"Wallagoot",
     "wof:parent_id":102049439,
     "wof:placetype":"localadmin",

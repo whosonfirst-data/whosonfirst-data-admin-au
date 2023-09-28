@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001884,
-    "geom:area_square_m":19106081.997677,
+    "geom:area_square_m":19106081.997662,
     "geom:bbox":"117.842531008,-34.9371250035,117.902595776,-34.887669009",
     "geom:latitude":-34.906803,
     "geom:longitude":117.87257,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.908269,
     "lbl:longitude":117.870149,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Millbrook"
@@ -80,9 +86,12 @@
         102048671
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50501"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"cbe70aa812e1ec7e27614693a6371795",
+    "wof:geomhash":"d5ef68dfc6b9e9d38de4e6cf343c0ced",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -94,7 +103,7 @@
         }
     ],
     "wof:id":404547809,
-    "wof:lastmodified":1566602965,
+    "wof:lastmodified":1695877698,
     "wof:name":"Millbrook",
     "wof:parent_id":102048671,
     "wof:placetype":"localadmin",

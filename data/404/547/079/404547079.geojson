@@ -10,6 +10,12 @@
     "geom:latitude":-31.913611,
     "geom:longitude":115.8538,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.913946,
     "lbl:longitude":115.853349,
     "lbl:max_zoom":18.0,
@@ -52,13 +58,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC50174",
         "wd:id":"Q5167418"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937043
     ],
     "wof:country":"AU",
-    "wof:geomhash":"01b0a0af9a8445378a7cebee71489a40",
+    "wof:geomhash":"3f80dfbe470e9445936673744947546d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -71,7 +79,7 @@
         }
     ],
     "wof:id":404547079,
-    "wof:lastmodified":1566602927,
+    "wof:lastmodified":1695878015,
     "wof:name":"Coolbinia",
     "wof:parent_id":102048573,
     "wof:placetype":"localadmin",

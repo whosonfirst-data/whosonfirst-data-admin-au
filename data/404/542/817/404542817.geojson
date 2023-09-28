@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000653,
-    "geom:area_square_m":7423766.941092,
+    "geom:area_square_m":7423766.941113,
     "geom:bbox":"150.775679296,-23.2469990165,150.799463168,-23.199635964",
     "geom:latitude":-23.226018,
     "geom:longitude":150.787118,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-23.228703,
     "lbl:longitude":150.788893,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kinka Beach"
@@ -38,12 +44,15 @@
         102048825
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30889"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934679
     ],
     "wof:country":"AU",
-    "wof:geomhash":"63da4e44cc849c0011537c4adca19dad",
+    "wof:geomhash":"b3b5a83b53e6141efed4869061c3958b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404542817,
-    "wof:lastmodified":1566602271,
+    "wof:lastmodified":1695877276,
     "wof:name":"Kinka Beach",
     "wof:parent_id":102048825,
     "wof:placetype":"localadmin",

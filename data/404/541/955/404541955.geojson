@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.03711,
-    "geom:area_square_m":414011949.919514,
+    "geom:area_square_m":414011949.919858,
     "geom:bbox":"151.895642016,-25.650951898,152.179480832,-25.424539019",
     "geom:latitude":-25.547478,
     "geom:longitude":152.02062,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-25.563953,
     "lbl:longitude":151.98741,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Degilbo"
@@ -38,9 +44,12 @@
         102049053
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30485"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"f9f1572a5c3e76e7da5d35b8ddb15feb",
+    "wof:geomhash":"398d922e23a2241aea1adc990a0ab460",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404541955,
-    "wof:lastmodified":1566603050,
+    "wof:lastmodified":1695877746,
     "wof:name":"Degilbo",
     "wof:parent_id":102049053,
     "wof:placetype":"localadmin",

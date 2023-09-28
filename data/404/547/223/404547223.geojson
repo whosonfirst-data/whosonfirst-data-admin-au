@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000316,
-    "geom:area_square_m":3318529.555042,
+    "geom:area_square_m":3318510.693523,
     "geom:bbox":"115.866388,-31.969096,115.887806,-31.938366",
     "geom:latitude":-31.956227,
     "geom:longitude":115.876978,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.956745,
     "lbl:longitude":115.876822,
     "lbl:max_zoom":18.0,
@@ -64,13 +70,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC50240",
         "wd:id":"Q5329137"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937137
     ],
     "wof:country":"AU",
-    "wof:geomhash":"20cb4952b5fd14e4826b7c0c559300fc",
+    "wof:geomhash":"c354ac476ebef1450aa00ba6c8b16000",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -83,7 +91,7 @@
         }
     ],
     "wof:id":404547223,
-    "wof:lastmodified":1690853760,
+    "wof:lastmodified":1695878020,
     "wof:name":"East Perth",
     "wof:parent_id":102048915,
     "wof:placetype":"localadmin",

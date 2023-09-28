@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007382,
-    "geom:area_square_m":81879866.635376,
+    "geom:area_square_m":81879866.635411,
     "geom:bbox":"151.88945184,-26.2966339955,152.0108656,-26.1629850005",
     "geom:latitude":-26.229696,
     "geom:longitude":151.95434,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-26.231032,
     "lbl:longitude":151.950215,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Murgon"
@@ -53,9 +59,12 @@
         102048861
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31191"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"687ae25ecdfd8bacd9bb2c394232feb0",
+    "wof:geomhash":"efd09dcdc939ce0c44f939da1e3eaf24",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -67,7 +76,7 @@
         }
     ],
     "wof:id":404543455,
-    "wof:lastmodified":1566602108,
+    "wof:lastmodified":1695877195,
     "wof:name":"Murgon",
     "wof:parent_id":102048861,
     "wof:placetype":"localadmin",

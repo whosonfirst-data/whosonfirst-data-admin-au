@@ -10,12 +10,18 @@
     "geom:latitude":-32.98329,
     "geom:longitude":151.670116,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.982932,
     "lbl:longitude":151.671286,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mount Hutton"
@@ -42,12 +48,15 @@
         102048999
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11618"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931307
     ],
     "wof:country":"AU",
-    "wof:geomhash":"e6e160254aa31f157e6e646a25e013ea",
+    "wof:geomhash":"8455e844c0e80c59234cbc787a15f022",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -60,7 +69,7 @@
         }
     ],
     "wof:id":404225065,
-    "wof:lastmodified":1566602679,
+    "wof:lastmodified":1695877518,
     "wof:name":"Mount Hutton",
     "wof:parent_id":102048999,
     "wof:placetype":"localadmin",

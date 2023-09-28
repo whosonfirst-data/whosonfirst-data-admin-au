@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007542,
-    "geom:area_square_m":76611707.914841,
+    "geom:area_square_m":76611707.914842,
     "geom:bbox":"138.81156048,-34.8386739975,138.926896576,-34.6998729005",
     "geom:latitude":-34.764107,
     "geom:longitude":138.862277,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.775811,
     "lbl:longitude":138.856606,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kersbrook"
@@ -38,9 +44,12 @@
         102049017
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40337"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"66841bea0438bbe08f1571bf7476b8fe",
+    "wof:geomhash":"6699f11d5150a0e0f93113ba33748986",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404545597,
-    "wof:lastmodified":1566602235,
+    "wof:lastmodified":1695877259,
     "wof:name":"Kersbrook",
     "wof:parent_id":102049017,
     "wof:placetype":"localadmin",

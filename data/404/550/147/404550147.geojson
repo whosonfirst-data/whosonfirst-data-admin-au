@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011243,
-    "geom:area_square_m":136695861.94166,
+    "geom:area_square_m":136695861.941448,
     "geom:bbox":"105.533276992,-10.5704829995,105.712596992,-10.412356007",
     "geom:latitude":-10.485355,
     "geom:longitude":105.636471,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-10.489789,
     "lbl:longitude":105.642556,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Kerseiland"
@@ -343,9 +349,12 @@
         874411115
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC90001"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"52c18483e52fbb3603f7e6cb0276ff44",
+    "wof:geomhash":"bcb47f00dee861a215c0d97a838b74c3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -356,7 +365,7 @@
         }
     ],
     "wof:id":404550147,
-    "wof:lastmodified":1566601933,
+    "wof:lastmodified":1695877101,
     "wof:name":"Christmas Island",
     "wof:parent_id":874411115,
     "wof:placetype":"localadmin",

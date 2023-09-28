@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000768,
-    "geom:area_square_m":8430049.463068,
+    "geom:area_square_m":8430049.463052,
     "geom:bbox":"152.948944992,-27.442145319,153.000712064,-27.4107768115",
     "geom:latitude":-27.428317,
     "geom:longitude":152.974671,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.431973,
     "lbl:longitude":152.968631,
     "lbl:max_zoom":18.0,
@@ -46,13 +52,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC30572",
         "wd:id":"Q5379357"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934383
     ],
     "wof:country":"AU",
-    "wof:geomhash":"ef7c83b174a9b3cd2c017069980b5bbd",
+    "wof:geomhash":"5cfed270d3ed861b1442da57b0a304e8",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -65,7 +73,7 @@
         }
     ],
     "wof:id":404542137,
-    "wof:lastmodified":1566602295,
+    "wof:lastmodified":1695877942,
     "wof:name":"Enoggera",
     "wof:parent_id":102049495,
     "wof:placetype":"localadmin",

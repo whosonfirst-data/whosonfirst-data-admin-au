@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.052839,
-    "geom:area_square_m":562392388.92888,
+    "geom:area_square_m":562392388.92879,
     "geom:bbox":"151.752064,-30.8121761,152.050328,-30.4496979965",
     "geom:latitude":-30.597954,
     "geom:longitude":151.924304,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-30.578319,
     "lbl:longitude":151.909685,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Hillgrove"
@@ -47,9 +53,12 @@
         102048707
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11110"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"451c96aea1a6f2fbc37f862766fdf64e",
+    "wof:geomhash":"547e46aa603718cfb9415368041dcd32",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":404223923,
-    "wof:lastmodified":1566602524,
+    "wof:lastmodified":1695877427,
     "wof:name":"Hillgrove",
     "wof:parent_id":102048707,
     "wof:placetype":"localadmin",

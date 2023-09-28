@@ -10,6 +10,12 @@
     "geom:latitude":-27.643846,
     "geom:longitude":153.107251,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.643032,
     "lbl:longitude":153.105408,
     "lbl:max_zoom":18.0,
@@ -46,13 +52,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC30960",
         "wd:id":"Q2772631"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934725
     ],
     "wof:country":"AU",
-    "wof:geomhash":"4a01c39c60942d37f1093b49bcacf943",
+    "wof:geomhash":"dbed5e02ded07a2c3f55bbd75827c989",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -65,7 +73,7 @@
         }
     ],
     "wof:id":404542973,
-    "wof:lastmodified":1566602312,
+    "wof:lastmodified":1695877943,
     "wof:name":"Logan Central",
     "wof:parent_id":102048665,
     "wof:placetype":"localadmin",

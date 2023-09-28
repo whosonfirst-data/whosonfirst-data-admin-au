@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006366,
-    "geom:area_square_m":61792943.631779,
+    "geom:area_square_m":61792943.631817,
     "geom:bbox":"145.513122304,-38.3324566435,145.639275008,-38.232547005",
     "geom:latitude":-38.277476,
     "geom:longitude":145.582348,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.280313,
     "lbl:longitude":145.58333,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0644\u0627\u0646\u063a \u0644\u0627\u0646\u063a"
@@ -143,9 +149,12 @@
         102048791
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20767"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"54d237aedd713ea92eae23df96a21001",
+    "wof:geomhash":"fa32e4d4da6177e4f989739e06a568d8",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -157,7 +166,7 @@
         }
     ],
     "wof:id":404539201,
-    "wof:lastmodified":1566602405,
+    "wof:lastmodified":1695877360,
     "wof:name":"Lang Lang",
     "wof:parent_id":102048791,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019115,
-    "geom:area_square_m":193019260.659108,
+    "geom:area_square_m":193018998.054101,
     "geom:bbox":"147.893118,-35.337527,148.14304,-35.187364",
     "geom:latitude":-35.250744,
     "geom:longitude":148.032935,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.244251,
     "lbl:longitude":148.033398,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Grahamstad"
@@ -134,9 +140,12 @@
         102049445
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11005"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"f19c300bd653fc6a51350f6c8f0f8232",
+    "wof:geomhash":"9a94b91c9b40c298812e5e5efd9764e2",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -148,7 +157,7 @@
         }
     ],
     "wof:id":404223685,
-    "wof:lastmodified":1636494644,
+    "wof:lastmodified":1695877862,
     "wof:name":"Grahamstown",
     "wof:parent_id":102049445,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000564,
-    "geom:area_square_m":5762713.008581,
+    "geom:area_square_m":5762637.75984,
     "geom:bbox":"117.534294,-34.308972,117.570727,-34.273716",
     "geom:latitude":-34.292411,
     "geom:longitude":117.553363,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.292935,
     "lbl:longitude":117.55762,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Cranbrook"
@@ -74,12 +80,15 @@
         102048997
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50187"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937061
     ],
     "wof:country":"AU",
-    "wof:geomhash":"19511f581c365c6db42e604c3e525e7a",
+    "wof:geomhash":"ce379279141f04aaa76cfb3595adf9ad",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -91,7 +100,7 @@
         }
     ],
     "wof:id":404547105,
-    "wof:lastmodified":1636494664,
+    "wof:lastmodified":1695877876,
     "wof:name":"Cranbrook",
     "wof:parent_id":102048997,
     "wof:placetype":"localadmin",

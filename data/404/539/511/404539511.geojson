@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012386,
-    "geom:area_square_m":120277934.947006,
+    "geom:area_square_m":120277934.947036,
     "geom:bbox":"144.012776992,-38.3188999915,144.163101984,-38.1723993795",
     "geom:latitude":-38.248562,
     "geom:longitude":144.091692,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.244928,
     "lbl:longitude":144.09281,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Modewarre"
@@ -38,9 +44,12 @@
         102048931
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20905"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"3ead1b83a8979564f7ee60769a629f86",
+    "wof:geomhash":"6af5bc8d316d5987d19626aaa67face7",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404539511,
-    "wof:lastmodified":1566602380,
+    "wof:lastmodified":1695877342,
     "wof:name":"Modewarre",
     "wof:parent_id":102048931,
     "wof:placetype":"localadmin",

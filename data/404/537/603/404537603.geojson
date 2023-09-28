@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0186,
-    "geom:area_square_m":184750330.664116,
+    "geom:area_square_m":184750330.664086,
     "geom:bbox":"145.80790992,-36.661685994,145.94808096,-36.4500289925",
     "geom:latitude":-36.554973,
     "geom:longitude":145.867426,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.58151,
     "lbl:longitude":145.861784,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Baddaginnie"
@@ -38,9 +44,12 @@
         102049239
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20049"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"813423aa2f7d5b2faa4ebf56d29326af",
+    "wof:geomhash":"c817f366258386878815ab901ac1faa1",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404537603,
-    "wof:lastmodified":1566602330,
+    "wof:lastmodified":1695877312,
     "wof:name":"Baddaginnie",
     "wof:parent_id":102049239,
     "wof:placetype":"localadmin",

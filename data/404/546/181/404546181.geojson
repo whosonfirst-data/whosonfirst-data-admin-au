@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.057186,
-    "geom:area_square_m":582288367.933991,
+    "geom:area_square_m":582288367.934004,
     "geom:bbox":"139.43805,-34.6895659955,139.758881056,-34.4621599995",
     "geom:latitude":-34.566939,
     "geom:longitude":139.595847,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.54636,
     "lbl:longitude":139.665122,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Punyelroo"
@@ -38,9 +44,12 @@
         102049005
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40608"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"82917214b4c5bef1a2436c07ac33db2c",
+    "wof:geomhash":"2622b102d533f1725b3fda808b523eb5",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404546181,
-    "wof:lastmodified":1566603128,
+    "wof:lastmodified":1695877781,
     "wof:name":"Punyelroo",
     "wof:parent_id":102049005,
     "wof:placetype":"localadmin",

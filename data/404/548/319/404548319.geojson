@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025588,
-    "geom:area_square_m":269608291.262475,
+    "geom:area_square_m":269608291.262422,
     "geom:bbox":"116.652932992,-31.641625413,116.902838496,-31.4845139965",
     "geom:latitude":-31.558572,
     "geom:longitude":116.771246,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.559552,
     "lbl:longitude":116.773585,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Southern Brook"
@@ -38,9 +44,12 @@
         102048557
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50730"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"c829c1a69cd2c6ed3e25cc209dfce799",
+    "wof:geomhash":"624e1442d6e9ba5d2de1764ca14495e4",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404548319,
-    "wof:lastmodified":1566603237,
+    "wof:lastmodified":1695877836,
     "wof:name":"Southern Brook",
     "wof:parent_id":102048557,
     "wof:placetype":"localadmin",

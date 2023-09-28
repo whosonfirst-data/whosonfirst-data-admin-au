@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000106,
-    "geom:area_square_m":1092440.787327,
+    "geom:area_square_m":1092440.787324,
     "geom:bbox":"151.13138256,-33.9009075175,151.144974496,-33.8860447285",
     "geom:latitude":-33.892225,
     "geom:longitude":151.137717,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.891515,
     "lbl:longitude":151.137716,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Summer Hill"
@@ -42,12 +48,15 @@
         102048919
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12173"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931979
     ],
     "wof:country":"AU",
-    "wof:geomhash":"d9418394ba6671788c25ea860f9027bb",
+    "wof:geomhash":"79764ea95a8389bf4f20230aeede55b4",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -60,7 +69,7 @@
         }
     ],
     "wof:id":404226313,
-    "wof:lastmodified":1566602048,
+    "wof:lastmodified":1695877160,
     "wof:name":"Summer Hill",
     "wof:parent_id":102048919,
     "wof:placetype":"localadmin",

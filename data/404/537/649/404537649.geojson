@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00081,
-    "geom:area_square_m":8085687.825165,
+    "geom:area_square_m":8085687.825146,
     "geom:bbox":"146.900923392,-36.157601583,146.959764128,-36.133346344",
     "geom:latitude":-36.145919,
     "geom:longitude":146.932912,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.147653,
     "lbl:longitude":146.923101,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bandiana"
@@ -39,12 +45,15 @@
         102049665
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20070"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932543
     ],
     "wof:country":"AU",
-    "wof:geomhash":"a5dd0c23d54551984a914af2e55aba6a",
+    "wof:geomhash":"86e190594d17f9869c2b04df6959a374",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404537649,
-    "wof:lastmodified":1566602339,
+    "wof:lastmodified":1695877318,
     "wof:name":"Bandiana",
     "wof:parent_id":102049665,
     "wof:placetype":"localadmin",

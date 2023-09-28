@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005778,
-    "geom:area_square_m":64704778.60849,
+    "geom:area_square_m":64704778.608492,
     "geom:bbox":"151.90620192,-25.1348969695,152.023215008,-25.0384869945",
     "geom:latitude":-25.087835,
     "geom:longitude":151.962494,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-25.089001,
     "lbl:longitude":151.961599,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Wallaville"
@@ -38,9 +44,12 @@
         102048763
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31715"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"e3577e0f6e3f90b6641e4a5aa57ec9be",
+    "wof:geomhash":"c1a3036660d77bb64d439fb852c3b947",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404544561,
-    "wof:lastmodified":1566602151,
+    "wof:lastmodified":1695877217,
     "wof:name":"Wallaville",
     "wof:parent_id":102048763,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033591,
-    "geom:area_square_m":350209388.315528,
+    "geom:area_square_m":350209388.315479,
     "geom:bbox":"151.963596,-32.6133099965,152.287552224,-32.418215009",
     "geom:latitude":-32.526633,
     "geom:longitude":152.11484,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.524879,
     "lbl:longitude":152.128282,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Nerong"
@@ -38,9 +44,12 @@
         102049617
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11703"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"f61f94b3763723a547839b58df5db274",
+    "wof:geomhash":"9ff79a48bfddb8f6f3a67732d42f2cf1",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404225257,
-    "wof:lastmodified":1566602679,
+    "wof:lastmodified":1695877518,
     "wof:name":"Nerong",
     "wof:parent_id":102049617,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":-37.901253,
     "geom:longitude":145.411819,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.908749,
     "lbl:longitude":145.420784,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kallista"
@@ -39,9 +45,12 @@
         102048969
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20681"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"5099a647bd82fd7fbd9fef1d59c7219f",
+    "wof:geomhash":"af2cc675d844c710fc8052cf7831badf",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":404539009,
-    "wof:lastmodified":1566602369,
+    "wof:lastmodified":1695877336,
     "wof:name":"Kallista",
     "wof:parent_id":102048969,
     "wof:placetype":"localadmin",

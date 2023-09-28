@@ -10,12 +10,18 @@
     "geom:latitude":-38.344546,
     "geom:longitude":144.295181,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.343318,
     "lbl:longitude":144.294883,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Jan Juc"
@@ -38,12 +44,15 @@
         102048931
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20669"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101933085
     ],
     "wof:country":"AU",
-    "wof:geomhash":"1f3ae97469a01e4aa3119261987cd79b",
+    "wof:geomhash":"20c25ec4c2ad33c88c332ced9a7ef2b7",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404538983,
-    "wof:lastmodified":1566602448,
+    "wof:lastmodified":1695877385,
     "wof:name":"Jan Juc",
     "wof:parent_id":102048931,
     "wof:placetype":"localadmin",

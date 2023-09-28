@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003477,
-    "geom:area_square_m":37061543.460018,
+    "geom:area_square_m":37061543.46006,
     "geom:bbox":"152.94777984,-30.487523189,153.040480992,-30.421675399",
     "geom:latitude":-30.454164,
     "geom:longitude":152.994459,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-30.454666,
     "lbl:longitude":152.995176,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Raleigh"
@@ -38,9 +44,12 @@
         102048545
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11939"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"dff2000899f2d50aa298318088cf4f82",
+    "wof:geomhash":"3ebd3d8d58665b6c4e11550890033f4f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404225787,
-    "wof:lastmodified":1566602736,
+    "wof:lastmodified":1695877551,
     "wof:name":"Raleigh",
     "wof:parent_id":102048545,
     "wof:placetype":"localadmin",

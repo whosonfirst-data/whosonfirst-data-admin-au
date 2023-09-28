@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026705,
-    "geom:area_square_m":291075831.186885,
+    "geom:area_square_m":291075831.186651,
     "geom:bbox":"152.209580992,-28.2646960005,152.473234336,-28.0807880925",
     "geom:latitude":-28.176654,
     "geom:longitude":152.335144,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.167279,
     "lbl:longitude":152.335069,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Emu Vale"
@@ -39,9 +45,12 @@
         102048963
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30570"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"7322ac2cfcc1060fc119bb971ad758df",
+    "wof:geomhash":"342c20e2569e426f6f39238538c5878a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":404542133,
-    "wof:lastmodified":1566602264,
+    "wof:lastmodified":1695877271,
     "wof:name":"Emu Vale",
     "wof:parent_id":102048963,
     "wof:placetype":"localadmin",

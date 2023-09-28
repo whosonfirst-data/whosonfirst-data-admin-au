@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000179,
-    "geom:area_square_m":1668375.780481,
+    "geom:area_square_m":1668375.780477,
     "geom:bbox":"145.904192992,-41.074466981,145.92512,-41.0572979265",
     "geom:latitude":-41.066486,
     "geom:longitude":145.913619,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-41.06717,
     "lbl:longitude":145.914645,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "South Burnie"
@@ -38,12 +44,15 @@
         102049367
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60339"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938279
     ],
     "wof:country":"AU",
-    "wof:geomhash":"f27f1a154644845573f19128d0ff9551",
+    "wof:geomhash":"9ce90ae0f0774bbf96dcbcc62f825ef6",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404549431,
-    "wof:lastmodified":1566602850,
+    "wof:lastmodified":1695877626,
     "wof:name":"South Burnie",
     "wof:parent_id":102049367,
     "wof:placetype":"localadmin",

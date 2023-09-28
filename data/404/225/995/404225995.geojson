@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000984,
-    "geom:area_square_m":10234050.064464,
+    "geom:area_square_m":10234050.064442,
     "geom:bbox":"152.065144,-32.746933665,152.135667808,-32.7117385065",
     "geom:latitude":-32.733078,
     "geom:longitude":152.0954,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.736364,
     "lbl:longitude":152.097824,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Salamander Bay"
@@ -38,12 +44,15 @@
         102049095
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12031"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931793
     ],
     "wof:country":"AU",
-    "wof:geomhash":"1df83370dfbb61bd05b0d7b773dc8eda",
+    "wof:geomhash":"7e21ce2dce3f51ee079cd08b3b4bd26d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404225995,
-    "wof:lastmodified":1566602700,
+    "wof:lastmodified":1695877529,
     "wof:name":"Salamander Bay",
     "wof:parent_id":102049095,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018434,
-    "geom:area_square_m":218072132.75254,
+    "geom:area_square_m":218072132.752719,
     "geom:bbox":"145.133908992,-17.040621995,145.393794016,-16.778583999",
     "geom:latitude":-16.917589,
     "geom:longitude":145.282538,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-16.96999,
     "lbl:longitude":145.336815,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Paddys Green"
@@ -38,9 +44,12 @@
         102048519
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31283"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"3305937ff88479bbace36019eb491b85",
+    "wof:geomhash":"34acb02c914f2d59ff8145867a0e1e05",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404543649,
-    "wof:lastmodified":1566602128,
+    "wof:lastmodified":1695877207,
     "wof:name":"Paddys Green",
     "wof:parent_id":102048519,
     "wof:placetype":"localadmin",

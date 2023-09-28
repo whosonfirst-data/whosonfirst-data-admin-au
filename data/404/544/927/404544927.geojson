@@ -10,12 +10,18 @@
     "geom:latitude":-34.989844,
     "geom:longitude":138.82762,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.988916,
     "lbl:longitude":138.827769,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Balhannah"
@@ -50,9 +56,12 @@
         102049017
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40033"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"83650c21307d54bb73a57f934ea1dca8",
+    "wof:geomhash":"a53c4316849ec601aee6f5cceef33539",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":404544927,
-    "wof:lastmodified":1566602201,
+    "wof:lastmodified":1695877244,
     "wof:name":"Balhannah",
     "wof:parent_id":102049017,
     "wof:placetype":"localadmin",

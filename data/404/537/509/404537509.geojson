@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000354,
-    "geom:area_square_m":3454277.310433,
+    "geom:area_square_m":3454364.530051,
     "geom:bbox":"144.942696,-37.853897,144.979095,-37.83513",
     "geom:latitude":-37.844757,
     "geom:longitude":144.963261,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.844014,
     "lbl:longitude":144.969049,
     "lbl:max_zoom":18.0,
@@ -85,10 +91,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC20007",
         "gn:id":2178190,
         "qs_pg:id":373036,
         "wd:id":"Q591771"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932475
     ],
@@ -96,7 +104,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a5f98ebfd7a662f164b743fae69dbb35",
+    "wof:geomhash":"c1bf81906ee3e387bc23063e836d83ad",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -109,7 +117,7 @@
         }
     ],
     "wof:id":404537509,
-    "wof:lastmodified":1690853545,
+    "wof:lastmodified":1695878053,
     "wof:name":"Albert Park",
     "wof:parent_id":102049535,
     "wof:placetype":"localadmin",

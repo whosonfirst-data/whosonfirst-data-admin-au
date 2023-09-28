@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004749,
-    "geom:area_square_m":50728737.080378,
+    "geom:area_square_m":50728737.080388,
     "geom:bbox":"153.009672,-30.2878194075,153.095541472,-30.190051995",
     "geom:latitude":-30.240411,
     "geom:longitude":153.054822,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-30.248326,
     "lbl:longitude":153.059019,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Karangi"
@@ -44,9 +50,12 @@
         102048797
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11209"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"dcab402b685988f2bc18f2966ec6000e",
+    "wof:geomhash":"eb6a79d0888f333c47db6d9de60f6807",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404224145,
-    "wof:lastmodified":1566602601,
+    "wof:lastmodified":1695877475,
     "wof:name":"Karangi",
     "wof:parent_id":102048797,
     "wof:placetype":"localadmin",

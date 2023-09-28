@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000639,
-    "geom:area_square_m":7228960.575881,
+    "geom:area_square_m":7228960.575874,
     "geom:bbox":"151.230586912,-23.872991046,151.261283776,-23.842520991",
     "geom:latitude":-23.858203,
     "geom:longitude":151.246433,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-23.859399,
     "lbl:longitude":151.246726,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "West Gladstone"
@@ -38,12 +44,15 @@
         102049463
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31748"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935605
     ],
     "wof:country":"AU",
-    "wof:geomhash":"487d63b0d9e4aae68d2644a60f35ee85",
+    "wof:geomhash":"25708a91e3609c0e57d9d9df9ebba819",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404544629,
-    "wof:lastmodified":1566602161,
+    "wof:lastmodified":1695877223,
     "wof:name":"West Gladstone",
     "wof:parent_id":102049463,
     "wof:placetype":"localadmin",

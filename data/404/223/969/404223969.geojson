@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000995,
-    "geom:area_square_m":10244859.157715,
+    "geom:area_square_m":10244859.157683,
     "geom:bbox":"151.079462016,-33.6869224945,151.120598016,-33.6250660055",
     "geom:latitude":-33.657223,
     "geom:longitude":151.100818,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.660693,
     "lbl:longitude":151.09709,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Hornsby Heights"
@@ -39,12 +45,15 @@
         102049503
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11131"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101930763
     ],
     "wof:country":"AU",
-    "wof:geomhash":"bc04c79dad4ee658f780d1d27dc7eb6a",
+    "wof:geomhash":"c7f3ea241ea48dfdca644a0f799595cd",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404223969,
-    "wof:lastmodified":1566602536,
+    "wof:lastmodified":1695877435,
     "wof:name":"Hornsby Heights",
     "wof:parent_id":102049503,
     "wof:placetype":"localadmin",

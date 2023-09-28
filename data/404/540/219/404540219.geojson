@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018722,
-    "geom:area_square_m":184230180.478824,
+    "geom:area_square_m":184230180.478877,
     "geom:bbox":"143.814976992,-37.3685499965,144.022948992,-37.1864019935",
     "geom:latitude":-37.269741,
     "geom:longitude":143.926321,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.249828,
     "lbl:longitude":143.917643,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Smeaton"
@@ -47,9 +53,12 @@
         102049553
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21222"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"67194c7fbe75a50eb36e6f747d1f7452",
+    "wof:geomhash":"eac9cc60182455460bcb397943038291",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":404540219,
-    "wof:lastmodified":1566602993,
+    "wof:lastmodified":1695877714,
     "wof:name":"Smeaton",
     "wof:parent_id":102049553,
     "wof:placetype":"localadmin",

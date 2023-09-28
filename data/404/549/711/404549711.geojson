@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005813,
-    "geom:area_square_m":69621706.448353,
+    "geom:area_square_m":69621706.448334,
     "geom:bbox":"132.2195256,-14.477886,132.346084704,-14.3712363675",
     "geom:latitude":-14.408344,
     "geom:longitude":132.275523,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-14.406308,
     "lbl:longitude":132.265974,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Emungalan"
@@ -38,9 +44,12 @@
         102049277
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC70061"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"34d774093e7b98cb67393416990d45ae",
+    "wof:geomhash":"3a85135495b9adf34772d40545df7d62",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404549711,
-    "wof:lastmodified":1566602916,
+    "wof:lastmodified":1695877671,
     "wof:name":"Emungalan",
     "wof:parent_id":102049277,
     "wof:placetype":"localadmin",

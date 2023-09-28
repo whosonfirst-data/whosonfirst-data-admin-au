@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000059,
-    "geom:area_square_m":666972.762557,
+    "geom:area_square_m":666972.762554,
     "geom:bbox":"150.786785152,-23.3401570245,150.799482016,-23.3216520295",
     "geom:latitude":-23.329817,
     "geom:longitude":150.792318,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-23.325658,
     "lbl:longitude":150.790831,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Keppel Sands"
@@ -38,12 +44,15 @@
         102048825
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30869"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934663
     ],
     "wof:country":"AU",
-    "wof:geomhash":"61edf193956f307bfdd9562a12dc808d",
+    "wof:geomhash":"dfb81cb246b865d77c4d6d87a244a30b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404542777,
-    "wof:lastmodified":1566602287,
+    "wof:lastmodified":1695877285,
     "wof:name":"Keppel Sands",
     "wof:parent_id":102048825,
     "wof:placetype":"localadmin",

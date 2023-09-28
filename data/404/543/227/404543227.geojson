@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014115,
-    "geom:area_square_m":153946645.392334,
+    "geom:area_square_m":153946645.392304,
     "geom:bbox":"152.432047648,-28.195628933,152.58034,-28.023691006",
     "geom:latitude":-28.111823,
     "geom:longitude":152.50538,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.124689,
     "lbl:longitude":152.505345,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Moogerah"
@@ -38,9 +44,12 @@
         102048945
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31087"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"d0e27814212e14995f643b28e75ae687",
+    "wof:geomhash":"ba63cc33f952fc54ea6a592fca9115f5",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404543227,
-    "wof:lastmodified":1566602098,
+    "wof:lastmodified":1695877191,
     "wof:name":"Moogerah",
     "wof:parent_id":102048945,
     "wof:placetype":"localadmin",

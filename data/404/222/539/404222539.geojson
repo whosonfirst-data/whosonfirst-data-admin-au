@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001753,
-    "geom:area_square_m":17968523.354298,
+    "geom:area_square_m":17968523.354283,
     "geom:bbox":"150.75094176,-34.0380699955,150.7962936,-33.9633979275",
     "geom:latitude":-34.004392,
     "geom:longitude":150.772526,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.004644,
     "lbl:longitude":150.775955,
     "lbl:max_zoom":18.0,
@@ -46,10 +52,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC10495",
         "wd:id":"Q5052673"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"ece2c978f4cb46e1906fd1c489ef91b7",
+    "wof:geomhash":"70114a46dab7004f9659978c106ededc",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -62,7 +70,7 @@
         }
     ],
     "wof:id":404222539,
-    "wof:lastmodified":1566602782,
+    "wof:lastmodified":1695878001,
     "wof:name":"Catherine Field",
     "wof:parent_id":102048421,
     "wof:placetype":"localadmin",

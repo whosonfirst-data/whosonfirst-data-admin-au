@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000239,
-    "geom:area_square_m":2628088.142954,
+    "geom:area_square_m":2628088.142949,
     "geom:bbox":"152.772376992,-27.4036196795,152.790946304,-27.378557008",
     "geom:latitude":-27.393398,
     "geom:longitude":152.780667,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.397253,
     "lbl:longitude":152.780033,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062c\u0628\u0644 \u0646\u064a\u0628\u0648"
@@ -123,12 +129,15 @@
         102049131
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31153"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934929
     ],
     "wof:country":"AU",
-    "wof:geomhash":"b92565a095b9cb82ff4d084fce71bc8a",
+    "wof:geomhash":"fa6d5eb549854c10472a727adfddbaae",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -141,7 +150,7 @@
         }
     ],
     "wof:id":404543373,
-    "wof:lastmodified":1566602142,
+    "wof:lastmodified":1695877213,
     "wof:name":"Mount Nebo",
     "wof:parent_id":102049131,
     "wof:placetype":"localadmin",

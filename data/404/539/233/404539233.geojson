@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001921,
-    "geom:area_square_m":19129192.203099,
+    "geom:area_square_m":19129192.203102,
     "geom:bbox":"145.446863616,-36.364731616,145.498181472,-36.324207995",
     "geom:latitude":-36.343977,
     "geom:longitude":145.474353,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.344462,
     "lbl:longitude":145.474355,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:als_x_preferred":[
         "Lemnos"
@@ -189,9 +195,12 @@
         102049473
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20781"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"f414046bed03c931861cd25484d1e2e5",
+    "wof:geomhash":"ccb496b0f1f30ac7a110e5ef04e05327",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -204,7 +213,7 @@
         }
     ],
     "wof:id":404539233,
-    "wof:lastmodified":1566602374,
+    "wof:lastmodified":1695877339,
     "wof:name":"Lemnos",
     "wof:parent_id":102049473,
     "wof:placetype":"localadmin",

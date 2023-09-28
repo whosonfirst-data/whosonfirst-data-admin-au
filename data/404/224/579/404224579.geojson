@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001014,
-    "geom:area_square_m":10185708.190845,
+    "geom:area_square_m":10185708.190854,
     "geom:bbox":"150.20681168,-35.711807009,150.247993152,-35.668038229",
     "geom:latitude":-35.691495,
     "geom:longitude":150.22569,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.691865,
     "lbl:longitude":150.225374,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Long Beach"
@@ -38,12 +44,15 @@
         102049609
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11402"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931079
     ],
     "wof:country":"AU",
-    "wof:geomhash":"0f5eb5fffb6bf0ec3acb6728f2140602",
+    "wof:geomhash":"03a8258d82f08ba62ff5ec21e69ef763",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404224579,
-    "wof:lastmodified":1566602653,
+    "wof:lastmodified":1695877503,
     "wof:name":"Long Beach",
     "wof:parent_id":102049609,
     "wof:placetype":"localadmin",

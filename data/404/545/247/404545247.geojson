@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000127,
-    "geom:area_square_m":1292046.372759,
+    "geom:area_square_m":1292046.372761,
     "geom:bbox":"138.662142112,-34.7418148795,138.676192,-34.728908003",
     "geom:latitude":-34.736205,
     "geom:longitude":138.67031,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.736143,
     "lbl:longitude":138.670445,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Elizabeth Grove"
@@ -39,12 +45,15 @@
         102049603
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40177"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935949
     ],
     "wof:country":"AU",
-    "wof:geomhash":"7596f819193fe7a593a89def30c9901a",
+    "wof:geomhash":"83ee80af5f39bd2c0a14a5d8f4944b38",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404545247,
-    "wof:lastmodified":1566602242,
+    "wof:lastmodified":1695877262,
     "wof:name":"Elizabeth Grove",
     "wof:parent_id":102049603,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02289,
-    "geom:area_square_m":266796651.060607,
+    "geom:area_square_m":266796651.060602,
     "geom:bbox":"146.87724,-19.617621009,147.043233632,-19.3933910005",
     "geom:latitude":-19.501799,
     "geom:longitude":146.967435,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-19.504732,
     "lbl:longitude":146.950862,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mount Elliot"
@@ -47,9 +53,12 @@
         102048451
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31126"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"1d5f48d2cfa30fa2e47f7b15a6e86caa",
+    "wof:geomhash":"a92c557a7f7a2acdf3992f9c553b0dac",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":404543311,
-    "wof:lastmodified":1566602140,
+    "wof:lastmodified":1695877212,
     "wof:name":"Mount Elliot",
     "wof:parent_id":102048451,
     "wof:placetype":"localadmin",

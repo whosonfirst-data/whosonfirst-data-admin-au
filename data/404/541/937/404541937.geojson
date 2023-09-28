@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000485,
-    "geom:area_square_m":5318218.836516,
+    "geom:area_square_m":5318218.836524,
     "geom:bbox":"151.907596896,-27.620902716,151.937777888,-27.5903540175",
     "geom:latitude":-27.605663,
     "geom:longitude":151.924088,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.598685,
     "lbl:longitude":151.929108,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Darling Heights"
@@ -38,12 +44,15 @@
         102049357
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30475"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934273
     ],
     "wof:country":"AU",
-    "wof:geomhash":"afb711758358c962138371cb4c83665e",
+    "wof:geomhash":"f425d27a4c5b4a667484cbd65668a2e6",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404541937,
-    "wof:lastmodified":1566603048,
+    "wof:lastmodified":1695877745,
     "wof:name":"Darling Heights",
     "wof:parent_id":102049357,
     "wof:placetype":"localadmin",

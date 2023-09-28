@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003108,
-    "geom:area_square_m":35820025.0223,
+    "geom:area_square_m":35820025.022334,
     "geom:bbox":"149.079642016,-21.2811270045,149.147200096,-21.2048919825",
     "geom:latitude":-21.246359,
     "geom:longitude":149.114056,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-21.245098,
     "lbl:longitude":149.117445,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Sandiford"
@@ -41,9 +47,12 @@
         102048783
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31451"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"97c10946e49bade34877db50a2e8a6c6",
+    "wof:geomhash":"ae23c55de6e1280cae0d46bae60ee984",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404544013,
-    "wof:lastmodified":1566602158,
+    "wof:lastmodified":1695877221,
     "wof:name":"Sandiford",
     "wof:parent_id":102048783,
     "wof:placetype":"localadmin",

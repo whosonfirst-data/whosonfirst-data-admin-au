@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00012,
-    "geom:area_square_m":1232227.738456,
+    "geom:area_square_m":1232227.738455,
     "geom:bbox":"150.874591328,-33.9193872045,150.887325824,-33.9037612165",
     "geom:latitude":-33.911244,
     "geom:longitude":150.880676,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.911453,
     "lbl:longitude":150.879914,
     "lbl:max_zoom":18.0,
@@ -67,13 +73,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC10411",
         "wd:id":"Q5001299"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101929755
     ],
     "wof:country":"AU",
-    "wof:geomhash":"ed7a34b6606afd97cec126dcf734a2f3",
+    "wof:geomhash":"45d05a39bef919517d3deee96b817793",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -86,7 +94,7 @@
         }
     ],
     "wof:id":404222349,
-    "wof:lastmodified":1566602779,
+    "wof:lastmodified":1695878000,
     "wof:name":"Busby",
     "wof:parent_id":102049387,
     "wof:placetype":"localadmin",

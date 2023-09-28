@@ -10,12 +10,18 @@
     "geom:latitude":-27.716314,
     "geom:longitude":153.170453,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.7171,
     "lbl:longitude":153.171428,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Holmview"
@@ -39,12 +45,15 @@
         102048665
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30768"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934559
     ],
     "wof:country":"AU",
-    "wof:geomhash":"3cb1d234ca0849f41e4df3475a91b013",
+    "wof:geomhash":"63e1bb09a6a66772f5885f8b4aa25682",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404542551,
-    "wof:lastmodified":1566602259,
+    "wof:lastmodified":1695877269,
     "wof:name":"Holmview",
     "wof:parent_id":102048665,
     "wof:placetype":"localadmin",

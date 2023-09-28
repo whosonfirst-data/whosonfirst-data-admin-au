@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000218,
-    "geom:area_square_m":2524593.103687,
+    "geom:area_square_m":2524593.103709,
     "geom:bbox":"116.795325984,-20.747753745,116.812769408,-20.7294120865",
     "geom:latitude":-20.739714,
     "geom:longitude":116.803356,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-20.740971,
     "lbl:longitude":116.802319,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Nickol"
@@ -38,12 +44,15 @@
         102048511
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50578"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937585
     ],
     "wof:country":"AU",
-    "wof:geomhash":"952be41a74f927fc3fd3ebae669d42fb",
+    "wof:geomhash":"8168afcb6bd2c91762a2eceaaff7be13",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404547983,
-    "wof:lastmodified":1566602942,
+    "wof:lastmodified":1695877684,
     "wof:name":"Nickol",
     "wof:parent_id":102048511,
     "wof:placetype":"localadmin",

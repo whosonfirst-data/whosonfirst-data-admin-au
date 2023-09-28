@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001296,
-    "geom:area_square_m":14048972.2337,
+    "geom:area_square_m":14048972.233723,
     "geom:bbox":"153.441870112,-28.8145929975,153.504478016,-28.754897438",
     "geom:latitude":-28.784121,
     "geom:longitude":153.471334,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.78899,
     "lbl:longitude":153.478693,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Teven"
@@ -38,9 +44,12 @@
         102049481
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12250"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"e8ec0562912f1a98c89306c78e0db3ed",
+    "wof:geomhash":"5e8b303d920445ec70edb78b3ca6ef6f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404226487,
-    "wof:lastmodified":1566602070,
+    "wof:lastmodified":1695877173,
     "wof:name":"Teven",
     "wof:parent_id":102049481,
     "wof:placetype":"localadmin",

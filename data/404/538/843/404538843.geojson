@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010156,
-    "geom:area_square_m":98581324.421538,
+    "geom:area_square_m":98581324.421534,
     "geom:bbox":"146.258233632,-38.3317630045,146.423948992,-38.231990007",
     "geom:latitude":-38.278291,
     "geom:longitude":146.339604,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.271352,
     "lbl:longitude":146.329749,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Hazelwood"
@@ -56,9 +62,12 @@
         102049021
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20606"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"389b2901f4bce9c3b0db957fe16874b6",
+    "wof:geomhash":"d51da417e122b870630faf5ee71bef79",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -70,7 +79,7 @@
         }
     ],
     "wof:id":404538843,
-    "wof:lastmodified":1566602438,
+    "wof:lastmodified":1695877380,
     "wof:name":"Hazelwood",
     "wof:parent_id":102049021,
     "wof:placetype":"localadmin",

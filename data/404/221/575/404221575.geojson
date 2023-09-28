@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000658,
-    "geom:area_square_m":6837844.691494,
+    "geom:area_square_m":6837844.691495,
     "geom:bbox":"151.581710304,-32.7921922315,151.621312768,-32.76371557",
     "geom:latitude":-32.779943,
     "geom:longitude":151.599219,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.779027,
     "lbl:longitude":151.597873,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ashtonfield"
@@ -39,12 +45,15 @@
         102048483
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10067"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101929425
     ],
     "wof:country":"AU",
-    "wof:geomhash":"c33b119784ac656e3f391a357dd99661",
+    "wof:geomhash":"cb89cd2d4effcbde185d96677b5c47e3",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404221575,
-    "wof:lastmodified":1566601983,
+    "wof:lastmodified":1695877126,
     "wof:name":"Ashtonfield",
     "wof:parent_id":102048483,
     "wof:placetype":"localadmin",

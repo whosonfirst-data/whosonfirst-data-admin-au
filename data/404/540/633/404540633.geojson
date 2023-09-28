@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003326,
-    "geom:area_square_m":32501782.252485,
+    "geom:area_square_m":32501782.252483,
     "geom:bbox":"147.366634016,-37.8165380045,147.502256096,-37.776934444",
     "geom:latitude":-37.797527,
     "geom:longitude":147.429783,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.795517,
     "lbl:longitude":147.414587,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Walpa"
@@ -38,9 +44,12 @@
         102049039
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21407"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"e9bca0865072b9521a8e140e30d49927",
+    "wof:geomhash":"cb9baeb2cd22fde9f5c515e15e54607e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404540633,
-    "wof:lastmodified":1566602996,
+    "wof:lastmodified":1695877716,
     "wof:name":"Walpa",
     "wof:parent_id":102049039,
     "wof:placetype":"localadmin",

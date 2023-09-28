@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.184335,
-    "geom:area_square_m":1981459335.083073,
+    "geom:area_square_m":1981459335.082646,
     "geom:bbox":"147.345800032,-29.873106998,147.905775008,-29.2761459825",
     "geom:latitude":-29.620886,
     "geom:longitude":147.624932,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-29.680573,
     "lbl:longitude":147.597403,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Cumborah"
@@ -47,9 +53,12 @@
         102049265
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10663"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"81f9a584517a2e8a9ec02ae26f9f0aee",
+    "wof:geomhash":"f150365adc8cd60f336ce4f3cd09175a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":404222917,
-    "wof:lastmodified":1566602816,
+    "wof:lastmodified":1695877602,
     "wof:name":"Cumborah",
     "wof:parent_id":102049265,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002173,
-    "geom:area_square_m":23570526.417917,
+    "geom:area_square_m":23570526.417922,
     "geom:bbox":"153.340266016,-28.742311999,153.388768992,-28.6690339985",
     "geom:latitude":-28.705925,
     "geom:longitude":153.36331,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.709877,
     "lbl:longitude":153.365293,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Corndale"
@@ -41,9 +47,12 @@
         102049635
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10623"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"eb0bbfc33ef4fc969122b68e22b206c7",
+    "wof:geomhash":"83f01d76b868634fa5e654ac3f8e9c45",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404222827,
-    "wof:lastmodified":1566602752,
+    "wof:lastmodified":1695877561,
     "wof:name":"Corndale",
     "wof:parent_id":102049635,
     "wof:placetype":"localadmin",

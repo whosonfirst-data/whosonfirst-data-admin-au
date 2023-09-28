@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031522,
-    "geom:area_square_m":287359757.931144,
+    "geom:area_square_m":287359757.931051,
     "geom:bbox":"147.01285872,-42.5934896045,147.309231424,-42.390175992",
     "geom:latitude":-42.503383,
     "geom:longitude":147.182571,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-42.474191,
     "lbl:longitude":147.209694,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Dysart"
@@ -53,9 +59,12 @@
         102049259
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60096"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"2b5ee15f0197147eaef9cae2cbd97cc0",
+    "wof:geomhash":"70f07f0bdaae019978af75298758f956",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -67,7 +76,7 @@
         }
     ],
     "wof:id":404548885,
-    "wof:lastmodified":1566603209,
+    "wof:lastmodified":1695877820,
     "wof:name":"Dysart",
     "wof:parent_id":102049259,
     "wof:placetype":"localadmin",

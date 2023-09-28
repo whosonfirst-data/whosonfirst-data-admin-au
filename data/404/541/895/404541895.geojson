@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000061,
-    "geom:area_square_m":713078.408906,
+    "geom:area_square_m":713078.408929,
     "geom:bbox":"147.107765248,-19.405620851,147.115167136,-19.3833782455",
     "geom:latitude":-19.393585,
     "geom:longitude":147.110722,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-19.387738,
     "lbl:longitude":147.110973,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Cungulla"
@@ -38,12 +44,15 @@
         102048451
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30455"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934251
     ],
     "wof:country":"AU",
-    "wof:geomhash":"26df596a70194994c789f62a85babcea",
+    "wof:geomhash":"044092fdb26d1f51de63cd8fc7df0104",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404541895,
-    "wof:lastmodified":1566603059,
+    "wof:lastmodified":1695877749,
     "wof:name":"Cungulla",
     "wof:parent_id":102048451,
     "wof:placetype":"localadmin",

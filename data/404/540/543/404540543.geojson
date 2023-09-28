@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000497,
-    "geom:area_square_m":4822196.359716,
+    "geom:area_square_m":4822196.359721,
     "geom:bbox":"146.528509984,-38.323242996,146.561915808,-38.294491702",
     "geom:latitude":-38.311897,
     "geom:longitude":146.545367,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.313469,
     "lbl:longitude":146.545124,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Traralgon South"
@@ -38,12 +44,15 @@
         102049021
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21366"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101933643
     ],
     "wof:country":"AU",
-    "wof:geomhash":"14d2f5ad6deecca193e67d8a73a95f42",
+    "wof:geomhash":"f3275558958850ae4e608998aad3e58a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404540543,
-    "wof:lastmodified":1566603006,
+    "wof:lastmodified":1695877721,
     "wof:name":"Traralgon South",
     "wof:parent_id":102049021,
     "wof:placetype":"localadmin",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000378,
-    "geom:area_square_m":3967877.953566,
+    "geom:area_square_m":3967877.953559,
     "geom:bbox":"115.89755552,-32.032721,115.928530688,-32.0122458845",
     "geom:latitude":-32.020585,
     "geom:longitude":115.911811,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.020037,
     "lbl:longitude":115.909974,
     "lbl:max_zoom":18.0,
@@ -145,13 +151,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC50848",
         "wd:id":"Q8022944"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937971
     ],
     "wof:country":"AU",
-    "wof:geomhash":"fd516e729afd15e72278b1a2c5da7769",
+    "wof:geomhash":"1645c96b12ba8c9eaf57914b9c51a08e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -164,7 +172,7 @@
         }
     ],
     "wof:id":404548581,
-    "wof:lastmodified":1566603190,
+    "wof:lastmodified":1695878049,
     "wof:name":"Wilson",
     "wof:parent_id":102049055,
     "wof:placetype":"localadmin",

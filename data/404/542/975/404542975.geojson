@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001337,
-    "geom:area_square_m":14640158.750279,
+    "geom:area_square_m":14640158.750322,
     "geom:bbox":"153.087167008,-27.7433369925,153.12634992,-27.690372954",
     "geom:latitude":-27.717356,
     "geom:longitude":153.107222,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.715114,
     "lbl:longitude":153.107592,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Logan Reserve"
@@ -39,9 +45,12 @@
         102048665
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30961"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"d6d8e545369b99a33fbbe7430e39f68b",
+    "wof:geomhash":"b43e501710d67741fe79009a409a56fc",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":404542975,
-    "wof:lastmodified":1566602317,
+    "wof:lastmodified":1695877305,
     "wof:name":"Logan Reserve",
     "wof:parent_id":102048665,
     "wof:placetype":"localadmin",

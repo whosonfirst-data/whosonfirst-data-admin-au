@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000426,
-    "geom:area_square_m":4296238.360755,
+    "geom:area_square_m":4296238.360739,
     "geom:bbox":"150.424182016,-35.409778007,150.460411424,-35.3774046905",
     "geom:latitude":-35.392476,
     "geom:longitude":150.440992,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.386989,
     "lbl:longitude":150.445806,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Burrill Lake"
@@ -41,12 +47,15 @@
         102049405
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10404"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101929747
     ],
     "wof:country":"AU",
-    "wof:geomhash":"6f3325fab0d6c5f23d92a4292f8ffd7a",
+    "wof:geomhash":"cd286d8f6943a5fd7de90fdd5a2d4be9",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404222333,
-    "wof:lastmodified":1566602789,
+    "wof:lastmodified":1695877585,
     "wof:name":"Burrill Lake",
     "wof:parent_id":102049405,
     "wof:placetype":"localadmin",

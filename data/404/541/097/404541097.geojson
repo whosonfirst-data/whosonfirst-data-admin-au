@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006227,
-    "geom:area_square_m":69915364.348942,
+    "geom:area_square_m":69915364.348978,
     "geom:bbox":"152.105800992,-24.83192345,152.190144992,-24.698029996",
     "geom:latitude":-24.767734,
     "geom:longitude":152.149674,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-24.769973,
     "lbl:longitude":152.145532,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Avondale"
@@ -89,9 +95,12 @@
         102048763
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30076"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"5858c1f94ae2112800fc1a01c853fe54",
+    "wof:geomhash":"0476c349df735b2d9933090631f6721f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -103,7 +112,7 @@
         }
     ],
     "wof:id":404541097,
-    "wof:lastmodified":1566603062,
+    "wof:lastmodified":1695877750,
     "wof:name":"Avondale",
     "wof:parent_id":102048763,
     "wof:placetype":"localadmin",

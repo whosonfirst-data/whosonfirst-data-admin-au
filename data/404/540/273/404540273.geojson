@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001138,
-    "geom:area_square_m":11100040.586074,
+    "geom:area_square_m":11100040.586088,
     "geom:bbox":"145.136581568,-37.9636797525,145.187231008,-37.9245613545",
     "geom:latitude":-37.945696,
     "geom:longitude":145.157856,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.946657,
     "lbl:longitude":145.153259,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Springvale"
@@ -60,12 +66,15 @@
         102049651
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21246"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101933561
     ],
     "wof:country":"AU",
-    "wof:geomhash":"205e0a168b8dd06ed84b675dec79f7f4",
+    "wof:geomhash":"b2b4487654b82e95b4193905a6dd0ad4",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -78,7 +87,7 @@
         }
     ],
     "wof:id":404540273,
-    "wof:lastmodified":1566602991,
+    "wof:lastmodified":1695877713,
     "wof:name":"Springvale",
     "wof:parent_id":102049651,
     "wof:placetype":"localadmin",

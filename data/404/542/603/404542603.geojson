@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035097,
-    "geom:area_square_m":388347588.33184,
+    "geom:area_square_m":388347588.331545,
     "geom:bbox":"152.435338496,-26.5977089525,152.72709984,-26.408714007",
     "geom:latitude":-26.510501,
     "geom:longitude":152.583581,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-26.50665,
     "lbl:longitude":152.612838,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Imbil"
@@ -38,9 +44,12 @@
         102049393
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30792"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"246b83d677f09c7399bfa7803e3f3cd4",
+    "wof:geomhash":"e0385bd7063612866355e40d6728bb3b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404542603,
-    "wof:lastmodified":1566602278,
+    "wof:lastmodified":1695877280,
     "wof:name":"Imbil",
     "wof:parent_id":102049393,
     "wof:placetype":"localadmin",

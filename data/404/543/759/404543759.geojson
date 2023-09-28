@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002295,
-    "geom:area_square_m":25124857.346219,
+    "geom:area_square_m":25124857.346208,
     "geom:bbox":"151.592732992,-27.736545994,151.674522016,-27.6922019935",
     "geom:latitude":-27.712677,
     "geom:longitude":151.631403,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.711119,
     "lbl:longitude":151.630617,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Pittsworth"
@@ -38,12 +44,15 @@
         102049357
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31333"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         1175610517
     ],
     "wof:country":"AU",
-    "wof:geomhash":"aac688bcb60aad0eaab325f0927deb62",
+    "wof:geomhash":"b46fcbf5e2d13cfee85d8e94a1a1d867",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404543759,
-    "wof:lastmodified":1566602126,
+    "wof:lastmodified":1695877205,
     "wof:name":"Pittsworth",
     "wof:parent_id":102049357,
     "wof:placetype":"localadmin",

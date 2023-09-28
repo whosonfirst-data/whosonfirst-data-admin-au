@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001399,
-    "geom:area_square_m":15603808.46297,
+    "geom:area_square_m":15603808.462975,
     "geom:bbox":"152.706831008,-25.5773745675,152.753600384,-25.5169310345",
     "geom:latitude":-25.544857,
     "geom:longitude":152.73346,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-25.537842,
     "lbl:longitude":152.729183,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Granville"
@@ -86,12 +92,15 @@
         102049435
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30697"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934485
     ],
     "wof:country":"AU",
-    "wof:geomhash":"c452f0132d743d68d487100182912d4c",
+    "wof:geomhash":"5b6f311701b917332f3fa9ab9e1457b0",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -103,7 +112,7 @@
         }
     ],
     "wof:id":404542405,
-    "wof:lastmodified":1566602305,
+    "wof:lastmodified":1695877298,
     "wof:name":"Granville",
     "wof:parent_id":102049435,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029473,
-    "geom:area_square_m":316160578.143865,
+    "geom:area_square_m":316160578.143787,
     "geom:bbox":"150.823496992,-29.907828353,151.085967008,-29.7442179975",
     "geom:latitude":-29.825987,
     "geom:longitude":150.955718,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-29.832024,
     "lbl:longitude":150.958149,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Gum Flat"
@@ -38,9 +44,12 @@
         102049369
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11043"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"d4542cac7b1844d73f50b825dc67abf5",
+    "wof:geomhash":"e362a1ac70e8d65e6482b2a15601f8f4",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404223771,
-    "wof:lastmodified":1566602523,
+    "wof:lastmodified":1695877427,
     "wof:name":"Gum Flat",
     "wof:parent_id":102049369,
     "wof:placetype":"localadmin",

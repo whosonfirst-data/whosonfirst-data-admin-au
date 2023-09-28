@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001886,
-    "geom:area_square_m":19397062.832144,
+    "geom:area_square_m":19397065.592319,
     "geom:bbox":"150.260825,-33.736068,150.32694,-33.683162",
     "geom:latitude":-33.709287,
     "geom:longitude":150.298465,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.714793,
     "lbl:longitude":150.30671,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u0995\u09be\u099f\u09c1\u09ae\u09ac\u09be"
@@ -68,12 +74,15 @@
         102049627
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11213"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101930849
     ],
     "wof:country":"AU",
-    "wof:geomhash":"d94d43b5121684d390e46fd17c771b10",
+    "wof:geomhash":"375cfffd91986010979c0d8372012255",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -85,7 +94,7 @@
         }
     ],
     "wof:id":404224153,
-    "wof:lastmodified":1636494648,
+    "wof:lastmodified":1695877864,
     "wof:name":"Katoomba",
     "wof:parent_id":102049627,
     "wof:placetype":"localadmin",

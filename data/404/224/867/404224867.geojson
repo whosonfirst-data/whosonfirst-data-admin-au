@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035649,
-    "geom:area_square_m":357945560.901065,
+    "geom:area_square_m":357945560.900793,
     "geom:bbox":"149.077955712,-35.860067008,149.305800992,-35.533728007",
     "geom:latitude":-35.706036,
     "geom:longitude":149.177775,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.712363,
     "lbl:longitude":149.169981,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Michelago"
@@ -47,9 +53,12 @@
         102048491
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11530"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"078370837258377ce69632cb3c588104",
+    "wof:geomhash":"90c4725b99fab66e9bd8b2fff2923fe9",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":404224867,
-    "wof:lastmodified":1566602597,
+    "wof:lastmodified":1695877473,
     "wof:name":"Michelago",
     "wof:parent_id":102048491,
     "wof:placetype":"localadmin",

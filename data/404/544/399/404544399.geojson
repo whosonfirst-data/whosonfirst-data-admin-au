@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003359,
-    "geom:area_square_m":37473042.355752,
+    "geom:area_square_m":37473042.3557,
     "geom:bbox":"152.623697408,-25.5788379915,152.719592992,-25.5111850085",
     "geom:latitude":-25.551964,
     "geom:longitude":152.665902,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-25.548492,
     "lbl:longitude":152.657201,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tinana"
@@ -38,9 +44,12 @@
         102049435
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31635"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"ebe55459b531c5dc893ae1ca73785073",
+    "wof:geomhash":"0d3126e7162a1acbfda16e829a2d3485",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404544399,
-    "wof:lastmodified":1566602152,
+    "wof:lastmodified":1695877218,
     "wof:name":"Tinana",
     "wof:parent_id":102049435,
     "wof:placetype":"localadmin",

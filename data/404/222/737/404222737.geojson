@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001315,
-    "geom:area_square_m":13411980.657644,
+    "geom:area_square_m":13411980.657602,
     "geom:bbox":"150.857856352,-34.4861091005,150.946851008,-34.4309270045",
     "geom:latitude":-34.45973,
     "geom:longitude":150.885117,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.453281,
     "lbl:longitude":150.874857,
     "lbl:max_zoom":18.0,
@@ -57,13 +63,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC10583",
         "wd:id":"Q5161112"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101929969
     ],
     "wof:country":"AU",
-    "wof:geomhash":"6ed81d75cf1c0e02fc6ee5a306c417df",
+    "wof:geomhash":"ecf384c148fba7c13c4bce54c55b0a46",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -75,7 +83,7 @@
         }
     ],
     "wof:id":404222737,
-    "wof:lastmodified":1566602747,
+    "wof:lastmodified":1695877995,
     "wof:name":"Coniston",
     "wof:parent_id":102048853,
     "wof:placetype":"localadmin",

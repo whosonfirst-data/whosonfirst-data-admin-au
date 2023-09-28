@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000763,
-    "geom:area_square_m":8326048.567335,
+    "geom:area_square_m":8326048.567312,
     "geom:bbox":"153.353492864,-28.0673320805,153.392897568,-28.032322329",
     "geom:latitude":-28.050853,
     "geom:longitude":153.373068,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.053393,
     "lbl:longitude":153.375,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Merrimac"
@@ -69,12 +75,15 @@
         102049363
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31046"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934825
     ],
     "wof:country":"AU",
-    "wof:geomhash":"5631a321190402a21bceed3ba8606261",
+    "wof:geomhash":"3fedee774558622bc154937752cbcbf0",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -87,7 +96,7 @@
         }
     ],
     "wof:id":404543145,
-    "wof:lastmodified":1566602113,
+    "wof:lastmodified":1695877198,
     "wof:name":"Merrimac",
     "wof:parent_id":102049363,
     "wof:placetype":"localadmin",

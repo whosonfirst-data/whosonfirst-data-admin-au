@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000588,
-    "geom:area_square_m":6857669.848375,
+    "geom:area_square_m":6857669.848382,
     "geom:bbox":"146.76100992,-19.3186629885,146.812880896,-19.3001944755",
     "geom:latitude":-19.311106,
     "geom:longitude":146.787626,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-19.308998,
     "lbl:longitude":146.789729,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0410\u043d\u0430\u043d\u0434\u044d\u0439\u043b"
@@ -74,12 +80,15 @@
         102048451
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30040"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101933801
     ],
     "wof:country":"AU",
-    "wof:geomhash":"ca3c6af44f0e73350cda73979730344b",
+    "wof:geomhash":"81a875c504ef2357dfab5adc84dabf2e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -91,7 +100,7 @@
         }
     ],
     "wof:id":404541019,
-    "wof:lastmodified":1566603086,
+    "wof:lastmodified":1695877763,
     "wof:name":"Annandale",
     "wof:parent_id":102048451,
     "wof:placetype":"localadmin",

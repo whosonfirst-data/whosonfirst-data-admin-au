@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015455,
-    "geom:area_square_m":152552836.712589,
+    "geom:area_square_m":152552836.712447,
     "geom:bbox":"144.297110016,-37.1354440025,144.423002016,-36.9440001935",
     "geom:latitude":-37.034145,
     "geom:longitude":144.359302,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.01754,
     "lbl:longitude":144.366798,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Elphinstone"
@@ -47,9 +53,12 @@
         102049601
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20456"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"d5718360cf37177d04b62656f805599e",
+    "wof:geomhash":"df28120f5c2dd2de3ccb4ad527fb17d8",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":404538509,
-    "wof:lastmodified":1566602461,
+    "wof:lastmodified":1695877391,
     "wof:name":"Elphinstone",
     "wof:parent_id":102049601,
     "wof:placetype":"localadmin",

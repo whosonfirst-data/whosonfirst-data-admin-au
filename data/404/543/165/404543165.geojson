@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000088,
-    "geom:area_square_m":1013639.033196,
+    "geom:area_square_m":1013639.033186,
     "geom:bbox":"139.484254016,-20.730693489,139.491681632,-20.713645998",
     "geom:latitude":-20.721826,
     "geom:longitude":139.487463,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-20.719848,
     "lbl:longitude":139.48776,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Miles End"
@@ -38,12 +44,15 @@
         102049087
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31057"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934843
     ],
     "wof:country":"AU",
-    "wof:geomhash":"a8650d3a6148cb05562d8390a33d510d",
+    "wof:geomhash":"c4ca1864406e42b9197fab86f5151be0",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404543165,
-    "wof:lastmodified":1566602120,
+    "wof:lastmodified":1695877202,
     "wof:name":"Miles End",
     "wof:parent_id":102049087,
     "wof:placetype":"localadmin",

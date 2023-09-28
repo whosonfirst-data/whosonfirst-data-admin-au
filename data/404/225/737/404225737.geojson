@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000037,
-    "geom:area_square_m":391258.831504,
+    "geom:area_square_m":391258.8315,
     "geom:bbox":"152.463945984,-31.94705342,152.471682016,-31.939116994",
     "geom:latitude":-31.942825,
     "geom:longitude":152.467313,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.943198,
     "lbl:longitude":152.466927,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Purfleet"
@@ -65,12 +71,15 @@
         102048833
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11917"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931647
     ],
     "wof:country":"AU",
-    "wof:geomhash":"53d7467d829ba28f33747fe6ed63e515",
+    "wof:geomhash":"4dbef7f7672b6fc898370a1a41209d48",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -82,7 +91,7 @@
         }
     ],
     "wof:id":404225737,
-    "wof:lastmodified":1566602662,
+    "wof:lastmodified":1695877508,
     "wof:name":"Purfleet",
     "wof:parent_id":102048833,
     "wof:placetype":"localadmin",

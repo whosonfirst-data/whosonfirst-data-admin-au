@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000707,
-    "geom:area_square_m":8350906.608272,
+    "geom:area_square_m":8350906.608282,
     "geom:bbox":"145.563880992,-17.352049996,145.611756,-17.318827992",
     "geom:latitude":-17.334627,
     "geom:longitude":145.592425,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-17.332573,
     "lbl:longitude":145.600064,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kureen"
@@ -38,9 +44,12 @@
         102048519
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30913"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"7c75d61a1d9d21ce7cbcecb6b2edeeda",
+    "wof:geomhash":"cabf3d6644bdd9c382af5aecc82bbfd5",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404542869,
-    "wof:lastmodified":1566602278,
+    "wof:lastmodified":1695877280,
     "wof:name":"Kureen",
     "wof:parent_id":102048519,
     "wof:placetype":"localadmin",

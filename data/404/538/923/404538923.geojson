@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018844,
-    "geom:area_square_m":185652788.194522,
+    "geom:area_square_m":185652788.194578,
     "geom:bbox":"146.08407616,-37.2917749965,146.2574,-37.0863115545",
     "geom:latitude":-37.177089,
     "geom:longitude":146.177793,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.15715,
     "lbl:longitude":146.177765,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Howqua Inlet"
@@ -38,9 +44,12 @@
         102049455
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20641"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"c1888d890a4089b7912d849873e0f24c",
+    "wof:geomhash":"9f7d4216e906d460fd303f870f53a7a6",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404538923,
-    "wof:lastmodified":1566602451,
+    "wof:lastmodified":1695877386,
     "wof:name":"Howqua Inlet",
     "wof:parent_id":102049455,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011209,
-    "geom:area_square_m":118102521.348968,
+    "geom:area_square_m":118102521.348921,
     "geom:bbox":"116.017900992,-31.6022597995,116.16581,-31.4883580005",
     "geom:latitude":-31.555351,
     "geom:longitude":116.093179,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.559103,
     "lbl:longitude":116.099208,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lower Chittering"
@@ -38,9 +44,12 @@
         102048581
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50447"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"c39542ee77a45aee0cd1fc781fe548d2",
+    "wof:geomhash":"34a0923ef5ef343266459f25b4ba5383",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404547689,
-    "wof:lastmodified":1566602929,
+    "wof:lastmodified":1695877677,
     "wof:name":"Lower Chittering",
     "wof:parent_id":102048581,
     "wof:placetype":"localadmin",

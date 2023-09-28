@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002434,
-    "geom:area_square_m":25741873.406116,
+    "geom:area_square_m":25741873.4061,
     "geom:bbox":"121.619738528,-31.252058,121.68911776,-31.1811234685",
     "geom:latitude":-31.204762,
     "geom:longitude":121.655846,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.201911,
     "lbl:longitude":121.658749,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kambalda East"
@@ -38,12 +44,15 @@
         102049639
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50374"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937335
     ],
     "wof:country":"AU",
-    "wof:geomhash":"00c52dd7a2e50bdfe2ef66e5afeb1289",
+    "wof:geomhash":"546200883cd470d1152fcc89db1fe00f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404547523,
-    "wof:lastmodified":1566602977,
+    "wof:lastmodified":1695877705,
     "wof:name":"Kambalda East",
     "wof:parent_id":102049639,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00017,
-    "geom:area_square_m":1741901.655216,
+    "geom:area_square_m":1741901.655221,
     "geom:bbox":"121.865124928,-33.8744272465,121.881664384,-33.8583738345",
     "geom:latitude":-33.865945,
     "geom:longitude":121.872834,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.865202,
     "lbl:longitude":121.872682,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Sinclair"
@@ -92,12 +98,15 @@
         102049141
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50711"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937769
     ],
     "wof:country":"AU",
-    "wof:geomhash":"f079872556f0d20b079ae92680a371c9",
+    "wof:geomhash":"5e3274f135a193c3513842322bc624a4",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -109,7 +118,7 @@
         }
     ],
     "wof:id":404548275,
-    "wof:lastmodified":1566603175,
+    "wof:lastmodified":1695877801,
     "wof:name":"Sinclair",
     "wof:parent_id":102049141,
     "wof:placetype":"localadmin",

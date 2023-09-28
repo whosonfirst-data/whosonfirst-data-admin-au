@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.051531,
-    "geom:area_square_m":525065669.714957,
+    "geom:area_square_m":525065669.714989,
     "geom:bbox":"137.337278048,-34.6286424615,137.745223008,-34.396146986",
     "geom:latitude":-34.50927,
     "geom:longitude":137.587954,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.510545,
     "lbl:longitude":137.593792,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Wauraltee"
@@ -38,9 +44,12 @@
         102049327
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40780"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"3c5ef77198194c99c7c9c5a945e9199e",
+    "wof:geomhash":"afb6966dbcc7b862e2945b43d8b08b2f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404546545,
-    "wof:lastmodified":1566603128,
+    "wof:lastmodified":1695877781,
     "wof:name":"Wauraltee",
     "wof:parent_id":102049327,
     "wof:placetype":"localadmin",

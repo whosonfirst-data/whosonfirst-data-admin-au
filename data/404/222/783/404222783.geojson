@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.380315,
-    "geom:area_square_m":4041593710.70955,
+    "geom:area_square_m":4041593710.709064,
     "geom:bbox":"147.824082016,-31.2438137155,148.619534016,-30.3181571505",
     "geom:latitude":-30.746978,
     "geom:longitude":148.254043,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-30.680709,
     "lbl:longitude":148.260151,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Coonamble"
@@ -62,9 +68,12 @@
         102048419
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10604"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"9f5d6e6e55e32f4e229b73ab58e93428",
+    "wof:geomhash":"70b20362ae205b179f9dac108c298b3b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -76,7 +85,7 @@
         }
     ],
     "wof:id":404222783,
-    "wof:lastmodified":1566602780,
+    "wof:lastmodified":1695877580,
     "wof:name":"Coonamble",
     "wof:parent_id":102048419,
     "wof:placetype":"localadmin",

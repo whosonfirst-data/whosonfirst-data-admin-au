@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000328,
-    "geom:area_square_m":3365931.859792,
+    "geom:area_square_m":3365931.859759,
     "geom:bbox":"150.782435648,-33.7911215985,150.811913216,-33.7732354655",
     "geom:latitude":-33.782828,
     "geom:longitude":150.796785,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.782368,
     "lbl:longitude":150.796785,
     "lbl:max_zoom":18.0,
@@ -61,13 +67,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC10567",
         "wd:id":"Q5150359"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101929955
     ],
     "wof:country":"AU",
-    "wof:geomhash":"e278db379ff3a103941c4b8b5039b7a5",
+    "wof:geomhash":"f493b05f2123e3752f6b529f6059c433",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -80,7 +88,7 @@
         }
     ],
     "wof:id":404222701,
-    "wof:lastmodified":1566602745,
+    "wof:lastmodified":1695877995,
     "wof:name":"Colyton",
     "wof:parent_id":102048677,
     "wof:placetype":"localadmin",

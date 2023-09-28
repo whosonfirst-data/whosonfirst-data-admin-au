@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000133,
-    "geom:area_square_m":1330616.600326,
+    "geom:area_square_m":1330616.600328,
     "geom:bbox":"150.201355008,-35.754148995,150.216784,-35.7358149955",
     "geom:latitude":-35.745402,
     "geom:longitude":150.207918,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.744908,
     "lbl:longitude":150.20651,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Sunshine Bay"
@@ -38,12 +44,15 @@
         102049609
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12179"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931985
     ],
     "wof:country":"AU",
-    "wof:geomhash":"bec05c1c1ba355726ebd49c11c7a8aa5",
+    "wof:geomhash":"969d9978f78146f0e45375a16845c1fb",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404226327,
-    "wof:lastmodified":1566602081,
+    "wof:lastmodified":1695877181,
     "wof:name":"Sunshine Bay",
     "wof:parent_id":102049609,
     "wof:placetype":"localadmin",

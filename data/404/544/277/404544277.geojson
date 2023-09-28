@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006825,
-    "geom:area_square_m":77102173.554862,
+    "geom:area_square_m":77102173.554703,
     "geom:bbox":"151.317768,-24.051673999,151.435432224,-23.9364798085",
     "geom:latitude":-23.996795,
     "geom:longitude":151.383049,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-24.00245,
     "lbl:longitude":151.391951,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tannum Sands"
@@ -38,9 +44,12 @@
         102049463
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31579"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"231f950a9351531bfdd55620b648f233",
+    "wof:geomhash":"1d10deb8739f9c2fc3f848325b5af40b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404544277,
-    "wof:lastmodified":1566602186,
+    "wof:lastmodified":1695877236,
     "wof:name":"Tannum Sands",
     "wof:parent_id":102049463,
     "wof:placetype":"localadmin",

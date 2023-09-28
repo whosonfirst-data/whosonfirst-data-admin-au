@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0129,
-    "geom:area_square_m":140540432.234499,
+    "geom:area_square_m":140540432.234348,
     "geom:bbox":"151.839731008,-28.326171001,151.965958016,-28.147778128",
     "geom:latitude":-28.2317,
     "geom:longitude":151.89828,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.23214,
     "lbl:longitude":151.902528,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Leslie Dam"
@@ -39,9 +45,12 @@
         102048963
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30948"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"83e2ca8b53d7f8a71d132017195852b2",
+    "wof:geomhash":"fb69b332b7142a5238afe5bad5aeece4",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":404542945,
-    "wof:lastmodified":1566602313,
+    "wof:lastmodified":1695877302,
     "wof:name":"Leslie Dam",
     "wof:parent_id":102048963,
     "wof:placetype":"localadmin",

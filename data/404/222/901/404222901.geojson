@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000059,
-    "geom:area_square_m":596293.04346,
+    "geom:area_square_m":596293.043468,
     "geom:bbox":"150.55156,-35.2047108535,150.562364,-35.193414994",
     "geom:latitude":-35.198375,
     "geom:longitude":150.557376,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.197382,
     "lbl:longitude":150.557297,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Cudmirrah"
@@ -38,12 +44,15 @@
         102049405
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10656"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101930029
     ],
     "wof:country":"AU",
-    "wof:geomhash":"b50b277f6b829ae840a4a506508ef9f0",
+    "wof:geomhash":"1199bf3b8d2468a01ebdbf6091070702",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404222901,
-    "wof:lastmodified":1566602748,
+    "wof:lastmodified":1695877559,
     "wof:name":"Cudmirrah",
     "wof:parent_id":102049405,
     "wof:placetype":"localadmin",

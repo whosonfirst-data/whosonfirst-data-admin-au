@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032234,
-    "geom:area_square_m":347009635.802297,
+    "geom:area_square_m":347009635.801716,
     "geom:bbox":"151.657955008,-29.641415995,151.885876,-29.3282619995",
     "geom:latitude":-29.468631,
     "geom:longitude":151.766274,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-29.484071,
     "lbl:longitude":151.783641,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Wellington Vale"
@@ -38,9 +44,12 @@
         102049413
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12454"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"c045d37ae51cb085574b52a237273a78",
+    "wof:geomhash":"86f044e08fbc059f8616f88c93cf607e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404226947,
-    "wof:lastmodified":1566602046,
+    "wof:lastmodified":1695877159,
     "wof:name":"Wellington Vale",
     "wof:parent_id":102049413,
     "wof:placetype":"localadmin",

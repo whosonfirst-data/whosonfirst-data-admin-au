@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003675,
-    "geom:area_square_m":37181811.986906,
+    "geom:area_square_m":37181811.986904,
     "geom:bbox":"117.852962336,-35.128275199,118.021209056,-35.040683323",
     "geom:latitude":-35.098838,
     "geom:longitude":117.926538,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.102807,
     "lbl:longitude":117.932406,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Goode Beach"
@@ -38,12 +44,15 @@
         102048671
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50296"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937221
     ],
     "wof:country":"AU",
-    "wof:geomhash":"d8ae1f1161ddeb2aa9e31e66a33840e2",
+    "wof:geomhash":"39e7256c7986ca6a169a52532452483e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404547349,
-    "wof:lastmodified":1566602946,
+    "wof:lastmodified":1695877685,
     "wof:name":"Goode Beach",
     "wof:parent_id":102048671,
     "wof:placetype":"localadmin",

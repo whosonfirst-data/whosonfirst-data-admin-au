@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00391,
-    "geom:area_square_m":42860080.096795,
+    "geom:area_square_m":42860080.096811,
     "geom:bbox":"152.21936592,-27.596563302,152.32622,-27.5349810015",
     "geom:latitude":-27.563567,
     "geom:longitude":152.279914,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.565832,
     "lbl:longitude":152.284194,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Gatton"
@@ -47,9 +53,12 @@
         102049033
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30636"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"a1f5d740627a6c0d974fb8e29b03b9ff",
+    "wof:geomhash":"3064f7b5c2688afc4b0a3d7af335a75b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":404542277,
-    "wof:lastmodified":1566602296,
+    "wof:lastmodified":1695877291,
     "wof:name":"Gatton",
     "wof:parent_id":102049033,
     "wof:placetype":"localadmin",

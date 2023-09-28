@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002864,
-    "geom:area_square_m":32092767.850924,
+    "geom:area_square_m":32092767.850918,
     "geom:bbox":"152.011000992,-25.0506346125,152.091385504,-24.975126992",
     "geom:latitude":-25.01713,
     "geom:longitude":152.05048,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-25.016908,
     "lbl:longitude":152.046535,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Delan"
@@ -38,9 +44,12 @@
         102048763
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30486"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"a0f6bacc99fc0afb586cb60e09950a3e",
+    "wof:geomhash":"1ccf35de1258ea00c37ba9eb74c7f441",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404541957,
-    "wof:lastmodified":1566603072,
+    "wof:lastmodified":1695877756,
     "wof:name":"Delan",
     "wof:parent_id":102048763,
     "wof:placetype":"localadmin",

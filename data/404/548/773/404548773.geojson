@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008664,
-    "geom:area_square_m":80789779.749245,
+    "geom:area_square_m":80789779.749243,
     "geom:bbox":"145.570303008,-41.1449519995,145.663971008,-40.9646201785",
     "geom:latitude":-41.055314,
     "geom:longitude":145.626906,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-41.031437,
     "lbl:longitude":145.626909,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Calder"
@@ -77,9 +83,12 @@
         102048983
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60046"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"93165a3730754170ffa816c99f2ebbfc",
+    "wof:geomhash":"8ebaa9d9b49500ab0e53a132472ab8ea",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -91,7 +100,7 @@
         }
     ],
     "wof:id":404548773,
-    "wof:lastmodified":1566603236,
+    "wof:lastmodified":1695877836,
     "wof:name":"Calder",
     "wof:parent_id":102048983,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000369,
-    "geom:area_square_m":3920859.658754,
+    "geom:area_square_m":3920859.658742,
     "geom:bbox":"121.44068448,-30.735092039,121.465120416,-30.702938003",
     "geom:latitude":-30.71909,
     "geom:longitude":121.454799,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-30.718714,
     "lbl:longitude":121.454992,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Hannans"
@@ -38,12 +44,15 @@
         102049523
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50319"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937261
     ],
     "wof:country":"AU",
-    "wof:geomhash":"0b9e426a7fb68809fc892e29af37f65e",
+    "wof:geomhash":"df7bc9c9bb512ec56bb0cbe5b38dfe60",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404547401,
-    "wof:lastmodified":1566602933,
+    "wof:lastmodified":1695877678,
     "wof:name":"Hannans",
     "wof:parent_id":102049523,
     "wof:placetype":"localadmin",

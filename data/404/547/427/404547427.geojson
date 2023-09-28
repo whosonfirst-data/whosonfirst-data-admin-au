@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001757,
-    "geom:area_square_m":18274661.872304,
+    "geom:area_square_m":18274661.872311,
     "geom:bbox":"115.647691008,-32.782826144,115.703484928,-32.722949118",
     "geom:latitude":-32.755184,
     "geom:longitude":115.674038,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.76,
     "lbl:longitude":115.674455,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Herron"
@@ -51,9 +57,12 @@
         102048431
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50331"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"bc3669f91163212b9a1abfe70f6540c4",
+    "wof:geomhash":"703392332ae8bac7a0ab129ef50f55ac",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -66,7 +75,7 @@
         }
     ],
     "wof:id":404547427,
-    "wof:lastmodified":1566602962,
+    "wof:lastmodified":1695877696,
     "wof:name":"Herron",
     "wof:parent_id":102048431,
     "wof:placetype":"localadmin",

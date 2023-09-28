@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01012,
-    "geom:area_square_m":100915738.526532,
+    "geom:area_square_m":100915781.740097,
     "geom:bbox":"149.047257,-36.307764,149.178049,-36.18872",
     "geom:latitude":-36.250731,
     "geom:longitude":149.118546,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.266065,
     "lbl:longitude":149.114934,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u0645\u0627"
@@ -98,9 +104,12 @@
         102048967
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10599"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"52f7cd01fb399e2d93dc512600462f48",
+    "wof:geomhash":"ea17f1ad9a0d317cd95abf1ff101010d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -112,7 +121,7 @@
         }
     ],
     "wof:id":404222773,
-    "wof:lastmodified":1636494657,
+    "wof:lastmodified":1695877870,
     "wof:name":"Cooma",
     "wof:parent_id":102048967,
     "wof:placetype":"localadmin",

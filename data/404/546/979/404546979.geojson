@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006445,
-    "geom:area_square_m":66412224.07107,
+    "geom:area_square_m":66412224.071111,
     "geom:bbox":"115.514604992,-33.619994286,115.621820992,-33.499106998",
     "geom:latitude":-33.557076,
     "geom:longitude":115.569618,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.556385,
     "lbl:longitude":115.569629,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Capel"
@@ -68,9 +74,12 @@
         102048869
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50130"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"3c2d73ce2716a87d1aa0985e170faa19",
+    "wof:geomhash":"f37a35c31fd0a2b61e26719b48da4f5d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -82,7 +91,7 @@
         }
     ],
     "wof:id":404546979,
-    "wof:lastmodified":1566603124,
+    "wof:lastmodified":1695877779,
     "wof:name":"Capel",
     "wof:parent_id":102048869,
     "wof:placetype":"localadmin",

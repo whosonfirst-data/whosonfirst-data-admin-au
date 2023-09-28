@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.222523,
-    "geom:area_square_m":2305762585.26608,
+    "geom:area_square_m":2305762585.266107,
     "geom:bbox":"116.389085,-33.343376,117.029771,-32.760961",
     "geom:latitude":-33.07141,
     "geom:longitude":116.728101,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.059234,
     "lbl:longitude":116.786151,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0423\u0456\u043b\u044c\u044f\u043c\u0441"
@@ -130,19 +136,22 @@
     "qs:source":"Australian Bureau Of Statistics",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681439,
         102191583,
         85632793,
-        102049145,
         136253039,
-        85681439
+        102049145
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50845"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         102049145
     ],
     "wof:country":"AU",
-    "wof:geomhash":"ff6d7b637606a7b422798a62c598d1e6",
+    "wof:geomhash":"6c5fc71fba7d872503e82ff0162cf215",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -154,7 +163,7 @@
         }
     ],
     "wof:id":404548575,
-    "wof:lastmodified":1608001933,
+    "wof:lastmodified":1695877846,
     "wof:name":"Williams",
     "wof:parent_id":102049145,
     "wof:placetype":"localadmin",

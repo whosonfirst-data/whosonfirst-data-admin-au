@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.290399,
-    "geom:area_square_m":3016164950.663743,
+    "geom:area_square_m":3016164950.66378,
     "geom:bbox":"138.697874656,-33.101762222,139.354288992,-32.593968154",
     "geom:latitude":-32.863911,
     "geom:longitude":139.060045,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.8616,
     "lbl:longitude":139.109326,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Yongala"
@@ -44,9 +50,12 @@
         102049225
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40842"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"df09654b12fc47cc5d0be72b6f276f76",
+    "wof:geomhash":"f76039ad76b2450a50dc69fa1e72660d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404546681,
-    "wof:lastmodified":1566603108,
+    "wof:lastmodified":1695877773,
     "wof:name":"Yongala",
     "wof:parent_id":102049225,
     "wof:placetype":"localadmin",

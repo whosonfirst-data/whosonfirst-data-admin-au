@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003529,
-    "geom:area_square_m":38280119.52673,
+    "geom:area_square_m":38280119.526584,
     "geom:bbox":"153.196482592,-28.746229004,153.255910016,-28.6422360085",
     "geom:latitude":-28.696979,
     "geom:longitude":153.226953,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.697052,
     "lbl:longitude":153.221563,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Koonorigan"
@@ -44,9 +50,12 @@
         102049635
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11277"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"a2d8fedb427722725284786b3c91995b",
+    "wof:geomhash":"6b848cd175bc7bcc7674d1513a3b7990",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404224297,
-    "wof:lastmodified":1566602642,
+    "wof:lastmodified":1695877497,
     "wof:name":"Koonorigan",
     "wof:parent_id":102049635,
     "wof:placetype":"localadmin",

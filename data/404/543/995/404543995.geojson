@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001541,
-    "geom:area_square_m":16871919.116534,
+    "geom:area_square_m":16871919.116651,
     "geom:bbox":"153.364968896,-27.709407123,153.415946176,-27.634172285",
     "geom:latitude":-27.673921,
     "geom:longitude":153.382217,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.695601,
     "lbl:longitude":153.380487,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Russell Island"
@@ -48,12 +54,15 @@
         102048569
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31443"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935259
     ],
     "wof:country":"AU",
-    "wof:geomhash":"de28d026954227cce2337651f24b2a96",
+    "wof:geomhash":"89f1e55b223bd537c7c6c6fe9ce61d0c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -66,7 +75,7 @@
         }
     ],
     "wof:id":404543995,
-    "wof:lastmodified":1566602119,
+    "wof:lastmodified":1695877202,
     "wof:name":"Russell Island",
     "wof:parent_id":102048569,
     "wof:placetype":"localadmin",

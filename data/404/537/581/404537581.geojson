@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003124,
-    "geom:area_square_m":30342286.207404,
+    "geom:area_square_m":30342286.207388,
     "geom:bbox":"145.735351072,-38.270199611,145.836076,-38.216710006",
     "geom:latitude":-38.242405,
     "geom:longitude":145.786539,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.241398,
     "lbl:longitude":145.786545,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Athlone"
@@ -134,9 +140,12 @@
         102048523
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20039"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"425a219a832ebc578a95283629ce24fb",
+    "wof:geomhash":"96a3e8a2c6425efebd7ad55d2aae38e3",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -148,7 +157,7 @@
         }
     ],
     "wof:id":404537581,
-    "wof:lastmodified":1566602332,
+    "wof:lastmodified":1695877313,
     "wof:name":"Athlone",
     "wof:parent_id":102048523,
     "wof:placetype":"localadmin",

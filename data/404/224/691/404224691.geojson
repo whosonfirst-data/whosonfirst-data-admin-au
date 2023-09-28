@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034185,
-    "geom:area_square_m":351699301.424887,
+    "geom:area_square_m":351699301.424934,
     "geom:bbox":"148.905678976,-33.812385739,149.180592,-33.561454995",
     "geom:latitude":-33.691957,
     "geom:longitude":149.03167,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.733492,
     "lbl:longitude":149.063927,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mandurama"
@@ -38,9 +44,12 @@
         102049333
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11452"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"13cde8261d15fcc9d31132d92a85effb",
+    "wof:geomhash":"d07256eb620e0b870fb3a6b8a4b2bdca",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404224691,
-    "wof:lastmodified":1566602640,
+    "wof:lastmodified":1695877496,
     "wof:name":"Mandurama",
     "wof:parent_id":102049333,
     "wof:placetype":"localadmin",

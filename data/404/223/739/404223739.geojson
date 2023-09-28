@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003707,
-    "geom:area_square_m":36627864.09001,
+    "geom:area_square_m":36627864.090051,
     "geom:bbox":"149.816828992,-36.9974710025,149.916785376,-36.9294678885",
     "geom:latitude":-36.96706,
     "geom:longitude":149.864533,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.975474,
     "lbl:longitude":149.851335,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Greigs Flat"
@@ -38,12 +44,15 @@
         102049439
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11029"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101930543
     ],
     "wof:country":"AU",
-    "wof:geomhash":"d5cf7ea6c830eaf7e29933a4691c13a0",
+    "wof:geomhash":"79584cb0877be4c6ace3b6182c2d775c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404223739,
-    "wof:lastmodified":1566602490,
+    "wof:lastmodified":1695877408,
     "wof:name":"Greigs Flat",
     "wof:parent_id":102049439,
     "wof:placetype":"localadmin",

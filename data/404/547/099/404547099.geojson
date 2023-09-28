@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000358,
-    "geom:area_square_m":3753797.482369,
+    "geom:area_square_m":3753797.482367,
     "geom:bbox":"115.749997,-32.016118,115.769499,-31.981982",
     "geom:latitude":-31.994255,
     "geom:longitude":115.758156,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.992976,
     "lbl:longitude":115.758006,
     "lbl:max_zoom":18.0,
@@ -76,14 +82,16 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC50184",
         "wd:id":"Q3695963"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937057,
         102048821
     ],
     "wof:country":"AU",
-    "wof:geomhash":"6986110274d95f082f587e3d47359b8d",
+    "wof:geomhash":"550fdbc066c053bd10f0b5465b8f56a8",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -96,7 +104,7 @@
         }
     ],
     "wof:id":404547099,
-    "wof:lastmodified":1690853750,
+    "wof:lastmodified":1695878055,
     "wof:name":"Cottesloe",
     "wof:parent_id":102048821,
     "wof:placetype":"localadmin",

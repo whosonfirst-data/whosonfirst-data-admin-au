@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004561,
-    "geom:area_square_m":47883362.416717,
+    "geom:area_square_m":47883405.92366,
     "geom:bbox":"152.39939,-31.938369,152.511537,-31.845005",
     "geom:latitude":-31.889488,
     "geom:longitude":152.444444,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.877858,
     "lbl:longitude":152.438907,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062a\u0627\u0631\u064a"
@@ -83,12 +89,15 @@
         102048833
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12219"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932035
     ],
     "wof:country":"AU",
-    "wof:geomhash":"5cafcd9a497c668ccbe2d64ed0d26575",
+    "wof:geomhash":"3617db819fc59bb63926e78a8e558602",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -100,7 +109,7 @@
         }
     ],
     "wof:id":404226417,
-    "wof:lastmodified":1636494615,
+    "wof:lastmodified":1695877850,
     "wof:name":"Taree",
     "wof:parent_id":102048833,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029064,
-    "geom:area_square_m":316578638.683364,
+    "geom:area_square_m":316578638.683032,
     "geom:bbox":"152.795549152,-28.3417632265,153.101307584,-28.1475480065",
     "geom:latitude":-28.250728,
     "geom:longitude":152.937201,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.266981,
     "lbl:longitude":152.934999,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Innisplain"
@@ -38,9 +44,12 @@
         102048945
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30804"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"699a0f39e1fc8434cbbfc88116c2282a",
+    "wof:geomhash":"652acff8049bbd827699dbb0163ad3ab",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404542631,
-    "wof:lastmodified":1566602310,
+    "wof:lastmodified":1695877301,
     "wof:name":"Innisplain",
     "wof:parent_id":102048945,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008331,
-    "geom:area_square_m":77552886.696529,
+    "geom:area_square_m":77552818.021398,
     "geom:bbox":"147.766415,-41.223268,147.889529,-41.101484",
     "geom:latitude":-41.163897,
     "geom:longitude":147.830269,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-41.173135,
     "lbl:longitude":147.846603,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:als_x_preferred":[
         "Derby"
@@ -270,9 +276,12 @@
         102048565
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60079"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"b005f69ae47ca57bbf1edaa81ee82a7c",
+    "wof:geomhash":"a16e758f83d263c6919be5d0da0421d6",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -284,7 +293,7 @@
         }
     ],
     "wof:id":404548847,
-    "wof:lastmodified":1636494687,
+    "wof:lastmodified":1695877889,
     "wof:name":"Derby",
     "wof:parent_id":102048565,
     "wof:placetype":"localadmin",

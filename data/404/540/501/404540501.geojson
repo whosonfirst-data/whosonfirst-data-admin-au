@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.049918,
-    "geom:area_square_m":495014219.092963,
+    "geom:area_square_m":495014219.092984,
     "geom:bbox":"144.518028128,-36.762611856,144.93215376,-36.594835023",
     "geom:latitude":-36.681604,
     "geom:longitude":144.729353,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.696399,
     "lbl:longitude":144.729366,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Toolleen"
@@ -38,9 +44,12 @@
         102049529
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21348"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"a41759d56da2825b3e19e996d42924f2",
+    "wof:geomhash":"865ec816cc063593c7008328019ffde7",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404540501,
-    "wof:lastmodified":1566603013,
+    "wof:lastmodified":1695877726,
     "wof:name":"Toolleen",
     "wof:parent_id":102049529,
     "wof:placetype":"localadmin",

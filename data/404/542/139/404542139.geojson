@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003443,
-    "geom:area_square_m":37791047.538836,
+    "geom:area_square_m":37791047.538866,
     "geom:bbox":"152.79863344,-27.4610026465,152.931064192,-27.3987296115",
     "geom:latitude":-27.43347,
     "geom:longitude":152.870498,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.431786,
     "lbl:longitude":152.876035,
     "lbl:max_zoom":18.0,
@@ -43,10 +49,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC30573",
         "wd:id":"Q5379362"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"83d1df641375c1dbe5c00151afed4c10",
+    "wof:geomhash":"abc5b187ccf975ce609d5cf6302f0f3f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -59,7 +67,7 @@
         }
     ],
     "wof:id":404542139,
-    "wof:lastmodified":1566602293,
+    "wof:lastmodified":1695877941,
     "wof:name":"Enoggera Reservoir",
     "wof:parent_id":102049495,
     "wof:placetype":"localadmin",

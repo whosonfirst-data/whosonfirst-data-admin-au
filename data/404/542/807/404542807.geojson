@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006193,
-    "geom:area_square_m":68516564.508117,
+    "geom:area_square_m":68516625.281863,
     "geom:bbox":"151.773021,-26.574964,151.890918,-26.475778",
     "geom:latitude":-26.531219,
     "geom:longitude":151.839882,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-26.544236,
     "lbl:longitude":151.839012,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u064a\u0646\u063a\u0627\u0631\u0648\u064a"
@@ -107,9 +113,12 @@
         102048861
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30884"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"7c2ef5647f21827080d114d46db6a54b",
+    "wof:geomhash":"3925eb7f36bb5e7e92e521b89c5ff299",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -121,7 +130,7 @@
         }
     ],
     "wof:id":404542807,
-    "wof:lastmodified":1636494630,
+    "wof:lastmodified":1695877856,
     "wof:name":"Kingaroy",
     "wof:parent_id":102048861,
     "wof:placetype":"localadmin",

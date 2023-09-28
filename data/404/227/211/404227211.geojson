@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010323,
-    "geom:area_square_m":107887392.966698,
+    "geom:area_square_m":107887392.966531,
     "geom:bbox":"152.236862016,-32.361354001,152.401232992,-32.253344859",
     "geom:latitude":-32.301712,
     "geom:longitude":152.317089,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.307069,
     "lbl:longitude":152.318321,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Wootton"
@@ -62,9 +68,12 @@
         102049617
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12572"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"59b930975b139a8675f97b0401124a8d",
+    "wof:geomhash":"32c830b86ca8b07dc02ca4746b1f4957",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -76,7 +85,7 @@
         }
     ],
     "wof:id":404227211,
-    "wof:lastmodified":1566601937,
+    "wof:lastmodified":1695877102,
     "wof:name":"Wootton",
     "wof:parent_id":102049617,
     "wof:placetype":"localadmin",

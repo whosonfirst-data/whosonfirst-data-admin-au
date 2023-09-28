@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000135,
-    "geom:area_square_m":1413268.578186,
+    "geom:area_square_m":1413268.578187,
     "geom:bbox":"115.7554856,-32.292932935,115.772755072,-32.276945531",
     "geom:latitude":-32.283267,
     "geom:longitude":115.763636,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.282201,
     "lbl:longitude":115.764225,
     "lbl:max_zoom":18.0,
@@ -85,13 +91,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC50337",
         "wd:id":"Q14935810"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937289
     ],
     "wof:country":"AU",
-    "wof:geomhash":"eb73f98ff8e66ba8ef319ca430370665",
+    "wof:geomhash":"ed0b1955dddf7661981036f3c0553851",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -104,7 +112,7 @@
         }
     ],
     "wof:id":404547441,
-    "wof:lastmodified":1566602931,
+    "wof:lastmodified":1695878016,
     "wof:name":"Hillman",
     "wof:parent_id":102049377,
     "wof:placetype":"localadmin",

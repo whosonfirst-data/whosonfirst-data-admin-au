@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00042,
-    "geom:area_square_m":4305292.743562,
+    "geom:area_square_m":4305292.743557,
     "geom:bbox":"150.755632,-34.0601650635,150.78663792,-34.024067993",
     "geom:latitude":-34.043106,
     "geom:longitude":150.773008,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.04515,
     "lbl:longitude":150.772769,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Currans Hill"
@@ -39,12 +45,15 @@
         102048421
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10672"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101930043
     ],
     "wof:country":"AU",
-    "wof:geomhash":"6eacb6de778e7f218d18bb5bdbbd304a",
+    "wof:geomhash":"1243922d219bf237b0381ca1e9b98ae6",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404222937,
-    "wof:lastmodified":1566602749,
+    "wof:lastmodified":1695877559,
     "wof:name":"Currans Hill",
     "wof:parent_id":102048421,
     "wof:placetype":"localadmin",

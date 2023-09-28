@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003119,
-    "geom:area_square_m":36165848.05368,
+    "geom:area_square_m":36165848.053504,
     "geom:bbox":"148.561743008,-20.3716559785,148.628208416,-20.2903566555",
     "geom:latitude":-20.330273,
     "geom:longitude":148.595383,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-20.331323,
     "lbl:longitude":148.603178,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Strathdickie"
@@ -38,9 +44,12 @@
         102049581
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31544"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"f2702ea83625cf89e40b5ca3c92d0e1c",
+    "wof:geomhash":"9587be60865f5ff019f2f8d01aafca4e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404544201,
-    "wof:lastmodified":1566602196,
+    "wof:lastmodified":1695877241,
     "wof:name":"Strathdickie",
     "wof:parent_id":102049581,
     "wof:placetype":"localadmin",

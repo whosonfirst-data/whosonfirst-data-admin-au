@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001974,
-    "geom:area_square_m":22441081.013278,
+    "geom:area_square_m":22441081.013198,
     "geom:bbox":"150.847304032,-23.3470420215,151.086690016,-23.035552027",
     "geom:latitude":-23.155095,
     "geom:longitude":150.946766,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-23.176142,
     "lbl:longitude":150.963084,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "The Keppels"
@@ -38,9 +44,12 @@
         102048825
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31614"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"ba87d8753e90b9db9eaaeb4c2e389cec",
+    "wof:geomhash":"7a3b50860432ae26c8fc5f401e125a70",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404544351,
-    "wof:lastmodified":1566602182,
+    "wof:lastmodified":1695877235,
     "wof:name":"The Keppels",
     "wof:parent_id":102048825,
     "wof:placetype":"localadmin",

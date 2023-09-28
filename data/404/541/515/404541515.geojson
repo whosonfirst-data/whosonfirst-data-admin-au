@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001375,
-    "geom:area_square_m":15437594.336362,
+    "geom:area_square_m":15437594.336408,
     "geom:bbox":"152.382254048,-24.7980156695,152.437052,-24.757559999",
     "geom:latitude":-24.778656,
     "geom:longitude":152.406028,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-24.776896,
     "lbl:longitude":152.403294,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Burnett Heads"
@@ -38,9 +44,12 @@
         102048763
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30274"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"6e2dadf1f1e034e92d5c949a0edd9ea4",
+    "wof:geomhash":"17473d6860f5e5a11ffb1eed0dfe91dc",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404541515,
-    "wof:lastmodified":1566603100,
+    "wof:lastmodified":1695877770,
     "wof:name":"Burnett Heads",
     "wof:parent_id":102048763,
     "wof:placetype":"localadmin",

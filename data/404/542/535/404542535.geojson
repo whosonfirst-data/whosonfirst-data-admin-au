@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016933,
-    "geom:area_square_m":185202739.579327,
+    "geom:area_square_m":185202739.579289,
     "geom:bbox":"151.949024992,-27.866618754,152.153098304,-27.723142226",
     "geom:latitude":-27.803304,
     "geom:longitude":152.058024,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.802794,
     "lbl:longitude":152.056561,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Hirstglen"
@@ -38,9 +44,12 @@
         102049357
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30761"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"6c2505561313e8bd1ca16184a3c81fdb",
+    "wof:geomhash":"001de7e4a9293fd3934d47454abb7121",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404542535,
-    "wof:lastmodified":1566602266,
+    "wof:lastmodified":1695877272,
     "wof:name":"Hirstglen",
     "wof:parent_id":102049357,
     "wof:placetype":"localadmin",

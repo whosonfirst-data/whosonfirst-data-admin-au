@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000052,
-    "geom:area_square_m":541335.899988,
+    "geom:area_square_m":541335.899973,
     "geom:bbox":"151.341159968,-33.501200791,151.351673504,-33.489075965",
     "geom:latitude":-33.495615,
     "geom:longitude":151.346159,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.49536,
     "lbl:longitude":151.346522,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "St Huberts Island"
@@ -38,12 +44,15 @@
         102048513
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12145"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931941
     ],
     "wof:country":"AU",
-    "wof:geomhash":"d31cce3b70a625c15559ec30a3b4124e",
+    "wof:geomhash":"d57f68bb911bf0ac647faa78c7cf744c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404226251,
-    "wof:lastmodified":1566602037,
+    "wof:lastmodified":1695877153,
     "wof:name":"St Huberts Island",
     "wof:parent_id":102048513,
     "wof:placetype":"localadmin",

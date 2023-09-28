@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.18078,
-    "geom:area_square_m":2050764246.440911,
+    "geom:area_square_m":2050763713.953333,
     "geom:bbox":"143.995408,-23.793492,144.460758,-23.118277",
     "geom:latitude":-23.448346,
     "geom:longitude":144.211088,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-23.410626,
     "lbl:longitude":144.207668,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09b2\u0982\u09b0\u09bf\u099a"
@@ -77,9 +83,12 @@
         102049401
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30967"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"188a664c22e8b4abe6ba6da644b8fd32",
+    "wof:geomhash":"c156a517607397887b5c18660c61d9b0",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -91,7 +100,7 @@
         }
     ],
     "wof:id":404542987,
-    "wof:lastmodified":1636494631,
+    "wof:lastmodified":1695877857,
     "wof:name":"Longreach",
     "wof:parent_id":102049401,
     "wof:placetype":"localadmin",

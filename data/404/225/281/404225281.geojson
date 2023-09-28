@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000592,
-    "geom:area_square_m":6139829.35403,
+    "geom:area_square_m":6139861.443853,
     "geom:bbox":"151.689244,-32.940842,151.734138,-32.915229",
     "geom:latitude":-32.927602,
     "geom:longitude":151.710454,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.926505,
     "lbl:longitude":151.711978,
     "lbl:max_zoom":18.0,
@@ -61,10 +67,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC11714",
         "gn:id":2155433,
         "qs_pg:id":275524,
         "wd:id":"Q7009724"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931391
     ],
@@ -72,7 +80,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"86b1b513e3074d140ac05dadf88254ee",
+    "wof:geomhash":"a2915f115672e924209dc3fc8a684fe6",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -85,7 +93,7 @@
         }
     ],
     "wof:id":404225281,
-    "wof:lastmodified":1690853666,
+    "wof:lastmodified":1695878054,
     "wof:name":"New Lambton",
     "wof:parent_id":102048981,
     "wof:placetype":"localadmin",

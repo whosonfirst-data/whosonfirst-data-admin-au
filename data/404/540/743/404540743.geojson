@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000197,
-    "geom:area_square_m":1954559.235828,
+    "geom:area_square_m":1954559.235823,
     "geom:bbox":"144.237539872,-36.7601689865,144.260613024,-36.7428606085",
     "geom:latitude":-36.753099,
     "geom:longitude":144.247095,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.754771,
     "lbl:longitude":144.246314,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "West Bendigo"
@@ -38,12 +44,15 @@
         102049661
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21456"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101933715
     ],
     "wof:country":"AU",
-    "wof:geomhash":"f5171d41d808331deda99ef30afb91a4",
+    "wof:geomhash":"848fe67bd964ef8db5554c0744ae9045",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404540743,
-    "wof:lastmodified":1566603034,
+    "wof:lastmodified":1695877738,
     "wof:name":"West Bendigo",
     "wof:parent_id":102049661,
     "wof:placetype":"localadmin",

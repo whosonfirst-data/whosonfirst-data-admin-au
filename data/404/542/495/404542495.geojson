@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000257,
-    "geom:area_square_m":2812394.169385,
+    "geom:area_square_m":2812394.16939,
     "geom:bbox":"152.969265,-27.648697,152.995866,-27.623813",
     "geom:latitude":-27.636163,
     "geom:longitude":152.984271,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.635303,
     "lbl:longitude":152.990942,
     "lbl:max_zoom":18.0,
@@ -34,22 +40,24 @@
     "qs:source":"Australian Bureau Of Statistics",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681463,
         102191583,
         85632793,
-        102049495,
-        136253039,
         1376953397,
-        85681463
+        136253039,
+        102049495
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC30740",
         "wd:id":"Q5694384"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934519
     ],
     "wof:country":"AU",
-    "wof:geomhash":"071417da698621e0a3ad3efb9754b04a",
+    "wof:geomhash":"1980a8fb19612eba3ca2e48068efcb31",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -62,7 +70,7 @@
         }
     ],
     "wof:id":404542495,
-    "wof:lastmodified":1607991443,
+    "wof:lastmodified":1695878055,
     "wof:name":"Heathwood",
     "wof:parent_id":102049495,
     "wof:placetype":"localadmin",

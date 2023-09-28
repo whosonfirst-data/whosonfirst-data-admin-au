@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.044694,
-    "geom:area_square_m":467625577.86459,
+    "geom:area_square_m":467625577.864806,
     "geom:bbox":"151.465493504,-32.3631159965,151.768315264,-32.0496044885",
     "geom:latitude":-32.204125,
     "geom:longitude":151.614615,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.20127,
     "lbl:longitude":151.616906,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bandon Grove"
@@ -38,9 +44,12 @@
         102049061
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10095"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"fcde4ddfe9c55c0e55435d3db50f35d5",
+    "wof:geomhash":"07b186b1e654167fd4af914d62be2ec6",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404221639,
-    "wof:lastmodified":1566602002,
+    "wof:lastmodified":1695877133,
     "wof:name":"Bandon Grove",
     "wof:parent_id":102049061,
     "wof:placetype":"localadmin",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000077,
-    "geom:area_square_m":722491.071322,
+    "geom:area_square_m":722491.071321,
     "geom:bbox":"145.889086016,-41.0628976175,145.901908,-41.0518402045",
     "geom:latitude":-41.057615,
     "geom:longitude":145.896259,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-41.057978,
     "lbl:longitude":145.896164,
     "lbl:max_zoom":18.0,
@@ -75,13 +81,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC60226",
         "wd:id":"Q24089991"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938177
     ],
     "wof:country":"AU",
-    "wof:geomhash":"39ecc2b88dfcaeeb615c236e58d30035",
+    "wof:geomhash":"57f9a80469748fa1ac65b8325227dc28",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -93,7 +101,7 @@
         }
     ],
     "wof:id":404549177,
-    "wof:lastmodified":1566602913,
+    "wof:lastmodified":1695878013,
     "wof:name":"Montello",
     "wof:parent_id":102049367,
     "wof:placetype":"localadmin",

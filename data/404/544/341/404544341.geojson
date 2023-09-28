@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000825,
-    "geom:area_square_m":9146301.730753,
+    "geom:area_square_m":9146301.730735,
     "geom:bbox":"152.664789952,-26.2627900215,152.704330912,-26.227151677",
     "geom:latitude":-26.245461,
     "geom:longitude":152.682718,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-26.24617,
     "lbl:longitude":152.681122,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "The Dawn"
@@ -38,9 +44,12 @@
         102049393
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31609"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"c980f363700cd597385e33946e2a4107",
+    "wof:geomhash":"a82eae24e07a4cbe95a0a4b70e9601fc",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404544341,
-    "wof:lastmodified":1566602171,
+    "wof:lastmodified":1695877228,
     "wof:name":"The Dawn",
     "wof:parent_id":102049393,
     "wof:placetype":"localadmin",

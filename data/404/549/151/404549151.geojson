@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000072,
-    "geom:area_square_m":669080.992731,
+    "geom:area_square_m":669080.992729,
     "geom:bbox":"147.125925696,-41.3930924995,147.137416512,-41.3816044805",
     "geom:latitude":-41.387659,
     "geom:longitude":147.13119,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-41.387798,
     "lbl:longitude":147.131191,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Mayfield"
@@ -89,12 +95,15 @@
         102049411
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60214"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938169
     ],
     "wof:country":"AU",
-    "wof:geomhash":"b488ff0aea6d1baa0cbe5419a652cd6a",
+    "wof:geomhash":"448a0a342e4215e3af1cbbbcdda391fc",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -106,7 +115,7 @@
         }
     ],
     "wof:id":404549151,
-    "wof:lastmodified":1566602832,
+    "wof:lastmodified":1695877613,
     "wof:name":"Mayfield",
     "wof:parent_id":102049411,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000173,
-    "geom:area_square_m":1757642.811943,
+    "geom:area_square_m":1757598.236706,
     "geom:bbox":"150.841041,-34.662769,150.865478,-34.647716",
     "geom:latitude":-34.653732,
     "geom:longitude":150.852036,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.653931,
     "lbl:longitude":150.850829,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09ac\u09cb\u09ae\u09cd\u09ac\u09cb"
@@ -105,12 +111,15 @@
         102048749
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10270"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101929639
     ],
     "wof:country":"AU",
-    "wof:geomhash":"32388a73bebd7263ffb3f99645cd0a01",
+    "wof:geomhash":"d5193117225bc4759fb7d2871c790829",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -122,7 +131,7 @@
         }
     ],
     "wof:id":404222033,
-    "wof:lastmodified":1636494657,
+    "wof:lastmodified":1695877870,
     "wof:name":"Bombo",
     "wof:parent_id":102048749,
     "wof:placetype":"localadmin",

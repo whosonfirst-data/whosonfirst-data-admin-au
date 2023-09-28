@@ -10,12 +10,18 @@
     "geom:latitude":-20.74803,
     "geom:longitude":139.532049,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-20.748339,
     "lbl:longitude":139.529192,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0424\u0438\u0448\u0435\u0440"
@@ -101,12 +107,15 @@
         102049087
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30608"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934407
     ],
     "wof:country":"AU",
-    "wof:geomhash":"409ded1b398107ef0e89ee1a7434733c",
+    "wof:geomhash":"1ae9a0e1754f745639e33994a1e2623f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -118,7 +127,7 @@
         }
     ],
     "wof:id":404542217,
-    "wof:lastmodified":1566602272,
+    "wof:lastmodified":1695877276,
     "wof:name":"Fisher",
     "wof:parent_id":102049087,
     "wof:placetype":"localadmin",

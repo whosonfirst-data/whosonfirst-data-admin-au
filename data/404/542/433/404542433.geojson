@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015984,
-    "geom:area_square_m":175578171.143286,
+    "geom:area_square_m":175578171.143354,
     "geom:bbox":"151.873197856,-27.4125860375,152.087292992,-27.270894963",
     "geom:latitude":-27.330222,
     "geom:longitude":151.973099,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.333067,
     "lbl:longitude":151.935884,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Groomsville"
@@ -38,9 +44,12 @@
         102049357
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30709"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"5d0f8b38f9a58bda526f4063f1e34cf0",
+    "wof:geomhash":"0a36e59b81240933a4e460897c2d0fdc",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404542433,
-    "wof:lastmodified":1566602306,
+    "wof:lastmodified":1695877298,
     "wof:name":"Groomsville",
     "wof:parent_id":102049357,
     "wof:placetype":"localadmin",

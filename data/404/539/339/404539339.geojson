@@ -10,12 +10,18 @@
     "geom:latitude":-38.296574,
     "geom:longitude":142.448602,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.294903,
     "lbl:longitude":142.443903,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mailors Flat"
@@ -38,9 +44,12 @@
         102049109
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20828"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"536abb578301c1b07d4677266bd42b1f",
+    "wof:geomhash":"87b7cda35f249d9a47c37a3f582b3a48",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404539339,
-    "wof:lastmodified":1566602357,
+    "wof:lastmodified":1695877328,
     "wof:name":"Mailors Flat",
     "wof:parent_id":102049109,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005713,
-    "geom:area_square_m":61981544.908202,
+    "geom:area_square_m":61981544.908162,
     "geom:bbox":"153.070998016,-28.725255998,153.150243008,-28.593737907",
     "geom:latitude":-28.663172,
     "geom:longitude":153.109639,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.664976,
     "lbl:longitude":153.106929,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Larnook"
@@ -38,9 +44,12 @@
         102049635
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11339"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"0f7696c45bc2e0ad6cde40e844d1e6b8",
+    "wof:geomhash":"133e39ca77b2523dbfb65d38fda843d0",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404224437,
-    "wof:lastmodified":1566602591,
+    "wof:lastmodified":1695877469,
     "wof:name":"Larnook",
     "wof:parent_id":102049635,
     "wof:placetype":"localadmin",

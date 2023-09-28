@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000363,
-    "geom:area_square_m":3739530.536582,
+    "geom:area_square_m":3739530.536583,
     "geom:bbox":"151.033252992,-33.6130469625,151.063944288,-33.592278141",
     "geom:latitude":-33.603364,
     "geom:longitude":151.049406,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.603368,
     "lbl:longitude":151.050481,
     "lbl:max_zoom":18.0,
@@ -46,13 +52,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC10886",
         "wd:id":"Q5446711"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101930291
     ],
     "wof:country":"AU",
-    "wof:geomhash":"28bdb52bc8da74555891a1ab1cc3034d",
+    "wof:geomhash":"e205ff2c82f6b68494c8e73b5a90f1bb",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -65,7 +73,7 @@
         }
     ],
     "wof:id":404223419,
-    "wof:lastmodified":1566602539,
+    "wof:lastmodified":1695877969,
     "wof:name":"Fiddletown",
     "wof:parent_id":102049503,
     "wof:placetype":"localadmin",

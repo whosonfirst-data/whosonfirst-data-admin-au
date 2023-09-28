@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000247,
-    "geom:area_square_m":2861567.96538,
+    "geom:area_square_m":2861567.965378,
     "geom:bbox":"148.738888096,-20.2832737455,148.76056,-20.258641976",
     "geom:latitude":-20.269951,
     "geom:longitude":148.749692,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-20.270417,
     "lbl:longitude":148.749853,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Flametree"
@@ -38,12 +44,15 @@
         102049581
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30613"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934411
     ],
     "wof:country":"AU",
-    "wof:geomhash":"fa85c0a4d6619ca41f6d3555adf5f7fe",
+    "wof:geomhash":"b07fe9f3a79921b487d361e20da8dd2a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404542227,
-    "wof:lastmodified":1566602268,
+    "wof:lastmodified":1695877274,
     "wof:name":"Flametree",
     "wof:parent_id":102049581,
     "wof:placetype":"localadmin",

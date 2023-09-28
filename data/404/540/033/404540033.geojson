@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.074563,
-    "geom:area_square_m":740478376.947709,
+    "geom:area_square_m":740478376.947547,
     "geom:bbox":"143.3151936,-36.730012858,143.771656032,-36.3671558005",
     "geom:latitude":-36.569143,
     "geom:longitude":143.564566,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.590824,
     "lbl:longitude":143.580154,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Rheola"
@@ -38,9 +44,12 @@
         102049477
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21140"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"ae3a237d74e296be50324df69ea8a1ad",
+    "wof:geomhash":"4aee0a7186168f38dc23dfae7b14b44b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404540033,
-    "wof:lastmodified":1566603030,
+    "wof:lastmodified":1695877736,
     "wof:name":"Rheola",
     "wof:parent_id":102049477,
     "wof:placetype":"localadmin",

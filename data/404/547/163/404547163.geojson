@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001407,
-    "geom:area_square_m":15248391.220036,
+    "geom:area_square_m":15248391.220037,
     "geom:bbox":"114.665820992,-28.813165408,114.721155712,-28.763702994",
     "geom:latitude":-28.786373,
     "geom:longitude":114.695077,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.794958,
     "lbl:longitude":114.703879,
     "lbl:max_zoom":18.0,
@@ -90,13 +96,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC50214",
         "wd:id":"Q5250567"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937099
     ],
     "wof:country":"AU",
-    "wof:geomhash":"48e8481a29ea8237fbeab1998b78e74a",
+    "wof:geomhash":"20f7a0f2f2b97f32f4f862b7bc175f68",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -108,7 +116,7 @@
         }
     ],
     "wof:id":404547163,
-    "wof:lastmodified":1566602953,
+    "wof:lastmodified":1695878019,
     "wof:name":"Deepdale",
     "wof:parent_id":102048715,
     "wof:placetype":"localadmin",

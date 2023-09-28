@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02572,
-    "geom:area_square_m":256291944.202896,
+    "geom:area_square_m":256291944.20293,
     "geom:bbox":"143.476016032,-36.4045519965,143.741383936,-36.219531961",
     "geom:latitude":-36.305922,
     "geom:longitude":143.603645,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.289267,
     "lbl:longitude":143.579569,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Korong Vale"
@@ -38,9 +44,12 @@
         102049477
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20737"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"2cd033cb39b521851f71680df725a7a6",
+    "wof:geomhash":"985d54473de8c441c1616fcba85bc0d2",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404539133,
-    "wof:lastmodified":1566602356,
+    "wof:lastmodified":1695877328,
     "wof:name":"Korong Vale",
     "wof:parent_id":102049477,
     "wof:placetype":"localadmin",

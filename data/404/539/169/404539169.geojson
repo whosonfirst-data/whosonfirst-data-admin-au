@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000199,
-    "geom:area_square_m":1945297.043472,
+    "geom:area_square_m":1945297.043491,
     "geom:bbox":"148.022533536,-37.8710507335,148.045989216,-37.8544808755",
     "geom:latitude":-37.863321,
     "geom:longitude":148.035148,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.863219,
     "lbl:longitude":148.035145,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lake Bunga"
@@ -38,12 +44,15 @@
         102049039
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20753"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101933149
     ],
     "wof:country":"AU",
-    "wof:geomhash":"7d465862d900fd64b45e072b1ff46b81",
+    "wof:geomhash":"24d5dbe015cc6927636293fdc4cd73ca",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404539169,
-    "wof:lastmodified":1566602359,
+    "wof:lastmodified":1695877330,
     "wof:name":"Lake Bunga",
     "wof:parent_id":102049039,
     "wof:placetype":"localadmin",

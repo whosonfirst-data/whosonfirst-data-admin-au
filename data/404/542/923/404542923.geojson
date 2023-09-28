@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002668,
-    "geom:area_square_m":29223031.731981,
+    "geom:area_square_m":29223031.731894,
     "geom:bbox":"152.525225504,-27.6906079965,152.588813152,-27.6076509995",
     "geom:latitude":-27.642302,
     "geom:longitude":152.556804,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.638774,
     "lbl:longitude":152.554637,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lanefield"
@@ -39,9 +45,12 @@
         102048583
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30938"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"2a4be8c709e7633eda1cc20dd75daf6e",
+    "wof:geomhash":"015592b4262ca9088b13f5be1a9b7a1b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":404542923,
-    "wof:lastmodified":1566602285,
+    "wof:lastmodified":1695877284,
     "wof:name":"Lanefield",
     "wof:parent_id":102048583,
     "wof:placetype":"localadmin",

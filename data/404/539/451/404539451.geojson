@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.180009,
-    "geom:area_square_m":1839429370.414382,
+    "geom:area_square_m":1839429370.414028,
     "geom:bbox":"140.961681984,-34.5404010135,141.598265056,-33.9804255865",
     "geom:latitude":-34.269584,
     "geom:longitude":141.246463,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.255177,
     "lbl:longitude":141.246392,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Meringur"
@@ -41,9 +47,12 @@
         102049611
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20878"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"0e12510a032198aaace10c87bf8d9b00",
+    "wof:geomhash":"52c0197b2111e322fa7a7faf1fef8e1f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404539451,
-    "wof:lastmodified":1566602402,
+    "wof:lastmodified":1695877358,
     "wof:name":"Meringur",
     "wof:parent_id":102049611,
     "wof:placetype":"localadmin",

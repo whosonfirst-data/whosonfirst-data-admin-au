@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000112,
-    "geom:area_square_m":1173776.559653,
+    "geom:area_square_m":1173776.55965,
     "geom:bbox":"115.817105,-32.086903,115.849228,-32.075851",
     "geom:latitude":-32.081896,
     "geom:longitude":115.835666,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.082452,
     "lbl:longitude":115.843535,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "North Lake"
@@ -37,20 +43,23 @@
     "qs:source":"Australian Bureau Of Statistics",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681439,
         102191583,
         85632793,
-        102049397,
-        136253039,
         1376953453,
-        85681439
+        136253039,
+        102049397
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50589"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937603
     ],
     "wof:country":"AU",
-    "wof:geomhash":"5e5432e7724d91468e114eb17e75fd15",
+    "wof:geomhash":"2c901270085a3f99aefc88059b5a7a28",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -63,7 +72,7 @@
         }
     ],
     "wof:id":404548007,
-    "wof:lastmodified":1607989068,
+    "wof:lastmodified":1695877841,
     "wof:name":"North Lake",
     "wof:parent_id":102049397,
     "wof:placetype":"localadmin",

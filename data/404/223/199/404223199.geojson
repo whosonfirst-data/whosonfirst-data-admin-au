@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002121,
-    "geom:area_square_m":21867973.145454,
+    "geom:area_square_m":21867973.145496,
     "geom:bbox":"150.849726432,-33.5471120005,150.927671776,-33.4864158315",
     "geom:latitude":-33.519834,
     "geom:longitude":150.886313,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.523919,
     "lbl:longitude":150.880413,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Ebenezer"
@@ -62,9 +68,12 @@
         102048745
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10789"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"a4b66b4a953ca2b171a9fcfdf9a791da",
+    "wof:geomhash":"349258c4a40015c7779bab00b3e99f9a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -76,7 +85,7 @@
         }
     ],
     "wof:id":404223199,
-    "wof:lastmodified":1566602536,
+    "wof:lastmodified":1695877435,
     "wof:name":"Ebenezer",
     "wof:parent_id":102048745,
     "wof:placetype":"localadmin",

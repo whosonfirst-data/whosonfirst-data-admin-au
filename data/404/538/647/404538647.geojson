@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000242,
-    "geom:area_square_m":2351984.347863,
+    "geom:area_square_m":2351970.00128,
     "geom:bbox":"144.335467,-38.147437,144.354423,-38.130661",
     "geom:latitude":-38.13937,
     "geom:longitude":144.34493,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.138976,
     "lbl:longitude":144.34493,
     "lbl:max_zoom":18.0,
@@ -61,13 +67,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC20519",
         "wd:id":"Q5529867"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932967
     ],
     "wof:country":"AU",
-    "wof:geomhash":"153819748271168a91c95d5333901de7",
+    "wof:geomhash":"36df1d46259f917697a8827525e6f804",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -80,7 +88,7 @@
         }
     ],
     "wof:id":404538647,
-    "wof:lastmodified":1690853590,
+    "wof:lastmodified":1695877959,
     "wof:name":"Geelong West",
     "wof:parent_id":102049571,
     "wof:placetype":"localadmin",

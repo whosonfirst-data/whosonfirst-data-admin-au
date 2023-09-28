@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001493,
-    "geom:area_square_m":16289963.81608,
+    "geom:area_square_m":16289963.816079,
     "geom:bbox":"153.213353664,-28.0838789985,153.26156,-28.0111676345",
     "geom:latitude":-28.051119,
     "geom:longitude":153.237776,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.041456,
     "lbl:longitude":153.24179,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lower Beechmont"
@@ -39,9 +45,12 @@
         102049363
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30970"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"fd9cb8ae88bec3a83a04dd2a18af0961",
+    "wof:geomhash":"f3fd09bcb77ebf240db191d1644da188",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":404542995,
-    "wof:lastmodified":1566602289,
+    "wof:lastmodified":1695877287,
     "wof:name":"Lower Beechmont",
     "wof:parent_id":102049363,
     "wof:placetype":"localadmin",

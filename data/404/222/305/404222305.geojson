@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028983,
-    "geom:area_square_m":289519137.118201,
+    "geom:area_square_m":289519137.11818,
     "geom:bbox":"149.090963008,-36.1967619945,149.337112,-36.0130159985",
     "geom:latitude":-36.11415,
     "geom:longitude":149.209989,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.108671,
     "lbl:longitude":149.212368,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bunyan"
@@ -59,9 +65,12 @@
         102048491
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10391"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"bfea220554ba474dda8d4f8bbade4fbf",
+    "wof:geomhash":"1bb6b6c7ae8e8bdfb4ce445d01aabbb4",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -73,7 +82,7 @@
         }
     ],
     "wof:id":404222305,
-    "wof:lastmodified":1566602790,
+    "wof:lastmodified":1695877586,
     "wof:name":"Bunyan",
     "wof:parent_id":102048491,
     "wof:placetype":"localadmin",

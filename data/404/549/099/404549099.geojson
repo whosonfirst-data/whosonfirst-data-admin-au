@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001079,
-    "geom:area_square_m":10044079.096702,
+    "geom:area_square_m":10044079.096674,
     "geom:bbox":"146.251122848,-41.183179086,146.309156,-41.15179428",
     "geom:latitude":-41.167517,
     "geom:longitude":146.275609,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-41.167034,
     "lbl:longitude":146.266911,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Leith"
@@ -96,9 +102,12 @@
         102048819
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60191"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"a73ac8a873732bcf9f69fc19c24fd53a",
+    "wof:geomhash":"2f9d80c7f89c3c3e522c1f099c856ed5",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -111,7 +120,7 @@
         }
     ],
     "wof:id":404549099,
-    "wof:lastmodified":1566602849,
+    "wof:lastmodified":1695877625,
     "wof:name":"Leith",
     "wof:parent_id":102048819,
     "wof:placetype":"localadmin",

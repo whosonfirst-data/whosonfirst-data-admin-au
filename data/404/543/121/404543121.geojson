@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004505,
-    "geom:area_square_m":50559975.473642,
+    "geom:area_square_m":50559975.473665,
     "geom:bbox":"152.19385,-24.863165991,152.302623296,-24.776981003",
     "geom:latitude":-24.821545,
     "geom:longitude":152.238618,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-24.820782,
     "lbl:longitude":152.234863,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Meadowvale"
@@ -38,9 +44,12 @@
         102048763
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31033"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"8ecfb98a74c3ac2882cf1087a468fd60",
+    "wof:geomhash":"7f222660c98a41debb51fed1e3200126",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404543121,
-    "wof:lastmodified":1566602117,
+    "wof:lastmodified":1695877200,
     "wof:name":"Meadowvale",
     "wof:parent_id":102048763,
     "wof:placetype":"localadmin",

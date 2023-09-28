@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02413,
-    "geom:area_square_m":235358969.652451,
+    "geom:area_square_m":235358969.652375,
     "geom:bbox":"144.351396,-38.0042859945,144.657505184,-37.86610104",
     "geom:latitude":-37.926228,
     "geom:longitude":144.491566,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.928234,
     "lbl:longitude":144.501999,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Little River"
@@ -72,9 +78,12 @@
         102048447
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20796"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"ead3e734a4add5496a1dbc0a3166a7d5",
+    "wof:geomhash":"4aa611e76c4f23d2a8acb184d7dbf54b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -87,7 +96,7 @@
         }
     ],
     "wof:id":404539267,
-    "wof:lastmodified":1566602371,
+    "wof:lastmodified":1695877337,
     "wof:name":"Little River",
     "wof:parent_id":102048447,
     "wof:placetype":"localadmin",

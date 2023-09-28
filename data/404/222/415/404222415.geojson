@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000089,
-    "geom:area_square_m":909535.664736,
+    "geom:area_square_m":909535.664738,
     "geom:bbox":"150.694392992,-34.1013789935,150.705180896,-34.0913851825",
     "geom:latitude":-34.096456,
     "geom:longitude":150.699703,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.096583,
     "lbl:longitude":150.699705,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Camden Park"
@@ -47,12 +53,15 @@
         102048943
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10440"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101929789
     ],
     "wof:country":"AU",
-    "wof:geomhash":"e3b4dad4f7234e2b6ffad2332060270e",
+    "wof:geomhash":"800d8a44f97183e006b79847df4614fc",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":404222415,
-    "wof:lastmodified":1566602761,
+    "wof:lastmodified":1695877567,
     "wof:name":"Camden Park",
     "wof:parent_id":102048943,
     "wof:placetype":"localadmin",

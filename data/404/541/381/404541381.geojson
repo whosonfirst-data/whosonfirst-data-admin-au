@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.116519,
-    "geom:area_square_m":1352685775.608516,
+    "geom:area_square_m":1352685749.175783,
     "geom:bbox":"147.983444,-20.382697,148.418292,-19.881865",
     "geom:latitude":-20.139006,
     "geom:longitude":148.174213,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-20.144859,
     "lbl:longitude":148.177414,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Bowen"
@@ -98,9 +104,12 @@
         102049581
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30212"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"c7a94968eadae178a5557f2a174a1ec0",
+    "wof:geomhash":"a2b6dc2c918f47d53b558453577b10b4",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -112,7 +121,7 @@
         }
     ],
     "wof:id":404541381,
-    "wof:lastmodified":1636494677,
+    "wof:lastmodified":1695877883,
     "wof:name":"Bowen",
     "wof:parent_id":102049581,
     "wof:placetype":"localadmin",

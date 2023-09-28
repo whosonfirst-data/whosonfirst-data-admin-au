@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004151,
-    "geom:area_square_m":47892255.430385,
+    "geom:area_square_m":47892255.430302,
     "geom:bbox":"148.902675136,-21.1251850285,148.999960992,-21.0451489965",
     "geom:latitude":-21.080377,
     "geom:longitude":148.95523,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-21.086947,
     "lbl:longitude":148.951894,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Hampden"
@@ -86,9 +92,12 @@
         102048783
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30726"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"21699e8074b562d416cf75be033a7c5e",
+    "wof:geomhash":"ee587ba51f33cf6aa2b1ebff147562c3",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -100,7 +109,7 @@
         }
     ],
     "wof:id":404542469,
-    "wof:lastmodified":1566602304,
+    "wof:lastmodified":1695877297,
     "wof:name":"Hampden",
     "wof:parent_id":102048783,
     "wof:placetype":"localadmin",

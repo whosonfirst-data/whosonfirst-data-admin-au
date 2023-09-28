@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.053915,
-    "geom:area_square_m":536093203.091364,
+    "geom:area_square_m":536093203.091343,
     "geom:bbox":"144.266185088,-36.5706799985,144.67426128,-36.3708543575",
     "geom:latitude":-36.473737,
     "geom:longitude":144.462474,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.48156,
     "lbl:longitude":144.462499,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Hunter"
@@ -38,9 +44,12 @@
         102049661
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20644"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"eb9f0db369c1ae45a86986b57d4563e1",
+    "wof:geomhash":"d8765c695c260c0f94bc6df5e6d22a60",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404538929,
-    "wof:lastmodified":1566602479,
+    "wof:lastmodified":1695877401,
     "wof:name":"Hunter",
     "wof:parent_id":102049661,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.355976,
-    "geom:area_square_m":3668574667.318782,
+    "geom:area_square_m":3668574667.318822,
     "geom:bbox":"118.36388,-33.804916179,119.433038336,-33.272706329",
     "geom:latitude":-33.545759,
     "geom:longitude":118.786973,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.540541,
     "lbl:longitude":118.743826,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Pingrup"
@@ -38,9 +44,12 @@
         102048681
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50649"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"dde166ea0351a2cbf08b435c77a8500d",
+    "wof:geomhash":"6d8ff7b4182b3f4f0d815246e643ed30",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404548139,
-    "wof:lastmodified":1566603202,
+    "wof:lastmodified":1695877817,
     "wof:name":"Pingrup",
     "wof:parent_id":102048681,
     "wof:placetype":"localadmin",

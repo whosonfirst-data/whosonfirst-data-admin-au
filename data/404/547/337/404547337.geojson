@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000754,
-    "geom:area_square_m":8174974.498381,
+    "geom:area_square_m":8174974.498378,
     "geom:bbox":"114.605689568,-28.7233835575,114.630926144,-28.6678399715",
     "geom:latitude":-28.692494,
     "geom:longitude":114.6214,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.691203,
     "lbl:longitude":114.620147,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Glenfield"
@@ -74,12 +80,15 @@
         102048715
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50291"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937209
     ],
     "wof:country":"AU",
-    "wof:geomhash":"29732f93b7b37685609b3e381d43d1bd",
+    "wof:geomhash":"8b921167099fe9603194993a66e8610e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -91,7 +100,7 @@
         }
     ],
     "wof:id":404547337,
-    "wof:lastmodified":1566602923,
+    "wof:lastmodified":1695877674,
     "wof:name":"Glenfield",
     "wof:parent_id":102048715,
     "wof:placetype":"localadmin",

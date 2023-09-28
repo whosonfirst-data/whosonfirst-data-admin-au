@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.60295,
-    "geom:area_square_m":6493466075.294839,
+    "geom:area_square_m":6493466075.295081,
     "geom:bbox":"146.349712384,-30.024809995,147.4939064,-28.9987814395",
     "geom:latitude":-29.429409,
     "geom:longitude":146.877227,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-29.359027,
     "lbl:longitude":146.790896,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Weilmoringle"
@@ -38,9 +44,12 @@
         102049213
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12451"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"fa60bba4ec0e5eea3552ce52490f4218",
+    "wof:geomhash":"8423d0a153971bec45585dfb22d3134d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404226939,
-    "wof:lastmodified":1566602016,
+    "wof:lastmodified":1695877141,
     "wof:name":"Weilmoringle",
     "wof:parent_id":102049213,
     "wof:placetype":"localadmin",

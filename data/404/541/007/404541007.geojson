@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.06498,
-    "geom:area_square_m":735052120.863227,
+    "geom:area_square_m":735052120.861879,
     "geom:bbox":"150.598015008,-23.972521009,151.004712992,-23.6551999995",
     "geom:latitude":-23.818617,
     "geom:longitude":150.802702,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-23.859826,
     "lbl:longitude":150.765695,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0623\u0645\u0628\u0631\u0648\u0632"
@@ -194,9 +200,12 @@
         102049463
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30035"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"b0b0fe64c89e7d8b21a35332bdf01ed4",
+    "wof:geomhash":"9e8183144935c34659ed36bddc64835e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -208,7 +217,7 @@
         }
     ],
     "wof:id":404541007,
-    "wof:lastmodified":1566603060,
+    "wof:lastmodified":1695877749,
     "wof:name":"Ambrose",
     "wof:parent_id":102049463,
     "wof:placetype":"localadmin",

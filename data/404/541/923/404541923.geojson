@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02938,
-    "geom:area_square_m":323248435.448233,
+    "geom:area_square_m":323248364.291922,
     "geom:bbox":"151.141448,-27.251631,151.385557,-27.030268",
     "geom:latitude":-27.153305,
     "geom:longitude":151.261709,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.164651,
     "lbl:longitude":151.27363,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09a1\u09be\u09b2\u09ac\u09bf"
@@ -107,9 +113,12 @@
         102048423
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30469"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"45fe4ef55d7b69c8f1371c9da74f16c5",
+    "wof:geomhash":"856797181b248f0a19460e3c4eea9907",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -121,7 +130,7 @@
         }
     ],
     "wof:id":404541923,
-    "wof:lastmodified":1636494674,
+    "wof:lastmodified":1695877882,
     "wof:name":"Dalby",
     "wof:parent_id":102048423,
     "wof:placetype":"localadmin",

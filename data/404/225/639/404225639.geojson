@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00035,
-    "geom:area_square_m":3608402.558932,
+    "geom:area_square_m":3608402.558919,
     "geom:bbox":"151.388600032,-33.467157794,151.419730016,-33.4458879925",
     "geom:latitude":-33.457644,
     "geom:longitude":151.406215,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.457948,
     "lbl:longitude":151.406442,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Picketts Valley"
@@ -38,12 +44,15 @@
         102048513
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11873"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931591
     ],
     "wof:country":"AU",
-    "wof:geomhash":"bd0f3f3831270556c6aa2077d1c1e747",
+    "wof:geomhash":"4311edd6cd69bc30c9000180cb26b166",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404225639,
-    "wof:lastmodified":1566602725,
+    "wof:lastmodified":1695877545,
     "wof:name":"Picketts Valley",
     "wof:parent_id":102048513,
     "wof:placetype":"localadmin",

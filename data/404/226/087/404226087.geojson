@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000051,
-    "geom:area_square_m":516849.106905,
+    "geom:area_square_m":516849.106903,
     "geom:bbox":"150.831127232,-34.5694560035,150.843849856,-34.560114003",
     "geom:latitude":-34.564461,
     "geom:longitude":150.837963,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.56466,
     "lbl:longitude":150.838926,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Shellharbour City Centre"
@@ -39,12 +45,15 @@
         102048497
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12072"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931841
     ],
     "wof:country":"AU",
-    "wof:geomhash":"d6d7e7da33162b00d7b89ed928813fbe",
+    "wof:geomhash":"ed3ab6c2833dcd004fb5a3a68de4072d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404226087,
-    "wof:lastmodified":1566602064,
+    "wof:lastmodified":1695877171,
     "wof:name":"Shellharbour City Centre",
     "wof:parent_id":102048497,
     "wof:placetype":"localadmin",

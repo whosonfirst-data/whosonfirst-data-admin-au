@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011972,
-    "geom:area_square_m":119434220.996885,
+    "geom:area_square_m":119434220.996862,
     "geom:bbox":"145.005552,-36.2694573005,145.132014144,-36.148044927",
     "geom:latitude":-36.213227,
     "geom:longitude":145.071965,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.217026,
     "lbl:longitude":145.079465,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Wyuna"
@@ -41,9 +47,12 @@
         102049529
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21514"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"23ea5bd9f9d8c8df3102e8396b63d9be",
+    "wof:geomhash":"8df58e6deb88c7ffbd5c0db67e20cc61",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404540871,
-    "wof:lastmodified":1566603023,
+    "wof:lastmodified":1695877732,
     "wof:name":"Wyuna",
     "wof:parent_id":102049529,
     "wof:placetype":"localadmin",

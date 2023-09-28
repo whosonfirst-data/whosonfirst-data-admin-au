@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000105,
-    "geom:area_square_m":1026283.556165,
+    "geom:area_square_m":1026283.556164,
     "geom:bbox":"146.3865,-37.9609894455,146.4058648,-37.9510280095",
     "geom:latitude":-37.956173,
     "geom:longitude":146.395688,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.957118,
     "lbl:longitude":146.396634,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Rawson"
@@ -92,12 +98,15 @@
         102048523
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21128"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101933441
     ],
     "wof:country":"AU",
-    "wof:geomhash":"c83dedc0922cbbac8d724174e0867991",
+    "wof:geomhash":"c5f093a99c275d9821a1c8115aa5487b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -109,7 +118,7 @@
         }
     ],
     "wof:id":404540007,
-    "wof:lastmodified":1566602998,
+    "wof:lastmodified":1695877717,
     "wof:name":"Rawson",
     "wof:parent_id":102048523,
     "wof:placetype":"localadmin",

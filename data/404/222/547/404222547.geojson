@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003146,
-    "geom:area_square_m":32215432.279918,
+    "geom:area_square_m":32215432.279925,
     "geom:bbox":"150.633756,-34.130216997,150.705915008,-34.0412169935",
     "geom:latitude":-34.09203,
     "geom:longitude":150.670601,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.094722,
     "lbl:longitude":150.667059,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Cawdor"
@@ -68,9 +74,12 @@
         102048943
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10499"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"2bf5d3877d506b21652ffc3430b68a56",
+    "wof:geomhash":"e081bb62f648535e895427cf55302bfe",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -82,7 +91,7 @@
         }
     ],
     "wof:id":404222547,
-    "wof:lastmodified":1566602811,
+    "wof:lastmodified":1695877599,
     "wof:name":"Cawdor",
     "wof:parent_id":102048943,
     "wof:placetype":"localadmin",

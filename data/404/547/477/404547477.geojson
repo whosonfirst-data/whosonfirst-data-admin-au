@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023696,
-    "geom:area_square_m":249537353.730379,
+    "geom:area_square_m":249537353.730389,
     "geom:bbox":"116.488306976,-31.70906683,116.694291328,-31.4880678835",
     "geom:latitude":-31.610642,
     "geom:longitude":116.599001,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.635721,
     "lbl:longitude":116.573343,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Irishtown"
@@ -44,9 +50,12 @@
         102048557
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50353"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"d20cb6464985b641d8800f2684f0972e",
+    "wof:geomhash":"44156a1b53a498fa4eca22fc21e636c9",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404547477,
-    "wof:lastmodified":1566602929,
+    "wof:lastmodified":1695877676,
     "wof:name":"Irishtown",
     "wof:parent_id":102048557,
     "wof:placetype":"localadmin",

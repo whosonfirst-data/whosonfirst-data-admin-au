@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000689,
-    "geom:area_square_m":6824240.503717,
+    "geom:area_square_m":6824240.503723,
     "geom:bbox":"147.13776,-36.7586100655,147.169739008,-36.712860583",
     "geom:latitude":-36.734432,
     "geom:longitude":147.152597,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.727499,
     "lbl:longitude":147.153686,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tawonga South"
@@ -38,12 +44,15 @@
         102049467
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21317"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101933609
     ],
     "wof:country":"AU",
-    "wof:geomhash":"e734df9b246fccc88de373b820897b73",
+    "wof:geomhash":"b84186f33df49c4202ca24e9af3e81ad",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404540431,
-    "wof:lastmodified":1566603000,
+    "wof:lastmodified":1695877718,
     "wof:name":"Tawonga South",
     "wof:parent_id":102049467,
     "wof:placetype":"localadmin",

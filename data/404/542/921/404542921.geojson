@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005569,
-    "geom:area_square_m":61457004.213391,
+    "geom:area_square_m":61457004.213472,
     "geom:bbox":"152.926356288,-26.850989992,153.04554768,-26.763657005",
     "geom:latitude":-26.805473,
     "geom:longitude":152.990451,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-26.803539,
     "lbl:longitude":152.990482,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Landsborough"
@@ -51,9 +57,12 @@
         102049303
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30937"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"59983581b7d9c9214918e687731cd5da",
+    "wof:geomhash":"6e866bd1ba9ea734f3accaa791ac894a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -66,7 +75,7 @@
         }
     ],
     "wof:id":404542921,
-    "wof:lastmodified":1566602314,
+    "wof:lastmodified":1695877303,
     "wof:name":"Landsborough",
     "wof:parent_id":102049303,
     "wof:placetype":"localadmin",

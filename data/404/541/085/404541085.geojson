@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.191228,
-    "geom:area_square_m":13288442204.498291,
+    "geom:area_square_m":13288442204.49725,
     "geom:bbox":"146.281571008,-26.342410007,147.95530976,-24.72833159",
     "geom:latitude":-25.555148,
     "geom:longitude":147.016807,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-25.686921,
     "lbl:longitude":146.821177,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Augathella"
@@ -56,9 +62,12 @@
         102048755
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30070"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"d65743e486cff53bc1eb0196345f5969",
+    "wof:geomhash":"594eabcaa2ff91cbc45f0c8a82f85263",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -70,7 +79,7 @@
         }
     ],
     "wof:id":404541085,
-    "wof:lastmodified":1566603056,
+    "wof:lastmodified":1695877748,
     "wof:name":"Augathella",
     "wof:parent_id":102048755,
     "wof:placetype":"localadmin",

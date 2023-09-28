@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001711,
-    "geom:area_square_m":16729546.12435,
+    "geom:area_square_m":16729546.124324,
     "geom:bbox":"147.646556992,-37.790999994,147.705776224,-37.721329993",
     "geom:latitude":-37.756917,
     "geom:longitude":147.672015,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.762049,
     "lbl:longitude":147.669543,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Granite Rock"
@@ -38,9 +44,12 @@
         102049039
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20565"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"f4d31fa0bb3430c9005123d09b6dccb1",
+    "wof:geomhash":"b91bde57c30e517ce61ea33c0b75996d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404538751,
-    "wof:lastmodified":1566602459,
+    "wof:lastmodified":1695877390,
     "wof:name":"Granite Rock",
     "wof:parent_id":102049039,
     "wof:placetype":"localadmin",

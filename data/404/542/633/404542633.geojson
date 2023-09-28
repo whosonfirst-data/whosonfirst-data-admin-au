@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.687903,
-    "geom:area_square_m":8084085903.660169,
+    "geom:area_square_m":8084085903.658664,
     "geom:bbox":"144.740788512,-18.5782859955,145.815784992,-17.618144931",
     "geom:latitude":-18.121403,
     "geom:longitude":145.27569,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-18.039281,
     "lbl:longitude":145.285728,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Innot Hot Springs"
@@ -38,9 +44,12 @@
         102048519
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30805"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"be7d40d80b0b7d81c1eeeb9cdb5ade45",
+    "wof:geomhash":"e4e2c6c86bdc84110bbdef8be4681ecb",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404542633,
-    "wof:lastmodified":1566602274,
+    "wof:lastmodified":1695877278,
     "wof:name":"Innot Hot Springs",
     "wof:parent_id":102048519,
     "wof:placetype":"localadmin",

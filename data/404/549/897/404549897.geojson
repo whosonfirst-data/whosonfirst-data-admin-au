@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.781619,
-    "geom:area_square_m":33600115281.293182,
+    "geom:area_square_m":33600115281.287361,
     "geom:bbox":"131.758701632,-13.135557339,135.0,-10.965914265",
     "geom:latitude":-12.333866,
     "geom:longitude":133.617419,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-12.473642,
     "lbl:longitude":133.654611,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "West Arnhem"
@@ -38,9 +44,12 @@
         102049147
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC70199"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"bc8cc7f2db838396bac3b61bf269f5ca",
+    "wof:geomhash":"8074b5342649968d863cf9b9d58671ad",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404549897,
-    "wof:lastmodified":1566602908,
+    "wof:lastmodified":1695877665,
     "wof:name":"West Arnhem",
     "wof:parent_id":102049147,
     "wof:placetype":"localadmin",

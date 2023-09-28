@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018752,
-    "geom:area_square_m":186734120.099707,
+    "geom:area_square_m":186734120.099681,
     "geom:bbox":"146.78904816,-36.4543130005,146.957890496,-36.241191021",
     "geom:latitude":-36.356646,
     "geom:longitude":146.867322,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.386179,
     "lbl:longitude":146.875661,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Yackandandah"
@@ -47,9 +53,12 @@
         102049541
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21516"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"6dcb384b09b78bb969840859bd977e3d",
+    "wof:geomhash":"57c5d2630246e65d02fcd04034058093",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":404540875,
-    "wof:lastmodified":1566602995,
+    "wof:lastmodified":1695877716,
     "wof:name":"Yackandandah",
     "wof:parent_id":102049541,
     "wof:placetype":"localadmin",

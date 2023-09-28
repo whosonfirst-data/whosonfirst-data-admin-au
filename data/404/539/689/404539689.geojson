@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002608,
-    "geom:area_square_m":25330359.126186,
+    "geom:area_square_m":25330359.126191,
     "geom:bbox":"141.660766016,-38.267838382,141.745914368,-38.2093690025",
     "geom:latitude":-38.238851,
     "geom:longitude":141.707075,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.235822,
     "lbl:longitude":141.717053,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Narrawong"
@@ -38,9 +44,12 @@
         102049579
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20984"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"63079c66c38b78d8d521cf6a1eb792db",
+    "wof:geomhash":"14e0b631dc06d9a35dbc26e35cde53f8",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404539689,
-    "wof:lastmodified":1566602364,
+    "wof:lastmodified":1695877333,
     "wof:name":"Narrawong",
     "wof:parent_id":102049579,
     "wof:placetype":"localadmin",

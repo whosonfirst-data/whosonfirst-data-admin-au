@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000169,
-    "geom:area_square_m":1730757.997782,
+    "geom:area_square_m":1730757.997793,
     "geom:bbox":"150.965020096,-33.965305999,150.982912288,-33.9514045255",
     "geom:latitude":-33.958714,
     "geom:longitude":150.97417,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.958748,
     "lbl:longitude":150.974171,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Voyager Point"
@@ -39,12 +45,15 @@
         102049387
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12376"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932197
     ],
     "wof:country":"AU",
-    "wof:geomhash":"4ab8566caf1460e902d76ce334f7b562",
+    "wof:geomhash":"50af4703c9d79bc2e1960c605757d87b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404226771,
-    "wof:lastmodified":1566602045,
+    "wof:lastmodified":1695877159,
     "wof:name":"Voyager Point",
     "wof:parent_id":102049387,
     "wof:placetype":"localadmin",

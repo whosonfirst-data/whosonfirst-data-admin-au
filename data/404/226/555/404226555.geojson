@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.094686,
-    "geom:area_square_m":1013605339.2478,
+    "geom:area_square_m":1013605339.248131,
     "geom:bbox":"150.975956864,-30.2271769995,151.608614016,-29.89410176",
     "geom:latitude":-30.034211,
     "geom:longitude":151.303847,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-30.054163,
     "lbl:longitude":151.356286,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tingha"
@@ -38,9 +44,12 @@
         102049231
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12280"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"20f5c8c3ea14ce01909fd656da0687ea",
+    "wof:geomhash":"62bda4ba8cff50c9bd42f9a0e38b3854",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404226555,
-    "wof:lastmodified":1566602052,
+    "wof:lastmodified":1695877162,
     "wof:name":"Tingha",
     "wof:parent_id":102049231,
     "wof:placetype":"localadmin",

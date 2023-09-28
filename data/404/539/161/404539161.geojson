@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012808,
-    "geom:area_square_m":127350250.756516,
+    "geom:area_square_m":127350250.756563,
     "geom:bbox":"146.232116992,-36.5515752705,146.409136,-36.398391404",
     "geom:latitude":-36.474452,
     "geom:longitude":146.319945,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.463419,
     "lbl:longitude":146.299148,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Laceby"
@@ -62,9 +68,12 @@
         102049395
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20749"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"4076d6ac857b7b08e7ee972956246424",
+    "wof:geomhash":"61275662bd8352cab2ae8a63dbe45b3d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -76,7 +85,7 @@
         }
     ],
     "wof:id":404539161,
-    "wof:lastmodified":1566602355,
+    "wof:lastmodified":1695877327,
     "wof:name":"Laceby",
     "wof:parent_id":102049395,
     "wof:placetype":"localadmin",

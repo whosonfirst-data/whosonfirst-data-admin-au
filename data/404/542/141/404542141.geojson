@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000078,
-    "geom:area_square_m":898771.644505,
+    "geom:area_square_m":898771.644509,
     "geom:bbox":"149.101840352,-21.131044182,149.112298112,-21.117342009",
     "geom:latitude":-21.124593,
     "geom:longitude":149.10758,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-21.125521,
     "lbl:longitude":149.107937,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Erakala"
@@ -38,12 +44,15 @@
         102048783
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30574"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934385
     ],
     "wof:country":"AU",
-    "wof:geomhash":"68e4a3cb2e168a28cd2b7eea4fcd6e69",
+    "wof:geomhash":"e899162c27d4930d21901fde085b4824",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404542141,
-    "wof:lastmodified":1566602313,
+    "wof:lastmodified":1695877302,
     "wof:name":"Erakala",
     "wof:parent_id":102048783,
     "wof:placetype":"localadmin",

@@ -10,6 +10,12 @@
     "geom:latitude":-31.770115,
     "geom:longitude":115.818318,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.770137,
     "lbl:longitude":115.818798,
     "lbl:max_zoom":18.0,
@@ -54,13 +60,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC50340",
         "wd:id":"Q14935812"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937293
     ],
     "wof:country":"AU",
-    "wof:geomhash":"04087746327be4ff5a1d188e4c3dcff3",
+    "wof:geomhash":"76db2a51ffb0ffecca18baaeff03fb47",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -72,7 +80,7 @@
         }
     ],
     "wof:id":404547447,
-    "wof:lastmodified":1566602925,
+    "wof:lastmodified":1695878015,
     "wof:name":"Hocking",
     "wof:parent_id":102048879,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000791,
-    "geom:area_square_m":7833233.03187,
+    "geom:area_square_m":7833233.031875,
     "geom:bbox":"144.26617744,-36.815257676,144.30577968,-36.784079996",
     "geom:latitude":-36.800233,
     "geom:longitude":144.286076,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.799922,
     "lbl:longitude":144.286444,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Spring Gully"
@@ -47,12 +53,15 @@
         102049661
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21243"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101933557
     ],
     "wof:country":"AU",
-    "wof:geomhash":"df7ed2ada1d51d04099a46383bbcaaaa",
+    "wof:geomhash":"4f23e1b9e6731a9125d149221617e4a6",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":404540265,
-    "wof:lastmodified":1566603029,
+    "wof:lastmodified":1695877735,
     "wof:name":"Spring Gully",
     "wof:parent_id":102049661,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000209,
-    "geom:area_square_m":2175093.625823,
+    "geom:area_square_m":2175093.625833,
     "geom:bbox":"116.477708672,-32.800314009,116.501323008,-32.7870924845",
     "geom:latitude":-32.794093,
     "geom:longitude":116.49123,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.792746,
     "lbl:longitude":116.491448,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ranford"
@@ -38,12 +44,15 @@
         102049531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50669"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937711
     ],
     "wof:country":"AU",
-    "wof:geomhash":"7d8d878e0d797a1485ca733a78ae1e4b",
+    "wof:geomhash":"58906a1d848ddc4122719e617fb5c08a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404548181,
-    "wof:lastmodified":1566603193,
+    "wof:lastmodified":1695877813,
     "wof:name":"Ranford",
     "wof:parent_id":102049531,
     "wof:placetype":"localadmin",

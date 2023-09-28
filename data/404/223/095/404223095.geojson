@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000808,
-    "geom:area_square_m":8480567.023822,
+    "geom:area_square_m":8480567.023808,
     "geom:bbox":"152.471832992,-31.9196319985,152.549065984,-31.8973490075",
     "geom:latitude":-31.908998,
     "geom:longitude":152.510524,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.907862,
     "lbl:longitude":152.50789,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Dumaresq Island"
@@ -38,12 +44,15 @@
         102048833
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10742"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101930127
     ],
     "wof:country":"AU",
-    "wof:geomhash":"61577848f3a4feb66f52cb5713ff36c9",
+    "wof:geomhash":"c4241ce86b34cd46a1d9a0a495eff72c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404223095,
-    "wof:lastmodified":1566602553,
+    "wof:lastmodified":1695877448,
     "wof:name":"Dumaresq Island",
     "wof:parent_id":102048833,
     "wof:placetype":"localadmin",

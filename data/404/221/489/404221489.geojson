@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001752,
-    "geom:area_square_m":18262915.529284,
+    "geom:area_square_m":18262915.529281,
     "geom:bbox":"151.90914,-32.56906153,151.971686016,-32.519759992",
     "geom:latitude":-32.541458,
     "geom:longitude":151.94508,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.542893,
     "lbl:longitude":151.945078,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Allworth"
@@ -38,9 +44,12 @@
         102049617
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10029"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"87e5379d0cebf786d8f2b73bf65abba6",
+    "wof:geomhash":"73f06d2e0062fa2951296ebfb18c9e86",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404221489,
-    "wof:lastmodified":1566601998,
+    "wof:lastmodified":1695877131,
     "wof:name":"Allworth",
     "wof:parent_id":102049617,
     "wof:placetype":"localadmin",

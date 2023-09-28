@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000575,
-    "geom:area_square_m":5922143.286556,
+    "geom:area_square_m":5922143.286474,
     "geom:bbox":"151.30462,-33.6427649555,151.343020992,-33.605927996",
     "geom:latitude":-33.628099,
     "geom:longitude":151.326493,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.630186,
     "lbl:longitude":151.325188,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Avalon"
@@ -147,12 +153,15 @@
         102048751
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10073"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101929435
     ],
     "wof:country":"AU",
-    "wof:geomhash":"5776c33ea8a27772c05c2fa854a99941",
+    "wof:geomhash":"7d004da52ba22fa072dc65bfdfe58ebc",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -165,7 +174,7 @@
         }
     ],
     "wof:id":404221589,
-    "wof:lastmodified":1566601986,
+    "wof:lastmodified":1695877126,
     "wof:name":"Avalon",
     "wof:parent_id":102048751,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000862,
-    "geom:area_square_m":9439629.86492,
+    "geom:area_square_m":9439629.864911,
     "geom:bbox":"153.004339008,-27.7391330155,153.064706048,-27.715624307",
     "geom:latitude":-27.727686,
     "geom:longitude":153.039101,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.726916,
     "lbl:longitude":153.044565,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Park Ridge South"
@@ -39,12 +45,15 @@
         102048665
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31298"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935101
     ],
     "wof:country":"AU",
-    "wof:geomhash":"ba71a6d4fe4dadc0b8aacb57144e9959",
+    "wof:geomhash":"a3d9176686d74602b783bcb12b7e02d9",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404543681,
-    "wof:lastmodified":1566602098,
+    "wof:lastmodified":1695877191,
     "wof:name":"Park Ridge South",
     "wof:parent_id":102048665,
     "wof:placetype":"localadmin",

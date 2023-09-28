@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008748,
-    "geom:area_square_m":93282939.598875,
+    "geom:area_square_m":93282939.598971,
     "geom:bbox":"152.832714752,-30.468802262,153.023564,-30.341820852",
     "geom:latitude":-30.417919,
     "geom:longitude":152.927907,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-30.417392,
     "lbl:longitude":152.929374,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bellingen"
@@ -68,9 +74,12 @@
         102048545
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10163"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"21e1dcc58cc1093ae3deb7e841258e9e",
+    "wof:geomhash":"cd4314e6ee623669355fb4645890e75a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -82,7 +91,7 @@
         }
     ],
     "wof:id":404221791,
-    "wof:lastmodified":1566601967,
+    "wof:lastmodified":1695877118,
     "wof:name":"Bellingen",
     "wof:parent_id":102048545,
     "wof:placetype":"localadmin",

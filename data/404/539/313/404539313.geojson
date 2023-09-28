@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001895,
-    "geom:area_square_m":18484187.750162,
+    "geom:area_square_m":18484187.75012,
     "geom:bbox":"145.265148352,-37.9648681185,145.325237408,-37.9003224325",
     "geom:latitude":-37.926968,
     "geom:longitude":145.290808,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.920966,
     "lbl:longitude":145.287845,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lysterfield"
@@ -39,12 +45,15 @@
         102048465
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20817"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101933185
     ],
     "wof:country":"AU",
-    "wof:geomhash":"2d4e545266d8a66cdd5f08007ef04a2e",
+    "wof:geomhash":"1e532ae25fd52d3bda2966f979f0eae2",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404539313,
-    "wof:lastmodified":1566602381,
+    "wof:lastmodified":1695877343,
     "wof:name":"Lysterfield",
     "wof:parent_id":102048465,
     "wof:placetype":"localadmin",

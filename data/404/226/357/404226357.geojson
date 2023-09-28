@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000277,
-    "geom:area_square_m":2840791.951924,
+    "geom:area_square_m":2840791.951916,
     "geom:bbox":"151.196957952,-33.878608746,151.223002016,-33.8560679945",
     "geom:latitude":-33.868713,
     "geom:longitude":151.209618,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.868633,
     "lbl:longitude":151.209422,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:abk_x_preferred":[
         "\u0421\u0438\u0434\u043d\u0435\u0438"
@@ -555,12 +561,15 @@
         102049151
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12192"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932003
     ],
     "wof:country":"AU",
-    "wof:geomhash":"038485d03157ecaf0023f9d70be1d46a",
+    "wof:geomhash":"b0b836fcc66184620af63f93ea8b7f8b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -573,7 +582,7 @@
         }
     ],
     "wof:id":404226357,
-    "wof:lastmodified":1566602051,
+    "wof:lastmodified":1695877162,
     "wof:name":"Sydney",
     "wof:parent_id":102049151,
     "wof:placetype":"localadmin",

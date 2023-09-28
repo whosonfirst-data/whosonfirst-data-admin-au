@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000133,
-    "geom:area_square_m":1463277.113501,
+    "geom:area_square_m":1463277.113503,
     "geom:bbox":"153.098411,-26.774875,153.111855,-26.751556",
     "geom:latitude":-26.763863,
     "geom:longitude":153.105127,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-26.7702,
     "lbl:longitude":153.105978,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Meridan Plains"
@@ -31,20 +37,23 @@
     "qs:source":"Australian Bureau Of Statistics",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681463,
         102191583,
         85632793,
-        102049303,
-        136253039,
         1376953259,
-        85681463
+        136253039,
+        102049303
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31041"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934815
     ],
     "wof:country":"AU",
-    "wof:geomhash":"7782d53e001b651546c42914aa772b25",
+    "wof:geomhash":"6197106354773957ff0c4a1b7f4fd556",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404543137,
-    "wof:lastmodified":1607991611,
+    "wof:lastmodified":1695877842,
     "wof:name":"Meridan Plains",
     "wof:parent_id":102049303,
     "wof:placetype":"localadmin",

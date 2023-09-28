@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000841,
-    "geom:area_square_m":8292725.179119,
+    "geom:area_square_m":8292725.179124,
     "geom:bbox":"144.182791072,-37.106867034,144.222680992,-37.0773087515",
     "geom:latitude":-37.091417,
     "geom:longitude":144.200993,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.090766,
     "lbl:longitude":144.201376,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Campbells Creek"
@@ -44,12 +50,15 @@
         102049601
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20240"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932701
     ],
     "wof:country":"AU",
-    "wof:geomhash":"e4b3094a9b263235f90199ebdd01a799",
+    "wof:geomhash":"c80ef324bf413ff16f6edb1e9b29e3e7",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":404538027,
-    "wof:lastmodified":1566602466,
+    "wof:lastmodified":1695877393,
     "wof:name":"Campbells Creek",
     "wof:parent_id":102049601,
     "wof:placetype":"localadmin",

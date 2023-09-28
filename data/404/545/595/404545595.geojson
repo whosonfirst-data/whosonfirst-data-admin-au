@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00006,
-    "geom:area_square_m":608853.947213,
+    "geom:area_square_m":608850.596456,
     "geom:bbox":"138.61509,-34.927903,138.623601,-34.915717",
     "geom:latitude":-34.92155,
     "geom:longitude":138.620094,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.921131,
     "lbl:longitude":138.619675,
     "lbl:max_zoom":18.0,
@@ -277,13 +283,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC40336",
         "wd:id":"Q6391937"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101936183
     ],
     "wof:country":"AU",
-    "wof:geomhash":"14df83ec605abd078c46f92072d762f3",
+    "wof:geomhash":"041c96b18294519fb95dc03eb0474fc4",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -296,7 +304,7 @@
         }
     ],
     "wof:id":404545595,
-    "wof:lastmodified":1690853487,
+    "wof:lastmodified":1695877930,
     "wof:name":"Kent Town",
     "wof:parent_id":102048837,
     "wof:placetype":"localadmin",

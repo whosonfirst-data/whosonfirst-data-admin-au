@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004337,
-    "geom:area_square_m":39198365.260126,
+    "geom:area_square_m":39198365.260145,
     "geom:bbox":"147.173012864,-43.066666084,147.288699808,-42.98527378",
     "geom:latitude":-43.029186,
     "geom:longitude":147.236717,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-43.0292,
     "lbl:longitude":147.237581,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0645\u0627\u0631\u0642\u06cc\u062a"
@@ -137,9 +143,12 @@
         102048889
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60210"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"1204d62d07647ed45e1e2d7a6b437741",
+    "wof:geomhash":"3c8d8ffe72b6d14ef5c795de51af6b44",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -151,7 +160,7 @@
         }
     ],
     "wof:id":404549141,
-    "wof:lastmodified":1566602913,
+    "wof:lastmodified":1695877669,
     "wof:name":"Margate",
     "wof:parent_id":102048889,
     "wof:placetype":"localadmin",

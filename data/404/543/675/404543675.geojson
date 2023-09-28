@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000343,
-    "geom:area_square_m":3753634.088188,
+    "geom:area_square_m":3753634.088167,
     "geom:bbox":"153.378100576,-27.891906478,153.410677952,-27.867240983",
     "geom:latitude":-27.879701,
     "geom:longitude":153.394984,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.883099,
     "lbl:longitude":153.390548,
     "lbl:max_zoom":18.0,
@@ -58,13 +64,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC31295",
         "wd:id":"Q7134339"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935095
     ],
     "wof:country":"AU",
-    "wof:geomhash":"2caeab3f658f3404463ba1abd14285a5",
+    "wof:geomhash":"f497deb8ecb7cef4a0227a96081a4b7c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -77,7 +85,7 @@
         }
     ],
     "wof:id":404543675,
-    "wof:lastmodified":1566602097,
+    "wof:lastmodified":1695877914,
     "wof:name":"Paradise Point",
     "wof:parent_id":102049363,
     "wof:placetype":"localadmin",

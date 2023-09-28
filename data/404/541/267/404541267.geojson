@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012377,
-    "geom:area_square_m":146463726.464089,
+    "geom:area_square_m":146463726.464252,
     "geom:bbox":"145.360978016,-16.943786002,145.49471,-16.7595129965",
     "geom:latitude":-16.866998,
     "geom:longitude":145.43319,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-16.859869,
     "lbl:longitude":145.433213,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Biboohra"
@@ -38,9 +44,12 @@
         102048519
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30154"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"2c3b49cef30e43029e42be2e2c48193d",
+    "wof:geomhash":"6ae737f1e4044715d844a485be29609d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404541267,
-    "wof:lastmodified":1566603062,
+    "wof:lastmodified":1695877750,
     "wof:name":"Biboohra",
     "wof:parent_id":102048519,
     "wof:placetype":"localadmin",

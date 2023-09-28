@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020564,
-    "geom:area_square_m":226331810.448702,
+    "geom:area_square_m":226331810.448642,
     "geom:bbox":"152.13403552,-27.2150829975,152.396180992,-27.0098340075",
     "geom:latitude":-27.112713,
     "geom:longitude":152.253856,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.129131,
     "lbl:longitude":152.208297,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Braemore"
@@ -41,9 +47,12 @@
         102049287
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30223"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"341f0d95837ca7bce2a698cf715ff706",
+    "wof:geomhash":"153d9da4037ebc3f137a1bf9f9f85f1c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404541407,
-    "wof:lastmodified":1566603062,
+    "wof:lastmodified":1695877751,
     "wof:name":"Braemore",
     "wof:parent_id":102049287,
     "wof:placetype":"localadmin",

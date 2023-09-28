@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000798,
-    "geom:area_square_m":7963601.671216,
+    "geom:area_square_m":7963601.671247,
     "geom:bbox":"150.074784992,-36.224933776,150.134595008,-36.1934896775",
     "geom:latitude":-36.207893,
     "geom:longitude":150.096729,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.203826,
     "lbl:longitude":150.089256,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "North Narooma"
@@ -38,12 +44,15 @@
         102049609
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11752"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931449
     ],
     "wof:country":"AU",
-    "wof:geomhash":"594907d2af58561a9ac25fd7c733ba7d",
+    "wof:geomhash":"7016c8c2d46ffa4ae9f4b4a1e05e25c7",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404225367,
-    "wof:lastmodified":1566602706,
+    "wof:lastmodified":1695877531,
     "wof:name":"North Narooma",
     "wof:parent_id":102049609,
     "wof:placetype":"localadmin",

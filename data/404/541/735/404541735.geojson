@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.987604,
-    "geom:area_square_m":23099084074.706257,
+    "geom:area_square_m":23099084778.636238,
     "geom:bbox":"139.470009,-20.916179,141.082762,-19.023614",
     "geom:latitude":-19.965702,
     "geom:longitude":140.355823,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-19.937164,
     "lbl:longitude":140.340331,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0644\u0648\u0646\u0643\u0648\u0631\u0649"
@@ -77,9 +83,12 @@
         102048905
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30379"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"d7d0d9564af9e9d363a6d32f33573ead",
+    "wof:geomhash":"12cda0f7180b1e5c99ed5544d371e90f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -91,7 +100,7 @@
         }
     ],
     "wof:id":404541735,
-    "wof:lastmodified":1636494675,
+    "wof:lastmodified":1695877882,
     "wof:name":"Cloncurry",
     "wof:parent_id":102048905,
     "wof:placetype":"localadmin",

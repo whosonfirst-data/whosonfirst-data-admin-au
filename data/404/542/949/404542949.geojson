@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002586,
-    "geom:area_square_m":29364085.119562,
+    "geom:area_square_m":29364085.119616,
     "geom:bbox":"150.523354432,-23.336687257,150.604763744,-23.2558406475",
     "geom:latitude":-23.295435,
     "geom:longitude":150.560044,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-23.29326,
     "lbl:longitude":150.55265,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Limestone Creek"
@@ -41,9 +47,12 @@
         102048825
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30950"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"0ea38835b4097d8650c843fb1c5ab36a",
+    "wof:geomhash":"9e9d4898d3e2c855188b4217c983111b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404542949,
-    "wof:lastmodified":1566602286,
+    "wof:lastmodified":1695877285,
     "wof:name":"Limestone Creek",
     "wof:parent_id":102048825,
     "wof:placetype":"localadmin",

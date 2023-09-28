@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032857,
-    "geom:area_square_m":361237599.384946,
+    "geom:area_square_m":361237599.384915,
     "geom:bbox":"152.151987488,-27.344005002,152.407539008,-27.1001870085",
     "geom:latitude":-27.234654,
     "geom:longitude":152.297864,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.241595,
     "lbl:longitude":152.310386,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Redbank Creek"
@@ -38,9 +44,12 @@
         102049287
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31384"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"c0f7f0c7e11ed7085f4d9f6e2fd0b8af",
+    "wof:geomhash":"93160859b7cc18dd3434da4f3d6748d0",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404543869,
-    "wof:lastmodified":1566602109,
+    "wof:lastmodified":1695877196,
     "wof:name":"Redbank Creek",
     "wof:parent_id":102049287,
     "wof:placetype":"localadmin",

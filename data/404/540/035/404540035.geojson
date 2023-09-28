@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002621,
-    "geom:area_square_m":25365255.888651,
+    "geom:area_square_m":25365255.888665,
     "geom:bbox":"145.2576368,-38.528915747,145.353295552,-38.4558721785",
     "geom:latitude":-38.490093,
     "geom:longitude":145.294101,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.476212,
     "lbl:longitude":145.273182,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Rhyll"
@@ -38,9 +44,12 @@
         102049085
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21141"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"bb7474bc827bb1eae5665ef236615136",
+    "wof:geomhash":"492c421450cace8b0bd892c7973363aa",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404540035,
-    "wof:lastmodified":1566603027,
+    "wof:lastmodified":1695877734,
     "wof:name":"Rhyll",
     "wof:parent_id":102049085,
     "wof:placetype":"localadmin",

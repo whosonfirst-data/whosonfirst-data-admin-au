@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013221,
-    "geom:area_square_m":138948271.345628,
+    "geom:area_square_m":138948271.345612,
     "geom:bbox":"152.132779008,-31.851259014,152.303179008,-31.7296389595",
     "geom:latitude":-31.792536,
     "geom:longitude":152.222296,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.799203,
     "lbl:longitude":152.228989,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Wherrol Flat"
@@ -38,9 +44,12 @@
         102048833
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12488"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"25b2f9133ea42a7cc578325cd18fccc6",
+    "wof:geomhash":"38e3be6fc8da0bcb0a49af9ce80b3dbe",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404227023,
-    "wof:lastmodified":1566601938,
+    "wof:lastmodified":1695877102,
     "wof:name":"Wherrol Flat",
     "wof:parent_id":102048833,
     "wof:placetype":"localadmin",

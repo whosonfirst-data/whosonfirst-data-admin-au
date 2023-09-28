@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.083999,
-    "geom:area_square_m":832085721.790393,
+    "geom:area_square_m":832085721.790761,
     "geom:bbox":"143.1971,-36.9368285945,143.511017024,-36.575123939",
     "geom:latitude":-36.763951,
     "geom:longitude":143.359182,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.776457,
     "lbl:longitude":143.340498,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Carapooee"
@@ -38,9 +44,12 @@
         102049045
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20251"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"3a431efc0ed1d153a3f8b6f517ad8757",
+    "wof:geomhash":"025c7fb2924d7321e42289f204f3d3a4",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404538051,
-    "wof:lastmodified":1566602477,
+    "wof:lastmodified":1695877400,
     "wof:name":"Carapooee",
     "wof:parent_id":102049045,
     "wof:placetype":"localadmin",

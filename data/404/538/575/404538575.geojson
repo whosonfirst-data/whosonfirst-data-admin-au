@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000535,
-    "geom:area_square_m":5226288.882003,
+    "geom:area_square_m":5226288.882012,
     "geom:bbox":"145.320159008,-37.8903329135,145.348256096,-37.856186076",
     "geom:latitude":-37.875256,
     "geom:longitude":145.335066,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.873906,
     "lbl:longitude":145.332957,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ferny Creek"
@@ -39,12 +45,15 @@
         102048969
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20487"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932935
     ],
     "wof:country":"AU",
-    "wof:geomhash":"0c1e18cb60fc11268cad0ae9b1506209",
+    "wof:geomhash":"cf7b2b9463d87faf47773762e19124eb",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404538575,
-    "wof:lastmodified":1566602450,
+    "wof:lastmodified":1695877386,
     "wof:name":"Ferny Creek",
     "wof:parent_id":102048969,
     "wof:placetype":"localadmin",

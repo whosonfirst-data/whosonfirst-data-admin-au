@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003437,
-    "geom:area_square_m":34987874.698521,
+    "geom:area_square_m":34987874.698531,
     "geom:bbox":"138.850367008,-34.640742997,138.918335008,-34.5506452775",
     "geom:latitude":-34.599531,
     "geom:longitude":138.881218,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.59943,
     "lbl:longitude":138.880709,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lyndoch"
@@ -38,9 +44,12 @@
         102048713
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40386"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"941c770ef5024658a86e5a1b5b91f728",
+    "wof:geomhash":"c0095460091dbbbd550e79b958f0f0e0",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404545699,
-    "wof:lastmodified":1566602245,
+    "wof:lastmodified":1695877263,
     "wof:name":"Lyndoch",
     "wof:parent_id":102048713,
     "wof:placetype":"localadmin",

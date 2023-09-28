@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000169,
-    "geom:area_square_m":1774908.145903,
+    "geom:area_square_m":1774908.145901,
     "geom:bbox":"115.862642272,-32.020143849,115.876787744,-32.004209429",
     "geom:latitude":-32.013157,
     "geom:longitude":115.869771,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.014479,
     "lbl:longitude":115.869066,
     "lbl:max_zoom":18.0,
@@ -58,13 +64,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC50464",
         "wd:id":"Q6750851"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937457
     ],
     "wof:country":"AU",
-    "wof:geomhash":"db896ed5e32dfc36e27511fa5901cc32",
+    "wof:geomhash":"dfde0b1aef2768850d7dcb0fc704a960",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -77,7 +85,7 @@
         }
     ],
     "wof:id":404547727,
-    "wof:lastmodified":1566602979,
+    "wof:lastmodified":1695878023,
     "wof:name":"Manning",
     "wof:parent_id":102049475,
     "wof:placetype":"localadmin",

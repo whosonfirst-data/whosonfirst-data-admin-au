@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000219,
-    "geom:area_square_m":2116978.312386,
+    "geom:area_square_m":2116978.312389,
     "geom:bbox":"145.45713408,-38.556197993,145.482129056,-38.537255991",
     "geom:latitude":-38.546394,
     "geom:longitude":145.470076,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.546329,
     "lbl:longitude":145.471976,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kilcunda"
@@ -41,12 +47,15 @@
         102049085
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20710"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101933125
     ],
     "wof:country":"AU",
-    "wof:geomhash":"d80feb71d5a4d736e9b6bdf4f4f49b09",
+    "wof:geomhash":"b1e2aad4e46a92cc6d7a2fec2076db7d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404539075,
-    "wof:lastmodified":1566602396,
+    "wof:lastmodified":1695877353,
     "wof:name":"Kilcunda",
     "wof:parent_id":102049085,
     "wof:placetype":"localadmin",

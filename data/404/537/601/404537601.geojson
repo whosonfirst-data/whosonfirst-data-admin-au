@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000498,
-    "geom:area_square_m":4875340.708486,
+    "geom:area_square_m":4875340.708491,
     "geom:bbox":"144.409744992,-37.682951003,144.450578016,-37.6632803785",
     "geom:latitude":-37.672208,
     "geom:longitude":144.43103,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.672259,
     "lbl:longitude":144.431033,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bacchus Marsh"
@@ -62,12 +68,15 @@
         102049283
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20048"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932521
     ],
     "wof:country":"AU",
-    "wof:geomhash":"4a468b93d109763b73a069a7c6ab9e92",
+    "wof:geomhash":"bdc4a4daed6010ad80818c9af8b7f137",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -79,7 +88,7 @@
         }
     ],
     "wof:id":404537601,
-    "wof:lastmodified":1566602344,
+    "wof:lastmodified":1695877321,
     "wof:name":"Bacchus Marsh",
     "wof:parent_id":102049283,
     "wof:placetype":"localadmin",

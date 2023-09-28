@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000745,
-    "geom:area_square_m":7270378.151004,
+    "geom:area_square_m":7270378.151005,
     "geom:bbox":"145.383684128,-37.9402739965,145.422918176,-37.903499456",
     "geom:latitude":-37.923675,
     "geom:longitude":145.401298,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.923809,
     "lbl:longitude":145.40128,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Menzies Creek"
@@ -39,12 +45,15 @@
         102048969
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20873"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101933239
     ],
     "wof:country":"AU",
-    "wof:geomhash":"f75b53b48c1a93f2a5c87b9f8ea59a91",
+    "wof:geomhash":"9401bf86a671c3ac3e65f0416895643c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404539439,
-    "wof:lastmodified":1566602368,
+    "wof:lastmodified":1695877335,
     "wof:name":"Menzies Creek",
     "wof:parent_id":102048969,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00016,
-    "geom:area_square_m":1655810.680805,
+    "geom:area_square_m":1655810.680811,
     "geom:bbox":"151.487602016,-33.3511570035,151.504594016,-33.336504985",
     "geom:latitude":-33.344953,
     "geom:longitude":151.495694,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.345039,
     "lbl:longitude":151.495533,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "The Entrance"
@@ -38,12 +44,15 @@
         102049097
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12255"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932075
     ],
     "wof:country":"AU",
-    "wof:geomhash":"237f77e03a41050fcad042c2d9cfa1e6",
+    "wof:geomhash":"c4e6637d33dd4aef9be2298f9003f4c4",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404226499,
-    "wof:lastmodified":1566602033,
+    "wof:lastmodified":1695877152,
     "wof:name":"The Entrance",
     "wof:parent_id":102049097,
     "wof:placetype":"localadmin",

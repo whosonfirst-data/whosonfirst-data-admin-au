@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.492091,
-    "geom:area_square_m":51498716339.404282,
+    "geom:area_square_m":51498716339.404236,
     "geom:bbox":"131.759158976,-23.0994817555,134.878646848,-20.392981206",
     "geom:latitude":-21.998805,
     "geom:longitude":133.175489,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-21.906153,
     "lbl:longitude":132.808301,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Anmatjere"
@@ -38,9 +44,12 @@
         102049183
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC70012"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"f7b0fb0644b1f0bdd6f92fc2f3fd2d45",
+    "wof:geomhash":"6853cb4b7fd849b6cc943bb19fb75d65",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404549627,
-    "wof:lastmodified":1566602842,
+    "wof:lastmodified":1695877621,
     "wof:name":"Anmatjere",
     "wof:parent_id":102049183,
     "wof:placetype":"localadmin",

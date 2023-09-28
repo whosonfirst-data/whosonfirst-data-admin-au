@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00011,
-    "geom:area_square_m":993121.486818,
+    "geom:area_square_m":993121.486817,
     "geom:bbox":"147.29387408,-42.879630751,147.312043168,-42.8665248885",
     "geom:latitude":-42.872151,
     "geom:longitude":147.302596,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-42.872253,
     "lbl:longitude":147.300181,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mount Stuart"
@@ -54,12 +60,15 @@
         102048965
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60235"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938189
     ],
     "wof:country":"AU",
-    "wof:geomhash":"178e057e2395a7d3bea5f900b696169a",
+    "wof:geomhash":"9f0757065cc9ad7017298e54f23f9070",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -72,7 +81,7 @@
         }
     ],
     "wof:id":404549197,
-    "wof:lastmodified":1566602868,
+    "wof:lastmodified":1695877638,
     "wof:name":"Mount Stuart",
     "wof:parent_id":102048965,
     "wof:placetype":"localadmin",

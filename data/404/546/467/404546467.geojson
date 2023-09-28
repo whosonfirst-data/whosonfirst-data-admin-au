@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001324,
-    "geom:area_square_m":13445357.162536,
+    "geom:area_square_m":13445357.162517,
     "geom:bbox":"138.74900832,-34.8225819945,138.800062784,-34.767026402",
     "geom:latitude":-34.793699,
     "geom:longitude":138.772343,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.794281,
     "lbl:longitude":138.772743,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Upper Hermitage"
@@ -38,12 +44,15 @@
         102049017
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40744"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101936703
     ],
     "wof:country":"AU",
-    "wof:geomhash":"59ac9c198e26b8a63859ad4ee3cd1bfe",
+    "wof:geomhash":"f7feadddba9dbe2d9f4c40be6a2c632f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404546467,
-    "wof:lastmodified":1566603142,
+    "wof:lastmodified":1695877787,
     "wof:name":"Upper Hermitage",
     "wof:parent_id":102049017,
     "wof:placetype":"localadmin",

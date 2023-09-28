@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00166,
-    "geom:area_square_m":17428269.862248,
+    "geom:area_square_m":17428269.862254,
     "geom:bbox":"116.746942144,-31.899545198,116.805846432,-31.843946297",
     "geom:latitude":-31.873453,
     "geom:longitude":116.777419,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.875079,
     "lbl:longitude":116.777419,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "York"
@@ -302,12 +308,15 @@
         102049293
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50884"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938007
     ],
     "wof:country":"AU",
-    "wof:geomhash":"3e22b2f3ecb3edeaa5836a1fad4fd2c2",
+    "wof:geomhash":"157657e5973348271261ff25483460f1",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -319,7 +328,7 @@
         }
     ],
     "wof:id":404548663,
-    "wof:lastmodified":1566603214,
+    "wof:lastmodified":1695877822,
     "wof:name":"York",
     "wof:parent_id":102049293,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032977,
-    "geom:area_square_m":346578070.260615,
+    "geom:area_square_m":346578070.260394,
     "geom:bbox":"149.003947136,-31.892202992,149.376785984,-31.6896469915",
     "geom:latitude":-31.796084,
     "geom:longitude":149.216016,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.799761,
     "lbl:longitude":149.244299,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Merrygoen"
@@ -47,9 +53,12 @@
         102049559
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11523"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"6aa5b09757dd41c6761204a2225f1cfb",
+    "wof:geomhash":"4b986917a0802031d7ca05809e606845",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":404224851,
-    "wof:lastmodified":1566602594,
+    "wof:lastmodified":1695877471,
     "wof:name":"Merrygoen",
     "wof:parent_id":102049559,
     "wof:placetype":"localadmin",

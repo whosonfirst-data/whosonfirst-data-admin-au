@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000104,
-    "geom:area_square_m":1092849.706752,
+    "geom:area_square_m":1092849.706751,
     "geom:bbox":"115.791783008,-32.074728395,115.803279552,-32.063874667",
     "geom:latitude":-32.069965,
     "geom:longitude":115.797697,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.069738,
     "lbl:longitude":115.797701,
     "lbl:max_zoom":18.0,
@@ -211,13 +217,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC50694",
         "wd:id":"Q7410349"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937745
     ],
     "wof:country":"AU",
-    "wof:geomhash":"0036f1d08d13eb3e6eb778b55912af79",
+    "wof:geomhash":"acf96de74d3d8f2d066281fa70ed702c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -230,7 +238,7 @@
         }
     ],
     "wof:id":404548237,
-    "wof:lastmodified":1566603224,
+    "wof:lastmodified":1695878051,
     "wof:name":"Samson",
     "wof:parent_id":102048733,
     "wof:placetype":"localadmin",

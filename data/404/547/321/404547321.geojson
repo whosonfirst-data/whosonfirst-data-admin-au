@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000899,
-    "geom:area_square_m":9489285.797434,
+    "geom:area_square_m":9489296.087557,
     "geom:bbox":"115.895347,-31.362514,115.932172,-31.323879",
     "geom:latitude":-31.346459,
     "geom:longitude":115.911166,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.348721,
     "lbl:longitude":115.911511,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u0997\u09bf\u0999\u09cd\u0997\u09bf\u09a8"
@@ -92,12 +98,15 @@
         102049545
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50284"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937197
     ],
     "wof:country":"AU",
-    "wof:geomhash":"cfd37d356a5c94a7476c1daafdd2afff",
+    "wof:geomhash":"a0b6ff22a65eaa15e8cc49858119383a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -109,7 +118,7 @@
         }
     ],
     "wof:id":404547321,
-    "wof:lastmodified":1636494668,
+    "wof:lastmodified":1695877878,
     "wof:name":"Gingin",
     "wof:parent_id":102049545,
     "wof:placetype":"localadmin",

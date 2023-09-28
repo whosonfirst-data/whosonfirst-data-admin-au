@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013428,
-    "geom:area_square_m":141799035.706102,
+    "geom:area_square_m":141799035.706116,
     "geom:bbox":"151.082154016,-31.4418460035,151.25816304,-31.2637640045",
     "geom:latitude":-31.349292,
     "geom:longitude":151.172235,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.34231,
     "lbl:longitude":151.180994,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Woolomin"
@@ -38,9 +44,12 @@
         102048785
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12564"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"c98df89e75dd6158594bc8a9fe6cd7f7",
+    "wof:geomhash":"f3e1d734ed66dab28449de4ad6d2841e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404227193,
-    "wof:lastmodified":1566601937,
+    "wof:lastmodified":1695877102,
     "wof:name":"Woolomin",
     "wof:parent_id":102048785,
     "wof:placetype":"localadmin",

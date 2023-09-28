@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000272,
-    "geom:area_square_m":2526506.75853,
+    "geom:area_square_m":2526506.758533,
     "geom:bbox":"146.539271008,-41.196331698,146.572983584,-41.1809810085",
     "geom:latitude":-41.188675,
     "geom:longitude":146.556652,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-41.18928,
     "lbl:longitude":146.558304,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Squeaking Point"
@@ -38,12 +44,15 @@
         102048629
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60349"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938287
     ],
     "wof:country":"AU",
-    "wof:geomhash":"e09ba4d76fec9b53f546dc2dd40dc690",
+    "wof:geomhash":"c62f0d6d16932904ccd0decb89de27e4",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404549455,
-    "wof:lastmodified":1566602849,
+    "wof:lastmodified":1695877625,
     "wof:name":"Squeaking Point",
     "wof:parent_id":102048629,
     "wof:placetype":"localadmin",

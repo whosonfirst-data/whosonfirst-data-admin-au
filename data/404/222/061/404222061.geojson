@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00647,
-    "geom:area_square_m":69018760.576715,
+    "geom:area_square_m":69018760.576774,
     "geom:bbox":"152.957249248,-30.4225121725,153.081990016,-30.333351774",
     "geom:latitude":-30.374899,
     "geom:longitude":153.017071,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-30.374388,
     "lbl:longitude":153.018004,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bonville"
@@ -38,9 +44,12 @@
         102048797
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10283"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"a8d8c60f43fbda03ed91ea66b5613e0b",
+    "wof:geomhash":"6edc206ad7f0a602c2a19423e9d7102d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404222061,
-    "wof:lastmodified":1566602802,
+    "wof:lastmodified":1695877593,
     "wof:name":"Bonville",
     "wof:parent_id":102048797,
     "wof:placetype":"localadmin",

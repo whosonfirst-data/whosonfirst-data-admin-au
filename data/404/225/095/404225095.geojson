@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033761,
-    "geom:area_square_m":351577738.329523,
+    "geom:area_square_m":351577738.329825,
     "geom:bbox":"150.95058016,-32.776870994,151.247804992,-32.483422995",
     "geom:latitude":-32.628988,
     "geom:longitude":151.103377,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.649577,
     "lbl:longitude":151.11792,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mount Thorley"
@@ -38,9 +44,12 @@
         102048757
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11631"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"b11d1db5b85345d1bf2748c4bd235a60",
+    "wof:geomhash":"dd0b460bad78ee37f5ed80fc47c2884f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404225095,
-    "wof:lastmodified":1566602724,
+    "wof:lastmodified":1695877544,
     "wof:name":"Mount Thorley",
     "wof:parent_id":102048757,
     "wof:placetype":"localadmin",

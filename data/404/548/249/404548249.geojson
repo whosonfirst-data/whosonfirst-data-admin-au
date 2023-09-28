@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015271,
-    "geom:area_square_m":154859520.210642,
+    "geom:area_square_m":154859520.210707,
     "geom:bbox":"117.189549984,-34.95929594,117.38561088,-34.8509413105",
     "geom:latitude":-34.905992,
     "geom:longitude":117.284826,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.903577,
     "lbl:longitude":117.282958,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Scotsdale"
@@ -38,9 +44,12 @@
         102048443
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50699"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"1b2b27bfc5e29b8b6ffe04fd26c5fa6f",
+    "wof:geomhash":"9c0af1c28c7cb1a89f975b81cfed0c30",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404548249,
-    "wof:lastmodified":1566603209,
+    "wof:lastmodified":1695877820,
     "wof:name":"Scotsdale",
     "wof:parent_id":102048443,
     "wof:placetype":"localadmin",

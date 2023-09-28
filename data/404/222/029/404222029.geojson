@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000641,
-    "geom:area_square_m":6675313.569407,
+    "geom:area_square_m":6675313.569393,
     "geom:bbox":"149.592214432,-32.5906209675,149.617972,-32.553126",
     "geom:latitude":-32.571883,
     "geom:longitude":149.605781,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.572564,
     "lbl:longitude":149.606823,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bombira"
@@ -38,12 +44,15 @@
         102049261
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10269"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101929637
     ],
     "wof:country":"AU",
-    "wof:geomhash":"9bfb65c7fb9d89425c6366dab6046f91",
+    "wof:geomhash":"1bbb06f78cc50c86f1b60c574751e95e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404222029,
-    "wof:lastmodified":1566602794,
+    "wof:lastmodified":1695877588,
     "wof:name":"Bombira",
     "wof:parent_id":102049261,
     "wof:placetype":"localadmin",

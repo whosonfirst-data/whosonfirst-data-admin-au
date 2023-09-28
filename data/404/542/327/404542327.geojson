@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000379,
-    "geom:area_square_m":4309474.812672,
+    "geom:area_square_m":4309474.812659,
     "geom:bbox":"150.4606928,-23.2696910055,150.48941,-23.2362129985",
     "geom:latitude":-23.250087,
     "geom:longitude":150.475392,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-23.24511,
     "lbl:longitude":150.47921,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Qlendeyl"
@@ -155,12 +161,15 @@
         102048825
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30660"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934453
     ],
     "wof:country":"AU",
-    "wof:geomhash":"425be8a2350b8c2a3405b6f40370f77e",
+    "wof:geomhash":"7cbfb475e01351ed050aea97e0b39cf0",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -172,7 +181,7 @@
         }
     ],
     "wof:id":404542327,
-    "wof:lastmodified":1566602311,
+    "wof:lastmodified":1695877301,
     "wof:name":"Glendale",
     "wof:parent_id":102048825,
     "wof:placetype":"localadmin",

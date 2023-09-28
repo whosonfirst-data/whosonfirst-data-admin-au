@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026472,
-    "geom:area_square_m":264551345.549056,
+    "geom:area_square_m":264551345.548992,
     "geom:bbox":"145.331795008,-36.1485829995,145.631816,-36.0137910005",
     "geom:latitude":-36.079857,
     "geom:longitude":145.475233,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.086146,
     "lbl:longitude":145.490208,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Numurkah"
@@ -53,9 +59,12 @@
         102048427
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21039"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"7932a0e4a95436991db81090372d2805",
+    "wof:geomhash":"96865d3c349eb1e4c68a104e214943c3",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -67,7 +76,7 @@
         }
     ],
     "wof:id":404539809,
-    "wof:lastmodified":1566602402,
+    "wof:lastmodified":1695877358,
     "wof:name":"Numurkah",
     "wof:parent_id":102048427,
     "wof:placetype":"localadmin",

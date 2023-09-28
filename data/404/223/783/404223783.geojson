@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01331,
-    "geom:area_square_m":135101136.132424,
+    "geom:area_square_m":135101136.132485,
     "geom:bbox":"149.70903,-34.905261991,149.864245984,-34.7325390165",
     "geom:latitude":-34.824229,
     "geom:longitude":149.792461,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.823423,
     "lbl:longitude":149.791218,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Gundary"
@@ -38,9 +44,12 @@
         102048827
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11048"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"6dadc28463c0ec6e2e2438c7c6af9380",
+    "wof:geomhash":"b0871f6e04ed19a32234bf95390f2d9d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404223783,
-    "wof:lastmodified":1566602527,
+    "wof:lastmodified":1695877429,
     "wof:name":"Gundary",
     "wof:parent_id":102048827,
     "wof:placetype":"localadmin",

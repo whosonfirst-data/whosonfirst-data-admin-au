@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008519,
-    "geom:area_square_m":98135201.833262,
+    "geom:area_square_m":98135201.832997,
     "geom:bbox":"148.854667008,-21.383395911,149.0046,-21.232311998",
     "geom:latitude":-21.30572,
     "geom:longitude":148.947807,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-21.303487,
     "lbl:longitude":148.946747,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Eton"
@@ -86,9 +92,12 @@
         102048783
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30579"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"bdc1589ac3fcbdd6f6ff590f4bb353da",
+    "wof:geomhash":"c47371d909c930f6dfd0bb7f88b6d777",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -100,7 +109,7 @@
         }
     ],
     "wof:id":404542151,
-    "wof:lastmodified":1566602266,
+    "wof:lastmodified":1695877272,
     "wof:name":"Eton",
     "wof:parent_id":102048783,
     "wof:placetype":"localadmin",

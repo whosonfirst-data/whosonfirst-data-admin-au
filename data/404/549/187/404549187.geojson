@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002343,
-    "geom:area_square_m":21796111.67082,
+    "geom:area_square_m":21796111.670833,
     "geom:bbox":"146.449318016,-41.2483829465,146.5186,-41.189711991",
     "geom:latitude":-41.21974,
     "geom:longitude":146.488241,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-41.220514,
     "lbl:longitude":146.485876,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041c\u043e\u0440\u0438\u0430\u0440\u0442\u0438"
@@ -74,9 +80,12 @@
         102048629
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60230"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"7bd3ddd723cd03f344cf4f9bb9957c92",
+    "wof:geomhash":"4be7ab6fcfeab4c2a3742ad6236e7aeb",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -88,7 +97,7 @@
         }
     ],
     "wof:id":404549187,
-    "wof:lastmodified":1566602854,
+    "wof:lastmodified":1695877628,
     "wof:name":"Moriarty",
     "wof:parent_id":102048629,
     "wof:placetype":"localadmin",

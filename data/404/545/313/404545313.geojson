@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002325,
-    "geom:area_square_m":23506837.080553,
+    "geom:area_square_m":23506837.080555,
     "geom:bbox":"138.780767008,-35.1802269915,138.848760992,-35.1186810065",
     "geom:latitude":-35.147624,
     "geom:longitude":138.812636,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.143947,
     "lbl:longitude":138.804687,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cym_x_preferred":[
         "Flaxley"
@@ -45,9 +51,12 @@
         102048895
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40206"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"5dd06800a542d3e6b12cccfac1f623b9",
+    "wof:geomhash":"a4520bac0a843a214c67f86835a6ad85",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -60,7 +69,7 @@
         }
     ],
     "wof:id":404545313,
-    "wof:lastmodified":1566602231,
+    "wof:lastmodified":1695877257,
     "wof:name":"Flaxley",
     "wof:parent_id":102048895,
     "wof:placetype":"localadmin",

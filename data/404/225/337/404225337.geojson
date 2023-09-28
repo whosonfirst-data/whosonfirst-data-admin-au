@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001249,
-    "geom:area_square_m":13336515.770426,
+    "geom:area_square_m":13336515.770451,
     "geom:bbox":"153.042568064,-30.326322329,153.103026656,-30.2960404375",
     "geom:latitude":-30.309978,
     "geom:longitude":153.070645,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-30.311378,
     "lbl:longitude":153.074223,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "North Boambee Valley"
@@ -38,9 +44,12 @@
         102048797
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11739"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"92fbaabad089700eb026d9c45c0087c3",
+    "wof:geomhash":"283f6cc07542141fc2a8bba5429e842f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404225337,
-    "wof:lastmodified":1566602663,
+    "wof:lastmodified":1695877509,
     "wof:name":"North Boambee Valley",
     "wof:parent_id":102048797,
     "wof:placetype":"localadmin",

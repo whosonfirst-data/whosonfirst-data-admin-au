@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000258,
-    "geom:area_square_m":2819100.160545,
+    "geom:area_square_m":2819100.16054,
     "geom:bbox":"117.838371,-28.072032,117.86312,-28.044398",
     "geom:latitude":-28.059105,
     "geom:longitude":117.851491,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.063607,
     "lbl:longitude":117.847185,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09ae\u09be\u0989\u09a8\u09cd\u099f \u09ae\u09cd\u09af\u09be\u0997\u09a8\u09c7\u099f"
@@ -86,12 +92,15 @@
         102049667
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50532"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937543
     ],
     "wof:country":"AU",
-    "wof:geomhash":"50ebb5d68ccf31137f7fd256c651ad89",
+    "wof:geomhash":"a9e56669dd6668a4f52efdee3869fa6c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -103,7 +112,7 @@
         }
     ],
     "wof:id":404547879,
-    "wof:lastmodified":1636494667,
+    "wof:lastmodified":1695877877,
     "wof:name":"Mount Magnet",
     "wof:parent_id":102049667,
     "wof:placetype":"localadmin",

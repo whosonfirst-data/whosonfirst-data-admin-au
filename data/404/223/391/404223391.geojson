@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001452,
-    "geom:area_square_m":14938251.985853,
+    "geom:area_square_m":14938251.985878,
     "geom:bbox":"150.520928608,-33.715963998,150.586754016,-33.6543000015",
     "geom:latitude":-33.685363,
     "geom:longitude":150.550992,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.682711,
     "lbl:longitude":150.54775,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Faulconbridge"
@@ -38,12 +44,15 @@
         102049627
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10874"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101930279
     ],
     "wof:country":"AU",
-    "wof:geomhash":"52c259c064f912b133549b8295b79eee",
+    "wof:geomhash":"c924a525779eec83691e0c4a5abb05ad",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404223391,
-    "wof:lastmodified":1566602489,
+    "wof:lastmodified":1695877407,
     "wof:name":"Faulconbridge",
     "wof:parent_id":102049627,
     "wof:placetype":"localadmin",

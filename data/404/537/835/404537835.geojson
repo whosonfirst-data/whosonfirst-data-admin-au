@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019505,
-    "geom:area_square_m":192571128.811737,
+    "geom:area_square_m":192571128.811736,
     "geom:bbox":"145.811991008,-37.1222119885,145.952782016,-36.9060689775",
     "geom:latitude":-37.017092,
     "geom:longitude":145.880888,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.03821,
     "lbl:longitude":145.86539,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bonnie Doon"
@@ -50,9 +56,12 @@
         102049455
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20154"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"d73e45ffcb98aca67a7747b2bbc3c156",
+    "wof:geomhash":"4b7add911917d644d0a41f0e65a44fba",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":404537835,
-    "wof:lastmodified":1566602329,
+    "wof:lastmodified":1695877312,
     "wof:name":"Bonnie Doon",
     "wof:parent_id":102049455,
     "wof:placetype":"localadmin",

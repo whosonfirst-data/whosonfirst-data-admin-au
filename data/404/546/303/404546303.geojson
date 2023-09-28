@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004583,
-    "geom:area_square_m":46693299.545457,
+    "geom:area_square_m":46693299.545451,
     "geom:bbox":"138.790452992,-34.570354715,138.881104,-34.468723004",
     "geom:latitude":-34.515139,
     "geom:longitude":138.84043,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.51388,
     "lbl:longitude":138.841094,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Shea-Oak Log"
@@ -38,9 +44,12 @@
         102049171
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40668"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"5fa6cf00367ad604097a608fa2696711",
+    "wof:geomhash":"c4f063a71edf01b413f757e671043e49",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404546303,
-    "wof:lastmodified":1566603131,
+    "wof:lastmodified":1695877782,
     "wof:name":"Shea-Oak Log",
     "wof:parent_id":102049171,
     "wof:placetype":"localadmin",

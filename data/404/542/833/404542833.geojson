@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019159,
-    "geom:area_square_m":226652714.604407,
+    "geom:area_square_m":226652714.604278,
     "geom:bbox":"145.452802016,-16.9986562435,145.663461696,-16.804295003",
     "geom:latitude":-16.912612,
     "geom:longitude":145.557737,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-16.946995,
     "lbl:longitude":145.585623,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Koah"
@@ -38,9 +44,12 @@
         102048519
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30896"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"9ff9f1739d5b274dc8aa5ce9e3333c50",
+    "wof:geomhash":"eb3870a5795c0716c088a8b25c000ac3",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404542833,
-    "wof:lastmodified":1566602280,
+    "wof:lastmodified":1695877282,
     "wof:name":"Koah",
     "wof:parent_id":102048519,
     "wof:placetype":"localadmin",

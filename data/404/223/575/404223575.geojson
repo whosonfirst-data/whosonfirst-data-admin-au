@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01849,
-    "geom:area_square_m":198548679.888782,
+    "geom:area_square_m":198548679.888349,
     "geom:bbox":"151.590172992,-29.8039630075,151.799162016,-29.633968006",
     "geom:latitude":-29.722794,
     "geom:longitude":151.688748,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-29.719816,
     "lbl:longitude":151.681591,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Glen Innes"
@@ -44,9 +50,12 @@
         102049413
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10956"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"027c3bb6d742ddd46b1a980c81bd48d5",
+    "wof:geomhash":"b4f3cbda50f0fd703730728ec748fcbd",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404223575,
-    "wof:lastmodified":1566602523,
+    "wof:lastmodified":1695877426,
     "wof:name":"Glen Innes",
     "wof:parent_id":102049413,
     "wof:placetype":"localadmin",

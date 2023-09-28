@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.531619,
-    "geom:area_square_m":16977286500.892876,
+    "geom:area_square_m":16977286917.386574,
     "geom:bbox":"145.252882,-27.075145,146.623207,-25.274165",
     "geom:latitude":-26.30429,
     "geom:longitude":145.889996,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-26.268679,
     "lbl:longitude":145.890646,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Charleville"
@@ -80,9 +86,12 @@
         102048755
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30352"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"612b102859b17dde2370c4db2b371894",
+    "wof:geomhash":"09fa2d1911ee8dc7a77bb7bae78c2171",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -94,7 +103,7 @@
         }
     ],
     "wof:id":404541683,
-    "wof:lastmodified":1636494676,
+    "wof:lastmodified":1695877883,
     "wof:name":"Charleville",
     "wof:parent_id":102048755,
     "wof:placetype":"localadmin",

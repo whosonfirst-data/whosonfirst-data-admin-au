@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013941,
-    "geom:area_square_m":139651748.058314,
+    "geom:area_square_m":139651748.058123,
     "geom:bbox":"144.07335792,-35.9494723835,144.251068992,-35.809936263",
     "geom:latitude":-35.893095,
     "geom:longitude":144.155429,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.912333,
     "lbl:longitude":144.148,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mcmillans"
@@ -38,9 +44,12 @@
         102049383
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20862"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"91938c55d0bf8f904f55b49c434b1c75",
+    "wof:geomhash":"247b6caef92142e61e26aa9c21af7003",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404539415,
-    "wof:lastmodified":1566602365,
+    "wof:lastmodified":1695877333,
     "wof:name":"Mcmillans",
     "wof:parent_id":102049383,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002266,
-    "geom:area_square_m":26142281.130617,
+    "geom:area_square_m":26142281.130619,
     "geom:bbox":"118.362901,-21.302169,119.752276,-20.637559",
     "geom:latitude":-21.082095,
     "geom:longitude":118.900614,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-21.286547,
     "lbl:longitude":118.388459,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Marble Bar"
@@ -31,19 +37,22 @@
     "qs:source":"Australian Bureau Of Statistics",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681439,
         102191583,
         85632793,
-        102048881,
         136253039,
-        85681439
+        102048881
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50468"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937461
     ],
     "wof:country":"AU",
-    "wof:geomhash":"9921ef74eab876daa1fda45f1bb806cc",
+    "wof:geomhash":"7a893b3806029dd4bb884b835b15bc84",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404547735,
-    "wof:lastmodified":1607989310,
+    "wof:lastmodified":1695877841,
     "wof:name":"Marble Bar",
     "wof:parent_id":102048881,
     "wof:placetype":"localadmin",

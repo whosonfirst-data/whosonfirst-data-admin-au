@@ -10,12 +10,18 @@
     "geom:latitude":-34.895226,
     "geom:longitude":138.497737,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.897077,
     "lbl:longitude":138.499389,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Grange"
@@ -66,12 +72,15 @@
         102049185
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40255"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101936083
     ],
     "wof:country":"AU",
-    "wof:geomhash":"45b6b13fd7ad1210239cc21ab2ce3b89",
+    "wof:geomhash":"59159bef5179740b9de947e2de673dfa",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -84,7 +93,7 @@
         }
     ],
     "wof:id":404545421,
-    "wof:lastmodified":1566602240,
+    "wof:lastmodified":1695877261,
     "wof:name":"Grange",
     "wof:parent_id":102049185,
     "wof:placetype":"localadmin",

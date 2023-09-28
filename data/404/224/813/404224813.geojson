@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003414,
-    "geom:area_square_m":36945369.545574,
+    "geom:area_square_m":36945369.545562,
     "geom:bbox":"153.375538656,-28.9706520045,153.461681376,-28.8819709965",
     "geom:latitude":-28.926593,
     "geom:longitude":153.413658,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.936292,
     "lbl:longitude":153.40289,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Meerschaum Vale"
@@ -38,9 +44,12 @@
         102049481
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11506"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"9fb2eda9227e1b0773b9ed803f8d5d56",
+    "wof:geomhash":"ab854fac88e0757346e1e05351fd1725",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404224813,
-    "wof:lastmodified":1566602629,
+    "wof:lastmodified":1695877491,
     "wof:name":"Meerschaum Vale",
     "wof:parent_id":102049481,
     "wof:placetype":"localadmin",

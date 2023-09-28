@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017398,
-    "geom:area_square_m":178829884.444382,
+    "geom:area_square_m":178829884.444348,
     "geom:bbox":"121.848588992,-33.839138811,122.086901984,-33.723612009",
     "geom:latitude":-33.773123,
     "geom:longitude":121.964767,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.776473,
     "lbl:longitude":121.962494,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Myrup"
@@ -38,9 +44,12 @@
         102049141
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50557"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"78bab61bb3b264d19abf85d506e7b694",
+    "wof:geomhash":"ad249398745bdaa97764cbfe3c78ac9d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404547935,
-    "wof:lastmodified":1566602951,
+    "wof:lastmodified":1695877689,
     "wof:name":"Myrup",
     "wof:parent_id":102049141,
     "wof:placetype":"localadmin",

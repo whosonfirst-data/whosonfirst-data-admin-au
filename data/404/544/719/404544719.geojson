@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008638,
-    "geom:area_square_m":95874835.795269,
+    "geom:area_square_m":95874835.795308,
     "geom:bbox":"152.747738112,-26.2192085355,152.936488416,-26.095202536",
     "geom:latitude":-26.160236,
     "geom:longitude":152.844842,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-26.150816,
     "lbl:longitude":152.85138,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Wolvi"
@@ -38,9 +44,12 @@
         102049393
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31790"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"286a67ca68199f6d64372326e1f1e3cb",
+    "wof:geomhash":"700b26f3357725a6224a727c90ef88aa",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404544719,
-    "wof:lastmodified":1566602202,
+    "wof:lastmodified":1695877245,
     "wof:name":"Wolvi",
     "wof:parent_id":102049393,
     "wof:placetype":"localadmin",

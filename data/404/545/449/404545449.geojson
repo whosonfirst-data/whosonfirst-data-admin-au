@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000083,
-    "geom:area_square_m":842821.30783,
+    "geom:area_square_m":842821.307839,
     "geom:bbox":"138.67612096,-34.363141025,138.689131616,-34.3510889225",
     "geom:latitude":-34.356785,
     "geom:longitude":138.68279,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.355681,
     "lbl:longitude":138.683235,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Hamley Bridge"
@@ -38,12 +44,15 @@
         102049309
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40270"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101936105
     ],
     "wof:country":"AU",
-    "wof:geomhash":"d56f0d6e5ba44b7c75905eff91402ad2",
+    "wof:geomhash":"34d28aedaa1f2f1a2a0cc6c48d1e400c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404545449,
-    "wof:lastmodified":1566602216,
+    "wof:lastmodified":1695877251,
     "wof:name":"Hamley Bridge",
     "wof:parent_id":102049309,
     "wof:placetype":"localadmin",

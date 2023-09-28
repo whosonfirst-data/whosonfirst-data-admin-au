@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018879,
-    "geom:area_square_m":200187994.90634,
+    "geom:area_square_m":200187994.906399,
     "geom:bbox":"152.702915008,-31.0489020075,152.916547008,-30.861853003",
     "geom:latitude":-30.958651,
     "geom:longitude":152.807301,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-30.97368,
     "lbl:longitude":152.800013,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Collombatti"
@@ -38,9 +44,12 @@
         102048527
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10563"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"a6d531f3352c60836427f721ff9f0213",
+    "wof:geomhash":"525b92b8b9c23adcd5a7b40f10a5e663",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404222691,
-    "wof:lastmodified":1566602804,
+    "wof:lastmodified":1695877594,
     "wof:name":"Collombatti",
     "wof:parent_id":102048527,
     "wof:placetype":"localadmin",

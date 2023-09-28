@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000278,
-    "geom:area_square_m":2597047.731508,
+    "geom:area_square_m":2597047.731507,
     "geom:bbox":"145.538980288,-40.9253478235,145.5650776,-40.9065543395",
     "geom:latitude":-40.917383,
     "geom:longitude":145.551248,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-40.91776,
     "lbl:longitude":145.550359,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Sisters Beach"
@@ -38,12 +44,15 @@
         102048983
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60332"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938273
     ],
     "wof:country":"AU",
-    "wof:geomhash":"1f6abad945abfce85ea9db8e38a1fc66",
+    "wof:geomhash":"87919af3f3be322e73cf836ad8187684",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404549417,
-    "wof:lastmodified":1566602877,
+    "wof:lastmodified":1695877641,
     "wof:name":"Sisters Beach",
     "wof:parent_id":102048983,
     "wof:placetype":"localadmin",

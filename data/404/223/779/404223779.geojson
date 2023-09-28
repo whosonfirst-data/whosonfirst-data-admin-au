@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000768,
-    "geom:area_square_m":7768639.537686,
+    "geom:area_square_m":7768639.537694,
     "geom:bbox":"148.084828384,-35.077530994,148.133276,-35.0455194635",
     "geom:latitude":-35.062277,
     "geom:longitude":148.109327,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.062944,
     "lbl:longitude":148.108959,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Gundagai"
@@ -53,12 +59,15 @@
         102049279
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11046"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101930565
     ],
     "wof:country":"AU",
-    "wof:geomhash":"df2b8c771bbbafe1dc2402e757c84c92",
+    "wof:geomhash":"470923cb7e96bb6e4b098e3f47137aa0",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -70,7 +79,7 @@
         }
     ],
     "wof:id":404223779,
-    "wof:lastmodified":1566602528,
+    "wof:lastmodified":1695877430,
     "wof:name":"Gundagai",
     "wof:parent_id":102049279,
     "wof:placetype":"localadmin",

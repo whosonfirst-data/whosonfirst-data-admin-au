@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000192,
-    "geom:area_square_m":1934397.637091,
+    "geom:area_square_m":1934397.6371,
     "geom:bbox":"149.027952992,-35.255241069,149.04558896,-35.239596211",
     "geom:latitude":-35.247065,
     "geom:longitude":149.036662,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.246903,
     "lbl:longitude":149.036662,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Hawker"
@@ -55,12 +61,15 @@
         85681493
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC80050"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938809
     ],
     "wof:country":"AU",
-    "wof:geomhash":"0f85aaa79f88c5191cb1e96f87faaec4",
+    "wof:geomhash":"19ad187d30422a22674c7a740c4da165",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -71,7 +80,7 @@
         }
     ],
     "wof:id":404550029,
-    "wof:lastmodified":1566601930,
+    "wof:lastmodified":1695877100,
     "wof:name":"Hawker",
     "wof:parent_id":85681493,
     "wof:placetype":"localadmin",

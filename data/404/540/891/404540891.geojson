@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014682,
-    "geom:area_square_m":141475810.964574,
+    "geom:area_square_m":141475810.964709,
     "geom:bbox":"146.074142176,-38.8728826395,146.279686496,-38.742258191",
     "geom:latitude":-38.805668,
     "geom:longitude":146.174564,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.792578,
     "lbl:longitude":146.164821,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Yanakie"
@@ -38,9 +44,12 @@
         102048701
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21523"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"1e1ab1ba3b54962f29e0ba07da29d103",
+    "wof:geomhash":"f950c0f589a9843964d34c2b91719389",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404540891,
-    "wof:lastmodified":1566603029,
+    "wof:lastmodified":1695877735,
     "wof:name":"Yanakie",
     "wof:parent_id":102048701,
     "wof:placetype":"localadmin",

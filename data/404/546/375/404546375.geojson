@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.064454,
-    "geom:area_square_m":652331039.033312,
+    "geom:area_square_m":652331039.033365,
     "geom:bbox":"139.304011008,-35.1969270525,139.62242448,-34.926861",
     "geom:latitude":-35.064857,
     "geom:longitude":139.467782,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.070275,
     "lbl:longitude":139.467643,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Sunnyside"
@@ -84,9 +90,12 @@
         102048515
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40702"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"ee44d38e18ae49612f9b87267c230e02",
+    "wof:geomhash":"6e282953474687672384c2eec27e99b6",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -99,7 +108,7 @@
         }
     ],
     "wof:id":404546375,
-    "wof:lastmodified":1566603155,
+    "wof:lastmodified":1695877792,
     "wof:name":"Sunnyside",
     "wof:parent_id":102048515,
     "wof:placetype":"localadmin",

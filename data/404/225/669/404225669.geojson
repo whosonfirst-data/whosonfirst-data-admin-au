@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000288,
-    "geom:area_square_m":2959256.240022,
+    "geom:area_square_m":2959256.240032,
     "geom:bbox":"150.825524,-33.7604622145,150.847248864,-33.7437634485",
     "geom:latitude":-33.75184,
     "geom:longitude":150.83686,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.751577,
     "lbl:longitude":150.836863,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Plumpton"
@@ -57,12 +63,15 @@
         102048555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11886"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931605
     ],
     "wof:country":"AU",
-    "wof:geomhash":"24cb67c93a265fd69ab572128d4cc47c",
+    "wof:geomhash":"50f7b33eadbe9f47e7f21c812c1a039b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -75,7 +84,7 @@
         }
     ],
     "wof:id":404225669,
-    "wof:lastmodified":1566602683,
+    "wof:lastmodified":1695877521,
     "wof:name":"Plumpton",
     "wof:parent_id":102048555,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000319,
-    "geom:area_square_m":3499980.732635,
+    "geom:area_square_m":3499980.73264,
     "geom:bbox":"152.944466816,-27.408758998,152.965168992,-27.380351508",
     "geom:latitude":-27.39199,
     "geom:longitude":152.954396,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.390659,
     "lbl:longitude":152.953379,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Arana Hills"
@@ -39,12 +45,15 @@
         102049131
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30049"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101933815
     ],
     "wof:country":"AU",
-    "wof:geomhash":"af198ad4b84d8b3277da059cd64ab16c",
+    "wof:geomhash":"a3406cb2e00c6f5a565532b8c54cf874",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404541037,
-    "wof:lastmodified":1566603063,
+    "wof:lastmodified":1695877751,
     "wof:name":"Arana Hills",
     "wof:parent_id":102049131,
     "wof:placetype":"localadmin",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000399,
-    "geom:area_square_m":3899476.549186,
+    "geom:area_square_m":3899397.593108,
     "geom:bbox":"145.039435,-37.800792,145.065037,-37.779854",
     "geom:latitude":-37.790443,
     "geom:longitude":145.052776,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.791885,
     "lbl:longitude":145.052537,
     "lbl:max_zoom":18.0,
@@ -64,10 +70,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC20704",
         "gn:id":2161539,
         "qs_pg:id":275532,
         "wd:id":"Q6397892"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101933119
     ],
@@ -75,7 +83,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3ca6d1cbe83e86ce4f1e5d1769fcedef",
+    "wof:geomhash":"b13b61f675c16a8b927498278bc613d0",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -88,7 +96,7 @@
         }
     ],
     "wof:id":404539061,
-    "wof:lastmodified":1690853566,
+    "wof:lastmodified":1695878053,
     "wof:name":"Kew East",
     "wof:parent_id":102049207,
     "wof:placetype":"localadmin",

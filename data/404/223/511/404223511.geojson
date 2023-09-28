@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031617,
-    "geom:area_square_m":327521582.987588,
+    "geom:area_square_m":327521582.987474,
     "geom:bbox":"148.486566624,-33.177356996,148.814368992,-33.0126410065",
     "geom:latitude":-33.095548,
     "geom:longitude":148.635621,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.097834,
     "lbl:longitude":148.622343,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0635\u062f"
@@ -98,9 +104,12 @@
         102048769
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10927"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"562f30daf68651b1622b7a4ec933acdc",
+    "wof:geomhash":"4da335f3abfc85c9f956bae8d3aba45f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -112,7 +121,7 @@
         }
     ],
     "wof:id":404223511,
-    "wof:lastmodified":1566602527,
+    "wof:lastmodified":1695877429,
     "wof:name":"Garra",
     "wof:parent_id":102048769,
     "wof:placetype":"localadmin",

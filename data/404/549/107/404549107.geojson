@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016891,
-    "geom:area_square_m":156004565.403678,
+    "geom:area_square_m":156004565.40364,
     "geom:bbox":"146.710083616,-41.7398103975,146.974888,-41.6066069935",
     "geom:latitude":-41.674888,
     "geom:longitude":146.856543,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-41.67685,
     "lbl:longitude":146.844261,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Liffey"
@@ -38,9 +44,12 @@
         102048535
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60195"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"2f1d74c0680eafb6563f272026c0e6e5",
+    "wof:geomhash":"dfd9d2076c831049268a4d0268dd559e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404549107,
-    "wof:lastmodified":1566602867,
+    "wof:lastmodified":1695877637,
     "wof:name":"Liffey",
     "wof:parent_id":102048535,
     "wof:placetype":"localadmin",

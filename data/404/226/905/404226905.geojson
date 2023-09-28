@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000059,
-    "geom:area_square_m":607771.972988,
+    "geom:area_square_m":607771.580191,
     "geom:bbox":"151.276337,-33.84733,151.287145,-33.832516",
     "geom:latitude":-33.840692,
     "geom:longitude":151.281816,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.840115,
     "lbl:longitude":151.281814,
     "lbl:max_zoom":18.0,
@@ -94,13 +100,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC12436",
         "wd:id":"Q1002650"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932261
     ],
     "wof:country":"AU",
-    "wof:geomhash":"69151e7544f3962ba4358e0c633baf36",
+    "wof:geomhash":"035ed96c9d2b6d05c81154d50174d9b6",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -113,7 +121,7 @@
         }
     ],
     "wof:id":404226905,
-    "wof:lastmodified":1690853434,
+    "wof:lastmodified":1695877910,
     "wof:name":"Watsons Bay",
     "wof:parent_id":102049633,
     "wof:placetype":"localadmin",

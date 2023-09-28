@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.546901,
-    "geom:area_square_m":6330193050.943563,
+    "geom:area_square_m":6330193050.943996,
     "geom:bbox":"146.156751712,-21.170001371,147.145386976,-20.065599989",
     "geom:latitude":-20.597021,
     "geom:longitude":146.617506,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-20.592943,
     "lbl:longitude":146.665788,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Seventy Mile"
@@ -38,9 +44,12 @@
         102048989
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31467"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"066c48871108ad6a0bb586ff918bc24b",
+    "wof:geomhash":"a04581b5079a11cd2a454e82bd4e55c4",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404544037,
-    "wof:lastmodified":1566602169,
+    "wof:lastmodified":1695877227,
     "wof:name":"Seventy Mile",
     "wof:parent_id":102048989,
     "wof:placetype":"localadmin",

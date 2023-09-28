@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000198,
-    "geom:area_square_m":2015526.00525,
+    "geom:area_square_m":2015526.005251,
     "geom:bbox":"138.677441504,-34.695090003,138.696450112,-34.6746757525",
     "geom:latitude":-34.684638,
     "geom:longitude":138.686746,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.684778,
     "lbl:longitude":138.686601,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Smithfield"
@@ -105,12 +111,15 @@
         102049603
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40672"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101936615
     ],
     "wof:country":"AU",
-    "wof:geomhash":"7edb6856774ed225182786f4fef0ae9d",
+    "wof:geomhash":"b8796a759f9d7608e2d9931b258d92ac",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -123,7 +132,7 @@
         }
     ],
     "wof:id":404546311,
-    "wof:lastmodified":1566603149,
+    "wof:lastmodified":1695877789,
     "wof:name":"Smithfield",
     "wof:parent_id":102049603,
     "wof:placetype":"localadmin",

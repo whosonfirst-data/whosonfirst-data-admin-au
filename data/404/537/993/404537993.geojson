@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000132,
-    "geom:area_square_m":1292527.1352,
+    "geom:area_square_m":1292527.135206,
     "geom:bbox":"145.696616832,-37.4298284345,145.715451744,-37.4149519925",
     "geom:latitude":-37.422093,
     "geom:longitude":145.706991,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.423165,
     "lbl:longitude":145.707905,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0628\u0648\u06a9\u0633\u062a\u0648\u0646"
@@ -104,12 +110,15 @@
         102048737
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20225"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932685
     ],
     "wof:country":"AU",
-    "wof:geomhash":"c69f6a23d08f2ab59a867492fa9cdc69",
+    "wof:geomhash":"4c81f1170d30b1d2f757ca6920d5d8f6",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -121,7 +130,7 @@
         }
     ],
     "wof:id":404537993,
-    "wof:lastmodified":1566602337,
+    "wof:lastmodified":1695877317,
     "wof:name":"Buxton",
     "wof:parent_id":102048737,
     "wof:placetype":"localadmin",

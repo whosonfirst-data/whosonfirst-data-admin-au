@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015785,
-    "geom:area_square_m":186059752.512369,
+    "geom:area_square_m":186059752.512418,
     "geom:bbox":"145.535573152,-17.6788169945,145.726528,-17.5221800105",
     "geom:latitude":-17.586786,
     "geom:longitude":145.633055,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-17.583933,
     "lbl:longitude":145.631604,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Beatrice"
@@ -89,9 +95,12 @@
         102048519
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30124"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"d03549ba6f2afd6e269ad33b8fc93e92",
+    "wof:geomhash":"944a2e34631731575c7a58ed72b7be74",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -103,7 +112,7 @@
         }
     ],
     "wof:id":404541201,
-    "wof:lastmodified":1566603091,
+    "wof:lastmodified":1695877766,
     "wof:name":"Beatrice",
     "wof:parent_id":102048519,
     "wof:placetype":"localadmin",

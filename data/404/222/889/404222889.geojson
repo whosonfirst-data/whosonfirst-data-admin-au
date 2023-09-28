@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00025,
-    "geom:area_square_m":2565346.041186,
+    "geom:area_square_m":2565346.041193,
     "geom:bbox":"151.088973312,-33.903676505,151.117123584,-33.8909602525",
     "geom:latitude":-33.897181,
     "geom:longitude":151.103118,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.897001,
     "lbl:longitude":151.104528,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Croydon Park"
@@ -42,12 +48,15 @@
         102049409
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10651"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101930027
     ],
     "wof:country":"AU",
-    "wof:geomhash":"2e1b889d0464226711e8fbe235b81d5f",
+    "wof:geomhash":"ff523b63a5853b7e5aeafd3963451a39",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -60,7 +69,7 @@
         }
     ],
     "wof:id":404222889,
-    "wof:lastmodified":1566602755,
+    "wof:lastmodified":1695877563,
     "wof:name":"Croydon Park",
     "wof:parent_id":102049409,
     "wof:placetype":"localadmin",

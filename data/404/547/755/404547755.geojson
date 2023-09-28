@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00222,
-    "geom:area_square_m":22841982.83642,
+    "geom:area_square_m":22841982.836405,
     "geom:bbox":"115.18312176,-33.6909258205,115.247694592,-33.642574646",
     "geom:latitude":-33.669107,
     "geom:longitude":115.210064,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.670988,
     "lbl:longitude":115.20685,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Marybrook"
@@ -39,9 +45,12 @@
         102048623
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50477"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"f421c9061f2f46a540ccb71e56600353",
+    "wof:geomhash":"64c998a3958c9ff86bd0cf421275c4b0",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":404547755,
-    "wof:lastmodified":1566602919,
+    "wof:lastmodified":1695877672,
     "wof:name":"Marybrook",
     "wof:parent_id":102048623,
     "wof:placetype":"localadmin",

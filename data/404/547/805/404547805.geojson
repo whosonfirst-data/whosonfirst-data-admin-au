@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000129,
-    "geom:area_square_m":1488985.653061,
+    "geom:area_square_m":1488985.653062,
     "geom:bbox":"116.809443008,-20.747274669,116.825611328,-20.736552328",
     "geom:latitude":-20.741676,
     "geom:longitude":116.817313,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-20.741794,
     "lbl:longitude":116.817313,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Millars Well"
@@ -38,12 +44,15 @@
         102048511
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50499"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937499
     ],
     "wof:country":"AU",
-    "wof:geomhash":"5a7d81f98e3de8da1e6e0ef849d125ae",
+    "wof:geomhash":"f0fa8a3840cc4657f8888173c6323a95",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404547805,
-    "wof:lastmodified":1566602941,
+    "wof:lastmodified":1695877683,
     "wof:name":"Millars Well",
     "wof:parent_id":102048511,
     "wof:placetype":"localadmin",

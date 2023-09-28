@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00323,
-    "geom:area_square_m":32631207.212961,
+    "geom:area_square_m":32631207.212985,
     "geom:bbox":"143.412527232,-35.258532996,143.527351552,-35.189006888",
     "geom:latitude":-35.223767,
     "geom:longitude":143.472711,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.237226,
     "lbl:longitude":143.495497,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Beverford"
@@ -38,9 +44,12 @@
         102049167
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20131"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"575689827e7f9c306547404876140c79",
+    "wof:geomhash":"0ec84f624b5cd026eae5089d30845e23",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404537785,
-    "wof:lastmodified":1566602332,
+    "wof:lastmodified":1695877314,
     "wof:name":"Beverford",
     "wof:parent_id":102049167,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001514,
-    "geom:area_square_m":14671307.179662,
+    "geom:area_square_m":14671307.179699,
     "geom:bbox":"144.783627008,-38.4102906945,144.841909984,-38.3627531685",
     "geom:latitude":-38.382178,
     "geom:longitude":144.809929,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.381596,
     "lbl:longitude":144.802241,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Rog"
@@ -359,12 +365,15 @@
         102048695
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21176"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101933479
     ],
     "wof:country":"AU",
-    "wof:geomhash":"a12bf15076c23bf35129d7cb1f78f3d2",
+    "wof:geomhash":"8b5c7fc19d4498aa52bb5a2c9cdf5f4f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -376,7 +385,7 @@
         }
     ],
     "wof:id":404540115,
-    "wof:lastmodified":1566603035,
+    "wof:lastmodified":1695877738,
     "wof:name":"Rye",
     "wof:parent_id":102048695,
     "wof:placetype":"localadmin",

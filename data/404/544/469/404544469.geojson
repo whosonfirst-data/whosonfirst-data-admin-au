@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00418,
-    "geom:area_square_m":46325365.810361,
+    "geom:area_square_m":46325365.810341,
     "geom:bbox":"152.71238016,-26.376254018,152.799525216,-26.295265976",
     "geom:latitude":-26.334848,
     "geom:longitude":152.756818,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-26.340894,
     "lbl:longitude":152.747279,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Traveston"
@@ -44,9 +50,12 @@
         102049393
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31668"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"499922a5b44db68f2626ac00fc168422",
+    "wof:geomhash":"f0c741bd250533dc56f132d8db844298",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404544469,
-    "wof:lastmodified":1566602193,
+    "wof:lastmodified":1695877240,
     "wof:name":"Traveston",
     "wof:parent_id":102049393,
     "wof:placetype":"localadmin",

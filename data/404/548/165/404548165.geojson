@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000212,
-    "geom:area_square_m":2177629.544411,
+    "geom:area_square_m":2177629.544405,
     "geom:bbox":"114.984345824,-33.985805997,115.004148992,-33.9690106425",
     "geom:latitude":-33.978444,
     "geom:longitude":114.994854,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.978221,
     "lbl:longitude":114.994666,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Prevelly"
@@ -38,12 +44,15 @@
         102048475
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50662"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937703
     ],
     "wof:country":"AU",
-    "wof:geomhash":"a6acd68ff0f921fa63ef57e2797010e5",
+    "wof:geomhash":"cda3db503796385d1678d474c9ec3136",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404548165,
-    "wof:lastmodified":1566603197,
+    "wof:lastmodified":1695877814,
     "wof:name":"Prevelly",
     "wof:parent_id":102048475,
     "wof:placetype":"localadmin",

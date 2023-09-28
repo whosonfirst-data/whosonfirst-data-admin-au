@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002029,
-    "geom:area_square_m":19734066.233571,
+    "geom:area_square_m":19734066.233554,
     "geom:bbox":"145.109504576,-38.176899005,145.173388992,-38.124856914",
     "geom:latitude":-38.14819,
     "geom:longitude":145.145704,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.148005,
     "lbl:longitude":145.146311,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Frankston"
@@ -66,12 +72,15 @@
         102048609
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20502"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932955
     ],
     "wof:country":"AU",
-    "wof:geomhash":"1d9acaad30844d27024e3fa199dde94c",
+    "wof:geomhash":"14228c497e8fb07ff3f6ba4618eff60c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -84,7 +93,7 @@
         }
     ],
     "wof:id":404538609,
-    "wof:lastmodified":1566602478,
+    "wof:lastmodified":1695877400,
     "wof:name":"Frankston",
     "wof:parent_id":102048609,
     "wof:placetype":"localadmin",

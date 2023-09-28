@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.080099,
-    "geom:area_square_m":834830958.677501,
+    "geom:area_square_m":834830958.677236,
     "geom:bbox":"147.931074976,-32.692103994,148.420784512,-32.3935874945",
     "geom:latitude":-32.553389,
     "geom:longitude":148.215582,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.58404,
     "lbl:longitude":148.219184,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tomingley"
@@ -38,9 +44,12 @@
         102048743
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12290"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"b8f03a954c57438ddbd05b5895730acc",
+    "wof:geomhash":"cce32616735e4b476f552b129bfbfdcf",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404226577,
-    "wof:lastmodified":1566602087,
+    "wof:lastmodified":1695877185,
     "wof:name":"Tomingley",
     "wof:parent_id":102048743,
     "wof:placetype":"localadmin",

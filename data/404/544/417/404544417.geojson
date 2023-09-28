@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003001,
-    "geom:area_square_m":33624865.696466,
+    "geom:area_square_m":33624865.696415,
     "geom:bbox":"151.902138016,-25.058052983,151.978855008,-24.980515006",
     "geom:latitude":-25.021381,
     "geom:longitude":151.945458,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-25.018848,
     "lbl:longitude":151.945441,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tirroan"
@@ -38,9 +44,12 @@
         102048763
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31643"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"d1f5aa60ed221cf8881cf330c9dc73a3",
+    "wof:geomhash":"59559e7846e93cd21799e1742d0d616c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404544417,
-    "wof:lastmodified":1566602186,
+    "wof:lastmodified":1695877237,
     "wof:name":"Tirroan",
     "wof:parent_id":102048763,
     "wof:placetype":"localadmin",

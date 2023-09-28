@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006146,
-    "geom:area_square_m":65562406.478843,
+    "geom:area_square_m":65562406.478909,
     "geom:bbox":"152.825178016,-30.442393993,152.94135296,-30.327431663",
     "geom:latitude":-30.38223,
     "geom:longitude":152.885855,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-30.374455,
     "lbl:longitude":152.890677,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Gleniffer"
@@ -41,9 +47,12 @@
         102048545
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10967"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"aa67c70416e76071e673d4240c91fc52",
+    "wof:geomhash":"a4b6aa34fd81d6d7f6c1b5659a1dff86",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404223601,
-    "wof:lastmodified":1566602555,
+    "wof:lastmodified":1695877449,
     "wof:name":"Gleniffer",
     "wof:parent_id":102048545,
     "wof:placetype":"localadmin",

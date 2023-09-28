@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000829,
-    "geom:area_square_m":9108134.646151,
+    "geom:area_square_m":9108134.646152,
     "geom:bbox":"152.910934688,-27.354025971,152.961104384,-27.3278249945",
     "geom:latitude":-27.339984,
     "geom:longitude":152.936959,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.339181,
     "lbl:longitude":152.934934,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Eatons Hill"
@@ -39,12 +45,15 @@
         102049131
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30546"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934361
     ],
     "wof:country":"AU",
-    "wof:geomhash":"3db12a1b45a400f8062c90a2425dcb7b",
+    "wof:geomhash":"8b7e9fdad6c9c4f8ff3ca64985af6699",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404542079,
-    "wof:lastmodified":1566602269,
+    "wof:lastmodified":1695877274,
     "wof:name":"Eatons Hill",
     "wof:parent_id":102049131,
     "wof:placetype":"localadmin",

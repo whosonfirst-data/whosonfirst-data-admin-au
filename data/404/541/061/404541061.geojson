@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000242,
-    "geom:area_square_m":2652849.443763,
+    "geom:area_square_m":2652849.443771,
     "geom:bbox":"153.046658368,-27.43676859,153.079725856,-27.423077036",
     "geom:latitude":-27.429911,
     "geom:longitude":153.064906,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.430681,
     "lbl:longitude":153.066535,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Ascot"
@@ -81,12 +87,15 @@
         102049495
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30060"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101933827
     ],
     "wof:country":"AU",
-    "wof:geomhash":"39b70df78d8823e0c7102e4a69c1d7f4",
+    "wof:geomhash":"dd1cadbd08073279a3b41da73dfa818a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -99,7 +108,7 @@
         }
     ],
     "wof:id":404541061,
-    "wof:lastmodified":1566603090,
+    "wof:lastmodified":1695877765,
     "wof:name":"Ascot",
     "wof:parent_id":102049495,
     "wof:placetype":"localadmin",

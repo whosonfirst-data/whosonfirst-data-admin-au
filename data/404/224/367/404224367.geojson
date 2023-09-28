@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000709,
-    "geom:area_square_m":7682759.860116,
+    "geom:area_square_m":7682759.860081,
     "geom:bbox":"153.290888,-28.8083389985,153.333020992,-28.779057994",
     "geom:latitude":-28.792725,
     "geom:longitude":153.31477,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.790693,
     "lbl:longitude":153.31796,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lagoon Grass"
@@ -38,12 +44,15 @@
         102049635
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11308"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101930961
     ],
     "wof:country":"AU",
-    "wof:geomhash":"8f5da4d15a10e28c8a63980dc64ca9ba",
+    "wof:geomhash":"b9dc5e2892be9a5bc589ed4fbd40287b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404224367,
-    "wof:lastmodified":1566602616,
+    "wof:lastmodified":1695877484,
     "wof:name":"Lagoon Grass",
     "wof:parent_id":102049635,
     "wof:placetype":"localadmin",

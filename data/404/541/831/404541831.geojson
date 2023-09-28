@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002271,
-    "geom:area_square_m":25793669.062366,
+    "geom:area_square_m":25793669.062331,
     "geom:bbox":"150.688818016,-23.3485779655,150.762548896,-23.272229964",
     "geom:latitude":-23.307342,
     "geom:longitude":150.729596,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-23.312126,
     "lbl:longitude":150.733221,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Coowonga"
@@ -38,9 +44,12 @@
         102048825
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30424"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"107d00ee6a58a454f50186354083f717",
+    "wof:geomhash":"77e0d775a3a787f6c34b96150d10259b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404541831,
-    "wof:lastmodified":1566603088,
+    "wof:lastmodified":1695877765,
     "wof:name":"Coowonga",
     "wof:parent_id":102048825,
     "wof:placetype":"localadmin",

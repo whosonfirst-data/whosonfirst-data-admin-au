@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.061501,
-    "geom:area_square_m":731695383.46599,
+    "geom:area_square_m":731695383.466256,
     "geom:bbox":"145.07291,-15.9955779,145.458843136,-15.6358510055",
     "geom:latitude":-15.813694,
     "geom:longitude":145.245388,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-15.814805,
     "lbl:longitude":145.26029,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Bloomfield"
@@ -110,9 +116,12 @@
         102049375
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30181"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"8e9949f965afa815348e8ac9b37acb7d",
+    "wof:geomhash":"12dfa6fb27f61466a9b7db2c0ab375b4",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -124,7 +133,7 @@
         }
     ],
     "wof:id":404541323,
-    "wof:lastmodified":1566603067,
+    "wof:lastmodified":1695877753,
     "wof:name":"Bloomfield",
     "wof:parent_id":102049375,
     "wof:placetype":"localadmin",

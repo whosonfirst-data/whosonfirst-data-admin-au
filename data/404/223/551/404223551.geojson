@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016585,
-    "geom:area_square_m":167219298.208912,
+    "geom:area_square_m":167219298.20892,
     "geom:bbox":"148.084523008,-35.515603002,148.224846016,-35.2645819965",
     "geom:latitude":-35.373721,
     "geom:longitude":148.161442,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.36479,
     "lbl:longitude":148.154508,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Gilmore"
@@ -86,9 +92,12 @@
         102049445
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10945"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"49694870cd17b0b83eb6f63450381fdf",
+    "wof:geomhash":"1fcc350edd2a4b228f917a3939cb1ba3",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -100,7 +109,7 @@
         }
     ],
     "wof:id":404223551,
-    "wof:lastmodified":1566602487,
+    "wof:lastmodified":1695877406,
     "wof:name":"Gilmore",
     "wof:parent_id":102049445,
     "wof:placetype":"localadmin",

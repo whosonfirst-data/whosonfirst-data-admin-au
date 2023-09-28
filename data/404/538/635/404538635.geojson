@@ -10,6 +10,12 @@
     "geom:latitude":-37.898126,
     "geom:longitude":145.009128,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.898241,
     "lbl:longitude":145.009132,
     "lbl:max_zoom":18.0,
@@ -55,13 +61,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC20513",
         "wd:id":"Q583980"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932961
     ],
     "wof:country":"AU",
-    "wof:geomhash":"4d6c4879762e8912c2f2c27541704763",
+    "wof:geomhash":"af930e797146bef73eb1744c0e7ec354",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -74,7 +82,7 @@
         }
     ],
     "wof:id":404538635,
-    "wof:lastmodified":1566602445,
+    "wof:lastmodified":1695877957,
     "wof:name":"Gardenvale",
     "wof:parent_id":102048479,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000165,
-    "geom:area_square_m":1847148.023435,
+    "geom:area_square_m":1847148.023427,
     "geom:bbox":"152.84619216,-25.29607698,152.861524096,-25.281555812",
     "geom:latitude":-25.289095,
     "geom:longitude":152.853822,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-25.289206,
     "lbl:longitude":152.853816,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Scarness"
@@ -38,12 +44,15 @@
         102049435
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31459"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935279
     ],
     "wof:country":"AU",
-    "wof:geomhash":"0a66a2041f5e50190742a83aa61d1a89",
+    "wof:geomhash":"bb113e9e64e943cceae162a17e3d43a7",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404544025,
-    "wof:lastmodified":1566602159,
+    "wof:lastmodified":1695877221,
     "wof:name":"Scarness",
     "wof:parent_id":102049435,
     "wof:placetype":"localadmin",

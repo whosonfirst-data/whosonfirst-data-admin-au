@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000143,
-    "geom:area_square_m":1385700.603343,
+    "geom:area_square_m":1385700.603347,
     "geom:bbox":"145.099996992,-38.4018879575,145.148859008,-38.388798486",
     "geom:latitude":-38.395256,
     "geom:longitude":145.115591,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.398742,
     "lbl:longitude":145.105039,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Balnarring Beach"
@@ -38,12 +44,15 @@
         102048695
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20065"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932537
     ],
     "wof:country":"AU",
-    "wof:geomhash":"5aa5d8851c8d12e3f6f7c7a4fd42d671",
+    "wof:geomhash":"0ae9be1a46ac18aace0d71b6c4f98274",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404537637,
-    "wof:lastmodified":1566602342,
+    "wof:lastmodified":1695877319,
     "wof:name":"Balnarring Beach",
     "wof:parent_id":102048695,
     "wof:placetype":"localadmin",

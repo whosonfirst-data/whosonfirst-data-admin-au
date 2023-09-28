@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000968,
-    "geom:area_square_m":10163940.360439,
+    "geom:area_square_m":10163940.360413,
     "geom:bbox":"115.893450272,-31.933679252,115.93872688,-31.894749628",
     "geom:latitude":-31.916859,
     "geom:longitude":115.917761,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.918961,
     "lbl:longitude":115.9181,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u0632\u0648\u0648\u062a\u0631"
@@ -99,12 +105,15 @@
         102048907
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50045"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101936877
     ],
     "wof:country":"AU",
-    "wof:geomhash":"3f4d956236ec276920b07b3fc29a6f0d",
+    "wof:geomhash":"df21eaf594c02f0d8e67dbf66ac0380a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -117,7 +126,7 @@
         }
     ],
     "wof:id":404546789,
-    "wof:lastmodified":1566603153,
+    "wof:lastmodified":1695877791,
     "wof:name":"Bayswater",
     "wof:parent_id":102048907,
     "wof:placetype":"localadmin",

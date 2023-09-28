@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010982,
-    "geom:area_square_m":106021824.905711,
+    "geom:area_square_m":106021824.905524,
     "geom:bbox":"146.134763008,-38.7476080025,146.286047008,-38.6040879995",
     "geom:latitude":-38.670529,
     "geom:longitude":146.204448,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.66556,
     "lbl:longitude":146.199253,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0641\u0648\u0633\u062a\u0631"
@@ -107,9 +113,12 @@
         102048701
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20500"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"402446f5409614364127128205e92da7",
+    "wof:geomhash":"a512209ca197d54df04a30f19e1c9e43",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -121,7 +130,7 @@
         }
     ],
     "wof:id":404538605,
-    "wof:lastmodified":1566602441,
+    "wof:lastmodified":1695877381,
     "wof:name":"Foster",
     "wof:parent_id":102048701,
     "wof:placetype":"localadmin",

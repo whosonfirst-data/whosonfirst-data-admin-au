@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000936,
-    "geom:area_square_m":9663700.918029,
+    "geom:area_square_m":9663700.918016,
     "geom:bbox":"151.377530304,-33.428257992,151.43250672,-33.382390276",
     "geom:latitude":-33.403976,
     "geom:longitude":151.405207,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.403725,
     "lbl:longitude":151.405195,
     "lbl:max_zoom":18.0,
@@ -57,13 +63,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC11121",
         "wd:id":"Q14934833"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101930731
     ],
     "wof:country":"AU",
-    "wof:geomhash":"dcb93b66407e8dc2f0c447ab21530707",
+    "wof:geomhash":"b86cd4ecb8b3d7ac1503dcf0a8d02394",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -75,7 +83,7 @@
         }
     ],
     "wof:id":404223947,
-    "wof:lastmodified":1566602526,
+    "wof:lastmodified":1695877967,
     "wof:name":"Holgate",
     "wof:parent_id":102048513,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005001,
-    "geom:area_square_m":51165778.787782,
+    "geom:area_square_m":51165747.212614,
     "geom:bbox":"150.532043,-34.218298,150.640061,-34.132794",
     "geom:latitude":-34.168077,
     "geom:longitude":150.594012,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.159701,
     "lbl:longitude":150.603728,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u0643\u062a\u0648\u0646"
@@ -113,9 +119,12 @@
         102048943
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11875"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"ec5543b96c154daf78a3089cf5393844",
+    "wof:geomhash":"04618753b08cef8b62fbafa09f78d95d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -127,7 +136,7 @@
         }
     ],
     "wof:id":404225643,
-    "wof:lastmodified":1636494650,
+    "wof:lastmodified":1695877866,
     "wof:name":"Picton",
     "wof:parent_id":102048943,
     "wof:placetype":"localadmin",

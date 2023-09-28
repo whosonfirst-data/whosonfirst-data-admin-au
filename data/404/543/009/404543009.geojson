@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.055261,
-    "geom:area_square_m":648889328.603413,
+    "geom:area_square_m":648889328.602825,
     "geom:bbox":"145.683071616,-18.4074571805,146.079571456,-18.021885009",
     "geom:latitude":-18.264292,
     "geom:longitude":145.858045,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-18.346769,
     "lbl:longitude":145.871744,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Lumholtz"
@@ -41,9 +47,12 @@
         102049237
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30976"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"3b64c3a512f2d891f23b938b294a100f",
+    "wof:geomhash":"d992c1bf8f119ccb9dad22d586f99568",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404543009,
-    "wof:lastmodified":1566602108,
+    "wof:lastmodified":1695877195,
     "wof:name":"Lumholtz",
     "wof:parent_id":102049237,
     "wof:placetype":"localadmin",

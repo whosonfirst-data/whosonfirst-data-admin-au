@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002686,
-    "geom:area_square_m":29477427.866893,
+    "geom:area_square_m":29477427.86689,
     "geom:bbox":"152.335304992,-27.4518320485,152.414132,-27.3993390015",
     "geom:latitude":-27.425903,
     "geom:longitude":152.369843,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.426698,
     "lbl:longitude":152.370593,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Churchable"
@@ -38,9 +44,12 @@
         102049033
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30364"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"4e6b3b384fa8d5cd0ccc3093f75be622",
+    "wof:geomhash":"253ef48c228edf34bdadd7f0c77a2df8",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404541703,
-    "wof:lastmodified":1566603076,
+    "wof:lastmodified":1695877758,
     "wof:name":"Churchable",
     "wof:parent_id":102049033,
     "wof:placetype":"localadmin",

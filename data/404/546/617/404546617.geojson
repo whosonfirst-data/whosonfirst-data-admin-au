@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035986,
-    "geom:area_square_m":373044791.792831,
+    "geom:area_square_m":373044791.792884,
     "geom:bbox":"138.104778016,-33.1037040005,138.4395408,-32.9400169995",
     "geom:latitude":-33.034676,
     "geom:longitude":138.285815,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.040313,
     "lbl:longitude":138.285841,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Wirrabara"
@@ -38,9 +44,12 @@
         102049059
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40813"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"3424f7303fe88764e75d3996148a4321",
+    "wof:geomhash":"ff50556ba72c5fc3ad4ff262595ced32",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404546617,
-    "wof:lastmodified":1566603110,
+    "wof:lastmodified":1695877773,
     "wof:name":"Wirrabara",
     "wof:parent_id":102049059,
     "wof:placetype":"localadmin",

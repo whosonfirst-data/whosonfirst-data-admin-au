@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006121,
-    "geom:area_square_m":62199252.388867,
+    "geom:area_square_m":62199252.388807,
     "geom:bbox":"150.59704,-34.7673680045,150.75424768,-34.6822809915",
     "geom:latitude":-34.728962,
     "geom:longitude":150.683519,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.738332,
     "lbl:longitude":150.708506,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Broughton Vale"
@@ -38,9 +44,12 @@
         102049405
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10357"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"9d96cf19be7d24595eb1caa72f08ed4d",
+    "wof:geomhash":"c1cd870c718017272fa89077e622f11d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404222227,
-    "wof:lastmodified":1566602753,
+    "wof:lastmodified":1695877561,
     "wof:name":"Broughton Vale",
     "wof:parent_id":102049405,
     "wof:placetype":"localadmin",

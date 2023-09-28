@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000163,
-    "geom:area_square_m":1638866.735683,
+    "geom:area_square_m":1638866.735695,
     "geom:bbox":"138.31881696,-35.4358080065,138.333618496,-35.4087681105",
     "geom:latitude":-35.425426,
     "geom:longitude":138.327018,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.426856,
     "lbl:longitude":138.326289,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Carrickalinga"
@@ -41,12 +47,15 @@
         102049429
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40096"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935843
     ],
     "wof:country":"AU",
-    "wof:geomhash":"96a8355f9b88510043ec2a32803db64a",
+    "wof:geomhash":"2c56035e43398f2ff90eb202e59d1aad",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404545067,
-    "wof:lastmodified":1566602250,
+    "wof:lastmodified":1695877265,
     "wof:name":"Carrickalinga",
     "wof:parent_id":102049429,
     "wof:placetype":"localadmin",

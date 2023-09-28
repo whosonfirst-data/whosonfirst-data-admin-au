@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.64786,
-    "geom:area_square_m":6556918745.154203,
+    "geom:area_square_m":6556918745.154335,
     "geom:bbox":"144.048617568,-35.4149794115,145.59836432,-34.7403372475",
     "geom:latitude":-35.065012,
     "geom:longitude":144.862257,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.102066,
     "lbl:longitude":145.017187,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Conargo"
@@ -56,9 +62,12 @@
         102049049
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10573"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"30f3b17b8e9876ca4162e3a7223a6b63",
+    "wof:geomhash":"701b235ebc6946ef3306ca4e35914dd0",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -70,7 +79,7 @@
         }
     ],
     "wof:id":404222713,
-    "wof:lastmodified":1566602773,
+    "wof:lastmodified":1695877575,
     "wof:name":"Conargo",
     "wof:parent_id":102049049,
     "wof:placetype":"localadmin",

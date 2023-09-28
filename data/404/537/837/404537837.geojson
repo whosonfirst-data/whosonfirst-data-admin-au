@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000346,
-    "geom:area_square_m":3391325.116667,
+    "geom:area_square_m":3391325.116668,
     "geom:bbox":"143.80303968,-37.613850025,143.826914528,-37.5936503745",
     "geom:latitude":-37.60312,
     "geom:longitude":143.814288,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.603313,
     "lbl:longitude":143.813312,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bonshaw"
@@ -41,12 +47,15 @@
         102049037
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20155"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932627
     ],
     "wof:country":"AU",
-    "wof:geomhash":"2fe39e1a9e50e48281bc4cf35289c3b8",
+    "wof:geomhash":"94694e48489ba9fb71f6d2746f27b5fb",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404537837,
-    "wof:lastmodified":1566602344,
+    "wof:lastmodified":1695877321,
     "wof:name":"Bonshaw",
     "wof:parent_id":102049037,
     "wof:placetype":"localadmin",

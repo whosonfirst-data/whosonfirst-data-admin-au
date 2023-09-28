@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.089994,
-    "geom:area_square_m":962210914.26356,
+    "geom:area_square_m":962210914.263003,
     "geom:bbox":"150.073885504,-30.323103995,150.520194016,-29.9786068555",
     "geom:latitude":-30.153143,
     "geom:longitude":150.30468,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-30.144148,
     "lbl:longitude":150.308914,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Upper Horton"
@@ -38,9 +44,12 @@
         102049247
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12350"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"83dc8d7a3f9feef1a8ad57f317df3b90",
+    "wof:geomhash":"fb906133f146bcca2fb009bfabea7b2b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404226713,
-    "wof:lastmodified":1566602043,
+    "wof:lastmodified":1695877157,
     "wof:name":"Upper Horton",
     "wof:parent_id":102049247,
     "wof:placetype":"localadmin",

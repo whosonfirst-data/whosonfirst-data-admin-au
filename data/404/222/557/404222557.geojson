@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003658,
-    "geom:area_square_m":38432166.297479,
+    "geom:area_square_m":38432166.29749,
     "geom:bbox":"152.341648928,-31.8486270005,152.430881088,-31.777396025",
     "geom:latitude":-31.812175,
     "geom:longitude":152.391931,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.811164,
     "lbl:longitude":152.396317,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Cedar Party"
@@ -38,9 +44,12 @@
         102048833
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10503"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"62578ad3c9feb670d856b4164f070a14",
+    "wof:geomhash":"bb892605da904b92d70836efdf23f4dc",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404222557,
-    "wof:lastmodified":1566602749,
+    "wof:lastmodified":1695877559,
     "wof:name":"Cedar Party",
     "wof:parent_id":102048833,
     "wof:placetype":"localadmin",

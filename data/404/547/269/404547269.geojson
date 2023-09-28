@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002602,
-    "geom:area_square_m":27641962.27802,
+    "geom:area_square_m":27641962.278018,
     "geom:bbox":"121.486392672,-30.8055072385,121.562737536,-30.7402957375",
     "geom:latitude":-30.77053,
     "geom:longitude":121.5207,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-30.770683,
     "lbl:longitude":121.521312,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Fimiston"
@@ -38,12 +44,15 @@
         102049523
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50261"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937171
     ],
     "wof:country":"AU",
-    "wof:geomhash":"0a13905d0dffc6e90b9cc20b7945944a",
+    "wof:geomhash":"20d5522b88adf7dc416585f872a13dfb",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404547269,
-    "wof:lastmodified":1566602939,
+    "wof:lastmodified":1695877682,
     "wof:name":"Fimiston",
     "wof:parent_id":102049523,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02966,
-    "geom:area_square_m":327241562.995765,
+    "geom:area_square_m":327241562.995843,
     "geom:bbox":"151.699648992,-26.947919558,151.948439008,-26.726099008",
     "geom:latitude":-26.841547,
     "geom:longitude":151.819476,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-26.842565,
     "lbl:longitude":151.828037,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Maidenwell"
@@ -38,9 +44,12 @@
         102048861
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30995"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"1ea8fd2c351d0f23cf851f4af0093f2a",
+    "wof:geomhash":"2012f065160604b0fed577b112468f3a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404543045,
-    "wof:lastmodified":1566602127,
+    "wof:lastmodified":1695877206,
     "wof:name":"Maidenwell",
     "wof:parent_id":102048861,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000453,
-    "geom:area_square_m":4970593.451614,
+    "geom:area_square_m":4970593.451606,
     "geom:bbox":"153.063507968,-27.4789990025,153.089632864,-27.4455324655",
     "geom:latitude":-27.4628,
     "geom:longitude":153.075804,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.468038,
     "lbl:longitude":153.071677,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Morningside"
@@ -69,12 +75,15 @@
         102049495
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31105"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934887
     ],
     "wof:country":"AU",
-    "wof:geomhash":"734d9a7470b8a56b45b0ac7b5c37ea2e",
+    "wof:geomhash":"db029d0c6556033597fb4ce032400b75",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -87,7 +96,7 @@
         }
     ],
     "wof:id":404543267,
-    "wof:lastmodified":1566602109,
+    "wof:lastmodified":1695877196,
     "wof:name":"Morningside",
     "wof:parent_id":102049495,
     "wof:placetype":"localadmin",

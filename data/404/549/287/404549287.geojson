@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004913,
-    "geom:area_square_m":45754903.745233,
+    "geom:area_square_m":45754903.745426,
     "geom:bbox":"146.005605216,-41.178044004,146.120312992,-41.0964912865",
     "geom:latitude":-41.137503,
     "geom:longitude":146.054763,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-41.137252,
     "lbl:longitude":146.055609,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Pikkewyn"
@@ -386,9 +392,12 @@
         102049415
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60275"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"4473105696cec7850ad4293227f5f826",
+    "wof:geomhash":"801f0a412df0bb69c3374b247545be73",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -400,7 +409,7 @@
         }
     ],
     "wof:id":404549287,
-    "wof:lastmodified":1566602836,
+    "wof:lastmodified":1695877617,
     "wof:name":"Penguin",
     "wof:parent_id":102049415,
     "wof:placetype":"localadmin",

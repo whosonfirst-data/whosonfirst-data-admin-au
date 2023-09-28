@@ -10,12 +10,18 @@
     "geom:latitude":-41.302114,
     "geom:longitude":146.966583,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-41.303382,
     "lbl:longitude":146.966945,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Blackwall"
@@ -59,12 +65,15 @@
         102049419
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60031"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938031
     ],
     "wof:country":"AU",
-    "wof:geomhash":"09c7b51bc399ecbe52b23ed88ac575a7",
+    "wof:geomhash":"6dcabbcac6d38d823c7d7d90836e6f22",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -76,7 +85,7 @@
         }
     ],
     "wof:id":404548739,
-    "wof:lastmodified":1566603160,
+    "wof:lastmodified":1695877794,
     "wof:name":"Blackwall",
     "wof:parent_id":102049419,
     "wof:placetype":"localadmin",

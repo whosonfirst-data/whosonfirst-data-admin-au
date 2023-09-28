@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.051818,
-    "geom:area_square_m":509049801.804348,
+    "geom:area_square_m":509049172.271265,
     "geom:bbox":"140.610048,-37.465839,140.973872,-37.321835",
     "geom:latitude":-37.394202,
     "geom:longitude":140.791513,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.39417,
     "lbl:longitude":140.791669,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09aa\u09c7\u09a8\u09cb\u09b2\u09be"
@@ -83,9 +89,12 @@
         102048639
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40567"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"3633926f19b50b7efb73ef02ae525141",
+    "wof:geomhash":"0d26549b246722271316f0cad66083c3",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -97,7 +106,7 @@
         }
     ],
     "wof:id":404546091,
-    "wof:lastmodified":1636494679,
+    "wof:lastmodified":1695877884,
     "wof:name":"Penola",
     "wof:parent_id":102048639,
     "wof:placetype":"localadmin",

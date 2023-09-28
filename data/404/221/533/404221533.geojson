@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000165,
-    "geom:area_square_m":1687783.031584,
+    "geom:area_square_m":1687783.031585,
     "geom:bbox":"146.883943744,-34.363138916,146.907490688,-34.3464421665",
     "geom:latitude":-34.355281,
     "geom:longitude":146.898257,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.355492,
     "lbl:longitude":146.89825,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ardlethan"
@@ -53,12 +59,15 @@
         102049103
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10048"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101929397
     ],
     "wof:country":"AU",
-    "wof:geomhash":"46b2c302299f7935337fe143c66b7d81",
+    "wof:geomhash":"9ccf4d4278b8e6cf43a49a159161a246",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -70,7 +79,7 @@
         }
     ],
     "wof:id":404221533,
-    "wof:lastmodified":1566601965,
+    "wof:lastmodified":1695877117,
     "wof:name":"Ardlethan",
     "wof:parent_id":102049103,
     "wof:placetype":"localadmin",

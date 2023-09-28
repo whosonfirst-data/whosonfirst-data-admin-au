@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010379,
-    "geom:area_square_m":104741137.477787,
+    "geom:area_square_m":104741137.477728,
     "geom:bbox":"149.552198016,-35.3804250005,149.665540992,-35.194191994",
     "geom:latitude":-35.29822,
     "geom:longitude":149.608801,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.29782,
     "lbl:longitude":149.603209,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mulloon"
@@ -38,9 +44,12 @@
         102049385
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11647"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"4f627be44376f3a24cfe25dae1a625f6",
+    "wof:geomhash":"22b1a34f56c6feba1e5377dc65a7518b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404225131,
-    "wof:lastmodified":1566602702,
+    "wof:lastmodified":1695877529,
     "wof:name":"Mulloon",
     "wof:parent_id":102049385,
     "wof:placetype":"localadmin",

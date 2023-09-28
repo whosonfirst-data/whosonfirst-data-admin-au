@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003967,
-    "geom:area_square_m":38957612.830951,
+    "geom:area_square_m":38957612.830987,
     "geom:bbox":"144.514082336,-37.465168189,144.60826896,-37.382147219",
     "geom:latitude":-37.428476,
     "geom:longitude":144.555869,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.430675,
     "lbl:longitude":144.551269,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Macedon"
@@ -38,9 +44,12 @@
         102048977
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20821"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"245a2fffa935be018528eeea2858f472",
+    "wof:geomhash":"83c9334648cbc23b909fa9ae1f4a2715",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404539323,
-    "wof:lastmodified":1566602377,
+    "wof:lastmodified":1695877340,
     "wof:name":"Macedon",
     "wof:parent_id":102048977,
     "wof:placetype":"localadmin",

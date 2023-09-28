@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018136,
-    "geom:area_square_m":213493317.497618,
+    "geom:area_square_m":213493317.497644,
     "geom:bbox":"122.19796992,-17.9003854635,122.499643808,-17.7139957805",
     "geom:latitude":-17.825085,
     "geom:longitude":122.281793,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-17.816158,
     "lbl:longitude":122.241843,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Waterbank"
@@ -38,9 +44,12 @@
         102048717
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50811"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"aa7d65436a97fa9184c439da0d13820a",
+    "wof:geomhash":"501a44df6ebb74c3f59ff7e3be78df20",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404548499,
-    "wof:lastmodified":1566603181,
+    "wof:lastmodified":1695877806,
     "wof:name":"Waterbank",
     "wof:parent_id":102048717,
     "wof:placetype":"localadmin",

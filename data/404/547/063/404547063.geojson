@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.180672,
-    "geom:area_square_m":1856572873.536489,
+    "geom:area_square_m":1856572873.536508,
     "geom:bbox":"121.850094336,-34.47470361,122.731585984,-33.519083002",
     "geom:latitude":-33.794602,
     "geom:longitude":122.383727,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.76407,
     "lbl:longitude":122.48444,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Condingup"
@@ -38,9 +44,12 @@
         102049141
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50167"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"1b090a8acea07db2b444eb3485202267",
+    "wof:geomhash":"78fcab80346b37ce97751dc4b8d77712",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404547063,
-    "wof:lastmodified":1566602939,
+    "wof:lastmodified":1695877681,
     "wof:name":"Condingup",
     "wof:parent_id":102049141,
     "wof:placetype":"localadmin",

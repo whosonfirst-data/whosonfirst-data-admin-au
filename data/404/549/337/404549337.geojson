@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014183,
-    "geom:area_square_m":131416286.630884,
+    "geom:area_square_m":131416286.630934,
     "geom:bbox":"146.651096,-41.5489189985,146.801642016,-41.3896300025",
     "geom:latitude":-41.465722,
     "geom:longitude":146.729328,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-41.4613,
     "lbl:longitude":146.723305,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Reedy Marsh"
@@ -38,9 +44,12 @@
         102048535
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60297"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"d64c135522a5cc0fc3624330ded0445e",
+    "wof:geomhash":"64cf69ab53d5adf8b0d3987f47c3482f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404549337,
-    "wof:lastmodified":1566602826,
+    "wof:lastmodified":1695877609,
     "wof:name":"Reedy Marsh",
     "wof:parent_id":102048535,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032035,
-    "geom:area_square_m":326348370.445357,
+    "geom:area_square_m":326348370.445725,
     "geom:bbox":"148.80696912,-34.6516399965,149.031358816,-34.4179440005",
     "geom:latitude":-34.526133,
     "geom:longitude":148.914997,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.524714,
     "lbl:longitude":148.912779,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Rye Park"
@@ -38,9 +44,12 @@
         102048445
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12024"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"fba9e93a1ce6010b7a38c6e171d49ec3",
+    "wof:geomhash":"4406677cb6e66ee23a8327a0bf568514",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404225979,
-    "wof:lastmodified":1566602691,
+    "wof:lastmodified":1695877525,
     "wof:name":"Rye Park",
     "wof:parent_id":102048445,
     "wof:placetype":"localadmin",

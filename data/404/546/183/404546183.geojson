@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000082,
-    "geom:area_square_m":834806.448197,
+    "geom:area_square_m":834786.254051,
     "geom:bbox":"138.502951,-34.869801,138.518867,-34.853707",
     "geom:latitude":-34.860909,
     "geom:longitude":138.510481,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.859353,
     "lbl:longitude":138.509035,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u064a\u0646\u0632\u062a\u0627\u0648\u0646"
@@ -148,12 +154,15 @@
         102048839
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40609"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101936513
     ],
     "wof:country":"AU",
-    "wof:geomhash":"5039e53ff3fd53eb80c299e1264f4995",
+    "wof:geomhash":"1ebf89e65458ded2089f2dc1e249add9",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -166,7 +175,7 @@
         }
     ],
     "wof:id":404546183,
-    "wof:lastmodified":1636494682,
+    "wof:lastmodified":1695877886,
     "wof:name":"Queenstown",
     "wof:parent_id":102048839,
     "wof:placetype":"localadmin",

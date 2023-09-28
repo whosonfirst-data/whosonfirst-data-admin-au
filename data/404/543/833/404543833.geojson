@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001088,
-    "geom:area_square_m":12543027.523181,
+    "geom:area_square_m":12543027.523186,
     "geom:bbox":"149.124080992,-21.196716,149.154676416,-21.143071994",
     "geom:latitude":-21.169355,
     "geom:longitude":149.138567,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-21.154031,
     "lbl:longitude":149.140386,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Racecourse"
@@ -38,12 +44,15 @@
         102048783
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31368"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935173
     ],
     "wof:country":"AU",
-    "wof:geomhash":"66cf90d1651adc6f43c85f8b71cbf872",
+    "wof:geomhash":"b93da67858d15fc81a838401d1140abe",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404543833,
-    "wof:lastmodified":1566602111,
+    "wof:lastmodified":1695877197,
     "wof:name":"Racecourse",
     "wof:parent_id":102048783,
     "wof:placetype":"localadmin",

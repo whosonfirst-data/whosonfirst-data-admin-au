@@ -10,6 +10,12 @@
     "geom:latitude":-30.732799,
     "geom:longitude":121.493208,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-30.733205,
     "lbl:longitude":121.492572,
     "lbl:max_zoom":18.0,
@@ -45,13 +51,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC50625",
         "wd:id":"Q7138454"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937653
     ],
     "wof:country":"AU",
-    "wof:geomhash":"4cc93a7dff80bbee290ba0cb9d90e8ba",
+    "wof:geomhash":"3aa3fbd3b2f96374807ffb48d4dc2a95",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -63,7 +71,7 @@
         }
     ],
     "wof:id":404548087,
-    "wof:lastmodified":1566603205,
+    "wof:lastmodified":1695878050,
     "wof:name":"Parkeston",
     "wof:parent_id":102049523,
     "wof:placetype":"localadmin",

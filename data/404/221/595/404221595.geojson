@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000484,
-    "geom:area_square_m":4931505.073769,
+    "geom:area_square_m":4931505.073772,
     "geom:bbox":"150.48337712,-34.4373240085,150.524264992,-34.4139169575",
     "geom:latitude":-34.426017,
     "geom:longitude":150.504388,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.426121,
     "lbl:longitude":150.504383,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Aylmerton"
@@ -57,9 +63,12 @@
         102048539
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10076"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"80c3cf5db48f6f12523efb0073cc2281",
+    "wof:geomhash":"562f1aa046ae565a22cab2111a3d5507",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -72,7 +81,7 @@
         }
     ],
     "wof:id":404221595,
-    "wof:lastmodified":1566601966,
+    "wof:lastmodified":1695877117,
     "wof:name":"Aylmerton",
     "wof:parent_id":102048539,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.100485,
-    "geom:area_square_m":1047347183.786395,
+    "geom:area_square_m":1047347183.785406,
     "geom:bbox":"149.809706336,-32.8188819965,150.32058512,-32.3031120605",
     "geom:latitude":-32.549587,
     "geom:longitude":150.069846,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.48309,
     "lbl:longitude":150.111682,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Breakfast Creek"
@@ -41,9 +47,12 @@
         102049261
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10328"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"ae82b4fef0b9aa218de3fdcd32f1fc79",
+    "wof:geomhash":"55e31b772cc854b2bc72b22a88834d33",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404222163,
-    "wof:lastmodified":1566602786,
+    "wof:lastmodified":1695877583,
     "wof:name":"Breakfast Creek",
     "wof:parent_id":102049261,
     "wof:placetype":"localadmin",

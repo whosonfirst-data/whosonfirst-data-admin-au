@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002476,
-    "geom:area_square_m":26940872.206973,
+    "geom:area_square_m":26940872.206997,
     "geom:bbox":"153.449780992,-28.3878009945,153.525,-28.332020997",
     "geom:latitude":-28.360564,
     "geom:longitude":153.487129,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.365552,
     "lbl:longitude":153.484049,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Reserve Creek"
@@ -38,9 +44,12 @@
         102048589
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11965"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"65ef69bc65185306d5c2465486183e9b",
+    "wof:geomhash":"91c6ea47bfecf27d6471be630c89f766",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404225845,
-    "wof:lastmodified":1566602670,
+    "wof:lastmodified":1695877514,
     "wof:name":"Reserve Creek",
     "wof:parent_id":102048589,
     "wof:placetype":"localadmin",

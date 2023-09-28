@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02132,
-    "geom:area_square_m":197185561.419218,
+    "geom:area_square_m":197185561.419202,
     "geom:bbox":"148.04755,-41.674072997,148.26923,-41.5099930005",
     "geom:latitude":-41.586166,
     "geom:longitude":148.15544,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-41.579069,
     "lbl:longitude":148.144366,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "St Marys"
@@ -41,9 +47,12 @@
         102049669
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60352"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"41e4d68409ea4e25bf567cd341e6015c",
+    "wof:geomhash":"4230aa88bca3ca414b245d982488ec45",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404549461,
-    "wof:lastmodified":1566602905,
+    "wof:lastmodified":1695877664,
     "wof:name":"St Marys",
     "wof:parent_id":102049669,
     "wof:placetype":"localadmin",

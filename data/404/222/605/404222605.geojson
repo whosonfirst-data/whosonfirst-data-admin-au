@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000042,
-    "geom:area_square_m":439036.819045,
+    "geom:area_square_m":439036.819046,
     "geom:bbox":"151.625998592,-32.767499708,151.634422016,-32.7598240025",
     "geom:latitude":-32.763945,
     "geom:longitude":151.630611,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.764146,
     "lbl:longitude":151.63069,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Chisholm"
@@ -72,12 +78,15 @@
         102048483
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10525"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101929909
     ],
     "wof:country":"AU",
-    "wof:geomhash":"2aedbae7ad7520f94f3f7e79ea71181b",
+    "wof:geomhash":"c685819d6259a14a6e3208eeee9e9f3d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -90,7 +99,7 @@
         }
     ],
     "wof:id":404222605,
-    "wof:lastmodified":1566602764,
+    "wof:lastmodified":1695877570,
     "wof:name":"Chisholm",
     "wof:parent_id":102048483,
     "wof:placetype":"localadmin",

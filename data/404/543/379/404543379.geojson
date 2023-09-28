@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028171,
-    "geom:area_square_m":325225696.789514,
+    "geom:area_square_m":325225696.789777,
     "geom:bbox":"148.58020512,-21.0797174675,148.855050016,-20.889431999",
     "geom:latitude":-20.990706,
     "geom:longitude":148.716998,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-20.99501,
     "lbl:longitude":148.71492,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mount Pelion"
@@ -38,9 +44,12 @@
         102048783
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31156"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"73dd305d4d8325a6d800eadd2525526a",
+    "wof:geomhash":"e9ea8a05f0260fb061508a8d90c202fe",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404543379,
-    "wof:lastmodified":1566602112,
+    "wof:lastmodified":1695877198,
     "wof:name":"Mount Pelion",
     "wof:parent_id":102048783,
     "wof:placetype":"localadmin",

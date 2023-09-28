@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01963,
-    "geom:area_square_m":191347749.412223,
+    "geom:area_square_m":191347749.412249,
     "geom:bbox":"147.03277584,-38.0639520095,147.200154016,-37.8654359465",
     "geom:latitude":-37.971343,
     "geom:longitude":147.105563,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.971738,
     "lbl:longitude":147.098805,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Stratford"
@@ -128,9 +134,12 @@
         102049585
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21266"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"5187fac66e436ca61a8febd54b585d2e",
+    "wof:geomhash":"54e005e81511143417818e20e99d0032",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -142,7 +151,7 @@
         }
     ],
     "wof:id":404540317,
-    "wof:lastmodified":1566603037,
+    "wof:lastmodified":1695877740,
     "wof:name":"Stratford",
     "wof:parent_id":102049585,
     "wof:placetype":"localadmin",

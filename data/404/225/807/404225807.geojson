@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000494,
-    "geom:area_square_m":5125704.240146,
+    "geom:area_square_m":5125704.240118,
     "geom:bbox":"151.559054016,-33.0526087025,151.600043168,-33.029164596",
     "geom:latitude":-33.040087,
     "geom:longitude":151.577535,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.038227,
     "lbl:longitude":151.572123,
     "lbl:max_zoom":18.0,
@@ -76,13 +82,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC11948",
         "wd:id":"Q7295660"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931689
     ],
     "wof:country":"AU",
-    "wof:geomhash":"3eb09e415ee83f947b3d8f01489e61ce",
+    "wof:geomhash":"73fa9aa89cd02c6188227a400181a653",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -95,7 +103,7 @@
         }
     ],
     "wof:id":404225807,
-    "wof:lastmodified":1566602722,
+    "wof:lastmodified":1695877993,
     "wof:name":"Rathmines",
     "wof:parent_id":102048999,
     "wof:placetype":"localadmin",

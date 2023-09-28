@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.081248,
-    "geom:area_square_m":857380576.353941,
+    "geom:area_square_m":857380576.354444,
     "geom:bbox":"152.061895264,-31.619285997,152.49974,-31.186284913",
     "geom:latitude":-31.414643,
     "geom:longitude":152.262609,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.417166,
     "lbl:longitude":152.229394,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ellenborough"
@@ -44,9 +50,12 @@
         102049203
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10810"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"3e10335a8d27f3042d6f29b70330ebb8",
+    "wof:geomhash":"8afe6ef4a4d42d3e3b86708d637e4b21",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404223247,
-    "wof:lastmodified":1566602546,
+    "wof:lastmodified":1695877442,
     "wof:name":"Ellenborough",
     "wof:parent_id":102049203,
     "wof:placetype":"localadmin",

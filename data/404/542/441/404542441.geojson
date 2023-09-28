@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.04097,
-    "geom:area_square_m":482606301.670513,
+    "geom:area_square_m":482606301.670775,
     "geom:bbox":"145.64072,-17.8517213615,145.98533,-17.5796826355",
     "geom:latitude":-17.706627,
     "geom:longitude":145.815623,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-17.683871,
     "lbl:longitude":145.801395,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Gulngai"
@@ -38,9 +44,12 @@
         102049237
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30713"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"4c4ff1be3a0f36ce5c3d56065d57c80c",
+    "wof:geomhash":"fd6ddc623aa684fb2d9c24eb531d2bf6",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404542441,
-    "wof:lastmodified":1566602272,
+    "wof:lastmodified":1695877276,
     "wof:name":"Gulngai",
     "wof:parent_id":102049237,
     "wof:placetype":"localadmin",

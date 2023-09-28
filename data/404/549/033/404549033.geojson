@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000438,
-    "geom:area_square_m":3961636.009744,
+    "geom:area_square_m":3961636.009752,
     "geom:bbox":"147.284924384,-43.034191073,147.319858016,-43.0050213275",
     "geom:latitude":-43.020458,
     "geom:longitude":147.299111,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-43.018323,
     "lbl:longitude":147.297918,
     "lbl:max_zoom":18.0,
@@ -90,13 +96,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC60162",
         "wd:id":"Q5921421"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938129
     ],
     "wof:country":"AU",
-    "wof:geomhash":"e9d35a56411fd1613041422766a01779",
+    "wof:geomhash":"48ec7023256ac65506f7beec70fa198e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -108,7 +116,7 @@
         }
     ],
     "wof:id":404549033,
-    "wof:lastmodified":1566602903,
+    "wof:lastmodified":1695878012,
     "wof:name":"Howden",
     "wof:parent_id":102048889,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011617,
-    "geom:area_square_m":118375881.544997,
+    "geom:area_square_m":118375881.545056,
     "geom:bbox":"135.787858016,-34.5681808355,136.034950208,-34.4772743885",
     "geom:latitude":-34.505878,
     "geom:longitude":135.899787,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.51342,
     "lbl:longitude":135.901649,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Louth Bay"
@@ -38,9 +44,12 @@
         102049451
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40378"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"f89769613f700ca5f012c2476f4b2361",
+    "wof:geomhash":"03978345351b41d4dfc89e0e88469586",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404545681,
-    "wof:lastmodified":1566602215,
+    "wof:lastmodified":1695877250,
     "wof:name":"Louth Bay",
     "wof:parent_id":102049451,
     "wof:placetype":"localadmin",

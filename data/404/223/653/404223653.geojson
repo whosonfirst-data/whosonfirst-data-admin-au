@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.343302,
-    "geom:area_square_m":3704156970.057411,
+    "geom:area_square_m":3704156970.057793,
     "geom:bbox":"147.04038,-29.622434995,147.945490432,-28.9990549435",
     "geom:latitude":-29.237961,
     "geom:longitude":147.44074,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-29.216666,
     "lbl:longitude":147.432062,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Goodooga"
@@ -38,9 +44,12 @@
         102049213
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10990"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"9f8b964719a186e90b86cff10bc796dd",
+    "wof:geomhash":"7a4aa4c9f54d1d015819fb058c79059c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404223653,
-    "wof:lastmodified":1566602556,
+    "wof:lastmodified":1695877450,
     "wof:name":"Goodooga",
     "wof:parent_id":102049213,
     "wof:placetype":"localadmin",

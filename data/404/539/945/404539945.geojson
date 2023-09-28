@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017721,
-    "geom:area_square_m":175491782.047702,
+    "geom:area_square_m":175491782.047812,
     "geom:bbox":"146.847272,-36.884216167,147.015067456,-36.677181039",
     "geom:latitude":-36.786629,
     "geom:longitude":146.935766,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.840567,
     "lbl:longitude":146.958818,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Porepunkah"
@@ -53,9 +59,12 @@
         102049467
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21100"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"d3666b073cc4f0bd61f3cc2c666099a1",
+    "wof:geomhash":"48a9285a3bb958c8dd09e08b04638045",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -67,7 +76,7 @@
         }
     ],
     "wof:id":404539945,
-    "wof:lastmodified":1566602416,
+    "wof:lastmodified":1695877368,
     "wof:name":"Porepunkah",
     "wof:parent_id":102049467,
     "wof:placetype":"localadmin",

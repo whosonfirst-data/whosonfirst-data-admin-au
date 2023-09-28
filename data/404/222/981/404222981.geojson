@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000089,
-    "geom:area_square_m":927947.711872,
+    "geom:area_square_m":927947.625132,
     "geom:bbox":"151.155521,-32.563852,151.172683,-32.554881",
     "geom:latitude":-32.559016,
     "geom:longitude":151.163484,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.559257,
     "lbl:longitude":151.1629,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062f\u0627\u0631\u0644\u064a\u0646\u062c\u062a\u0648\u0646"
@@ -183,12 +189,15 @@
         102048757
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10692"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101930069
     ],
     "wof:country":"AU",
-    "wof:geomhash":"09e9283e113450b308a1526f02d7d9bd",
+    "wof:geomhash":"f5f9478010e4faad413cbdfad9987e53",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -200,7 +209,7 @@
         }
     ],
     "wof:id":404222981,
-    "wof:lastmodified":1636494657,
+    "wof:lastmodified":1695877870,
     "wof:name":"Darlington",
     "wof:parent_id":102048757,
     "wof:placetype":"localadmin",

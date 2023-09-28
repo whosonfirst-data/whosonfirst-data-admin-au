@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000099,
-    "geom:area_square_m":1023543.645518,
+    "geom:area_square_m":1023543.645522,
     "geom:bbox":"146.968640992,-33.6491114175,146.980865152,-33.6366146675",
     "geom:latitude":-33.643579,
     "geom:longitude":146.974921,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.643843,
     "lbl:longitude":146.975042,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ungarie"
@@ -38,12 +44,15 @@
         102049365
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12346"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932177
     ],
     "wof:country":"AU",
-    "wof:geomhash":"91414ec22106ec67ef026ab120ebdcce",
+    "wof:geomhash":"c3cc95775cd64ce34fd4216f8c684f63",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404226703,
-    "wof:lastmodified":1566602058,
+    "wof:lastmodified":1695877167,
     "wof:name":"Ungarie",
     "wof:parent_id":102049365,
     "wof:placetype":"localadmin",

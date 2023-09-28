@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000375,
-    "geom:area_square_m":4118064.840078,
+    "geom:area_square_m":4118064.840082,
     "geom:bbox":"153.029237056,-27.383356796,153.061755904,-27.3607709415",
     "geom:latitude":-27.372456,
     "geom:longitude":153.047124,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.372628,
     "lbl:longitude":153.048227,
     "lbl:max_zoom":18.0,
@@ -46,13 +52,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC30640",
         "wd:id":"Q5529767"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934443
     ],
     "wof:country":"AU",
-    "wof:geomhash":"65a68526c1aca09e0fc6d78b7f69cd7b",
+    "wof:geomhash":"2df29bc036f8d2354477585a9347f9be",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -65,7 +73,7 @@
         }
     ],
     "wof:id":404542285,
-    "wof:lastmodified":1566602301,
+    "wof:lastmodified":1695877942,
     "wof:name":"Geebung",
     "wof:parent_id":102049495,
     "wof:placetype":"localadmin",

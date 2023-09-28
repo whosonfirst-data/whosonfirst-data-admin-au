@@ -10,12 +10,18 @@
     "geom:latitude":-33.899883,
     "geom:longitude":151.170517,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.899449,
     "lbl:longitude":151.171518,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Enmore"
@@ -51,12 +57,15 @@
         102048531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10827"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101930233
     ],
     "wof:country":"AU",
-    "wof:geomhash":"52d8ad883251a5dbd1d6e92437be32c4",
+    "wof:geomhash":"eb1695546631325e6f9a585d1c937d5c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -69,7 +78,7 @@
         }
     ],
     "wof:id":404223285,
-    "wof:lastmodified":1566602548,
+    "wof:lastmodified":1695877444,
     "wof:name":"Enmore",
     "wof:parent_id":102048531,
     "wof:placetype":"localadmin",

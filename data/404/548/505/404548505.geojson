@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.072482,
-    "geom:area_square_m":774076836.039696,
+    "geom:area_square_m":774076836.039683,
     "geom:bbox":"115.87602672,-30.3914930005,116.353758144,-30.163051652",
     "geom:latitude":-30.267398,
     "geom:longitude":116.118161,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-30.261884,
     "lbl:longitude":116.113574,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Watheroo"
@@ -38,9 +44,12 @@
         102048971
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50814"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"0c29614a02075365bd847b5696b046c9",
+    "wof:geomhash":"e72584ca88f54e66ae214fa4863efa24",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404548505,
-    "wof:lastmodified":1566603161,
+    "wof:lastmodified":1695877795,
     "wof:name":"Watheroo",
     "wof:parent_id":102048971,
     "wof:placetype":"localadmin",

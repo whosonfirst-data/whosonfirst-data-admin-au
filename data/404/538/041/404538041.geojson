@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011577,
-    "geom:area_square_m":112312374.495111,
+    "geom:area_square_m":112312374.494848,
     "geom:bbox":"141.36062464,-38.3963024375,141.543996768,-38.263444003",
     "geom:latitude":-38.320924,
     "geom:longitude":141.438162,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.321736,
     "lbl:longitude":141.436822,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Cape Bridgewater"
@@ -38,9 +44,12 @@
         102049579
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20246"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"0943a26cb711826567efede861bf2217",
+    "wof:geomhash":"1aceeafaa19504094d42cf18808b3ec0",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404538041,
-    "wof:lastmodified":1566602432,
+    "wof:lastmodified":1695877376,
     "wof:name":"Cape Bridgewater",
     "wof:parent_id":102049579,
     "wof:placetype":"localadmin",

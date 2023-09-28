@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000463,
-    "geom:area_square_m":4843150.99369,
+    "geom:area_square_m":4843150.993656,
     "geom:bbox":"152.508756992,-32.3366383525,152.551697728,-32.2929590015",
     "geom:latitude":-32.319499,
     "geom:longitude":152.527518,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.312923,
     "lbl:longitude":152.518247,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Elizabeth Beach"
@@ -38,12 +44,15 @@
         102049617
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10805"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101930207
     ],
     "wof:country":"AU",
-    "wof:geomhash":"7e293b0e09d17975be586c851ee75e1d",
+    "wof:geomhash":"67bef08d44b197df58dd11948b0067ba",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404223235,
-    "wof:lastmodified":1566602513,
+    "wof:lastmodified":1695877421,
     "wof:name":"Elizabeth Beach",
     "wof:parent_id":102049617,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009574,
-    "geom:area_square_m":93496583.864249,
+    "geom:area_square_m":93496583.864341,
     "geom:bbox":"147.871381984,-37.903248004,147.977486016,-37.763431997",
     "geom:latitude":-37.837549,
     "geom:longitude":147.926328,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.804039,
     "lbl:longitude":147.94126,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Nungurner"
@@ -38,9 +44,12 @@
         102049039
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21041"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"845266ea4b80405e1e098567427ac88f",
+    "wof:geomhash":"256922c0c289085e660258fab94917a3",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404539813,
-    "wof:lastmodified":1566602399,
+    "wof:lastmodified":1695877356,
     "wof:name":"Nungurner",
     "wof:parent_id":102049039,
     "wof:placetype":"localadmin",

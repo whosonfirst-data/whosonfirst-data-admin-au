@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000256,
-    "geom:area_square_m":2515012.297812,
+    "geom:area_square_m":2515012.297815,
     "geom:bbox":"143.849864704,-37.537214034,143.87083488,-37.521006776",
     "geom:latitude":-37.529244,
     "geom:longitude":143.859129,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.52905,
     "lbl:longitude":143.859125,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Invermay Park"
@@ -38,12 +44,15 @@
         102049037
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20658"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101933071
     ],
     "wof:country":"AU",
-    "wof:geomhash":"f949a57fd99051dc57befb1697971c01",
+    "wof:geomhash":"40c850db2852019eb765f3034eb00d5f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404538959,
-    "wof:lastmodified":1566602458,
+    "wof:lastmodified":1695877390,
     "wof:name":"Invermay Park",
     "wof:parent_id":102049037,
     "wof:placetype":"localadmin",

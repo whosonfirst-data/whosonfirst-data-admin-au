@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000099,
-    "geom:area_square_m":1140250.747453,
+    "geom:area_square_m":1140250.747459,
     "geom:bbox":"149.178042016,-21.0494749995,149.191962112,-21.0333940225",
     "geom:latitude":-21.040553,
     "geom:longitude":149.184866,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-21.039912,
     "lbl:longitude":149.184394,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Dolphin Heads"
@@ -38,12 +44,15 @@
         102048783
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30500"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934301
     ],
     "wof:country":"AU",
-    "wof:geomhash":"cc5fb828d4cc2c9e585b6b4a9b697948",
+    "wof:geomhash":"04e15113dbebb8f57661ca17aa262748",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404541989,
-    "wof:lastmodified":1566603097,
+    "wof:lastmodified":1695877769,
     "wof:name":"Dolphin Heads",
     "wof:parent_id":102048783,
     "wof:placetype":"localadmin",

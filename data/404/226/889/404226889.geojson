@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000416,
-    "geom:area_square_m":4278041.811453,
+    "geom:area_square_m":4278041.811418,
     "geom:bbox":"151.279964,-33.703231003,151.315268,-33.6749023045",
     "geom:latitude":-33.68857,
     "geom:longitude":151.295338,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.688696,
     "lbl:longitude":151.294127,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Warriewood"
@@ -39,12 +45,15 @@
         102048751
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12429"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932249
     ],
     "wof:country":"AU",
-    "wof:geomhash":"da41bb17265b4d776674dfaca5a808f5",
+    "wof:geomhash":"ad5268329f99d839df3c8d8a218c5fd9",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404226889,
-    "wof:lastmodified":1566602024,
+    "wof:lastmodified":1695877145,
     "wof:name":"Warriewood",
     "wof:parent_id":102048751,
     "wof:placetype":"localadmin",

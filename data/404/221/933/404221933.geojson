@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000076,
-    "geom:area_square_m":786712.947081,
+    "geom:area_square_m":786712.947076,
     "geom:bbox":"151.681390912,-32.8971466165,151.696478048,-32.888525006",
     "geom:latitude":-32.893685,
     "geom:longitude":151.690087,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.893782,
     "lbl:longitude":151.69009,
     "lbl:max_zoom":18.0,
@@ -43,13 +49,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC10226",
         "wd:id":"Q4916699"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101929583
     ],
     "wof:country":"AU",
-    "wof:geomhash":"502a3f86b04baa20f1623f300e22553a",
+    "wof:geomhash":"39b50a7e06342cb559694a56ab9c2704",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -62,7 +70,7 @@
         }
     ],
     "wof:id":404221933,
-    "wof:lastmodified":1566601992,
+    "wof:lastmodified":1695877900,
     "wof:name":"Birmingham Gardens",
     "wof:parent_id":102048981,
     "wof:placetype":"localadmin",

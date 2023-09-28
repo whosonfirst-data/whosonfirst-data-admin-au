@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000236,
-    "geom:area_square_m":2425125.373304,
+    "geom:area_square_m":2425125.373305,
     "geom:bbox":"151.127955744,-33.965446562,151.152834208,-33.943069406",
     "geom:latitude":-33.953226,
     "geom:longitude":151.140279,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.953231,
     "lbl:longitude":151.14046,
     "lbl:max_zoom":18.0,
@@ -97,13 +103,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC11983",
         "wd:id":"Q3400385"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931733
     ],
     "wof:country":"AU",
-    "wof:geomhash":"40bb70481c1aea593c08aab4ad2ee368",
+    "wof:geomhash":"ba1cf400b10ce7114e2bfca360a9869c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -116,7 +124,7 @@
         }
     ],
     "wof:id":404225887,
-    "wof:lastmodified":1566602673,
+    "wof:lastmodified":1695877986,
     "wof:name":"Rockdale",
     "wof:parent_id":102048425,
     "wof:placetype":"localadmin",

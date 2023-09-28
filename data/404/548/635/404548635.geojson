@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.144586,
-    "geom:area_square_m":1576930312.490868,
+    "geom:area_square_m":1576930312.490667,
     "geom:bbox":"114.108622912,-28.451284466,114.627277984,-27.8531390065",
     "geom:latitude":-28.110857,
     "geom:longitude":114.372764,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.068981,
     "lbl:longitude":114.347311,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Yallabatharra"
@@ -38,9 +44,12 @@
         102048481
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50872"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"c01d6fce1fec9ad7ea4af4e2b5f24402",
+    "wof:geomhash":"46496033b5fe83770e54afd841ccbbbd",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404548635,
-    "wof:lastmodified":1566603183,
+    "wof:lastmodified":1695877807,
     "wof:name":"Yallabatharra",
     "wof:parent_id":102048481,
     "wof:placetype":"localadmin",

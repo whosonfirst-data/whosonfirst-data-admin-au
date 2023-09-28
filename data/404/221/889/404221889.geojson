@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000147,
-    "geom:area_square_m":1513431.136502,
+    "geom:area_square_m":1513431.136504,
     "geom:bbox":"150.81024368,-33.735535111,150.83099632,-33.724561022",
     "geom:latitude":-33.730128,
     "geom:longitude":150.822191,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.729584,
     "lbl:longitude":150.821993,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Bidwill"
@@ -45,12 +51,15 @@
         102048555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10206"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101929573
     ],
     "wof:country":"AU",
-    "wof:geomhash":"4f032ff450f233f91ba0cc7f849813ed",
+    "wof:geomhash":"4b9755ab35b7d6d87b6a948be12a21b1",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -63,7 +72,7 @@
         }
     ],
     "wof:id":404221889,
-    "wof:lastmodified":1566601973,
+    "wof:lastmodified":1695877120,
     "wof:name":"Bidwill",
     "wof:parent_id":102048555,
     "wof:placetype":"localadmin",

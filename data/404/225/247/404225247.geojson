@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002475,
-    "geom:area_square_m":25742629.677142,
+    "geom:area_square_m":25742629.677172,
     "geom:bbox":"152.112820768,-32.7687119945,152.205518816,-32.709603995",
     "geom:latitude":-32.739422,
     "geom:longitude":152.151919,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.739438,
     "lbl:longitude":152.147319,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Nelson Bay"
@@ -41,9 +47,12 @@
         102049095
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11699"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"a7d5a8080b547debab33be3e77ed950e",
+    "wof:geomhash":"13ae7d202bec86675c46c55173270f4d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404225247,
-    "wof:lastmodified":1566602717,
+    "wof:lastmodified":1695877538,
     "wof:name":"Nelson Bay",
     "wof:parent_id":102049095,
     "wof:placetype":"localadmin",

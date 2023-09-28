@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004213,
-    "geom:area_square_m":42605893.497561,
+    "geom:area_square_m":42605893.497577,
     "geom:bbox":"138.694699552,-35.1758199955,138.784175008,-35.080889003",
     "geom:latitude":-35.123117,
     "geom:longitude":138.738081,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.119272,
     "lbl:longitude":138.741819,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Jupiter Creek"
@@ -39,9 +45,12 @@
         102048895
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40321"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"361e6ee69efe9e6a211db8ba5e341dde",
+    "wof:geomhash":"42bd4bf922ee07a5134e467fd0f750e5",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":404545561,
-    "wof:lastmodified":1566602212,
+    "wof:lastmodified":1695877249,
     "wof:name":"Jupiter Creek",
     "wof:parent_id":102048895,
     "wof:placetype":"localadmin",

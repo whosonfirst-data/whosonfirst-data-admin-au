@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001322,
-    "geom:area_square_m":11952125.200876,
+    "geom:area_square_m":11952125.200878,
     "geom:bbox":"147.179947072,-43.040859361,147.230399776,-42.9920157535",
     "geom:latitude":-43.015106,
     "geom:longitude":147.201402,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-43.013426,
     "lbl:longitude":147.201012,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Allens Rivulet"
@@ -38,9 +44,12 @@
         102048889
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60007"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"8e29fb0f5d33ffa3a6bef6f6fecc8076",
+    "wof:geomhash":"972d9f78cab19aa5e41849511b814db2",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404548685,
-    "wof:lastmodified":1566603207,
+    "wof:lastmodified":1695877820,
     "wof:name":"Allens Rivulet",
     "wof:parent_id":102048889,
     "wof:placetype":"localadmin",

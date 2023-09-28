@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000116,
-    "geom:area_square_m":1186337.638986,
+    "geom:area_square_m":1186331.707522,
     "geom:bbox":"151.262028,-33.89656,151.28291,-33.885012",
     "geom:latitude":-33.88957,
     "geom:longitude":151.272271,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.889457,
     "lbl:longitude":151.272275,
     "lbl:max_zoom":18.0,
@@ -160,13 +166,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC10276",
         "wd:id":"Q673418"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101929643
     ],
     "wof:country":"AU",
-    "wof:geomhash":"d2b382e4880270a0bc9c7958b1c6c444",
+    "wof:geomhash":"7cdd017630f5e937a4ca5fa785769d2f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -179,7 +187,7 @@
         }
     ],
     "wof:id":404222045,
-    "wof:lastmodified":1690853705,
+    "wof:lastmodified":1695878001,
     "wof:name":"Bondi Beach",
     "wof:parent_id":102049285,
     "wof:placetype":"localadmin",

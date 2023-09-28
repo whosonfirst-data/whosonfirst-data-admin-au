@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.293926,
-    "geom:area_square_m":3126726440.14345,
+    "geom:area_square_m":3126726440.143215,
     "geom:bbox":"149.067379072,-30.9230464705,149.856013728,-30.3239990065",
     "geom:latitude":-30.649092,
     "geom:longitude":149.475707,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-30.692304,
     "lbl:longitude":149.436394,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Yarrie Lake"
@@ -38,9 +44,12 @@
         102049269
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12605"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"fdab2c287d62fed0f6e8b49d84a4fc12",
+    "wof:geomhash":"943a3c13ddbaacd6ca6f64cd83d16615",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404227285,
-    "wof:lastmodified":1566601954,
+    "wof:lastmodified":1695877111,
     "wof:name":"Yarrie Lake",
     "wof:parent_id":102049269,
     "wof:placetype":"localadmin",

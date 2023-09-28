@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009315,
-    "geom:area_square_m":97414250.923118,
+    "geom:area_square_m":97414388.883124,
     "geom:bbox":"148.547214,-32.306437,148.669544,-32.188555",
     "geom:latitude":-32.250436,
     "geom:longitude":148.609352,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.25765,
     "lbl:longitude":148.604371,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:amh_x_preferred":[
         "\u12f1\u1266"
@@ -137,9 +143,12 @@
         102049599
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10735"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"0d81a4af9e10b7b9bea5adbec6da09f0",
+    "wof:geomhash":"1a2230fb045208d13acba24382220769",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -151,7 +160,7 @@
         }
     ],
     "wof:id":404223079,
-    "wof:lastmodified":1636494643,
+    "wof:lastmodified":1695877862,
     "wof:name":"Dubbo",
     "wof:parent_id":102049599,
     "wof:placetype":"localadmin",

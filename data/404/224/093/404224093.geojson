@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008129,
-    "geom:area_square_m":81414001.977512,
+    "geom:area_square_m":81414001.977502,
     "geom:bbox":"147.592423008,-35.9706783785,147.770027872,-35.8238670035",
     "geom:latitude":-35.904136,
     "geom:longitude":147.656455,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.914653,
     "lbl:longitude":147.650358,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Jingellic"
@@ -41,9 +47,12 @@
         102049625
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11186"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"e2e093ed16ffca196abe502062fe6d8a",
+    "wof:geomhash":"d2857adc01a988300360ca955a16f15e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404224093,
-    "wof:lastmodified":1566602643,
+    "wof:lastmodified":1695877498,
     "wof:name":"Jingellic",
     "wof:parent_id":102049625,
     "wof:placetype":"localadmin",

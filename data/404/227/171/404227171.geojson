@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.047373,
-    "geom:area_square_m":487119733.017707,
+    "geom:area_square_m":487119733.017399,
     "geom:bbox":"148.546334016,-33.8640969945,149.009880736,-33.6380160055",
     "geom:latitude":-33.737986,
     "geom:longitude":148.811898,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.754612,
     "lbl:longitude":148.853786,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:als_x_preferred":[
         "Woodstock-Festival"
@@ -158,9 +164,12 @@
         102048613
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12554"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"5fb73c06f615e79762b855ab34aeeb08",
+    "wof:geomhash":"3bb738d0893f4706342b7325f73d5f68",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -172,7 +181,7 @@
         }
     ],
     "wof:id":404227171,
-    "wof:lastmodified":1566601962,
+    "wof:lastmodified":1695877115,
     "wof:name":"Woodstock",
     "wof:parent_id":102048613,
     "wof:placetype":"localadmin",

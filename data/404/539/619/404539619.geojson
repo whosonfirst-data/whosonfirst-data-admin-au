@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005271,
-    "geom:area_square_m":52017095.4706,
+    "geom:area_square_m":52017095.470556,
     "geom:bbox":"144.104058816,-37.0945249995,144.201459008,-37.013362003",
     "geom:latitude":-37.052057,
     "geom:longitude":144.153585,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.051284,
     "lbl:longitude":144.149614,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Muckleford"
@@ -38,9 +44,12 @@
         102049601
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20953"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"7878bbc436671aec9608e117da7fabb3",
+    "wof:geomhash":"f8ecfe2c0502ab9c47d428a826af9f79",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404539619,
-    "wof:lastmodified":1566602363,
+    "wof:lastmodified":1695877332,
     "wof:name":"Muckleford",
     "wof:parent_id":102049601,
     "wof:placetype":"localadmin",

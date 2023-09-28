@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000133,
-    "geom:area_square_m":1391506.898152,
+    "geom:area_square_m":1391506.898151,
     "geom:bbox":"115.933141792,-31.8881352675,115.944671168,-31.875509073",
     "geom:latitude":-31.881561,
     "geom:longitude":115.938926,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.881595,
     "lbl:longitude":115.938928,
     "lbl:max_zoom":18.0,
@@ -60,13 +66,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC50399",
         "wd:id":"Q6403861"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937367
     ],
     "wof:country":"AU",
-    "wof:geomhash":"1d6c00ed037f986b78f15311ded9d006",
+    "wof:geomhash":"c761a3f8617a72432007afc5d5e158a6",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -78,7 +86,7 @@
         }
     ],
     "wof:id":404547581,
-    "wof:lastmodified":1566602944,
+    "wof:lastmodified":1695878018,
     "wof:name":"Kiara",
     "wof:parent_id":102049575,
     "wof:placetype":"localadmin",

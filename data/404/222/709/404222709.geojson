@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000148,
-    "geom:area_square_m":1521424.544344,
+    "geom:area_square_m":1521424.54433,
     "geom:bbox":"151.055731072,-34.00921734,151.071548896,-33.9959310285",
     "geom:latitude":-34.002917,
     "geom:longitude":151.064099,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.002978,
     "lbl:longitude":151.0641,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Como"
@@ -267,12 +273,15 @@
         102049511
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10571"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101929957
     ],
     "wof:country":"AU",
-    "wof:geomhash":"ed607180a3a11af3ed16fdfa20cf37f9",
+    "wof:geomhash":"d2036099de8ec8433d627c2ea118a47f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -285,7 +294,7 @@
         }
     ],
     "wof:id":404222709,
-    "wof:lastmodified":1566602749,
+    "wof:lastmodified":1695877559,
     "wof:name":"Como",
     "wof:parent_id":102049511,
     "wof:placetype":"localadmin",

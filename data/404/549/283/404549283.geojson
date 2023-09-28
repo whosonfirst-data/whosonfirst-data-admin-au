@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025473,
-    "geom:area_square_m":241671831.060492,
+    "geom:area_square_m":241671831.060406,
     "geom:bbox":"143.946823008,-39.9819885345,144.16414288,-39.771523007",
     "geom:latitude":-39.889926,
     "geom:longitude":144.053093,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-39.89007,
     "lbl:longitude":144.051606,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Pegarah"
@@ -38,9 +44,12 @@
         102048637
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60273"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"fde7db59a3ddc195d9b8229e3b5b39cc",
+    "wof:geomhash":"2d0f690946c8aa03b58d16a8210bb001",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404549283,
-    "wof:lastmodified":1566602875,
+    "wof:lastmodified":1695877640,
     "wof:name":"Pegarah",
     "wof:parent_id":102048637,
     "wof:placetype":"localadmin",

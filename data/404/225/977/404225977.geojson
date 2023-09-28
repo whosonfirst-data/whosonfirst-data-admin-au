@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000695,
-    "geom:area_square_m":7145254.495488,
+    "geom:area_square_m":7145227.208457,
     "geom:bbox":"151.092747,-33.82522,151.135235,-33.790856",
     "geom:latitude":-33.810478,
     "geom:longitude":151.112033,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.81213,
     "lbl:longitude":151.112349,
     "lbl:max_zoom":18.0,
@@ -289,13 +295,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC12023",
         "wd:id":"Q1006309"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931785
     ],
     "wof:country":"AU",
-    "wof:geomhash":"283234c03c2b21dddbb6f3eb8887a608",
+    "wof:geomhash":"24efb51bcc8b66a32c9fa12c0afaee98",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -308,7 +316,7 @@
         }
     ],
     "wof:id":404225977,
-    "wof:lastmodified":1690853671,
+    "wof:lastmodified":1695877989,
     "wof:name":"Ryde",
     "wof:parent_id":102049349,
     "wof:placetype":"localadmin",

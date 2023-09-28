@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008317,
-    "geom:area_square_m":90300575.82223,
+    "geom:area_square_m":90300575.82212,
     "geom:bbox":"153.185372992,-28.661979005,153.29542,-28.5236180045",
     "geom:latitude":-28.591518,
     "geom:longitude":153.243713,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.579744,
     "lbl:longitude":153.252015,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Nimbin"
@@ -38,9 +44,12 @@
         102049635
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11727"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"79fa626f8fcdd600bd880d1006e6919a",
+    "wof:geomhash":"d67e1b8d88ff5a2a0bb2a41da73d24ee",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404225311,
-    "wof:lastmodified":1566602733,
+    "wof:lastmodified":1695877549,
     "wof:name":"Nimbin",
     "wof:parent_id":102049635,
     "wof:placetype":"localadmin",

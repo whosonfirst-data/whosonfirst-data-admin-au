@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.709456,
-    "geom:area_square_m":7352148407.821201,
+    "geom:area_square_m":7352148407.821508,
     "geom:bbox":"119.038183008,-33.5403619055,120.58147776,-32.717827097",
     "geom:latitude":-33.06092,
     "geom:longitude":119.636448,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.052555,
     "lbl:longitude":119.648219,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lake King"
@@ -38,9 +44,12 @@
         102048857
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50423"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"e8c5a74dd83e4f197e48e8d23b716a09",
+    "wof:geomhash":"89335b6f3aabb85530383bd6a470dfa6",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404547635,
-    "wof:lastmodified":1566602938,
+    "wof:lastmodified":1695877681,
     "wof:name":"Lake King",
     "wof:parent_id":102048857,
     "wof:placetype":"localadmin",

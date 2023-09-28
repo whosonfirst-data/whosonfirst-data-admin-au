@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.130733,
-    "geom:area_square_m":1416781997.849977,
+    "geom:area_square_m":1416781997.848865,
     "geom:bbox":"151.350648032,-29.0685564835,151.846786016,-28.5454579945",
     "geom:latitude":-28.784809,
     "geom:longitude":151.600288,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.784703,
     "lbl:longitude":151.604099,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Greenlands"
@@ -42,9 +48,12 @@
         102048963
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30701"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"f6126c236184438fd20f7c997e1f87d6",
+    "wof:geomhash":"f15bdbec55ae7035e54de9248587ee18",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404542415,
-    "wof:lastmodified":1566602273,
+    "wof:lastmodified":1695877277,
     "wof:name":"Greenlands",
     "wof:parent_id":102048963,
     "wof:placetype":"localadmin",

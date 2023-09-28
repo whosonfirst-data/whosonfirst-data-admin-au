@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.253587,
-    "geom:area_square_m":2826649574.971067,
+    "geom:area_square_m":2826649574.97141,
     "geom:bbox":"149.661562592,-25.9060497485,150.442552992,-25.4053422905",
     "geom:latitude":-25.649603,
     "geom:longitude":150.050647,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-25.638604,
     "lbl:longitude":150.12885,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Taroom"
@@ -56,9 +62,12 @@
         102049135
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31588"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"7d6fd461e1d20f06b0a7b90379476267",
+    "wof:geomhash":"debe8fb0e5354308239c4a66ce603c9d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -70,7 +79,7 @@
         }
     ],
     "wof:id":404544297,
-    "wof:lastmodified":1566602197,
+    "wof:lastmodified":1695877242,
     "wof:name":"Taroom",
     "wof:parent_id":102049135,
     "wof:placetype":"localadmin",

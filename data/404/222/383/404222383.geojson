@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.042479,
-    "geom:area_square_m":439158531.396246,
+    "geom:area_square_m":439158531.396618,
     "geom:bbox":"147.628594016,-33.3536750015,148.046172,-33.1891633815",
     "geom:latitude":-33.271236,
     "geom:longitude":147.836078,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.27478,
     "lbl:longitude":147.832092,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Calarie"
@@ -38,9 +44,12 @@
         102048487
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10426"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"0b446be5710acce9c40352f0153ee4cd",
+    "wof:geomhash":"04210f2dc100ac62e802fafe3cf02348",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404222383,
-    "wof:lastmodified":1566602772,
+    "wof:lastmodified":1695877575,
     "wof:name":"Calarie",
     "wof:parent_id":102048487,
     "wof:placetype":"localadmin",

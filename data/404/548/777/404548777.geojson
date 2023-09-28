@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02461,
-    "geom:area_square_m":223939874.357552,
+    "geom:area_square_m":223939874.357613,
     "geom:bbox":"147.295663008,-42.6863330015,147.533926016,-42.528363",
     "geom:latitude":-42.617475,
     "geom:longitude":147.425296,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-42.627797,
     "lbl:longitude":147.435016,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Kampani\u00eb"
@@ -356,9 +362,12 @@
         102049259
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60048"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"ee156b458ff1751ee9046d11691b4765",
+    "wof:geomhash":"ad13c0ba6c4b54ff02263f1551ef08d7",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -370,7 +379,7 @@
         }
     ],
     "wof:id":404548777,
-    "wof:lastmodified":1566603195,
+    "wof:lastmodified":1695877814,
     "wof:name":"Campania",
     "wof:parent_id":102049259,
     "wof:placetype":"localadmin",

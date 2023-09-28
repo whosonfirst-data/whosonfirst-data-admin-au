@@ -10,12 +10,18 @@
     "geom:latitude":-32.991025,
     "geom:longitude":151.680257,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.990637,
     "lbl:longitude":151.679625,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Windale"
@@ -39,12 +45,15 @@
         102048999
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12511"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932355
     ],
     "wof:country":"AU",
-    "wof:geomhash":"c8738525a3903a979d93be1b9f663873",
+    "wof:geomhash":"9447b803e385d83d4e53021988a04c36",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404227075,
-    "wof:lastmodified":1566601953,
+    "wof:lastmodified":1695877111,
     "wof:name":"Windale",
     "wof:parent_id":102048999,
     "wof:placetype":"localadmin",

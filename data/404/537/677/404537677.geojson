@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025435,
-    "geom:area_square_m":246245283.54551,
+    "geom:area_square_m":246245283.545707,
     "geom:bbox":"143.641801088,-38.5755877135,143.855284352,-38.3602589615",
     "geom:latitude":-38.46779,
     "geom:longitude":143.75366,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.523476,
     "lbl:longitude":143.787621,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Barwon Downs"
@@ -38,9 +44,12 @@
         102049117
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20083"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"4c6aa9e0e13f37b6ba5b29fc7b4be28d",
+    "wof:geomhash":"308f8348421b6176c46a27dd3c135d93",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404537677,
-    "wof:lastmodified":1566602341,
+    "wof:lastmodified":1695877319,
     "wof:name":"Barwon Downs",
     "wof:parent_id":102049117,
     "wof:placetype":"localadmin",

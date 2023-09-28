@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003511,
-    "geom:area_square_m":38542621.745434,
+    "geom:area_square_m":38542621.745554,
     "geom:bbox":"151.888406048,-27.448863039,151.974817152,-27.364151613",
     "geom:latitude":-27.408651,
     "geom:longitude":151.93337,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.408544,
     "lbl:longitude":151.930423,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kleinton"
@@ -38,9 +44,12 @@
         102049357
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30895"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"db0b99c3e5f80a9144035de6217c46e0",
+    "wof:geomhash":"f3cedf1a6a14c9c9f246c2d49b774545",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404542831,
-    "wof:lastmodified":1566602304,
+    "wof:lastmodified":1695877297,
     "wof:name":"Kleinton",
     "wof:parent_id":102049357,
     "wof:placetype":"localadmin",

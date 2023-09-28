@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000123,
-    "geom:area_square_m":1265022.261747,
+    "geom:area_square_m":1265022.261734,
     "geom:bbox":"151.211495616,-33.8421581035,151.225017472,-33.8276112575",
     "geom:latitude":-33.834808,
     "geom:longitude":151.217927,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.834865,
     "lbl:longitude":151.217798,
     "lbl:max_zoom":18.0,
@@ -70,13 +76,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC11708",
         "wd:id":"Q7002958"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931387
     ],
     "wof:country":"AU",
-    "wof:geomhash":"718e66e4197992bc701312d6f0da09ea",
+    "wof:geomhash":"4975c6b195df4896d4b9337e041074e6",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -89,7 +97,7 @@
         }
     ],
     "wof:id":404225267,
-    "wof:lastmodified":1566602685,
+    "wof:lastmodified":1695877988,
     "wof:name":"Neutral Bay",
     "wof:parent_id":102048877,
     "wof:placetype":"localadmin",

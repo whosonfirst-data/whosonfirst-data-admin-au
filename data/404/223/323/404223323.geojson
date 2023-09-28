@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.041124,
-    "geom:area_square_m":439030621.990936,
+    "geom:area_square_m":439030621.990876,
     "geom:bbox":"149.889835008,-30.4209519935,150.238544768,-30.1691279955",
     "geom:latitude":-30.301458,
     "geom:longitude":150.069394,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-30.302677,
     "lbl:longitude":150.040284,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Eulah Creek"
@@ -38,9 +44,12 @@
         102049269
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10844"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"d2b3dce981ee32e84a17d501016aeb21",
+    "wof:geomhash":"27d60c0c57973b77862cc4914f5fd95c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404223323,
-    "wof:lastmodified":1566602523,
+    "wof:lastmodified":1695877426,
     "wof:name":"Eulah Creek",
     "wof:parent_id":102049269,
     "wof:placetype":"localadmin",

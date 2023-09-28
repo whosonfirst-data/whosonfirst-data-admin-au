@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.05036,
-    "geom:area_square_m":544140088.590374,
+    "geom:area_square_m":544140088.590885,
     "geom:bbox":"152.688961408,-29.227003008,153.01006896,-28.9793179965",
     "geom:latitude":-29.094019,
     "geom:longitude":152.844053,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-29.081641,
     "lbl:longitude":152.82797,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Rappville"
@@ -38,9 +44,12 @@
         102049223
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11947"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"4690d0968b6fad5729802217bd5de96d",
+    "wof:geomhash":"373079d360c95b40b6278cf9bfba471e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404225805,
-    "wof:lastmodified":1566602689,
+    "wof:lastmodified":1695877524,
     "wof:name":"Rappville",
     "wof:parent_id":102049223,
     "wof:placetype":"localadmin",

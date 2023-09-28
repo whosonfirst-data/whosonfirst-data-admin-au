@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.040957,
-    "geom:area_square_m":429546544.72033,
+    "geom:area_square_m":429546544.721763,
     "geom:bbox":"150.588572992,-32.130729005,150.842352992,-31.838075581",
     "geom:latitude":-31.986646,
     "geom:longitude":150.717123,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.028903,
     "lbl:longitude":150.725789,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Moobi"
@@ -38,9 +44,12 @@
         102048493
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11580"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"6c3666c89c5faf1124329e9cbc4724d8",
+    "wof:geomhash":"a2a257120024c4c840bc6d220e22612b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404224979,
-    "wof:lastmodified":1566602601,
+    "wof:lastmodified":1695877475,
     "wof:name":"Moobi",
     "wof:parent_id":102048493,
     "wof:placetype":"localadmin",

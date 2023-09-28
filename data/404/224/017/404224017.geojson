@@ -10,12 +10,18 @@
     "geom:latitude":-30.612619,
     "geom:longitude":153.00189,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-30.612668,
     "lbl:longitude":153.001985,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Hyland Park"
@@ -38,12 +44,15 @@
         102049433
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11152"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101930795
     ],
     "wof:country":"AU",
-    "wof:geomhash":"eb1cedd23e62a6e642a86c0d2b9db60d",
+    "wof:geomhash":"53748db64cdfeae29c9d216d1cfe041c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404224017,
-    "wof:lastmodified":1566602629,
+    "wof:lastmodified":1695877491,
     "wof:name":"Hyland Park",
     "wof:parent_id":102049433,
     "wof:placetype":"localadmin",

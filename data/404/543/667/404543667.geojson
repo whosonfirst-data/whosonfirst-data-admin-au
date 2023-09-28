@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001639,
-    "geom:area_square_m":18101514.655508,
+    "geom:area_square_m":18101514.655402,
     "geom:bbox":"153.025681792,-26.768853988,153.105207008,-26.728176743",
     "geom:latitude":-26.745965,
     "geom:longitude":153.05989,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-26.749194,
     "lbl:longitude":153.056015,
     "lbl:max_zoom":18.0,
@@ -43,10 +49,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC31292",
         "wd:id":"Q7128445"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"d276e4162ff869b25692e6950c5cd803",
+    "wof:geomhash":"0a8a63a561796ec8c64effb825b2cc73",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -59,7 +67,7 @@
         }
     ],
     "wof:id":404543667,
-    "wof:lastmodified":1566602108,
+    "wof:lastmodified":1695877916,
     "wof:name":"Palmview",
     "wof:parent_id":102049303,
     "wof:placetype":"localadmin",

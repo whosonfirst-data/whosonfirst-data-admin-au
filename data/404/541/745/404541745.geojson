@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000075,
-    "geom:area_square_m":825122.237608,
+    "geom:area_square_m":825122.237611,
     "geom:bbox":"152.737118016,-27.611379804,152.749455232,-27.6024709995",
     "geom:latitude":-27.606651,
     "geom:longitude":152.743451,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.606517,
     "lbl:longitude":152.742947,
     "lbl:max_zoom":18.0,
@@ -46,13 +52,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC30384",
         "wd:id":"Q5137874"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934191
     ],
     "wof:country":"AU",
-    "wof:geomhash":"65138848626db999bfa4541186aa1997",
+    "wof:geomhash":"4ddb3bb8217badabe16a00d61665c907",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -65,7 +73,7 @@
         }
     ],
     "wof:id":404541745,
-    "wof:lastmodified":1566603099,
+    "wof:lastmodified":1695878037,
     "wof:name":"Coalfalls",
     "wof:parent_id":102048583,
     "wof:placetype":"localadmin",

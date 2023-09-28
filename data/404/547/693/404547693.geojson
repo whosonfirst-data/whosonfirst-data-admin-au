@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009267,
-    "geom:area_square_m":95474421.340916,
+    "geom:area_square_m":95474421.34084,
     "geom:bbox":"115.437833472,-33.637298002,115.565307008,-33.465217403",
     "geom:latitude":-33.5736,
     "geom:longitude":115.511224,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.605027,
     "lbl:longitude":115.496226,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0644\u0648\u062f\u0644\u0627\u0648"
@@ -107,9 +113,12 @@
         102048869
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50449"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"5bc172bedac176bd4e275d8a698a711e",
+    "wof:geomhash":"26df8a5bdb0435a08fc96eaef4df24b6",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -121,7 +130,7 @@
         }
     ],
     "wof:id":404547693,
-    "wof:lastmodified":1566602937,
+    "wof:lastmodified":1695877681,
     "wof:name":"Ludlow",
     "wof:parent_id":102048869,
     "wof:placetype":"localadmin",

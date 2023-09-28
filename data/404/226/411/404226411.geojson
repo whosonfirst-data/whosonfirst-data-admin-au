@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000154,
-    "geom:area_square_m":1571243.746469,
+    "geom:area_square_m":1571243.746466,
     "geom:bbox":"149.813374336,-34.407959458,149.83199056,-34.393765111",
     "geom:latitude":-34.400744,
     "geom:longitude":149.821038,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.401408,
     "lbl:longitude":149.820125,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Taralga"
@@ -41,12 +47,15 @@
         102048469
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12216"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932031
     ],
     "wof:country":"AU",
-    "wof:geomhash":"b22d4a44434c919b2dca1ff04ac00a3f",
+    "wof:geomhash":"4216edd742bbe1ea1270e624a2239a99",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404226411,
-    "wof:lastmodified":1566602068,
+    "wof:lastmodified":1695877172,
     "wof:name":"Taralga",
     "wof:parent_id":102048469,
     "wof:placetype":"localadmin",

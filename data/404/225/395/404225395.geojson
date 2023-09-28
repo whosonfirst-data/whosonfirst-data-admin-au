@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002294,
-    "geom:area_square_m":24301941.9506,
+    "geom:area_square_m":24301941.950618,
     "geom:bbox":"150.854570112,-31.0857059815,150.959824,-31.036451489",
     "geom:latitude":-31.058751,
     "geom:longitude":150.915745,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.06103,
     "lbl:longitude":150.925241,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "North Tamworth"
@@ -38,12 +44,15 @@
         102048785
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11765"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931473
     ],
     "wof:country":"AU",
-    "wof:geomhash":"f51cfe9307b8705b006aa2d5329f99a8",
+    "wof:geomhash":"cc3f5831a206c64d5e6ac5fa08b2ece7",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404225395,
-    "wof:lastmodified":1566602700,
+    "wof:lastmodified":1695877529,
     "wof:name":"North Tamworth",
     "wof:parent_id":102048785,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006657,
-    "geom:area_square_m":67420346.347879,
+    "geom:area_square_m":67420346.347925,
     "geom:bbox":"149.072308,-35.054028002,149.187139008,-34.9663930025",
     "geom:latitude":-35.012881,
     "geom:longitude":149.127658,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.017186,
     "lbl:longitude":149.128699,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Nanima"
@@ -38,9 +44,12 @@
         102049253
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11678"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"fff894788a865b63476fe836bee7a9c4",
+    "wof:geomhash":"716e7be0ef32e58a4b04974c1b159295",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404225201,
-    "wof:lastmodified":1566602727,
+    "wof:lastmodified":1695877546,
     "wof:name":"Nanima",
     "wof:parent_id":102049253,
     "wof:placetype":"localadmin",

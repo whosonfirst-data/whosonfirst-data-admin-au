@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000094,
-    "geom:area_square_m":952999.292072,
+    "geom:area_square_m":952999.292078,
     "geom:bbox":"138.509072992,-34.9855278855,138.520575008,-34.9748358475",
     "geom:latitude":-34.980621,
     "geom:longitude":138.514881,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.980938,
     "lbl:longitude":138.514883,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Glenelg"
@@ -57,12 +63,15 @@
         102049165
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40237"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101936051
     ],
     "wof:country":"AU",
-    "wof:geomhash":"37117dee4b2714fbbe86892d5438258f",
+    "wof:geomhash":"128801ddaf746b9e394f42256a3b9f2b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -75,7 +84,7 @@
         }
     ],
     "wof:id":404545379,
-    "wof:lastmodified":1566602226,
+    "wof:lastmodified":1695877255,
     "wof:name":"Glenelg",
     "wof:parent_id":102049165,
     "wof:placetype":"localadmin",

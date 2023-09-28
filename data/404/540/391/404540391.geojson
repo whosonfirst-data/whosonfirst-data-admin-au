@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022244,
-    "geom:area_square_m":219303631.177652,
+    "geom:area_square_m":219303631.177873,
     "geom:bbox":"145.03121856,-37.2060962795,145.290828544,-37.0539049935",
     "geom:latitude":-37.126675,
     "geom:longitude":145.151842,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.137778,
     "lbl:longitude":145.162722,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tallarook"
@@ -38,9 +44,12 @@
         102048437
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21299"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"7408461199d32bb5e9ae99a8c7c5bba5",
+    "wof:geomhash":"ce5400ccbe4ba1d497862e22cedb207c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404540391,
-    "wof:lastmodified":1566602983,
+    "wof:lastmodified":1695877709,
     "wof:name":"Tallarook",
     "wof:parent_id":102048437,
     "wof:placetype":"localadmin",

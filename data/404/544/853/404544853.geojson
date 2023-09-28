@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.394659,
-    "geom:area_square_m":15228506443.606628,
+    "geom:area_square_m":15228506443.599762,
     "geom:bbox":"144.292303808,-28.9990828785,145.661392896,-26.9991192145",
     "geom:latitude":-27.98246,
     "geom:longitude":144.992737,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.861893,
     "lbl:longitude":144.946515,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Yowah"
@@ -47,9 +53,12 @@
         102048641
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31854"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"212620fd29ff421565b8f94a62384d95",
+    "wof:geomhash":"46f2b22bfa0a1217ca0d7b87901453d9",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":404544853,
-    "wof:lastmodified":1566602195,
+    "wof:lastmodified":1695877241,
     "wof:name":"Yowah",
     "wof:parent_id":102048641,
     "wof:placetype":"localadmin",

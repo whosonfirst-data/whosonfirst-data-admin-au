@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021791,
-    "geom:area_square_m":220598049.889917,
+    "geom:area_square_m":220598049.889703,
     "geom:bbox":"139.019372,-35.167065,139.171767296,-34.9286873385",
     "geom:latitude":-35.044537,
     "geom:longitude":139.09313,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.044925,
     "lbl:longitude":139.102205,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Monarto"
@@ -39,9 +45,12 @@
         102048515
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40443"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"35d80c9dce529b37bc50cf42169b4e32",
+    "wof:geomhash":"2f8e7548d9f9619a9331308af3b66d46",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":404545825,
-    "wof:lastmodified":1566602244,
+    "wof:lastmodified":1695877263,
     "wof:name":"Monarto",
     "wof:parent_id":102048515,
     "wof:placetype":"localadmin",

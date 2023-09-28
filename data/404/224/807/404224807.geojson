@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000955,
-    "geom:area_square_m":9822864.777343,
+    "geom:area_square_m":9822864.77742,
     "geom:bbox":"150.270176,-33.705980103,150.330084992,-33.667151008",
     "geom:latitude":-33.683581,
     "geom:longitude":150.296955,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.684875,
     "lbl:longitude":150.297417,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Medlow Bath"
@@ -38,12 +44,15 @@
         102049627
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11503"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931199
     ],
     "wof:country":"AU",
-    "wof:geomhash":"e22892545644e61c19f87b66eac3e1f5",
+    "wof:geomhash":"7a58e68c0e32009b00ead0f884105429",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404224807,
-    "wof:lastmodified":1566602634,
+    "wof:lastmodified":1695877494,
     "wof:name":"Medlow Bath",
     "wof:parent_id":102049627,
     "wof:placetype":"localadmin",

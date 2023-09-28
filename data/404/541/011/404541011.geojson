@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.091771,
-    "geom:area_square_m":1014112707.604385,
+    "geom:area_square_m":1014112707.604077,
     "geom:bbox":"148.012260992,-26.852597605,148.352699552,-26.4550349915",
     "geom:latitude":-26.660509,
     "geom:longitude":148.17771,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-26.658527,
     "lbl:longitude":148.174592,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Amby"
@@ -56,9 +62,12 @@
         102049081
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30036"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"96fcfcdbaac30afbf34c659feb388f35",
+    "wof:geomhash":"096d00cd1c7d4c3aa33c334306d82565",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -70,7 +79,7 @@
         }
     ],
     "wof:id":404541011,
-    "wof:lastmodified":1566603082,
+    "wof:lastmodified":1695877760,
     "wof:name":"Amby",
     "wof:parent_id":102049081,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008734,
-    "geom:area_square_m":91073688.459211,
+    "geom:area_square_m":91073688.459179,
     "geom:bbox":"115.910257984,-32.560003005,116.031540992,-32.4545116575",
     "geom:latitude":-32.509747,
     "geom:longitude":115.959696,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.51316,
     "lbl:longitude":115.953637,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "North Dandalup"
@@ -39,9 +45,12 @@
         102049595
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50586"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"94e185084b0d32f692347ed497e3e62c",
+    "wof:geomhash":"ec61d1412bba156a4e04bcc87d5345f7",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":404548001,
-    "wof:lastmodified":1566603185,
+    "wof:lastmodified":1695877808,
     "wof:name":"North Dandalup",
     "wof:parent_id":102049595,
     "wof:placetype":"localadmin",

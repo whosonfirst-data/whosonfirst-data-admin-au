@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00085,
-    "geom:area_square_m":8811140.455718,
+    "geom:area_square_m":8811140.455729,
     "geom:bbox":"151.514083008,-33.0272907495,151.562597728,-32.983611306",
     "geom:latitude":-33.002051,
     "geom:longitude":151.536459,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.99887,
     "lbl:longitude":151.540142,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ryhope"
@@ -48,9 +54,12 @@
         102048999
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12025"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"fae75f7e1bc5f47ed1a0e7fb1ac68920",
+    "wof:geomhash":"025a2d50667798ba6dc18f0804d6918a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -63,7 +72,7 @@
         }
     ],
     "wof:id":404225981,
-    "wof:lastmodified":1566602739,
+    "wof:lastmodified":1695877553,
     "wof:name":"Ryhope",
     "wof:parent_id":102048999,
     "wof:placetype":"localadmin",

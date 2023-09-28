@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004124,
-    "geom:area_square_m":40117837.697346,
+    "geom:area_square_m":40117837.697347,
     "geom:bbox":"145.739210912,-38.1669732,145.824715008,-38.081298997",
     "geom:latitude":-38.121614,
     "geom:longitude":145.778594,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.125033,
     "lbl:longitude":145.779216,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Longwarry"
@@ -38,9 +44,12 @@
         102048523
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20806"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"5036172062d802d73a8819c51c76232d",
+    "wof:geomhash":"336e108f456c5388bba20aa344b9dae5",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404539289,
-    "wof:lastmodified":1566602363,
+    "wof:lastmodified":1695877332,
     "wof:name":"Longwarry",
     "wof:parent_id":102048523,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.156025,
-    "geom:area_square_m":1676647543.547742,
+    "geom:area_square_m":1676647543.547515,
     "geom:bbox":"151.770588,-29.8781959965,152.452338496,-29.341837318",
     "geom:latitude":-29.65091,
     "geom:longitude":152.112755,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-29.670747,
     "lbl:longitude":152.141114,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Red Range"
@@ -38,9 +44,12 @@
         102049413
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11955"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"bc87e14e111a354efd2164656ecafa46",
+    "wof:geomhash":"267e63f5dd3090d406144443e57f05e2",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404225823,
-    "wof:lastmodified":1566602712,
+    "wof:lastmodified":1695877534,
     "wof:name":"Red Range",
     "wof:parent_id":102049413,
     "wof:placetype":"localadmin",

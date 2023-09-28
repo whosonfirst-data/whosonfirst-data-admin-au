@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.042405,
-    "geom:area_square_m":424429002.373832,
+    "geom:area_square_m":424429002.374053,
     "geom:bbox":"144.923606336,-36.1005430505,145.169952832,-35.820531361",
     "geom:latitude":-35.957372,
     "geom:longitude":145.054041,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.965142,
     "lbl:longitude":145.051705,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Picola"
@@ -38,9 +44,12 @@
         102048427
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21085"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"9640cb026d42fc13d71a61aade0fce10",
+    "wof:geomhash":"d112627ec0d3012595d5ab93b529de18",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404539913,
-    "wof:lastmodified":1566602382,
+    "wof:lastmodified":1695877344,
     "wof:name":"Picola",
     "wof:parent_id":102048427,
     "wof:placetype":"localadmin",

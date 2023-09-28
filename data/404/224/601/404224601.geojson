@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003692,
-    "geom:area_square_m":38392496.176541,
+    "geom:area_square_m":38392496.176465,
     "geom:bbox":"151.336430016,-32.811998794,151.434290016,-32.734720002",
     "geom:latitude":-32.765152,
     "geom:longitude":151.383519,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.769781,
     "lbl:longitude":151.376137,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Lovedale"
@@ -41,9 +47,12 @@
         102048575
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11412"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"26df8db0ed6665601b36fa501d95b402",
+    "wof:geomhash":"5ea9b818220d11a026ee3d924d4764cd",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404224601,
-    "wof:lastmodified":1566602639,
+    "wof:lastmodified":1695877496,
     "wof:name":"Lovedale",
     "wof:parent_id":102048575,
     "wof:placetype":"localadmin",

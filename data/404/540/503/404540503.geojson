@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.077117,
-    "geom:area_square_m":762439222.099009,
+    "geom:area_square_m":762439222.099123,
     "geom:bbox":"141.65766272,-37.0746890035,142.010032,-36.750436007",
     "geom:latitude":-36.911352,
     "geom:longitude":141.851168,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.904049,
     "lbl:longitude":141.872075,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Toolondo"
@@ -38,9 +44,12 @@
         102048541
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21349"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"8acfa51311d8203b11448ade98d54bfe",
+    "wof:geomhash":"bc57cbe04c853fe4bfc45727b6e25925",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404540503,
-    "wof:lastmodified":1566602987,
+    "wof:lastmodified":1695877711,
     "wof:name":"Toolondo",
     "wof:parent_id":102048541,
     "wof:placetype":"localadmin",

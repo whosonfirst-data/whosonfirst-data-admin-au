@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000107,
-    "geom:area_square_m":1080178.191129,
+    "geom:area_square_m":1080178.191128,
     "geom:bbox":"138.597290208,-34.978185513,138.609547744,-34.9654715915",
     "geom:latitude":-34.971094,
     "geom:longitude":138.604213,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.97105,
     "lbl:longitude":138.604214,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0425\u043e\u0442\u043e\u0440\u043d"
@@ -81,12 +87,15 @@
         102049629
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40279"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101936113
     ],
     "wof:country":"AU",
-    "wof:geomhash":"01bfd5cf8d7136118e76d87868b13a3a",
+    "wof:geomhash":"025521e49bc85d9234cdd8105f420a0a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -99,7 +108,7 @@
         }
     ],
     "wof:id":404545469,
-    "wof:lastmodified":1566602246,
+    "wof:lastmodified":1695877263,
     "wof:name":"Hawthorn",
     "wof:parent_id":102049629,
     "wof:placetype":"localadmin",

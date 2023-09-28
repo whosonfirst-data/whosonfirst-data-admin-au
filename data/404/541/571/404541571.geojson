@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004043,
-    "geom:area_square_m":44269366.078589,
+    "geom:area_square_m":44269366.078744,
     "geom:bbox":"152.469440992,-27.718523997,152.5478,-27.6177709805",
     "geom:latitude":-27.671243,
     "geom:longitude":152.509656,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.674635,
     "lbl:longitude":152.516749,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Calvert"
@@ -78,9 +84,12 @@
         102048583
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30299"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"b3d1df2f762374b36a577de39b6544ed",
+    "wof:geomhash":"af6a10a9216536aaa32eea1d0113cd4a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -93,7 +102,7 @@
         }
     ],
     "wof:id":404541571,
-    "wof:lastmodified":1566603094,
+    "wof:lastmodified":1695877768,
     "wof:name":"Calvert",
     "wof:parent_id":102048583,
     "wof:placetype":"localadmin",

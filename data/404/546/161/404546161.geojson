@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000668,
-    "geom:area_square_m":6914117.48594,
+    "geom:area_square_m":6914117.485932,
     "geom:bbox":"138.003903008,-33.221219201,138.036225952,-33.1894306325",
     "geom:latitude":-33.203069,
     "geom:longitude":138.017122,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.203649,
     "lbl:longitude":138.013895,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Port Pirie South"
@@ -38,12 +44,15 @@
         102049233
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40599"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101936497
     ],
     "wof:country":"AU",
-    "wof:geomhash":"cb6df348c1b98bbe1b182ebd315ab231",
+    "wof:geomhash":"d01a9ed058dc70711ef84548a7a74dec",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404546161,
-    "wof:lastmodified":1566603104,
+    "wof:lastmodified":1695877771,
     "wof:name":"Port Pirie South",
     "wof:parent_id":102049233,
     "wof:placetype":"localadmin",

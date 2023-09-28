@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.512268,
-    "geom:area_square_m":5214527054.28926,
+    "geom:area_square_m":5214527054.287728,
     "geom:bbox":"143.901104064,-34.8522987665,145.240752608,-34.188818892",
     "geom:latitude":-34.591066,
     "geom:longitude":144.526746,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.476228,
     "lbl:longitude":144.238168,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Hay South"
@@ -38,9 +44,12 @@
         102049589
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11088"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"f578e157e1c96d3861c4c707fa8e7a17",
+    "wof:geomhash":"303d9e4709bb5a537eeff9e91e858820",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404223873,
-    "wof:lastmodified":1566602504,
+    "wof:lastmodified":1695877416,
     "wof:name":"Hay South",
     "wof:parent_id":102049589,
     "wof:placetype":"localadmin",

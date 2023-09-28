@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000012,
-    "geom:area_square_m":139802.408422,
+    "geom:area_square_m":139802.408423,
     "geom:bbox":"150.761504992,-23.0775180375,150.766272,-23.071831008",
     "geom:latitude":-23.074688,
     "geom:longitude":150.763914,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-23.074655,
     "lbl:longitude":150.763948,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bangalee"
@@ -41,12 +47,15 @@
         102048825
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30097"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101933861
     ],
     "wof:country":"AU",
-    "wof:geomhash":"2ce6459b9ddcdd418e8bda70f643abb2",
+    "wof:geomhash":"5b7e96aab4734ff618ee03dad3a2a86e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404541143,
-    "wof:lastmodified":1566603069,
+    "wof:lastmodified":1695877753,
     "wof:name":"Bangalee",
     "wof:parent_id":102048825,
     "wof:placetype":"localadmin",

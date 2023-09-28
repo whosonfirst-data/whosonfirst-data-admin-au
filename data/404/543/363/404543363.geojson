@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000642,
-    "geom:area_square_m":7269172.00164,
+    "geom:area_square_m":7269172.001643,
     "geom:bbox":"150.366639008,-23.6606409975,150.40593792,-23.628697806",
     "geom:latitude":-23.64742,
     "geom:longitude":150.387711,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-23.644068,
     "lbl:longitude":150.392629,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mount Morgan"
@@ -53,12 +59,15 @@
         102048825
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31149"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934925
     ],
     "wof:country":"AU",
-    "wof:geomhash":"b56fb127eebae13e4164f8bb32b9ba5a",
+    "wof:geomhash":"315434afae1d4988ecc3d5ae2860f982",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -70,7 +79,7 @@
         }
     ],
     "wof:id":404543363,
-    "wof:lastmodified":1566602097,
+    "wof:lastmodified":1695877190,
     "wof:name":"Mount Morgan",
     "wof:parent_id":102048825,
     "wof:placetype":"localadmin",

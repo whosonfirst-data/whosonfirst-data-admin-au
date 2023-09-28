@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001244,
-    "geom:area_square_m":13646220.998045,
+    "geom:area_square_m":13646220.998011,
     "geom:bbox":"153.141630752,-27.5328197205,153.201655136,-27.5005437695",
     "geom:latitude":-27.516704,
     "geom:longitude":153.168219,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.51818,
     "lbl:longitude":153.16823,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062a\u0634\u0627\u0646\u062f\u0644\u0631"
@@ -105,12 +111,15 @@
         102049495
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30350"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934155
     ],
     "wof:country":"AU",
-    "wof:geomhash":"cd0640463ea9af313bec5ef0fed6b873",
+    "wof:geomhash":"9c591309d2fb6ae39d039d41c7434996",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -123,7 +132,7 @@
         }
     ],
     "wof:id":404541679,
-    "wof:lastmodified":1566603086,
+    "wof:lastmodified":1695877763,
     "wof:name":"Chandler",
     "wof:parent_id":102049495,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027414,
-    "geom:area_square_m":289467183.608171,
+    "geom:area_square_m":289467183.608216,
     "geom:bbox":"115.498721952,-31.4552468115,115.727629984,-31.261288575",
     "geom:latitude":-31.35884,
     "geom:longitude":115.61816,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.402171,
     "lbl:longitude":115.616954,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Neergabby"
@@ -38,9 +44,12 @@
         102049545
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50571"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"134cc8c820caee4bd67fe62461f01347",
+    "wof:geomhash":"ec95f3cd30cce5617e1729e0548e88e7",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404547967,
-    "wof:lastmodified":1566602953,
+    "wof:lastmodified":1695877690,
     "wof:name":"Neergabby",
     "wof:parent_id":102049545,
     "wof:placetype":"localadmin",

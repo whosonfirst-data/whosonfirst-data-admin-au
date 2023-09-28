@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.084813,
-    "geom:area_square_m":868882865.319249,
+    "geom:area_square_m":868882865.31962,
     "geom:bbox":"149.599583008,-34.2057680185,150.004704992,-33.8699819925",
     "geom:latitude":-34.054429,
     "geom:longitude":149.804746,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.058544,
     "lbl:longitude":149.821127,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Porters Retreat"
@@ -38,9 +44,12 @@
         102048655
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11899"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"fc4fa7ac8053ce471691bd2d89ff3d12",
+    "wof:geomhash":"77d78dc025a6b74c6be769157447377f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404225697,
-    "wof:lastmodified":1566602723,
+    "wof:lastmodified":1695877543,
     "wof:name":"Porters Retreat",
     "wof:parent_id":102048655,
     "wof:placetype":"localadmin",

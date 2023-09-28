@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006504,
-    "geom:area_square_m":71247180.707272,
+    "geom:area_square_m":71247180.707288,
     "geom:bbox":"151.617970016,-27.6991179965,151.71802576,-27.577220035",
     "geom:latitude":-27.635243,
     "geom:longitude":151.668217,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.634303,
     "lbl:longitude":151.672435,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Linthorpe"
@@ -41,9 +47,12 @@
         102049357
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30951"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"9fca3bc4fa591753e203a36cd2bb6966",
+    "wof:geomhash":"3c2dfc871f8932667f6a12f83e32cb1a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404542951,
-    "wof:lastmodified":1566602293,
+    "wof:lastmodified":1695877289,
     "wof:name":"Linthorpe",
     "wof:parent_id":102049357,
     "wof:placetype":"localadmin",

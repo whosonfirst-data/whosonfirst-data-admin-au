@@ -10,6 +10,12 @@
     "geom:latitude":-33.977559,
     "geom:longitude":151.1055,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.977764,
     "lbl:longitude":151.1055,
     "lbl:max_zoom":18.0,
@@ -55,13 +61,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC12105",
         "wd:id":"Q6271749"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931889
     ],
     "wof:country":"AU",
-    "wof:geomhash":"9cf08bc8bda3cd45db2d17d7cfac54ea",
+    "wof:geomhash":"0777455cbaed60c4545ee2ffa6a60c57",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -74,7 +82,7 @@
         }
     ],
     "wof:id":404226161,
-    "wof:lastmodified":1566602015,
+    "wof:lastmodified":1695877905,
     "wof:name":"South Hurstville",
     "wof:parent_id":102049593,
     "wof:placetype":"localadmin",

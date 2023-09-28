@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000385,
-    "geom:area_square_m":3512141.694966,
+    "geom:area_square_m":3512141.694977,
     "geom:bbox":"147.89692,-42.544577,147.927133,-42.493976",
     "geom:latitude":-42.513676,
     "geom:longitude":147.913392,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-42.500068,
     "lbl:longitude":147.911983,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Triabunna"
@@ -55,19 +61,22 @@
     "qs:source":"Australian Bureau Of Statistics",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681583,
         102191583,
         85632793,
-        102048801,
         136253039,
-        85681583
+        102048801
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60376"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938317
     ],
     "wof:country":"AU",
-    "wof:geomhash":"9e3515ec04e2bd6fa6bf5bb76342fd66",
+    "wof:geomhash":"30ff792450f48076bc499de73bbdc6dc",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -79,7 +88,7 @@
         }
     ],
     "wof:id":404549515,
-    "wof:lastmodified":1607987848,
+    "wof:lastmodified":1695877841,
     "wof:name":"Triabunna",
     "wof:parent_id":102048801,
     "wof:placetype":"localadmin",

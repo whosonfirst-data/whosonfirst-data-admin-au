@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000328,
-    "geom:area_square_m":3211112.360946,
+    "geom:area_square_m":3211127.737934,
     "geom:bbox":"145.03199,-37.751138,145.05845,-37.727324",
     "geom:latitude":-37.738141,
     "geom:longitude":145.043601,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.739963,
     "lbl:longitude":145.041593,
     "lbl:max_zoom":18.0,
@@ -55,10 +61,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC20618",
         "gn:id":2163653,
         "qs_pg:id":1028582,
         "wd:id":"Q5698734"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101933035
     ],
@@ -66,7 +74,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6eb5fa1f0e110395920380fd489d4f83",
+    "wof:geomhash":"edd31361ffe24e01e848494a43733337",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -79,7 +87,7 @@
         }
     ],
     "wof:id":404538871,
-    "wof:lastmodified":1690853591,
+    "wof:lastmodified":1695878054,
     "wof:name":"Heidelberg West",
     "wof:parent_id":102049337,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000122,
-    "geom:area_square_m":1264145.638065,
+    "geom:area_square_m":1264145.638058,
     "geom:bbox":"151.674466528,-32.9332200255,151.688873856,-32.9191741225",
     "geom:latitude":-32.92616,
     "geom:longitude":151.681919,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.92603,
     "lbl:longitude":151.68278,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Rankin Park"
@@ -39,12 +45,15 @@
         102048999
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11945"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931685
     ],
     "wof:country":"AU",
-    "wof:geomhash":"f19c10a89ee8b099e90149847684e14a",
+    "wof:geomhash":"d3052d960cc5614e649b88ec296fa7ee",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404225801,
-    "wof:lastmodified":1566602729,
+    "wof:lastmodified":1695877548,
     "wof:name":"Rankin Park",
     "wof:parent_id":102048999,
     "wof:placetype":"localadmin",

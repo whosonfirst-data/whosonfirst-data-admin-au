@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030192,
-    "geom:area_square_m":324247331.933924,
+    "geom:area_square_m":324247331.933802,
     "geom:bbox":"153.059387488,-29.7998639995,153.333974272,-29.5917750005",
     "geom:latitude":-29.71344,
     "geom:longitude":153.196841,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-29.715939,
     "lbl:longitude":153.198964,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Pillar Valley"
@@ -38,9 +44,12 @@
         102048835
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11877"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"25d04225e8bf37ca3abd26c3bd77ce16",
+    "wof:geomhash":"6d28463e5c4bea0ed56b838f5bce644e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404225647,
-    "wof:lastmodified":1566602715,
+    "wof:lastmodified":1695877537,
     "wof:name":"Pillar Valley",
     "wof:parent_id":102048835,
     "wof:placetype":"localadmin",

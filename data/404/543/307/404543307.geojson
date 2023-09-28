@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001395,
-    "geom:area_square_m":15297863.929576,
+    "geom:area_square_m":15297863.929567,
     "geom:bbox":"152.776943008,-27.556908774,152.84931072,-27.5080469995",
     "geom:latitude":-27.528451,
     "geom:longitude":152.811323,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.520342,
     "lbl:longitude":152.817887,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mount Crosby"
@@ -39,12 +45,15 @@
         102049495
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31124"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934903
     ],
     "wof:country":"AU",
-    "wof:geomhash":"2c368fb5ac639c143e077fc706cd5dfe",
+    "wof:geomhash":"629ee7ed38a9c4a90ad01d2da12bf217",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404543307,
-    "wof:lastmodified":1566602090,
+    "wof:lastmodified":1695877187,
     "wof:name":"Mount Crosby",
     "wof:parent_id":102049495,
     "wof:placetype":"localadmin",

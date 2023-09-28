@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006841,
-    "geom:area_square_m":71316694.184545,
+    "geom:area_square_m":71316694.184386,
     "geom:bbox":"151.196456,-32.623611,151.270320992,-32.4463550075",
     "geom:latitude":-32.538387,
     "geom:longitude":151.236177,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.564044,
     "lbl:longitude":151.236733,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sedgefield"
@@ -68,9 +74,12 @@
         102048757
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12060"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"8dc649fbe29ccd78f46610d80c3e957f",
+    "wof:geomhash":"088abf96e4ba1539eba59d6d5d9c3078",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -82,7 +91,7 @@
         }
     ],
     "wof:id":404226059,
-    "wof:lastmodified":1566602075,
+    "wof:lastmodified":1695877177,
     "wof:name":"Sedgefield",
     "wof:parent_id":102048757,
     "wof:placetype":"localadmin",

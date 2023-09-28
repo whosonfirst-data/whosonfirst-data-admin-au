@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000676,
-    "geom:area_square_m":6612054.890771,
+    "geom:area_square_m":6612054.890754,
     "geom:bbox":"145.260351008,-37.7188793535,145.311404992,-37.6821299915",
     "geom:latitude":-37.698019,
     "geom:longitude":145.283657,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.698052,
     "lbl:longitude":145.279752,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bend Of Islands"
@@ -38,12 +44,15 @@
         102048735
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20117"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932589
     ],
     "wof:country":"AU",
-    "wof:geomhash":"e5f93758e938d176827b62af2ac29d18",
+    "wof:geomhash":"ea177f413a08a8ea082bc661e8c549ad",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404537755,
-    "wof:lastmodified":1566602319,
+    "wof:lastmodified":1695877305,
     "wof:name":"Bend Of Islands",
     "wof:parent_id":102048735,
     "wof:placetype":"localadmin",

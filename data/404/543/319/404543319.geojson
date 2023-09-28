@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001876,
-    "geom:area_square_m":20606672.432862,
+    "geom:area_square_m":20606672.432864,
     "geom:bbox":"152.747224992,-27.351179006,152.809854304,-27.2945678035",
     "geom:latitude":-27.318774,
     "geom:longitude":152.776442,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.336294,
     "lbl:longitude":152.781189,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mount Glorious"
@@ -39,9 +45,12 @@
         102049131
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31129"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"4cd18cb5c526a4ccb12be80c7d575a47",
+    "wof:geomhash":"2c474880e689a6311f1a0bd32f80e793",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":404543319,
-    "wof:lastmodified":1566602143,
+    "wof:lastmodified":1695877214,
     "wof:name":"Mount Glorious",
     "wof:parent_id":102049131,
     "wof:placetype":"localadmin",

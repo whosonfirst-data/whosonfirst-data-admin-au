@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.054278,
-    "geom:area_square_m":561996477.053359,
+    "geom:area_square_m":561996477.053494,
     "geom:bbox":"116.146819328,-33.3056556615,116.41258048,-32.994577958",
     "geom:latitude":-33.138183,
     "geom:longitude":116.305984,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.134042,
     "lbl:longitude":116.30854,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Yourdamung Lake"
@@ -38,9 +44,12 @@
         102048673
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50887"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"1297a7df806486223ed9e9536ac930d4",
+    "wof:geomhash":"045440ff26df6ec464279bab8322db58",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404548669,
-    "wof:lastmodified":1566603180,
+    "wof:lastmodified":1695877806,
     "wof:name":"Yourdamung Lake",
     "wof:parent_id":102048673,
     "wof:placetype":"localadmin",

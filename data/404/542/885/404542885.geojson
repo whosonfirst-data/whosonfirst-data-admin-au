@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00432,
-    "geom:area_square_m":49982080.748146,
+    "geom:area_square_m":49982080.748136,
     "geom:bbox":"148.637321984,-20.6902310475,148.720637152,-20.5905024315",
     "geom:latitude":-20.64433,
     "geom:longitude":148.677805,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-20.63688,
     "lbl:longitude":148.673712,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Laguna Quays"
@@ -38,12 +44,15 @@
         102048783
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30921"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934703
     ],
     "wof:country":"AU",
-    "wof:geomhash":"62d2d724736aa7059cb314750059491f",
+    "wof:geomhash":"7d7ca179d728af40fffb6ed73f5d629e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404542885,
-    "wof:lastmodified":1566602300,
+    "wof:lastmodified":1695877295,
     "wof:name":"Laguna Quays",
     "wof:parent_id":102048783,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00094,
-    "geom:area_square_m":9914698.650809,
+    "geom:area_square_m":9914698.650815,
     "geom:bbox":"152.648252,-31.4670410055,152.705936992,-31.4231434655",
     "geom:latitude":-31.440327,
     "geom:longitude":152.671284,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.437396,
     "lbl:longitude":152.659696,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Beechwood"
@@ -38,9 +44,12 @@
         102049203
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10145"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"837d22dd6c4f1c2c09ba6d6cf358776c",
+    "wof:geomhash":"cd1574ef9a10cdee7061e69934c4209c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404221751,
-    "wof:lastmodified":1566601990,
+    "wof:lastmodified":1695877128,
     "wof:name":"Beechwood",
     "wof:parent_id":102049203,
     "wof:placetype":"localadmin",

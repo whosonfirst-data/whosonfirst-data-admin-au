@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020484,
-    "geom:area_square_m":199357299.914335,
+    "geom:area_square_m":199357299.91434,
     "geom:bbox":"143.809865376,-38.1385420115,144.106936,-38.03032998",
     "geom:latitude":-38.085347,
     "geom:longitude":143.946762,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.079844,
     "lbl:longitude":143.943838,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Inverleigh"
@@ -38,9 +44,12 @@
         102049027
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20655"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"e8d5d3ae55f3dcbfd1a60a5afeb45dba",
+    "wof:geomhash":"6036a6dfcda56b28c312cc3956c62b2a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404538951,
-    "wof:lastmodified":1566602461,
+    "wof:lastmodified":1695877391,
     "wof:name":"Inverleigh",
     "wof:parent_id":102049027,
     "wof:placetype":"localadmin",

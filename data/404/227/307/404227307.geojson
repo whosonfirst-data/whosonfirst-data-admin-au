@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006528,
-    "geom:area_square_m":66744415.783242,
+    "geom:area_square_m":66744415.783235,
     "geom:bbox":"146.125408,-34.28750063,146.255390112,-34.181203848",
     "geom:latitude":-34.227423,
     "geom:longitude":146.197705,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.228169,
     "lbl:longitude":146.20408,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Yenda"
@@ -56,9 +62,12 @@
         102049013
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12614"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"59a023da521e6f6209709c135bbef000",
+    "wof:geomhash":"a52aadd6760fac7665925be05efc8c94",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -70,7 +79,7 @@
         }
     ],
     "wof:id":404227307,
-    "wof:lastmodified":1566601934,
+    "wof:lastmodified":1695877101,
     "wof:name":"Yenda",
     "wof:parent_id":102049013,
     "wof:placetype":"localadmin",

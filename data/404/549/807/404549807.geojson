@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00101,
-    "geom:area_square_m":12080152.737384,
+    "geom:area_square_m":12080152.737366,
     "geom:bbox":"134.726911008,-14.7521119995,134.759560992,-14.714201004",
     "geom:latitude":-14.73256,
     "geom:longitude":134.7441,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-14.732608,
     "lbl:longitude":134.743787,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Ngukurr"
@@ -44,12 +50,15 @@
         102048829
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC70143"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938589
     ],
     "wof:country":"AU",
-    "wof:geomhash":"22e4fa4169f773abdb4af763ec2a88d5",
+    "wof:geomhash":"f08b9f317f0839c6b6c92f1a75abedde",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":404549807,
-    "wof:lastmodified":1566602898,
+    "wof:lastmodified":1695877660,
     "wof:name":"Ngukurr",
     "wof:parent_id":102048829,
     "wof:placetype":"localadmin",

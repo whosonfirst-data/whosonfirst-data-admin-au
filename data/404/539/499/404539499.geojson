@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.066766,
-    "geom:area_square_m":664351118.133119,
+    "geom:area_square_m":664351118.133254,
     "geom:bbox":"142.327443008,-36.5486420955,142.742950496,-36.2972919565",
     "geom:latitude":-36.417688,
     "geom:longitude":142.584016,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.417662,
     "lbl:longitude":142.608626,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Minyip"
@@ -50,9 +56,12 @@
         102048571
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20899"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"80993f8362751a041b4a49ec19e739dc",
+    "wof:geomhash":"6635db25d807cab8341d10563b6797f9",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":404539499,
-    "wof:lastmodified":1566602369,
+    "wof:lastmodified":1695877336,
     "wof:name":"Minyip",
     "wof:parent_id":102048571,
     "wof:placetype":"localadmin",

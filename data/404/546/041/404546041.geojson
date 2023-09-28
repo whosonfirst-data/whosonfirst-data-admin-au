@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000352,
-    "geom:area_square_m":3573994.609449,
+    "geom:area_square_m":3573994.609451,
     "geom:bbox":"138.65514912,-34.876948999,138.695620992,-34.8625769965",
     "geom:latitude":-34.871074,
     "geom:longitude":138.676242,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.872002,
     "lbl:longitude":138.675854,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0641\u0631\u062f\u0648\u0633"
@@ -222,12 +228,15 @@
         102049079
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40544"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101936417
     ],
     "wof:country":"AU",
-    "wof:geomhash":"359d1e8fde96ba1f62fda6d862c9a089",
+    "wof:geomhash":"506a4fe44ded3c86fa2beab7d28f869c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -240,7 +249,7 @@
         }
     ],
     "wof:id":404546041,
-    "wof:lastmodified":1566603109,
+    "wof:lastmodified":1695877773,
     "wof:name":"Paradise",
     "wof:parent_id":102049079,
     "wof:placetype":"localadmin",

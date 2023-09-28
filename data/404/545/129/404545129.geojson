@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006763,
-    "geom:area_square_m":66066609.118364,
+    "geom:area_square_m":66066609.11836,
     "geom:bbox":"140.627244,-37.857224999,140.750435104,-37.758353007",
     "geom:latitude":-37.808304,
     "geom:longitude":140.685013,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.794709,
     "lbl:longitude":140.673846,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u041a\u043e\u043c\u043f\u0442\u0430\u043d"
@@ -116,9 +122,12 @@
         102049129
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40124"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"58d00c7d26a25f3ab70bbb40ed93bf5d",
+    "wof:geomhash":"2f1381e1c15093718f822f4f485ea63f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -130,7 +139,7 @@
         }
     ],
     "wof:id":404545129,
-    "wof:lastmodified":1566602227,
+    "wof:lastmodified":1695877255,
     "wof:name":"Compton",
     "wof:parent_id":102049129,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.051004,
-    "geom:area_square_m":528851108.359756,
+    "geom:area_square_m":528851108.359912,
     "geom:bbox":"149.637979392,-33.1459439405,149.946684512,-32.8722250075",
     "geom:latitude":-33.012317,
     "geom:longitude":149.8029,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.012186,
     "lbl:longitude":149.79048,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0627\u06cc\u0644\u0641\u0648\u0631\u062f"
@@ -98,9 +104,12 @@
         102049261
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11154"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"42313c19a68015462c1776402466ffb5",
+    "wof:geomhash":"347c06112a93547b7de4007108d71023",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -112,7 +121,7 @@
         }
     ],
     "wof:id":404224021,
-    "wof:lastmodified":1566602632,
+    "wof:lastmodified":1695877492,
     "wof:name":"Ilford",
     "wof:parent_id":102049261,
     "wof:placetype":"localadmin",

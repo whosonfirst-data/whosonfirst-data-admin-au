@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004547,
-    "geom:area_square_m":44571701.841157,
+    "geom:area_square_m":44571701.841179,
     "geom:bbox":"145.29528,-37.610441992,145.387956992,-37.4886850005",
     "geom:latitude":-37.552705,
     "geom:longitude":145.345949,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.570763,
     "lbl:longitude":145.339043,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kinglake"
@@ -38,9 +44,12 @@
         102048735
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20716"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"88e782c48f4873259a51f0a0435ad150",
+    "wof:geomhash":"7e533e748f11bc396d4ec911d91b82a0",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404539089,
-    "wof:lastmodified":1566602392,
+    "wof:lastmodified":1695877350,
     "wof:name":"Kinglake",
     "wof:parent_id":102048735,
     "wof:placetype":"localadmin",

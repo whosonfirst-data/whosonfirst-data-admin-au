@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000043,
-    "geom:area_square_m":439723.995622,
+    "geom:area_square_m":439723.995621,
     "geom:bbox":"138.571066816,-34.946329105,138.582884192,-34.941619005",
     "geom:latitude":-34.943863,
     "geom:longitude":138.576405,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.943963,
     "lbl:longitude":138.576405,
     "lbl:max_zoom":18.0,
@@ -85,13 +91,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC40338",
         "wd:id":"Q6395265"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101936185
     ],
     "wof:country":"AU",
-    "wof:geomhash":"4a34f517d956b095e37ef4ae8a3ebdc1",
+    "wof:geomhash":"4e1d8170b1249037c8f98e1f049ce923",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -104,7 +112,7 @@
         }
     ],
     "wof:id":404545601,
-    "wof:lastmodified":1566602248,
+    "wof:lastmodified":1695877936,
     "wof:name":"Keswick",
     "wof:parent_id":102049621,
     "wof:placetype":"localadmin",

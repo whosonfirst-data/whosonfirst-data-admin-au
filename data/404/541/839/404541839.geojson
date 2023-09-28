@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000145,
-    "geom:area_square_m":1627224.696103,
+    "geom:area_square_m":1627224.696105,
     "geom:bbox":"152.474839008,-24.8908650235,152.489706848,-24.873169866",
     "geom:latitude":-24.883085,
     "geom:longitude":152.482657,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-24.883579,
     "lbl:longitude":152.483162,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Coral Cove"
@@ -38,12 +44,15 @@
         102048763
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30428"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934227
     ],
     "wof:country":"AU",
-    "wof:geomhash":"c482091bb87ebe84cc81e1cd18a3e689",
+    "wof:geomhash":"23657d2ac6a61d06316d3de558865037",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404541839,
-    "wof:lastmodified":1566603091,
+    "wof:lastmodified":1695877766,
     "wof:name":"Coral Cove",
     "wof:parent_id":102048763,
     "wof:placetype":"localadmin",

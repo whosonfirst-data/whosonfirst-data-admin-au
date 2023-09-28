@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000736,
-    "geom:area_square_m":8890802.908505,
+    "geom:area_square_m":8890802.908506,
     "geom:bbox":"136.868664,-12.27438208,136.913558464,-12.218267362",
     "geom:latitude":-12.247951,
     "geom:longitude":136.884863,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-12.248277,
     "lbl:longitude":136.878657,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Yirrkala"
@@ -53,12 +59,15 @@
         102049201
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC70213"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938693
     ],
     "wof:country":"AU",
-    "wof:geomhash":"2e4f6c87d845f1669bc9a5e5dc13d25c",
+    "wof:geomhash":"7b886c684f88e37e7880a1a23c213bc4",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -70,7 +79,7 @@
         }
     ],
     "wof:id":404549915,
-    "wof:lastmodified":1566602856,
+    "wof:lastmodified":1695877630,
     "wof:name":"Yirrkala",
     "wof:parent_id":102049201,
     "wof:placetype":"localadmin",

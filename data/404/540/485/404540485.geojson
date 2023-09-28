@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.209757,
-    "geom:area_square_m":2071572416.402642,
+    "geom:area_square_m":2071572416.402281,
     "geom:bbox":"147.703138016,-37.3904180325,148.26212784,-36.6124276535",
     "geom:latitude":-36.994268,
     "geom:longitude":148.035917,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.068553,
     "lbl:longitude":148.055348,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tom Groggin"
@@ -38,9 +44,12 @@
         102049039
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21341"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"8c9928c6750a49762acf9018c978eba3",
+    "wof:geomhash":"a0d525474f453099921bdde3a6bfee76",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404540485,
-    "wof:lastmodified":1566602990,
+    "wof:lastmodified":1695877713,
     "wof:name":"Tom Groggin",
     "wof:parent_id":102049039,
     "wof:placetype":"localadmin",

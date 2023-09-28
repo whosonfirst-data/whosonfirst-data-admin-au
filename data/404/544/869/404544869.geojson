@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00072,
-    "geom:area_square_m":7296135.798861,
+    "geom:area_square_m":7296135.798859,
     "geom:bbox":"138.514012064,-34.9627882035,138.54912192,-34.9324850555",
     "geom:latitude":-34.946129,
     "geom:longitude":138.530802,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.945005,
     "lbl:longitude":138.530468,
     "lbl:max_zoom":18.0,
@@ -97,13 +103,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC40003",
         "wd:id":"Q24185577"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935723
     ],
     "wof:country":"AU",
-    "wof:geomhash":"d2b24fd821891c2c142ec4f037c9ca5d",
+    "wof:geomhash":"ec306bfc084066876c730a8f856fb457",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -116,7 +124,7 @@
         }
     ],
     "wof:id":404544869,
-    "wof:lastmodified":1566602167,
+    "wof:lastmodified":1695877925,
     "wof:name":"Adelaide Airport",
     "wof:parent_id":102049621,
     "wof:placetype":"localadmin",

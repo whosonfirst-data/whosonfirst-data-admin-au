@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000038,
-    "geom:area_square_m":384854.406078,
+    "geom:area_square_m":384854.406075,
     "geom:bbox":"150.98882,-34.1371704995,150.996359776,-34.126311832",
     "geom:latitude":-34.132474,
     "geom:longitude":150.992807,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.133648,
     "lbl:longitude":150.99306,
     "lbl:max_zoom":18.0,
@@ -385,13 +391,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC12433",
         "wd:id":"Q6270655"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932257
     ],
     "wof:country":"AU",
-    "wof:geomhash":"9947d832a173fbb17c1cb5a23d86d828",
+    "wof:geomhash":"b82b5cf2bb416e9df2fe2cd2d7249e06",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -404,7 +412,7 @@
         }
     ],
     "wof:id":404226899,
-    "wof:lastmodified":1566602079,
+    "wof:lastmodified":1695877912,
     "wof:name":"Waterfall",
     "wof:parent_id":102049511,
     "wof:placetype":"localadmin",

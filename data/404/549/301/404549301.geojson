@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006321,
-    "geom:area_square_m":57025015.973223,
+    "geom:area_square_m":57025143.161193,
     "geom:bbox":"147.792329,-43.212984,147.885498,-43.093205",
     "geom:latitude":-43.146913,
     "geom:longitude":147.83534,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-43.135341,
     "lbl:longitude":147.826851,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09aa\u09cb\u09b0\u09cd\u099f \u0986\u09b0\u09cd\u09a5\u09be\u09b0"
@@ -128,9 +134,12 @@
         102048661
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60281"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"aaffe487d5d02379fa13f0ac69f70759",
+    "wof:geomhash":"1f63897f73fd3ef2e19a4c33d8977d5d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -142,7 +151,7 @@
         }
     ],
     "wof:id":404549301,
-    "wof:lastmodified":1636494658,
+    "wof:lastmodified":1695877870,
     "wof:name":"Port Arthur",
     "wof:parent_id":102048661,
     "wof:placetype":"localadmin",

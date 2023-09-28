@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000084,
-    "geom:area_square_m":857340.781057,
+    "geom:area_square_m":857333.36683,
     "geom:bbox":"151.21213,-33.885041,151.229422,-33.873753",
     "geom:latitude":-33.877909,
     "geom:longitude":151.21944,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.878131,
     "lbl:longitude":151.219439,
     "lbl:max_zoom":18.0,
@@ -112,13 +118,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC10691",
         "wd:id":"Q1011478"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101930065
     ],
     "wof:country":"AU",
-    "wof:geomhash":"34333793f0082b25634128e6f47544ad",
+    "wof:geomhash":"ef531fd07dbed3d4e1ab998b1520d3bd",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -131,7 +139,7 @@
         }
     ],
     "wof:id":404222979,
-    "wof:lastmodified":1690853698,
+    "wof:lastmodified":1695877999,
     "wof:name":"Darlinghurst",
     "wof:parent_id":102049151,
     "wof:placetype":"localadmin",

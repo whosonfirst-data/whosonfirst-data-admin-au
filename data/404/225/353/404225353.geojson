@@ -10,12 +10,18 @@
     "geom:latitude":-33.417516,
     "geom:longitude":151.354545,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.417987,
     "lbl:longitude":151.355602,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "North Gosford"
@@ -38,12 +44,15 @@
         102048513
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11746"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931441
     ],
     "wof:country":"AU",
-    "wof:geomhash":"1a97b3cff1fc626f74ac78ec86fa2b81",
+    "wof:geomhash":"3bf84d0773352a36f135cd9278cba3cf",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404225353,
-    "wof:lastmodified":1566602662,
+    "wof:lastmodified":1695877508,
     "wof:name":"North Gosford",
     "wof:parent_id":102048513,
     "wof:placetype":"localadmin",

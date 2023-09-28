@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009084,
-    "geom:area_square_m":93754544.707221,
+    "geom:area_square_m":93754544.707132,
     "geom:bbox":"148.981976,-33.463860946,149.171199168,-33.369346851",
     "geom:latitude":-33.415674,
     "geom:longitude":149.057511,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.415041,
     "lbl:longitude":149.027448,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Spring Terrace"
@@ -38,9 +44,12 @@
         102048769
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12132"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"c062c5598fe8d067621f24e28de6c338",
+    "wof:geomhash":"f86b677d4c2df38db545a1cfb2941a47",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404226221,
-    "wof:lastmodified":1566602026,
+    "wof:lastmodified":1695877146,
     "wof:name":"Spring Terrace",
     "wof:parent_id":102048769,
     "wof:placetype":"localadmin",

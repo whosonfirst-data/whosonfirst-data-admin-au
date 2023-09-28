@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.101143,
-    "geom:area_square_m":1068313759.815166,
+    "geom:area_square_m":1068313759.815174,
     "geom:bbox":"118.015131232,-31.5150660065,118.551287872,-31.137697327",
     "geom:latitude":-31.328025,
     "geom:longitude":118.334118,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.282733,
     "lbl:longitude":118.405045,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Burracoppin"
@@ -38,9 +44,12 @@
         102049555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50113"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"4fbce310ff49556d02fc66c113b77b32",
+    "wof:geomhash":"2066749ad26ceac4dc589564fa267cc0",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404546941,
-    "wof:lastmodified":1566603124,
+    "wof:lastmodified":1695877779,
     "wof:name":"Burracoppin",
     "wof:parent_id":102049555,
     "wof:placetype":"localadmin",

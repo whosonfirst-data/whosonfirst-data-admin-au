@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000176,
-    "geom:area_square_m":1696062.079543,
+    "geom:area_square_m":1696085.399147,
     "geom:bbox":"142.860809,-38.610158,142.884575,-38.591405",
     "geom:latitude":-38.601887,
     "geom:longitude":142.874557,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.601564,
     "lbl:longitude":142.875349,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Peterborough"
@@ -212,12 +218,15 @@
         102049109
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21082"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101933401
     ],
     "wof:country":"AU",
-    "wof:geomhash":"5823238d4f8509c145c5f274a9fa916a",
+    "wof:geomhash":"3dfbe1c9b994792b1e4aeac40557c7a1",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -229,7 +238,7 @@
         }
     ],
     "wof:id":404539905,
-    "wof:lastmodified":1636494636,
+    "wof:lastmodified":1695877859,
     "wof:name":"Peterborough",
     "wof:parent_id":102049109,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000503,
-    "geom:area_square_m":5501407.693982,
+    "geom:area_square_m":5501407.694004,
     "geom:bbox":"153.384777888,-27.9272919645,153.41320224,-27.898734347",
     "geom:latitude":-27.913863,
     "geom:longitude":153.397745,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.914183,
     "lbl:longitude":153.398061,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Runaway Bay"
@@ -48,12 +54,15 @@
         102049363
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31439"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935253
     ],
     "wof:country":"AU",
-    "wof:geomhash":"ed975a4c758ab12d8f1dbe42d58e1a55",
+    "wof:geomhash":"eb396029f8951356526652f69f241691",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -66,7 +75,7 @@
         }
     ],
     "wof:id":404543987,
-    "wof:lastmodified":1566602140,
+    "wof:lastmodified":1695877213,
     "wof:name":"Runaway Bay",
     "wof:parent_id":102049363,
     "wof:placetype":"localadmin",

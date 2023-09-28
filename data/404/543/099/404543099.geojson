@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001861,
-    "geom:area_square_m":20763999.846134,
+    "geom:area_square_m":20764035.278154,
     "geom:bbox":"152.66653,-25.561371,152.727495,-25.503456",
     "geom:latitude":-25.529216,
     "geom:longitude":152.699268,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-25.527813,
     "lbl:longitude":152.69374,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09ae\u09cd\u09af\u09be\u09b0\u09bf\u09ac\u09cb\u09b0\u09cb"
@@ -98,12 +104,15 @@
         102049435
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31022"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934797
     ],
     "wof:country":"AU",
-    "wof:geomhash":"3e0b9ec28335d022c97a0249d12afb89",
+    "wof:geomhash":"d5d50bf56107bd2787a8069f59ade73d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -115,7 +124,7 @@
         }
     ],
     "wof:id":404543099,
-    "wof:lastmodified":1636494616,
+    "wof:lastmodified":1695877850,
     "wof:name":"Maryborough",
     "wof:parent_id":102049435,
     "wof:placetype":"localadmin",

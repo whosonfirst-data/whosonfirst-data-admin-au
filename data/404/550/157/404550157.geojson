@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000492,
-    "geom:area_square_m":5951179.935416,
+    "geom:area_square_m":5951179.935373,
     "geom:bbox":"96.816941,-12.20712,96.86673,-12.134842",
     "geom:latitude":-12.173927,
     "geom:longitude":96.831196,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-12.14498,
     "lbl:longitude":96.820874,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "West Keeling Island"
@@ -35,12 +41,15 @@
         85672275
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC90005"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938929
     ],
     "wof:country":"AU",
-    "wof:geomhash":"ef75ed0e3ab18cb92c0fc3d5fd81d8a5",
+    "wof:geomhash":"e227c0a614e800327292a931d55db852",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":404550157,
-    "wof:lastmodified":1607987830,
+    "wof:lastmodified":1695877840,
     "wof:name":"West Keeling Island",
     "wof:parent_id":85672275,
     "wof:placetype":"localadmin",

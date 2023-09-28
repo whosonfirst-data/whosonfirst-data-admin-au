@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00116,
-    "geom:area_square_m":12626686.95919,
+    "geom:area_square_m":12626686.959179,
     "geom:bbox":"153.464482016,-28.3493589935,153.522359008,-28.309619791",
     "geom:latitude":-28.328483,
     "geom:longitude":153.491215,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.324607,
     "lbl:longitude":153.486861,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Clothiers Creek"
@@ -44,9 +50,12 @@
         102048589
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10541"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"379ec41820cdfc979738db8b82484255",
+    "wof:geomhash":"1dcd34f7624a7e415961286172f27bfc",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404222641,
-    "wof:lastmodified":1566602797,
+    "wof:lastmodified":1695877590,
     "wof:name":"Clothiers Creek",
     "wof:parent_id":102048589,
     "wof:placetype":"localadmin",

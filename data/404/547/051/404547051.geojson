@@ -10,6 +10,12 @@
     "geom:latitude":-33.37587,
     "geom:longitude":115.659065,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.375289,
     "lbl:longitude":115.659072,
     "lbl:max_zoom":18.0,
@@ -43,13 +49,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC50162",
         "wd:id":"Q5146405"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937025
     ],
     "wof:country":"AU",
-    "wof:geomhash":"4dad047f1503cffd18d6093a6f7df934",
+    "wof:geomhash":"15ffa137d26a747adec55e3e4b299b6e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -62,7 +70,7 @@
         }
     ],
     "wof:id":404547051,
-    "wof:lastmodified":1566602969,
+    "wof:lastmodified":1695878021,
     "wof:name":"College Grove",
     "wof:parent_id":102048605,
     "wof:placetype":"localadmin",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00004,
-    "geom:area_square_m":414819.555182,
+    "geom:area_square_m":414819.555181,
     "geom:bbox":"151.097704064,-33.9292489995,151.10891696,-33.922724031",
     "geom:latitude":-33.926279,
     "geom:longitude":151.104099,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.926183,
     "lbl:longitude":151.104098,
     "lbl:max_zoom":18.0,
@@ -61,13 +67,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC10537",
         "wd:id":"Q691601"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101929927
     ],
     "wof:country":"AU",
-    "wof:geomhash":"04a4d06ec5154781290d106504d4ddcf",
+    "wof:geomhash":"38eeed235a4960710f805def0acd06aa",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -80,7 +88,7 @@
         }
     ],
     "wof:id":404222633,
-    "wof:lastmodified":1566602763,
+    "wof:lastmodified":1695877998,
     "wof:name":"Clemton Park",
     "wof:parent_id":102049409,
     "wof:placetype":"localadmin",

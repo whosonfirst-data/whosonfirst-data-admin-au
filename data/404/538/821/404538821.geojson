@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.176046,
-    "geom:area_square_m":1737571914.01864,
+    "geom:area_square_m":1737571914.018628,
     "geom:bbox":"146.882627008,-37.275538305,147.39225776,-36.767535002",
     "geom:latitude":-37.040334,
     "geom:longitude":147.137617,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.12265,
     "lbl:longitude":147.116582,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Harrietville"
@@ -38,9 +44,12 @@
         102049467
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20596"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"294733fd57591e178e23b65439e5f4ea",
+    "wof:geomhash":"edb4423cad7adf4e5376c7984644b84d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404538821,
-    "wof:lastmodified":1566602435,
+    "wof:lastmodified":1695877378,
     "wof:name":"Harrietville",
     "wof:parent_id":102049467,
     "wof:placetype":"localadmin",

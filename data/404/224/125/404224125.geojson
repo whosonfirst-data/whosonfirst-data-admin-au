@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.039202,
-    "geom:area_square_m":419845623.780112,
+    "geom:area_square_m":419845623.78058,
     "geom:bbox":"152.738887008,-30.147777571,152.926667008,-29.825416995",
     "geom:latitude":-29.989499,
     "geom:longitude":152.83301,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-29.991314,
     "lbl:longitude":152.842444,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kangaroo Creek"
@@ -38,9 +44,12 @@
         102048835
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11200"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"98f1ae266011d8b05183b985feb25663",
+    "wof:geomhash":"550eb1c3763c60e3660b25164e864c4f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404224125,
-    "wof:lastmodified":1566602652,
+    "wof:lastmodified":1695877502,
     "wof:name":"Kangaroo Creek",
     "wof:parent_id":102048835,
     "wof:placetype":"localadmin",

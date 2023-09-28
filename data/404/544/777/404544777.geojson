@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.064044,
-    "geom:area_square_m":755758894.716873,
+    "geom:area_square_m":755758894.716917,
     "geom:bbox":"145.656731008,-17.613634002,145.925960512,-17.113794342",
     "geom:latitude":-17.380666,
     "geom:longitude":145.800689,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-17.392758,
     "lbl:longitude":145.809952,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Wooroonooran"
@@ -41,9 +47,12 @@
         102048519
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31818"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"1b69a38cf82e025dd1d249f7829bfbfb",
+    "wof:geomhash":"cbfc480b94aa39b5fbd70acfde4a0746",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404544777,
-    "wof:lastmodified":1566602176,
+    "wof:lastmodified":1695877231,
     "wof:name":"Wooroonooran",
     "wof:parent_id":102048519,
     "wof:placetype":"localadmin",

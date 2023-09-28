@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00042,
-    "geom:area_square_m":4634653.095807,
+    "geom:area_square_m":4634653.095809,
     "geom:bbox":"153.010855424,-26.7043990075,153.037226016,-26.676169432",
     "geom:latitude":-26.691644,
     "geom:longitude":153.025015,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-26.691641,
     "lbl:longitude":153.024814,
     "lbl:max_zoom":18.0,
@@ -244,13 +250,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC31083",
         "wd:id":"Q6902457"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934869
     ],
     "wof:country":"AU",
-    "wof:geomhash":"6839a840e0e4831c57f3e69f7eeb3248",
+    "wof:geomhash":"c39e3873f14d99a3483381a07139f1e9",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -263,7 +271,7 @@
         }
     ],
     "wof:id":404543219,
-    "wof:lastmodified":1566602102,
+    "wof:lastmodified":1695877915,
     "wof:name":"Mons",
     "wof:parent_id":102049303,
     "wof:placetype":"localadmin",

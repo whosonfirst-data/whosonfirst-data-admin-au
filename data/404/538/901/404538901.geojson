@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000838,
-    "geom:area_square_m":8201228.866671,
+    "geom:area_square_m":8201228.866684,
     "geom:bbox":"144.724728,-37.706568103,144.758351424,-37.675480999",
     "geom:latitude":-37.690471,
     "geom:longitude":144.741722,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.690563,
     "lbl:longitude":144.741718,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Hillside"
@@ -81,12 +87,15 @@
         102048697
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20632"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101933049
     ],
     "wof:country":"AU",
-    "wof:geomhash":"41f96be14c884b7bf0f14ed6e2925118",
+    "wof:geomhash":"be09f95a54753df515fd65add2dec9a0",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -99,7 +108,7 @@
         }
     ],
     "wof:id":404538901,
-    "wof:lastmodified":1566602425,
+    "wof:lastmodified":1695877373,
     "wof:name":"Hillside",
     "wof:parent_id":102048697,
     "wof:placetype":"localadmin",

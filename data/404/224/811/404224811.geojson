@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013889,
-    "geom:area_square_m":141630594.064582,
+    "geom:area_square_m":141630628.893237,
     "geom:bbox":"150.170095,-34.519719,150.371235,-34.37387",
     "geom:latitude":-34.445766,
     "geom:longitude":150.262744,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.453678,
     "lbl:longitude":150.271103,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Medway"
@@ -126,9 +132,12 @@
         102048539
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11505"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"aa1a9e8673cf4a31e12f816221a9df94",
+    "wof:geomhash":"a47eab0256fcb3b33b97d57fbfe9649d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -141,7 +150,7 @@
         }
     ],
     "wof:id":404224811,
-    "wof:lastmodified":1636494646,
+    "wof:lastmodified":1695877863,
     "wof:name":"Medway",
     "wof:parent_id":102048539,
     "wof:placetype":"localadmin",

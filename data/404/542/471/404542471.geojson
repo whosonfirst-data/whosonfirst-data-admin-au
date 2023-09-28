@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002372,
-    "geom:area_square_m":26045115.586636,
+    "geom:area_square_m":26045175.960953,
     "geom:bbox":"152.043595,-27.404658,152.094305,-27.338306",
     "geom:latitude":-27.370652,
     "geom:longitude":152.069225,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.370202,
     "lbl:longitude":152.069733,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Hampton"
@@ -116,9 +122,12 @@
         102049357
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30727"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"929b25e951197749163b416eff315457",
+    "wof:geomhash":"3650f17ce823859bdf0687245635afac",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -130,7 +139,7 @@
         }
     ],
     "wof:id":404542471,
-    "wof:lastmodified":1636494629,
+    "wof:lastmodified":1695877856,
     "wof:name":"Hampton",
     "wof:parent_id":102049357,
     "wof:placetype":"localadmin",

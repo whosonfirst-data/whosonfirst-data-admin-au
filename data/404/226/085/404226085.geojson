@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000243,
-    "geom:area_square_m":2478134.742879,
+    "geom:area_square_m":2478106.106176,
     "geom:bbox":"150.849018,-34.58544,150.87737,-34.566499",
     "geom:latitude":-34.577036,
     "geom:longitude":150.863585,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.578005,
     "lbl:longitude":150.864976,
     "lbl:max_zoom":18.0,
@@ -85,13 +91,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC12071",
         "wd:id":"Q530368"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931839
     ],
     "wof:country":"AU",
-    "wof:geomhash":"10686a682de7f047cb204624438e8d78",
+    "wof:geomhash":"ad8ece201117f3a1fb673a3885eb04d8",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -104,7 +112,7 @@
         }
     ],
     "wof:id":404226085,
-    "wof:lastmodified":1690853424,
+    "wof:lastmodified":1695877906,
     "wof:name":"Shellharbour",
     "wof:parent_id":102048497,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002554,
-    "geom:area_square_m":24835314.7836,
+    "geom:area_square_m":24835314.783592,
     "geom:bbox":"145.447152832,-38.159313571,145.534986016,-38.1201281105",
     "geom:latitude":-38.138564,
     "geom:longitude":145.492818,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.137939,
     "lbl:longitude":145.492783,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Pakenham South"
@@ -38,9 +44,12 @@
         102048791
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21064"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"a63bfd6f6b483cb2ba654aec660bb510",
+    "wof:geomhash":"6cdaf281674ca7119e2e00a864d39963",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404539865,
-    "wof:lastmodified":1566602403,
+    "wof:lastmodified":1695877359,
     "wof:name":"Pakenham South",
     "wof:parent_id":102048791,
     "wof:placetype":"localadmin",

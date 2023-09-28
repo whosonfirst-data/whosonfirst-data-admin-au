@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00556,
-    "geom:area_square_m":60921586.869677,
+    "geom:area_square_m":60921586.869684,
     "geom:bbox":"151.766540992,-27.638049959,151.890522688,-27.56999264",
     "geom:latitude":-27.60122,
     "geom:longitude":151.833561,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.604686,
     "lbl:longitude":151.838538,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Westbrook"
@@ -86,9 +92,12 @@
         102049357
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31755"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"343d5de1b6f3785851a719b1c183fec6",
+    "wof:geomhash":"cb37a0d8c66839151d50cdb660955eaf",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -100,7 +109,7 @@
         }
     ],
     "wof:id":404544643,
-    "wof:lastmodified":1566602155,
+    "wof:lastmodified":1695877219,
     "wof:name":"Westbrook",
     "wof:parent_id":102049357,
     "wof:placetype":"localadmin",

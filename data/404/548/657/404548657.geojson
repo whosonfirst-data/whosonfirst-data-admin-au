@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.079492,
-    "geom:area_square_m":826881977.244663,
+    "geom:area_square_m":826881977.244967,
     "geom:bbox":"117.357731264,-32.9032680075,117.734488992,-32.541027444",
     "geom:latitude":-32.728255,
     "geom:longitude":117.539162,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.704755,
     "lbl:longitude":117.557634,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Yealering"
@@ -38,9 +44,12 @@
         102048667
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50882"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"86699fa6a1c6f347e320b35cd571f638",
+    "wof:geomhash":"8bb5f75a9339ce78dd9beec65af4f5fd",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404548657,
-    "wof:lastmodified":1566603185,
+    "wof:lastmodified":1695877808,
     "wof:name":"Yealering",
     "wof:parent_id":102048667,
     "wof:placetype":"localadmin",

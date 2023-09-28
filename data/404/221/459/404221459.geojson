@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001103,
-    "geom:area_square_m":11351778.262085,
+    "geom:area_square_m":11351778.262082,
     "geom:bbox":"150.672552672,-33.6482564955,150.721426816,-33.608668993",
     "geom:latitude":-33.630113,
     "geom:longitude":150.699022,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.633011,
     "lbl:longitude":150.698654,
     "lbl:max_zoom":18.0,
@@ -58,10 +64,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC10015",
         "wd:id":"Q965353"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"748fa60d0b4ab506349da127be83d5ca",
+    "wof:geomhash":"b6ccf7f4145e867ab03c7216e5fe18be",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -74,7 +82,7 @@
         }
     ],
     "wof:id":404221459,
-    "wof:lastmodified":1566602004,
+    "wof:lastmodified":1695877902,
     "wof:name":"Agnes Banks",
     "wof:parent_id":102048677,
     "wof:placetype":"localadmin",

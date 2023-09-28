@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000143,
-    "geom:area_square_m":1464921.696352,
+    "geom:area_square_m":1464921.696359,
     "geom:bbox":"150.967145696,-33.903603097,150.98600512,-33.888875987",
     "geom:latitude":-33.896046,
     "geom:longitude":150.975563,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.895336,
     "lbl:longitude":150.975422,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b2\u09be\u09a8\u09cd\u09b8\u09a6\u09cb\u09f1\u09a8\u09c7"
@@ -78,12 +84,15 @@
         102049447
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11333"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101930999
     ],
     "wof:country":"AU",
-    "wof:geomhash":"ca9b9e7cf9cf7817fd1a7258c1ec0b12",
+    "wof:geomhash":"4ce26dd5670f3aab83c0e2338ccc8545",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -96,7 +105,7 @@
         }
     ],
     "wof:id":404224423,
-    "wof:lastmodified":1566602589,
+    "wof:lastmodified":1695877468,
     "wof:name":"Lansdowne",
     "wof:parent_id":102049447,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000077,
-    "geom:area_square_m":752095.433795,
+    "geom:area_square_m":752095.433794,
     "geom:bbox":"144.336697792,-37.6242824155,144.360979008,-37.615951958",
     "geom:latitude":-37.620127,
     "geom:longitude":144.350004,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.620647,
     "lbl:longitude":144.350188,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Myrniong"
@@ -47,12 +53,15 @@
         102049283
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20968"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101933309
     ],
     "wof:country":"AU",
-    "wof:geomhash":"1c2146652607f6e81990a34e0089ef5b",
+    "wof:geomhash":"b111b01099d8671d7b1e771e04e4d455",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":404539653,
-    "wof:lastmodified":1566602405,
+    "wof:lastmodified":1695877360,
     "wof:name":"Myrniong",
     "wof:parent_id":102049283,
     "wof:placetype":"localadmin",

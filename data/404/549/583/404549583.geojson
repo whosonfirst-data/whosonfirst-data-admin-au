@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010093,
-    "geom:area_square_m":93330660.883297,
+    "geom:area_square_m":93330660.883248,
     "geom:bbox":"146.781610016,-41.6532130075,146.967111456,-41.5442350205",
     "geom:latitude":-41.599113,
     "geom:longitude":146.869049,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-41.608596,
     "lbl:longitude":146.830515,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Whitemore"
@@ -38,9 +44,12 @@
         102048535
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60406"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"72be20d55eed2d46df558031ee4d7a49",
+    "wof:geomhash":"37ea27967daf789ee27950024a2212b3",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404549583,
-    "wof:lastmodified":1566602916,
+    "wof:lastmodified":1695877671,
     "wof:name":"Whitemore",
     "wof:parent_id":102048535,
     "wof:placetype":"localadmin",

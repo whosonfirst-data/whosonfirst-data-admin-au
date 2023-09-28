@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.088764,
-    "geom:area_square_m":884732975.601557,
+    "geom:area_square_m":884732975.602926,
     "geom:bbox":"149.165890016,-36.493068003,149.583404512,-36.1104350005",
     "geom:latitude":-36.285844,
     "geom:longitude":149.396493,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.286038,
     "lbl:longitude":149.41081,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Numeralla"
@@ -38,9 +44,12 @@
         102048491
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11782"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"741484f855abd1c83e3ee9f0890b2cd2",
+    "wof:geomhash":"4a8b0fbbed65a2172ba723081481249c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404225435,
-    "wof:lastmodified":1566602729,
+    "wof:lastmodified":1695877547,
     "wof:name":"Numeralla",
     "wof:parent_id":102048491,
     "wof:placetype":"localadmin",

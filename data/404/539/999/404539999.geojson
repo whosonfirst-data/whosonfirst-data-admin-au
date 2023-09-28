@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.041748,
-    "geom:area_square_m":410538138.905848,
+    "geom:area_square_m":410538138.905259,
     "geom:bbox":"143.208668864,-37.440603815,143.487089632,-37.195330408",
     "geom:latitude":-37.317953,
     "geom:longitude":143.344006,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.310771,
     "lbl:longitude":143.346622,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Raglan"
@@ -65,9 +71,12 @@
         102049485
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21124"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"f97d1e8fdaefdbf7a3d00719339344ba",
+    "wof:geomhash":"08202f2c439e96d5c30a18237216e6a3",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -79,7 +88,7 @@
         }
     ],
     "wof:id":404539999,
-    "wof:lastmodified":1566602358,
+    "wof:lastmodified":1695877330,
     "wof:name":"Raglan",
     "wof:parent_id":102049485,
     "wof:placetype":"localadmin",

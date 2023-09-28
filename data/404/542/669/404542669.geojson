@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.899763,
-    "geom:area_square_m":10208386559.697723,
+    "geom:area_square_m":10208386559.694984,
     "geom:bbox":"145.621966752,-24.2547541045,146.884459904,-22.756150116",
     "geom:latitude":-23.427815,
     "geom:longitude":146.263832,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-23.392469,
     "lbl:longitude":146.220806,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Jerigo"
@@ -245,9 +251,12 @@
         102048807
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30821"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"ebef436014c9e9706fec85c3f2bbdbd2",
+    "wof:geomhash":"35de0218d79ce04a3b834e7897330780",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -259,7 +268,7 @@
         }
     ],
     "wof:id":404542669,
-    "wof:lastmodified":1566602276,
+    "wof:lastmodified":1695877279,
     "wof:name":"Jericho",
     "wof:parent_id":102048807,
     "wof:placetype":"localadmin",

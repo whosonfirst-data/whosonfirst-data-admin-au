@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02785,
-    "geom:area_square_m":272639184.457171,
+    "geom:area_square_m":272639184.457393,
     "geom:bbox":"148.319515008,-37.764206,148.594632,-37.5462150055",
     "geom:latitude":-37.65387,
     "geom:longitude":148.488184,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.678316,
     "lbl:longitude":148.497562,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Orbost"
@@ -50,9 +56,12 @@
         102049039
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21056"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"5ca3ffaa161efcf7139d7c00015dc980",
+    "wof:geomhash":"10536076cdf17688d2b4f83bb409566d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":404539847,
-    "wof:lastmodified":1566602397,
+    "wof:lastmodified":1695877354,
     "wof:name":"Orbost",
     "wof:parent_id":102049039,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023379,
-    "geom:area_square_m":241363822.477016,
+    "geom:area_square_m":241363790.886519,
     "geom:bbox":"147.890798,-33.46896,148.202839,-33.33526",
     "geom:latitude":-33.392326,
     "geom:longitude":148.038419,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.394034,
     "lbl:longitude":148.038425,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Forbes"
@@ -248,9 +254,12 @@
         102048487
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10902"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"d7a26e27d58dd10c9bf97965199072f1",
+    "wof:geomhash":"c767161925065e4970489a24a68420ad",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -262,7 +271,7 @@
         }
     ],
     "wof:id":404223455,
-    "wof:lastmodified":1636494643,
+    "wof:lastmodified":1695877862,
     "wof:name":"Forbes",
     "wof:parent_id":102048487,
     "wof:placetype":"localadmin",

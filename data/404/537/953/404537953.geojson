@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002265,
-    "geom:area_square_m":22043118.285721,
+    "geom:area_square_m":22043118.285726,
     "geom:bbox":"145.89534528,-38.1176139975,145.992222016,-38.067799991",
     "geom:latitude":-38.09415,
     "geom:longitude":145.946428,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.097178,
     "lbl:longitude":145.949794,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Buln Buln"
@@ -38,9 +44,12 @@
         102048523
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20207"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"6d717731857eb64b8b59d10f092daaff",
+    "wof:geomhash":"2b8e9675e51e5ef1758096e49525709d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404537953,
-    "wof:lastmodified":1566602320,
+    "wof:lastmodified":1695877306,
     "wof:name":"Buln Buln",
     "wof:parent_id":102048523,
     "wof:placetype":"localadmin",

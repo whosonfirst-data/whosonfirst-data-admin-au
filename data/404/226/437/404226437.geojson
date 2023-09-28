@@ -10,6 +10,12 @@
     "geom:latitude":-35.159899,
     "geom:longitude":147.358745,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.160428,
     "lbl:longitude":147.358749,
     "lbl:max_zoom":18.0,
@@ -45,13 +51,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC12228",
         "wd:id":"Q7688436"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932051
     ],
     "wof:country":"AU",
-    "wof:geomhash":"fd8206fb9f53c6850108f3f8f0aba7f2",
+    "wof:geomhash":"b4e7577cd40d9a7d9104f853cfad9b5e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -63,7 +71,7 @@
         }
     ],
     "wof:id":404226437,
-    "wof:lastmodified":1566602031,
+    "wof:lastmodified":1695877907,
     "wof:name":"Tatton",
     "wof:parent_id":102049075,
     "wof:placetype":"localadmin",

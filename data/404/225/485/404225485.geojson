@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000078,
-    "geom:area_square_m":793294.179005,
+    "geom:area_square_m":793294.179004,
     "geom:bbox":"150.643878016,-35.0946710035,150.654779008,-35.0819712715",
     "geom:latitude":-35.088112,
     "geom:longitude":150.649632,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.088055,
     "lbl:longitude":150.650457,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Old Erowal Bay"
@@ -38,9 +44,12 @@
         102049405
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11805"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"49be5ca120aec32b53e08e6f6aa57102",
+    "wof:geomhash":"74c44eb76f7fb676bc30fd9262d33338",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404225485,
-    "wof:lastmodified":1566602670,
+    "wof:lastmodified":1695877514,
     "wof:name":"Old Erowal Bay",
     "wof:parent_id":102049405,
     "wof:placetype":"localadmin",

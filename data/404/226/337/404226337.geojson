@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003807,
-    "geom:area_square_m":38489401.670578,
+    "geom:area_square_m":38489401.670657,
     "geom:bbox":"150.510668992,-35.2026793685,150.605104672,-35.102492008",
     "geom:latitude":-35.144535,
     "geom:longitude":150.561957,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.144352,
     "lbl:longitude":150.565173,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Sussex Inlet"
@@ -38,9 +44,12 @@
         102049405
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12183"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"086a9647606e4337c7a977b4e55f88f7",
+    "wof:geomhash":"de990fd1b679d65700532ab9542ded83",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404226337,
-    "wof:lastmodified":1566602016,
+    "wof:lastmodified":1695877141,
     "wof:name":"Sussex Inlet",
     "wof:parent_id":102049405,
     "wof:placetype":"localadmin",

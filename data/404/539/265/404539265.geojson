@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.052095,
-    "geom:area_square_m":517799276.621899,
+    "geom:area_square_m":517799276.622064,
     "geom:bbox":"141.473550688,-36.567456799,142.030510368,-36.419958704",
     "geom:latitude":-36.502602,
     "geom:longitude":141.761017,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.496725,
     "lbl:longitude":141.783457,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Little Desert"
@@ -38,9 +44,12 @@
         102048501
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20795"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"5823a8661585a581f287282e7431a720",
+    "wof:geomhash":"7005be7d158b6d086d545e57de532e38",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404539265,
-    "wof:lastmodified":1566602404,
+    "wof:lastmodified":1695877359,
     "wof:name":"Little Desert",
     "wof:parent_id":102048501,
     "wof:placetype":"localadmin",

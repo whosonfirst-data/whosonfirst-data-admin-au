@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002778,
-    "geom:area_square_m":29173101.527674,
+    "geom:area_square_m":29173101.527681,
     "geom:bbox":"116.183984992,-31.894000082,116.243705984,-31.822028755",
     "geom:latitude":-31.859125,
     "geom:longitude":116.20984,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.856356,
     "lbl:longitude":116.206282,
     "lbl:max_zoom":18.0,
@@ -48,13 +54,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC50529",
         "wd:id":"Q6921140"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937539
     ],
     "wof:country":"AU",
-    "wof:geomhash":"e2c4681776dcbaf8d673e9011fdb018b",
+    "wof:geomhash":"66b00afd0ac74e59f4d8040fa723b8c3",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -66,7 +74,7 @@
         }
     ],
     "wof:id":404547873,
-    "wof:lastmodified":1566602929,
+    "wof:lastmodified":1695878016,
     "wof:name":"Mount Helena",
     "wof:parent_id":102049431,
     "wof:placetype":"localadmin",

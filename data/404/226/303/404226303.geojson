@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.066766,
-    "geom:area_square_m":693200889.488226,
+    "geom:area_square_m":693200889.48835,
     "geom:bbox":"148.951752992,-33.0469410425,149.281838048,-32.7314420055",
     "geom:latitude":-32.896135,
     "geom:longitude":149.10907,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.896835,
     "lbl:longitude":149.109106,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Stuart Town"
@@ -38,9 +44,12 @@
         102049591
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12168"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"5e026ba368bc5dce89b5e0a0e8929234",
+    "wof:geomhash":"717dbfa8426f930a3bfce9cd2429c51f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404226303,
-    "wof:lastmodified":1566602053,
+    "wof:lastmodified":1695877163,
     "wof:name":"Stuart Town",
     "wof:parent_id":102049591,
     "wof:placetype":"localadmin",

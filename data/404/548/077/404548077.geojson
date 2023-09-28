@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000292,
-    "geom:area_square_m":3318189.803861,
+    "geom:area_square_m":3318189.803867,
     "geom:bbox":"117.65240336,-23.2077868235,117.6803352,-23.1945800065",
     "geom:latitude":-23.20132,
     "geom:longitude":117.665869,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-23.201819,
     "lbl:longitude":117.665872,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Paraburdoo"
@@ -38,12 +44,15 @@
         102048625
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50621"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937649
     ],
     "wof:country":"AU",
-    "wof:geomhash":"818f2e27e71e0119b4bc6219d5f1a5b1",
+    "wof:geomhash":"bcb6d17024c3eac0d066a91193f28544",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404548077,
-    "wof:lastmodified":1566603170,
+    "wof:lastmodified":1695877799,
     "wof:name":"Paraburdoo",
     "wof:parent_id":102048625,
     "wof:placetype":"localadmin",

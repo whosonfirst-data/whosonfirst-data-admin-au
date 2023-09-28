@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000347,
-    "geom:area_square_m":3652762.468283,
+    "geom:area_square_m":3652762.468288,
     "geom:bbox":"115.668587072,-31.654428893,115.698767008,-31.6312480045",
     "geom:latitude":-31.641837,
     "geom:longitude":115.685116,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.642152,
     "lbl:longitude":115.686137,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Jindalee"
@@ -41,12 +47,15 @@
         102048879
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50361"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937317
     ],
     "wof:country":"AU",
-    "wof:geomhash":"9c4bebc34c5469f6e1003ad4692fa250",
+    "wof:geomhash":"11a448bc65c3cfeaf7eb04cda09c074d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404547495,
-    "wof:lastmodified":1566602968,
+    "wof:lastmodified":1695877700,
     "wof:name":"Jindalee",
     "wof:parent_id":102048879,
     "wof:placetype":"localadmin",

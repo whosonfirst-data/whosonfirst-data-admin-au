@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027926,
-    "geom:area_square_m":298375845.767617,
+    "geom:area_square_m":298375845.767665,
     "geom:bbox":"151.476613568,-30.310061273,151.774223008,-30.1209569925",
     "geom:latitude":-30.222943,
     "geom:longitude":151.624557,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-30.203918,
     "lbl:longitude":151.614758,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Guyra"
@@ -38,9 +44,12 @@
         102049231
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11053"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"d0bc20d9cedc1766a654efd4912da280",
+    "wof:geomhash":"61464feef3c81b48be1e0698a6d9c883",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404223793,
-    "wof:lastmodified":1566602533,
+    "wof:lastmodified":1695877433,
     "wof:name":"Guyra",
     "wof:parent_id":102049231,
     "wof:placetype":"localadmin",

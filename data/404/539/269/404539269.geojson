@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01209,
-    "geom:area_square_m":117177835.413716,
+    "geom:area_square_m":117177835.413767,
     "geom:bbox":"145.612294016,-38.4534299935,145.809510016,-38.3348865075",
     "geom:latitude":-38.38845,
     "geom:longitude":145.71278,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.38408,
     "lbl:longitude":145.711208,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Loch"
@@ -107,9 +113,12 @@
         102048701
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20797"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"673fb4afab1c8779d0e6902d7daf37a9",
+    "wof:geomhash":"5ab9f039bb0854f16e21cfe432ec8549",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -121,7 +130,7 @@
         }
     ],
     "wof:id":404539269,
-    "wof:lastmodified":1566602373,
+    "wof:lastmodified":1695877338,
     "wof:name":"Loch",
     "wof:parent_id":102048701,
     "wof:placetype":"localadmin",

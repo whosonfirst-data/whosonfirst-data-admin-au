@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003745,
-    "geom:area_square_m":41300015.076963,
+    "geom:area_square_m":41300015.076967,
     "geom:bbox":"152.883198272,-26.929100692,152.998764992,-26.866789991",
     "geom:latitude":-26.901465,
     "geom:longitude":152.940853,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-26.900164,
     "lbl:longitude":152.939985,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Glass House Mountains"
@@ -57,9 +63,12 @@
         102049303
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30653"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"356f14a8a23a232f31cf03ea23b856fd",
+    "wof:geomhash":"664b8eba84d922397572bb09455b5af4",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -72,7 +81,7 @@
         }
     ],
     "wof:id":404542313,
-    "wof:lastmodified":1566602287,
+    "wof:lastmodified":1695877285,
     "wof:name":"Glass House Mountains",
     "wof:parent_id":102049303,
     "wof:placetype":"localadmin",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000115,
-    "geom:area_square_m":1198342.227503,
+    "geom:area_square_m":1198342.227499,
     "geom:bbox":"151.735136992,-32.937807008,151.76054,-32.928118928",
     "geom:latitude":-32.933275,
     "geom:longitude":151.747304,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.931988,
     "lbl:longitude":151.748569,
     "lbl:max_zoom":18.0,
@@ -46,13 +52,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC11067",
         "wd:id":"Q5645144"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101930617
     ],
     "wof:country":"AU",
-    "wof:geomhash":"4b67f5ea5291bb38f76a30dc78ce2a73",
+    "wof:geomhash":"faacf456fdd9ac34a08041cf016d447b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -65,7 +73,7 @@
         }
     ],
     "wof:id":404223825,
-    "wof:lastmodified":1566602549,
+    "wof:lastmodified":1695877970,
     "wof:name":"Hamilton South",
     "wof:parent_id":102048981,
     "wof:placetype":"localadmin",

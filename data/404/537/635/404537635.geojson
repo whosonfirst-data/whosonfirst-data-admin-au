@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004616,
-    "geom:area_square_m":44754384.316564,
+    "geom:area_square_m":44754384.316526,
     "geom:bbox":"145.091948992,-38.397294685,145.18101648,-38.3187906565",
     "geom:latitude":-38.35718,
     "geom:longitude":145.13389,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.346388,
     "lbl:longitude":145.128607,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Balnarring"
@@ -38,12 +44,15 @@
         102048695
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20064"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932535
     ],
     "wof:country":"AU",
-    "wof:geomhash":"82c91de92671214716835edddf265f1d",
+    "wof:geomhash":"d241a530e567d7c14f4ee24ff7163402",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404537635,
-    "wof:lastmodified":1566602330,
+    "wof:lastmodified":1695877312,
     "wof:name":"Balnarring",
     "wof:parent_id":102048695,
     "wof:placetype":"localadmin",

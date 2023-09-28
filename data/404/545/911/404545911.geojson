@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00735,
-    "geom:area_square_m":76082092.854481,
+    "geom:area_square_m":76082092.854543,
     "geom:bbox":"138.020388128,-33.2009972025,138.177329408,-33.1039765425",
     "geom:latitude":-33.162935,
     "geom:longitude":138.102083,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.165941,
     "lbl:longitude":138.102117,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Napperby"
@@ -38,9 +44,12 @@
         102049233
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40482"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"bbda20f5e25d6cfeb752816638a601aa",
+    "wof:geomhash":"d3c976f2d6466742096dec244accd57a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404545911,
-    "wof:lastmodified":1566602251,
+    "wof:lastmodified":1695877266,
     "wof:name":"Napperby",
     "wof:parent_id":102049233,
     "wof:placetype":"localadmin",

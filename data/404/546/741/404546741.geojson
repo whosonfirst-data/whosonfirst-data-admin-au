@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001732,
-    "geom:area_square_m":17907549.546496,
+    "geom:area_square_m":17907549.546453,
     "geom:bbox":"115.688489952,-33.313111994,115.753294432,-33.2526346245",
     "geom:latitude":-33.282147,
     "geom:longitude":115.728379,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.275967,
     "lbl:longitude":115.735991,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Australind"
@@ -38,12 +44,15 @@
         102049561
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50024"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101936845
     ],
     "wof:country":"AU",
-    "wof:geomhash":"c5941912a745b437e5ee3a4c5c1d6167",
+    "wof:geomhash":"d53529fd9b43b67bdf704e55904d2c4b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404546741,
-    "wof:lastmodified":1566603129,
+    "wof:lastmodified":1695877782,
     "wof:name":"Australind",
     "wof:parent_id":102049561,
     "wof:placetype":"localadmin",

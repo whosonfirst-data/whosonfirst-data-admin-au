@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028728,
-    "geom:area_square_m":316733437.586131,
+    "geom:area_square_m":316733437.586004,
     "geom:bbox":"152.1254384,-27.0279340005,152.426274976,-26.8200280035",
     "geom:latitude":-26.919696,
     "geom:longitude":152.2584,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-26.937805,
     "lbl:longitude":152.233273,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Moore"
@@ -110,9 +116,12 @@
         102049287
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31093"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"5b935c2e55d711bc389cf8122d7cb290",
+    "wof:geomhash":"24d9e2dd8fb7a52ab35322bf7a1b3be7",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -124,7 +133,7 @@
         }
     ],
     "wof:id":404543239,
-    "wof:lastmodified":1566602135,
+    "wof:lastmodified":1695877210,
     "wof:name":"Moore",
     "wof:parent_id":102049287,
     "wof:placetype":"localadmin",

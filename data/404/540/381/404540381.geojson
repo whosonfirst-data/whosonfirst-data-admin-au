@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024345,
-    "geom:area_square_m":239971615.401044,
+    "geom:area_square_m":239971615.40131,
     "geom:bbox":"143.54982,-37.236673764,143.73863712,-37.0422777805",
     "geom:latitude":-37.138213,
     "geom:longitude":143.641086,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.149,
     "lbl:longitude":143.633444,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Talbot"
@@ -116,9 +122,12 @@
         102048773
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21294"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"20a6d3bc0c582af0232717136d00ea04",
+    "wof:geomhash":"c1c5636bf3efe794e6d1b24ece2b7833",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -130,7 +139,7 @@
         }
     ],
     "wof:id":404540381,
-    "wof:lastmodified":1566603040,
+    "wof:lastmodified":1695877741,
     "wof:name":"Talbot",
     "wof:parent_id":102048773,
     "wof:placetype":"localadmin",

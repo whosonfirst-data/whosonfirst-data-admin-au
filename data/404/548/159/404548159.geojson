@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002028,
-    "geom:area_square_m":21181861.595169,
+    "geom:area_square_m":21181861.595139,
     "geom:bbox":"115.712858368,-32.3954860015,115.7781,-32.3469124385",
     "geom:latitude":-32.373418,
     "geom:longitude":115.751498,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.375031,
     "lbl:longitude":115.75212,
     "lbl:max_zoom":18.0,
@@ -52,13 +58,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC50659",
         "wd:id":"Q7230738"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937701
     ],
     "wof:country":"AU",
-    "wof:geomhash":"aeb2f12770f2c813240b63030176308d",
+    "wof:geomhash":"735d6020607130ea8d06e757b32339ed",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -71,7 +79,7 @@
         }
     ],
     "wof:id":404548159,
-    "wof:lastmodified":1566603160,
+    "wof:lastmodified":1695878046,
     "wof:name":"Port Kennedy",
     "wof:parent_id":102049377,
     "wof:placetype":"localadmin",

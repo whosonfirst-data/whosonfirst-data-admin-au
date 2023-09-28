@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000188,
-    "geom:area_square_m":1931777.236484,
+    "geom:area_square_m":1931777.236483,
     "geom:bbox":"151.015069632,-33.888912025,151.039890304,-33.8759800255",
     "geom:latitude":-33.88346,
     "geom:longitude":151.026119,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.883981,
     "lbl:longitude":151.02341,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Regents Park"
@@ -42,12 +48,15 @@
         102048477
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11962"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931707
     ],
     "wof:country":"AU",
-    "wof:geomhash":"f0ff2216df52cb3b21d25c5ebd86f2fb",
+    "wof:geomhash":"47fcbc437bac60a6941e738b5a1a8838",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -60,7 +69,7 @@
         }
     ],
     "wof:id":404225839,
-    "wof:lastmodified":1566602728,
+    "wof:lastmodified":1695877547,
     "wof:name":"Regents Park",
     "wof:parent_id":102048477,
     "wof:placetype":"localadmin",

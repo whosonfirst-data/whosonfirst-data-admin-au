@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002384,
-    "geom:area_square_m":26237892.62309,
+    "geom:area_square_m":26237892.623027,
     "geom:bbox":"152.806151168,-27.1450469925,152.881003072,-27.083087995",
     "geom:latitude":-27.112212,
     "geom:longitude":152.845988,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.117361,
     "lbl:longitude":152.846497,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Rocksberg"
@@ -45,9 +51,12 @@
         102049131
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31418"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"c6cec59afe34aa49a0e13806bb489783",
+    "wof:geomhash":"e2ed73ae16a99c69b9549917221dab85",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -60,7 +69,7 @@
         }
     ],
     "wof:id":404543941,
-    "wof:lastmodified":1566602114,
+    "wof:lastmodified":1695877199,
     "wof:name":"Rocksberg",
     "wof:parent_id":102049131,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002628,
-    "geom:area_square_m":27569011.862999,
+    "geom:area_square_m":27569011.863001,
     "geom:bbox":"152.522332992,-31.9873208715,152.606975552,-31.9373619915",
     "geom:latitude":-31.959659,
     "geom:longitude":152.565204,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.960295,
     "lbl:longitude":152.561776,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Old Bar"
@@ -38,9 +44,12 @@
         102048833
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11803"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"74733d57f90c11ba20db25a6f9c5e82e",
+    "wof:geomhash":"9eb09099ea5744c96e9dc7332a4f8745",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404225481,
-    "wof:lastmodified":1566602715,
+    "wof:lastmodified":1695877537,
     "wof:name":"Old Bar",
     "wof:parent_id":102048833,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000268,
-    "geom:area_square_m":2830441.220506,
+    "geom:area_square_m":2830384.618561,
     "geom:bbox":"152.896035,-31.424987,152.919334,-31.394431",
     "geom:latitude":-31.405712,
     "geom:longitude":152.909862,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.401437,
     "lbl:longitude":152.911628,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0646\u0648\u0631\u062b \u0634\u0648\u0631"
@@ -116,12 +122,15 @@
         102049203
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11760"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931463
     ],
     "wof:country":"AU",
-    "wof:geomhash":"eaceae11efe31c8e0d796f85b93d3c43",
+    "wof:geomhash":"73bf2b125e9b7a67b0b9934266e1d78f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -133,7 +142,7 @@
         }
     ],
     "wof:id":404225385,
-    "wof:lastmodified":1636494652,
+    "wof:lastmodified":1695877867,
     "wof:name":"North Shore",
     "wof:parent_id":102049203,
     "wof:placetype":"localadmin",

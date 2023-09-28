@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019784,
-    "geom:area_square_m":192939662.951764,
+    "geom:area_square_m":192939662.951851,
     "geom:bbox":"145.731003552,-38.0240106945,145.941747008,-37.8708231095",
     "geom:latitude":-37.938023,
     "geom:longitude":145.835869,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.93699,
     "lbl:longitude":145.837817,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Gentle Annie"
@@ -44,9 +50,12 @@
         102048523
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20523"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"49179e35ab6f032f628e5261d723e16a",
+    "wof:geomhash":"1c3ac55ca6c2e7fe5fb0dc145ce9866d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404538657,
-    "wof:lastmodified":1566602446,
+    "wof:lastmodified":1695877384,
     "wof:name":"Gentle Annie",
     "wof:parent_id":102048523,
     "wof:placetype":"localadmin",

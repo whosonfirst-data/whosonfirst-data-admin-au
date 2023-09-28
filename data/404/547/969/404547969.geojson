@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.40344,
-    "geom:area_square_m":24867865562.741131,
+    "geom:area_square_m":24867865562.73999,
     "geom:bbox":"121.746956992,-34.3781860575,124.229263776,-32.5647083135",
     "geom:latitude":-33.198067,
     "geom:longitude":122.978762,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.166632,
     "lbl:longitude":122.997165,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Neridup"
@@ -38,9 +44,12 @@
         102049141
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50572"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"8e20a0fb84bba603208f5afe69941f8f",
+    "wof:geomhash":"61815680f4f9573537f9d0acf27cd67b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404547969,
-    "wof:lastmodified":1566602954,
+    "wof:lastmodified":1695877690,
     "wof:name":"Neridup",
     "wof:parent_id":102049141,
     "wof:placetype":"localadmin",

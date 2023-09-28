@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000423,
-    "geom:area_square_m":4120516.801487,
+    "geom:area_square_m":4120516.801509,
     "geom:bbox":"145.375958016,-38.028852533,145.406303968,-38.0008710055",
     "geom:latitude":-38.014263,
     "geom:longitude":145.390593,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.012811,
     "lbl:longitude":145.390825,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Guys Hill"
@@ -38,12 +44,15 @@
         102048791
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20580"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101933003
     ],
     "wof:country":"AU",
-    "wof:geomhash":"20a35c76f4438f8cb068b7d0398d5cc8",
+    "wof:geomhash":"7e3cf21907feb02d6d0f59a557033d8a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404538785,
-    "wof:lastmodified":1566602450,
+    "wof:lastmodified":1695877386,
     "wof:name":"Guys Hill",
     "wof:parent_id":102048791,
     "wof:placetype":"localadmin",

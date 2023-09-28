@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004401,
-    "geom:area_square_m":42626967.884709,
+    "geom:area_square_m":42626967.884693,
     "geom:bbox":"145.437259872,-38.479967522,145.56930816,-38.4071239755",
     "geom:latitude":-38.440262,
     "geom:longitude":145.506206,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.436394,
     "lbl:longitude":145.507286,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tenby Point"
@@ -38,9 +44,12 @@
         102049085
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21326"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"0790c2cb9704ef994517f6c5b9e6c45a",
+    "wof:geomhash":"1c9388a63f27edb8f8d5eab7418b6545",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404540453,
-    "wof:lastmodified":1566603002,
+    "wof:lastmodified":1695877719,
     "wof:name":"Tenby Point",
     "wof:parent_id":102049085,
     "wof:placetype":"localadmin",

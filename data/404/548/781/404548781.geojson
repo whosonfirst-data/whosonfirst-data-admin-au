@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.062315,
-    "geom:area_square_m":586693206.274391,
+    "geom:area_square_m":586693206.275057,
     "geom:bbox":"147.782761632,-40.594289232,148.4986736,-40.253891933",
     "geom:latitude":-40.411398,
     "geom:longitude":148.220518,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-40.395263,
     "lbl:longitude":148.237906,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Cape Barren Island"
@@ -65,9 +71,12 @@
         102049311
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60050"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"66cc392855c3d8400e5cd231d7d92777",
+    "wof:geomhash":"a7db83e08329fa95baf21f59d50ddf51",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -79,7 +88,7 @@
         }
     ],
     "wof:id":404548781,
-    "wof:lastmodified":1566603230,
+    "wof:lastmodified":1695877832,
     "wof:name":"Cape Barren Island",
     "wof:parent_id":102049311,
     "wof:placetype":"localadmin",

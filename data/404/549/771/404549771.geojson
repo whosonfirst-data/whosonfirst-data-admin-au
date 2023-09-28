@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.055552,
-    "geom:area_square_m":24489129529.921806,
+    "geom:area_square_m":24489129529.921146,
     "geom:bbox":"133.8599648,-16.647811828,135.98374832,-14.6805510025",
     "geom:latitude":-15.524133,
     "geom:longitude":134.800423,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-15.347432,
     "lbl:longitude":134.886766,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Limmen"
@@ -62,9 +68,12 @@
         102048829
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC70114"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"2e39d8b086a15e255d13605338abf2aa",
+    "wof:geomhash":"e7be1c0ce8ef053dfdbcacd04334c43c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -76,7 +85,7 @@
         }
     ],
     "wof:id":404549771,
-    "wof:lastmodified":1566602859,
+    "wof:lastmodified":1695877632,
     "wof:name":"Limmen",
     "wof:parent_id":102048829,
     "wof:placetype":"localadmin",

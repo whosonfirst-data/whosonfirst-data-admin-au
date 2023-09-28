@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000214,
-    "geom:area_square_m":2083329.668472,
+    "geom:area_square_m":2083329.668474,
     "geom:bbox":"144.381268832,-38.197087648,144.400857856,-38.1802872615",
     "geom:latitude":-38.188018,
     "geom:longitude":144.39207,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.188035,
     "lbl:longitude":144.394026,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "St Albans Park"
@@ -39,12 +45,15 @@
         102049571
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21249"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101933567
     ],
     "wof:country":"AU",
-    "wof:geomhash":"53608199a435e5bcb43fe427bee51228",
+    "wof:geomhash":"89dabe1a691667a012587907c1cfd489",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404540279,
-    "wof:lastmodified":1566603021,
+    "wof:lastmodified":1695877731,
     "wof:name":"St Albans Park",
     "wof:parent_id":102049571,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004319,
-    "geom:area_square_m":46114926.604124,
+    "geom:area_square_m":46114750.77567,
     "geom:bbox":"153.044255,-30.355176,153.154572,-30.261617",
     "geom:latitude":-30.298245,
     "geom:longitude":153.107758,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-30.287693,
     "lbl:longitude":153.117771,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u0641\u0633 \u0647\u0627\u0631\u0628\u0648\u0631"
@@ -146,9 +152,12 @@
         102048797
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10553"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"66725e586318fbc6ee0fd927432a9a2b",
+    "wof:geomhash":"52656dda88d589ec8e7f3e7b18edc4e8",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -160,7 +169,7 @@
         }
     ],
     "wof:id":404222669,
-    "wof:lastmodified":1636494655,
+    "wof:lastmodified":1695877869,
     "wof:name":"Coffs Harbour",
     "wof:parent_id":102048797,
     "wof:placetype":"localadmin",

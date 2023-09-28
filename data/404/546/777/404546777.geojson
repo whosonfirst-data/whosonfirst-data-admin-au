@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000699,
-    "geom:area_square_m":7338228.66861,
+    "geom:area_square_m":7338228.668604,
     "geom:bbox":"115.925690688,-31.92270779,115.962631456,-31.8936140425",
     "geom:latitude":-31.906454,
     "geom:longitude":115.945351,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.906615,
     "lbl:longitude":115.949389,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bassendean"
@@ -45,12 +51,15 @@
         102048799
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50040"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101936867
     ],
     "wof:country":"AU",
-    "wof:geomhash":"e6df85700c2b383e0ac0a65f18889e03",
+    "wof:geomhash":"972960abef1258f57b16e7e2debab93b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -63,7 +72,7 @@
         }
     ],
     "wof:id":404546777,
-    "wof:lastmodified":1566603128,
+    "wof:lastmodified":1695877781,
     "wof:name":"Bassendean",
     "wof:parent_id":102048799,
     "wof:placetype":"localadmin",

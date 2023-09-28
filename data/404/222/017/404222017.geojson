@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.086109,
-    "geom:area_square_m":915698567.775054,
+    "geom:area_square_m":915698567.775357,
     "geom:bbox":"149.737319008,-30.871776144,150.354645248,-30.542439958",
     "geom:latitude":-30.68232,
     "geom:longitude":150.078622,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-30.661809,
     "lbl:longitude":150.202534,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Boggabri"
@@ -53,9 +59,12 @@
         102049269
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10263"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"13524dbc77de6242f60f53cf6b6b575f",
+    "wof:geomhash":"7c5baac1edac16ac7c1fe03fed38dfcb",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -67,7 +76,7 @@
         }
     ],
     "wof:id":404222017,
-    "wof:lastmodified":1566602796,
+    "wof:lastmodified":1695877589,
     "wof:name":"Boggabri",
     "wof:parent_id":102049269,
     "wof:placetype":"localadmin",

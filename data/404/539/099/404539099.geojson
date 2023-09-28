@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004426,
-    "geom:area_square_m":43473215.838907,
+    "geom:area_square_m":43473216.84798,
     "geom:bbox":"143.927179,-37.444274,144.023202,-37.349557",
     "geom:latitude":-37.399876,
     "geom:longitude":143.972061,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.392263,
     "lbl:longitude":143.967311,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Kingston"
@@ -212,9 +218,12 @@
         102049553
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20721"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"bc09b0f6bc235d531d1f217162ecd586",
+    "wof:geomhash":"86cd787f403e023b360cb35f728a3612",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -226,7 +235,7 @@
         }
     ],
     "wof:id":404539099,
-    "wof:lastmodified":1636494634,
+    "wof:lastmodified":1695877857,
     "wof:name":"Kingston",
     "wof:parent_id":102049553,
     "wof:placetype":"localadmin",

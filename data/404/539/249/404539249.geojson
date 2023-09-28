@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014358,
-    "geom:area_square_m":141301417.987899,
+    "geom:area_square_m":141301417.987927,
     "geom:bbox":"143.455862016,-37.337631002,143.576910016,-37.169724003",
     "geom:latitude":-37.258232,
     "geom:longitude":143.516293,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.259971,
     "lbl:longitude":143.517436,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lexton"
@@ -38,9 +44,12 @@
         102049485
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20788"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"8987fc1d70dc403105e38d8323a6078d",
+    "wof:geomhash":"b482336ff53dd95c840def2428b57f82",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404539249,
-    "wof:lastmodified":1566602397,
+    "wof:lastmodified":1695877354,
     "wof:name":"Lexton",
     "wof:parent_id":102049485,
     "wof:placetype":"localadmin",

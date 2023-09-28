@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007287,
-    "geom:area_square_m":72466928.200893,
+    "geom:area_square_m":72466928.200924,
     "geom:bbox":"149.768819008,-36.5077419995,149.911251008,-36.4161210085",
     "geom:latitude":-36.462043,
     "geom:longitude":149.840175,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.463507,
     "lbl:longitude":149.833533,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Verona"
@@ -338,9 +344,12 @@
         102049439
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12371"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"c344aa2dcafe766b203b1b1205747d48",
+    "wof:geomhash":"a7d4eb4dd74acab217005cacd918faa8",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -352,7 +361,7 @@
         }
     ],
     "wof:id":404226759,
-    "wof:lastmodified":1566602062,
+    "wof:lastmodified":1695877169,
     "wof:name":"Verona",
     "wof:parent_id":102049439,
     "wof:placetype":"localadmin",

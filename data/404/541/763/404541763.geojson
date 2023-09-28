@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.039661,
-    "geom:area_square_m":446532721.465249,
+    "geom:area_square_m":446532721.465445,
     "geom:bbox":"151.41534944,-24.540884003,151.733307008,-24.2942319945",
     "geom:latitude":-24.423886,
     "geom:longitude":151.566889,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-24.401371,
     "lbl:longitude":151.529422,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Colosseum"
@@ -380,9 +386,12 @@
         102049463
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30392"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"e88d0158130530db9b0ace00c83cd7bd",
+    "wof:geomhash":"533517b1af6c8447d483e679b9fae2be",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -394,7 +403,7 @@
         }
     ],
     "wof:id":404541763,
-    "wof:lastmodified":1566603042,
+    "wof:lastmodified":1695877742,
     "wof:name":"Colosseum",
     "wof:parent_id":102049463,
     "wof:placetype":"localadmin",

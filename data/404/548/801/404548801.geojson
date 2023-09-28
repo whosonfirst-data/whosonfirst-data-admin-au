@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002703,
-    "geom:area_square_m":25053576.131846,
+    "geom:area_square_m":25053576.131829,
     "geom:bbox":"146.209232064,-41.468368981,146.311204064,-41.4194919995",
     "geom:latitude":-41.44177,
     "geom:longitude":146.262239,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-41.436933,
     "lbl:longitude":146.265678,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Claude Road"
@@ -38,9 +44,12 @@
         102049291
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60059"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"95038c72d7963ac00e17c43a7ff6224a",
+    "wof:geomhash":"53e12e26a7f273244d6c679efea91292",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404548801,
-    "wof:lastmodified":1566603225,
+    "wof:lastmodified":1695877830,
     "wof:name":"Claude Road",
     "wof:parent_id":102049291,
     "wof:placetype":"localadmin",

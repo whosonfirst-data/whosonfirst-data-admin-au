@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004365,
-    "geom:area_square_m":45485033.400722,
+    "geom:area_square_m":45485033.400832,
     "geom:bbox":"151.254924,-32.603231992,151.33859,-32.5229110045",
     "geom:latitude":-32.56253,
     "geom:longitude":151.293888,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.567374,
     "lbl:longitude":151.294664,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mitchells Flat"
@@ -38,9 +44,12 @@
         102048757
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11560"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"cb4d0408f8cdfec40fdea353d1fd6242",
+    "wof:geomhash":"4fa4ffac591472fe376f8383caff1ef5",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404224935,
-    "wof:lastmodified":1566602612,
+    "wof:lastmodified":1695877483,
     "wof:name":"Mitchells Flat",
     "wof:parent_id":102048757,
     "wof:placetype":"localadmin",

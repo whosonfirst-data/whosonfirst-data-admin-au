@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.484526,
-    "geom:area_square_m":5084736388.766632,
+    "geom:area_square_m":5084736388.767416,
     "geom:bbox":"146.38531776,-32.447478568,147.143261152,-31.35413508",
     "geom:latitude":-31.929235,
     "geom:longitude":146.716942,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.969454,
     "lbl:longitude":146.691278,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Hermidale"
@@ -38,9 +44,12 @@
         102049645
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11100"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"93cb48ee1580132a7ebb8620dad63816",
+    "wof:geomhash":"c13a74e96c9c18f72afcfced9fc9cac2",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404223899,
-    "wof:lastmodified":1566602557,
+    "wof:lastmodified":1695877451,
     "wof:name":"Hermidale",
     "wof:parent_id":102049645,
     "wof:placetype":"localadmin",

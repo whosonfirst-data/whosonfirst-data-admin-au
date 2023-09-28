@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.106808,
-    "geom:area_square_m":1181381111.76226,
+    "geom:area_square_m":1181381111.762823,
     "geom:bbox":"151.209523456,-26.7681120085,151.660061984,-26.3758761925",
     "geom:latitude":-26.554069,
     "geom:longitude":151.467653,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-26.546684,
     "lbl:longitude":151.485766,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ironpot"
@@ -41,9 +47,12 @@
         102048861
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30812"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"25f3a6eeb9476ed6faad5f416df351fe",
+    "wof:geomhash":"bece78a228491c41ee7e64c71d95104f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404542649,
-    "wof:lastmodified":1566602297,
+    "wof:lastmodified":1695877292,
     "wof:name":"Ironpot",
     "wof:parent_id":102048861,
     "wof:placetype":"localadmin",

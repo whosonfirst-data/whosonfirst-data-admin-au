@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003103,
-    "geom:area_square_m":30370927.590579,
+    "geom:area_square_m":30370887.728155,
     "geom:bbox":"144.797644,-37.710381,144.87427,-37.64101",
     "geom:latitude":-37.676422,
     "geom:longitude":144.836518,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.677153,
     "lbl:longitude":144.840302,
     "lbl:max_zoom":18.0,
@@ -139,13 +145,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC20868",
         "wd:id":"Q14935213"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101933231
     ],
     "wof:country":"AU",
-    "wof:geomhash":"c1a1b3b845eca120d90fd15ae377ee9a",
+    "wof:geomhash":"f7a0ead1da8730a4e2fdabc3f3cc28d9",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -158,7 +166,7 @@
         }
     ],
     "wof:id":404539429,
-    "wof:lastmodified":1690853564,
+    "wof:lastmodified":1695877952,
     "wof:name":"Melbourne Airport",
     "wof:parent_id":102049057,
     "wof:placetype":"localadmin",

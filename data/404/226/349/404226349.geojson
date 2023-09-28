@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000274,
-    "geom:area_square_m":2843315.282835,
+    "geom:area_square_m":2843315.282816,
     "geom:bbox":"151.625550976,-33.101497635,151.649393248,-33.0692090485",
     "geom:latitude":-33.087148,
     "geom:longitude":151.634292,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.088145,
     "lbl:longitude":151.633471,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Swansea"
@@ -264,12 +270,15 @@
         102048999
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12189"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931997
     ],
     "wof:country":"AU",
-    "wof:geomhash":"651d686d3150071f6d1cc87d5a40ad69",
+    "wof:geomhash":"eec0499537df7f337b9a8c12a44008d6",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -282,7 +291,7 @@
         }
     ],
     "wof:id":404226349,
-    "wof:lastmodified":1566602047,
+    "wof:lastmodified":1695877160,
     "wof:name":"Swansea",
     "wof:parent_id":102048999,
     "wof:placetype":"localadmin",

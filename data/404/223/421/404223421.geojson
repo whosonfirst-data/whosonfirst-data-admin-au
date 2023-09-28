@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.153828,
-    "geom:area_square_m":1600573907.947129,
+    "geom:area_square_m":1600573907.946733,
     "geom:bbox":"147.115574688,-33.0156432605,147.604589184,-32.437393996",
     "geom:latitude":-32.704096,
     "geom:longitude":147.409252,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.67996,
     "lbl:longitude":147.429521,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Fifield"
@@ -47,9 +53,12 @@
         102048865
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10887"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"3d669626c72b36d764b5199192fd2742",
+    "wof:geomhash":"f9d5175d77162d84263434e1fe15e1f7",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":404223421,
-    "wof:lastmodified":1566602540,
+    "wof:lastmodified":1695877438,
     "wof:name":"Fifield",
     "wof:parent_id":102048865,
     "wof:placetype":"localadmin",

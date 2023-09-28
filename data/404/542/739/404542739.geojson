@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001088,
-    "geom:area_square_m":11924511.395485,
+    "geom:area_square_m":11924511.395534,
     "geom:bbox":"152.682671008,-27.6161659945,152.728182016,-27.5753529965",
     "geom:latitude":-27.594639,
     "geom:longitude":152.704917,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.592604,
     "lbl:longitude":152.70457,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Karrabin"
@@ -39,9 +45,12 @@
         102048583
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30852"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"99955dcace50cb46c5f689c47a6df104",
+    "wof:geomhash":"b14e95d52a0cde4717b86b261ccda60e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":404542739,
-    "wof:lastmodified":1566602262,
+    "wof:lastmodified":1695877270,
     "wof:name":"Karrabin",
     "wof:parent_id":102048583,
     "wof:placetype":"localadmin",

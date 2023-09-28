@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.081347,
-    "geom:area_square_m":874121058.412829,
+    "geom:area_square_m":874121058.413659,
     "geom:bbox":"151.12466,-29.812166,151.555015008,-29.4547679965",
     "geom:latitude":-29.65487,
     "geom:longitude":151.363717,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-29.659798,
     "lbl:longitude":151.366979,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Nullamanna"
@@ -38,9 +44,12 @@
         102049369
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11780"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"f80801ddda25800e6c88c2bdfd27891c",
+    "wof:geomhash":"4250a3a9e525958191eb38455446f185",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404225429,
-    "wof:lastmodified":1566602718,
+    "wof:lastmodified":1695877539,
     "wof:name":"Nullamanna",
     "wof:parent_id":102049369,
     "wof:placetype":"localadmin",

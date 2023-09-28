@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006868,
-    "geom:area_square_m":62245220.78379,
+    "geom:area_square_m":62245220.783775,
     "geom:bbox":"147.645057792,-42.9137233095,147.824842016,-42.8390793985",
     "geom:latitude":-42.869416,
     "geom:longitude":147.738714,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-42.871489,
     "lbl:longitude":147.739972,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Connellys Marsh"
@@ -38,9 +44,12 @@
         102048549
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60066"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"a89e0a2b359d4cfc525c457bf3ae0b88",
+    "wof:geomhash":"e8b803e69317c5d083471d1b23f07a1a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404548817,
-    "wof:lastmodified":1566603173,
+    "wof:lastmodified":1695877801,
     "wof:name":"Connellys Marsh",
     "wof:parent_id":102048549,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00241,
-    "geom:area_square_m":25113610.028737,
+    "geom:area_square_m":25113610.028723,
     "geom:bbox":"151.096580992,-32.6089489915,151.177404992,-32.557919424",
     "geom:latitude":-32.586333,
     "geom:longitude":151.139425,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.584493,
     "lbl:longitude":151.152893,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cym_x_preferred":[
         "Glenridding"
@@ -44,9 +50,12 @@
         102048757
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10973"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"c561b7dadd0a1d1d9b84b9a758651ec5",
+    "wof:geomhash":"382be5794ff0db88e9c3410d8e42d08f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404223613,
-    "wof:lastmodified":1566602540,
+    "wof:lastmodified":1695877438,
     "wof:name":"Glenridding",
     "wof:parent_id":102048757,
     "wof:placetype":"localadmin",

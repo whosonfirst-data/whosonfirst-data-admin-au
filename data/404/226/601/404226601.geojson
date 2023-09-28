@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021234,
-    "geom:area_square_m":209548074.229323,
+    "geom:area_square_m":209548074.229356,
     "geom:bbox":"149.522922016,-37.127797009,149.739261888,-36.959237996",
     "geom:latitude":-37.05051,
     "geom:longitude":149.613697,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.051216,
     "lbl:longitude":149.603045,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Towamba"
@@ -38,9 +44,12 @@
         102049439
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12301"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"1a100a3c867016338edd0aad45fff17e",
+    "wof:geomhash":"63de54b15c92b0ffb646c06f8a8b228f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404226601,
-    "wof:lastmodified":1566602076,
+    "wof:lastmodified":1695877179,
     "wof:name":"Towamba",
     "wof:parent_id":102049439,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000244,
-    "geom:area_square_m":2509027.238993,
+    "geom:area_square_m":2509059.492547,
     "geom:bbox":"121.881621,-33.870449,121.901661,-33.852637",
     "geom:latitude":-33.860764,
     "geom:longitude":121.88944,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.860244,
     "lbl:longitude":121.888248,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u098f\u09b8\u09cd\u09aa\u09c7\u09b0\u09be\u09a8\u09cd\u09b8"
@@ -101,12 +107,15 @@
         102049141
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50255"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937163
     ],
     "wof:country":"AU",
-    "wof:geomhash":"9c4bd665e0fcde6ad1eae570c6cbdc2e",
+    "wof:geomhash":"fe892e2def1fe8524bc043891abc0b30",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -118,7 +127,7 @@
         }
     ],
     "wof:id":404547257,
-    "wof:lastmodified":1636494665,
+    "wof:lastmodified":1695877876,
     "wof:name":"Esperance",
     "wof:parent_id":102049141,
     "wof:placetype":"localadmin",

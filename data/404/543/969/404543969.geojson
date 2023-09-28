@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006504,
-    "geom:area_square_m":70842754.19718,
+    "geom:area_square_m":70842754.197102,
     "geom:bbox":"151.906754016,-28.3133800085,152.033351552,-28.195924008",
     "geom:latitude":-28.252145,
     "geom:longitude":151.9703,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.24897,
     "lbl:longitude":151.974644,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Rosenthal Heights"
@@ -39,9 +45,12 @@
         102048963
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31430"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"352b6eef332ca3753f14b1016dc313a2",
+    "wof:geomhash":"e1d0ee6915922b5fc2d52ecbca4851f8",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":404543969,
-    "wof:lastmodified":1566602123,
+    "wof:lastmodified":1695877204,
     "wof:name":"Rosenthal Heights",
     "wof:parent_id":102048963,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020034,
-    "geom:area_square_m":206938303.401389,
+    "geom:area_square_m":206938303.401221,
     "geom:bbox":"147.606628,-33.410010998,147.907612,-33.257523971",
     "geom:latitude":-33.345131,
     "geom:longitude":147.750671,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.335385,
     "lbl:longitude":147.702617,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bedgerebong"
@@ -38,9 +44,12 @@
         102048487
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10144"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"a08cfaaaf59b177d85fed117b2fce8b8",
+    "wof:geomhash":"4982b7f3dfc75a1b27fccd52e5278a60",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404221749,
-    "wof:lastmodified":1566601984,
+    "wof:lastmodified":1695877126,
     "wof:name":"Bedgerebong",
     "wof:parent_id":102048487,
     "wof:placetype":"localadmin",

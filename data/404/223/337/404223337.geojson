@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00198,
-    "geom:area_square_m":21481004.924157,
+    "geom:area_square_m":21481004.924213,
     "geom:bbox":"153.40062096,-28.712062797,153.473234016,-28.661466518",
     "geom:latitude":-28.690243,
     "geom:longitude":153.437634,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.690447,
     "lbl:longitude":153.441196,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u064a\u0648\u0631\u064a\u0643\u0627"
@@ -119,9 +125,12 @@
         102048747
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10850"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"5ae312675f4b4af4b14aeeb1034563d0",
+    "wof:geomhash":"0728c7bc16e8280a6f1b5100594789c0",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -133,7 +142,7 @@
         }
     ],
     "wof:id":404223337,
-    "wof:lastmodified":1566602493,
+    "wof:lastmodified":1695877410,
     "wof:name":"Eureka",
     "wof:parent_id":102048747,
     "wof:placetype":"localadmin",

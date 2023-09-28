@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000345,
-    "geom:area_square_m":3364117.975463,
+    "geom:area_square_m":3364117.975465,
     "geom:bbox":"145.591615072,-38.045923667,145.618030816,-38.024616144",
     "geom:latitude":-38.034227,
     "geom:longitude":145.604209,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.034048,
     "lbl:longitude":145.602636,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Maryknoll-Missionsorden"
@@ -65,12 +71,15 @@
         102048791
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20854"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101933215
     ],
     "wof:country":"AU",
-    "wof:geomhash":"0d7ac8276f5e9bb0ccde0f5a2e1c0ead",
+    "wof:geomhash":"cc60f23e8fb9c4735716459dffcfde8a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -82,7 +91,7 @@
         }
     ],
     "wof:id":404539397,
-    "wof:lastmodified":1566602358,
+    "wof:lastmodified":1695877329,
     "wof:name":"Maryknoll",
     "wof:parent_id":102048791,
     "wof:placetype":"localadmin",

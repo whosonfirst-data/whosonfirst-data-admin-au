@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.063454,
-    "geom:area_square_m":627760689.443365,
+    "geom:area_square_m":627760689.443646,
     "geom:bbox":"142.501270016,-36.987284995,142.978469056,-36.761367953",
     "geom:latitude":-36.862674,
     "geom:longitude":142.713371,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.853032,
     "lbl:longitude":142.713359,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Glenorchy"
@@ -56,9 +62,12 @@
         102049045
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20544"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"7871348da9e0931249ce2c81b037219e",
+    "wof:geomhash":"d3dbb3b4dfe7decfc6195b6632fc15d5",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -70,7 +79,7 @@
         }
     ],
     "wof:id":404538703,
-    "wof:lastmodified":1566602460,
+    "wof:lastmodified":1695877390,
     "wof:name":"Glenorchy",
     "wof:parent_id":102049045,
     "wof:placetype":"localadmin",

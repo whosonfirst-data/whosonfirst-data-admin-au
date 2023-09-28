@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.227447,
-    "geom:area_square_m":2451663702.440346,
+    "geom:area_square_m":2451663702.440026,
     "geom:bbox":"150.31101392,-29.7234538195,150.865916096,-28.975786994",
     "geom:latitude":-29.339769,
     "geom:longitude":150.58037,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-29.343634,
     "lbl:longitude":150.557119,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Warialda"
@@ -56,9 +62,12 @@
         102049247
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12415"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"3f77cd6f3be5a5aae4c275f4b3386360",
+    "wof:geomhash":"369aba02ffb0ccebb2b3e5f6f184668f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -70,7 +79,7 @@
         }
     ],
     "wof:id":404226859,
-    "wof:lastmodified":1566602030,
+    "wof:lastmodified":1695877149,
     "wof:name":"Warialda",
     "wof:parent_id":102049247,
     "wof:placetype":"localadmin",

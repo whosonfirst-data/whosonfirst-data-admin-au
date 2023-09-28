@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.062162,
-    "geom:area_square_m":647412607.999722,
+    "geom:area_square_m":647412607.999952,
     "geom:bbox":"148.667000032,-32.8088455985,148.947316,-32.427629992",
     "geom:latitude":-32.618612,
     "geom:longitude":148.794801,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.624401,
     "lbl:longitude":148.796904,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mount Arthur"
@@ -53,9 +59,12 @@
         102049591
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11609"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"a57e5a7d611e1c87ccbecebf464d45d1",
+    "wof:geomhash":"be24625ee47ca4999461b5a5048d6240",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -67,7 +76,7 @@
         }
     ],
     "wof:id":404225045,
-    "wof:lastmodified":1566602711,
+    "wof:lastmodified":1695877534,
     "wof:name":"Mount Arthur",
     "wof:parent_id":102049591,
     "wof:placetype":"localadmin",

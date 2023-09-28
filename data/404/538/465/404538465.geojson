@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008767,
-    "geom:area_square_m":85699709.361162,
+    "geom:area_square_m":85699709.360999,
     "geom:bbox":"145.71530208,-37.81428661,145.878412,-37.7166479945",
     "geom:latitude":-37.764,
     "geom:longitude":145.794043,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.767979,
     "lbl:longitude":145.807535,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "East Warburton"
@@ -39,9 +45,12 @@
         102048969
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20437"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"92328a65e4fcbb5e68a587c3f67b917a",
+    "wof:geomhash":"e9fe10a6259b4b30c7f4b26983be3fd5",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":404538465,
-    "wof:lastmodified":1566602447,
+    "wof:lastmodified":1695877384,
     "wof:name":"East Warburton",
     "wof:parent_id":102048969,
     "wof:placetype":"localadmin",

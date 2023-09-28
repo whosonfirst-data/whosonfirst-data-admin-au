@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016612,
-    "geom:area_square_m":165465510.690915,
+    "geom:area_square_m":165465510.690844,
     "geom:bbox":"146.557974656,-36.4216092925,146.761977952,-36.2462240015",
     "geom:latitude":-36.338169,
     "geom:longitude":146.65767,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.360093,
     "lbl:longitude":146.664582,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Beechworth"
@@ -56,9 +62,12 @@
         102049541
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20102"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"7b40a55916579b2e188a8fc9cab0463f",
+    "wof:geomhash":"8eec87c497c04bec3fdad6be1c270889",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -70,7 +79,7 @@
         }
     ],
     "wof:id":404537721,
-    "wof:lastmodified":1566602347,
+    "wof:lastmodified":1695877323,
     "wof:name":"Beechworth",
     "wof:parent_id":102049541,
     "wof:placetype":"localadmin",

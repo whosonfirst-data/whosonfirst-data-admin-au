@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000397,
-    "geom:area_square_m":4070755.964342,
+    "geom:area_square_m":4070755.964358,
     "geom:bbox":"151.105960992,-34.0646917175,151.135038016,-34.041588825",
     "geom:latitude":-34.054183,
     "geom:longitude":151.120677,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.054274,
     "lbl:longitude":151.120404,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Caringbah South"
@@ -39,12 +45,15 @@
         102049511
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10470"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101929827
     ],
     "wof:country":"AU",
-    "wof:geomhash":"c34ee74b2926c067e4338e1c0299c4cc",
+    "wof:geomhash":"316d13bf54644dce6787ad33210b8fcd",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404222483,
-    "wof:lastmodified":1566602759,
+    "wof:lastmodified":1695877566,
     "wof:name":"Caringbah South",
     "wof:parent_id":102049511,
     "wof:placetype":"localadmin",

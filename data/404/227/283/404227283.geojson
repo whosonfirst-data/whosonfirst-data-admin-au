@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00006,
-    "geom:area_square_m":618314.715085,
+    "geom:area_square_m":618314.715084,
     "geom:bbox":"151.54025952,-33.103613036,151.552780192,-33.096832749",
     "geom:latitude":-33.1003,
     "geom:longitude":151.546871,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.100224,
     "lbl:longitude":151.54686,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Yarrawonga Park"
@@ -39,12 +45,15 @@
         102048999
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12604"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932449
     ],
     "wof:country":"AU",
-    "wof:geomhash":"dab23f2da5b576d69e1be5632443f883",
+    "wof:geomhash":"b99e13d761b25ea6a567b6fc31d43186",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404227283,
-    "wof:lastmodified":1566601951,
+    "wof:lastmodified":1695877110,
     "wof:name":"Yarrawonga Park",
     "wof:parent_id":102048999,
     "wof:placetype":"localadmin",

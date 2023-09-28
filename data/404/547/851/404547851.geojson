@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000123,
-    "geom:area_square_m":1382090.680576,
+    "geom:area_square_m":1382081.625248,
     "geom:bbox":"113.654303,-24.882277,113.669748,-24.863894",
     "geom:latitude":-24.87267,
     "geom:longitude":113.661342,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-24.872094,
     "lbl:longitude":113.661227,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09ae\u09cb\u09b0\u0997\u09cd\u09af\u09be\u09a8\u099f\u09be\u0989\u09a8"
@@ -101,12 +107,15 @@
         102048891
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50519"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937525
     ],
     "wof:country":"AU",
-    "wof:geomhash":"51d368adff19412dc155227939fd1880",
+    "wof:geomhash":"0a9ffbb4caf57cce36104fa61f5bb2ea",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -118,7 +127,7 @@
         }
     ],
     "wof:id":404547851,
-    "wof:lastmodified":1636494665,
+    "wof:lastmodified":1695877876,
     "wof:name":"Morgantown",
     "wof:parent_id":102048891,
     "wof:placetype":"localadmin",

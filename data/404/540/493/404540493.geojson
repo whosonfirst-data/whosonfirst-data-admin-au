@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.03582,
-    "geom:area_square_m":353503798.587095,
+    "geom:area_square_m":353503798.587029,
     "geom:bbox":"144.53042688,-37.127253997,144.942344,-36.9629938845",
     "geom:latitude":-37.049268,
     "geom:longitude":144.711112,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.042509,
     "lbl:longitude":144.742496,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tooborac"
@@ -38,9 +44,12 @@
         102048437
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21344"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"b0dd36714704c9207596ecee77d04c6f",
+    "wof:geomhash":"c10450076635559b9ef752e757eb3d71",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404540493,
-    "wof:lastmodified":1566603026,
+    "wof:lastmodified":1695877733,
     "wof:name":"Tooborac",
     "wof:parent_id":102048437,
     "wof:placetype":"localadmin",

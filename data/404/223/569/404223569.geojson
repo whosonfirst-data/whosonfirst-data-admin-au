@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000165,
-    "geom:area_square_m":1688811.702998,
+    "geom:area_square_m":1688783.092695,
     "geom:bbox":"151.176807,-33.884748,151.195721,-33.870879",
     "geom:latitude":-33.878095,
     "geom:longitude":151.186679,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.878225,
     "lbl:longitude":151.185552,
     "lbl:max_zoom":18.0,
@@ -109,10 +115,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC10953",
         "gn:id":2165450,
         "qs_pg:id":1036985,
         "wd:id":"Q2296779"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101930403
     ],
@@ -120,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ddb9ca89a176b7b5f0b3f38d26787cc7",
+    "wof:geomhash":"96c7ee515237928393bf5de0704a56ab",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -133,7 +141,7 @@
         }
     ],
     "wof:id":404223569,
-    "wof:lastmodified":1690853598,
+    "wof:lastmodified":1695878054,
     "wof:name":"Glebe",
     "wof:parent_id":102049151,
     "wof:placetype":"localadmin",

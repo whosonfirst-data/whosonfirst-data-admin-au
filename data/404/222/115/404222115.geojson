@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000208,
-    "geom:area_square_m":2098313.038033,
+    "geom:area_square_m":2098313.038031,
     "geom:bbox":"147.33723744,-35.1644777565,147.35859392,-35.148091733",
     "geom:latitude":-35.155929,
     "geom:longitude":147.347042,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.155096,
     "lbl:longitude":147.348108,
     "lbl:max_zoom":18.0,
@@ -42,13 +48,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC10307",
         "wd:id":"Q4950183"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101929679
     ],
     "wof:country":"AU",
-    "wof:geomhash":"2e2711bd0320755a483009dadacfd0b7",
+    "wof:geomhash":"dd71e3ca240f9fdb783e9063ec683027",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -60,7 +68,7 @@
         }
     ],
     "wof:id":404222115,
-    "wof:lastmodified":1566602810,
+    "wof:lastmodified":1695878004,
     "wof:name":"Bourkelands",
     "wof:parent_id":102049075,
     "wof:placetype":"localadmin",

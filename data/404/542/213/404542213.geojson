@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010813,
-    "geom:area_square_m":124734984.722914,
+    "geom:area_square_m":124734984.72296,
     "geom:bbox":"148.561075008,-21.184128008,148.692768512,-21.0583239935",
     "geom:latitude":-21.112263,
     "geom:longitude":148.618088,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-21.107202,
     "lbl:longitude":148.610281,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Finch Hatton"
@@ -38,9 +44,12 @@
         102048783
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30607"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"81a562aba5dfccaa1786e9297853bc48",
+    "wof:geomhash":"4b350c622f81e92a7c29ff27553da335",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404542213,
-    "wof:lastmodified":1566602303,
+    "wof:lastmodified":1695877296,
     "wof:name":"Finch Hatton",
     "wof:parent_id":102048783,
     "wof:placetype":"localadmin",

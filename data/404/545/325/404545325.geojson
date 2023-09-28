@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020204,
-    "geom:area_square_m":206135916.359195,
+    "geom:area_square_m":206135916.359199,
     "geom:bbox":"138.718292992,-34.5112856025,138.894856992,-34.298284502",
     "geom:latitude":-34.401314,
     "geom:longitude":138.809268,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.401979,
     "lbl:longitude":138.807926,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Freeling"
@@ -41,9 +47,12 @@
         102049171
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40212"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"85138007b43354e1497d24a2d1030bca",
+    "wof:geomhash":"32c2d7a05955b98e6bdc545ececf3d37",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404545325,
-    "wof:lastmodified":1566602233,
+    "wof:lastmodified":1695877258,
     "wof:name":"Freeling",
     "wof:parent_id":102049171,
     "wof:placetype":"localadmin",

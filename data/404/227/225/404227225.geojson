@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000573,
-    "geom:area_square_m":5905375.388117,
+    "geom:area_square_m":5905375.388136,
     "geom:bbox":"151.288158016,-33.514675007,151.33659984,-33.478176468",
     "geom:latitude":-33.497529,
     "geom:longitude":151.314569,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.498754,
     "lbl:longitude":151.314926,
     "lbl:max_zoom":18.0,
@@ -45,13 +51,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC12578",
         "wd:id":"Q8037471"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932427
     ],
     "wof:country":"AU",
-    "wof:geomhash":"b3ea19aa2eb2c0b534d50a6cddfcc74d",
+    "wof:geomhash":"17f43a95ac7f95baa7140b4dc149fe1b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -63,7 +71,7 @@
         }
     ],
     "wof:id":404227225,
-    "wof:lastmodified":1566601954,
+    "wof:lastmodified":1695877895,
     "wof:name":"Woy Woy",
     "wof:parent_id":102048513,
     "wof:placetype":"localadmin",

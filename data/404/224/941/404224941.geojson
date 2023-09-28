@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.119882,
-    "geom:area_square_m":1201360808.50485,
+    "geom:area_square_m":1201360808.504701,
     "geom:bbox":"144.303534016,-36.129919552,144.96669488,-35.521998452",
     "geom:latitude":-35.860984,
     "geom:longitude":144.560431,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.861255,
     "lbl:longitude":144.564832,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Moama"
@@ -56,9 +62,12 @@
         102049015
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11563"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"55ddc60c9f56825ffab644a2163acc0f",
+    "wof:geomhash":"dc28d00023ba0c3115cda20a7434a466",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -70,7 +79,7 @@
         }
     ],
     "wof:id":404224941,
-    "wof:lastmodified":1566602602,
+    "wof:lastmodified":1695877476,
     "wof:name":"Moama",
     "wof:parent_id":102049015,
     "wof:placetype":"localadmin",

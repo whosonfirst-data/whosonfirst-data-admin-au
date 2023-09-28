@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017876,
-    "geom:area_square_m":165325851.740955,
+    "geom:area_square_m":165325851.74099,
     "geom:bbox":"147.155589056,-41.6732670075,147.415186016,-41.512040895",
     "geom:latitude":-41.588127,
     "geom:longitude":147.276385,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-41.577506,
     "lbl:longitude":147.27634,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Evandale"
@@ -41,9 +47,12 @@
         102049249
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60107"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"b39f484729459fd79ebbfc841ab1131c",
+    "wof:geomhash":"6a09d8ddd0b64e798b927c59b77b4009",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404548909,
-    "wof:lastmodified":1566603157,
+    "wof:lastmodified":1695877793,
     "wof:name":"Evandale",
     "wof:parent_id":102049249,
     "wof:placetype":"localadmin",

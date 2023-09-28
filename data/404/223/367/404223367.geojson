@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000212,
-    "geom:area_square_m":2180021.792789,
+    "geom:area_square_m":2180021.792791,
     "geom:bbox":"150.959967008,-33.88226664,150.985517984,-33.8673081875",
     "geom:latitude":-33.874355,
     "geom:longitude":150.972761,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.875004,
     "lbl:longitude":150.97257,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Fairfield East"
@@ -54,12 +60,15 @@
         102049221
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10863"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101930261
     ],
     "wof:country":"AU",
-    "wof:geomhash":"3355d358bec54f081cf0b8bcd6fe0119",
+    "wof:geomhash":"d7f0ebd733d758677937d536cca56f2e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -72,7 +81,7 @@
         }
     ],
     "wof:id":404223367,
-    "wof:lastmodified":1566602536,
+    "wof:lastmodified":1695877435,
     "wof:name":"Fairfield East",
     "wof:parent_id":102049221,
     "wof:placetype":"localadmin",

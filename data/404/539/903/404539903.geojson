@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007842,
-    "geom:area_square_m":79036190.872295,
+    "geom:area_square_m":79036190.872221,
     "geom:bbox":"143.564190112,-35.465435997,143.819140544,-35.3372290545",
     "geom:latitude":-35.403422,
     "geom:longitude":143.691159,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.38926,
     "lbl:longitude":143.680501,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Pental Island"
@@ -38,9 +44,12 @@
         102049167
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21081"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"82cc9c9664cd2d5c4e21f88e83563613",
+    "wof:geomhash":"9c83644dd1b2b6b3082be6e17f2dec1a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404539903,
-    "wof:lastmodified":1566602387,
+    "wof:lastmodified":1695877347,
     "wof:name":"Pental Island",
     "wof:parent_id":102049167,
     "wof:placetype":"localadmin",

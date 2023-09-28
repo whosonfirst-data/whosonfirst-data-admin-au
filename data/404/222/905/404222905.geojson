@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.03202,
-    "geom:area_square_m":321638040.861619,
+    "geom:area_square_m":321638040.861511,
     "geom:bbox":"146.86637,-35.789556885,147.136346016,-35.581532007",
     "geom:latitude":-35.674527,
     "geom:longitude":147.015344,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.676624,
     "lbl:longitude":147.026538,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Culcairn"
@@ -53,9 +59,12 @@
         102049625
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10658"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"e7ca4530cd5328b8b1c816729a501eb0",
+    "wof:geomhash":"a27b00fc928be268637e29e60f42127f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -67,7 +76,7 @@
         }
     ],
     "wof:id":404222905,
-    "wof:lastmodified":1566602789,
+    "wof:lastmodified":1695877586,
     "wof:name":"Culcairn",
     "wof:parent_id":102049625,
     "wof:placetype":"localadmin",

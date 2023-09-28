@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.582215,
-    "geom:area_square_m":5915102152.110449,
+    "geom:area_square_m":5915102152.109833,
     "geom:bbox":"140.963160576,-35.098143731,142.30276528,-34.2742033295",
     "geom:latitude":-34.751025,
     "geom:longitude":141.503383,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.787408,
     "lbl:longitude":141.402171,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Murray-Sunset"
@@ -38,9 +44,12 @@
         102049611
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20961"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"96e6c407335c26fd748e07dc7c6caa67",
+    "wof:geomhash":"1f552278d8329d5f67276a732dead754",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404539637,
-    "wof:lastmodified":1566602403,
+    "wof:lastmodified":1695877359,
     "wof:name":"Murray-Sunset",
     "wof:parent_id":102049611,
     "wof:placetype":"localadmin",

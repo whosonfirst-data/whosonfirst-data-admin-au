@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000567,
-    "geom:area_square_m":6342986.27541,
+    "geom:area_square_m":6342986.275399,
     "geom:bbox":"152.786319008,-25.289063001,152.818832032,-25.261908775",
     "geom:latitude":-25.275964,
     "geom:longitude":152.804064,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-25.275279,
     "lbl:longitude":152.803753,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Eli Waters"
@@ -38,12 +44,15 @@
         102049435
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30559"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934379
     ],
     "wof:country":"AU",
-    "wof:geomhash":"474cc2dd547f4c571968454587c9ec92",
+    "wof:geomhash":"16380c317a539afa38637831f0474fb5",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404542109,
-    "wof:lastmodified":1566602291,
+    "wof:lastmodified":1695877287,
     "wof:name":"Eli Waters",
     "wof:parent_id":102049435,
     "wof:placetype":"localadmin",

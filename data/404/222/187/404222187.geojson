@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002167,
-    "geom:area_square_m":22233144.778814,
+    "geom:area_square_m":22233144.778892,
     "geom:bbox":"150.691666208,-33.9570127635,150.758787008,-33.9023939925",
     "geom:latitude":-33.927356,
     "geom:longitude":150.727951,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.92329,
     "lbl:longitude":150.728589,
     "lbl:max_zoom":18.0,
@@ -58,10 +64,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC10339",
         "wd:id":"Q4968341"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"0540e5e682f624fd8dc42e2399bde25f",
+    "wof:geomhash":"74b00750c2254bc3badb772d79e1fcc9",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -74,7 +82,7 @@
         }
     ],
     "wof:id":404222187,
-    "wof:lastmodified":1566602771,
+    "wof:lastmodified":1695877999,
     "wof:name":"Bringelly",
     "wof:parent_id":102049387,
     "wof:placetype":"localadmin",

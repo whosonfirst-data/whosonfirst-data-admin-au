@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00044,
-    "geom:area_square_m":4458953.948079,
+    "geom:area_square_m":4458953.948071,
     "geom:bbox":"138.497446048,-34.964393245,138.518310016,-34.9316429355",
     "geom:latitude":-34.945974,
     "geom:longitude":138.509346,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.945797,
     "lbl:longitude":138.509545,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "West Beach"
@@ -48,12 +54,15 @@
         102049621
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40785"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101936747
     ],
     "wof:country":"AU",
-    "wof:geomhash":"be6c6d79cba39bbba8b188f418151eb7",
+    "wof:geomhash":"3b946fd65de44720ac774aadb8945c37",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -66,7 +75,7 @@
         }
     ],
     "wof:id":404546555,
-    "wof:lastmodified":1566603131,
+    "wof:lastmodified":1695877783,
     "wof:name":"West Beach",
     "wof:parent_id":102049621,
     "wof:placetype":"localadmin",

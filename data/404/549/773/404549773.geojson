@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006949,
-    "geom:area_square_m":83805752.784122,
+    "geom:area_square_m":83805744.114748,
     "geom:bbox":"131.009138,-12.82324,131.101157,-12.673474",
     "geom:latitude":-12.762552,
     "geom:longitude":131.067072,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-12.761977,
     "lbl:longitude":131.067776,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Livingstone"
@@ -47,9 +53,12 @@
         102049205
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC70115"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"03a9954d3b6e2ff29488701ec558b05c",
+    "wof:geomhash":"e82666c85a88387e22e8fb5ddf5bdf8b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":404549773,
-    "wof:lastmodified":1636494663,
+    "wof:lastmodified":1695877876,
     "wof:name":"Livingstone",
     "wof:parent_id":102049205,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008702,
-    "geom:area_square_m":88331501.825306,
+    "geom:area_square_m":88331501.825344,
     "geom:bbox":"149.606252992,-34.889335008,149.755514784,-34.775263971",
     "geom:latitude":-34.828225,
     "geom:longitude":149.676086,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.827503,
     "lbl:longitude":149.670986,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Brisbane Grove"
@@ -38,9 +44,12 @@
         102048827
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10340"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"a059bb0639f77c12088d0f00bf343011",
+    "wof:geomhash":"524e95bb090400da21a4e61606389203",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404222189,
-    "wof:lastmodified":1566602774,
+    "wof:lastmodified":1695877576,
     "wof:name":"Brisbane Grove",
     "wof:parent_id":102048827,
     "wof:placetype":"localadmin",

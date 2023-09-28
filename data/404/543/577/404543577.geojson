@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.307349,
-    "geom:area_square_m":3340127169.690087,
+    "geom:area_square_m":3340127169.690906,
     "geom:bbox":"148.919517472,-28.9002657205,149.59007,-28.185826042",
     "geom:latitude":-28.492078,
     "geom:longitude":149.21541,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.467068,
     "lbl:longitude":149.208944,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "North Talwood"
@@ -38,9 +44,12 @@
         102048595
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31248"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"8e74e131931a46e6628b748027252d41",
+    "wof:geomhash":"d839339b23d6d2c2e9dfdfe9b183f32f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404543577,
-    "wof:lastmodified":1566602144,
+    "wof:lastmodified":1695877214,
     "wof:name":"North Talwood",
     "wof:parent_id":102048595,
     "wof:placetype":"localadmin",

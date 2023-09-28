@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004636,
-    "geom:area_square_m":47110544.569684,
+    "geom:area_square_m":47110544.569762,
     "geom:bbox":"138.768473888,-34.7753926755,138.868257536,-34.680482995",
     "geom:latitude":-34.730883,
     "geom:longitude":138.815965,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.734115,
     "lbl:longitude":138.798571,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Humbug Scrub"
@@ -39,9 +45,12 @@
         102049603
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40306"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"b2c2dfbdd762848df9a11de7a5689931",
+    "wof:geomhash":"ce535108ef4f1d50d0ce5aec998f94a7",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":404545529,
-    "wof:lastmodified":1566602230,
+    "wof:lastmodified":1695877257,
     "wof:name":"Humbug Scrub",
     "wof:parent_id":102049603,
     "wof:placetype":"localadmin",

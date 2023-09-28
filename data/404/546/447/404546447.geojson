@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.069047,
-    "geom:area_square_m":704577402.407055,
+    "geom:area_square_m":704577452.500988,
     "geom:bbox":"135.777349,-34.683689,136.374338,-34.268606",
     "geom:latitude":-34.386369,
     "geom:longitude":135.954661,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.382855,
     "lbl:longitude":135.944724,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u099f\u09be\u09ae\u09cd\u09ac\u09bf \u09ac\u09c7"
@@ -86,9 +92,12 @@
         102049229
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40735"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"f664c73e311c39c8e80971d2bfcf3dfa",
+    "wof:geomhash":"8253e929067918f0ef975f918caad09f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -100,7 +109,7 @@
         }
     ],
     "wof:id":404546447,
-    "wof:lastmodified":1636494679,
+    "wof:lastmodified":1695877885,
     "wof:name":"Tumby Bay",
     "wof:parent_id":102049229,
     "wof:placetype":"localadmin",

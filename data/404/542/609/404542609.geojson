@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003564,
-    "geom:area_square_m":41752636.797026,
+    "geom:area_square_m":41752622.680485,
     "geom:bbox":"146.108652,-18.685043,146.201166,-18.621963",
     "geom:latitude":-18.655113,
     "geom:longitude":146.154399,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-18.65683,
     "lbl:longitude":146.15351,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u0987\u0982\u09b9\u09cd\u09af\u09be\u09ae"
@@ -92,12 +98,15 @@
         102048645
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30795"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934587
     ],
     "wof:country":"AU",
-    "wof:geomhash":"c35b0b559fe1c23ac69bd3b79b6529b2",
+    "wof:geomhash":"a49f8bc123e81d076d854dee733c270f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -109,7 +118,7 @@
         }
     ],
     "wof:id":404542609,
-    "wof:lastmodified":1636494631,
+    "wof:lastmodified":1695877857,
     "wof:name":"Ingham",
     "wof:parent_id":102048645,
     "wof:placetype":"localadmin",

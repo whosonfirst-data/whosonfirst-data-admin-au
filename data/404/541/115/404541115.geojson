@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005058,
-    "geom:area_square_m":58271028.479087,
+    "geom:area_square_m":58271028.4792,
     "geom:bbox":"149.094344992,-21.3351870015,149.202028672,-21.2633710005",
     "geom:latitude":-21.299086,
     "geom:longitude":149.145679,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-21.300724,
     "lbl:longitude":149.146686,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Balberra"
@@ -38,9 +44,12 @@
         102048783
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30084"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"7b7ac4931e13396a1a20ef216b2ba305",
+    "wof:geomhash":"445850f66c9b498065fd0c3a810f4f81",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404541115,
-    "wof:lastmodified":1566603094,
+    "wof:lastmodified":1695877767,
     "wof:name":"Balberra",
     "wof:parent_id":102048783,
     "wof:placetype":"localadmin",

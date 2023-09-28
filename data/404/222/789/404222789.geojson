@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003454,
-    "geom:area_square_m":36291026.610394,
+    "geom:area_square_m":36291026.610468,
     "geom:bbox":"152.545196192,-31.8662769995,152.647633984,-31.752589005",
     "geom:latitude":-31.814428,
     "geom:longitude":152.602735,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.816646,
     "lbl:longitude":152.602687,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Coopernook"
@@ -38,9 +44,12 @@
         102048833
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10606"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"47aa3154f9ec30e6a08704464c787676",
+    "wof:geomhash":"7463dc466631d0ca7bd6ab772d11e34a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404222789,
-    "wof:lastmodified":1566602816,
+    "wof:lastmodified":1695877602,
     "wof:name":"Coopernook",
     "wof:parent_id":102048833,
     "wof:placetype":"localadmin",

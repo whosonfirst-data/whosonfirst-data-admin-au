@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000733,
-    "geom:area_square_m":7828947.781413,
+    "geom:area_square_m":7828947.781417,
     "geom:bbox":"153.11163056,-30.248703692,153.158240608,-30.2103479935",
     "geom:latitude":-30.226574,
     "geom:longitude":153.137564,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-30.224045,
     "lbl:longitude":153.137905,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Sapphire Beach"
@@ -38,9 +44,12 @@
         102048797
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12045"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"caf93b2c1fd5da36b343f9ab3963071a",
+    "wof:geomhash":"6a35a481d8f27cc60c6db405767d3f55",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404226025,
-    "wof:lastmodified":1566602027,
+    "wof:lastmodified":1695877146,
     "wof:name":"Sapphire Beach",
     "wof:parent_id":102048797,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.070304,
-    "geom:area_square_m":693273723.450371,
+    "geom:area_square_m":693273723.450136,
     "geom:bbox":"147.315690752,-37.24982719,147.859946656,-36.958382001",
     "geom:latitude":-37.109074,
     "geom:longitude":147.558702,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.140278,
     "lbl:longitude":147.517907,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Omeo"
@@ -59,9 +65,12 @@
         102049039
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21055"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"b4220ce8c92f1dc26f58d31bb3defac8",
+    "wof:geomhash":"9746338bb4326514f146ba32197972b7",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -73,7 +82,7 @@
         }
     ],
     "wof:id":404539845,
-    "wof:lastmodified":1566602361,
+    "wof:lastmodified":1695877331,
     "wof:name":"Omeo",
     "wof:parent_id":102049039,
     "wof:placetype":"localadmin",

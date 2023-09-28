@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.041136,
-    "geom:area_square_m":481396213.340036,
+    "geom:area_square_m":481396213.340311,
     "geom:bbox":"146.048458592,-18.9524793905,146.32233376,-18.733695005",
     "geom:latitude":-18.842269,
     "geom:longitude":146.177968,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-18.838262,
     "lbl:longitude":146.175343,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bambaroo"
@@ -38,9 +44,12 @@
         102048645
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30095"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"45e95f89e19fe3c1617b250caf94fd4b",
+    "wof:geomhash":"6851f1da1e43df0e3eb0ba2fb8d8200d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404541139,
-    "wof:lastmodified":1566603077,
+    "wof:lastmodified":1695877758,
     "wof:name":"Bambaroo",
     "wof:parent_id":102048645,
     "wof:placetype":"localadmin",

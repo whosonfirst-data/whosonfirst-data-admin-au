@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.074361,
-    "geom:area_square_m":762558789.183504,
+    "geom:area_square_m":762558789.183409,
     "geom:bbox":"147.709800448,-34.143191195,148.065314848,-33.7731000085",
     "geom:latitude":-33.969609,
     "geom:longitude":147.898164,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.003012,
     "lbl:longitude":147.915733,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Quandialla"
@@ -47,9 +53,12 @@
         102048709
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11927"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"d4b3b02a276267dc2bb52b4a6fdf3179",
+    "wof:geomhash":"90da8464fc1ff8199eb1b7588c8a98a8",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":404225761,
-    "wof:lastmodified":1566602708,
+    "wof:lastmodified":1695877532,
     "wof:name":"Quandialla",
     "wof:parent_id":102048709,
     "wof:placetype":"localadmin",

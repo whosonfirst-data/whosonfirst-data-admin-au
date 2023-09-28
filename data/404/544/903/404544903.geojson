@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000168,
-    "geom:area_square_m":1719163.116956,
+    "geom:area_square_m":1719163.116955,
     "geom:bbox":"136.560147232,-33.918921985,136.585983904,-33.9006093345",
     "geom:latitude":-33.909744,
     "geom:longitude":136.570409,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.909651,
     "lbl:longitude":136.569546,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Arno Bay"
@@ -38,12 +44,15 @@
         102048923
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40021"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935749
     ],
     "wof:country":"AU",
-    "wof:geomhash":"58a73bb3a645802c9212e8b89d4b9bf1",
+    "wof:geomhash":"1395b27328a711aa505c223d816fc818",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404544903,
-    "wof:lastmodified":1566602181,
+    "wof:lastmodified":1695877234,
     "wof:name":"Arno Bay",
     "wof:parent_id":102048923,
     "wof:placetype":"localadmin",

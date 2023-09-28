@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.156735,
-    "geom:area_square_m":1645977913.157127,
+    "geom:area_square_m":1645977913.159133,
     "geom:bbox":"147.328668608,-32.1886658435,147.842038016,-31.5223076095",
     "geom:latitude":-31.864971,
     "geom:longitude":147.550578,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.872837,
     "lbl:longitude":147.596881,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Nevertire"
@@ -47,9 +53,12 @@
         102048959
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11709"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"398bf7cdcdb4a77430efb652f5c88035",
+    "wof:geomhash":"6475d7a0f19b241e7bcbe2ce2eaea7b3",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":404225269,
-    "wof:lastmodified":1566602687,
+    "wof:lastmodified":1695877522,
     "wof:name":"Nevertire",
     "wof:parent_id":102048959,
     "wof:placetype":"localadmin",

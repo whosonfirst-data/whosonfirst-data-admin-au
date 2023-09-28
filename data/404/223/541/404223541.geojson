@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.044995,
-    "geom:area_square_m":473439318.76105,
+    "geom:area_square_m":473439318.760867,
     "geom:bbox":"148.454324224,-31.788705001,148.799048992,-31.563705004",
     "geom:latitude":-31.685231,
     "geom:longitude":148.62468,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.680368,
     "lbl:longitude":148.639066,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Gilgandra"
@@ -38,9 +44,12 @@
         102048991
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10941"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"afadfb20efebac5b262124b847cb61cf",
+    "wof:geomhash":"28c7c1868ce8dfef940bb3c3871668a8",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404223541,
-    "wof:lastmodified":1566602565,
+    "wof:lastmodified":1695877455,
     "wof:name":"Gilgandra",
     "wof:parent_id":102048991,
     "wof:placetype":"localadmin",

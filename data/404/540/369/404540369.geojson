@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004404,
-    "geom:area_square_m":43017382.091283,
+    "geom:area_square_m":43017382.091297,
     "geom:bbox":"147.82928144,-37.857111002,147.919088512,-37.773794994",
     "geom:latitude":-37.81341,
     "geom:longitude":147.869378,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.810112,
     "lbl:longitude":147.864958,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Swan Reach"
@@ -41,9 +47,12 @@
         102049039
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21289"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"27181a17327c7b3624d15bb5045d6ac1",
+    "wof:geomhash":"f77a1c6104d41cc1902586d2f58142cb",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404540369,
-    "wof:lastmodified":1566603015,
+    "wof:lastmodified":1695877727,
     "wof:name":"Swan Reach",
     "wof:parent_id":102049039,
     "wof:placetype":"localadmin",

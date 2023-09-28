@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000573,
-    "geom:area_square_m":6922331.38089,
+    "geom:area_square_m":6922331.380884,
     "geom:bbox":"96.817197,-12.208726,96.929489,-11.81462",
     "geom:latitude":-12.103041,
     "geom:longitude":96.88445,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-12.201665,
     "lbl:longitude":96.907315,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Directions Island"
@@ -37,12 +43,15 @@
         85672275
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC90002"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938925
     ],
     "wof:country":"AU",
-    "wof:geomhash":"92f4a6bb2001dda85d3b785481728fa0",
+    "wof:geomhash":"74142df50a93e90c1fb651d9567b4d27",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":404550149,
-    "wof:lastmodified":1607987728,
+    "wof:lastmodified":1695877840,
     "wof:name":"Directions Island",
     "wof:parent_id":85672275,
     "wof:placetype":"localadmin",

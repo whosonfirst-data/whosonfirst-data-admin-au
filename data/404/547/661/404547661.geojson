@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00074,
-    "geom:area_square_m":7931782.142038,
+    "geom:area_square_m":7931782.142057,
     "geom:bbox":"114.971145408,-29.976541941,115.004096,-29.9351947",
     "geom:latitude":-29.95663,
     "geom:longitude":114.986802,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-29.947622,
     "lbl:longitude":114.985444,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Leeman"
@@ -47,12 +53,15 @@
         102048591
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50435"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937417
     ],
     "wof:country":"AU",
-    "wof:geomhash":"6266dd770f499b05745f5c05431c0fd1",
+    "wof:geomhash":"962732a6f719041bed0dda7fee17607f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":404547661,
-    "wof:lastmodified":1566602940,
+    "wof:lastmodified":1695877683,
     "wof:name":"Leeman",
     "wof:parent_id":102048591,
     "wof:placetype":"localadmin",

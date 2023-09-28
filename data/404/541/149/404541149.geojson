@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.136875,
-    "geom:area_square_m":1543519345.347208,
+    "geom:area_square_m":1543519345.347138,
     "geom:bbox":"149.651854016,-24.550603015,150.140668992,-23.953211005",
     "geom:latitude":-24.218751,
     "geom:longitude":149.901587,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-24.251844,
     "lbl:longitude":149.925562,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Baralaba"
@@ -38,9 +44,12 @@
         102049135
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30101"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"c385a2462126d106ce9d8b08fbd1b2f4",
+    "wof:geomhash":"9c311d395679fea37497503abfdd2cd1",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404541149,
-    "wof:lastmodified":1566603099,
+    "wof:lastmodified":1695877770,
     "wof:name":"Baralaba",
     "wof:parent_id":102049135,
     "wof:placetype":"localadmin",

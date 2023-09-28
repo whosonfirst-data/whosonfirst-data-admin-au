@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000121,
-    "geom:area_square_m":1240423.5902,
+    "geom:area_square_m":1240423.590215,
     "geom:bbox":"151.107618976,-33.9492441695,151.12292976,-33.9357239995",
     "geom:latitude":-33.941861,
     "geom:longitude":151.114597,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.941385,
     "lbl:longitude":151.114477,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bexley North"
@@ -39,12 +45,15 @@
         102048425
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10203"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101929571
     ],
     "wof:country":"AU",
-    "wof:geomhash":"82fd28391d3b369f058d971926a0c712",
+    "wof:geomhash":"6617e74cf4d65218fae830000209b8bb",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404221881,
-    "wof:lastmodified":1566601976,
+    "wof:lastmodified":1695877122,
     "wof:name":"Bexley North",
     "wof:parent_id":102048425,
     "wof:placetype":"localadmin",

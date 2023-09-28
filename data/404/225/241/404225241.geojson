@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000226,
-    "geom:area_square_m":2349523.65594,
+    "geom:area_square_m":2349523.655934,
     "geom:bbox":"151.397037184,-32.8296890305,151.422466016,-32.8086230065",
     "geom:latitude":-32.819105,
     "geom:longitude":151.413399,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.81916,
     "lbl:longitude":151.414635,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Castell-nedd"
@@ -116,12 +122,15 @@
         102048575
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11696"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931379
     ],
     "wof:country":"AU",
-    "wof:geomhash":"40273e9b21bce5a51c10224983799154",
+    "wof:geomhash":"e8befaebbe025b8b7867a79a540765cf",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -133,7 +142,7 @@
         }
     ],
     "wof:id":404225241,
-    "wof:lastmodified":1566602711,
+    "wof:lastmodified":1695877534,
     "wof:name":"Neath",
     "wof:parent_id":102048575,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005028,
-    "geom:area_square_m":51809521.660042,
+    "geom:area_square_m":51809521.660069,
     "geom:bbox":"115.783173984,-33.587650995,115.899068992,-33.5049789165",
     "geom:latitude":-33.551642,
     "geom:longitude":115.838303,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.551995,
     "lbl:longitude":115.842231,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Donnybrook"
@@ -62,9 +68,12 @@
         102049113
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50223"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"2100b37cedc07b686db5e036628a96f4",
+    "wof:geomhash":"f0db5bbc1e02a13c828c6f88fd804f19",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -76,7 +85,7 @@
         }
     ],
     "wof:id":404547185,
-    "wof:lastmodified":1566602980,
+    "wof:lastmodified":1695877707,
     "wof:name":"Donnybrook",
     "wof:parent_id":102049113,
     "wof:placetype":"localadmin",

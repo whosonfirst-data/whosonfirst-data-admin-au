@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000905,
-    "geom:area_square_m":9297557.119852,
+    "geom:area_square_m":9297557.119844,
     "geom:bbox":"121.857653888,-33.8558106225,121.902602208,-33.8160181955",
     "geom:latitude":-33.839361,
     "geom:longitude":121.883056,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.839545,
     "lbl:longitude":121.88493,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0427\u044d\u0434\u0432\u0456\u043a"
@@ -92,12 +98,15 @@
         102049141
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50149"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937005
     ],
     "wof:country":"AU",
-    "wof:geomhash":"985c224094686b93d21d50eb5deb92d4",
+    "wof:geomhash":"fb06b857bc75ccf3c49fd281a673165d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -109,7 +118,7 @@
         }
     ],
     "wof:id":404547023,
-    "wof:lastmodified":1566602926,
+    "wof:lastmodified":1695877676,
     "wof:name":"Chadwick",
     "wof:parent_id":102049141,
     "wof:placetype":"localadmin",

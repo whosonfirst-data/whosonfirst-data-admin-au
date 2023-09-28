@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00241,
-    "geom:area_square_m":23593334.123035,
+    "geom:area_square_m":23593334.123031,
     "geom:bbox":"143.853857536,-37.6760080085,143.950984192,-37.620464996",
     "geom:latitude":-37.6522,
     "geom:longitude":143.900268,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.655343,
     "lbl:longitude":143.896225,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Buninyong"
@@ -50,9 +56,12 @@
         102049037
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20214"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"bf821e1b3f4a4d7f944231ba4fa6fbbe",
+    "wof:geomhash":"0c4f8794a3824d8e2537e810501a9f0d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":404537969,
-    "wof:lastmodified":1566602337,
+    "wof:lastmodified":1695877317,
     "wof:name":"Buninyong",
     "wof:parent_id":102049037,
     "wof:placetype":"localadmin",

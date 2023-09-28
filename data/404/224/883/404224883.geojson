@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000122,
-    "geom:area_square_m":1247799.981653,
+    "geom:area_square_m":1247799.981649,
     "geom:bbox":"150.871697632,-33.9276791635,150.889360992,-33.913537116",
     "geom:latitude":-33.92128,
     "geom:longitude":150.878479,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.920751,
     "lbl:longitude":150.877611,
     "lbl:max_zoom":18.0,
@@ -103,13 +109,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC11537",
         "wd:id":"Q6859031"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931229
     ],
     "wof:country":"AU",
-    "wof:geomhash":"3cc41e6e13cdfa6a380c31fbe99f1e96",
+    "wof:geomhash":"bb209f437fae29e57344c3ad24a33e5b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -122,7 +130,7 @@
         }
     ],
     "wof:id":404224883,
-    "wof:lastmodified":1566602622,
+    "wof:lastmodified":1695877980,
     "wof:name":"Miller",
     "wof:parent_id":102049387,
     "wof:placetype":"localadmin",

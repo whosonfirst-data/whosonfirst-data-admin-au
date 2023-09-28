@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009236,
-    "geom:area_square_m":93639251.439974,
+    "geom:area_square_m":93639251.439958,
     "geom:bbox":"117.370459008,-34.9860709715,117.482680192,-34.860193993",
     "geom:latitude":-34.923753,
     "geom:longitude":117.423135,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.930305,
     "lbl:longitude":117.424211,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062f\u0631\u064a\u0633"
@@ -230,9 +236,12 @@
         102048443
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50322"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"545254490ddc693edec58738c384c55c",
+    "wof:geomhash":"3da8dc8c4312a1e379507357c93f52fc",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -244,7 +253,7 @@
         }
     ],
     "wof:id":404547407,
-    "wof:lastmodified":1566602938,
+    "wof:lastmodified":1695877681,
     "wof:name":"Hay",
     "wof:parent_id":102048443,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007703,
-    "geom:area_square_m":77953739.02783,
+    "geom:area_square_m":77953739.027827,
     "geom:bbox":"149.020559008,-35.121251008,149.155642016,-35.036975997",
     "geom:latitude":-35.075966,
     "geom:longitude":149.088888,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.07658,
     "lbl:longitude":149.094355,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Springrange"
@@ -38,9 +44,12 @@
         102049253
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12135"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"a401ae0fe3349a812cc9cbcb5ee83517",
+    "wof:geomhash":"82dd6cb739d4c9ef93a11b8084449439",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404226229,
-    "wof:lastmodified":1566602021,
+    "wof:lastmodified":1695877143,
     "wof:name":"Springrange",
     "wof:parent_id":102049253,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015554,
-    "geom:area_square_m":162230047.308406,
+    "geom:area_square_m":162230047.308145,
     "geom:bbox":"151.304738016,-32.576845997,151.488910016,-32.378343883",
     "geom:latitude":-32.489567,
     "geom:longitude":151.408535,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.500239,
     "lbl:longitude":151.414822,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Glendon Brook"
@@ -38,9 +44,12 @@
         102048757
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10963"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"e2a13428aea00422404babea7704a2d1",
+    "wof:geomhash":"332f3af127fe53da73c40dcb53303ac1",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404223591,
-    "wof:lastmodified":1566602538,
+    "wof:lastmodified":1695877436,
     "wof:name":"Glendon Brook",
     "wof:parent_id":102048757,
     "wof:placetype":"localadmin",

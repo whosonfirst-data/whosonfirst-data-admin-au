@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007536,
-    "geom:area_square_m":73547302.855746,
+    "geom:area_square_m":73547302.855843,
     "geom:bbox":"146.726320832,-37.946249922,146.88497888,-37.834541002",
     "geom:latitude":-37.886053,
     "geom:longitude":146.801261,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.878307,
     "lbl:longitude":146.802434,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Coongulla"
@@ -38,9 +44,12 @@
         102049585
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20330"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"7ef222fe10bc7ada4c02d573f00b2a09",
+    "wof:geomhash":"2870e6cdbbbb419dc8fc988d3cedb3c2",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404538229,
-    "wof:lastmodified":1566602430,
+    "wof:lastmodified":1695877375,
     "wof:name":"Coongulla",
     "wof:parent_id":102049585,
     "wof:placetype":"localadmin",

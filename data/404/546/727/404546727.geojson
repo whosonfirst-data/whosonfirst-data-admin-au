@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000134,
-    "geom:area_square_m":1404210.700571,
+    "geom:area_square_m":1404210.700574,
     "geom:bbox":"115.788508,-31.740435393,115.805483008,-31.7277756395",
     "geom:latitude":-31.732548,
     "geom:longitude":115.797685,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.732874,
     "lbl:longitude":115.797522,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Ashby"
@@ -83,12 +89,15 @@
         102048879
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50018"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101936833
     ],
     "wof:country":"AU",
-    "wof:geomhash":"b4fa5c80879db2a9b92c486075805902",
+    "wof:geomhash":"710b4bbd056b5747a0ea333a89dbd887",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -100,7 +109,7 @@
         }
     ],
     "wof:id":404546727,
-    "wof:lastmodified":1566603156,
+    "wof:lastmodified":1695877792,
     "wof:name":"Ashby",
     "wof:parent_id":102048879,
     "wof:placetype":"localadmin",

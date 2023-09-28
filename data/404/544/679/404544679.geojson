@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001883,
-    "geom:area_square_m":20620613.178843,
+    "geom:area_square_m":20620613.1789,
     "geom:bbox":"152.647551008,-27.708496775,152.699774016,-27.655175964",
     "geom:latitude":-27.682148,
     "geom:longitude":152.674072,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.68453,
     "lbl:longitude":152.67356,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Willowbank"
@@ -42,12 +48,15 @@
         102048583
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31771"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935631
     ],
     "wof:country":"AU",
-    "wof:geomhash":"2750f3e82d21835154dff298ee89b724",
+    "wof:geomhash":"0fc04cbbf1cfd3c7a4f3885b755f68a1",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -60,7 +69,7 @@
         }
     ],
     "wof:id":404544679,
-    "wof:lastmodified":1566602191,
+    "wof:lastmodified":1695877239,
     "wof:name":"Willowbank",
     "wof:parent_id":102048583,
     "wof:placetype":"localadmin",

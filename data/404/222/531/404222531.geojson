@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000246,
-    "geom:area_square_m":2682413.882944,
+    "geom:area_square_m":2682413.883,
     "geom:bbox":"153.563756,-28.317778994,153.57784224,-28.286773993",
     "geom:latitude":-28.300422,
     "geom:longitude":153.570639,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.292379,
     "lbl:longitude":153.572293,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u0632\u0627\u0631\u064a\u0646\u0627"
@@ -134,12 +140,15 @@
         102048589
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10492"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101929861
     ],
     "wof:country":"AU",
-    "wof:geomhash":"244830bd2c2dac968cf3303f0f1603a6",
+    "wof:geomhash":"952194e9d93bc3e892aa8c89119c8608",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -151,7 +160,7 @@
         }
     ],
     "wof:id":404222531,
-    "wof:lastmodified":1566602787,
+    "wof:lastmodified":1695877584,
     "wof:name":"Casuarina",
     "wof:parent_id":102048589,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001088,
-    "geom:area_square_m":10126525.237112,
+    "geom:area_square_m":10126525.237153,
     "geom:bbox":"146.506771008,-41.1900832675,146.574947136,-41.1502410015",
     "geom:latitude":-41.171395,
     "geom:longitude":146.537647,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-41.171916,
     "lbl:longitude":146.536441,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Port Sorell"
@@ -38,12 +44,15 @@
         102048629
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60283"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938219
     ],
     "wof:country":"AU",
-    "wof:geomhash":"61d54dd3eab0dba1d77b853c46deba74",
+    "wof:geomhash":"a23e715e812d4eed2b00752c0a75fa43",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404549305,
-    "wof:lastmodified":1566602871,
+    "wof:lastmodified":1695877640,
     "wof:name":"Port Sorell",
     "wof:parent_id":102048629,
     "wof:placetype":"localadmin",

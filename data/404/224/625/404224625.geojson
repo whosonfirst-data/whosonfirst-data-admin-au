@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003361,
-    "geom:area_square_m":34726497.311755,
+    "geom:area_square_m":34726497.311572,
     "geom:bbox":"149.141796,-33.376753992,149.196288992,-33.2671029935",
     "geom:latitude":-33.329614,
     "geom:longitude":149.167613,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.330311,
     "lbl:longitude":149.167167,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Lucknow"
@@ -314,9 +320,12 @@
         102049023
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11422"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"294d0ddbf9f9a254567e57660c25fbc0",
+    "wof:geomhash":"d78de03f8d4a6762da1bfe3df62046b8",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -328,7 +337,7 @@
         }
     ],
     "wof:id":404224625,
-    "wof:lastmodified":1566602621,
+    "wof:lastmodified":1695877487,
     "wof:name":"Lucknow",
     "wof:parent_id":102049023,
     "wof:placetype":"localadmin",

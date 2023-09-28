@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000169,
-    "geom:area_square_m":1770049.934378,
+    "geom:area_square_m":1770049.934386,
     "geom:bbox":"115.797143104,-32.241773257,115.812700928,-32.226685027",
     "geom:latitude":-32.234465,
     "geom:longitude":115.805569,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.234307,
     "lbl:longitude":115.80572,
     "lbl:max_zoom":18.0,
@@ -383,13 +389,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC50483",
         "wd:id":"Q14935863"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937479
     ],
     "wof:country":"AU",
-    "wof:geomhash":"4117f3fb53e2beddc4d60c6738a84946",
+    "wof:geomhash":"8560ef4d0087924f4eeac9f36156a92d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -402,7 +410,7 @@
         }
     ],
     "wof:id":404547769,
-    "wof:lastmodified":1566602952,
+    "wof:lastmodified":1695878019,
     "wof:name":"Medina",
     "wof:parent_id":102049273,
     "wof:placetype":"localadmin",

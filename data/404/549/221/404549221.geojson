@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000421,
-    "geom:area_square_m":3815770.266906,
+    "geom:area_square_m":3815770.266896,
     "geom:bbox":"147.29007456,-42.867771437,147.328562976,-42.844587163",
     "geom:latitude":-42.856183,
     "geom:longitude":147.308494,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-42.857962,
     "lbl:longitude":147.307189,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "New Town"
@@ -69,12 +75,15 @@
         102048965
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60245"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938193
     ],
     "wof:country":"AU",
-    "wof:geomhash":"90d5d2653f65da09e17a70e683d83644",
+    "wof:geomhash":"6368374117d2e67e50054790761f3b4d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -87,7 +96,7 @@
         }
     ],
     "wof:id":404549221,
-    "wof:lastmodified":1566602839,
+    "wof:lastmodified":1695877619,
     "wof:name":"New Town",
     "wof:parent_id":102048965,
     "wof:placetype":"localadmin",

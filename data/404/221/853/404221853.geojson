@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000576,
-    "geom:area_square_m":5929575.848105,
+    "geom:area_square_m":5929575.848102,
     "geom:bbox":"151.120727008,-33.640706997,151.15138416,-33.5989504065",
     "geom:latitude":-33.615007,
     "geom:longitude":151.134797,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.613125,
     "lbl:longitude":151.133292,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Berowra Heights"
@@ -39,12 +45,15 @@
         102049503
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10190"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101929557
     ],
     "wof:country":"AU",
-    "wof:geomhash":"1e807f4d5c04ac6497289d97bfd489b0",
+    "wof:geomhash":"2e0f941ef115945691268ef79eb9d028",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404221853,
-    "wof:lastmodified":1566602002,
+    "wof:lastmodified":1695877133,
     "wof:name":"Berowra Heights",
     "wof:parent_id":102049503,
     "wof:placetype":"localadmin",

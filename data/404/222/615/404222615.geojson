@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00011,
-    "geom:area_square_m":1128561.586391,
+    "geom:area_square_m":1128561.586372,
     "geom:bbox":"151.272466,-33.660055,151.289689,-33.644347",
     "geom:latitude":-33.652534,
     "geom:longitude":151.281173,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.647901,
     "lbl:longitude":151.283396,
     "lbl:max_zoom":18.0,
@@ -55,22 +61,24 @@
     "qs:source":"Australian Bureau Of Statistics",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681545,
         102191583,
         85632793,
-        102048751,
-        136253039,
         1376953385,
-        85681545
+        136253039,
+        102048751
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC10529",
         "wd:id":"Q5116664"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101929917
     ],
     "wof:country":"AU",
-    "wof:geomhash":"6e755a0c220ccd573c3e72c5320c8650",
+    "wof:geomhash":"9de7bf9df592b17b8b5b7c8b3f39959a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -83,7 +91,7 @@
         }
     ],
     "wof:id":404222615,
-    "wof:lastmodified":1607992800,
+    "wof:lastmodified":1695878055,
     "wof:name":"Church Point",
     "wof:parent_id":102048751,
     "wof:placetype":"localadmin",

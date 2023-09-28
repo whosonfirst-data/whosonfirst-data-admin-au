@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011033,
-    "geom:area_square_m":110402066.115196,
+    "geom:area_square_m":110402066.115188,
     "geom:bbox":"146.913830016,-36.0245279935,147.080966016,-35.9138939975",
     "geom:latitude":-35.976609,
     "geom:longitude":146.996423,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.973224,
     "lbl:longitude":146.994784,
     "lbl:max_zoom":18.0,
@@ -49,10 +55,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC12196",
         "wd:id":"Q3512773"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"afba6d327871e87e4260f7ec0e0f67af",
+    "wof:geomhash":"4f9259f68315fac70a17f97846ab95ef",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -65,7 +73,7 @@
         }
     ],
     "wof:id":404226365,
-    "wof:lastmodified":1566602014,
+    "wof:lastmodified":1695877904,
     "wof:name":"Table Top",
     "wof:parent_id":102048675,
     "wof:placetype":"localadmin",

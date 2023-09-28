@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000338,
-    "geom:area_square_m":3542390.353801,
+    "geom:area_square_m":3542390.353797,
     "geom:bbox":"115.85736928,-32.157426281,115.874686816,-32.1268060615",
     "geom:latitude":-32.143461,
     "geom:longitude":115.865282,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.143585,
     "lbl:longitude":115.865984,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Atwell"
@@ -45,12 +51,15 @@
         102049397
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50021"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101936841
     ],
     "wof:country":"AU",
-    "wof:geomhash":"bdff9c9ea63341e9764fce41b66ed1e8",
+    "wof:geomhash":"3689bfd2aa3cd28096aed4e07fb0961b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -63,7 +72,7 @@
         }
     ],
     "wof:id":404546735,
-    "wof:lastmodified":1566603133,
+    "wof:lastmodified":1695877784,
     "wof:name":"Atwell",
     "wof:parent_id":102049397,
     "wof:placetype":"localadmin",

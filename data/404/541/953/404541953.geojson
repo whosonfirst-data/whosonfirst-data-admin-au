@@ -10,6 +10,12 @@
     "geom:latitude":-19.24864,
     "geom:longitude":146.670196,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-19.243808,
     "lbl:longitude":146.661304,
     "lbl:max_zoom":18.0,
@@ -42,13 +48,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC30484",
         "wd:id":"Q5250870"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934287
     ],
     "wof:country":"AU",
-    "wof:geomhash":"6a81020fd111992950a487f13ce16af3",
+    "wof:geomhash":"fa4339f9699c4125722098137a857807",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -60,7 +68,7 @@
         }
     ],
     "wof:id":404541953,
-    "wof:lastmodified":1566603045,
+    "wof:lastmodified":1695878029,
     "wof:name":"Deeragun",
     "wof:parent_id":102048451,
     "wof:placetype":"localadmin",

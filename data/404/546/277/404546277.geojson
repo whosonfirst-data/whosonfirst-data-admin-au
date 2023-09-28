@@ -10,12 +10,18 @@
     "geom:latitude":-35.185576,
     "geom:longitude":138.478796,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.187257,
     "lbl:longitude":138.477028,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Seaford"
@@ -75,12 +81,15 @@
         102048473
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40656"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101936589
     ],
     "wof:country":"AU",
-    "wof:geomhash":"3beabcdeadcb6b08ae65f83b11cb9787",
+    "wof:geomhash":"fd24a694c49aaa0085be7b2c0a9fb293",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -93,7 +102,7 @@
         }
     ],
     "wof:id":404546277,
-    "wof:lastmodified":1566603136,
+    "wof:lastmodified":1695877785,
     "wof:name":"Seaford",
     "wof:parent_id":102048473,
     "wof:placetype":"localadmin",

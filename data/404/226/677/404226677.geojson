@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000846,
-    "geom:area_square_m":9216345.623994,
+    "geom:area_square_m":9216345.624044,
     "geom:bbox":"153.484807936,-28.2032070325,153.526472992,-28.163306732",
     "geom:latitude":-28.181554,
     "geom:longitude":153.505965,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.178187,
     "lbl:longitude":153.506264,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Tweed Heads West"
@@ -50,12 +56,15 @@
         102048589
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12334"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932165
     ],
     "wof:country":"AU",
-    "wof:geomhash":"db48f71cecaee104821cec017752779a",
+    "wof:geomhash":"ec99602c590d63166dffc69fcf98b5e9",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -67,7 +76,7 @@
         }
     ],
     "wof:id":404226677,
-    "wof:lastmodified":1566602072,
+    "wof:lastmodified":1695877176,
     "wof:name":"Tweed Heads West",
     "wof:parent_id":102048589,
     "wof:placetype":"localadmin",

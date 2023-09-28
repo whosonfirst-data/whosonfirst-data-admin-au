@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000093,
-    "geom:area_square_m":921716.052605,
+    "geom:area_square_m":921716.052607,
     "geom:bbox":"144.256759456,-36.7609690005,144.271230112,-36.7492431085",
     "geom:latitude":-36.754784,
     "geom:longitude":144.263784,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.754934,
     "lbl:longitude":144.264385,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ironbark"
@@ -44,12 +50,15 @@
         102049661
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20660"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101933075
     ],
     "wof:country":"AU",
-    "wof:geomhash":"4b0230a5c82f403fa41f9a3538fe2e50",
+    "wof:geomhash":"23843ac76bc2d38bddeb0c0a9375d186",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":404538963,
-    "wof:lastmodified":1566602428,
+    "wof:lastmodified":1695877374,
     "wof:name":"Ironbark",
     "wof:parent_id":102049661,
     "wof:placetype":"localadmin",

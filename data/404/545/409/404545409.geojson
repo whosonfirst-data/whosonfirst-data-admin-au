@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001723,
-    "geom:area_square_m":17343056.29723,
+    "geom:area_square_m":17343056.297234,
     "geom:bbox":"138.739291008,-35.5082960015,138.800516992,-35.4699590065",
     "geom:latitude":-35.489995,
     "geom:longitude":138.767619,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.489466,
     "lbl:longitude":138.767612,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Goolwa"
@@ -38,9 +44,12 @@
         102048815
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40250"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"e0e43ebd53f8bc7cee211acd49bef32c",
+    "wof:geomhash":"cc8314fd47753f571c3b893b68844d84",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404545409,
-    "wof:lastmodified":1566602223,
+    "wof:lastmodified":1695877253,
     "wof:name":"Goolwa",
     "wof:parent_id":102048815,
     "wof:placetype":"localadmin",

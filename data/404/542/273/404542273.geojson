@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009147,
-    "geom:area_square_m":105495596.420425,
+    "geom:area_square_m":105495596.420436,
     "geom:bbox":"148.66438816,-21.1955889615,148.839700192,-21.065722865",
     "geom:latitude":-21.134737,
     "geom:longitude":148.748537,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-21.158549,
     "lbl:longitude":148.764497,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Gargett"
@@ -38,9 +44,12 @@
         102048783
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30634"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"5a4d39d660f3995c0429aefa018440ee",
+    "wof:geomhash":"19499237d38e79948c94c3bc893ede5e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404542273,
-    "wof:lastmodified":1566602269,
+    "wof:lastmodified":1695877274,
     "wof:name":"Gargett",
     "wof:parent_id":102048783,
     "wof:placetype":"localadmin",

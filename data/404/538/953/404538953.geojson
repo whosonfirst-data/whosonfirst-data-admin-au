@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012586,
-    "geom:area_square_m":121594922.059505,
+    "geom:area_square_m":121594922.059704,
     "geom:bbox":"145.583579552,-38.678279049,145.839938016,-38.5626342725",
     "geom:latitude":-38.621509,
     "geom:longitude":145.715892,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.606547,
     "lbl:longitude":145.756584,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Inverloch"
@@ -41,9 +47,12 @@
         102049085
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20656"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"b2f9262561cff90f1d62e43ed8d6a3f7",
+    "wof:geomhash":"58fdfb9e493ebc6b9dea265ab78ad220",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404538953,
-    "wof:lastmodified":1566602424,
+    "wof:lastmodified":1695877372,
     "wof:name":"Inverloch",
     "wof:parent_id":102049085,
     "wof:placetype":"localadmin",

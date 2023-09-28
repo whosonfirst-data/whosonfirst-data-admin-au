@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000519,
-    "geom:area_square_m":5451993.900036,
+    "geom:area_square_m":5451993.900031,
     "geom:bbox":"115.78155824,-31.838288997,115.821629344,-31.8172079325",
     "geom:latitude":-31.82723,
     "geom:longitude":115.80247,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.827907,
     "lbl:longitude":115.802469,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0413\u0440\u0438\u0439\u043d\u0443\u0434"
@@ -105,12 +111,15 @@
         102048433
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50308"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937239
     ],
     "wof:country":"AU",
-    "wof:geomhash":"ac406bde418154e382d0593763855e84",
+    "wof:geomhash":"fc2217a4cc52037650b57dbc0c3bd562",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -123,7 +132,7 @@
         }
     ],
     "wof:id":404547375,
-    "wof:lastmodified":1566602977,
+    "wof:lastmodified":1695877705,
     "wof:name":"Greenwood",
     "wof:parent_id":102048433,
     "wof:placetype":"localadmin",

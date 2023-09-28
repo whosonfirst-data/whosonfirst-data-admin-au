@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00096,
-    "geom:area_square_m":9385050.439677,
+    "geom:area_square_m":9385050.439644,
     "geom:bbox":"145.190292736,-37.792445103,145.23634656,-37.759471924",
     "geom:latitude":-37.776885,
     "geom:longitude":145.214628,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.776,
     "lbl:longitude":145.215076,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Park Orchards"
@@ -39,12 +45,15 @@
         102049583
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21069"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101933385
     ],
     "wof:country":"AU",
-    "wof:geomhash":"bdd7727ba0d6600fef4948135578fa6f",
+    "wof:geomhash":"3c56364fa3724a526fff067aac11c668",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404539877,
-    "wof:lastmodified":1566602394,
+    "wof:lastmodified":1695877352,
     "wof:name":"Park Orchards",
     "wof:parent_id":102049583,
     "wof:placetype":"localadmin",

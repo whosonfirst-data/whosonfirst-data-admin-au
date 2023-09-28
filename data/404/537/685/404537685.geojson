@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000944,
-    "geom:area_square_m":9187391.227511,
+    "geom:area_square_m":9187391.227506,
     "geom:bbox":"144.249894016,-38.111858999,144.307489472,-38.0803743485",
     "geom:latitude":-38.092875,
     "geom:longitude":144.278054,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.089886,
     "lbl:longitude":144.289554,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Batesford"
@@ -39,12 +45,15 @@
         102049571
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20086"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932555
     ],
     "wof:country":"AU",
-    "wof:geomhash":"54859ae370ec7cc08091ece8b6fa4861",
+    "wof:geomhash":"ba71795d5e60cd9efb46b5c3cc34549c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404537685,
-    "wof:lastmodified":1566602339,
+    "wof:lastmodified":1695877318,
     "wof:name":"Batesford",
     "wof:parent_id":102049571,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000463,
-    "geom:area_square_m":4526773.6534,
+    "geom:area_square_m":4526773.653379,
     "geom:bbox":"145.229471008,-37.7754432145,145.258633248,-37.741622606",
     "geom:latitude":-37.759602,
     "geom:longitude":145.24406,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.758197,
     "lbl:longitude":145.248888,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Warrandyte South"
@@ -39,12 +45,15 @@
         102049583
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21429"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101933695
     ],
     "wof:country":"AU",
-    "wof:geomhash":"fbc05c72075cf1560e850990781c1921",
+    "wof:geomhash":"80e3264fe6f38ff684119d3cfb09c13a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404540681,
-    "wof:lastmodified":1566602989,
+    "wof:lastmodified":1695877712,
     "wof:name":"Warrandyte South",
     "wof:parent_id":102049583,
     "wof:placetype":"localadmin",

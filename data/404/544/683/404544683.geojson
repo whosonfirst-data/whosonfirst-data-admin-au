@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.619482,
-    "geom:area_square_m":7007792475.438165,
+    "geom:area_square_m":7007792475.43868,
     "geom:bbox":"146.92685,-24.36083131,147.907490048,-23.105289997",
     "geom:latitude":-23.813218,
     "geom:longitude":147.441516,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-23.825975,
     "lbl:longitude":147.489737,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Willows"
@@ -38,9 +44,12 @@
         102049631
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31772"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"52d7e05dc11af702fc1cd6b89685c28d",
+    "wof:geomhash":"dd3cffd521af2b29e4894e715a577d01",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404544683,
-    "wof:lastmodified":1566602192,
+    "wof:lastmodified":1695877240,
     "wof:name":"Willows",
     "wof:parent_id":102049631,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.933083,
-    "geom:area_square_m":22217249645.962017,
+    "geom:area_square_m":22217249645.962078,
     "geom:bbox":"130.482864,-22.6759860825,132.371620192,-20.998574081",
     "geom:latitude":-21.641681,
     "geom:longitude":131.374386,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-21.458373,
     "lbl:longitude":131.467588,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Chilla Well"
@@ -38,9 +44,12 @@
         102049183
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC70038"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"00b238e3ea185ef58e3e39cd2063b1e4",
+    "wof:geomhash":"5ee4935d40a86eb9b09eaca9c69deee9",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404549665,
-    "wof:lastmodified":1566602904,
+    "wof:lastmodified":1695877664,
     "wof:name":"Chilla Well",
     "wof:parent_id":102049183,
     "wof:placetype":"localadmin",

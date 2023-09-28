@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.224149,
-    "geom:area_square_m":2488441969.236156,
+    "geom:area_square_m":2488441969.237574,
     "geom:bbox":"148.611282016,-26.4725940075,149.220472,-25.8044100085",
     "geom:latitude":-26.126724,
     "geom:longitude":148.941983,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-26.114741,
     "lbl:longitude":148.946647,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Eumamurrin"
@@ -38,9 +44,12 @@
         102049081
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30585"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"f6a0a98664b2aa87fc7759886f6993ac",
+    "wof:geomhash":"6df349221013b6a047b7b9608048e6ba",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404542165,
-    "wof:lastmodified":1566602290,
+    "wof:lastmodified":1695877287,
     "wof:name":"Eumamurrin",
     "wof:parent_id":102049081,
     "wof:placetype":"localadmin",

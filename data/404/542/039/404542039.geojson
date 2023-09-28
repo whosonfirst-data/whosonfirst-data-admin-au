@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002739,
-    "geom:area_square_m":31562163.664818,
+    "geom:area_square_m":31562163.664822,
     "geom:bbox":"149.138886976,-21.2867550005,149.214198944,-21.218713018",
     "geom:latitude":-21.249693,
     "geom:longitude":149.177158,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-21.251044,
     "lbl:longitude":149.179801,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Dunnrock"
@@ -38,9 +44,12 @@
         102048783
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30523"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"bf59d7682fffde8e87f85e0a871cd486",
+    "wof:geomhash":"0df28d0355374b86810001a65d9f8fff",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404542039,
-    "wof:lastmodified":1566602281,
+    "wof:lastmodified":1695877282,
     "wof:name":"Dunnrock",
     "wof:parent_id":102048783,
     "wof:placetype":"localadmin",

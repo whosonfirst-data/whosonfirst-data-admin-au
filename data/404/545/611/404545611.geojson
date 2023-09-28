@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015179,
-    "geom:area_square_m":152567180.66223,
+    "geom:area_square_m":152567180.662146,
     "geom:bbox":"137.382844864,-35.678579011,137.643796096,-35.5611879825",
     "geom:latitude":-35.622306,
     "geom:longitude":137.522943,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.629876,
     "lbl:longitude":137.531732,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kingscote"
@@ -50,9 +56,12 @@
         102049105
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40345"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"44b413663cf2146f75f9c6a7f27252e3",
+    "wof:geomhash":"14d3b86728abc7f0bb1ca66f5178c2df",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":404545611,
-    "wof:lastmodified":1566602219,
+    "wof:lastmodified":1695877252,
     "wof:name":"Kingscote",
     "wof:parent_id":102049105,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001498,
-    "geom:area_square_m":15680681.381925,
+    "geom:area_square_m":15680681.381841,
     "geom:bbox":"152.46382,-32.185306003,152.510550752,-32.134442991",
     "geom:latitude":-32.160673,
     "geom:longitude":152.485604,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.161756,
     "lbl:longitude":152.486051,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tuncurry"
@@ -38,12 +44,15 @@
         102049617
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12325"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932147
     ],
     "wof:country":"AU",
-    "wof:geomhash":"ba40222934f2059dad6ec99285e6e4ad",
+    "wof:geomhash":"3881678431c820c908eb62cefaab77d7",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404226655,
-    "wof:lastmodified":1566602072,
+    "wof:lastmodified":1695877176,
     "wof:name":"Tuncurry",
     "wof:parent_id":102049617,
     "wof:placetype":"localadmin",

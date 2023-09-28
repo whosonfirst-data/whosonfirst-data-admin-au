@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.29581,
-    "geom:area_square_m":3236952159.410458,
+    "geom:area_square_m":3236952159.41133,
     "geom:bbox":"149.457415488,-28.0144612635,150.223287392,-27.4041810065",
     "geom:latitude":-27.753474,
     "geom:longitude":149.766049,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.774103,
     "lbl:longitude":149.72064,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Inglestone"
@@ -38,9 +44,12 @@
         102048423
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30796"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"e41420a8ee1da413c00bc658d2553a6a",
+    "wof:geomhash":"83f32465ca971335f2c7664348ae6212",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404542613,
-    "wof:lastmodified":1566602296,
+    "wof:lastmodified":1695877291,
     "wof:name":"Inglestone",
     "wof:parent_id":102048423,
     "wof:placetype":"localadmin",

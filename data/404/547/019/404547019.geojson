@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00092,
-    "geom:area_square_m":9797791.075735,
+    "geom:area_square_m":9797791.075723,
     "geom:bbox":"115.053900992,-30.524472092,115.089473984,-30.480898006",
     "geom:latitude":-30.502164,
     "geom:longitude":115.076883,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-30.501672,
     "lbl:longitude":115.076546,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Cervantes"
@@ -38,12 +44,15 @@
         102049487
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50148"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937003
     ],
     "wof:country":"AU",
-    "wof:geomhash":"5326bc402441fdf8bc698b01e45914d6",
+    "wof:geomhash":"3dab44dac660830ae9be3acedd879880",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404547019,
-    "wof:lastmodified":1566602963,
+    "wof:lastmodified":1695877696,
     "wof:name":"Cervantes",
     "wof:parent_id":102049487,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.372161,
-    "geom:area_square_m":4012689053.28218,
+    "geom:area_square_m":4012688668.142813,
     "geom:bbox":"149.308752,-29.705186,150.259498,-28.905366",
     "geom:latitude":-29.310499,
     "geom:longitude":149.811142,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-29.143203,
     "lbl:longitude":150.001704,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09ae\u09cb\u09b0\u09bf"
@@ -83,9 +89,12 @@
         102049009
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11593"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"95ef879a38cc7919b08f4d39ed4b06ed",
+    "wof:geomhash":"52d2007748d3482cd97fd85e3fdb16ad",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -97,7 +106,7 @@
         }
     ],
     "wof:id":404225009,
-    "wof:lastmodified":1636494651,
+    "wof:lastmodified":1695877866,
     "wof:name":"Moree",
     "wof:parent_id":102049009,
     "wof:placetype":"localadmin",

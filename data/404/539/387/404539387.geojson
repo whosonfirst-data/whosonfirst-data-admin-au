@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.085954,
-    "geom:area_square_m":853186437.219673,
+    "geom:area_square_m":853186437.219601,
     "geom:bbox":"142.711921792,-36.781079037,143.064340928,-36.4052060085",
     "geom:latitude":-36.60663,
     "geom:longitude":142.885128,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.613315,
     "lbl:longitude":142.916881,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Marnoo"
@@ -38,9 +44,12 @@
         102049045
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20850"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"f51304dc3f8440e11f00284bbbfbd24c",
+    "wof:geomhash":"498318e26503bd1fd98cf08f7c24ef08",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404539387,
-    "wof:lastmodified":1566602416,
+    "wof:lastmodified":1695877368,
     "wof:name":"Marnoo",
     "wof:parent_id":102049045,
     "wof:placetype":"localadmin",

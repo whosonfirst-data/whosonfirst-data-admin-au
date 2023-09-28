@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0024,
-    "geom:area_square_m":26069112.125328,
+    "geom:area_square_m":26069112.125368,
     "geom:bbox":"153.38622,-28.5863210905,153.479290016,-28.5193290015",
     "geom:latitude":-28.560637,
     "geom:longitude":153.425487,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.572933,
     "lbl:longitude":153.432529,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Wilsons Creek"
@@ -44,9 +50,12 @@
         102048747
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12509"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"2d3ddc5fc5ea93f02bda0a7d6d884453",
+    "wof:geomhash":"45425f008e387c0ad887f61845c582df",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404227069,
-    "wof:lastmodified":1566601957,
+    "wof:lastmodified":1695877112,
     "wof:name":"Wilsons Creek",
     "wof:parent_id":102048747,
     "wof:placetype":"localadmin",

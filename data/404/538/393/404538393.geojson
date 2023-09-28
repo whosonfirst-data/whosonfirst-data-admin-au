@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000897,
-    "geom:area_square_m":8770122.411585,
+    "geom:area_square_m":8770134.888367,
     "geom:bbox":"145.098695,-37.798763,145.145125,-37.766921",
     "geom:latitude":-37.784828,
     "geom:longitude":145.123853,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.788597,
     "lbl:longitude":145.123868,
     "lbl:max_zoom":18.0,
@@ -205,13 +211,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC20405",
         "wd:id":"Q429307"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932853
     ],
     "wof:country":"AU",
-    "wof:geomhash":"1d16468ccae447ce0527abbc57831c1b",
+    "wof:geomhash":"c06ac46e74696ee0fd8d3b97b4269ddf",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -224,7 +232,7 @@
         }
     ],
     "wof:id":404538393,
-    "wof:lastmodified":1636494640,
+    "wof:lastmodified":1695878057,
     "wof:name":"Doncaster",
     "wof:parent_id":102049583,
     "wof:placetype":"localadmin",

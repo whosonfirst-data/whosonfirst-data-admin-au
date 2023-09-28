@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001929,
-    "geom:area_square_m":22352594.59216,
+    "geom:area_square_m":22352594.59214,
     "geom:bbox":"118.567879008,-20.425303999,118.632839008,-20.3843415395",
     "geom:latitude":-20.406551,
     "geom:longitude":118.600691,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-20.405055,
     "lbl:longitude":118.598058,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "South Hedland"
@@ -38,12 +44,15 @@
         102048881
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50720"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937791
     ],
     "wof:country":"AU",
-    "wof:geomhash":"38ab7e9f277693139eecb573bd7d5836",
+    "wof:geomhash":"50d85fc81bccbab91dde0cb585061c00",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404548295,
-    "wof:lastmodified":1566603180,
+    "wof:lastmodified":1695877806,
     "wof:name":"South Hedland",
     "wof:parent_id":102048881,
     "wof:placetype":"localadmin",

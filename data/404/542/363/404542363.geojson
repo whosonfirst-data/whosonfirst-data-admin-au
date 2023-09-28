@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017667,
-    "geom:area_square_m":197845291.213479,
+    "geom:area_square_m":197845291.213468,
     "geom:bbox":"152.223680896,-25.157201994,152.414042016,-24.9993926465",
     "geom:latitude":-25.087391,
     "geom:longitude":152.316025,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-25.090933,
     "lbl:longitude":152.308311,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Goodwood"
@@ -53,9 +59,12 @@
         102048763
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30677"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"29bbafc9963e1dc96507882eb891cd60",
+    "wof:geomhash":"623be548aab632ff4d5d596a2874c0f1",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -67,7 +76,7 @@
         }
     ],
     "wof:id":404542363,
-    "wof:lastmodified":1566602266,
+    "wof:lastmodified":1695877272,
     "wof:name":"Goodwood",
     "wof:parent_id":102048763,
     "wof:placetype":"localadmin",

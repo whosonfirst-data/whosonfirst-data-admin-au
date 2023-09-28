@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026377,
-    "geom:area_square_m":288303902.433538,
+    "geom:area_square_m":288303902.433815,
     "geom:bbox":"151.565033984,-28.0061330075,151.856123008,-27.734266461",
     "geom:latitude":-27.877938,
     "geom:longitude":151.728057,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.808617,
     "lbl:longitude":151.790591,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ellangowan"
@@ -41,9 +47,12 @@
         102049357
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30561"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"e0110de7188baa779957f1f80d04ac5a",
+    "wof:geomhash":"aaee49fb48b18ae550f19b67524c37f6",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404542113,
-    "wof:lastmodified":1566602315,
+    "wof:lastmodified":1695877303,
     "wof:name":"Ellangowan",
     "wof:parent_id":102049357,
     "wof:placetype":"localadmin",

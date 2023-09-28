@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001111,
-    "geom:area_square_m":11195024.519864,
+    "geom:area_square_m":11195024.519867,
     "geom:bbox":"143.620820992,-35.467444912,143.66485872,-35.4317588375",
     "geom:latitude":-35.450481,
     "geom:longitude":143.644195,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.449195,
     "lbl:longitude":143.645953,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lake Boga"
@@ -38,12 +44,15 @@
         102049167
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20751"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101933147
     ],
     "wof:country":"AU",
-    "wof:geomhash":"495a88f3da01713fb91655d1d8eedb4d",
+    "wof:geomhash":"c9e0a3ea1e2ff48a7e035005e68ceb2d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404539165,
-    "wof:lastmodified":1566602385,
+    "wof:lastmodified":1695877346,
     "wof:name":"Lake Boga",
     "wof:parent_id":102049167,
     "wof:placetype":"localadmin",

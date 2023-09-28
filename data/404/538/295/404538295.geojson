@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.089259,
-    "geom:area_square_m":890831440.711498,
+    "geom:area_square_m":890831440.712379,
     "geom:bbox":"147.412715008,-36.406272996,147.98818128,-35.9924400765",
     "geom:latitude":-36.184315,
     "geom:longitude":147.657659,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.222609,
     "lbl:longitude":147.582202,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Cudgewa"
@@ -38,9 +44,12 @@
         102048643
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20359"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"84b7370f900f29985426d81e1f319d20",
+    "wof:geomhash":"962aaadf3b3ecfc382ac39cca0832b68",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404538295,
-    "wof:lastmodified":1566602441,
+    "wof:lastmodified":1695877381,
     "wof:name":"Cudgewa",
     "wof:parent_id":102048643,
     "wof:placetype":"localadmin",

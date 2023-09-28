@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005801,
-    "geom:area_square_m":59852526.988024,
+    "geom:area_square_m":59852526.988034,
     "geom:bbox":"150.821956992,-33.4856500055,150.940784,-33.398204002",
     "geom:latitude":-33.439342,
     "geom:longitude":150.885187,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.429003,
     "lbl:longitude":150.899112,
     "lbl:max_zoom":18.0,
@@ -52,10 +58,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC11419",
         "wd:id":"Q6693719"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"9cbfcde11c7ca1ddbbe6b4742dd537e6",
+    "wof:geomhash":"c68b9c2b412db9ca93ee73f160cbd675",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -68,7 +76,7 @@
         }
     ],
     "wof:id":404224617,
-    "wof:lastmodified":1566602583,
+    "wof:lastmodified":1695877975,
     "wof:name":"Lower Portland",
     "wof:parent_id":102049139,
     "wof:placetype":"localadmin",

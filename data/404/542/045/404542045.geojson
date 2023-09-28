@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":6.768269,
-    "geom:area_square_m":73876437382.473206,
+    "geom:area_square_m":73876437382.473114,
     "geom:bbox":"140.99570208,-28.9991017485,144.829883168,-26.662485241",
     "geom:latitude":-28.020795,
     "geom:longitude":142.593569,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.881946,
     "lbl:longitude":142.055693,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Dynevor"
@@ -38,9 +44,12 @@
         102049427
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30528"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"4af35f4921257b5d180dd9d24abce372",
+    "wof:geomhash":"6af836f6680d7ea583cb0ad5e482dd93",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404542045,
-    "wof:lastmodified":1566602296,
+    "wof:lastmodified":1695877291,
     "wof:name":"Dynevor",
     "wof:parent_id":102049427,
     "wof:placetype":"localadmin",

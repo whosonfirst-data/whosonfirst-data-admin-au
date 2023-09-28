@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011951,
-    "geom:area_square_m":125523133.203365,
+    "geom:area_square_m":125523133.20331,
     "geom:bbox":"152.076744992,-31.9169620045,152.27523792,-31.7826967005",
     "geom:latitude":-31.852046,
     "geom:longitude":152.174927,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.844137,
     "lbl:longitude":152.151759,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mount George"
@@ -53,9 +59,12 @@
         102048833
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11616"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"b0f39bf9f98e45b96b05a0973e615763",
+    "wof:geomhash":"b776abbacb484f1ea3e635c8f4242796",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -67,7 +76,7 @@
         }
     ],
     "wof:id":404225061,
-    "wof:lastmodified":1566602724,
+    "wof:lastmodified":1695877544,
     "wof:name":"Mount George",
     "wof:parent_id":102048833,
     "wof:placetype":"localadmin",

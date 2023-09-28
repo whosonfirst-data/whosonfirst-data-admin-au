@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000139,
-    "geom:area_square_m":1399169.884221,
+    "geom:area_square_m":1399169.884211,
     "geom:bbox":"149.129877728,-35.2790911025,149.143502496,-35.2605381185",
     "geom:latitude":-35.270776,
     "geom:longitude":149.13569,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.271738,
     "lbl:longitude":149.135586,
     "lbl:max_zoom":18.0,
@@ -59,13 +65,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC80010",
         "wd:id":"Q848872"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938719
     ],
     "wof:country":"AU",
-    "wof:geomhash":"127e9e418d372fb7868171b0e42e7195",
+    "wof:geomhash":"1d266574d6d5d7b3ada04b75c017e298",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -76,7 +84,7 @@
         }
     ],
     "wof:id":404549939,
-    "wof:lastmodified":1566602826,
+    "wof:lastmodified":1695878006,
     "wof:name":"Braddon",
     "wof:parent_id":85681493,
     "wof:placetype":"localadmin",

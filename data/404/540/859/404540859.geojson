@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001161,
-    "geom:area_square_m":11296163.655853,
+    "geom:area_square_m":11296163.655845,
     "geom:bbox":"146.991872832,-38.134312227,147.05535,-38.0998669845",
     "geom:latitude":-38.11696,
     "geom:longitude":147.025823,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.116238,
     "lbl:longitude":147.026296,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Wurruk"
@@ -38,9 +44,12 @@
         102049585
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21509"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"8bacaeea2d4c63bb0913d81a656aaf8a",
+    "wof:geomhash":"f31b2a4e5b00097b769d87ad4dcc8065",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404540859,
-    "wof:lastmodified":1566602996,
+    "wof:lastmodified":1695877716,
     "wof:name":"Wurruk",
     "wof:parent_id":102049585,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003808,
-    "geom:area_square_m":39544056.964057,
+    "geom:area_square_m":39544056.964031,
     "geom:bbox":"151.400957248,-32.92098,151.483348992,-32.8319399995",
     "geom:latitude":-32.878954,
     "geom:longitude":151.442659,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.894932,
     "lbl:longitude":151.455744,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Elrington"
@@ -38,9 +44,12 @@
         102048575
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10813"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"f911f25b67dfe8bdbc4206342eecd9c4",
+    "wof:geomhash":"a77af08a6a31ddcbe329f45bd6353cbe",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404223253,
-    "wof:lastmodified":1566602553,
+    "wof:lastmodified":1695877448,
     "wof:name":"Elrington",
     "wof:parent_id":102048575,
     "wof:placetype":"localadmin",

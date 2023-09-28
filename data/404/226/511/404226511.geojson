@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028663,
-    "geom:area_square_m":308590537.729428,
+    "geom:area_square_m":308590537.729325,
     "geom:bbox":"152.74054512,-29.58704986,152.950482016,-29.314183",
     "geom:latitude":-29.462483,
     "geom:longitude":152.836238,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-29.457124,
     "lbl:longitude":152.834676,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "The Pinnacles"
@@ -47,9 +53,12 @@
         102048835
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12261"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"77191d47dca0d934deab08244bcd5179",
+    "wof:geomhash":"de6a191063b6d2c2cc97e6ac3ad233ff",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":404226511,
-    "wof:lastmodified":1566602048,
+    "wof:lastmodified":1695877160,
     "wof:name":"The Pinnacles",
     "wof:parent_id":102048835,
     "wof:placetype":"localadmin",

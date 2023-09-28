@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006661,
-    "geom:area_square_m":64594794.889961,
+    "geom:area_square_m":64594794.889942,
     "geom:bbox":"143.02477,-38.3919379915,143.202872,-38.2899269935",
     "geom:latitude":-38.350412,
     "geom:longitude":143.086795,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.363193,
     "lbl:longitude":143.085424,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Cobden"
@@ -71,9 +77,12 @@
         102049319
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20307"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"a6e5b8391d0901b326064725b755c626",
+    "wof:geomhash":"6adf714be24094cf3337f8e6fedaf3ff",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -85,7 +94,7 @@
         }
     ],
     "wof:id":404538177,
-    "wof:lastmodified":1566602481,
+    "wof:lastmodified":1695877402,
     "wof:name":"Cobden",
     "wof:parent_id":102049319,
     "wof:placetype":"localadmin",

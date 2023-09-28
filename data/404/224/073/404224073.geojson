@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003037,
-    "geom:area_square_m":30872428.400349,
+    "geom:area_square_m":30872428.400321,
     "geom:bbox":"150.774758016,-34.737727212,150.848516864,-34.652653667",
     "geom:latitude":-34.702049,
     "geom:longitude":150.813781,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.708701,
     "lbl:longitude":150.808188,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Jerrara"
@@ -38,9 +44,12 @@
         102048749
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11177"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"e216e6c80780d626d5b7ecc125091fe6",
+    "wof:geomhash":"ddba3e0fe19833c3d5c51e3ed85ec16f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404224073,
-    "wof:lastmodified":1566602621,
+    "wof:lastmodified":1695877487,
     "wof:name":"Jerrara",
     "wof:parent_id":102048749,
     "wof:placetype":"localadmin",

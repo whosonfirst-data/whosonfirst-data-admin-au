@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012085,
-    "geom:area_square_m":118126770.231545,
+    "geom:area_square_m":118126770.231585,
     "geom:bbox":"148.338386272,-37.805810613,148.551954848,-37.725353003",
     "geom:latitude":-37.767789,
     "geom:longitude":148.428062,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.768386,
     "lbl:longitude":148.419537,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Newmerella"
@@ -38,9 +44,12 @@
         102049039
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21010"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"0c483a81c40f830b53519647579bc45d",
+    "wof:geomhash":"c920cbaf92d9a2ad7e5a96b16c0af9f2",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404539747,
-    "wof:lastmodified":1566602377,
+    "wof:lastmodified":1695877341,
     "wof:name":"Newmerella",
     "wof:parent_id":102049039,
     "wof:placetype":"localadmin",

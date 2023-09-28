@@ -10,12 +10,18 @@
     "geom:latitude":-34.442924,
     "geom:longitude":139.060261,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.440634,
     "lbl:longitude":139.063536,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Stokuel"
@@ -71,9 +77,12 @@
         102048713
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40695"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"4a5be364c78743a616faeb3b9d2f5d90",
+    "wof:geomhash":"30b56f1ad5c795e3de146abf3a7b7a4a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -85,7 +94,7 @@
         }
     ],
     "wof:id":404546359,
-    "wof:lastmodified":1566603130,
+    "wof:lastmodified":1695877782,
     "wof:name":"Stockwell",
     "wof:parent_id":102048713,
     "wof:placetype":"localadmin",

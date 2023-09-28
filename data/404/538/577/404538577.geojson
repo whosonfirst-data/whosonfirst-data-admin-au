@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002198,
-    "geom:area_square_m":21297806.844331,
+    "geom:area_square_m":21297821.823611,
     "geom:bbox":"144.812226,-38.452072,144.883944,-38.387211",
     "geom:latitude":-38.41399,
     "geom:longitude":144.849919,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.414021,
     "lbl:longitude":144.853452,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0641\u064a\u0646\u063a\u0627\u0644"
@@ -134,12 +140,15 @@
         102048695
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20488"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932937
     ],
     "wof:country":"AU",
-    "wof:geomhash":"d2212f55485db0c0f23c19bf07ea6be5",
+    "wof:geomhash":"585172b43cece81b7964bd00c5b3b0b6",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -151,7 +160,7 @@
         }
     ],
     "wof:id":404538577,
-    "wof:lastmodified":1636494642,
+    "wof:lastmodified":1695877862,
     "wof:name":"Fingal",
     "wof:parent_id":102048695,
     "wof:placetype":"localadmin",

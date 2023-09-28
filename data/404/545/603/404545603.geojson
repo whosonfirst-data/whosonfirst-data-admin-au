@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.044647,
-    "geom:area_square_m":454679715.957877,
+    "geom:area_square_m":454679715.957748,
     "geom:bbox":"139.096244032,-34.624678004,139.438160992,-34.445607994",
     "geom:latitude":-34.553127,
     "geom:longitude":139.282425,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.556593,
     "lbl:longitude":139.285638,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Keyneton"
@@ -38,9 +44,12 @@
         102049005
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40339"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"175bda62a4db39f21c13b69e758f39fc",
+    "wof:geomhash":"f4083d9d81f2d9e2ee9a6e6149c21b45",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404545603,
-    "wof:lastmodified":1566602223,
+    "wof:lastmodified":1695877253,
     "wof:name":"Keyneton",
     "wof:parent_id":102049005,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02596,
-    "geom:area_square_m":292939292.098485,
+    "geom:area_square_m":292939292.098692,
     "geom:bbox":"150.106898016,-24.209068003,150.364847008,-24.0489098215",
     "geom:latitude":-24.136679,
     "geom:longitude":150.214333,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-24.130634,
     "lbl:longitude":150.211875,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Goovigen"
@@ -38,9 +44,12 @@
         102049135
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30685"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"437a8c07dc2283f9f6d5ba3def11118a",
+    "wof:geomhash":"df8f869a2b07bb1be222c552c51234e3",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404542381,
-    "wof:lastmodified":1566602316,
+    "wof:lastmodified":1695877304,
     "wof:name":"Goovigen",
     "wof:parent_id":102049135,
     "wof:placetype":"localadmin",

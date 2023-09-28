@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.049146,
-    "geom:area_square_m":501917618.397396,
+    "geom:area_square_m":501917618.397349,
     "geom:bbox":"150.060628,-34.4312838695,150.515276,-34.212507846",
     "geom:latitude":-34.316419,
     "geom:longitude":150.293536,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.315105,
     "lbl:longitude":150.296969,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "High Range"
@@ -42,9 +48,12 @@
         102048539
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11106"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"2c3a92667bd46631521e35490b63f132",
+    "wof:geomhash":"71abaf6010458569fa364ae55e235d7e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404223913,
-    "wof:lastmodified":1566602529,
+    "wof:lastmodified":1695877431,
     "wof:name":"High Range",
     "wof:parent_id":102048539,
     "wof:placetype":"localadmin",

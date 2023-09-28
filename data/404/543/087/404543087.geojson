@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.038443,
-    "geom:area_square_m":435535142.705787,
+    "geom:area_square_m":435535142.706514,
     "geom:bbox":"150.630899008,-23.7676297535,150.879893056,-23.4915872205",
     "geom:latitude":-23.617401,
     "geom:longitude":150.75069,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-23.587624,
     "lbl:longitude":150.761036,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Marmor"
@@ -41,9 +47,12 @@
         102048825
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31017"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"a0932fb3f50bef0e18925e140a6cd857",
+    "wof:geomhash":"c31cec92ee1e95a415cf33754e783f21",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404543087,
-    "wof:lastmodified":1566602127,
+    "wof:lastmodified":1695877206,
     "wof:name":"Marmor",
     "wof:parent_id":102048825,
     "wof:placetype":"localadmin",

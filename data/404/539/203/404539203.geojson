@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.087977,
-    "geom:area_square_m":865964569.716307,
+    "geom:area_square_m":865964569.716048,
     "geom:bbox":"140.971275232,-37.449881639,141.289607872,-37.029084894",
     "geom:latitude":-37.247047,
     "geom:longitude":141.097747,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.226324,
     "lbl:longitude":141.068947,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Langkoop"
@@ -38,9 +44,12 @@
         102049637
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20768"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"00605a0b3789ad6f6a276c1de6b47673",
+    "wof:geomhash":"78a9ad6b7631c0b20f45c0641841772f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404539203,
-    "wof:lastmodified":1566602369,
+    "wof:lastmodified":1695877336,
     "wof:name":"Langkoop",
     "wof:parent_id":102049637,
     "wof:placetype":"localadmin",

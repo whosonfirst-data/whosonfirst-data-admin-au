@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024366,
-    "geom:area_square_m":248579817.608911,
+    "geom:area_square_m":248579817.608943,
     "geom:bbox":"146.134732768,-34.4814340025,146.390663776,-34.334333528",
     "geom:latitude":-34.407125,
     "geom:longitude":146.261105,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.410861,
     "lbl:longitude":146.276235,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Murrami"
@@ -38,9 +44,12 @@
         102049361
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11656"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"bc9b05678d2de9718971ddff7daca1ca",
+    "wof:geomhash":"7856cf83631ac1892b7f3ee8de843e03",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404225151,
-    "wof:lastmodified":1566602667,
+    "wof:lastmodified":1695877511,
     "wof:name":"Murrami",
     "wof:parent_id":102049361,
     "wof:placetype":"localadmin",

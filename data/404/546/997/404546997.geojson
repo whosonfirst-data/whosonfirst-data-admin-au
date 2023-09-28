@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00151,
-    "geom:area_square_m":15825587.704107,
+    "geom:area_square_m":15825587.704102,
     "geom:bbox":"116.02143568,-32.035835993,116.116959008,-32.0093110075",
     "geom:latitude":-32.021451,
     "geom:longitude":116.071848,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.019166,
     "lbl:longitude":116.063175,
     "lbl:max_zoom":18.0,
@@ -106,13 +112,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC50138",
         "wd:id":"Q5043244"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101936987
     ],
     "wof:country":"AU",
-    "wof:geomhash":"73186aca9e71f2c89472839822fc74b6",
+    "wof:geomhash":"d1f0310ce1b8e873300253a367afce1f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -125,7 +133,7 @@
         }
     ],
     "wof:id":404546997,
-    "wof:lastmodified":1566603106,
+    "wof:lastmodified":1695878038,
     "wof:name":"Carmel",
     "wof:parent_id":102048953,
     "wof:placetype":"localadmin",

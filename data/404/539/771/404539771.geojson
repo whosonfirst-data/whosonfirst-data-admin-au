@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008084,
-    "geom:area_square_m":78191103.512031,
+    "geom:area_square_m":78191103.512089,
     "geom:bbox":"142.737365536,-38.6060045255,142.878040864,-38.471465995",
     "geom:latitude":-38.537229,
     "geom:longitude":142.800136,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.535313,
     "lbl:longitude":142.789626,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Nirranda"
@@ -38,9 +44,12 @@
         102049109
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21021"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"ed3f35435652dafb4051c522158228d3",
+    "wof:geomhash":"598337f4ab1645f19b5e49c7c8b17e6c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404539771,
-    "wof:lastmodified":1566602378,
+    "wof:lastmodified":1695877341,
     "wof:name":"Nirranda",
     "wof:parent_id":102049109,
     "wof:placetype":"localadmin",

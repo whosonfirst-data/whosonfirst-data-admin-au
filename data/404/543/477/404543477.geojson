@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002832,
-    "geom:area_square_m":31294837.039961,
+    "geom:area_square_m":31294837.039975,
     "geom:bbox":"151.938764992,-26.699236009,152.031641056,-26.653141002",
     "geom:latitude":-26.677653,
     "geom:longitude":151.985857,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-26.67939,
     "lbl:longitude":151.989608,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Nanango"
@@ -56,12 +62,15 @@
         102048861
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31201"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934975
     ],
     "wof:country":"AU",
-    "wof:geomhash":"0ac849f112c6d8de1154b3ba4d18e6b1",
+    "wof:geomhash":"8d3c3b74c79954244fbc3c170b789cee",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -73,7 +82,7 @@
         }
     ],
     "wof:id":404543477,
-    "wof:lastmodified":1566602101,
+    "wof:lastmodified":1695877192,
     "wof:name":"Nanango",
     "wof:parent_id":102048861,
     "wof:placetype":"localadmin",

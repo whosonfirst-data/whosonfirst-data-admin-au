@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006271,
-    "geom:area_square_m":60857459.582777,
+    "geom:area_square_m":60857459.58276,
     "geom:bbox":"146.109828,-38.3438877935,146.239464992,-38.2573960015",
     "geom:latitude":-38.30016,
     "geom:longitude":146.173198,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.298135,
     "lbl:longitude":146.177617,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Thorpdale"
@@ -38,9 +44,12 @@
         102048523
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21335"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"09d2563118f2ef3fc07b54d1fa786443",
+    "wof:geomhash":"515fe27e9403fb44d625273bb11154f8",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404540473,
-    "wof:lastmodified":1566603024,
+    "wof:lastmodified":1695877733,
     "wof:name":"Thorpdale",
     "wof:parent_id":102048523,
     "wof:placetype":"localadmin",

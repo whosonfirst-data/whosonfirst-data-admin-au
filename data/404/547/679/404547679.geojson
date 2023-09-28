@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0006,
-    "geom:area_square_m":6069154.45133,
+    "geom:area_square_m":6069154.451335,
     "geom:bbox":"117.857147328,-35.088878006,117.884088,-35.05718203",
     "geom:latitude":-35.075417,
     "geom:longitude":117.867806,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.075065,
     "lbl:longitude":117.866718,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Little Grove"
@@ -38,12 +44,15 @@
         102048671
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50443"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937423
     ],
     "wof:country":"AU",
-    "wof:geomhash":"c977cabaed2948d698a2919cedc1cc65",
+    "wof:geomhash":"e020503ba0c11affa24436ad9f696775",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404547679,
-    "wof:lastmodified":1566602962,
+    "wof:lastmodified":1695877696,
     "wof:name":"Little Grove",
     "wof:parent_id":102048671,
     "wof:placetype":"localadmin",

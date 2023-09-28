@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02866,
-    "geom:area_square_m":300873268.711773,
+    "geom:area_square_m":300873268.711546,
     "geom:bbox":"148.970167552,-31.976187997,149.3082,-31.816725286",
     "geom:latitude":-31.897919,
     "geom:longitude":149.146859,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.880857,
     "lbl:longitude":149.146956,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mendooran"
@@ -47,9 +53,12 @@
         102049559
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11514"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"a38136cab876abc65e164d99f0beb9ac",
+    "wof:geomhash":"9b7e587cb4d27deb545b5c47e8c7d218",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":404224831,
-    "wof:lastmodified":1566602635,
+    "wof:lastmodified":1695877494,
     "wof:name":"Mendooran",
     "wof:parent_id":102049559,
     "wof:placetype":"localadmin",

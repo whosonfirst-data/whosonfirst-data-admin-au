@@ -10,12 +10,18 @@
     "geom:latitude":-27.599798,
     "geom:longitude":152.782667,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.600851,
     "lbl:longitude":152.783898,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Moores Pocket"
@@ -39,12 +45,15 @@
         102048583
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31095"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934877
     ],
     "wof:country":"AU",
-    "wof:geomhash":"ce40bcc231d22f3bdf8f582f696e7e8e",
+    "wof:geomhash":"b81143e0cb3b78d7e6ff9009dbefe437",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404543245,
-    "wof:lastmodified":1566602100,
+    "wof:lastmodified":1695877191,
     "wof:name":"Moores Pocket",
     "wof:parent_id":102048583,
     "wof:placetype":"localadmin",

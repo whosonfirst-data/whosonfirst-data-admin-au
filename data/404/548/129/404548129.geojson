@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00409,
-    "geom:area_square_m":42906980.077799,
+    "geom:area_square_m":42906980.07782,
     "geom:bbox":"116.058615008,-32.001230448,116.166948992,-31.9351105045",
     "geom:latitude":-31.965451,
     "geom:longitude":116.110679,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.966961,
     "lbl:longitude":116.116005,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Piesse Brook"
@@ -39,9 +45,12 @@
         102048953
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50645"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"a9473e7aafbe16cd0dbf7c6c00089bcb",
+    "wof:geomhash":"31199fced422c0aaab4579a802ba813c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":404548129,
-    "wof:lastmodified":1566603190,
+    "wof:lastmodified":1695877811,
     "wof:name":"Piesse Brook",
     "wof:parent_id":102048953,
     "wof:placetype":"localadmin",

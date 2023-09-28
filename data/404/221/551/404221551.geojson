@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000263,
-    "geom:area_square_m":2818229.285513,
+    "geom:area_square_m":2818229.285514,
     "geom:bbox":"153.183572,-30.0660560595,153.199105472,-30.037856047",
     "geom:latitude":-30.05295,
     "geom:longitude":153.19115,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-30.057457,
     "lbl:longitude":153.191004,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Arrawarra"
@@ -38,12 +44,15 @@
         102048797
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10056"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101929407
     ],
     "wof:country":"AU",
-    "wof:geomhash":"83d88fed45aace64bb4dd87bd9b5b450",
+    "wof:geomhash":"dc555e1bb90b5d9f7de6215fce7722a4",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404221551,
-    "wof:lastmodified":1566601962,
+    "wof:lastmodified":1695877114,
     "wof:name":"Arrawarra",
     "wof:parent_id":102048797,
     "wof:placetype":"localadmin",

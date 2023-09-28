@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001272,
-    "geom:area_square_m":11808535.118473,
+    "geom:area_square_m":11808535.118506,
     "geom:bbox":"146.954971008,-41.3553650055,147.029199552,-41.3183449885",
     "geom:latitude":-41.335237,
     "geom:longitude":146.987914,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-41.336852,
     "lbl:longitude":146.97505,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Rosevears"
@@ -38,9 +44,12 @@
         102049419
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60315"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"569434b629cd2afc2604ec9a7ac87129",
+    "wof:geomhash":"ace0e0fae95f45bfef18a538dbc2afdf",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404549377,
-    "wof:lastmodified":1566602855,
+    "wof:lastmodified":1695877629,
     "wof:name":"Rosevears",
     "wof:parent_id":102049419,
     "wof:placetype":"localadmin",

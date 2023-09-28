@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000195,
-    "geom:area_square_m":1979017.791327,
+    "geom:area_square_m":1979017.791319,
     "geom:bbox":"117.865319264,-35.019850621,117.89112624,-35.003025056",
     "geom:latitude":-35.011803,
     "geom:longitude":117.879415,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.012289,
     "lbl:longitude":117.879602,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Centennial Park"
@@ -53,12 +59,15 @@
         102048671
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50147"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937001
     ],
     "wof:country":"AU",
-    "wof:geomhash":"5a69a9e0f621cec5225f1bcec79a179d",
+    "wof:geomhash":"b5be3c233bc96405933cc51f931bcb83",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -70,7 +79,7 @@
         }
     ],
     "wof:id":404547017,
-    "wof:lastmodified":1566602962,
+    "wof:lastmodified":1695877695,
     "wof:name":"Centennial Park",
     "wof:parent_id":102048671,
     "wof:placetype":"localadmin",

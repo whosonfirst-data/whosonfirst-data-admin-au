@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001954,
-    "geom:area_square_m":19113060.402665,
+    "geom:area_square_m":19113060.402651,
     "geom:bbox":"144.970340032,-37.733773093,145.040805856,-37.690999021",
     "geom:latitude":-37.712264,
     "geom:longitude":145.006912,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.712408,
     "lbl:longitude":145.004061,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:als_x_preferred":[
         "Stausee"
@@ -228,12 +234,15 @@
         102048925
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21139"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101933449
     ],
     "wof:country":"AU",
-    "wof:geomhash":"a439c432ac02e9e2f66e81764384683d",
+    "wof:geomhash":"536330cbe8fbc288cb5d761402eea67c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -246,7 +255,7 @@
         }
     ],
     "wof:id":404540031,
-    "wof:lastmodified":1566602999,
+    "wof:lastmodified":1695877717,
     "wof:name":"Reservoir",
     "wof:parent_id":102048925,
     "wof:placetype":"localadmin",

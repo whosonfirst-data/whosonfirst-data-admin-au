@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003309,
-    "geom:area_square_m":35925487.427055,
+    "geom:area_square_m":35925487.427073,
     "geom:bbox":"153.053875008,-28.6372788965,153.136269952,-28.571416991",
     "geom:latitude":-28.602861,
     "geom:longitude":153.090272,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.597608,
     "lbl:longitude":153.093576,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Cawongla"
@@ -38,9 +44,12 @@
         102048855
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10500"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"83dc7098affcb1982fef16bbafe0c858",
+    "wof:geomhash":"7ebccbdcd6f7083243b104572ed27806",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404222549,
-    "wof:lastmodified":1566602810,
+    "wof:lastmodified":1695877598,
     "wof:name":"Cawongla",
     "wof:parent_id":102048855,
     "wof:placetype":"localadmin",

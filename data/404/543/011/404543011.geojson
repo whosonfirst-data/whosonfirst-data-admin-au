@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.355852,
-    "geom:area_square_m":3879424056.045974,
+    "geom:area_square_m":3879424056.045277,
     "geom:bbox":"149.841208,-28.5095190065,151.057106016,-27.9165959305",
     "geom:latitude":-28.15767,
     "geom:longitude":150.371893,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.079383,
     "lbl:longitude":150.362903,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lundavra"
@@ -38,9 +44,12 @@
         102048595
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30977"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"a2eb8f15d132ea3d611919d3661a16f2",
+    "wof:geomhash":"d50fd34afe02a6446c64b7255974775c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404543011,
-    "wof:lastmodified":1566602129,
+    "wof:lastmodified":1695877207,
     "wof:name":"Lundavra",
     "wof:parent_id":102048595,
     "wof:placetype":"localadmin",

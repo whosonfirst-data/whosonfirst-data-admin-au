@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000314,
-    "geom:area_square_m":3047856.093343,
+    "geom:area_square_m":3047856.09334,
     "geom:bbox":"142.63064544,-38.3146819915,142.664108992,-38.291595009",
     "geom:latitude":-38.301897,
     "geom:longitude":142.646049,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.305195,
     "lbl:longitude":142.6421,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0641\u0631\u0627\u0645\u0644\u06cc\u0646\u0642\u0647\u0627\u0645"
@@ -95,12 +101,15 @@
         102049109
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20501"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932953
     ],
     "wof:country":"AU",
-    "wof:geomhash":"e4929d374f4d632ac465a058e1ee4b7c",
+    "wof:geomhash":"e13dd2b2d911f076d6749c3f0699d0d0",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -112,7 +121,7 @@
         }
     ],
     "wof:id":404538607,
-    "wof:lastmodified":1566602477,
+    "wof:lastmodified":1695877400,
     "wof:name":"Framlingham",
     "wof:parent_id":102049109,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000632,
-    "geom:area_square_m":6539188.254977,
+    "geom:area_square_m":6539188.254979,
     "geom:bbox":"138.013855936,-33.179845801,138.0501152,-33.1516915945",
     "geom:latitude":-33.164703,
     "geom:longitude":138.033657,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.163021,
     "lbl:longitude":138.034003,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Germein Bay"
@@ -44,12 +50,15 @@
         102049233
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40226"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101936035
     ],
     "wof:country":"AU",
-    "wof:geomhash":"5193ef21c9312d9f69e7e7d1c7cc1f7d",
+    "wof:geomhash":"ec675bf5ccc756d4371fd802f2fc9420",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":404545357,
-    "wof:lastmodified":1566602234,
+    "wof:lastmodified":1695877258,
     "wof:name":"Germein Bay",
     "wof:parent_id":102049233,
     "wof:placetype":"localadmin",

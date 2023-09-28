@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000485,
-    "geom:area_square_m":5519242.202457,
+    "geom:area_square_m":5519242.202461,
     "geom:bbox":"150.711768992,-23.1314600045,150.739839008,-23.1006859945",
     "geom:latitude":-23.115824,
     "geom:longitude":150.723055,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-23.123671,
     "lbl:longitude":150.718588,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Inverness"
@@ -239,12 +245,15 @@
         102048825
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30807"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934595
     ],
     "wof:country":"AU",
-    "wof:geomhash":"6cfce24d6989fb5384d6818fb529b7bb",
+    "wof:geomhash":"641e6267799e2b82358468542d52d466",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -256,7 +265,7 @@
         }
     ],
     "wof:id":404542637,
-    "wof:lastmodified":1566602305,
+    "wof:lastmodified":1695877298,
     "wof:name":"Inverness",
     "wof:parent_id":102048825,
     "wof:placetype":"localadmin",

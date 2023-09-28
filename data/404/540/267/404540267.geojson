@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008891,
-    "geom:area_square_m":87213598.397008,
+    "geom:area_square_m":87213598.396968,
     "geom:bbox":"143.955186304,-37.5528119945,144.09497136,-37.436416007",
     "geom:latitude":-37.501999,
     "geom:longitude":144.029925,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.503055,
     "lbl:longitude":144.036778,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Springbank"
@@ -41,9 +47,12 @@
         102049283
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21244"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"a3405eb0553294f8358974d1544105be",
+    "wof:geomhash":"f65c2e4759cda35ac6767fea6f4c87f3",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404540267,
-    "wof:lastmodified":1566603000,
+    "wof:lastmodified":1695877718,
     "wof:name":"Springbank",
     "wof:parent_id":102049283,
     "wof:placetype":"localadmin",

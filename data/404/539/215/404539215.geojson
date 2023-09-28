@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.060305,
-    "geom:area_square_m":586418949.715876,
+    "geom:area_square_m":586418949.715889,
     "geom:bbox":"143.147602016,-38.27336078,143.527072608,-38.0066770085",
     "geom:latitude":-38.148149,
     "geom:longitude":143.320303,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.144892,
     "lbl:longitude":143.32382,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Larralea"
@@ -38,9 +44,12 @@
         102049319
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20773"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"e5ae9dab7b32c354565d1a60c6a0958c",
+    "wof:geomhash":"d8dcb016fba5fecc54ed29f3c36ff3f3",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404539215,
-    "wof:lastmodified":1566602395,
+    "wof:lastmodified":1695877353,
     "wof:name":"Larralea",
     "wof:parent_id":102049319,
     "wof:placetype":"localadmin",

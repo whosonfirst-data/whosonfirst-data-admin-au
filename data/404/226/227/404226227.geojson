@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0004,
-    "geom:area_square_m":4129381.648612,
+    "geom:area_square_m":4129446.857648,
     "geom:bbox":"151.35904,-33.437218,151.393643,-33.418162",
     "geom:latitude":-33.428292,
     "geom:longitude":151.374155,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.428895,
     "lbl:longitude":151.372747,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u0628\u0631\u064a\u0646\u063a\u0641\u064a\u0644\u062f"
@@ -200,12 +206,15 @@
         102048513
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12134"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931927
     ],
     "wof:country":"AU",
-    "wof:geomhash":"ddc90d6db310785bf5f500d2a42b6c58",
+    "wof:geomhash":"f3f72cdb7f048ceb718ab6fca1a62d6c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -217,7 +226,7 @@
         }
     ],
     "wof:id":404226227,
-    "wof:lastmodified":1636494613,
+    "wof:lastmodified":1695877849,
     "wof:name":"Springfield",
     "wof:parent_id":102048513,
     "wof:placetype":"localadmin",

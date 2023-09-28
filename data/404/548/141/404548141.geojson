@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001751,
-    "geom:area_square_m":18239034.927854,
+    "geom:area_square_m":18239034.92784,
     "geom:bbox":"115.842933984,-32.646332478,115.899496096,-32.5892599965",
     "geom:latitude":-32.61606,
     "geom:longitude":115.869834,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.61281,
     "lbl:longitude":115.867498,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Pinjarra"
@@ -39,12 +45,15 @@
         102049595
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50650"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937691
     ],
     "wof:country":"AU",
-    "wof:geomhash":"e156c3f89a89716e3a4bfa56d0dcfefa",
+    "wof:geomhash":"27fc4d1dbcd7ca40b8efe16e8a5de819",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404548141,
-    "wof:lastmodified":1566603235,
+    "wof:lastmodified":1695877835,
     "wof:name":"Pinjarra",
     "wof:parent_id":102049595,
     "wof:placetype":"localadmin",

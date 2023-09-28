@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003444,
-    "geom:area_square_m":33762438.620131,
+    "geom:area_square_m":33762438.620105,
     "geom:bbox":"145.088620992,-37.5745088315,145.175430784,-37.5127826195",
     "geom:latitude":-37.546006,
     "geom:longitude":145.128581,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.545256,
     "lbl:longitude":145.129427,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Yan Yean"
@@ -38,9 +44,12 @@
         102049577
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21522"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"6636d6f7f4dcc6d33629780c07f669ac",
+    "wof:geomhash":"c20c3729bba0377285da899e88a72786",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404540889,
-    "wof:lastmodified":1566602991,
+    "wof:lastmodified":1695877714,
     "wof:name":"Yan Yean",
     "wof:parent_id":102049577,
     "wof:placetype":"localadmin",

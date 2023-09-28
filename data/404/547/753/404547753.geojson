@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000043,
-    "geom:area_square_m":458493.01007,
+    "geom:area_square_m":458493.010069,
     "geom:bbox":"119.485443936,-31.472983705,119.493133952,-31.4627141515",
     "geom:latitude":-31.468042,
     "geom:longitude":119.489014,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.468496,
     "lbl:longitude":119.489071,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Marvel Loch"
@@ -38,12 +44,15 @@
         102049615
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50476"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937471
     ],
     "wof:country":"AU",
-    "wof:geomhash":"08f00cd78772c5ee9fff7235c5e99f23",
+    "wof:geomhash":"3633227d0f8299040a266ecc0c0cb663",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404547753,
-    "wof:lastmodified":1566602923,
+    "wof:lastmodified":1695877674,
     "wof:name":"Marvel Loch",
     "wof:parent_id":102049615,
     "wof:placetype":"localadmin",

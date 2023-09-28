@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.081547,
-    "geom:area_square_m":849334498.368063,
+    "geom:area_square_m":849334498.368375,
     "geom:bbox":"115.967870944,-32.803244261,116.264505184,-32.4563112265",
     "geom:latitude":-32.615145,
     "geom:longitude":116.121701,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.590127,
     "lbl:longitude":116.121689,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Dwellingup"
@@ -39,9 +45,12 @@
         102049595
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50234"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"0c85bde6b5122a8115fff0fc407b4ebc",
+    "wof:geomhash":"c9f23cbefa7d719423f473b535e4b229",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":404547209,
-    "wof:lastmodified":1566602964,
+    "wof:lastmodified":1695877697,
     "wof:name":"Dwellingup",
     "wof:parent_id":102049595,
     "wof:placetype":"localadmin",

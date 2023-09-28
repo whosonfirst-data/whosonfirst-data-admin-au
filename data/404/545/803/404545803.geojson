@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.280231,
-    "geom:area_square_m":2909160523.109863,
+    "geom:area_square_m":2909160523.109589,
     "geom:bbox":"134.820492864,-33.209951998,135.48100304,-32.621625321",
     "geom:latitude":-32.906364,
     "geom:longitude":135.131863,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.893937,
     "lbl:longitude":135.125646,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Minnipa"
@@ -38,9 +44,12 @@
         102048979
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40433"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"2febc67eaeeb88f4f3d8eb20d8fe14ef",
+    "wof:geomhash":"4368be14a4b0d6bf72d4bea3cbc5f5c3",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404545803,
-    "wof:lastmodified":1566602222,
+    "wof:lastmodified":1695877253,
     "wof:name":"Minnipa",
     "wof:parent_id":102048979,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006211,
-    "geom:area_square_m":60322163.721102,
+    "geom:area_square_m":60322163.721193,
     "geom:bbox":"145.482548256,-38.287722219,145.600523008,-38.1915009995",
     "geom:latitude":-38.233515,
     "geom:longitude":145.537425,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.232045,
     "lbl:longitude":145.527574,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Caldermeade"
@@ -38,9 +44,12 @@
         102048791
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20232"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"876d43cbe132a0137f133af770f2174c",
+    "wof:geomhash":"ecfd5b8397151c7f4b40858cfffbb009",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404538009,
-    "wof:lastmodified":1566602443,
+    "wof:lastmodified":1695877382,
     "wof:name":"Caldermeade",
     "wof:parent_id":102048791,
     "wof:placetype":"localadmin",

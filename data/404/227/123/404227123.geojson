@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001667,
-    "geom:area_square_m":18059011.449681,
+    "geom:area_square_m":18059011.449653,
     "geom:bbox":"153.38535696,-28.845794006,153.43183664,-28.794521996",
     "geom:latitude":-28.819639,
     "geom:longitude":153.409246,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.819429,
     "lbl:longitude":153.408801,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Wollongbar"
@@ -38,9 +44,12 @@
         102049481
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12533"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"d054d5fcdf909e985924f66a27459c7e",
+    "wof:geomhash":"79a9bbe11fb8c22ddf2a36296fe03aad",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404227123,
-    "wof:lastmodified":1566601960,
+    "wof:lastmodified":1695877113,
     "wof:name":"Wollongbar",
     "wof:parent_id":102049481,
     "wof:placetype":"localadmin",

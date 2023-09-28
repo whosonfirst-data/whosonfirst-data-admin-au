@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00569,
-    "geom:area_square_m":55097086.090243,
+    "geom:area_square_m":55097086.090314,
     "geom:bbox":"144.913523616,-38.4973956875,145.034417056,-38.413407001",
     "geom:latitude":-38.458355,
     "geom:longitude":144.978276,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.458017,
     "lbl:longitude":144.978298,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0424\u043b\u0456\u043d\u0434\u044d\u0440\u0441"
@@ -68,9 +74,12 @@
         102048695
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20493"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"5aec2ea37f3d562462339d0387315cf7",
+    "wof:geomhash":"bec097abd3969e60b487abfaa0ed7d5b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -82,7 +91,7 @@
         }
     ],
     "wof:id":404538589,
-    "wof:lastmodified":1566602455,
+    "wof:lastmodified":1695877388,
     "wof:name":"Flinders",
     "wof:parent_id":102048695,
     "wof:placetype":"localadmin",

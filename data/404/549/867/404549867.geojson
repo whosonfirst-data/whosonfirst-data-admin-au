@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":9.81917,
-    "geom:area_square_m":115378738201.70639,
+    "geom:area_square_m":115378738201.706894,
     "geom:bbox":"131.646074112,-20.392981206,137.122032992,-16.502220269",
     "geom:latitude":-18.125164,
     "geom:longitude":133.860848,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-18.130747,
     "lbl:longitude":133.136919,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tanami East"
@@ -38,9 +44,12 @@
         102048951
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC70175"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"2edbb513385792aada43d0362dd4af20",
+    "wof:geomhash":"eac1995b19c546f1fb67b931f18c6d41",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404549867,
-    "wof:lastmodified":1566602852,
+    "wof:lastmodified":1695877627,
     "wof:name":"Tanami East",
     "wof:parent_id":102048951,
     "wof:placetype":"localadmin",

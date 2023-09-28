@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00035,
-    "geom:area_square_m":3592589.181403,
+    "geom:area_square_m":3592589.181397,
     "geom:bbox":"121.904311328,-33.8292356315,121.940061856,-33.8128110355",
     "geom:latitude":-33.818848,
     "geom:longitude":121.918832,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.818388,
     "lbl:longitude":121.913469,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bandy Creek"
@@ -38,12 +44,15 @@
         102049141
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50035"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101936857
     ],
     "wof:country":"AU",
-    "wof:geomhash":"43360b9df315d6500aac7ae45d2a4b58",
+    "wof:geomhash":"28f6fb0089f1c931464db6821d8a1967",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404546765,
-    "wof:lastmodified":1566603106,
+    "wof:lastmodified":1695877772,
     "wof:name":"Bandy Creek",
     "wof:parent_id":102049141,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.041103,
-    "geom:area_square_m":419071562.087918,
+    "geom:area_square_m":419071562.08815,
     "geom:bbox":"135.550464,-34.578094005,135.793146016,-34.3428429915",
     "geom:latitude":-34.457876,
     "geom:longitude":135.676076,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.458062,
     "lbl:longitude":135.690538,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Edillilie"
@@ -38,9 +44,12 @@
         102049451
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40170"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"1b4ada3541e0987ef9b2a6d920ec0280",
+    "wof:geomhash":"3b6988909659b44a85ac35a96bf34721",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404545231,
-    "wof:lastmodified":1566602245,
+    "wof:lastmodified":1695877263,
     "wof:name":"Edillilie",
     "wof:parent_id":102049451,
     "wof:placetype":"localadmin",

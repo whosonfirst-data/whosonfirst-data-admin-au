@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003807,
-    "geom:area_square_m":35446977.045253,
+    "geom:area_square_m":35446977.045267,
     "geom:bbox":"145.939293856,-41.189112998,146.023330016,-41.0982930015",
     "geom:latitude":-41.14322,
     "geom:longitude":145.979079,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-41.144409,
     "lbl:longitude":145.978464,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Cuprona"
@@ -38,9 +44,12 @@
         102049415
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60072"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"7bb09be442b4ba2803132533f15cd81a",
+    "wof:geomhash":"c12d30fb79e8eb7baf275276f2b3c9b3",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404548831,
-    "wof:lastmodified":1566603213,
+    "wof:lastmodified":1695877822,
     "wof:name":"Cuprona",
     "wof:parent_id":102049415,
     "wof:placetype":"localadmin",

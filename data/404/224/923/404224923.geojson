@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000456,
-    "geom:area_square_m":4670592.337068,
+    "geom:area_square_m":4670584.318092,
     "geom:bbox":"151.090539,-34.044747,151.120922,-34.020504",
     "geom:latitude":-34.032311,
     "geom:longitude":151.103667,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.031833,
     "lbl:longitude":151.102429,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "Miranda"
@@ -198,12 +204,15 @@
         102049511
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11555"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931251
     ],
     "wof:country":"AU",
-    "wof:geomhash":"970a56b2cfbea588b51f3ead37dcb6e7",
+    "wof:geomhash":"e417d6c3efc0bd4451d36273c4d277c0",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -216,7 +225,7 @@
         }
     ],
     "wof:id":404224923,
-    "wof:lastmodified":1636494647,
+    "wof:lastmodified":1695877864,
     "wof:name":"Miranda",
     "wof:parent_id":102049511,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010158,
-    "geom:area_square_m":99687192.80699,
+    "geom:area_square_m":99687192.806849,
     "geom:bbox":"144.70122,-37.515535808,144.898698848,-37.415033004",
     "geom:latitude":-37.469301,
     "geom:longitude":144.793773,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.459982,
     "lbl:longitude":144.775756,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Clarkefield"
@@ -38,9 +44,12 @@
         102048977
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20295"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"9dee5ee4a0670b86f68e4e70fc4ac6f7",
+    "wof:geomhash":"ac6619adc1364d5998ee2ab058a3e5e9",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404538151,
-    "wof:lastmodified":1566602429,
+    "wof:lastmodified":1695877374,
     "wof:name":"Clarkefield",
     "wof:parent_id":102048977,
     "wof:placetype":"localadmin",

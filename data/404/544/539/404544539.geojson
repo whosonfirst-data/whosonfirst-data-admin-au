@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00382,
-    "geom:area_square_m":44766231.14299,
+    "geom:area_square_m":44766231.143034,
     "geom:bbox":"146.17452,-18.6689709975,146.28246,-18.5846159925",
     "geom:latitude":-18.617951,
     "geom:longitude":146.220254,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-18.609528,
     "lbl:longitude":146.216554,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Victoria Plantation"
@@ -38,9 +44,12 @@
         102048645
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31703"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"8b961c45226704c4b90e95b4f97d4f99",
+    "wof:geomhash":"7d9752dd27be306acc45dbf6f0135c07",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404544539,
-    "wof:lastmodified":1566602179,
+    "wof:lastmodified":1695877233,
     "wof:name":"Victoria Plantation",
     "wof:parent_id":102048645,
     "wof:placetype":"localadmin",

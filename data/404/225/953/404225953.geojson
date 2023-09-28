@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004259,
-    "geom:area_square_m":42881386.503752,
+    "geom:area_square_m":42881386.503717,
     "geom:bbox":"149.135550208,-35.5406270085,149.208838016,-35.443411007",
     "geom:latitude":-35.492636,
     "geom:longitude":149.169005,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.504143,
     "lbl:longitude":149.173376,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Royalla"
@@ -47,9 +53,12 @@
         102049385
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12013"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"f3b882e16d1fea89453dfeb9fe2a1bb0",
+    "wof:geomhash":"09afa0e9573952fa057c77926d024542",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":404225953,
-    "wof:lastmodified":1566602661,
+    "wof:lastmodified":1695877508,
     "wof:name":"Royalla",
     "wof:parent_id":102049385,
     "wof:placetype":"localadmin",

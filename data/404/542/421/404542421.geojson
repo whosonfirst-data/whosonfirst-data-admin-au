@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001743,
-    "geom:area_square_m":19343353.515691,
+    "geom:area_square_m":19343353.515669,
     "geom:bbox":"152.71212816,-26.191617284,152.782899136,-26.147106987",
     "geom:latitude":-26.170523,
     "geom:longitude":152.753631,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-26.171358,
     "lbl:longitude":152.756038,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Greens Creek"
@@ -41,9 +47,12 @@
         102049393
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30704"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"fcb2842f89a3440a7cc387327e7ee187",
+    "wof:geomhash":"2a5530805c34ab13667961eca2e50469",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404542421,
-    "wof:lastmodified":1566602296,
+    "wof:lastmodified":1695877291,
     "wof:name":"Greens Creek",
     "wof:parent_id":102049393,
     "wof:placetype":"localadmin",

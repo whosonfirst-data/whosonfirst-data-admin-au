@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006827,
-    "geom:area_square_m":67513988.032445,
+    "geom:area_square_m":67513988.03244,
     "geom:bbox":"144.129647008,-36.9401719515,144.263060992,-36.838547992",
     "geom:latitude":-36.891925,
     "geom:longitude":144.199604,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.882751,
     "lbl:longitude":144.209716,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ravenswood"
@@ -68,9 +74,12 @@
         102049661
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21127"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"6ec9d934580f72b8b6ac5f6787878468",
+    "wof:geomhash":"15a826e050cbd7b69b060d8aa5646147",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -82,7 +91,7 @@
         }
     ],
     "wof:id":404540005,
-    "wof:lastmodified":1566603031,
+    "wof:lastmodified":1695877736,
     "wof:name":"Ravenswood",
     "wof:parent_id":102049661,
     "wof:placetype":"localadmin",

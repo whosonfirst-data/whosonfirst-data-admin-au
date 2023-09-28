@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002488,
-    "geom:area_square_m":26277071.790102,
+    "geom:area_square_m":26277071.790105,
     "geom:bbox":"152.734686016,-31.3569690025,152.833432992,-31.303048995",
     "geom:latitude":-31.329061,
     "geom:longitude":152.784026,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.327058,
     "lbl:longitude":152.784821,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Telegraph Point"
@@ -38,9 +44,12 @@
         102049203
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12233"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"4bf1b44278edcc02237755ce579f87dd",
+    "wof:geomhash":"4b75e00d6e0b1558abda759551e41a3f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404226449,
-    "wof:lastmodified":1566602023,
+    "wof:lastmodified":1695877144,
     "wof:name":"Telegraph Point",
     "wof:parent_id":102049203,
     "wof:placetype":"localadmin",

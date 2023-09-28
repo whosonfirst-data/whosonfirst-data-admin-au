@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.499378,
-    "geom:area_square_m":5211974249.368338,
+    "geom:area_square_m":5211974249.368157,
     "geom:bbox":"118.778748992,-32.765270754,120.009708,-32.203338804",
     "geom:latitude":-32.428611,
     "geom:longitude":119.481963,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.390214,
     "lbl:longitude":119.470239,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Hyden"
@@ -47,9 +53,12 @@
         102049199
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50349"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"a433b83574e2354a5d1cf4a881e531df",
+    "wof:geomhash":"e5b318aeee6be4cc5285335f9f7579eb",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":404547467,
-    "wof:lastmodified":1566602964,
+    "wof:lastmodified":1695877697,
     "wof:name":"Hyden",
     "wof:parent_id":102049199,
     "wof:placetype":"localadmin",

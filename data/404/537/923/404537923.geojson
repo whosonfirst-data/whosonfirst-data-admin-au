@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000222,
-    "geom:area_square_m":2167002.477379,
+    "geom:area_square_m":2167002.477387,
     "geom:bbox":"144.970525792,-37.7802081855,144.98686512,-37.756920959",
     "geom:latitude":-37.768903,
     "geom:longitude":144.977668,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.767825,
     "lbl:longitude":144.978225,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Brunswick East"
@@ -43,9 +49,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC20194",
         "gn:id":2173739,
         "qs_pg:id":356129
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932663
     ],
@@ -53,7 +61,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3d3e4cf96d6fd91f69b4943022079c97",
+    "wof:geomhash":"ea5b1be341ea7d44bf62a8a04ea58bbe",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -66,7 +74,7 @@
         }
     ],
     "wof:id":404537923,
-    "wof:lastmodified":1582313101,
+    "wof:lastmodified":1695877839,
     "wof:name":"Brunswick East",
     "wof:parent_id":102049195,
     "wof:placetype":"localadmin",

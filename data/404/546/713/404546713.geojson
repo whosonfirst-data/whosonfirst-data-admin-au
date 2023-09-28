@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000216,
-    "geom:area_square_m":2260605.271866,
+    "geom:area_square_m":2260605.271858,
     "geom:bbox":"115.823456288,-32.0335140025,115.844701664,-32.017399374",
     "geom:latitude":-32.026964,
     "geom:longitude":115.835482,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.026159,
     "lbl:longitude":115.837404,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ardross"
@@ -42,12 +48,15 @@
         102048851
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50012"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101936827
     ],
     "wof:country":"AU",
-    "wof:geomhash":"816515939c7d1d2131299356b3714aa2",
+    "wof:geomhash":"2b6d1dfba04cef9947d60a8c6ded6bd6",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -60,7 +69,7 @@
         }
     ],
     "wof:id":404546713,
-    "wof:lastmodified":1566603124,
+    "wof:lastmodified":1695877779,
     "wof:name":"Ardross",
     "wof:parent_id":102048851,
     "wof:placetype":"localadmin",

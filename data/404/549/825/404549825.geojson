@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000722,
-    "geom:area_square_m":8235397.957802,
+    "geom:area_square_m":8235397.957803,
     "geom:bbox":"130.536078016,-22.6631480075,130.580559008,-22.630653997",
     "geom:latitude":-22.649242,
     "geom:longitude":130.563864,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-22.647691,
     "lbl:longitude":130.567234,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Nyirripi"
@@ -38,12 +44,15 @@
         102049183
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC70151"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938595
     ],
     "wof:country":"AU",
-    "wof:geomhash":"0828f82c7b553cc2062341ad1ec9b245",
+    "wof:geomhash":"2cab2758bfd1e4035de798587c6d5e79",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404549825,
-    "wof:lastmodified":1566602885,
+    "wof:lastmodified":1695877648,
     "wof:name":"Nyirripi",
     "wof:parent_id":102049183,
     "wof:placetype":"localadmin",

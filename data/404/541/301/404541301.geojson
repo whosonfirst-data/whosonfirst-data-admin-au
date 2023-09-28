@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.463794,
-    "geom:area_square_m":16458087891.386337,
+    "geom:area_square_m":16458087891.386032,
     "geom:bbox":"144.654986016,-25.503847002,146.392681888,-23.8211854775",
     "geom:latitude":-24.591375,
     "geom:longitude":145.402764,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-24.626791,
     "lbl:longitude":145.402608,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Blackall"
@@ -38,9 +44,12 @@
         102049175
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30171"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"56f55b98ad4090d53d4e673cfaef4e8b",
+    "wof:geomhash":"8b82db3ea8d5e6fa2598d3d6fec45ffe",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404541301,
-    "wof:lastmodified":1566603048,
+    "wof:lastmodified":1695877745,
     "wof:name":"Blackall",
     "wof:parent_id":102049175,
     "wof:placetype":"localadmin",

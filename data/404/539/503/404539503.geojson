@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015247,
-    "geom:area_square_m":147794563.001906,
+    "geom:area_square_m":147794563.001795,
     "geom:bbox":"146.083498016,-38.4520979565,146.30364832,-38.3041659995",
     "geom:latitude":-38.379748,
     "geom:longitude":146.18492,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.393508,
     "lbl:longitude":146.174103,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mirboo North"
@@ -38,9 +44,12 @@
         102048701
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20901"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"1dbc97a81f78d2d259d9921c697f2422",
+    "wof:geomhash":"4082e10a0e39f83ddb3d228f7d4c3b9f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404539503,
-    "wof:lastmodified":1566602358,
+    "wof:lastmodified":1695877329,
     "wof:name":"Mirboo North",
     "wof:parent_id":102048701,
     "wof:placetype":"localadmin",

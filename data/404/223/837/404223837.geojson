@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011153,
-    "geom:area_square_m":113855146.595356,
+    "geom:area_square_m":113855146.59536,
     "geom:bbox":"145.937450016,-34.4083289955,146.129719008,-34.3017192675",
     "geom:latitude":-34.349967,
     "geom:longitude":146.033097,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.356808,
     "lbl:longitude":146.034531,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cym_x_preferred":[
         "Hanwood"
@@ -47,9 +53,12 @@
         102049013
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11072"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"e56836bda2d39487d0ba8b48441b6e6b",
+    "wof:geomhash":"2f1266dde55fc7fa2f0c8d94b622353c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":404223837,
-    "wof:lastmodified":1566602555,
+    "wof:lastmodified":1695877450,
     "wof:name":"Hanwood",
     "wof:parent_id":102049013,
     "wof:placetype":"localadmin",

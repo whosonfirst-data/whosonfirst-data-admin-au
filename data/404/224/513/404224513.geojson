@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004994,
-    "geom:area_square_m":54372604.760514,
+    "geom:area_square_m":54372604.760516,
     "geom:bbox":"153.142348288,-28.346959007,153.241290016,-28.2461849005",
     "geom:latitude":-28.29965,
     "geom:longitude":153.19701,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.302299,
     "lbl:longitude":153.193648,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Limpinwood"
@@ -38,9 +44,12 @@
         102048589
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11373"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"f75fa68dc801c659d379843874170f8f",
+    "wof:geomhash":"c64ec845254f61e79c9fd4110061b9e3",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404224513,
-    "wof:lastmodified":1566602649,
+    "wof:lastmodified":1695877501,
     "wof:name":"Limpinwood",
     "wof:parent_id":102048589,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000228,
-    "geom:area_square_m":2384800.00493,
+    "geom:area_square_m":2384787.38616,
     "geom:bbox":"115.7936,-32.048985,115.808694,-32.032183",
     "geom:latitude":-32.040391,
     "geom:longitude":115.801155,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.04023,
     "lbl:longitude":115.801158,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Melville"
@@ -120,12 +126,15 @@
         102048851
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50488"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937485
     ],
     "wof:country":"AU",
-    "wof:geomhash":"325236bed5f95e72c6d2f2f67e78f69c",
+    "wof:geomhash":"767681b3368a6fa8d2f0408332faa1b5",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -138,7 +147,7 @@
         }
     ],
     "wof:id":404547781,
-    "wof:lastmodified":1636494667,
+    "wof:lastmodified":1695877877,
     "wof:name":"Melville",
     "wof:parent_id":102048851,
     "wof:placetype":"localadmin",

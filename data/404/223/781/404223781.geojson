@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029664,
-    "geom:area_square_m":300325537.728421,
+    "geom:area_square_m":300325537.727867,
     "geom:bbox":"149.145230016,-35.138804955,149.387990016,-34.944202715",
     "geom:latitude":-35.038978,
     "geom:longitude":149.285828,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.032221,
     "lbl:longitude":149.307702,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Gundaroo"
@@ -50,9 +56,12 @@
         102049253
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11047"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"c638c15e2905f35a6463a8f7d329b4f7",
+    "wof:geomhash":"eb757eb9140aacd646c91915c178612c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":404223781,
-    "wof:lastmodified":1566602562,
+    "wof:lastmodified":1695877454,
     "wof:name":"Gundaroo",
     "wof:parent_id":102049253,
     "wof:placetype":"localadmin",

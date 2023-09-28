@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.042094,
-    "geom:area_square_m":427856728.986293,
+    "geom:area_square_m":427856728.986066,
     "geom:bbox":"149.80035584,-34.816926008,150.102803328,-34.579867008",
     "geom:latitude":-34.712856,
     "geom:longitude":149.967373,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.714663,
     "lbl:longitude":149.967368,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Marulan"
@@ -47,9 +53,12 @@
         102048827
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11483"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"507b6626dcfa690687968994e33378cd",
+    "wof:geomhash":"dfb7af7c42ef424fd207798acfba1d13",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":404224761,
-    "wof:lastmodified":1566602619,
+    "wof:lastmodified":1695877486,
     "wof:name":"Marulan",
     "wof:parent_id":102048827,
     "wof:placetype":"localadmin",

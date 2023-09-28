@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031765,
-    "geom:area_square_m":316131138.097924,
+    "geom:area_square_m":316131138.097738,
     "geom:bbox":"149.137858976,-36.515849939,149.3554,-36.276072882",
     "geom:latitude":-36.40428,
     "geom:longitude":149.237438,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.401892,
     "lbl:longitude":149.228664,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Rock Flat"
@@ -38,9 +44,12 @@
         102048491
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11980"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"aac117dc89d72099ea6aae861bea179d",
+    "wof:geomhash":"e70efb038744f658781fd7d4d010b06a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404225879,
-    "wof:lastmodified":1566602710,
+    "wof:lastmodified":1695877533,
     "wof:name":"Rock Flat",
     "wof:parent_id":102048491,
     "wof:placetype":"localadmin",

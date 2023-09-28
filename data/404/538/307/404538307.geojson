@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005166,
-    "geom:area_square_m":49948594.983206,
+    "geom:area_square_m":49948594.983248,
     "geom:bbox":"145.450348736,-38.5968229385,145.608862016,-38.530356009",
     "geom:latitude":-38.559131,
     "geom:longitude":145.5362,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.563013,
     "lbl:longitude":145.52844,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Dalyston"
@@ -38,9 +44,12 @@
         102049085
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20365"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"79034cfe44f3d4c29b924a4b0f7f4904",
+    "wof:geomhash":"ecf1051867ec7ea9e3b5f0ca87273959",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404538307,
-    "wof:lastmodified":1566602421,
+    "wof:lastmodified":1695877370,
     "wof:name":"Dalyston",
     "wof:parent_id":102049085,
     "wof:placetype":"localadmin",

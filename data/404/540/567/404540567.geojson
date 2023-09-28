@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004759,
-    "geom:area_square_m":46290116.149574,
+    "geom:area_square_m":46290116.149469,
     "geom:bbox":"146.421703264,-38.178651991,146.515592992,-38.0965411655",
     "geom:latitude":-38.135426,
     "geom:longitude":146.468857,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.135896,
     "lbl:longitude":146.474436,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Tyers"
@@ -41,9 +47,12 @@
         102049021
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21377"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"750149a1f0d2d6be47854d0b754a449a",
+    "wof:geomhash":"2cab303d4977899c7bedaf5f2408fa8b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404540567,
-    "wof:lastmodified":1566602983,
+    "wof:lastmodified":1695877709,
     "wof:name":"Tyers",
     "wof:parent_id":102049021,
     "wof:placetype":"localadmin",

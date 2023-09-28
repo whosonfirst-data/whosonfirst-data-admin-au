@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001535,
-    "geom:area_square_m":16707712.412098,
+    "geom:area_square_m":16707712.412058,
     "geom:bbox":"153.294204,-28.34164799,153.357716992,-28.2942552265",
     "geom:latitude":-28.320694,
     "geom:longitude":153.322994,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.319283,
     "lbl:longitude":153.317712,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0631\u064a\u0633\u062a\u0627\u0644"
@@ -44,9 +50,12 @@
         102048589
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10652"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"25f7edb39c1c5f6f87e23c2295500bc8",
+    "wof:geomhash":"5643ea7f9af81d8fbd9ed6d01efd364f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404222891,
-    "wof:lastmodified":1566602802,
+    "wof:lastmodified":1695877594,
     "wof:name":"Crystal Creek",
     "wof:parent_id":102048589,
     "wof:placetype":"localadmin",

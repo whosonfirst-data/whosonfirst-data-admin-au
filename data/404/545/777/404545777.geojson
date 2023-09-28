@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.330168,
-    "geom:area_square_m":3309262176.158296,
+    "geom:area_square_m":3309262439.750532,
     "geom:bbox":"139.265226,-36.253935,140.046862,-35.324462",
     "geom:latitude":-35.846685,
     "geom:longitude":139.626547,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.874702,
     "lbl:longitude":139.600069,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09ae\u09c7\u09a8\u09bf\u0982\u0997\u09bf"
@@ -74,9 +80,12 @@
         102048883
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40422"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"db91d16c40337f92c90538ddc51ef1f2",
+    "wof:geomhash":"60f28ba3e18e850ffbc9da6f336f9b4c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -88,7 +97,7 @@
         }
     ],
     "wof:id":404545777,
-    "wof:lastmodified":1636494626,
+    "wof:lastmodified":1695877855,
     "wof:name":"Meningie",
     "wof:parent_id":102048883,
     "wof:placetype":"localadmin",

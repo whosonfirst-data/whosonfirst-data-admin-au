@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000551,
-    "geom:area_square_m":6041581.138611,
+    "geom:area_square_m":6041581.138622,
     "geom:bbox":"152.813813056,-27.636593861,152.84719296,-27.5992790465",
     "geom:latitude":-27.61804,
     "geom:longitude":152.832594,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.618272,
     "lbl:longitude":152.832848,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "New Chum"
@@ -39,12 +45,15 @@
         102048583
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31215"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934991
     ],
     "wof:country":"AU",
-    "wof:geomhash":"3a6d5e979d37bd0eb503cfd6b8a8c7c9",
+    "wof:geomhash":"cb0a1bd933949adb912383273450819c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404543505,
-    "wof:lastmodified":1566602094,
+    "wof:lastmodified":1695877188,
     "wof:name":"New Chum",
     "wof:parent_id":102048583,
     "wof:placetype":"localadmin",

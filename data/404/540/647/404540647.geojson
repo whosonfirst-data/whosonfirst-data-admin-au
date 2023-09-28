@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.058383,
-    "geom:area_square_m":572920468.055801,
+    "geom:area_square_m":572920468.055768,
     "geom:bbox":"141.158128,-37.5932519955,141.578487008,-37.3487052685",
     "geom:latitude":-37.475272,
     "geom:longitude":141.354357,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.463644,
     "lbl:longitude":141.340188,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Wando Vale"
@@ -38,9 +44,12 @@
         102049579
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21414"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"c756a02f1348c686f0c4ba344369abd7",
+    "wof:geomhash":"ece8cf53e303aef245d051ab0ad4498b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404540647,
-    "wof:lastmodified":1566603021,
+    "wof:lastmodified":1695877731,
     "wof:name":"Wando Vale",
     "wof:parent_id":102049579,
     "wof:placetype":"localadmin",

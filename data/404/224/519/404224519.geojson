@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001662,
-    "geom:area_square_m":18008772.064833,
+    "geom:area_square_m":18008772.064806,
     "geom:bbox":"153.352468992,-28.8513095405,153.426863008,-28.7851127295",
     "geom:latitude":-28.820409,
     "geom:longitude":153.381235,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.818635,
     "lbl:longitude":153.375005,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lindendale"
@@ -38,9 +44,12 @@
         102049635
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11375"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"e9ef11e5c634cd0da730e059d3d3893a",
+    "wof:geomhash":"7f2d285b9b066b86e19b9ba91638eba3",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404224519,
-    "wof:lastmodified":1566602602,
+    "wof:lastmodified":1695877476,
     "wof:name":"Lindendale",
     "wof:parent_id":102049635,
     "wof:placetype":"localadmin",

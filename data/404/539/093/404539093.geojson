@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003052,
-    "geom:area_square_m":29941725.880047,
+    "geom:area_square_m":29941725.880025,
     "geom:bbox":"145.19400752,-37.5449238535,145.286639776,-37.4617630605",
     "geom:latitude":-37.503075,
     "geom:longitude":145.248513,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.50114,
     "lbl:longitude":145.2524,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kinglake West"
@@ -38,9 +44,12 @@
         102048735
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20718"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"1b4663bc186dbe502baadc207b1e32c8",
+    "wof:geomhash":"7752a5df1cdc61bed86b62d90f251740",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404539093,
-    "wof:lastmodified":1566602407,
+    "wof:lastmodified":1695877361,
     "wof:name":"Kinglake West",
     "wof:parent_id":102048735,
     "wof:placetype":"localadmin",

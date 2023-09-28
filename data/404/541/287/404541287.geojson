@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001375,
-    "geom:area_square_m":16178623.892444,
+    "geom:area_square_m":16178623.892442,
     "geom:bbox":"145.931952992,-17.9503189985,145.986783712,-17.8989590025",
     "geom:latitude":-17.918388,
     "geom:longitude":145.957668,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-17.917729,
     "lbl:longitude":145.950425,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Birkalla"
@@ -38,9 +44,12 @@
         102049237
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30165"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"8fb157094a5b4c043f672125bd8a5528",
+    "wof:geomhash":"8ba77dd9a7cfd4acf3bee9333d438f48",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404541287,
-    "wof:lastmodified":1566603053,
+    "wof:lastmodified":1695877747,
     "wof:name":"Birkalla",
     "wof:parent_id":102049237,
     "wof:placetype":"localadmin",

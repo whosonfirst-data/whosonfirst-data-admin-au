@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035144,
-    "geom:area_square_m":364739033.689267,
+    "geom:area_square_m":364739033.689339,
     "geom:bbox":"116.951565472,-33.011220003,117.316763008,-32.861481669",
     "geom:latitude":-32.931404,
     "geom:longitude":117.125192,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.919677,
     "lbl:longitude":117.09208,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Narrogin Valley"
@@ -38,9 +44,12 @@
         102049613
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50567"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"b8e826105b26ccd9b53fc7b59c4bc39f",
+    "wof:geomhash":"e90a97ba8310c7b16bf8c1eb2da7f0f4",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404547959,
-    "wof:lastmodified":1566602950,
+    "wof:lastmodified":1695877689,
     "wof:name":"Narrogin Valley",
     "wof:parent_id":102049613,
     "wof:placetype":"localadmin",

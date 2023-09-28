@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000102,
-    "geom:area_square_m":986979.832767,
+    "geom:area_square_m":986979.832765,
     "geom:bbox":"146.448820992,-38.7020801685,146.468795328,-38.6935327245",
     "geom:latitude":-38.697408,
     "geom:longitude":146.459087,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.696884,
     "lbl:longitude":146.459094,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Port Welshpool"
@@ -38,12 +44,15 @@
         102048701
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21105"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101933419
     ],
     "wof:country":"AU",
-    "wof:geomhash":"d44a55ab28512aed0e7c70e0d0e716da",
+    "wof:geomhash":"0778c5f79e5287f6774351c4de666a76",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404539957,
-    "wof:lastmodified":1566602384,
+    "wof:lastmodified":1695877346,
     "wof:name":"Port Welshpool",
     "wof:parent_id":102048701,
     "wof:placetype":"localadmin",

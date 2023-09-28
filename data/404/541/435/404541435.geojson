@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000182,
-    "geom:area_square_m":1993027.287435,
+    "geom:area_square_m":1993066.773215,
     "geom:bbox":"153.010472,-27.479519,153.03461,-27.459927",
     "geom:latitude":-27.468709,
     "geom:longitude":153.024338,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.469308,
     "lbl:longitude":153.026163,
     "lbl:max_zoom":18.0,
@@ -64,13 +70,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC30237",
         "wd:id":"Q978583"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934019
     ],
     "wof:country":"AU",
-    "wof:geomhash":"fd6161115d359392873cbe7119bd7219",
+    "wof:geomhash":"dcc8101b35dcc8cbb3fc6ccf8ee90cfd",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -83,7 +91,7 @@
         }
     ],
     "wof:id":404541435,
-    "wof:lastmodified":1690853812,
+    "wof:lastmodified":1695878036,
     "wof:name":"Brisbane City",
     "wof:parent_id":102049495,
     "wof:placetype":"localadmin",

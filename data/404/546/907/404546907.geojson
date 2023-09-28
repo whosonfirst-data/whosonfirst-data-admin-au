@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000837,
-    "geom:area_square_m":8590775.602819,
+    "geom:area_square_m":8590775.602828,
     "geom:bbox":"117.621376,-33.867366999,117.655788096,-33.8317150015",
     "geom:latitude":-33.849511,
     "geom:longitude":117.639569,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.848549,
     "lbl:longitude":117.639238,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Broomehill Village"
@@ -38,12 +44,15 @@
         102048537
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50098"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101936947
     ],
     "wof:country":"AU",
-    "wof:geomhash":"c9e6736f4f839daebec4883d627f20fb",
+    "wof:geomhash":"51d14070c4792febbbcb1f73c11eb35b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404546907,
-    "wof:lastmodified":1566603101,
+    "wof:lastmodified":1695877771,
     "wof:name":"Broomehill Village",
     "wof:parent_id":102048537,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":-36.250201,
     "geom:longitude":147.004298,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.249103,
     "lbl:longitude":147.003779,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kiewa"
@@ -38,12 +44,15 @@
         102049541
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20709"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101933123
     ],
     "wof:country":"AU",
-    "wof:geomhash":"b665976acf698d6e3fc2487366203325",
+    "wof:geomhash":"1acd6c52f0f1c9216e1394ffbd755682",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404539073,
-    "wof:lastmodified":1566602393,
+    "wof:lastmodified":1695877351,
     "wof:name":"Kiewa",
     "wof:parent_id":102049541,
     "wof:placetype":"localadmin",

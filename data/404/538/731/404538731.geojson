@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013017,
-    "geom:area_square_m":129520482.512005,
+    "geom:area_square_m":129520482.511928,
     "geom:bbox":"145.861492,-36.4714730085,146.019078016,-36.356990994",
     "geom:latitude":-36.418626,
     "geom:longitude":145.940497,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.418372,
     "lbl:longitude":145.938978,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Goorambat"
@@ -38,9 +44,12 @@
         102049239
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20556"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"3d242b5be7c457412909aecb02a902f5",
+    "wof:geomhash":"b48500d69e1d73305f34c32a29d1861b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404538731,
-    "wof:lastmodified":1566602428,
+    "wof:lastmodified":1695877374,
     "wof:name":"Goorambat",
     "wof:parent_id":102049239,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009219,
-    "geom:area_square_m":91883951.669604,
+    "geom:area_square_m":91883951.669571,
     "geom:bbox":"146.672958592,-36.330858005,146.818779296,-36.249876993",
     "geom:latitude":-36.289418,
     "geom:longitude":146.742821,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.28924,
     "lbl:longitude":146.742851,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Wooragee"
@@ -38,9 +44,12 @@
         102049541
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21502"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"502388e71e967164b760c826f533bf4e",
+    "wof:geomhash":"71cfadcb574d519f318b82c5326f786a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404540843,
-    "wof:lastmodified":1566602996,
+    "wof:lastmodified":1695877716,
     "wof:name":"Wooragee",
     "wof:parent_id":102049541,
     "wof:placetype":"localadmin",

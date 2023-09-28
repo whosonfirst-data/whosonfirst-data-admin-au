@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00134,
-    "geom:area_square_m":14627254.669018,
+    "geom:area_square_m":14627424.380408,
     "geom:bbox":"153.342625,-28.046629,153.395781,-27.995059",
     "geom:latitude":-28.021506,
     "geom:longitude":153.366352,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.023079,
     "lbl:longitude":153.365949,
     "lbl:max_zoom":18.0,
@@ -238,13 +244,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC30333",
         "wd:id":"Q2940169"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934141
     ],
     "wof:country":"AU",
-    "wof:geomhash":"555494b97f85bfcc69c689557dc433a4",
+    "wof:geomhash":"e79b5d4c229b032f89ac5d07e3e8079d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -257,7 +265,7 @@
         }
     ],
     "wof:id":404541643,
-    "wof:lastmodified":1690853794,
+    "wof:lastmodified":1695878030,
     "wof:name":"Carrara",
     "wof:parent_id":102049363,
     "wof:placetype":"localadmin",

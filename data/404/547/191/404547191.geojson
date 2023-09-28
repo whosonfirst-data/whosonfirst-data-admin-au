@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000141,
-    "geom:area_square_m":1527083.13371,
+    "geom:area_square_m":1527083.133705,
     "geom:bbox":"114.609135712,-28.681252194,114.622084064,-28.665535186",
     "geom:latitude":-28.673384,
     "geom:longitude":114.616237,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.673075,
     "lbl:longitude":114.616238,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Drummond Cove"
@@ -38,12 +44,15 @@
         102048715
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50226"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937117
     ],
     "wof:country":"AU",
-    "wof:geomhash":"4bb02bff48176a385cdc39d4d62ee2e5",
+    "wof:geomhash":"8bfa3f110a21513fef45cf4de9c30807",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404547191,
-    "wof:lastmodified":1566602950,
+    "wof:lastmodified":1695877688,
     "wof:name":"Drummond Cove",
     "wof:parent_id":102048715,
     "wof:placetype":"localadmin",

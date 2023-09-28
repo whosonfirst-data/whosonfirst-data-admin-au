@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032922,
-    "geom:area_square_m":339190462.776901,
+    "geom:area_square_m":339190462.776873,
     "geom:bbox":"115.983949888,-33.6745039995,116.206501888,-33.440355475",
     "geom:latitude":-33.56954,
     "geom:longitude":116.095389,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.57199,
     "lbl:longitude":116.095391,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Yabberup"
@@ -38,9 +44,12 @@
         102049113
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50869"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"fb0bdb96d6582f9714d7f498e5152d4e",
+    "wof:geomhash":"9d87c2448380e84734e4df96e3e7c89f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404548629,
-    "wof:lastmodified":1566603175,
+    "wof:lastmodified":1695877802,
     "wof:name":"Yabberup",
     "wof:parent_id":102049113,
     "wof:placetype":"localadmin",

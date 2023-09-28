@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001428,
-    "geom:area_square_m":14541933.113853,
+    "geom:area_square_m":14541933.11385,
     "geom:bbox":"142.74534,-34.603572,142.810104,-34.546387",
     "geom:latitude":-34.579023,
     "geom:longitude":142.780757,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.589102,
     "lbl:longitude":142.775853,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Robinvale"
@@ -46,19 +52,22 @@
     "qs:source":"Australian Bureau Of Statistics",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681497,
         102191583,
         85632793,
-        102049167,
         136253039,
-        85681497
+        102049167
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21152"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101933465
     ],
     "wof:country":"AU",
-    "wof:geomhash":"373e62b6c3bf47b079d0fe6659cdd300",
+    "wof:geomhash":"d964bd23ce6980afe55c598d1e6d300f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -70,7 +79,7 @@
         }
     ],
     "wof:id":404540061,
-    "wof:lastmodified":1607992007,
+    "wof:lastmodified":1695877842,
     "wof:name":"Robinvale",
     "wof:parent_id":102049167,
     "wof:placetype":"localadmin",

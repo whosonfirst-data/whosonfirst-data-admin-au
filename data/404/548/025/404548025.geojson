@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00269,
-    "geom:area_square_m":27370659.617692,
+    "geom:area_square_m":27370659.617699,
     "geom:bbox":"116.092984,-34.6565940005,116.184143008,-34.612516992",
     "geom:latitude":-34.630602,
     "geom:longitude":116.141186,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.630287,
     "lbl:longitude":116.14114,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Northcliffe"
@@ -44,12 +50,15 @@
         102049063
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50597"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937619
     ],
     "wof:country":"AU",
-    "wof:geomhash":"b7cda74b0e22f67349d4e31a71a7b6e6",
+    "wof:geomhash":"e2b675dc208c2516c281425de283b1f8",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":404548025,
-    "wof:lastmodified":1566603173,
+    "wof:lastmodified":1695877801,
     "wof:name":"Northcliffe",
     "wof:parent_id":102049063,
     "wof:placetype":"localadmin",

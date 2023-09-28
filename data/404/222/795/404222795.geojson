@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001882,
-    "geom:area_square_m":20425023.784861,
+    "geom:area_square_m":20425023.78481,
     "geom:bbox":"153.462310912,-28.658854984,153.5407632,-28.5963220055",
     "geom:latitude":-28.632089,
     "geom:longitude":153.4901,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.636113,
     "lbl:longitude":153.487436,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Coorabell"
@@ -38,9 +44,12 @@
         102048747
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10609"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"522dc32e15790bdf582923af291ecd1b",
+    "wof:geomhash":"591d7fffd6a2a9b720273393d3151657",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404222795,
-    "wof:lastmodified":1566602790,
+    "wof:lastmodified":1695877586,
     "wof:name":"Coorabell",
     "wof:parent_id":102048747,
     "wof:placetype":"localadmin",

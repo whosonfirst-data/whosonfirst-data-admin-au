@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003133,
-    "geom:area_square_m":33174372.637391,
+    "geom:area_square_m":33174372.63733,
     "geom:bbox":"152.849813984,-31.1133709925,152.933556992,-31.0395420065",
     "geom:latitude":-31.078289,
     "geom:longitude":152.889173,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.080874,
     "lbl:longitude":152.888537,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Verges Creek"
@@ -38,9 +44,12 @@
         102048527
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12370"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"6b29c7de8e0ed7b332191c784b51e192",
+    "wof:geomhash":"99d00f6a84f98ed28c7225ff16a29674",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404226757,
-    "wof:lastmodified":1566602060,
+    "wof:lastmodified":1695877168,
     "wof:name":"Verges Creek",
     "wof:parent_id":102048527,
     "wof:placetype":"localadmin",

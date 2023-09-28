@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001256,
-    "geom:area_square_m":12843135.016092,
+    "geom:area_square_m":12843135.016054,
     "geom:bbox":"150.949199168,-34.227221007,151.009307008,-34.172189094",
     "geom:latitude":-34.201361,
     "geom:longitude":150.980337,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.201369,
     "lbl:longitude":150.977384,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ang_x_preferred":[
         "Elenesburh"
@@ -128,12 +134,15 @@
         102048853
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11097"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101930687
     ],
     "wof:country":"AU",
-    "wof:geomhash":"46e9c64900bec3c0cf4882a4b1823517",
+    "wof:geomhash":"6b359b2516ae10a5e284f061d67cb5b6",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -145,7 +154,7 @@
         }
     ],
     "wof:id":404223893,
-    "wof:lastmodified":1566602518,
+    "wof:lastmodified":1695877424,
     "wof:name":"Helensburgh",
     "wof:parent_id":102048853,
     "wof:placetype":"localadmin",

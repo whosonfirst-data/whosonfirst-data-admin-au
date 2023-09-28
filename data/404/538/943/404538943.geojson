@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00042,
-    "geom:area_square_m":4083670.584107,
+    "geom:area_square_m":4083670.584103,
     "geom:bbox":"144.688354208,-38.1502236885,144.720214912,-38.1202700425",
     "geom:latitude":-38.137654,
     "geom:longitude":144.701794,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.136557,
     "lbl:longitude":144.701552,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Indented Head"
@@ -39,12 +45,15 @@
         102049571
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20651"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101933069
     ],
     "wof:country":"AU",
-    "wof:geomhash":"fed00920f0475bb23a6405f26d06bfb5",
+    "wof:geomhash":"04db94c00f194c488fbb3d3481229fd0",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404538943,
-    "wof:lastmodified":1566602484,
+    "wof:lastmodified":1695877405,
     "wof:name":"Indented Head",
     "wof:parent_id":102049571,
     "wof:placetype":"localadmin",

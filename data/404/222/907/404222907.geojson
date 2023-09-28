@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000076,
-    "geom:area_square_m":782362.090233,
+    "geom:area_square_m":782362.090236,
     "geom:bbox":"150.025090272,-33.305741594,150.039324832,-33.2960565295",
     "geom:latitude":-33.300958,
     "geom:longitude":150.032708,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.300943,
     "lbl:longitude":150.033407,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Cullen Bullen"
@@ -38,12 +44,15 @@
         102049125
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10659"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101930035
     ],
     "wof:country":"AU",
-    "wof:geomhash":"a6e35b4883e406ce73da003aaef26f1f",
+    "wof:geomhash":"38bec33b7a7d7dab9d3655dbf04a0751",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404222907,
-    "wof:lastmodified":1566602744,
+    "wof:lastmodified":1695877557,
     "wof:name":"Cullen Bullen",
     "wof:parent_id":102049125,
     "wof:placetype":"localadmin",

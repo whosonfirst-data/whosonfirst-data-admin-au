@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01217,
-    "geom:area_square_m":132802638.672058,
+    "geom:area_square_m":132802638.6721,
     "geom:bbox":"152.747399552,-28.110653993,152.973048992,-27.997826008",
     "geom:latitude":-28.051849,
     "geom:longitude":152.86124,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.04333,
     "lbl:longitude":152.87705,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Josephville"
@@ -38,9 +44,12 @@
         102048945
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30827"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"689486cfe7080e924e263a1f4564b01f",
+    "wof:geomhash":"e3c4ebd6f063ae9718d48271bdec7dad",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404542681,
-    "wof:lastmodified":1566602268,
+    "wof:lastmodified":1695877274,
     "wof:name":"Josephville",
     "wof:parent_id":102048945,
     "wof:placetype":"localadmin",

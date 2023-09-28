@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001536,
-    "geom:area_square_m":16839119.559609,
+    "geom:area_square_m":16839119.559676,
     "geom:bbox":"152.021123008,-27.5529804285,152.089608992,-27.504432007",
     "geom:latitude":-27.530919,
     "geom:longitude":152.052794,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.536754,
     "lbl:longitude":152.057947,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Postmans Ridge"
@@ -38,9 +44,12 @@
         102049033
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31348"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"203c88b6bf4350456e480a56b278f114",
+    "wof:geomhash":"e3a7beb6c263236d28ecd733a4f0f133",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404543791,
-    "wof:lastmodified":1566602095,
+    "wof:lastmodified":1695877189,
     "wof:name":"Postmans Ridge",
     "wof:parent_id":102049033,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003403,
-    "geom:area_square_m":36918157.289117,
+    "geom:area_square_m":36918157.289259,
     "geom:bbox":"153.368098016,-28.710780007,153.430116128,-28.6164988085",
     "geom:latitude":-28.662119,
     "geom:longitude":153.397312,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.665004,
     "lbl:longitude":153.395204,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Rosebank"
@@ -41,9 +47,12 @@
         102049635
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11992"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"358a90cf3f476eca64d8ebcc01772338",
+    "wof:geomhash":"81ae3ef24a9d86d12c4afc3d17d117c8",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404225907,
-    "wof:lastmodified":1566602659,
+    "wof:lastmodified":1695877507,
     "wof:name":"Rosebank",
     "wof:parent_id":102049635,
     "wof:placetype":"localadmin",

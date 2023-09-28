@@ -10,6 +10,12 @@
     "geom:latitude":-33.733371,
     "geom:longitude":150.913898,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.733393,
     "lbl:longitude":150.913896,
     "lbl:max_zoom":18.0,
@@ -58,13 +64,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC10010",
         "wd:id":"Q965388"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101929355
     ],
     "wof:country":"AU",
-    "wof:geomhash":"89a3e3996b8f41f4ed6cec1c768ca5e0",
+    "wof:geomhash":"8d4b12fb590afd67526ad0c044ddc26f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -77,7 +85,7 @@
         }
     ],
     "wof:id":404221447,
-    "wof:lastmodified":1566601971,
+    "wof:lastmodified":1695877897,
     "wof:name":"Acacia Gardens",
     "wof:parent_id":102048555,
     "wof:placetype":"localadmin",

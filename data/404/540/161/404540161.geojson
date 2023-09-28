@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003058,
-    "geom:area_square_m":30363667.511348,
+    "geom:area_square_m":30363667.511351,
     "geom:bbox":"144.140371008,-36.6184810755,144.24722208,-36.568182998",
     "geom:latitude":-36.594488,
     "geom:longitude":144.198178,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.5966,
     "lbl:longitude":144.199007,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u064a\u0628\u0627\u0633\u062a\u064a\u0627\u0646"
@@ -95,9 +101,12 @@
         102049661
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21197"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"1ead218c8c229a72e396d0867e8d6d4f",
+    "wof:geomhash":"915835040f623b7e37851906e6369252",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -109,7 +118,7 @@
         }
     ],
     "wof:id":404540161,
-    "wof:lastmodified":1566602984,
+    "wof:lastmodified":1695877709,
     "wof:name":"Sebastian",
     "wof:parent_id":102049661,
     "wof:placetype":"localadmin",

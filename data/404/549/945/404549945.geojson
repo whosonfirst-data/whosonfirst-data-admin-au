@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000552,
-    "geom:area_square_m":5574629.775532,
+    "geom:area_square_m":5574552.122822,
     "geom:bbox":"149.140937,-35.30612,149.177689,-35.271655",
     "geom:latitude":-35.291342,
     "geom:longitude":149.158191,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.291666,
     "lbl:longitude":149.158468,
     "lbl:max_zoom":18.0,
@@ -131,13 +137,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC80013",
         "wd:id":"Q823088"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938727
     ],
     "wof:country":"AU",
-    "wof:geomhash":"26bac719b793c193eb904ccd61f030fe",
+    "wof:geomhash":"e3ac080ef32814f2c58c9a4effe8f166",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -148,7 +156,7 @@
         }
     ],
     "wof:id":404549945,
-    "wof:lastmodified":1690853737,
+    "wof:lastmodified":1695878013,
     "wof:name":"Campbell",
     "wof:parent_id":85681493,
     "wof:placetype":"localadmin",

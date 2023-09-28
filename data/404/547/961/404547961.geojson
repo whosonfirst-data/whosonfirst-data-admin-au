@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001599,
-    "geom:area_square_m":16726887.389391,
+    "geom:area_square_m":16726887.389418,
     "geom:bbox":"115.754902496,-32.251972899,115.79479664,-32.180446793",
     "geom:latitude":-32.219701,
     "geom:longitude":115.775617,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.224324,
     "lbl:longitude":115.773655,
     "lbl:max_zoom":18.0,
@@ -43,13 +49,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC50568",
         "wd:id":"Q6981756"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937577
     ],
     "wof:country":"AU",
-    "wof:geomhash":"61f486183cc5d481be37cb13e17e2db2",
+    "wof:geomhash":"ccb3d60b3c0170b183396e8ef28b3ad9",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -62,7 +70,7 @@
         }
     ],
     "wof:id":404547961,
-    "wof:lastmodified":1566602950,
+    "wof:lastmodified":1695878019,
     "wof:name":"Naval Base",
     "wof:parent_id":102049273,
     "wof:placetype":"localadmin",

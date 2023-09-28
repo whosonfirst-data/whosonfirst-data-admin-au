@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000269,
-    "geom:area_square_m":2623658.484123,
+    "geom:area_square_m":2623628.238552,
     "geom:bbox":"145.109866,-38.060154,145.133213,-38.039166",
     "geom:latitude":-38.049713,
     "geom:longitude":145.1214,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.049824,
     "lbl:longitude":145.121397,
     "lbl:max_zoom":18.0,
@@ -160,13 +166,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC20281",
         "wd:id":"Q5090027"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932747
     ],
     "wof:country":"AU",
-    "wof:geomhash":"19161d976868f1e22dede8c77221a924",
+    "wof:geomhash":"6725fc451ff8710f213cfeea8b4a96bc",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -179,7 +187,7 @@
         }
     ],
     "wof:id":404538119,
-    "wof:lastmodified":1690853585,
+    "wof:lastmodified":1695877957,
     "wof:name":"Chelsea",
     "wof:parent_id":102049619,
     "wof:placetype":"localadmin",

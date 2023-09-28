@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.119468,
-    "geom:area_square_m":1279316066.756032,
+    "geom:area_square_m":1279316066.756675,
     "geom:bbox":"150.287283136,-30.295986991,150.709352,-29.735565492",
     "geom:latitude":-30.000786,
     "geom:longitude":150.497577,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-30.004315,
     "lbl:longitude":150.553511,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bangheet"
@@ -38,9 +44,12 @@
         102049247
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10098"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"7e4d50143370f24ab5440a1e936b8f1e",
+    "wof:geomhash":"d78e0cd69822e1a5befd093cc6902799",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404221645,
-    "wof:lastmodified":1566601974,
+    "wof:lastmodified":1695877121,
     "wof:name":"Bangheet",
     "wof:parent_id":102049247,
     "wof:placetype":"localadmin",

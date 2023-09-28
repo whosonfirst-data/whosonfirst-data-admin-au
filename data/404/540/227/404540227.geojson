@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003514,
-    "geom:area_square_m":34411494.142691,
+    "geom:area_square_m":34411494.142649,
     "geom:bbox":"143.651641312,-37.6814269545,143.733691008,-37.6082759935",
     "geom:latitude":-37.639328,
     "geom:longitude":143.69109,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.63978,
     "lbl:longitude":143.691701,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Smythesdale"
@@ -47,9 +53,12 @@
         102049027
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21226"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"b8b7b4551808b64404bb26b659610757",
+    "wof:geomhash":"8212d68c2ff39ff041fb5aa8ab8e47cf",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":404540227,
-    "wof:lastmodified":1566602989,
+    "wof:lastmodified":1695877712,
     "wof:name":"Smythesdale",
     "wof:parent_id":102049027,
     "wof:placetype":"localadmin",

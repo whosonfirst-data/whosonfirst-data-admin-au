@@ -10,12 +10,18 @@
     "geom:latitude":-33.830378,
     "geom:longitude":138.796973,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.830239,
     "lbl:longitude":138.797461,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Farrell Flat"
@@ -38,12 +44,15 @@
         102049547
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40197"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935991
     ],
     "wof:country":"AU",
-    "wof:geomhash":"2ca885cfac9118db1e3007ca6ee729a9",
+    "wof:geomhash":"c3e73e5d4a8ee89d536aaca0b40bc0b6",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404545291,
-    "wof:lastmodified":1566602247,
+    "wof:lastmodified":1695877264,
     "wof:name":"Farrell Flat",
     "wof:parent_id":102049547,
     "wof:placetype":"localadmin",

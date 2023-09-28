@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000133,
-    "geom:area_square_m":1611502.270801,
+    "geom:area_square_m":1611502.270797,
     "geom:bbox":"130.903882656,-12.4404940055,130.917715008,-12.427241364",
     "geom:latitude":-12.434091,
     "geom:longitude":130.909825,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-12.434244,
     "lbl:longitude":130.909693,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Coonawarra"
@@ -42,12 +48,15 @@
         102049235
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC70042"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938413
     ],
     "wof:country":"AU",
-    "wof:geomhash":"b7961454004e5d5b5ef02b31e2d9a6cb",
+    "wof:geomhash":"8337c4844c25927225d2a3c91f5cc286",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -60,7 +69,7 @@
         }
     ],
     "wof:id":404549673,
-    "wof:lastmodified":1566602841,
+    "wof:lastmodified":1695877621,
     "wof:name":"Coonawarra",
     "wof:parent_id":102049235,
     "wof:placetype":"localadmin",

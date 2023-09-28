@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009113,
-    "geom:area_square_m":84799287.614594,
+    "geom:area_square_m":84799287.614554,
     "geom:bbox":"147.645993376,-41.2537765105,147.809836992,-41.1400038045",
     "geom:latitude":-41.192013,
     "geom:longitude":147.723117,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-41.193643,
     "lbl:longitude":147.715198,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Legerwood"
@@ -44,9 +50,12 @@
         102048565
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60190"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"0bf1b901d65bbacd59ef95b3f58d518e",
+    "wof:geomhash":"4bda0d64eed79e0ee5556d2cff865782",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404549097,
-    "wof:lastmodified":1566602851,
+    "wof:lastmodified":1695877626,
     "wof:name":"Legerwood",
     "wof:parent_id":102048565,
     "wof:placetype":"localadmin",

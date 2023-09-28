@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01039,
-    "geom:area_square_m":110116202.392468,
+    "geom:area_square_m":110116202.39262,
     "geom:bbox":"152.556612992,-31.0731780035,152.716114016,-30.9524460045",
     "geom:latitude":-31.011148,
     "geom:longitude":152.631467,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.012113,
     "lbl:longitude":152.623602,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Temagog"
@@ -38,9 +44,12 @@
         102048527
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12235"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"59809004c3f308b3265b4897c9ff7728",
+    "wof:geomhash":"b35a8c066655dca8288c1bbf5a521e95",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404226453,
-    "wof:lastmodified":1566602039,
+    "wof:lastmodified":1695877155,
     "wof:name":"Temagog",
     "wof:parent_id":102048527,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002306,
-    "geom:area_square_m":23327870.64924,
+    "geom:area_square_m":23327870.649234,
     "geom:bbox":"138.861162016,-35.1469155585,138.95209008,-35.0976248985",
     "geom:latitude":-35.117104,
     "geom:longitude":138.912578,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.12409,
     "lbl:longitude":138.926997,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Wistow"
@@ -57,9 +63,12 @@
         102048895
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40815"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"16bfbf8922e1c42650c5c276ded84547",
+    "wof:geomhash":"0debc943f6a9cbf8c8fcc201e5a3a200",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -72,7 +81,7 @@
         }
     ],
     "wof:id":404546621,
-    "wof:lastmodified":1566603110,
+    "wof:lastmodified":1695877773,
     "wof:name":"Wistow",
     "wof:parent_id":102048895,
     "wof:placetype":"localadmin",

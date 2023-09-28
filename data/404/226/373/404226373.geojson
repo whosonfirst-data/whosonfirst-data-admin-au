@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000146,
-    "geom:area_square_m":1508872.812293,
+    "geom:area_square_m":1508872.812305,
     "geom:bbox":"151.448058016,-33.301991977,151.466678048,-33.2855540055",
     "geom:latitude":-33.293748,
     "geom:longitude":151.455662,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.293101,
     "lbl:longitude":151.454886,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tacoma South"
@@ -38,12 +44,15 @@
         102049097
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12199"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932015
     ],
     "wof:country":"AU",
-    "wof:geomhash":"fd520e48c5b0a601b2fcd7cadcb466f7",
+    "wof:geomhash":"fdfb5bea8a76c9e8e92725a058a14f30",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404226373,
-    "wof:lastmodified":1566602085,
+    "wof:lastmodified":1695877184,
     "wof:name":"Tacoma South",
     "wof:parent_id":102049097,
     "wof:placetype":"localadmin",

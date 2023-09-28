@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037614,
-    "geom:area_square_m":435071316.187237,
+    "geom:area_square_m":435071316.187059,
     "geom:bbox":"148.447628288,-20.838280498,148.683654208,-20.549394007",
     "geom:latitude":-20.702295,
     "geom:longitude":148.570605,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-20.703261,
     "lbl:longitude":148.572382,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Bloomsbury"
@@ -137,9 +143,12 @@
         102048783
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30182"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"f39d57584e6b0795ce2e36b8e7d7d51c",
+    "wof:geomhash":"afd20758ce1e248d68b7620716459211",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -151,7 +160,7 @@
         }
     ],
     "wof:id":404541325,
-    "wof:lastmodified":1566603072,
+    "wof:lastmodified":1695877755,
     "wof:name":"Bloomsbury",
     "wof:parent_id":102048783,
     "wof:placetype":"localadmin",

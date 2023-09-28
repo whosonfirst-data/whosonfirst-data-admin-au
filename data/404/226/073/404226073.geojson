@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000154,
-    "geom:area_square_m":1584716.839553,
+    "geom:area_square_m":1584716.839545,
     "geom:bbox":"150.794615552,-33.73349704,150.818920704,-33.722253221",
     "geom:latitude":-33.727581,
     "geom:longitude":150.806619,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.727747,
     "lbl:longitude":150.805611,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Shalvey"
@@ -39,12 +45,15 @@
         102048555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12066"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931835
     ],
     "wof:country":"AU",
-    "wof:geomhash":"a78d4c289eade33ccd01becad5c1b1c9",
+    "wof:geomhash":"de253b30f6003141fcd4ca11af016e2d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404226073,
-    "wof:lastmodified":1566602064,
+    "wof:lastmodified":1695877171,
     "wof:name":"Shalvey",
     "wof:parent_id":102048555,
     "wof:placetype":"localadmin",

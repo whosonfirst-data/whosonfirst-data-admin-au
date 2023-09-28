@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019163,
-    "geom:area_square_m":186303922.980053,
+    "geom:area_square_m":186303922.979843,
     "geom:bbox":"141.992968,-38.2694629965,142.187658496,-38.0760639965",
     "geom:latitude":-38.163815,
     "geom:longitude":142.093617,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.174472,
     "lbl:longitude":142.087066,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Broadwater"
@@ -62,9 +68,12 @@
         102049109
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20187"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"776a299daab19723c9acbdd3643e36c5",
+    "wof:geomhash":"5c50a2667502769f764f2df32629081a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -76,7 +85,7 @@
         }
     ],
     "wof:id":404537907,
-    "wof:lastmodified":1566602318,
+    "wof:lastmodified":1695877305,
     "wof:name":"Broadwater",
     "wof:parent_id":102049109,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000276,
-    "geom:area_square_m":2771988.825382,
+    "geom:area_square_m":2771988.825362,
     "geom:bbox":"150.188405472,-35.7057719945,150.209763008,-35.6844160015",
     "geom:latitude":-35.695309,
     "geom:longitude":150.199487,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.694471,
     "lbl:longitude":150.200346,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Surfside"
@@ -41,12 +47,15 @@
         102049609
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12181"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931989
     ],
     "wof:country":"AU",
-    "wof:geomhash":"3dd32d66e179b9e598e204caff9ba84d",
+    "wof:geomhash":"21cac4f0e06b249c89861360e68bc763",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404226331,
-    "wof:lastmodified":1566602013,
+    "wof:lastmodified":1695877139,
     "wof:name":"Surfside",
     "wof:parent_id":102049609,
     "wof:placetype":"localadmin",

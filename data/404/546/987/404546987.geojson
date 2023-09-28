@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.040906,
-    "geom:area_square_m":422129968.650806,
+    "geom:area_square_m":422129968.650804,
     "geom:bbox":"116.064179264,-33.5524897285,116.389155808,-33.3043390165",
     "geom:latitude":-33.430733,
     "geom:longitude":116.257722,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.421475,
     "lbl:longitude":116.268771,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Cardiff"
@@ -380,9 +386,12 @@
         102048673
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50133"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"a0cbf1d0038e1ab36eaafb3a959fd528",
+    "wof:geomhash":"40a8f160db87765e112fb34880eeab94",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -394,7 +403,7 @@
         }
     ],
     "wof:id":404546987,
-    "wof:lastmodified":1566603150,
+    "wof:lastmodified":1695877790,
     "wof:name":"Cardiff",
     "wof:parent_id":102048673,
     "wof:placetype":"localadmin",

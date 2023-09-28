@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001224,
-    "geom:area_square_m":13413797.831698,
+    "geom:area_square_m":13413797.831689,
     "geom:bbox":"153.253841632,-27.6064850555,153.31787024,-27.5631949815",
     "geom:latitude":-27.587123,
     "geom:longitude":153.286783,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.58987,
     "lbl:longitude":153.286787,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Victoria Point"
@@ -54,12 +60,15 @@
         102048569
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31704"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935551
     ],
     "wof:country":"AU",
-    "wof:geomhash":"eaa5054d2c2eca252a19aa2c1bb34b69",
+    "wof:geomhash":"e208c06cf561459e1841d78b4f123d33",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -72,7 +81,7 @@
         }
     ],
     "wof:id":404544541,
-    "wof:lastmodified":1566602203,
+    "wof:lastmodified":1695877246,
     "wof:name":"Victoria Point",
     "wof:parent_id":102048569,
     "wof:placetype":"localadmin",

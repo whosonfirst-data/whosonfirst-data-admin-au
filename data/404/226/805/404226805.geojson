@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002511,
-    "geom:area_square_m":25774032.418603,
+    "geom:area_square_m":25774032.418577,
     "geom:bbox":"150.609955712,-33.9297710325,150.680255008,-33.8417753385",
     "geom:latitude":-33.877546,
     "geom:longitude":150.642718,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.862846,
     "lbl:longitude":150.654947,
     "lbl:max_zoom":18.0,
@@ -49,10 +55,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC12391",
         "wd:id":"Q7962961"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"019d3ea6a805b8ecea626629c7a0403d",
+    "wof:geomhash":"6ceeb4b5e0034aebd9198159048e762d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -65,7 +73,7 @@
         }
     ],
     "wof:id":404226805,
-    "wof:lastmodified":1566602040,
+    "wof:lastmodified":1695877907,
     "wof:name":"Wallacia",
     "wof:parent_id":102048677,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008463,
-    "geom:area_square_m":91537515.973344,
+    "geom:area_square_m":91537515.973636,
     "geom:bbox":"153.162923008,-29.036054999,153.293422016,-28.931118078",
     "geom:latitude":-28.990209,
     "geom:longitude":153.229752,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.988573,
     "lbl:longitude":153.235018,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Coraki"
@@ -38,9 +44,12 @@
         102049223
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10615"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"561eb374a1eab823899030ab991e29fa",
+    "wof:geomhash":"c6ec7a2b4f04977330f1f8833e7e9017",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404222809,
-    "wof:lastmodified":1566602801,
+    "wof:lastmodified":1695877593,
     "wof:name":"Coraki",
     "wof:parent_id":102049223,
     "wof:placetype":"localadmin",

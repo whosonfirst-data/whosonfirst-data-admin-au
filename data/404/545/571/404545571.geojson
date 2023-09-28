@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005651,
-    "geom:area_square_m":57123889.01058,
+    "geom:area_square_m":57123889.010614,
     "geom:bbox":"138.607119008,-35.2105627735,138.713390656,-35.118563735",
     "geom:latitude":-35.161829,
     "geom:longitude":138.666643,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.156484,
     "lbl:longitude":138.670253,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kangarilla"
@@ -39,9 +45,12 @@
         102048473
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40325"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"e1fea4ebce64dd6105971d4fdd8c5894",
+    "wof:geomhash":"fe95deb2255a1437c55d34e06f6940cb",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":404545571,
-    "wof:lastmodified":1566602251,
+    "wof:lastmodified":1695877266,
     "wof:name":"Kangarilla",
     "wof:parent_id":102048473,
     "wof:placetype":"localadmin",

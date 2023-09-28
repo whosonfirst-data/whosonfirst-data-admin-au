@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003152,
-    "geom:area_square_m":32106446.686414,
+    "geom:area_square_m":32106446.686465,
     "geom:bbox":"150.681695936,-34.5547382175,150.78917,-34.494384872",
     "geom:latitude":-34.528736,
     "geom:longitude":150.74211,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.531112,
     "lbl:longitude":150.742122,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Marshall Mount"
@@ -38,9 +44,12 @@
         102048853
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11478"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"02754f0925e708a86e0ce3e9bff22a3c",
+    "wof:geomhash":"a2db502398e35bb08f3e401c9134271c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404224751,
-    "wof:lastmodified":1566602613,
+    "wof:lastmodified":1695877483,
     "wof:name":"Marshall Mount",
     "wof:parent_id":102048853,
     "wof:placetype":"localadmin",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003883,
-    "geom:area_square_m":40321642.490429,
+    "geom:area_square_m":40321642.490493,
     "geom:bbox":"151.264907008,-32.918931273,151.345075008,-32.8266879975",
     "geom:latitude":-32.875231,
     "geom:longitude":151.30528,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.889373,
     "lbl:longitude":151.315301,
     "lbl:max_zoom":18.0,
@@ -48,10 +54,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC11634",
         "wd:id":"Q6924444"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"f3d24a2605c60846e4ee9e4eeb023187",
+    "wof:geomhash":"70fae02a4fdfe8b8a366f492d246380d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -63,7 +71,7 @@
         }
     ],
     "wof:id":404225101,
-    "wof:lastmodified":1566602708,
+    "wof:lastmodified":1695877991,
     "wof:name":"Mount View",
     "wof:parent_id":102048575,
     "wof:placetype":"localadmin",

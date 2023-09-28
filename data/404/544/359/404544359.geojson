@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001081,
-    "geom:area_square_m":11990279.411039,
+    "geom:area_square_m":11990279.410999,
     "geom:bbox":"152.5653424,-26.21677055,152.612462176,-26.1691039865",
     "geom:latitude":-26.192158,
     "geom:longitude":152.58969,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-26.197343,
     "lbl:longitude":152.588089,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "The Palms"
@@ -38,12 +44,15 @@
         102049393
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31617"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935459
     ],
     "wof:country":"AU",
-    "wof:geomhash":"466ca72b9b21413452a6cd689da56181",
+    "wof:geomhash":"eff4a42b8235985c8a6c0d565de25782",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404544359,
-    "wof:lastmodified":1566602179,
+    "wof:lastmodified":1695877233,
     "wof:name":"The Palms",
     "wof:parent_id":102049393,
     "wof:placetype":"localadmin",

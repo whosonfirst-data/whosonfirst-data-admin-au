@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.175495,
-    "geom:area_square_m":1801511095.060498,
+    "geom:area_square_m":1801511095.061023,
     "geom:bbox":"145.908748992,-34.145350219,146.492732544,-33.5781102675",
     "geom:latitude":-33.882849,
     "geom:longitude":146.162761,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.823134,
     "lbl:longitude":146.133905,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Rankins Springs"
@@ -50,9 +56,12 @@
         102049179
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11946"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"fa234efe8154adb4a568ff17ef3471b6",
+    "wof:geomhash":"038c18b838071281eee063d6833c7366",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":404225803,
-    "wof:lastmodified":1566602683,
+    "wof:lastmodified":1695877521,
     "wof:name":"Rankins Springs",
     "wof:parent_id":102049179,
     "wof:placetype":"localadmin",

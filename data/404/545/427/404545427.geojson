@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000129,
-    "geom:area_square_m":1317631.231689,
+    "geom:area_square_m":1317612.468913,
     "geom:bbox":"138.919342,-34.465108,138.936776,-34.449099",
     "geom:latitude":-34.45705,
     "geom:longitude":138.92717,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.458225,
     "lbl:longitude":138.924143,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u063a\u0631\u064a\u0646\u0648\u0643"
@@ -185,12 +191,15 @@
         102049171
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40259"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101936089
     ],
     "wof:country":"AU",
-    "wof:geomhash":"dc32856072369e4cad244eeda790adc1",
+    "wof:geomhash":"3a8eb312df9bc5bf4c49f06d48e1ce9a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -202,7 +211,7 @@
         }
     ],
     "wof:id":404545427,
-    "wof:lastmodified":1636494626,
+    "wof:lastmodified":1695877854,
     "wof:name":"Greenock",
     "wof:parent_id":102049171,
     "wof:placetype":"localadmin",

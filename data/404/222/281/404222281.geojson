@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.173279,
-    "geom:area_square_m":1853381710.155954,
+    "geom:area_square_m":1853381710.155147,
     "geom:bbox":"150.635822016,-30.295240997,151.326833632,-29.8974045465",
     "geom:latitude":-30.116749,
     "geom:longitude":150.954671,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-30.119882,
     "lbl:longitude":150.948313,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bundarra"
@@ -38,9 +44,12 @@
         102049247
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10381"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"8b3fcf78ffc8157a2e5e21f875c83c7e",
+    "wof:geomhash":"64c1d23634003c9e4128f56d2f34fab0",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404222281,
-    "wof:lastmodified":1566602762,
+    "wof:lastmodified":1695877568,
     "wof:name":"Bundarra",
     "wof:parent_id":102049247,
     "wof:placetype":"localadmin",

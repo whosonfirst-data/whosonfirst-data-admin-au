@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029926,
-    "geom:area_square_m":302490924.107655,
+    "geom:area_square_m":302490924.107482,
     "geom:bbox":"147.449450496,-35.266418991,147.798770592,-35.0904996975",
     "geom:latitude":-35.16916,
     "geom:longitude":147.61245,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.185991,
     "lbl:longitude":147.571328,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Borambola"
@@ -38,9 +44,12 @@
         102049075
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10299"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"227cfc7785b2f7069b1d74a558593009",
+    "wof:geomhash":"88c522ad49093d55a9c68e3dbfaeeebd",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404222097,
-    "wof:lastmodified":1566602768,
+    "wof:lastmodified":1695877571,
     "wof:name":"Borambola",
     "wof:parent_id":102049075,
     "wof:placetype":"localadmin",

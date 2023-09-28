@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":29.773447,
-    "geom:area_square_m":329316415329.417847,
+    "geom:area_square_m":329316415329.416565,
     "geom:bbox":"121.586907456,-29.033055039,129.001848608,-23.4319193925",
     "geom:latitude":-26.510526,
     "geom:longitude":126.192881,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-26.444236,
     "lbl:longitude":126.86508,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Gibson Desert South"
@@ -38,9 +44,12 @@
         102048691
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50281"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"fc7f8ff80acf1c48dc46e4a1b5432976",
+    "wof:geomhash":"e037ae65350fde9a4c2a79ca091f3224",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404547315,
-    "wof:lastmodified":1566602945,
+    "wof:lastmodified":1695877685,
     "wof:name":"Gibson Desert South",
     "wof:parent_id":102048691,
     "wof:placetype":"localadmin",

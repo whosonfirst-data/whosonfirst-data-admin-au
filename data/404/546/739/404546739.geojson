@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002923,
-    "geom:area_square_m":29859572.841729,
+    "geom:area_square_m":29859572.841631,
     "geom:bbox":"115.087999008,-34.346681094,115.17306784,-34.2705059935",
     "geom:latitude":-34.307411,
     "geom:longitude":115.134711,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.313401,
     "lbl:longitude":115.144718,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0623\u0648\u063a\u0633\u062a\u0627"
@@ -161,9 +167,12 @@
         102048475
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50023"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"ad89777b196ba28a811c8e5840f61cdb",
+    "wof:geomhash":"3ec11037eb20b989435f4c5d051dacd1",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -175,7 +184,7 @@
         }
     ],
     "wof:id":404546739,
-    "wof:lastmodified":1566603103,
+    "wof:lastmodified":1695877771,
     "wof:name":"Augusta",
     "wof:parent_id":102048475,
     "wof:placetype":"localadmin",

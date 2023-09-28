@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010047,
-    "geom:area_square_m":104908021.046995,
+    "geom:area_square_m":104908021.047053,
     "geom:bbox":"115.914938016,-32.4398430075,116.104405984,-32.332352513",
     "geom:latitude":-32.385431,
     "geom:longitude":116.008075,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.375175,
     "lbl:longitude":115.992265,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Serpentine"
@@ -74,9 +80,12 @@
         102049507
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50702"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"185cfc7d71c98345b84f8c4dc72bffc3",
+    "wof:geomhash":"e065959addf93d5e5abb8427eeb3404d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -88,7 +97,7 @@
         }
     ],
     "wof:id":404548255,
-    "wof:lastmodified":1566603226,
+    "wof:lastmodified":1695877830,
     "wof:name":"Serpentine",
     "wof:parent_id":102049507,
     "wof:placetype":"localadmin",

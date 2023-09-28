@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001324,
-    "geom:area_square_m":12262849.137387,
+    "geom:area_square_m":12262849.137391,
     "geom:bbox":"147.064149248,-41.5026093915,147.140090976,-41.4632537495",
     "geom:latitude":-41.481003,
     "geom:longitude":147.104064,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-41.479003,
     "lbl:longitude":147.103486,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Prospect Vale"
@@ -38,12 +44,15 @@
         102048535
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60287"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938227
     ],
     "wof:country":"AU",
-    "wof:geomhash":"6b3e8db763ef31a617732f75268a2f38",
+    "wof:geomhash":"e9b20b82370f5c7233480e4ce5293fc6",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404549315,
-    "wof:lastmodified":1566602859,
+    "wof:lastmodified":1695877632,
     "wof:name":"Prospect Vale",
     "wof:parent_id":102048535,
     "wof:placetype":"localadmin",

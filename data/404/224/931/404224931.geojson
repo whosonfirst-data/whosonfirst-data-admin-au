@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013734,
-    "geom:area_square_m":146230556.992351,
+    "geom:area_square_m":146230556.992408,
     "geom:bbox":"152.656029664,-30.6204159965,152.8996528,-30.522621093",
     "geom:latitude":-30.565828,
     "geom:longitude":152.784857,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-30.561922,
     "lbl:longitude":152.764657,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Missabotti"
@@ -38,9 +44,12 @@
         102049433
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11558"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"0e4840686060a0de616fad40cbe6cf8d",
+    "wof:geomhash":"d1b1fe6f25a4f7dad39120cfb968304f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404224931,
-    "wof:lastmodified":1566602570,
+    "wof:lastmodified":1695877459,
     "wof:name":"Missabotti",
     "wof:parent_id":102049433,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.044176,
-    "geom:area_square_m":447908515.377366,
+    "geom:area_square_m":447908515.377459,
     "geom:bbox":"146.829157536,-35.0485059925,147.163468992,-34.8081096665",
     "geom:latitude":-34.917735,
     "geom:longitude":147.009711,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.907965,
     "lbl:longitude":147.026131,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Currawarna"
@@ -44,9 +50,12 @@
         102049075
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10674"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"8654aba54aa3972f97778955f688bb22",
+    "wof:geomhash":"9a4e7a45e13b8fb909e4b6cb6b0ed6b6",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404222941,
-    "wof:lastmodified":1566602774,
+    "wof:lastmodified":1695877576,
     "wof:name":"Currawarna",
     "wof:parent_id":102049075,
     "wof:placetype":"localadmin",

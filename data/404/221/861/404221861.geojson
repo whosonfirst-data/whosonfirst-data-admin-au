@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022389,
-    "geom:area_square_m":224918705.260242,
+    "geom:area_square_m":224918705.26043,
     "geom:bbox":"145.659479872,-35.77452915,145.844524096,-35.537709947",
     "geom:latitude":-35.666925,
     "geom:longitude":145.745046,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.687223,
     "lbl:longitude":145.751307,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Berrigan"
@@ -47,9 +53,12 @@
         102048823
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10194"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"d27df11b0a17defe843ccc9d41c168a2",
+    "wof:geomhash":"ae5e908374a316ad17b8d2f3c51023c9",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":404221861,
-    "wof:lastmodified":1566601977,
+    "wof:lastmodified":1695877123,
     "wof:name":"Berrigan",
     "wof:parent_id":102048823,
     "wof:placetype":"localadmin",

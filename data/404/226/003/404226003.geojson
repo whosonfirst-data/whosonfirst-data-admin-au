@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000221,
-    "geom:area_square_m":2282646.748548,
+    "geom:area_square_m":2282646.748545,
     "geom:bbox":"151.507566496,-33.2225350135,151.533409408,-33.2069389585",
     "geom:latitude":-33.21469,
     "geom:longitude":151.521016,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.213595,
     "lbl:longitude":151.520819,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "San Remo"
@@ -56,12 +62,15 @@
         102049097
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12035"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931799
     ],
     "wof:country":"AU",
-    "wof:geomhash":"9aa54c135ce9e7f62fb1a181e2dcdab2",
+    "wof:geomhash":"dcb9637272c2f2275af8db4a6336a0f9",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -73,7 +82,7 @@
         }
     ],
     "wof:id":404226003,
-    "wof:lastmodified":1566602072,
+    "wof:lastmodified":1695877175,
     "wof:name":"San Remo",
     "wof:parent_id":102049097,
     "wof:placetype":"localadmin",

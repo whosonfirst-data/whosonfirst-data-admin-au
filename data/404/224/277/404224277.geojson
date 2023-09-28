@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000481,
-    "geom:area_square_m":4926306.207234,
+    "geom:area_square_m":4926306.207223,
     "geom:bbox":"150.694564,-34.054571977,150.724527776,-34.0196799965",
     "geom:latitude":-34.038784,
     "geom:longitude":150.711099,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.039748,
     "lbl:longitude":150.711336,
     "lbl:max_zoom":18.0,
@@ -61,10 +67,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC11268",
         "wd:id":"Q6415666"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"5a33318c587323e23a8be1789d6faea9",
+    "wof:geomhash":"b2acc097904b5a361cf57c02ece1faec",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -77,7 +85,7 @@
         }
     ],
     "wof:id":404224277,
-    "wof:lastmodified":1566602621,
+    "wof:lastmodified":1695877980,
     "wof:name":"Kirkham",
     "wof:parent_id":102048421,
     "wof:placetype":"localadmin",

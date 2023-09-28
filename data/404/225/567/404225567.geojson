@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000113,
-    "geom:area_square_m":1166609.731679,
+    "geom:area_square_m":1166609.731683,
     "geom:bbox":"150.9094,-33.7312456825,150.926468832,-33.7191782435",
     "geom:latitude":-33.725095,
     "geom:longitude":150.916995,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.725609,
     "lbl:longitude":150.91628,
     "lbl:max_zoom":18.0,
@@ -46,13 +52,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC11841",
         "wd:id":"Q7138602"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931553
     ],
     "wof:country":"AU",
-    "wof:geomhash":"0b5de7d67f7031a2f31d710e1e3d0b2c",
+    "wof:geomhash":"73fa3633e6ebc4863cc1089368ce0bd5",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -65,7 +73,7 @@
         }
     ],
     "wof:id":404225567,
-    "wof:lastmodified":1566602660,
+    "wof:lastmodified":1695877984,
     "wof:name":"Parklea",
     "wof:parent_id":102048555,
     "wof:placetype":"localadmin",

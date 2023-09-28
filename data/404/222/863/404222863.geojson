@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017215,
-    "geom:area_square_m":182045345.03618,
+    "geom:area_square_m":182045345.035809,
     "geom:bbox":"152.851832,-31.3104890845,153.004570368,-31.1175899915",
     "geom:latitude":-31.21497,
     "geom:longitude":152.924561,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.207079,
     "lbl:longitude":152.923121,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Crescent Head"
@@ -38,9 +44,12 @@
         102048527
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10639"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"1b63431bde9198c5e4deaa00c871ea0b",
+    "wof:geomhash":"414441248016d63e56f77c6a65d5c2e4",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404222863,
-    "wof:lastmodified":1566602809,
+    "wof:lastmodified":1695877598,
     "wof:name":"Crescent Head",
     "wof:parent_id":102048527,
     "wof:placetype":"localadmin",

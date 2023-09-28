@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001938,
-    "geom:area_square_m":18040630.059021,
+    "geom:area_square_m":18040630.059019,
     "geom:bbox":"146.055677504,-41.172123967,146.167960512,-41.1195749945",
     "geom:latitude":-41.149155,
     "geom:longitude":146.119013,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-41.14493,
     "lbl:longitude":146.115155,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "West Ulverstone"
@@ -38,9 +44,12 @@
         102049415
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60398"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"287302e18344d43d181c67c7c0101258",
+    "wof:geomhash":"13bf8e9d272b96751a2d6801f3217a83",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404549565,
-    "wof:lastmodified":1566602870,
+    "wof:lastmodified":1695877639,
     "wof:name":"West Ulverstone",
     "wof:parent_id":102049415,
     "wof:placetype":"localadmin",

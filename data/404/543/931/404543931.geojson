@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.169174,
-    "geom:area_square_m":1879211576.093872,
+    "geom:area_square_m":1879211576.093506,
     "geom:bbox":"149.945544992,-26.4405699895,150.41532,-25.7788480035",
     "geom:latitude":-26.058694,
     "geom:longitude":150.210181,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-25.963535,
     "lbl:longitude":150.174739,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Roche Creek"
@@ -38,9 +44,12 @@
         102048423
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31412"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"38272f91d9807f2618ac19133f4ade0d",
+    "wof:geomhash":"af8ce1878e7c1315d3d2442fc85ce800",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404543931,
-    "wof:lastmodified":1566602091,
+    "wof:lastmodified":1695877188,
     "wof:name":"Roche Creek",
     "wof:parent_id":102048423,
     "wof:placetype":"localadmin",

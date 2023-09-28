@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000041,
-    "geom:area_square_m":414743.438378,
+    "geom:area_square_m":414726.432277,
     "geom:bbox":"147.509426,-35.21162,147.520638,-35.205773",
     "geom:latitude":-35.208369,
     "geom:longitude":147.515244,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.208139,
     "lbl:longitude":147.515239,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ladysmith"
@@ -68,12 +74,15 @@
         102049075
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11306"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101930959
     ],
     "wof:country":"AU",
-    "wof:geomhash":"980a9760cc0dc56d29d8a0c28e3d9045",
+    "wof:geomhash":"074077c5fe67e1b4f5659b1521bea80b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -85,7 +94,7 @@
         }
     ],
     "wof:id":404224363,
-    "wof:lastmodified":1636494646,
+    "wof:lastmodified":1695877863,
     "wof:name":"Ladysmith",
     "wof:parent_id":102049075,
     "wof:placetype":"localadmin",

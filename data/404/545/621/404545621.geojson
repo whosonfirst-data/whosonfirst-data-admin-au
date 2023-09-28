@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0001,
-    "geom:area_square_m":1017836.478755,
+    "geom:area_square_m":1017836.478752,
     "geom:bbox":"138.608610496,-34.9773499975,138.618451072,-34.965008814",
     "geom:latitude":-34.970844,
     "geom:longitude":138.61378,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.97077,
     "lbl:longitude":138.613685,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kingswood"
@@ -72,12 +78,15 @@
         102049629
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40349"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101936203
     ],
     "wof:country":"AU",
-    "wof:geomhash":"6ce7cfe113c68f4816f4f84148a0570c",
+    "wof:geomhash":"1d2ea7d87ecc3a293e8804cbda314ec5",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -90,7 +99,7 @@
         }
     ],
     "wof:id":404545621,
-    "wof:lastmodified":1566602216,
+    "wof:lastmodified":1695877251,
     "wof:name":"Kingswood",
     "wof:parent_id":102049629,
     "wof:placetype":"localadmin",

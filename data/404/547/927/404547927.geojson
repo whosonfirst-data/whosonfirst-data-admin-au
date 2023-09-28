@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.089893,
-    "geom:area_square_m":921656231.255599,
+    "geom:area_square_m":921656231.255674,
     "geom:bbox":"116.719952544,-34.2179655125,117.063849984,-33.755174008",
     "geom:latitude":-33.986348,
     "geom:longitude":116.890429,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.956162,
     "lbl:longitude":116.83571,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Muradup"
@@ -38,9 +44,12 @@
         102048683
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50553"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"9c35f576f8052659122e9a153bf78e64",
+    "wof:geomhash":"f9ae235590b95572e480501505f91e5e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404547927,
-    "wof:lastmodified":1566602973,
+    "wof:lastmodified":1695877703,
     "wof:name":"Muradup",
     "wof:parent_id":102048683,
     "wof:placetype":"localadmin",

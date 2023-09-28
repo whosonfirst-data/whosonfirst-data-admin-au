@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006707,
-    "geom:area_square_m":67805708.727863,
+    "geom:area_square_m":67805708.727799,
     "geom:bbox":"150.590986208,-35.2008719925,150.772826016,-35.1123210025",
     "geom:latitude":-35.152474,
     "geom:longitude":150.690522,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.145494,
     "lbl:longitude":150.697029,
     "lbl:max_zoom":17.0,
@@ -79,11 +85,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC90004",
         "fips:code":"AS01",
         "hasc:id":"AU.JB"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"c28c53c4d4371231773e5e59f21f0d79",
+    "wof:geomhash":"1db91454230777b96c7fc2b93805878f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -93,7 +101,7 @@
         }
     ],
     "wof:id":404550155,
-    "wof:lastmodified":1566601929,
+    "wof:lastmodified":1695877892,
     "wof:name":"Jervis Bay",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005597,
-    "geom:area_square_m":54736914.834116,
+    "geom:area_square_m":54736914.834149,
     "geom:bbox":"145.418610784,-37.7675441955,145.51620672,-37.6902877515",
     "geom:latitude":-37.730119,
     "geom:longitude":145.465488,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.732235,
     "lbl:longitude":145.464578,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Gruyere"
@@ -39,9 +45,12 @@
         102048969
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20576"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"d3fcbcf993b07034e27c408894ed7eda",
+    "wof:geomhash":"e8560851c8138b73d69a14ae9c501689",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":404538775,
-    "wof:lastmodified":1566602480,
+    "wof:lastmodified":1695877401,
     "wof:name":"Gruyere",
     "wof:parent_id":102048969,
     "wof:placetype":"localadmin",

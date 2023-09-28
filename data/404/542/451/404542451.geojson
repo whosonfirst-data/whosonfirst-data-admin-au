@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001413,
-    "geom:area_square_m":15682330.06205,
+    "geom:area_square_m":15682254.418759,
     "geom:bbox":"152.635597,-26.207435,152.692228,-26.159559",
     "geom:latitude":-26.182947,
     "geom:longitude":152.665019,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-26.182874,
     "lbl:longitude":152.665451,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u063a\u0645\u0628\u064a\u0627"
@@ -98,12 +104,15 @@
         102049393
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30718"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934499
     ],
     "wof:country":"AU",
-    "wof:geomhash":"4c5c19562450823ee8f28de59a7fb1a9",
+    "wof:geomhash":"5390a8e9afa993194d658dec2fe81ed5",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -115,7 +124,7 @@
         }
     ],
     "wof:id":404542451,
-    "wof:lastmodified":1636494630,
+    "wof:lastmodified":1695877856,
     "wof:name":"Gympie",
     "wof:parent_id":102049393,
     "wof:placetype":"localadmin",

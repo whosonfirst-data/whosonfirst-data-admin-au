@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001139,
-    "geom:area_square_m":10622407.148528,
+    "geom:area_square_m":10622407.148507,
     "geom:bbox":"145.821904608,-41.077622008,145.8743392,-41.04141181",
     "geom:latitude":-41.059396,
     "geom:longitude":145.851389,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-41.058453,
     "lbl:longitude":145.851893,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "East Cam"
@@ -38,12 +44,15 @@
         102049367
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60098"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938083
     ],
     "wof:country":"AU",
-    "wof:geomhash":"d300fb8b329cb3211d5acf6d212bb155",
+    "wof:geomhash":"16b097d656c9bd01fc4e66ad09c8775d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404548889,
-    "wof:lastmodified":1566603169,
+    "wof:lastmodified":1695877799,
     "wof:name":"East Cam",
     "wof:parent_id":102049367,
     "wof:placetype":"localadmin",

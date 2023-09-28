@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000632,
-    "geom:area_square_m":6562455.600983,
+    "geom:area_square_m":6562455.600967,
     "geom:bbox":"151.673874016,-32.892421106,151.707415968,-32.8569480035",
     "geom:latitude":-32.878834,
     "geom:longitude":151.691047,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.879152,
     "lbl:longitude":151.6913,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Shortland"
@@ -42,12 +48,15 @@
         102048981
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12077"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931851
     ],
     "wof:country":"AU",
-    "wof:geomhash":"b06f002ad788d743918b94a23c3495e2",
+    "wof:geomhash":"261e90187e782283154bb5a5f7f34012",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -60,7 +69,7 @@
         }
     ],
     "wof:id":404226097,
-    "wof:lastmodified":1566602037,
+    "wof:lastmodified":1695877153,
     "wof:name":"Shortland",
     "wof:parent_id":102048981,
     "wof:placetype":"localadmin",

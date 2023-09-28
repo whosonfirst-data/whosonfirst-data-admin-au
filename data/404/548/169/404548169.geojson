@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000772,
-    "geom:area_square_m":7948569.903797,
+    "geom:area_square_m":7948569.903803,
     "geom:bbox":"115.058493984,-33.6456829975,115.105068,-33.620391999",
     "geom:latitude":-33.633595,
     "geom:longitude":115.08386,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.633141,
     "lbl:longitude":115.085758,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Quedjinup"
@@ -39,9 +45,12 @@
         102048623
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50664"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"2673256ae8d6a3427110324f11e6292f",
+    "wof:geomhash":"0de3452610f17fa0f36eea230d6144c1",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":404548169,
-    "wof:lastmodified":1566603166,
+    "wof:lastmodified":1695877797,
     "wof:name":"Quedjinup",
     "wof:parent_id":102048623,
     "wof:placetype":"localadmin",

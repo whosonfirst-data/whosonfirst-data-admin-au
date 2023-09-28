@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00073,
-    "geom:area_square_m":7652925.086723,
+    "geom:area_square_m":7652925.086717,
     "geom:bbox":"115.977228896,-32.0236101385,116.028271008,-31.987286998",
     "geom:latitude":-32.006716,
     "geom:longitude":116.000461,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.00293,
     "lbl:longitude":115.98949,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Wattle Grove"
@@ -42,12 +48,15 @@
         102048953
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50815"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937913
     ],
     "wof:country":"AU",
-    "wof:geomhash":"db8bb20d34f642d38121cbc9039bcd11",
+    "wof:geomhash":"1c1df82d9ec4a9636815bd2cd1d6cc24",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -60,7 +69,7 @@
         }
     ],
     "wof:id":404548507,
-    "wof:lastmodified":1566603200,
+    "wof:lastmodified":1695877816,
     "wof:name":"Wattle Grove",
     "wof:parent_id":102048953,
     "wof:placetype":"localadmin",

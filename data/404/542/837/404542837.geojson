@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.072034,
-    "geom:area_square_m":793243935.09417,
+    "geom:area_square_m":793243935.094302,
     "geom:bbox":"150.38975312,-27.200771157,150.889600096,-26.940668002",
     "geom:latitude":-27.055641,
     "geom:longitude":150.671473,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.069802,
     "lbl:longitude":150.713181,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kogan"
@@ -41,9 +47,12 @@
         102048423
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30898"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"10ae5275b410618abb41ce27299bd24e",
+    "wof:geomhash":"1f8d3cbddf3ab21ab9b0a93a9532dd0b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404542837,
-    "wof:lastmodified":1566602307,
+    "wof:lastmodified":1695877299,
     "wof:name":"Kogan",
     "wof:parent_id":102048423,
     "wof:placetype":"localadmin",

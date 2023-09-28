@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000178,
-    "geom:area_square_m":1841519.888842,
+    "geom:area_square_m":1841519.888841,
     "geom:bbox":"115.728787264,-33.3177001235,115.742042624,-33.295274886",
     "geom:latitude":-33.306171,
     "geom:longitude":115.735001,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.306064,
     "lbl:longitude":115.735128,
     "lbl:max_zoom":18.0,
@@ -45,13 +51,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC50500",
         "wd:id":"Q6858590"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937503
     ],
     "wof:country":"AU",
-    "wof:geomhash":"ac0a8c94cc96a972a6498e193b6bf560",
+    "wof:geomhash":"2e874c93c19ab9af977b03f770b615ee",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -63,7 +71,7 @@
         }
     ],
     "wof:id":404547807,
-    "wof:lastmodified":1566602964,
+    "wof:lastmodified":1695878021,
     "wof:name":"Millbridge",
     "wof:parent_id":102049295,
     "wof:placetype":"localadmin",

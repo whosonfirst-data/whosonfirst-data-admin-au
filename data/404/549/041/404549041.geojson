@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004194,
-    "geom:area_square_m":37910116.740536,
+    "geom:area_square_m":37910116.74061,
     "geom:bbox":"146.999454016,-43.065378003,147.109364,-42.995481007",
     "geom:latitude":-43.029353,
     "geom:longitude":147.058604,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-43.024773,
     "lbl:longitude":147.071972,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Huonville"
@@ -65,9 +71,12 @@
         102048679
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60165"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"efba1936bc41d0118d60e179ac3c33e7",
+    "wof:geomhash":"8584219a6d1545535a5e808387bd1d28",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -79,7 +88,7 @@
         }
     ],
     "wof:id":404549041,
-    "wof:lastmodified":1566602835,
+    "wof:lastmodified":1695877616,
     "wof:name":"Huonville",
     "wof:parent_id":102048679,
     "wof:placetype":"localadmin",

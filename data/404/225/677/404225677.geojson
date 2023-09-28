@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000109,
-    "geom:area_square_m":1133667.27681,
+    "geom:area_square_m":1133667.276807,
     "geom:bbox":"151.576868896,-33.130813734,151.590516128,-33.102650962",
     "geom:latitude":-33.120257,
     "geom:longitude":151.584356,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.121128,
     "lbl:longitude":151.587285,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Point Wolstoncroft"
@@ -38,12 +44,15 @@
         102049097
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11890"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931613
     ],
     "wof:country":"AU",
-    "wof:geomhash":"f64dac2fe69a008228b55ea0e65d1d73",
+    "wof:geomhash":"b5d4f396fd930f48f2be119873254f8c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404225677,
-    "wof:lastmodified":1566602721,
+    "wof:lastmodified":1695877542,
     "wof:name":"Point Wolstoncroft",
     "wof:parent_id":102049097,
     "wof:placetype":"localadmin",

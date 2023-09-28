@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000363,
-    "geom:area_square_m":3726202.860382,
+    "geom:area_square_m":3726202.860378,
     "geom:bbox":"150.848418112,-33.9306299135,150.87515952,-33.907824168",
     "geom:latitude":-33.918781,
     "geom:longitude":150.863144,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.918154,
     "lbl:longitude":150.862888,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Hinchinbrook"
@@ -48,12 +54,15 @@
         102049387
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11116"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101930719
     ],
     "wof:country":"AU",
-    "wof:geomhash":"50321c3abad171bf3f81e9f9212d9dbc",
+    "wof:geomhash":"b594408d7ea3885dc5acf0be7979ccc7",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -66,7 +75,7 @@
         }
     ],
     "wof:id":404223935,
-    "wof:lastmodified":1566602533,
+    "wof:lastmodified":1695877433,
     "wof:name":"Hinchinbrook",
     "wof:parent_id":102049387,
     "wof:placetype":"localadmin",

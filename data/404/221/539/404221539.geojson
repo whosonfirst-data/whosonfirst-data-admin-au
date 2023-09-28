@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.09667,
-    "geom:area_square_m":985812328.400533,
+    "geom:area_square_m":985812328.400463,
     "geom:bbox":"147.08289856,-34.659750378,147.495328992,-34.234843599",
     "geom:latitude":-34.440637,
     "geom:longitude":147.284034,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.423976,
     "lbl:longitude":147.287167,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ariah Park"
@@ -56,9 +62,12 @@
         102048529
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10051"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"8b3d99127959712ba542e3d92559e443",
+    "wof:geomhash":"e91a4c3215a089f4e22ca73fec60eebd",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -70,7 +79,7 @@
         }
     ],
     "wof:id":404221539,
-    "wof:lastmodified":1566601988,
+    "wof:lastmodified":1695877128,
     "wof:name":"Ariah Park",
     "wof:parent_id":102048529,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.046555,
-    "geom:area_square_m":483563816.903615,
+    "geom:area_square_m":483563816.903623,
     "geom:bbox":"149.491168992,-32.9950651555,149.790718016,-32.718775",
     "geom:latitude":-32.858264,
     "geom:longitude":149.627278,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.874202,
     "lbl:longitude":149.654407,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Windeyer"
@@ -47,9 +53,12 @@
         102049261
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12516"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"828e44f4131376a6dd21afacde78e160",
+    "wof:geomhash":"8e25a06d0aa98b83552c0675994febc4",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":404227085,
-    "wof:lastmodified":1566601941,
+    "wof:lastmodified":1695877104,
     "wof:name":"Windeyer",
     "wof:parent_id":102049261,
     "wof:placetype":"localadmin",

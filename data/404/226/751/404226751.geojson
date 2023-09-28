@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000435,
-    "geom:area_square_m":4479079.664517,
+    "geom:area_square_m":4479079.664515,
     "geom:bbox":"150.5752128,-33.723107995,150.611300992,-33.697652994",
     "geom:latitude":-33.708938,
     "geom:longitude":150.59088,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.707435,
     "lbl:longitude":150.589653,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Valley Heights"
@@ -38,12 +44,15 @@
         102049627
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12367"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932187
     ],
     "wof:country":"AU",
-    "wof:geomhash":"772c9cad151fe9e14c3a00733521eed4",
+    "wof:geomhash":"8c3993dd0cf68d9aff46e251f41dfbbb",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404226751,
-    "wof:lastmodified":1566602055,
+    "wof:lastmodified":1695877164,
     "wof:name":"Valley Heights",
     "wof:parent_id":102049627,
     "wof:placetype":"localadmin",

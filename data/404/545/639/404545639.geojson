@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027382,
-    "geom:area_square_m":276279212.046098,
+    "geom:area_square_m":276279212.046035,
     "geom:bbox":"138.915319008,-35.397003979,139.158312128,-35.2340884835",
     "geom:latitude":-35.315404,
     "geom:longitude":139.050049,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.323859,
     "lbl:longitude":139.062193,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Langhorne Creek"
@@ -38,9 +44,12 @@
         102048815
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40358"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"4fc2720cf5d8680fc475a6cb5ae72805",
+    "wof:geomhash":"e560245f29d555948c7f5dca624ce586",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404545639,
-    "wof:lastmodified":1566602247,
+    "wof:lastmodified":1695877264,
     "wof:name":"Langhorne Creek",
     "wof:parent_id":102048815,
     "wof:placetype":"localadmin",

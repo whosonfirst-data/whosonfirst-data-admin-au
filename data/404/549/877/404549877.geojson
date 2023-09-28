@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000344,
-    "geom:area_square_m":3862443.611325,
+    "geom:area_square_m":3862443.61133,
     "geom:bbox":"134.0644184,-24.6893650215,134.088015008,-24.6684819995",
     "geom:latitude":-24.680231,
     "geom:longitude":134.075108,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-24.682107,
     "lbl:longitude":134.073703,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Titjikala"
@@ -41,12 +47,15 @@
         102048913
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC70185"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938649
     ],
     "wof:country":"AU",
-    "wof:geomhash":"a816d5a305f5eb186afa3565cb621641",
+    "wof:geomhash":"e32ede978b32c398a7e32900079c67c2",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404549877,
-    "wof:lastmodified":1566602878,
+    "wof:lastmodified":1695877643,
     "wof:name":"Titjikala",
     "wof:parent_id":102048913,
     "wof:placetype":"localadmin",

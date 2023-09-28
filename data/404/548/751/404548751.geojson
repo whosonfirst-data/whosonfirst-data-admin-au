@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000153,
-    "geom:area_square_m":1416786.320578,
+    "geom:area_square_m":1416786.320577,
     "geom:bbox":"146.92076752,-41.6550619345,146.951877152,-41.645940935",
     "geom:latitude":-41.650498,
     "geom:longitude":146.934707,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-41.650589,
     "lbl:longitude":146.934722,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0631\u0627\u0643\u0646\u064a\u0644"
@@ -113,12 +119,15 @@
         102048535
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60036"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938037
     ],
     "wof:country":"AU",
-    "wof:geomhash":"41627a60086da3ec1c028bb6e35b1c57",
+    "wof:geomhash":"4444540193b1fece0529af5c838876d3",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -130,7 +139,7 @@
         }
     ],
     "wof:id":404548751,
-    "wof:lastmodified":1566603199,
+    "wof:lastmodified":1695877816,
     "wof:name":"Bracknell",
     "wof:parent_id":102048535,
     "wof:placetype":"localadmin",

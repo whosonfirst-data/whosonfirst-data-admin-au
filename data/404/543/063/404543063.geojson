@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000172,
-    "geom:area_square_m":1882994.573925,
+    "geom:area_square_m":1882994.57391,
     "geom:bbox":"153.175008384,-27.4626817805,153.194716064,-27.4459625165",
     "geom:latitude":-27.455923,
     "geom:longitude":153.184754,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.456117,
     "lbl:longitude":153.184609,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Manly"
@@ -69,12 +75,15 @@
         102049495
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31003"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934771
     ],
     "wof:country":"AU",
-    "wof:geomhash":"d64f7c136e4ce8e145b825b83bc77897",
+    "wof:geomhash":"b83fe2da14e560d868a4601f0d5c024e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -87,7 +96,7 @@
         }
     ],
     "wof:id":404543063,
-    "wof:lastmodified":1566602110,
+    "wof:lastmodified":1695877196,
     "wof:name":"Manly",
     "wof:parent_id":102049495,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000456,
-    "geom:area_square_m":4978499.914327,
+    "geom:area_square_m":4978499.914331,
     "geom:bbox":"153.383802848,-27.9567533995,153.410691584,-27.9345509945",
     "geom:latitude":-27.946217,
     "geom:longitude":153.397931,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.945811,
     "lbl:longitude":153.397927,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0644\u0627\u0628\u0631\u0627\u062f\u0648\u0631"
@@ -147,12 +153,15 @@
         102049363
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30918"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934701
     ],
     "wof:country":"AU",
-    "wof:geomhash":"740c8fea769349261846a04b83ebd261",
+    "wof:geomhash":"a126499d5cdb06d9f4ad503dd6466c8f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -165,7 +174,7 @@
         }
     ],
     "wof:id":404542877,
-    "wof:lastmodified":1566602297,
+    "wof:lastmodified":1695877292,
     "wof:name":"Labrador",
     "wof:parent_id":102049363,
     "wof:placetype":"localadmin",

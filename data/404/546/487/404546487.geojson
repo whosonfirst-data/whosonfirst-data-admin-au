@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002892,
-    "geom:area_square_m":29408256.039735,
+    "geom:area_square_m":29408253.550779,
     "geom:bbox":"138.531425,-34.701017,138.605481,-34.634499",
     "geom:latitude":-34.662673,
     "geom:longitude":138.571403,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.663727,
     "lbl:longitude":138.570842,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Virgini\u00eb"
@@ -543,9 +549,12 @@
         102049603
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40753"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"2380aa40dafa427d233ac3ae12dcdee4",
+    "wof:geomhash":"f04c9813c6ae8a16606032f02c55d922",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -558,7 +567,7 @@
         }
     ],
     "wof:id":404546487,
-    "wof:lastmodified":1636494681,
+    "wof:lastmodified":1695877885,
     "wof:name":"Virginia",
     "wof:parent_id":102049603,
     "wof:placetype":"localadmin",

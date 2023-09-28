@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001093,
-    "geom:area_square_m":12075327.138508,
+    "geom:area_square_m":12075327.138495,
     "geom:bbox":"153.053192416,-26.6731188375,153.10557392,-26.6385008975",
     "geom:latitude":-26.654053,
     "geom:longitude":153.081126,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-26.654471,
     "lbl:longitude":153.080626,
     "lbl:max_zoom":18.0,
@@ -58,13 +64,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC31019",
         "wd:id":"Q6772344"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934793
     ],
     "wof:country":"AU",
-    "wof:geomhash":"eb48d35cf95b8cc27be1980ecd5a3556",
+    "wof:geomhash":"b349e65e8b2a2ef2e7de4161d84cd0af",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -77,7 +85,7 @@
         }
     ],
     "wof:id":404543091,
-    "wof:lastmodified":1566602105,
+    "wof:lastmodified":1695877916,
     "wof:name":"Maroochydore",
     "wof:parent_id":102049303,
     "wof:placetype":"localadmin",

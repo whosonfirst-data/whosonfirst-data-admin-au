@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000214,
-    "geom:area_square_m":2087560.972884,
+    "geom:area_square_m":2087560.972894,
     "geom:bbox":"148.08153888,-37.8420689665,148.109109856,-37.828981974",
     "geom:latitude":-37.835319,
     "geom:longitude":148.096591,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.835082,
     "lbl:longitude":148.096855,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Toorloo Arm"
@@ -38,12 +44,15 @@
         102049039
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21355"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101933637
     ],
     "wof:country":"AU",
-    "wof:geomhash":"1181f69a342fdcfc485b11aff8cab963",
+    "wof:geomhash":"ef156786c00111f4ada4bdc6689da2c0",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404540517,
-    "wof:lastmodified":1566603004,
+    "wof:lastmodified":1695877720,
     "wof:name":"Toorloo Arm",
     "wof:parent_id":102049039,
     "wof:placetype":"localadmin",

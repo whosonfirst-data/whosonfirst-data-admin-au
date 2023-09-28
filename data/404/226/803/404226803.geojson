@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000037,
-    "geom:area_square_m":388786.339196,
+    "geom:area_square_m":388786.339195,
     "geom:bbox":"152.563156416,-31.997264936,152.573229856,-31.9873516185",
     "geom:latitude":-31.992612,
     "geom:longitude":152.568352,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.994402,
     "lbl:longitude":152.570373,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Wallabi Point"
@@ -38,12 +44,15 @@
         102048833
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12390"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932215
     ],
     "wof:country":"AU",
-    "wof:geomhash":"77e4c4f12c602c8426076319090aa716",
+    "wof:geomhash":"fe83eb1f8c90f40fe829477ad7b304ea",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404226803,
-    "wof:lastmodified":1566602033,
+    "wof:lastmodified":1695877152,
     "wof:name":"Wallabi Point",
     "wof:parent_id":102048833,
     "wof:placetype":"localadmin",

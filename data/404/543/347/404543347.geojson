@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000763,
-    "geom:area_square_m":8900255.704446,
+    "geom:area_square_m":8900255.704444,
     "geom:bbox":"146.710598208,-19.292145033,146.754044064,-19.265022997",
     "geom:latitude":-19.278967,
     "geom:longitude":146.73367,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-19.275993,
     "lbl:longitude":146.734083,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mount Louisa"
@@ -38,12 +44,15 @@
         102048451
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31142"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934921
     ],
     "wof:country":"AU",
-    "wof:geomhash":"7be5d1b2587d8755a11720f6c93826aa",
+    "wof:geomhash":"019120c8e5f9f2ebba3d84ce09171f92",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404543347,
-    "wof:lastmodified":1566602117,
+    "wof:lastmodified":1695877200,
     "wof:name":"Mount Louisa",
     "wof:parent_id":102048451,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005896,
-    "geom:area_square_m":68091158.729704,
+    "geom:area_square_m":68091158.72969,
     "geom:bbox":"148.869492992,-20.973117008,148.983663008,-20.8755870245",
     "geom:latitude":-20.926709,
     "geom:longitude":148.92528,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-20.919271,
     "lbl:longitude":148.930911,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Seaforth"
@@ -56,9 +62,12 @@
         102048783
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31462"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"d4225a40f76c79f0dd714ad4c883cccf",
+    "wof:geomhash":"2add9c7184bf24db778c960bca890470",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -70,7 +79,7 @@
         }
     ],
     "wof:id":404544029,
-    "wof:lastmodified":1566602188,
+    "wof:lastmodified":1695877237,
     "wof:name":"Seaforth",
     "wof:parent_id":102048783,
     "wof:placetype":"localadmin",

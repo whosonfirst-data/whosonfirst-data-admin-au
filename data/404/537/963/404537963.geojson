@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001724,
-    "geom:area_square_m":16870641.493755,
+    "geom:area_square_m":16870641.493784,
     "geom:bbox":"145.02890336,-37.7291757875,145.103648928,-37.6764669935",
     "geom:latitude":-37.698249,
     "geom:longitude":145.059671,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.69547,
     "lbl:longitude":145.063341,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bundoora"
@@ -42,12 +48,15 @@
         102049337
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20212"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932669
     ],
     "wof:country":"AU",
-    "wof:geomhash":"8ff7bcc46c1845822c0562abaa106cb2",
+    "wof:geomhash":"0e7b149d7512c0fea8204807ab590420",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -60,7 +69,7 @@
         }
     ],
     "wof:id":404537963,
-    "wof:lastmodified":1566602322,
+    "wof:lastmodified":1695877307,
     "wof:name":"Bundoora",
     "wof:parent_id":102049337,
     "wof:placetype":"localadmin",

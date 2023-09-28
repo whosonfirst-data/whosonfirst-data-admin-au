@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001556,
-    "geom:area_square_m":16295117.599897,
+    "geom:area_square_m":16295117.599862,
     "geom:bbox":"115.737325664,-32.161510082,115.842222048,-32.116624975",
     "geom:latitude":-32.139039,
     "geom:longitude":115.802187,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.13752,
     "lbl:longitude":115.77691,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0648\u0646\u0633\u062a\u0631"
@@ -222,12 +228,15 @@
         102049397
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50552"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937565
     ],
     "wof:country":"AU",
-    "wof:geomhash":"cb21cea450435bdf28f47fb1d04a4797",
+    "wof:geomhash":"64efa56df59381e0b2f00b7d42c7ea5c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -240,7 +249,7 @@
         }
     ],
     "wof:id":404547925,
-    "wof:lastmodified":1566602948,
+    "wof:lastmodified":1695877687,
     "wof:name":"Munster",
     "wof:parent_id":102049397,
     "wof:placetype":"localadmin",

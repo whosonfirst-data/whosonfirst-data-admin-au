@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000206,
-    "geom:area_square_m":2117116.733259,
+    "geom:area_square_m":2117116.733267,
     "geom:bbox":"150.737108256,-33.7542032205,150.759736992,-33.739809832",
     "geom:latitude":-33.747099,
     "geom:longitude":150.747381,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.746052,
     "lbl:longitude":150.747603,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Werrington County"
@@ -39,12 +45,15 @@
         102048677
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12464"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932289
     ],
     "wof:country":"AU",
-    "wof:geomhash":"ac2ae916cb01d4e104be4966c6854934",
+    "wof:geomhash":"41e718e3e40b76db60645daa65fbb9e7",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404226969,
-    "wof:lastmodified":1566602058,
+    "wof:lastmodified":1695877167,
     "wof:name":"Werrington County",
     "wof:parent_id":102048677,
     "wof:placetype":"localadmin",

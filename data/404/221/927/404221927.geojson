@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.114101,
-    "geom:area_square_m":1201107455.902458,
+    "geom:area_square_m":1201107455.902042,
     "geom:bbox":"149.06385376,-31.812980997,149.674965184,-31.481981994",
     "geom:latitude":-31.644929,
     "geom:longitude":149.355832,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.638349,
     "lbl:longitude":149.284554,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Binnaway"
@@ -38,9 +44,12 @@
         102049559
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10223"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"e10547b7de0c7b82ac5ac7108b49ebaa",
+    "wof:geomhash":"caf6fbb32dabd30f1db7f0e5e4e621e6",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404221927,
-    "wof:lastmodified":1566602006,
+    "wof:lastmodified":1695877135,
     "wof:name":"Binnaway",
     "wof:parent_id":102049559,
     "wof:placetype":"localadmin",

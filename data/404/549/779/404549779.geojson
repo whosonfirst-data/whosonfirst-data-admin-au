@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000566,
-    "geom:area_square_m":6842644.217509,
+    "geom:area_square_m":6842644.21751,
     "geom:bbox":"134.213568992,-12.0776770005,134.24838,-12.0364678805",
     "geom:latitude":-12.055866,
     "geom:longitude":134.231141,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-12.055398,
     "lbl:longitude":134.227975,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Maningrida"
@@ -38,12 +44,15 @@
         102049147
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC70119"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938543
     ],
     "wof:country":"AU",
-    "wof:geomhash":"3b110866c05ea9513c2c73dccc6ed899",
+    "wof:geomhash":"2ca128730884c38aa2cebcefb5173837",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404549779,
-    "wof:lastmodified":1566602862,
+    "wof:lastmodified":1695877634,
     "wof:name":"Maningrida",
     "wof:parent_id":102049147,
     "wof:placetype":"localadmin",

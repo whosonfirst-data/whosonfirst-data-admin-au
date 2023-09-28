@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000492,
-    "geom:area_square_m":5061605.705085,
+    "geom:area_square_m":5061605.705084,
     "geom:bbox":"150.9177384,-33.754665998,150.953210912,-33.7206153605",
     "geom:latitude":-33.735684,
     "geom:longitude":150.934764,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.73403,
     "lbl:longitude":150.933555,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u063a\u0644\u064a\u0646\u0648\u0648\u062f"
@@ -99,12 +105,15 @@
         102048555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10979"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101930455
     ],
     "wof:country":"AU",
-    "wof:geomhash":"a9c9c82c4353cab35dd6de9664a891a4",
+    "wof:geomhash":"b822252fe3ea9da5256723573e673ec9",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -117,7 +126,7 @@
         }
     ],
     "wof:id":404223627,
-    "wof:lastmodified":1566602507,
+    "wof:lastmodified":1695877418,
     "wof:name":"Glenwood",
     "wof:parent_id":102048555,
     "wof:placetype":"localadmin",

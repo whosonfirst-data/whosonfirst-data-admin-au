@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001337,
-    "geom:area_square_m":14220834.813192,
+    "geom:area_square_m":14220834.81322,
     "geom:bbox":"152.88857,-30.689353009,152.945532992,-30.623610003",
     "geom:latitude":-30.657388,
     "geom:longitude":152.913985,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-30.643972,
     "lbl:longitude":152.902588,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tewinga"
@@ -38,9 +44,12 @@
         102049433
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12251"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"b1339aef10638a2b33673983226f7094",
+    "wof:geomhash":"a65abf72b32b42a919a6eb1606816756",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404226489,
-    "wof:lastmodified":1566602071,
+    "wof:lastmodified":1695877174,
     "wof:name":"Tewinga",
     "wof:parent_id":102049433,
     "wof:placetype":"localadmin",

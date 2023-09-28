@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004522,
-    "geom:area_square_m":49358817.422889,
+    "geom:area_square_m":49358817.422878,
     "geom:bbox":"152.939748992,-28.080596081,153.033641696,-27.9623409915",
     "geom:latitude":-28.016244,
     "geom:longitude":152.987772,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.008434,
     "lbl:longitude":152.987079,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Beaudesert"
@@ -47,9 +53,12 @@
         102048945
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30125"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"a2d20b451b9fc1b6f6ac4a8bfdeb1141",
+    "wof:geomhash":"38940660d7ddb16e61a57cd13ab934af",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":404541203,
-    "wof:lastmodified":1566603061,
+    "wof:lastmodified":1695877750,
     "wof:name":"Beaudesert",
     "wof:parent_id":102048945,
     "wof:placetype":"localadmin",

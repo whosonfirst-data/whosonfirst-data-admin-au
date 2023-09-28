@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000326,
-    "geom:area_square_m":3259291.129889,
+    "geom:area_square_m":3259291.129895,
     "geom:bbox":"146.99355,-36.1472050085,147.019881056,-36.125165681",
     "geom:latitude":-36.134541,
     "geom:longitude":147.005421,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.133523,
     "lbl:longitude":147.001956,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ebden"
@@ -39,12 +45,15 @@
         102049665
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20439"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932883
     ],
     "wof:country":"AU",
-    "wof:geomhash":"9bf4fcb37ff73e7f0bc03095871f96cb",
+    "wof:geomhash":"fcb988484d62ba8db9449e10836a43f6",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404538469,
-    "wof:lastmodified":1566602472,
+    "wof:lastmodified":1695877396,
     "wof:name":"Ebden",
     "wof:parent_id":102049665,
     "wof:placetype":"localadmin",

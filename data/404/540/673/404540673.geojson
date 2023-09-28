@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.119297,
-    "geom:area_square_m":1189458218.195465,
+    "geom:area_square_m":1189458218.195063,
     "geom:bbox":"142.165162016,-36.4323019965,142.74754208,-36.0963294165",
     "geom:latitude":-36.260188,
     "geom:longitude":142.438372,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.292985,
     "lbl:longitude":142.35696,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Warracknabeal"
@@ -56,9 +62,12 @@
         102048571
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21425"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"090e17fce4b6d0bbb4d984d10507f7b1",
+    "wof:geomhash":"e08e07f2c07057b948a4b429227ab8e0",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -70,7 +79,7 @@
         }
     ],
     "wof:id":404540673,
-    "wof:lastmodified":1566602994,
+    "wof:lastmodified":1695877715,
     "wof:name":"Warracknabeal",
     "wof:parent_id":102048571,
     "wof:placetype":"localadmin",

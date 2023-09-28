@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.105379,
-    "geom:area_square_m":1248512743.829899,
+    "geom:area_square_m":1248512743.829958,
     "geom:bbox":"139.046096192,-17.1394797975,139.887546528,-16.229243704",
     "geom:latitude":-16.631839,
     "geom:longitude":139.401397,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-16.552875,
     "lbl:longitude":139.344863,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0423\u044d\u043b\u0441\u043b\u0456"
@@ -68,9 +74,12 @@
         102048603
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31742"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"c83df4dc3090eafcae5fe9419a418900",
+    "wof:geomhash":"e5411accf033b84e9c55b344f4891465",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -82,7 +91,7 @@
         }
     ],
     "wof:id":404544615,
-    "wof:lastmodified":1566602189,
+    "wof:lastmodified":1695877238,
     "wof:name":"Wellesley Islands",
     "wof:parent_id":102048603,
     "wof:placetype":"localadmin",

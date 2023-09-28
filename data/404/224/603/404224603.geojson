@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014886,
-    "geom:area_square_m":159126045.656592,
+    "geom:area_square_m":159126045.656766,
     "geom:bbox":"152.795668192,-30.228489001,152.998273984,-30.123753027",
     "geom:latitude":-30.177721,
     "geom:longitude":152.896945,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-30.180634,
     "lbl:longitude":152.888781,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lowanna"
@@ -38,9 +44,12 @@
         102048797
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11413"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"869e743813fb95760d11f42d0c2e866e",
+    "wof:geomhash":"1ef0ac1461843913127e6de0c93bd8c5",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404224603,
-    "wof:lastmodified":1566602595,
+    "wof:lastmodified":1695877471,
     "wof:name":"Lowanna",
     "wof:parent_id":102048797,
     "wof:placetype":"localadmin",

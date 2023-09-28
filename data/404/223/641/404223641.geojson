@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.060791,
-    "geom:area_square_m":622521804.147231,
+    "geom:area_square_m":622521804.147387,
     "geom:bbox":"148.60809616,-34.3232180065,149.06162576,-33.924151676",
     "geom:latitude":-34.089839,
     "geom:longitude":148.811288,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.065311,
     "lbl:longitude":148.833736,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Godfreys Creek"
@@ -38,9 +44,12 @@
         102048445
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10985"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"ff4098e9e070d7ce6052aa6887dbc7d0",
+    "wof:geomhash":"8c9694bc03d9c54e53ab32af982bb901",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404223641,
-    "wof:lastmodified":1566602549,
+    "wof:lastmodified":1695877444,
     "wof:name":"Godfreys Creek",
     "wof:parent_id":102048445,
     "wof:placetype":"localadmin",

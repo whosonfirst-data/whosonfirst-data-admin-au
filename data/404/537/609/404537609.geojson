@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014902,
-    "geom:area_square_m":147919127.911148,
+    "geom:area_square_m":147919127.911194,
     "geom:bbox":"144.289982112,-36.6880790745,144.469819008,-36.5442999975",
     "geom:latitude":-36.60513,
     "geom:longitude":144.384646,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.590775,
     "lbl:longitude":144.385993,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0628\u0642\u0634\u0627\u062a"
@@ -62,9 +68,12 @@
         102049661
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20051"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"bacf730fef6da8bf444916a8c476f016",
+    "wof:geomhash":"ce2c34a1c59bf63faf05f7d0714c0bc7",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -76,7 +85,7 @@
         }
     ],
     "wof:id":404537609,
-    "wof:lastmodified":1566602345,
+    "wof:lastmodified":1695877321,
     "wof:name":"Bagshot",
     "wof:parent_id":102049661,
     "wof:placetype":"localadmin",

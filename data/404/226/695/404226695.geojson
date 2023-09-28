@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011669,
-    "geom:area_square_m":124602603.851007,
+    "geom:area_square_m":124602603.850595,
     "geom:bbox":"152.816539808,-30.3488361075,152.965507584,-30.210214997",
     "geom:latitude":-30.277532,
     "geom:longitude":152.890771,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-30.277912,
     "lbl:longitude":152.890748,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ulong"
@@ -44,9 +50,12 @@
         102048797
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12342"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"21306505c68517a4cbea5a398aa7b94c",
+    "wof:geomhash":"b6675f60576af184fa695daddd592de4",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404226695,
-    "wof:lastmodified":1566602039,
+    "wof:lastmodified":1695877155,
     "wof:name":"Ulong",
     "wof:parent_id":102048797,
     "wof:placetype":"localadmin",

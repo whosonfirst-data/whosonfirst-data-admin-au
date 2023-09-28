@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010984,
-    "geom:area_square_m":112351476.465447,
+    "geom:area_square_m":112351476.465585,
     "geom:bbox":"150.857451008,-34.2650927825,151.003131008,-34.093351381",
     "geom:latitude":-34.183281,
     "geom:longitude":150.934746,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.176936,
     "lbl:longitude":150.933636,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Darkes Forest"
@@ -38,9 +44,12 @@
         102048853
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10688"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"6116c287d7ab8612fb1d31126c4ecb41",
+    "wof:geomhash":"0200241003715ee31bbc8554e44e1b28",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404222973,
-    "wof:lastmodified":1566602812,
+    "wof:lastmodified":1695877600,
     "wof:name":"Darkes Forest",
     "wof:parent_id":102048853,
     "wof:placetype":"localadmin",

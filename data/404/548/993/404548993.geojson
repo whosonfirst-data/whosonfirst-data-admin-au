@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002227,
-    "geom:area_square_m":20139572.551108,
+    "geom:area_square_m":20139572.551044,
     "geom:bbox":"147.064396992,-43.0104100075,147.144152864,-42.9554059925",
     "geom:latitude":-42.987054,
     "geom:longitude":147.101448,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-42.988081,
     "lbl:longitude":147.104765,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Grove"
@@ -89,9 +95,12 @@
         102048679
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60144"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"66205d5e9957cea24a97a2945dc3c4c4",
+    "wof:geomhash":"7b23d553e9e4c68369a4882e71a58d06",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -103,7 +112,7 @@
         }
     ],
     "wof:id":404548993,
-    "wof:lastmodified":1566603200,
+    "wof:lastmodified":1695877816,
     "wof:name":"Grove",
     "wof:parent_id":102048679,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003554,
-    "geom:area_square_m":35207296.4328,
+    "geom:area_square_m":35207296.432759,
     "geom:bbox":"142.000610016,-36.7809440055,142.081437952,-36.7221989945",
     "geom:latitude":-36.749931,
     "geom:longitude":142.04497,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.752873,
     "lbl:longitude":142.044202,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Quantong"
@@ -38,9 +44,12 @@
         102048541
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21121"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"e5f6d55dc9af2c211ccd2bbd3c4d4a4c",
+    "wof:geomhash":"7ceb043d5c45ac2890bd8e4738c0a5ea",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404539993,
-    "wof:lastmodified":1566602388,
+    "wof:lastmodified":1695877348,
     "wof:name":"Quantong",
     "wof:parent_id":102048541,
     "wof:placetype":"localadmin",

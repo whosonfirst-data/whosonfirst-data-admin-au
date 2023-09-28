@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000608,
-    "geom:area_square_m":5963849.838556,
+    "geom:area_square_m":5963811.099074,
     "geom:bbox":"143.860973,-37.576645,143.90803,-37.552434",
     "geom:latitude":-37.564785,
     "geom:longitude":143.887028,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.566306,
     "lbl:longitude":143.894565,
     "lbl:max_zoom":18.0,
@@ -66,10 +72,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC20058",
         "gn:id":2177090,
         "qs_pg:id":906725,
         "wd:id":"Q4851462"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932529
     ],
@@ -77,7 +85,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"27eb2962cfe740fbbd2c0903fb27cf9e",
+    "wof:geomhash":"284a5c89fcef898404044fb7e6d658b3",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -89,7 +97,7 @@
         }
     ],
     "wof:id":404537621,
-    "wof:lastmodified":1690853542,
+    "wof:lastmodified":1695878053,
     "wof:name":"Ballarat East",
     "wof:parent_id":102049037,
     "wof:placetype":"localadmin",

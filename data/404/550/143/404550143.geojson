@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000303,
-    "geom:area_square_m":3053844.803532,
+    "geom:area_square_m":3053844.803546,
     "geom:bbox":"149.048877312,-35.3484207775,149.069555968,-35.320362919",
     "geom:latitude":-35.33582,
     "geom:longitude":149.059286,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.338495,
     "lbl:longitude":149.05827,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0648\u0633\u062a\u0648\u0646"
@@ -106,12 +112,15 @@
         85681493
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC80102"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938919
     ],
     "wof:country":"AU",
-    "wof:geomhash":"6eae728dcf6c24d1acb1bfbe88aa11dd",
+    "wof:geomhash":"94943cc4ecd9ad6e2449b1108527e112",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -122,7 +131,7 @@
         }
     ],
     "wof:id":404550143,
-    "wof:lastmodified":1566601928,
+    "wof:lastmodified":1695877100,
     "wof:name":"Weston",
     "wof:parent_id":85681493,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000134,
-    "geom:area_square_m":1310233.656951,
+    "geom:area_square_m":1310233.656952,
     "geom:bbox":"147.43053664,-37.805541253,147.471396992,-37.79626169",
     "geom:latitude":-37.801201,
     "geom:longitude":147.449147,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.801793,
     "lbl:longitude":147.44231,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lindenow"
@@ -38,12 +44,15 @@
         102049039
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20791"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101933171
     ],
     "wof:country":"AU",
-    "wof:geomhash":"74159cc3db4a7d7cbd5b5cc32eceeb51",
+    "wof:geomhash":"405462b480afc9da2a083f991bb02331",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404539255,
-    "wof:lastmodified":1566602407,
+    "wof:lastmodified":1695877361,
     "wof:name":"Lindenow",
     "wof:parent_id":102049039,
     "wof:placetype":"localadmin",

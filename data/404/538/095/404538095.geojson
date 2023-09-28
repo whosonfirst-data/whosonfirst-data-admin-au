@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00193,
-    "geom:area_square_m":19046850.8169,
+    "geom:area_square_m":19046850.816927,
     "geom:bbox":"144.190004288,-37.0820985865,144.248626016,-37.0348821465",
     "geom:latitude":-37.057949,
     "geom:longitude":144.218688,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.057059,
     "lbl:longitude":144.218117,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Castlemaine"
@@ -47,12 +53,15 @@
         102049601
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20270"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932735
     ],
     "wof:country":"AU",
-    "wof:geomhash":"538fc7c3a17e64a9560b1c1515012c54",
+    "wof:geomhash":"cbbb7ec7a08728cec97baaef1eb28b3f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":404538095,
-    "wof:lastmodified":1566602473,
+    "wof:lastmodified":1695877397,
     "wof:name":"Castlemaine",
     "wof:parent_id":102049601,
     "wof:placetype":"localadmin",

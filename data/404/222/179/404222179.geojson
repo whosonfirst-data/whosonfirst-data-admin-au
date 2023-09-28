@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025785,
-    "geom:area_square_m":269316733.035474,
+    "geom:area_square_m":269316733.035126,
     "geom:bbox":"151.104108864,-32.508980005,151.250796,-32.2105279225",
     "geom:latitude":-32.362308,
     "geom:longitude":151.177291,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.324793,
     "lbl:longitude":151.178655,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bridgman"
@@ -38,9 +44,12 @@
         102048757
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10335"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"8f9baf8976adffb92d7fe0c5aa4baf89",
+    "wof:geomhash":"857a93e14fbf99b10159743f12c71765",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404222179,
-    "wof:lastmodified":1566602814,
+    "wof:lastmodified":1695877600,
     "wof:name":"Bridgman",
     "wof:parent_id":102048757,
     "wof:placetype":"localadmin",

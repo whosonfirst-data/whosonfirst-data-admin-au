@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00349,
-    "geom:area_square_m":32559695.082074,
+    "geom:area_square_m":32559695.082087,
     "geom:bbox":"147.059504,-41.055620587,147.159020544,-40.9917399945",
     "geom:latitude":-41.02202,
     "geom:longitude":147.104304,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-41.022431,
     "lbl:longitude":147.103551,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Weymouth"
@@ -86,9 +92,12 @@
         102049339
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60402"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"8ccccfcafcf6fb83d60aea0a24111c03",
+    "wof:geomhash":"a4781cc8187dc1610e1d6b40bb2abcda",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -100,7 +109,7 @@
         }
     ],
     "wof:id":404549573,
-    "wof:lastmodified":1566602863,
+    "wof:lastmodified":1695877635,
     "wof:name":"Weymouth",
     "wof:parent_id":102049339,
     "wof:placetype":"localadmin",

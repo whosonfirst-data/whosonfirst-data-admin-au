@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00984,
-    "geom:area_square_m":97445942.535873,
+    "geom:area_square_m":97445942.535813,
     "geom:bbox":"149.592420576,-36.8357879955,149.742832992,-36.731570003",
     "geom:latitude":-36.78824,
     "geom:longitude":149.66695,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.781153,
     "lbl:longitude":149.668389,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u0646\u062f\u064a\u0644\u0648"
@@ -155,9 +161,12 @@
         102049439
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10448"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"3a7b45264c5ebd62186f9bcc2143a521",
+    "wof:geomhash":"12d8dde61093418d7d6a011decad1595",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -169,7 +178,7 @@
         }
     ],
     "wof:id":404222433,
-    "wof:lastmodified":1566602803,
+    "wof:lastmodified":1695877594,
     "wof:name":"Candelo",
     "wof:parent_id":102049439,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001156,
-    "geom:area_square_m":12524630.288898,
+    "geom:area_square_m":12524630.28889,
     "geom:bbox":"153.258232992,-28.807015009,153.319286496,-28.763782248",
     "geom:latitude":-28.786285,
     "geom:longitude":153.283489,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.785768,
     "lbl:longitude":153.281429,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "North Lismore"
@@ -38,9 +44,12 @@
         102049635
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11749"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"5105cfbc0cc61230b8553356dde29b3f",
+    "wof:geomhash":"f29d081d3174f02b4a53bc9009b583ce",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404225359,
-    "wof:lastmodified":1566602700,
+    "wof:lastmodified":1695877528,
     "wof:name":"North Lismore",
     "wof:parent_id":102049635,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000902,
-    "geom:area_square_m":8770267.394247,
+    "geom:area_square_m":8770267.394257,
     "geom:bbox":"145.15928544,-38.200652191,145.218737888,-38.176899005",
     "geom:latitude":-38.189075,
     "geom:longitude":145.191,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.189959,
     "lbl:longitude":145.190434,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Langwarrin South"
@@ -39,12 +45,15 @@
         102048609
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20770"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101933159
     ],
     "wof:country":"AU",
-    "wof:geomhash":"bf9c55699d9f18e9387e16ba83b1b555",
+    "wof:geomhash":"be3dbafd179adc8f9ebd8bf194331643",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404539207,
-    "wof:lastmodified":1566602402,
+    "wof:lastmodified":1695877358,
     "wof:name":"Langwarrin South",
     "wof:parent_id":102048609,
     "wof:placetype":"localadmin",

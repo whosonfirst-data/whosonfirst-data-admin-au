@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01102,
-    "geom:area_square_m":106336725.515258,
+    "geom:area_square_m":106336725.514945,
     "geom:bbox":"146.438615168,-38.7908890115,146.954752928,-38.573620997",
     "geom:latitude":-38.707606,
     "geom:longitude":146.645318,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.774262,
     "lbl:longitude":146.544383,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Manns Beach"
@@ -38,9 +44,12 @@
         102049585
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20843"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"4c89a6e89d472ca97ace69395551047b",
+    "wof:geomhash":"f357c0b05cc7785c8730c03273ca8d49",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404539373,
-    "wof:lastmodified":1566602412,
+    "wof:lastmodified":1695877364,
     "wof:name":"Manns Beach",
     "wof:parent_id":102049585,
     "wof:placetype":"localadmin",

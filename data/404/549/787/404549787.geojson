@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000954,
-    "geom:area_square_m":11567665.617303,
+    "geom:area_square_m":11567665.617317,
     "geom:bbox":"130.634555008,-11.4401679995,130.680935072,-11.4029585795",
     "geom:latitude":-11.419116,
     "geom:longitude":130.656086,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-11.419286,
     "lbl:longitude":130.655734,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Milikapiti"
@@ -38,12 +44,15 @@
         102049051
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC70126"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938555
     ],
     "wof:country":"AU",
-    "wof:geomhash":"1aaaec25fe61a329600e301a1b529077",
+    "wof:geomhash":"690a310eb7950b0dd71d905e83d27c49",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404549787,
-    "wof:lastmodified":1566602915,
+    "wof:lastmodified":1695877671,
     "wof:name":"Milikapiti",
     "wof:parent_id":102049051,
     "wof:placetype":"localadmin",

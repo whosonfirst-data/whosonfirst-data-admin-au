@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000257,
-    "geom:area_square_m":2644240.672807,
+    "geom:area_square_m":2644240.672802,
     "geom:bbox":"115.24754208,-33.6709840045,115.265317984,-33.6560485105",
     "geom:latitude":-33.663642,
     "geom:longitude":115.256355,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.663577,
     "lbl:longitude":115.256355,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Abdy"
@@ -204,12 +210,15 @@
         102048623
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50001"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101936811
     ],
     "wof:country":"AU",
-    "wof:geomhash":"5ca539ba4352512a7d9d79054b479a7d",
+    "wof:geomhash":"75e985a197fcff85c9a2ec88b354e31b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -222,7 +231,7 @@
         }
     ],
     "wof:id":404546689,
-    "wof:lastmodified":1566603112,
+    "wof:lastmodified":1695877774,
     "wof:name":"Abbey",
     "wof:parent_id":102048623,
     "wof:placetype":"localadmin",

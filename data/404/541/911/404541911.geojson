@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012891,
-    "geom:area_square_m":142837816.806981,
+    "geom:area_square_m":142837816.807003,
     "geom:bbox":"151.607882016,-26.403053599,151.80292,-26.3019860085",
     "geom:latitude":-26.350614,
     "geom:longitude":151.702274,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-26.353504,
     "lbl:longitude":151.682876,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Cushnie"
@@ -38,9 +44,12 @@
         102048861
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30463"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"1d580ce96da5d2bd65c786d3607b4c86",
+    "wof:geomhash":"8646a186c47ea46a443d41c18d9dc855",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404541911,
-    "wof:lastmodified":1566603094,
+    "wof:lastmodified":1695877768,
     "wof:name":"Cushnie",
     "wof:parent_id":102048861,
     "wof:placetype":"localadmin",

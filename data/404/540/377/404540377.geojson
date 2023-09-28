@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009532,
-    "geom:area_square_m":93710812.720803,
+    "geom:area_square_m":93710812.720818,
     "geom:bbox":"145.636871264,-37.389072065,145.799155008,-37.2798890055",
     "geom:latitude":-37.334597,
     "geom:longitude":145.715858,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.343689,
     "lbl:longitude":145.696812,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Taggerty"
@@ -41,9 +47,12 @@
         102048737
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21293"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"bd1930ba95905729a0228b43f11d3d58",
+    "wof:geomhash":"bf8c359a7ee2e60e74480e55906d0f88",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404540377,
-    "wof:lastmodified":1566603005,
+    "wof:lastmodified":1695877721,
     "wof:name":"Taggerty",
     "wof:parent_id":102048737,
     "wof:placetype":"localadmin",

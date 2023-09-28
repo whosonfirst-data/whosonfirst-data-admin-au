@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018088,
-    "geom:area_square_m":201132823.981387,
+    "geom:area_square_m":201132823.981395,
     "geom:bbox":"152.340667872,-26.0069589975,152.576866016,-25.861488595",
     "geom:latitude":-25.934249,
     "geom:longitude":152.452604,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-25.955141,
     "lbl:longitude":152.472268,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Theebine"
@@ -38,9 +44,12 @@
         102049393
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31621"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"976bbbc0639af99c7dfc57dca8ef80d4",
+    "wof:geomhash":"84b39ad1517050e54dc90541ca4c9e8a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404544367,
-    "wof:lastmodified":1566602183,
+    "wof:lastmodified":1695877235,
     "wof:name":"Theebine",
     "wof:parent_id":102049393,
     "wof:placetype":"localadmin",

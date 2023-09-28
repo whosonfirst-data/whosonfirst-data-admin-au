@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033361,
-    "geom:area_square_m":347053751.516277,
+    "geom:area_square_m":347053751.51642,
     "geom:bbox":"149.549108992,-32.82531798,149.84184016,-32.616692",
     "geom:latitude":-32.720527,
     "geom:longitude":149.697932,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.710123,
     "lbl:longitude":149.698084,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Spring Flat"
@@ -38,9 +44,12 @@
         102049261
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12128"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"a2802fdb168f18c5bbb96c2bd96ca23f",
+    "wof:geomhash":"fc5171b8ccb3c677919adc12acbe22ec",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404226213,
-    "wof:lastmodified":1566602072,
+    "wof:lastmodified":1695877175,
     "wof:name":"Spring Flat",
     "wof:parent_id":102049261,
     "wof:placetype":"localadmin",

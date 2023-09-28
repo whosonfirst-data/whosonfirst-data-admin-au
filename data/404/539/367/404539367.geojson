@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005346,
-    "geom:area_square_m":51931684.433926,
+    "geom:area_square_m":51931684.433904,
     "geom:bbox":"144.548881792,-38.2878378995,144.68128192,-38.192892995",
     "geom:latitude":-38.228462,
     "geom:longitude":144.611778,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.226028,
     "lbl:longitude":144.611812,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mannerim"
@@ -39,9 +45,12 @@
         102049571
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20841"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"45c6d9e8d40ca0fae4933599c193803a",
+    "wof:geomhash":"77d0b686f5e2c730ffb0dce8fada33e5",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":404539367,
-    "wof:lastmodified":1566602390,
+    "wof:lastmodified":1695877349,
     "wof:name":"Mannerim",
     "wof:parent_id":102049571,
     "wof:placetype":"localadmin",

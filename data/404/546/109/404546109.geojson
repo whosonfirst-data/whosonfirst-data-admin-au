@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000406,
-    "geom:area_square_m":4101509.033244,
+    "geom:area_square_m":4101509.033239,
     "geom:bbox":"140.897679712,-35.2706347155,140.922402368,-35.2504915455",
     "geom:latitude":-35.259732,
     "geom:longitude":140.911069,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.259549,
     "lbl:longitude":140.911075,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Pinnaroo"
@@ -38,12 +44,15 @@
         102049159
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40575"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101936461
     ],
     "wof:country":"AU",
-    "wof:geomhash":"e716ec5f03886ce03c87909af8ed04cd",
+    "wof:geomhash":"583d304f37886a714057a48141943197",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404546109,
-    "wof:lastmodified":1566603132,
+    "wof:lastmodified":1695877783,
     "wof:name":"Pinnaroo",
     "wof:parent_id":102049159,
     "wof:placetype":"localadmin",

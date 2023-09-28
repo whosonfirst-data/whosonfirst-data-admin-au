@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00087,
-    "geom:area_square_m":8797858.652873,
+    "geom:area_square_m":8797858.65287,
     "geom:bbox":"143.345793184,-35.1916800085,143.393962272,-35.1573579945",
     "geom:latitude":-35.171859,
     "geom:longitude":143.368983,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.170346,
     "lbl:longitude":143.368621,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Nyah"
@@ -38,9 +44,12 @@
         102049167
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21043"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"5a021555e2ebf71bedb9ab85e7a6a842",
+    "wof:geomhash":"7bf5b6faa79a732395c0c1d9bbd6d9ab",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404539817,
-    "wof:lastmodified":1566602364,
+    "wof:lastmodified":1695877333,
     "wof:name":"Nyah",
     "wof:parent_id":102049167,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000246,
-    "geom:area_square_m":2917555.61657,
+    "geom:area_square_m":2917555.616577,
     "geom:bbox":"145.692776576,-16.8177790055,145.715885504,-16.7977929005",
     "geom:latitude":-16.808979,
     "geom:longitude":145.705437,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-16.809331,
     "lbl:longitude":145.704632,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Trinity Park"
@@ -38,12 +44,15 @@
         102048911
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31671"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935515
     ],
     "wof:country":"AU",
-    "wof:geomhash":"d29a3822cc5b5733d70592e99c8fc29d",
+    "wof:geomhash":"f504ade25989dbee2c99dd086f9e82cd",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404544475,
-    "wof:lastmodified":1566602187,
+    "wof:lastmodified":1695877237,
     "wof:name":"Trinity Park",
     "wof:parent_id":102048911,
     "wof:placetype":"localadmin",

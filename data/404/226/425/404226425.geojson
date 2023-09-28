@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000604,
-    "geom:area_square_m":5991204.093711,
+    "geom:area_square_m":5991204.093705,
     "geom:bbox":"149.842058016,-36.673324122,149.882371712,-36.649841998",
     "geom:latitude":-36.661188,
     "geom:longitude":149.861957,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.661224,
     "lbl:longitude":149.860319,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tarraganda"
@@ -38,12 +44,15 @@
         102049439
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12222"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932041
     ],
     "wof:country":"AU",
-    "wof:geomhash":"9444406054547cb8d95e06e5c3606591",
+    "wof:geomhash":"c606ffe426574dad82836de0531c8efb",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404226425,
-    "wof:lastmodified":1566602024,
+    "wof:lastmodified":1695877145,
     "wof:name":"Tarraganda",
     "wof:parent_id":102049439,
     "wof:placetype":"localadmin",

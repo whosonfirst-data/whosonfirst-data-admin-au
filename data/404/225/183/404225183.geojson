@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000109,
-    "geom:area_square_m":1102534.821293,
+    "geom:area_square_m":1102534.821282,
     "geom:bbox":"150.665562016,-35.0370789125,150.687114016,-35.0156865855",
     "geom:latitude":-35.023106,
     "geom:longitude":150.67579,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.023655,
     "lbl:longitude":150.672938,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Myola"
@@ -41,12 +47,15 @@
         102049405
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11670"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931355
     ],
     "wof:country":"AU",
-    "wof:geomhash":"96f60ca6ea3eedb95465ca329a36903c",
+    "wof:geomhash":"7f929d83fa2a1225fe9fec76fa6a0f97",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404225183,
-    "wof:lastmodified":1566602734,
+    "wof:lastmodified":1695877550,
     "wof:name":"Myola",
     "wof:parent_id":102049405,
     "wof:placetype":"localadmin",

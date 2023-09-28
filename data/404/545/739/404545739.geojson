@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.052286,
-    "geom:area_square_m":528625907.702919,
+    "geom:area_square_m":528625907.703043,
     "geom:bbox":"136.91063328,-35.25239403,137.401024,-35.069967898",
     "geom:latitude":-35.150193,
     "geom:longitude":137.129273,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.166,
     "lbl:longitude":137.125562,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Marion Bay"
@@ -50,9 +56,12 @@
         102049327
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40405"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"502b681c083e462f94dc8279694d11b2",
+    "wof:geomhash":"bc2bb0d50764a0a2ba96363ddf5912f7",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":404545739,
-    "wof:lastmodified":1566602209,
+    "wof:lastmodified":1695877248,
     "wof:name":"Marion Bay",
     "wof:parent_id":102049327,
     "wof:placetype":"localadmin",

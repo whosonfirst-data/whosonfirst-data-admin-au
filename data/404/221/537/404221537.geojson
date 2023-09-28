@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028355,
-    "geom:area_square_m":301780010.007916,
+    "geom:area_square_m":301780010.00835,
     "geom:bbox":"152.48775,-30.683591998,152.855423776,-30.5182818995",
     "geom:latitude":-30.603829,
     "geom:longitude":152.659247,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-30.617019,
     "lbl:longitude":152.656408,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Argents Hill"
@@ -38,9 +44,12 @@
         102049433
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10050"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"0025c413e62209930801f06f60750f96",
+    "wof:geomhash":"0837b6fb984b01100b8a9fa37b963d28",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404221537,
-    "wof:lastmodified":1566601987,
+    "wof:lastmodified":1695877127,
     "wof:name":"Argents Hill",
     "wof:parent_id":102049433,
     "wof:placetype":"localadmin",

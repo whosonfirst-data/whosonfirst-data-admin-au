@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000205,
-    "geom:area_square_m":2321188.653713,
+    "geom:area_square_m":2321188.653718,
     "geom:bbox":"150.499340576,-23.389892998,150.520664992,-23.3690560595",
     "geom:latitude":-23.379412,
     "geom:longitude":150.509914,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-23.379739,
     "lbl:longitude":150.509755,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Rockhampton City"
@@ -38,12 +44,15 @@
         102048825
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31415"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935231
     ],
     "wof:country":"AU",
-    "wof:geomhash":"614d2d4a05baf3ffaad71d0313ec818f",
+    "wof:geomhash":"88877a89af04c8050932c1de1d8428b1",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404543935,
-    "wof:lastmodified":1566602121,
+    "wof:lastmodified":1695877203,
     "wof:name":"Rockhampton City",
     "wof:parent_id":102048825,
     "wof:placetype":"localadmin",

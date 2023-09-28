@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001847,
-    "geom:area_square_m":20048377.544912,
+    "geom:area_square_m":20048377.544828,
     "geom:bbox":"153.528192992,-28.627169627,153.583441536,-28.541905014",
     "geom:latitude":-28.594879,
     "geom:longitude":153.55548,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.598202,
     "lbl:longitude":153.553599,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tyagarah"
@@ -38,9 +44,12 @@
         102048747
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12335"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"33bd2e987e3927ae7241282d5ea3cde0",
+    "wof:geomhash":"3ea8fb3665384cb4771b9440f757f776",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404226679,
-    "wof:lastmodified":1566602071,
+    "wof:lastmodified":1695877174,
     "wof:name":"Tyagarah",
     "wof:parent_id":102048747,
     "wof:placetype":"localadmin",

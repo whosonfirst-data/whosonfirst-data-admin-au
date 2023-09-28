@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007588,
-    "geom:area_square_m":73668680.1105,
+    "geom:area_square_m":73668680.110444,
     "geom:bbox":"142.205512992,-38.308994,142.351777056,-38.2265522095",
     "geom:latitude":-38.26801,
     "geom:longitude":142.278037,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.271112,
     "lbl:longitude":142.276717,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Kirkstall"
@@ -56,9 +62,12 @@
         102049109
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20723"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"8c5b169ea40ebf97ed287cda84b4d211",
+    "wof:geomhash":"2b6c734513db4e5186750e8e58ef804e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -70,7 +79,7 @@
         }
     ],
     "wof:id":404539103,
-    "wof:lastmodified":1566602352,
+    "wof:lastmodified":1695877325,
     "wof:name":"Kirkstall",
     "wof:parent_id":102049109,
     "wof:placetype":"localadmin",

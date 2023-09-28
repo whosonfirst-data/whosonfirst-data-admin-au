@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000184,
-    "geom:area_square_m":2176265.102838,
+    "geom:area_square_m":2176265.102842,
     "geom:bbox":"145.744656768,-16.9463182635,145.76887008,-16.92719757",
     "geom:latitude":-16.937289,
     "geom:longitude":145.756964,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-16.938283,
     "lbl:longitude":145.756794,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0411\u0443\u043d\u0433\u0430\u043b\u043e"
@@ -131,12 +137,15 @@
         102048911
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30265"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934059
     ],
     "wof:country":"AU",
-    "wof:geomhash":"6dcee154de3e3918acb02d6f1f9c9530",
+    "wof:geomhash":"b9c0c438ac935221fb62b5799473a26e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -148,7 +157,7 @@
         }
     ],
     "wof:id":404541497,
-    "wof:lastmodified":1566603060,
+    "wof:lastmodified":1695877750,
     "wof:name":"Bungalow",
     "wof:parent_id":102048911,
     "wof:placetype":"localadmin",

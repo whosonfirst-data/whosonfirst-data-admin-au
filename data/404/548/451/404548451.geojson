@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000554,
-    "geom:area_square_m":5787412.536572,
+    "geom:area_square_m":5787412.536574,
     "geom:bbox":"115.737443264,-32.329251691,115.769018144,-32.301006409",
     "geom:latitude":-32.316057,
     "geom:longitude":115.754598,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.316347,
     "lbl:longitude":115.755881,
     "lbl:max_zoom":18.0,
@@ -133,13 +139,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC50790",
         "wd:id":"Q7960019"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937883
     ],
     "wof:country":"AU",
-    "wof:geomhash":"d0b41ef40d91a8e8afb163e92dbfb97b",
+    "wof:geomhash":"b18ac4907e608f5b41ca2e9f228996f1",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -152,7 +160,7 @@
         }
     ],
     "wof:id":404548451,
-    "wof:lastmodified":1566603214,
+    "wof:lastmodified":1695878051,
     "wof:name":"Waikiki",
     "wof:parent_id":102049377,
     "wof:placetype":"localadmin",

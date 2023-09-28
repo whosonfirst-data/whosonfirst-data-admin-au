@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005392,
-    "geom:area_square_m":58842343.028586,
+    "geom:area_square_m":58842343.028655,
     "geom:bbox":"153.120671008,-28.0899070015,153.238876512,-27.9826497365",
     "geom:latitude":-28.039151,
     "geom:longitude":153.191575,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.035416,
     "lbl:longitude":153.197393,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Witheren"
@@ -38,9 +44,12 @@
         102048945
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31786"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"61b1b9838f47c6a5457a2cad1cdb9126",
+    "wof:geomhash":"220c78b8eb9c620b8444b97a3244ee7b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404544709,
-    "wof:lastmodified":1566602152,
+    "wof:lastmodified":1695877218,
     "wof:name":"Witheren",
     "wof:parent_id":102048945,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.312045,
-    "geom:area_square_m":3214307302.391959,
+    "geom:area_square_m":3214307302.39192,
     "geom:bbox":"120.744597664,-33.8930960405,121.522335552,-33.219340008",
     "geom:latitude":-33.586759,
     "geom:longitude":121.098566,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.622182,
     "lbl:longitude":121.039744,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Coomalbidgup"
@@ -38,9 +44,12 @@
         102049141
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50178"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"17dc8b93280e1b5ca9e860816552ac9d",
+    "wof:geomhash":"d61ad9a4bbab5c2e95ae3b321155d157",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404547087,
-    "wof:lastmodified":1566602957,
+    "wof:lastmodified":1695877692,
     "wof:name":"Coomalbidgup",
     "wof:parent_id":102049141,
     "wof:placetype":"localadmin",

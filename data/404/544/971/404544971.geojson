@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000193,
-    "geom:area_square_m":1957823.129521,
+    "geom:area_square_m":1957823.129512,
     "geom:bbox":"138.591441376,-34.8703860685,138.601712064,-34.8480926065",
     "geom:latitude":-34.85925,
     "geom:longitude":138.596544,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.859241,
     "lbl:longitude":138.596543,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Blair Athol"
@@ -54,12 +60,15 @@
         102048839
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40052"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935793
     ],
     "wof:country":"AU",
-    "wof:geomhash":"c02522ffd95d981f9b5bfd67683933d5",
+    "wof:geomhash":"b3d6381bc17b5d29afbdb3c90de58f38",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -72,7 +81,7 @@
         }
     ],
     "wof:id":404544971,
-    "wof:lastmodified":1566602175,
+    "wof:lastmodified":1695877231,
     "wof:name":"Blair Athol",
     "wof:parent_id":102048839,
     "wof:placetype":"localadmin",

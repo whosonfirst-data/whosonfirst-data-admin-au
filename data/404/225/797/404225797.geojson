@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.221665,
-    "geom:area_square_m":2232454373.98258,
+    "geom:area_square_m":2232454373.982945,
     "geom:bbox":"145.9569056,-35.9293352445,146.669769088,-35.1550510075",
     "geom:latitude":-35.462855,
     "geom:longitude":146.30387,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.47552,
     "lbl:longitude":146.273779,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Rand"
@@ -110,9 +116,12 @@
         102048553
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11943"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"a35ceb7f031b910d0fba94cf143a0d2e",
+    "wof:geomhash":"9ad6d9ae71ac8a303879422c8c9f9937",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -124,7 +133,7 @@
         }
     ],
     "wof:id":404225797,
-    "wof:lastmodified":1566602658,
+    "wof:lastmodified":1695877506,
     "wof:name":"Rand",
     "wof:parent_id":102048553,
     "wof:placetype":"localadmin",

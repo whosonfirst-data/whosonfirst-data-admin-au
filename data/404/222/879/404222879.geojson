@@ -10,6 +10,12 @@
     "geom:latitude":-33.004806,
     "geom:longitude":151.64819,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.00461,
     "lbl:longitude":151.648333,
     "lbl:max_zoom":18.0,
@@ -43,13 +49,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC10646",
         "wd:id":"Q5189034"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101930021
     ],
     "wof:country":"AU",
-    "wof:geomhash":"5d264dc6b73d9fa12e1c812174c263e5",
+    "wof:geomhash":"94e2ef036a82b611e097493dc5ff5437",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -62,7 +70,7 @@
         }
     ],
     "wof:id":404222879,
-    "wof:lastmodified":1566602791,
+    "wof:lastmodified":1695878002,
     "wof:name":"Croudace Bay",
     "wof:parent_id":102048999,
     "wof:placetype":"localadmin",

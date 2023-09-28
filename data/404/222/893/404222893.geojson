@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024086,
-    "geom:area_square_m":248844368.655095,
+    "geom:area_square_m":248844368.655176,
     "geom:bbox":"148.587412992,-33.4267091535,148.81738,-33.2356760075",
     "geom:latitude":-33.329868,
     "geom:longitude":148.705656,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.334859,
     "lbl:longitude":148.70736,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Cudal"
@@ -38,9 +44,12 @@
         102048769
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10653"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"1bd665a80bf03dd264ef5acdf9ff180c",
+    "wof:geomhash":"191d8ead3f7e698ffcfd978d2d6bb0c4",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404222893,
-    "wof:lastmodified":1566602768,
+    "wof:lastmodified":1695877572,
     "wof:name":"Cudal",
     "wof:parent_id":102048769,
     "wof:placetype":"localadmin",

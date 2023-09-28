@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.002121,
-    "geom:area_square_m":31623787244.769245,
+    "geom:area_square_m":31623787244.770611,
     "geom:bbox":"144.015716544,-32.7471688,146.548255488,-30.6968684305",
     "geom:latitude":-31.578925,
     "geom:longitude":145.246521,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.578724,
     "lbl:longitude":145.160244,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kerrigundi"
@@ -38,9 +44,12 @@
         102049423
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11233"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"4c90e80500af62055016f2dfba318c0a",
+    "wof:geomhash":"5d338f9d52a6a3abb121d3ebf85940cf",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404224199,
-    "wof:lastmodified":1566602617,
+    "wof:lastmodified":1695877484,
     "wof:name":"Kerrigundi",
     "wof:parent_id":102049423,
     "wof:placetype":"localadmin",

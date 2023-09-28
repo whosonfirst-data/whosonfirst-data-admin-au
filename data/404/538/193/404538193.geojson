@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006638,
-    "geom:area_square_m":64712005.848223,
+    "geom:area_square_m":64712005.848292,
     "geom:bbox":"144.5484064,-38.0045805515,144.6879064,-37.919950655",
     "geom:latitude":-37.96868,
     "geom:longitude":144.621508,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.967862,
     "lbl:longitude":144.6341,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Cocoroc"
@@ -39,9 +45,12 @@
         102048447
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20314"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"f691a5b3ce30e36aa4ac1ff8686b15f6",
+    "wof:geomhash":"cabbbe45963a48c3a42ecc282cb92f9c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":404538193,
-    "wof:lastmodified":1566602428,
+    "wof:lastmodified":1695877374,
     "wof:name":"Cocoroc",
     "wof:parent_id":102048447,
     "wof:placetype":"localadmin",

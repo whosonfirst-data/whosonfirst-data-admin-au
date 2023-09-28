@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000507,
-    "geom:area_square_m":5290130.182591,
+    "geom:area_square_m":5290130.182578,
     "geom:bbox":"152.464580992,-32.381157992,152.494743008,-32.351392306",
     "geom:latitude":-32.364461,
     "geom:longitude":152.47786,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.362055,
     "lbl:longitude":152.478888,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tarbuck Bay"
@@ -38,12 +44,15 @@
         102049617
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12217"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932033
     ],
     "wof:country":"AU",
-    "wof:geomhash":"60c28b3c91cd88ea2ab3e266adb2319d",
+    "wof:geomhash":"25fc09a6e015832b3ca652d17d14450a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404226413,
-    "wof:lastmodified":1566602024,
+    "wof:lastmodified":1695877144,
     "wof:name":"Tarbuck Bay",
     "wof:parent_id":102049617,
     "wof:placetype":"localadmin",

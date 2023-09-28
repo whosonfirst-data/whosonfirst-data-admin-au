@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018727,
-    "geom:area_square_m":202377985.983826,
+    "geom:area_square_m":202377985.983531,
     "geom:bbox":"153.086554016,-29.191079005,153.263336992,-28.970089993",
     "geom:latitude":-29.076815,
     "geom:longitude":153.154138,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-29.068449,
     "lbl:longitude":153.145401,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bora Ridge"
@@ -38,9 +44,12 @@
         102049223
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10298"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"679d9e138110b6684bb6d7107d592db6",
+    "wof:geomhash":"435bae8d307f51e867a21b00496b78a6",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404222095,
-    "wof:lastmodified":1566602801,
+    "wof:lastmodified":1695877593,
     "wof:name":"Bora Ridge",
     "wof:parent_id":102049223,
     "wof:placetype":"localadmin",

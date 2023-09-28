@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005313,
-    "geom:area_square_m":56239553.792407,
+    "geom:area_square_m":56239553.792359,
     "geom:bbox":"152.801335008,-31.163106004,152.918284992,-31.0770379915",
     "geom:latitude":-31.118095,
     "geom:longitude":152.855956,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.125052,
     "lbl:longitude":152.855956,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "South Kempsey"
@@ -38,9 +44,12 @@
         102048527
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12106"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"a4acfd1fb1fdea9c34f774423cb94123",
+    "wof:geomhash":"829db67019289bc3b327f840fdfca00b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404226163,
-    "wof:lastmodified":1566602056,
+    "wof:lastmodified":1695877165,
     "wof:name":"South Kempsey",
     "wof:parent_id":102048527,
     "wof:placetype":"localadmin",

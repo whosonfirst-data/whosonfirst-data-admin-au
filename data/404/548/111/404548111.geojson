@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000356,
-    "geom:area_square_m":3831951.201256,
+    "geom:area_square_m":3831951.201263,
     "geom:bbox":"116.273316928,-29.4458522915,116.290287808,-29.4221231925",
     "geom:latitude":-29.433194,
     "geom:longitude":116.282228,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-29.433352,
     "lbl:longitude":116.282784,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Perenjori"
@@ -38,12 +44,15 @@
         102049403
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50637"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937675
     ],
     "wof:country":"AU",
-    "wof:geomhash":"3dd6e7072c9fdec55b399f4ffdcdd8d0",
+    "wof:geomhash":"e8efabdea16fa7051679c0b54e8b3505",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404548111,
-    "wof:lastmodified":1566603190,
+    "wof:lastmodified":1695877811,
     "wof:name":"Perenjori",
     "wof:parent_id":102049403,
     "wof:placetype":"localadmin",

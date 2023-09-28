@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004404,
-    "geom:area_square_m":42806700.148483,
+    "geom:area_square_m":42806700.148424,
     "geom:bbox":"144.537612992,-38.203723006,144.6492,-38.1347040015",
     "geom:latitude":-38.175279,
     "geom:longitude":144.597366,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.172832,
     "lbl:longitude":144.602027,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Drysdale"
@@ -51,9 +57,12 @@
         102049571
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20422"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"b828a64f7337345b23326f64ba18469b",
+    "wof:geomhash":"656ab34b030073bfeb6de75a137ed3bd",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -66,7 +75,7 @@
         }
     ],
     "wof:id":404538431,
-    "wof:lastmodified":1566602444,
+    "wof:lastmodified":1695877383,
     "wof:name":"Drysdale",
     "wof:parent_id":102049571,
     "wof:placetype":"localadmin",

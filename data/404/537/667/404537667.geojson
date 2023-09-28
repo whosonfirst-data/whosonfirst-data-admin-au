@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010792,
-    "geom:area_square_m":107877351.924854,
+    "geom:area_square_m":107877351.924797,
     "geom:bbox":"146.569982432,-36.143762584,146.73298576,-35.993692619",
     "geom:latitude":-36.062668,
     "geom:longitude":146.648641,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.06283,
     "lbl:longitude":146.649845,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Barnawartha"
@@ -38,9 +44,12 @@
         102049541
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20078"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"bc79be78901bfef54f5c4fa6e6e81a26",
+    "wof:geomhash":"0b9c3ae117558573e4563e6b37272a21",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404537667,
-    "wof:lastmodified":1566602329,
+    "wof:lastmodified":1695877311,
     "wof:name":"Barnawartha",
     "wof:parent_id":102049541,
     "wof:placetype":"localadmin",

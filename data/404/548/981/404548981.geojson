@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02683,
-    "geom:area_square_m":253988981.66328,
+    "geom:area_square_m":253988981.663449,
     "geom:bbox":"143.857231008,-40.1650400035,144.131528256,-39.9644669995",
     "geom:latitude":-40.042102,
     "geom:longitude":143.98396,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-40.03792,
     "lbl:longitude":143.98403,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Grassy"
@@ -47,9 +53,12 @@
         102048637
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60139"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"f8256411f063b5c75647fc451ec0a695",
+    "wof:geomhash":"aee285a779b45cc497269edbeab91aee",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":404548981,
-    "wof:lastmodified":1566603240,
+    "wof:lastmodified":1695877838,
     "wof:name":"Grassy",
     "wof:parent_id":102048637,
     "wof:placetype":"localadmin",

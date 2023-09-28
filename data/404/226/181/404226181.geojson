@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000493,
-    "geom:area_square_m":5062422.563221,
+    "geom:area_square_m":5062422.5632,
     "geom:bbox":"150.685316,-33.785522555,150.711947296,-33.7612860195",
     "geom:latitude":-33.773471,
     "geom:longitude":150.698837,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.773611,
     "lbl:longitude":150.698835,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "South Penrith"
@@ -39,12 +45,15 @@
         102048677
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12114"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931905
     ],
     "wof:country":"AU",
-    "wof:geomhash":"d44d948a4ed46797097940e527982c30",
+    "wof:geomhash":"1a9e1cff763814c7c68a92340a9a713e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404226181,
-    "wof:lastmodified":1566602047,
+    "wof:lastmodified":1695877160,
     "wof:name":"South Penrith",
     "wof:parent_id":102048677,
     "wof:placetype":"localadmin",

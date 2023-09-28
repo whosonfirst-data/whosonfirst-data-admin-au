@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.04034,
-    "geom:area_square_m":395233473.916466,
+    "geom:area_square_m":395233500.054199,
     "geom:bbox":"141.472018,-37.728219,141.802334,-37.460242",
     "geom:latitude":-37.594564,
     "geom:longitude":141.652172,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.610924,
     "lbl:longitude":141.695638,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u0644\u064a\u0631\u064a\u0646"
@@ -122,9 +128,12 @@
         102048455
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20322"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"bab7fa7123fb3aa59d58fb195cc108e9",
+    "wof:geomhash":"dde81d5c2f7bcaa25525302be3804abb",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -136,7 +145,7 @@
         }
     ],
     "wof:id":404538211,
-    "wof:lastmodified":1636494637,
+    "wof:lastmodified":1695877859,
     "wof:name":"Coleraine",
     "wof:parent_id":102048455,
     "wof:placetype":"localadmin",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000039,
-    "geom:area_square_m":404958.562114,
+    "geom:area_square_m":404958.562111,
     "geom:bbox":"151.199252,-33.6231820025,151.2073608,-33.615319114",
     "geom:latitude":-33.619683,
     "geom:longitude":151.203636,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.620163,
     "lbl:longitude":151.203711,
     "lbl:max_zoom":18.0,
@@ -61,13 +67,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC10626",
         "wd:id":"Q985205"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101929993
     ],
     "wof:country":"AU",
-    "wof:geomhash":"045c2958802e3a7b63c000d70f3a1a08",
+    "wof:geomhash":"b75117884dad0ee32469f3d990900f6a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -80,7 +88,7 @@
         }
     ],
     "wof:id":404222833,
-    "wof:lastmodified":1566602769,
+    "wof:lastmodified":1695877999,
     "wof:name":"Cottage Point",
     "wof:parent_id":102049493,
     "wof:placetype":"localadmin",

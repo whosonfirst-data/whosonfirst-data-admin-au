@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002678,
-    "geom:area_square_m":26260511.07164,
+    "geom:area_square_m":26260511.071627,
     "geom:bbox":"145.36410128,-37.5467462885,145.468806944,-37.490258999",
     "geom:latitude":-37.521429,
     "geom:longitude":145.418451,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.516292,
     "lbl:longitude":145.430758,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u0633\u062a\u064a\u0644\u0627"
@@ -98,9 +104,12 @@
         102048737
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20267"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"9ecd0e66a747c3c504c27f3e2377e98e",
+    "wof:geomhash":"7940968a2750d5b01e06a4311e5851fc",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -112,7 +121,7 @@
         }
     ],
     "wof:id":404538087,
-    "wof:lastmodified":1566602465,
+    "wof:lastmodified":1695877392,
     "wof:name":"Castella",
     "wof:parent_id":102048737,
     "wof:placetype":"localadmin",

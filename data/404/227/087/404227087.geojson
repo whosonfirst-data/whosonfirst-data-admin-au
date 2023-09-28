@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000246,
-    "geom:area_square_m":2536375.541376,
+    "geom:area_square_m":2536375.541382,
     "geom:bbox":"149.531430016,-33.4132589875,149.557630016,-33.398314336",
     "geom:latitude":-33.40539,
     "geom:longitude":149.545068,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.405979,
     "lbl:longitude":149.543762,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Windradyne"
@@ -50,12 +56,15 @@
         102049305
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12517"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932363
     ],
     "wof:country":"AU",
-    "wof:geomhash":"8437bfec576ce0dd426b1a71aeeb2f96",
+    "wof:geomhash":"ce141c84cf676fa0c428f32ff10ba9dc",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -67,7 +76,7 @@
         }
     ],
     "wof:id":404227087,
-    "wof:lastmodified":1566601952,
+    "wof:lastmodified":1695877110,
     "wof:name":"Windradyne",
     "wof:parent_id":102049305,
     "wof:placetype":"localadmin",

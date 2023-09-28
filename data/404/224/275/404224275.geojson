@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00047,
-    "geom:area_square_m":4849900.555157,
+    "geom:area_square_m":4849900.555161,
     "geom:bbox":"149.832723008,-33.4281763145,149.870692,-33.4081840675",
     "geom:latitude":-33.418408,
     "geom:longitude":149.852403,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.418733,
     "lbl:longitude":149.848618,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kirkconnell"
@@ -41,12 +47,15 @@
         102049305
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11267"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101930921
     ],
     "wof:country":"AU",
-    "wof:geomhash":"611b7ccee9a2c639189439a3f78fe126",
+    "wof:geomhash":"267d71f4c40e99622e3c578c188fd632",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404224275,
-    "wof:lastmodified":1566602589,
+    "wof:lastmodified":1695877468,
     "wof:name":"Kirkconnell",
     "wof:parent_id":102049305,
     "wof:placetype":"localadmin",

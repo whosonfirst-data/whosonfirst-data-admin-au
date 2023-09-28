@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002127,
-    "geom:area_square_m":24653427.981141,
+    "geom:area_square_m":24653427.981149,
     "geom:bbox":"148.674714848,-20.425162992,148.730484992,-20.3624629955",
     "geom:latitude":-20.392706,
     "geom:longitude":148.700687,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-20.394082,
     "lbl:longitude":148.700166,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Palm Grove"
@@ -41,9 +47,12 @@
         102049581
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31290"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"60896dd28002a1747b8d8fcc16dda46c",
+    "wof:geomhash":"60b5d00cf2a00f839714d19ef975dbfc",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404543663,
-    "wof:lastmodified":1566602133,
+    "wof:lastmodified":1695877209,
     "wof:name":"Palm Grove",
     "wof:parent_id":102049581,
     "wof:placetype":"localadmin",

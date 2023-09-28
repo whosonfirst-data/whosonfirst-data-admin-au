@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010285,
-    "geom:area_square_m":112898855.76883,
+    "geom:area_square_m":112898855.768731,
     "geom:bbox":"152.67969312,-27.4974210065,152.828460064,-27.318469193",
     "geom:latitude":-27.414292,
     "geom:longitude":152.76389,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.440195,
     "lbl:longitude":152.781457,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "England Creek"
@@ -39,9 +45,12 @@
         102049495
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30571"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"ebdcffe0e21535d0820ba5635753d27d",
+    "wof:geomhash":"c39de1362c3e78d6b673b1fd2e93e361",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":404542135,
-    "wof:lastmodified":1566602257,
+    "wof:lastmodified":1695877268,
     "wof:name":"England Creek",
     "wof:parent_id":102049495,
     "wof:placetype":"localadmin",

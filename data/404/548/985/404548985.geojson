@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000644,
-    "geom:area_square_m":5984906.26041,
+    "geom:area_square_m":5984906.260427,
     "geom:bbox":"146.9445104,-41.297021574,146.97890736,-41.2690509985",
     "geom:latitude":-41.282613,
     "geom:longitude":146.963553,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-41.283211,
     "lbl:longitude":146.964948,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Gravelly Beach"
@@ -38,12 +44,15 @@
         102049419
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60140"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938111
     ],
     "wof:country":"AU",
-    "wof:geomhash":"5773be3f94584e0e48b64f69575dcc7f",
+    "wof:geomhash":"f4a3e6498e107d4a0aa93a2ab111e666",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404548985,
-    "wof:lastmodified":1566603193,
+    "wof:lastmodified":1695877813,
     "wof:name":"Gravelly Beach",
     "wof:parent_id":102049419,
     "wof:placetype":"localadmin",

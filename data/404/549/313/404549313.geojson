@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000751,
-    "geom:area_square_m":6954870.400926,
+    "geom:area_square_m":6954870.400923,
     "geom:bbox":"147.120681664,-41.5012813505,147.166353568,-41.4627492175",
     "geom:latitude":-41.483984,
     "geom:longitude":147.142496,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-41.488466,
     "lbl:longitude":147.144762,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Prospect"
@@ -95,12 +101,15 @@
         102049411
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60286"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938225
     ],
     "wof:country":"AU",
-    "wof:geomhash":"84c2d6cceddd89518fe6d1868a3e7f56",
+    "wof:geomhash":"5dc99a3141afca41fe54d4d682e27b56",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -112,7 +121,7 @@
         }
     ],
     "wof:id":404549313,
-    "wof:lastmodified":1566602862,
+    "wof:lastmodified":1695877634,
     "wof:name":"Prospect",
     "wof:parent_id":102049411,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000389,
-    "geom:area_square_m":3616533.892017,
+    "geom:area_square_m":3616533.89201,
     "geom:bbox":"146.315949376,-41.205398141,146.344056832,-41.176771019",
     "geom:latitude":-41.194419,
     "geom:longitude":146.32831,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-41.197261,
     "lbl:longitude":146.328105,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Stony Rise"
@@ -39,12 +45,15 @@
         102048819
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60356"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938295
     ],
     "wof:country":"AU",
-    "wof:geomhash":"fa9a68cf92cfdc34b2ada9f512f6ce80",
+    "wof:geomhash":"c70be9a82b529b440248b654021a18c0",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404549471,
-    "wof:lastmodified":1566602834,
+    "wof:lastmodified":1695877616,
     "wof:name":"Stony Rise",
     "wof:parent_id":102048819,
     "wof:placetype":"localadmin",

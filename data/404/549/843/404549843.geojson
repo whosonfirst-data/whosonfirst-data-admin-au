@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002357,
-    "geom:area_square_m":28475931.110898,
+    "geom:area_square_m":28475931.110896,
     "geom:bbox":"134.880608992,-12.360597038,134.966985408,-12.30136803",
     "geom:latitude":-12.328996,
     "geom:longitude":134.925915,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-12.327181,
     "lbl:longitude":134.926573,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ramingining"
@@ -38,12 +44,15 @@
         102049201
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC70161"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938613
     ],
     "wof:country":"AU",
-    "wof:geomhash":"af19d4132f10a1993ba7d2ac1cd99f1c",
+    "wof:geomhash":"3c9c6e8dd2f7b6621adadf5db7313e39",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404549843,
-    "wof:lastmodified":1566602842,
+    "wof:lastmodified":1695877622,
     "wof:name":"Ramingining",
     "wof:parent_id":102049201,
     "wof:placetype":"localadmin",

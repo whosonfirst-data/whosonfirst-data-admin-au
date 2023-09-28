@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.081621,
-    "geom:area_square_m":821973005.198849,
+    "geom:area_square_m":821973005.198841,
     "geom:bbox":"140.097085568,-35.6492961935,140.404813312,-35.272373993",
     "geom:latitude":-35.468272,
     "geom:longitude":140.229002,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.479077,
     "lbl:longitude":140.226192,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Parrakie"
@@ -38,9 +44,12 @@
         102049159
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40555"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"a1c6a80605066e810acb1d6c36db4832",
+    "wof:geomhash":"4d83cad767c42ca5d633e67a9b5b603c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404546065,
-    "wof:lastmodified":1566603117,
+    "wof:lastmodified":1695877776,
     "wof:name":"Parrakie",
     "wof:parent_id":102049159,
     "wof:placetype":"localadmin",

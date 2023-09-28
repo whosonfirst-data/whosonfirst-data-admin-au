@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002825,
-    "geom:area_square_m":29910289.321457,
+    "geom:area_square_m":29910289.321464,
     "geom:bbox":"115.351802816,-31.1358550045,115.41925712,-31.064851727",
     "geom:latitude":-31.100186,
     "geom:longitude":115.390862,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.10026,
     "lbl:longitude":115.390221,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ledge Point"
@@ -38,12 +44,15 @@
         102049545
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50433"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937413
     ],
     "wof:country":"AU",
-    "wof:geomhash":"1122801f0d0dff666c8d4a04056a8496",
+    "wof:geomhash":"8afef7911bbf27a6919e8e38dc1cd193",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404547657,
-    "wof:lastmodified":1566602940,
+    "wof:lastmodified":1695877683,
     "wof:name":"Ledge Point",
     "wof:parent_id":102049545,
     "wof:placetype":"localadmin",

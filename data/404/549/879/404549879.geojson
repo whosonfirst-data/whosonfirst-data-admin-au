@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.615708,
-    "geom:area_square_m":7458881307.329068,
+    "geom:area_square_m":7458881307.328736,
     "geom:bbox":"130.020444,-11.94045,131.543133,-11.166035",
     "geom:latitude":-11.560224,
     "geom:longitude":130.817358,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-11.589189,
     "lbl:longitude":131.058477,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062c\u0632\u0631 \u062a\u064a\u0648\u064a"
@@ -88,19 +94,22 @@
     "qs:source":"Australian Bureau Of Statistics",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681533,
         102191583,
         85632793,
-        102049051,
         136253039,
-        85681533
+        102049051
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC70187"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         102049051
     ],
     "wof:country":"AU",
-    "wof:geomhash":"01b7e7daf963ba0046d5d06cc0292c14",
+    "wof:geomhash":"689ae11d152322f1c0344b6938f8c6d0",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -112,7 +121,7 @@
         }
     ],
     "wof:id":404549879,
-    "wof:lastmodified":1607999873,
+    "wof:lastmodified":1695877844,
     "wof:name":"Tiwi Islands",
     "wof:parent_id":102049051,
     "wof:placetype":"localadmin",

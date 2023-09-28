@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003847,
-    "geom:area_square_m":41832975.819166,
+    "geom:area_square_m":41832975.81911,
     "geom:bbox":"153.477120992,-28.4771921065,153.562817952,-28.403798999",
     "geom:latitude":-28.434386,
     "geom:longitude":153.523654,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.425568,
     "lbl:longitude":153.527119,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mooball"
@@ -38,9 +44,12 @@
         102048589
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11579"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"58317ffdb3de7289947d56c745c69fd4",
+    "wof:geomhash":"b70acc7038e7f081374d3f9a69b54dd1",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404224977,
-    "wof:lastmodified":1566602600,
+    "wof:lastmodified":1695877475,
     "wof:name":"Mooball",
     "wof:parent_id":102048589,
     "wof:placetype":"localadmin",

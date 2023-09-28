@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01123,
-    "geom:area_square_m":111993769.679121,
+    "geom:area_square_m":111993769.679189,
     "geom:bbox":"144.88656,-36.3126262735,145.03208,-36.1724600615",
     "geom:latitude":-36.245569,
     "geom:longitude":144.957773,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.228894,
     "lbl:longitude":144.963862,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tongala"
@@ -47,9 +53,12 @@
         102049529
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21342"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"070a63c5122c518a001764900446bfa2",
+    "wof:geomhash":"af97c7ebea23fe52b5cbaf0e8f1d3e13",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":404540489,
-    "wof:lastmodified":1566603025,
+    "wof:lastmodified":1695877733,
     "wof:name":"Tongala",
     "wof:parent_id":102049529,
     "wof:placetype":"localadmin",

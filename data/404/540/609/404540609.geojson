@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00935,
-    "geom:area_square_m":94427937.740687,
+    "geom:area_square_m":94427937.740698,
     "geom:bbox":"143.30868,-35.2826590495,143.454072544,-35.1822530008",
     "geom:latitude":-35.239944,
     "geom:longitude":143.38275,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.244883,
     "lbl:longitude":143.38414,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Vinifera"
@@ -38,9 +44,12 @@
         102049167
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21397"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"bebc99a33150c354a26b5f63078392c0",
+    "wof:geomhash":"31ad1369469c8c4c0d6896cacb0d307e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404540609,
-    "wof:lastmodified":1566603033,
+    "wof:lastmodified":1695877738,
     "wof:name":"Vinifera",
     "wof:parent_id":102049167,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":-35.12963,
     "geom:longitude":147.40251,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.132312,
     "lbl:longitude":147.402502,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "East Wagga Wagga"
@@ -47,12 +53,15 @@
         102049075
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10783"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101930173
     ],
     "wof:country":"AU",
-    "wof:geomhash":"061f682f2c8963419ec2982cf20e9647",
+    "wof:geomhash":"abbb68b18e274989a796b6135fd74f85",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":404223187,
-    "wof:lastmodified":1566602520,
+    "wof:lastmodified":1695877425,
     "wof:name":"East Wagga Wagga",
     "wof:parent_id":102049075,
     "wof:placetype":"localadmin",

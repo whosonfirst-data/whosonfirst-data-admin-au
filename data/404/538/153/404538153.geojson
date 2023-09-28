@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000852,
-    "geom:area_square_m":8308806.651665,
+    "geom:area_square_m":8308713.937283,
     "geom:bbox":"145.107522,-37.931374,145.150453,-37.899152",
     "geom:latitude":-37.91731,
     "geom:longitude":145.130414,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.917603,
     "lbl:longitude":145.132561,
     "lbl:max_zoom":18.0,
@@ -121,13 +127,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC20296",
         "wd:id":"Q5130161"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932759
     ],
     "wof:country":"AU",
-    "wof:geomhash":"89a8e6b03a0d9b27d931077814859856",
+    "wof:geomhash":"f8af7f3ce1ae459ce180648607f1932e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -140,7 +148,7 @@
         }
     ],
     "wof:id":404538153,
-    "wof:lastmodified":1690853586,
+    "wof:lastmodified":1695877958,
     "wof:name":"Clayton",
     "wof:parent_id":102048719,
     "wof:placetype":"localadmin",

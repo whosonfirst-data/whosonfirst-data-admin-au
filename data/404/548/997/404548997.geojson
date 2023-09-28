@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006964,
-    "geom:area_square_m":64465579.619213,
+    "geom:area_square_m":64465579.619135,
     "geom:bbox":"146.858539648,-41.5788199935,146.977123008,-41.467167998",
     "geom:latitude":-41.526067,
     "geom:longitude":146.909692,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-41.519923,
     "lbl:longitude":146.903844,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Hagley"
@@ -59,9 +65,12 @@
         102048535
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60146"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"7442e2a5af56810f48d3a26a320c3c52",
+    "wof:geomhash":"75fe613141f646d89d3023674c6d7dfe",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -73,7 +82,7 @@
         }
     ],
     "wof:id":404548997,
-    "wof:lastmodified":1566603164,
+    "wof:lastmodified":1695877796,
     "wof:name":"Hagley",
     "wof:parent_id":102048535,
     "wof:placetype":"localadmin",

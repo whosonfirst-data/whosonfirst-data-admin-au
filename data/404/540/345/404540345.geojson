@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018933,
-    "geom:area_square_m":186673068.275994,
+    "geom:area_square_m":186673068.275896,
     "geom:bbox":"144.902860192,-37.214354994,145.0590744,-37.009434009",
     "geom:latitude":-37.118308,
     "geom:longitude":144.97125,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.117463,
     "lbl:longitude":144.972724,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Sugarloaf Creek"
@@ -38,9 +44,12 @@
         102048437
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21278"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"29970596f80b8900dfc1a3925781f8b4",
+    "wof:geomhash":"daf736adb3c130605a0198e0971b4d16",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404540345,
-    "wof:lastmodified":1566603036,
+    "wof:lastmodified":1695877739,
     "wof:name":"Sugarloaf Creek",
     "wof:parent_id":102048437,
     "wof:placetype":"localadmin",

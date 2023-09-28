@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000217,
-    "geom:area_square_m":2253521.179581,
+    "geom:area_square_m":2253521.179571,
     "geom:bbox":"151.544176896,-32.751905133,151.575595552,-32.735072575",
     "geom:latitude":-32.745305,
     "geom:longitude":151.560995,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.745911,
     "lbl:longitude":151.561006,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "South Maitland"
@@ -39,12 +45,15 @@
         102048483
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12109"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931895
     ],
     "wof:country":"AU",
-    "wof:geomhash":"56a99ae2a20ff5ed6513f62621560598",
+    "wof:geomhash":"e2ad4d9a27553427106a31b0427a04c8",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404226169,
-    "wof:lastmodified":1566602021,
+    "wof:lastmodified":1695877143,
     "wof:name":"South Maitland",
     "wof:parent_id":102048483,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010169,
-    "geom:area_square_m":101391025.913511,
+    "geom:area_square_m":101391025.913509,
     "geom:bbox":"144.56275,-36.315686969,144.728595008,-36.2250467925",
     "geom:latitude":-36.261233,
     "geom:longitude":144.628664,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.265894,
     "lbl:longitude":144.605429,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bamawm"
@@ -38,9 +44,12 @@
         102049529
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20068"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"51706e40049fd1930a2079665b0e780c",
+    "wof:geomhash":"950d5d43a7c9cc63d36958bbc46305c6",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404537645,
-    "wof:lastmodified":1566602325,
+    "wof:lastmodified":1695877309,
     "wof:name":"Bamawm",
     "wof:parent_id":102049529,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.28226,
-    "geom:area_square_m":2840490479.329359,
+    "geom:area_square_m":2840490479.331132,
     "geom:bbox":"148.142358016,-36.0033655475,148.808757472,-35.1952809225",
     "geom:latitude":-35.526211,
     "geom:longitude":148.485336,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.491969,
     "lbl:longitude":148.490233,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Cabramurra"
@@ -38,9 +44,12 @@
         102049445
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10423"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"3c2ab89790c9b86f5159940d75e4f313",
+    "wof:geomhash":"e761ae617139334710cc493505bf89f1",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404222377,
-    "wof:lastmodified":1566602772,
+    "wof:lastmodified":1695877575,
     "wof:name":"Cabramurra",
     "wof:parent_id":102049445,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001872,
-    "geom:area_square_m":20123875.717648,
+    "geom:area_square_m":20123875.717665,
     "geom:bbox":"152.91182576,-29.612269171,152.996296416,-29.563486003",
     "geom:latitude":-29.587856,
     "geom:longitude":152.949399,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-29.592383,
     "lbl:longitude":152.938191,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Mountain View"
@@ -101,9 +107,12 @@
         102048835
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11638"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"886457a18a4d5f7b872c5247f6abe04c",
+    "wof:geomhash":"8169bb79a64d5cb6a5f5ebc405880517",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -115,7 +124,7 @@
         }
     ],
     "wof:id":404225111,
-    "wof:lastmodified":1566602693,
+    "wof:lastmodified":1695877525,
     "wof:name":"Mountain View",
     "wof:parent_id":102048835,
     "wof:placetype":"localadmin",

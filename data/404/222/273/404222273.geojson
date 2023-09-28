@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008108,
-    "geom:area_square_m":84426422.856753,
+    "geom:area_square_m":84426422.856567,
     "geom:bbox":"151.987991008,-32.6895639995,152.134398016,-32.5697200005",
     "geom:latitude":-32.634344,
     "geom:longitude":152.061654,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.621625,
     "lbl:longitude":152.048432,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bundabah"
@@ -38,9 +44,12 @@
         102049617
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10377"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"44674bb4b832fe5658e19cf4dd6e6e6c",
+    "wof:geomhash":"0fc9a2b10df383e17bcc42ab91d5fed8",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404222273,
-    "wof:lastmodified":1566602755,
+    "wof:lastmodified":1695877563,
     "wof:name":"Bundabah",
     "wof:parent_id":102049617,
     "wof:placetype":"localadmin",

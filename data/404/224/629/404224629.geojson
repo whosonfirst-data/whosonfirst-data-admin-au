@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025407,
-    "geom:area_square_m":264633090.754196,
+    "geom:area_square_m":264633090.754064,
     "geom:bbox":"149.613579008,-32.715938913,149.884767456,-32.5204809925",
     "geom:latitude":-32.610043,
     "geom:longitude":149.747541,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.594795,
     "lbl:longitude":149.722962,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lue"
@@ -38,9 +44,12 @@
         102049261
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11424"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"4033905fe72ff5ed1c361e1070281feb",
+    "wof:geomhash":"c1457f4bd3033e2cb63882f6861f378f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404224629,
-    "wof:lastmodified":1566602588,
+    "wof:lastmodified":1695877467,
     "wof:name":"Lue",
     "wof:parent_id":102049261,
     "wof:placetype":"localadmin",

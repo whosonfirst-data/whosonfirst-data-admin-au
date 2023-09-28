@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.613685,
-    "geom:area_square_m":7375171021.572813,
+    "geom:area_square_m":7375171021.57202,
     "geom:bbox":"141.466482,-14.4649,142.182215,-12.560353",
     "geom:latitude":-13.605708,
     "geom:longitude":141.827863,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-13.583595,
     "lbl:longitude":141.774115,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Aurukun"
@@ -31,19 +37,22 @@
     "qs:source":"Australian Bureau Of Statistics",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681463,
         102191583,
         85632793,
-        102048781,
         136253039,
-        85681463
+        102048781
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30072"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         102048781
     ],
     "wof:country":"AU",
-    "wof:geomhash":"7aabcefa89acfa1e114fa822e8013065",
+    "wof:geomhash":"22cbc1cf93a45621cb598341e95e2aa5",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404541089,
-    "wof:lastmodified":1608001259,
+    "wof:lastmodified":1695877846,
     "wof:name":"Aurukun",
     "wof:parent_id":102048781,
     "wof:placetype":"localadmin",

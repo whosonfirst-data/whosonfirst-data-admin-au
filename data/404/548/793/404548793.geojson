@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009969,
-    "geom:area_square_m":92270961.140723,
+    "geom:area_square_m":92270961.140709,
     "geom:bbox":"146.429542016,-41.5885050025,146.643056,-41.5013489865",
     "geom:latitude":-41.539291,
     "geom:longitude":146.527804,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-41.531771,
     "lbl:longitude":146.543906,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0686\u0627\u062f\u0644\u06cc"
@@ -68,9 +74,12 @@
         102048535
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60055"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"6dd9e9f7e92dbdea545af968dc7fae37",
+    "wof:geomhash":"d338d6b1cb304f2b6aa9ce4d5572c289",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -82,7 +91,7 @@
         }
     ],
     "wof:id":404548793,
-    "wof:lastmodified":1566603198,
+    "wof:lastmodified":1695877815,
     "wof:name":"Chudleigh",
     "wof:parent_id":102048535,
     "wof:placetype":"localadmin",

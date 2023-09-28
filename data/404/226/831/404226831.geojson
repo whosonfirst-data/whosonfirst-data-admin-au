@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008578,
-    "geom:area_square_m":86615188.463781,
+    "geom:area_square_m":86615188.463833,
     "geom:bbox":"149.26214592,-35.309024898,149.395458016,-35.200258995",
     "geom:latitude":-35.250733,
     "geom:longitude":149.332836,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.246861,
     "lbl:longitude":149.334105,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Wamboin"
@@ -38,9 +44,12 @@
         102049385
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12403"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"516263488e86347e2937efedb5b509de",
+    "wof:geomhash":"f66a22cfcac452226a2946525864d61f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404226831,
-    "wof:lastmodified":1566602074,
+    "wof:lastmodified":1695877177,
     "wof:name":"Wamboin",
     "wof:parent_id":102049385,
     "wof:placetype":"localadmin",

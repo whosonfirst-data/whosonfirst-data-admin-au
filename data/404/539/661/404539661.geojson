@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000336,
-    "geom:area_square_m":3324140.525662,
+    "geom:area_square_m":3324140.525653,
     "geom:bbox":"145.14538624,-36.802499595,145.166219008,-36.773746007",
     "geom:latitude":-36.788616,
     "geom:longitude":145.155178,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.791031,
     "lbl:longitude":145.152415,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Nagambie"
@@ -38,12 +44,15 @@
         102048611
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20971"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101933311
     ],
     "wof:country":"AU",
-    "wof:geomhash":"107bbb58f31eecf8403b1bd80f74174a",
+    "wof:geomhash":"8f894e98df957bc482a37ecda18cbee9",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404539661,
-    "wof:lastmodified":1566602373,
+    "wof:lastmodified":1695877338,
     "wof:name":"Nagambie",
     "wof:parent_id":102048611,
     "wof:placetype":"localadmin",

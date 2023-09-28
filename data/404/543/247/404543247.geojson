@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001346,
-    "geom:area_square_m":14810282.981816,
+    "geom:area_square_m":14810282.981843,
     "geom:bbox":"152.848320448,-27.171689009,152.89413,-27.1242858855",
     "geom:latitude":-27.149074,
     "geom:longitude":152.872986,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.151344,
     "lbl:longitude":152.874842,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Moorina"
@@ -42,9 +48,12 @@
         102049131
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31096"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"625057dd5caabeb6b2d4f432577a5579",
+    "wof:geomhash":"4d056022c3fa9984fcb83b8cb5775eef",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404543247,
-    "wof:lastmodified":1566602130,
+    "wof:lastmodified":1695877207,
     "wof:name":"Moorina",
     "wof:parent_id":102049131,
     "wof:placetype":"localadmin",

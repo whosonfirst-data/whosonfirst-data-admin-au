@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001738,
-    "geom:area_square_m":16981512.745774,
+    "geom:area_square_m":16981512.745787,
     "geom:bbox":"145.359410496,-37.8109198135,145.4186448,-37.7641026035",
     "geom:latitude":-37.787292,
     "geom:longitude":145.388211,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.783601,
     "lbl:longitude":145.391164,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mount Evelyn"
@@ -39,12 +45,15 @@
         102048969
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20940"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101933293
     ],
     "wof:country":"AU",
-    "wof:geomhash":"22d673318bbb1750ff46db8c9c7c8b64",
+    "wof:geomhash":"5a098c96269c96dfa5db3c9b08bcaff3",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404539591,
-    "wof:lastmodified":1566602391,
+    "wof:lastmodified":1695877350,
     "wof:name":"Mount Evelyn",
     "wof:parent_id":102048969,
     "wof:placetype":"localadmin",

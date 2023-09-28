@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015389,
-    "geom:area_square_m":157571955.888213,
+    "geom:area_square_m":157571955.888194,
     "geom:bbox":"141.974140992,-34.177532893,142.173099776,-34.041003004",
     "geom:latitude":-34.098051,
     "geom:longitude":142.092496,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.092734,
     "lbl:longitude":142.102295,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Coomealla"
@@ -38,9 +44,12 @@
         102049399
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10602"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"2e9434ec26e4b47427d852b17d99b2ee",
+    "wof:geomhash":"65dfbba69ba43e48ea1e1261281738ef",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404222779,
-    "wof:lastmodified":1566602781,
+    "wof:lastmodified":1695877580,
     "wof:name":"Coomealla",
     "wof:parent_id":102049399,
     "wof:placetype":"localadmin",

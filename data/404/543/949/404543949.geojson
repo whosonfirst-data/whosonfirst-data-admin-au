@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003565,
-    "geom:area_square_m":40505886.787361,
+    "geom:area_square_m":40505886.787406,
     "geom:bbox":"150.468801216,-23.2884305065,150.554260992,-23.1909255905",
     "geom:latitude":-23.241299,
     "geom:longitude":150.512963,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-23.246907,
     "lbl:longitude":150.519398,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Rockyview"
@@ -38,9 +44,12 @@
         102048825
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31421"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"a7032c1c4f8a2ad0acdad1627bd268b9",
+    "wof:geomhash":"8e46a83da74f41aa6e8fd29ff8e53262",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404543949,
-    "wof:lastmodified":1566602117,
+    "wof:lastmodified":1695877201,
     "wof:name":"Rockyview",
     "wof:parent_id":102048825,
     "wof:placetype":"localadmin",

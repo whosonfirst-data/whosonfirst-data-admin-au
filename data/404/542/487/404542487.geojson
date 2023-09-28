@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000127,
-    "geom:area_square_m":1388558.316425,
+    "geom:area_square_m":1388558.316435,
     "geom:bbox":"153.053319712,-27.473275972,153.064458016,-27.456300002",
     "geom:latitude":-27.463965,
     "geom:longitude":153.059231,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.463516,
     "lbl:longitude":153.059337,
     "lbl:max_zoom":18.0,
@@ -97,13 +103,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC30736",
         "wd:id":"Q5685534"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934515
     ],
     "wof:country":"AU",
-    "wof:geomhash":"6ad206b20d25769aad42bf2495878690",
+    "wof:geomhash":"54c032090ad0ffbb5ff303d633499a96",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -116,7 +124,7 @@
         }
     ],
     "wof:id":404542487,
-    "wof:lastmodified":1566602302,
+    "wof:lastmodified":1695877943,
     "wof:name":"Hawthorne",
     "wof:parent_id":102049495,
     "wof:placetype":"localadmin",

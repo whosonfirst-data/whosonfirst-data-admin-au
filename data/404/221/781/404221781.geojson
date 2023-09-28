@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003446,
-    "geom:area_square_m":35004143.514933,
+    "geom:area_square_m":35004143.514911,
     "geom:bbox":"150.582041536,-34.7988249975,150.683447008,-34.734836994",
     "geom:latitude":-34.762483,
     "geom:longitude":150.630732,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.755426,
     "lbl:longitude":150.64687,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bellawongarah"
@@ -38,9 +44,12 @@
         102049405
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10158"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"991a0ab30164a0b8da5522d0d5345385",
+    "wof:geomhash":"0d73968a09d5a339cbd4a5bea38136b4",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404221781,
-    "wof:lastmodified":1566602006,
+    "wof:lastmodified":1695877135,
     "wof:name":"Bellawongarah",
     "wof:parent_id":102049405,
     "wof:placetype":"localadmin",

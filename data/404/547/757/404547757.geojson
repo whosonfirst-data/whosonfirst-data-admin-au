@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.160132,
-    "geom:area_square_m":1641537546.516585,
+    "geom:area_square_m":1641537546.516358,
     "geom:bbox":"116.356416704,-34.2576032795,116.842470048,-33.6819918005",
     "geom:latitude":-34.000094,
     "geom:longitude":116.626779,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.003721,
     "lbl:longitude":116.602855,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mayanup"
@@ -38,9 +44,12 @@
         102048873
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50478"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"0640c578a267c5520989013096bb5e40",
+    "wof:geomhash":"2b3a2088e9045bd236f58704ba77c7e8",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404547757,
-    "wof:lastmodified":1566602955,
+    "wof:lastmodified":1695877691,
     "wof:name":"Mayanup",
     "wof:parent_id":102048873,
     "wof:placetype":"localadmin",

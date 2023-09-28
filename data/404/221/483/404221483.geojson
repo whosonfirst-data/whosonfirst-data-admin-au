@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003249,
-    "geom:area_square_m":33801475.144401,
+    "geom:area_square_m":33801475.144371,
     "geom:bbox":"151.357404,-32.7418008215,151.439660992,-32.6569600065",
     "geom:latitude":-32.70363,
     "geom:longitude":151.398822,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.709975,
     "lbl:longitude":151.4057,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Allandale"
@@ -44,9 +50,12 @@
         102048575
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10026"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"6ce27239895d5984ca290f1d80b478fa",
+    "wof:geomhash":"5c028eb89978491df160a47f62b3e159",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404221483,
-    "wof:lastmodified":1566601974,
+    "wof:lastmodified":1695877121,
     "wof:name":"Allandale",
     "wof:parent_id":102048575,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000657,
-    "geom:area_square_m":6644197.871395,
+    "geom:area_square_m":6644197.871384,
     "geom:bbox":"138.546705984,-35.1219609085,138.585760192,-35.0915309985",
     "geom:latitude":-35.102357,
     "geom:longitude":138.56292,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.10236,
     "lbl:longitude":138.558041,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Woodcroft"
@@ -48,12 +54,15 @@
         102048473
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40818"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101936783
     ],
     "wof:country":"AU",
-    "wof:geomhash":"593dcd06abb38d6cbf8ab7f595662b5a",
+    "wof:geomhash":"428249b72c49d22ff01e3014b2d9dd56",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -66,7 +75,7 @@
         }
     ],
     "wof:id":404546629,
-    "wof:lastmodified":1566603116,
+    "wof:lastmodified":1695877776,
     "wof:name":"Woodcroft",
     "wof:parent_id":102048473,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034907,
-    "geom:area_square_m":324333258.339312,
+    "geom:area_square_m":324333258.340212,
     "geom:bbox":"148.091740992,-41.420874005,148.340818944,-41.0982567785",
     "geom:latitude":-41.286556,
     "geom:longitude":148.218153,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-41.268095,
     "lbl:longitude":148.226484,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "St Helens"
@@ -92,9 +98,12 @@
         102049669
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60350"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"904435124f357d0f13e0ed130a5abcd4",
+    "wof:geomhash":"7464cfa8eae5f2ecf5022b8cdc285d07",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -106,7 +115,7 @@
         }
     ],
     "wof:id":404549457,
-    "wof:lastmodified":1566602904,
+    "wof:lastmodified":1695877663,
     "wof:name":"St Helens",
     "wof:parent_id":102049669,
     "wof:placetype":"localadmin",

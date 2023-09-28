@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00571,
-    "geom:area_square_m":55900086.852223,
+    "geom:area_square_m":55900086.852243,
     "geom:bbox":"144.059358976,-37.708629003,144.178879008,-37.6013805255",
     "geom:latitude":-37.648227,
     "geom:longitude":144.110241,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.642618,
     "lbl:longitude":144.109261,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mount Egerton"
@@ -50,9 +56,12 @@
         102049283
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20938"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"96ef9d57e3cb47e27ebc148c78634df1",
+    "wof:geomhash":"996eefb3fca966b09bb82bb4610565cb",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":404539585,
-    "wof:lastmodified":1566602409,
+    "wof:lastmodified":1695877363,
     "wof:name":"Mount Egerton",
     "wof:parent_id":102049283,
     "wof:placetype":"localadmin",

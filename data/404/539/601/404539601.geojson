@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004182,
-    "geom:area_square_m":40626277.905448,
+    "geom:area_square_m":40626277.905453,
     "geom:bbox":"144.130612992,-38.2352029945,144.248810752,-38.1856470075",
     "geom:latitude":-38.212709,
     "geom:longitude":144.191687,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.214345,
     "lbl:longitude":144.196357,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mount Moriac"
@@ -38,9 +44,12 @@
         102048931
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20945"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"6357433828a9b9493602618a11dd262b",
+    "wof:geomhash":"5d1d4648d7491207c248e72a575d2f93",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404539601,
-    "wof:lastmodified":1566602404,
+    "wof:lastmodified":1695877360,
     "wof:name":"Mount Moriac",
     "wof:parent_id":102048931,
     "wof:placetype":"localadmin",

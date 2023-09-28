@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024848,
-    "geom:area_square_m":275816931.720045,
+    "geom:area_square_m":275816931.719479,
     "geom:bbox":"151.935404,-26.2628271325,152.150710016,-26.029987335",
     "geom:latitude":-26.144301,
     "geom:longitude":152.040212,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-26.13969,
     "lbl:longitude":152.038654,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Goomeri"
@@ -53,9 +59,12 @@
         102049393
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30681"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"f0b6f7a6e7196c4c6474578fbbf2a79a",
+    "wof:geomhash":"26e05c10de76317ef8c90362d51fa970",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -67,7 +76,7 @@
         }
     ],
     "wof:id":404542371,
-    "wof:lastmodified":1566602285,
+    "wof:lastmodified":1695877284,
     "wof:name":"Goomeri",
     "wof:parent_id":102049393,
     "wof:placetype":"localadmin",

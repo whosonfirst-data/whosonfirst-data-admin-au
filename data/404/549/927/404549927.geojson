@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000155,
-    "geom:area_square_m":1563546.047497,
+    "geom:area_square_m":1563546.047498,
     "geom:bbox":"149.073619648,-35.26525264,149.08931632,-35.250451715",
     "geom:latitude":-35.258171,
     "geom:longitude":149.080404,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.257891,
     "lbl:longitude":149.080253,
     "lbl:max_zoom":18.0,
@@ -95,13 +101,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC80004",
         "wd:id":"Q288948"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938705
     ],
     "wof:country":"AU",
-    "wof:geomhash":"bba94b3b96b376e7862fd968fe916e99",
+    "wof:geomhash":"6570b8259894dcf89b77d67ed258c888",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -112,7 +120,7 @@
         }
     ],
     "wof:id":404549927,
-    "wof:lastmodified":1566602912,
+    "wof:lastmodified":1695878013,
     "wof:name":"Aranda",
     "wof:parent_id":85681493,
     "wof:placetype":"localadmin",

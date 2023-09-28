@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006714,
-    "geom:area_square_m":71270554.519839,
+    "geom:area_square_m":71270554.519811,
     "geom:bbox":"152.857610016,-30.910369993,152.979708992,-30.793698004",
     "geom:latitude":-30.860298,
     "geom:longitude":152.932093,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-30.860466,
     "lbl:longitude":152.932088,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Yarrahapinni"
@@ -38,9 +44,12 @@
         102048527
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12596"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"6aae5bd3683ce50e4820f9592be195f3",
+    "wof:geomhash":"7873a563899514cab3b1be9491c7a4bf",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404227265,
-    "wof:lastmodified":1566601956,
+    "wof:lastmodified":1695877112,
     "wof:name":"Yarrahapinni",
     "wof:parent_id":102048527,
     "wof:placetype":"localadmin",

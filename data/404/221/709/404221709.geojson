@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02263,
-    "geom:area_square_m":237231796.618056,
+    "geom:area_square_m":237231796.617753,
     "geom:bbox":"151.696366752,-32.141974711,151.949782208,-31.9434180035",
     "geom:latitude":-32.029782,
     "geom:longitude":151.833493,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.012197,
     "lbl:longitude":151.831602,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Barrington"
@@ -98,9 +104,12 @@
         102049121
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10126"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"e80fa462a2579a40049338f20040c69a",
+    "wof:geomhash":"3758fbeeea4df7a15b5c272a67ac4057",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -112,7 +121,7 @@
         }
     ],
     "wof:id":404221709,
-    "wof:lastmodified":1566601967,
+    "wof:lastmodified":1695877117,
     "wof:name":"Barrington",
     "wof:parent_id":102049121,
     "wof:placetype":"localadmin",

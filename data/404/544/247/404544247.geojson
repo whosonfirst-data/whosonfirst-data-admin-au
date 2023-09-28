@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001209,
-    "geom:area_square_m":13188373.332365,
+    "geom:area_square_m":13188373.332356,
     "geom:bbox":"153.290039616,-28.083924675,153.35477552,-28.041052368",
     "geom:latitude":-28.064071,
     "geom:longitude":153.325891,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.070744,
     "lbl:longitude":153.3308,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tallai"
@@ -39,12 +45,15 @@
         102049363
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31566"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935419
     ],
     "wof:country":"AU",
-    "wof:geomhash":"b6bc59bb13595fa9fe254698f1b43ea2",
+    "wof:geomhash":"3e9a6cc6f6bc554e0d46f69728586a59",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404544247,
-    "wof:lastmodified":1566602189,
+    "wof:lastmodified":1695877238,
     "wof:name":"Tallai",
     "wof:parent_id":102049363,
     "wof:placetype":"localadmin",

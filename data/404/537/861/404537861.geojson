@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000992,
-    "geom:area_square_m":9643626.841337,
+    "geom:area_square_m":9643626.841342,
     "geom:bbox":"145.245498112,-38.1534255945,145.293522112,-38.1240510355",
     "geom:latitude":-38.139222,
     "geom:longitude":145.268415,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.138535,
     "lbl:longitude":145.268413,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Botanic Ridge"
@@ -39,9 +45,12 @@
         102048685
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20165"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"3d67f8e87043e1b0412cfa7f3f015c76",
+    "wof:geomhash":"98b0d8f4ddaabe9fde4c03258786fd93",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":404537861,
-    "wof:lastmodified":1566602328,
+    "wof:lastmodified":1695877311,
     "wof:name":"Botanic Ridge",
     "wof:parent_id":102048685,
     "wof:placetype":"localadmin",

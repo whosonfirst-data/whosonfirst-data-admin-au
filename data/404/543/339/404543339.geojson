@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006889,
-    "geom:area_square_m":76009116.614218,
+    "geom:area_square_m":76009116.614285,
     "geom:bbox":"152.533576992,-26.924575999,152.614152992,-26.775614147",
     "geom:latitude":-26.842551,
     "geom:longitude":152.578663,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-26.847908,
     "lbl:longitude":152.578028,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mount Kilcoy"
@@ -38,9 +44,12 @@
         102049287
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31138"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"8f689fc1d015d43aee173aa946fbf916",
+    "wof:geomhash":"8354c8fdc26beeb2da75fd238de489f5",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404543339,
-    "wof:lastmodified":1566602096,
+    "wof:lastmodified":1695877189,
     "wof:name":"Mount Kilcoy",
     "wof:parent_id":102049287,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.119837,
-    "geom:area_square_m":1260627623.622866,
+    "geom:area_square_m":1260627623.622338,
     "geom:bbox":"148.663430016,-31.9154341265,149.099170816,-31.4602459925",
     "geom:latitude":-31.708206,
     "geom:longitude":148.876114,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.735264,
     "lbl:longitude":148.915528,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Biddon"
@@ -38,9 +44,12 @@
         102048991
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10205"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"35e0766887b29b2dc1f69f5d8b91d1f6",
+    "wof:geomhash":"0c636c8fe10ba1845556469daa468fb8",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404221885,
-    "wof:lastmodified":1566601997,
+    "wof:lastmodified":1695877131,
     "wof:name":"Biddon",
     "wof:parent_id":102048991,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000111,
-    "geom:area_square_m":1153089.59971,
+    "geom:area_square_m":1153089.599715,
     "geom:bbox":"151.762074656,-32.937769046,151.787221824,-32.9241602055",
     "geom:latitude":-32.928854,
     "geom:longitude":151.777402,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.927799,
     "lbl:longitude":151.782607,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Newcastle"
@@ -174,12 +180,15 @@
         102048981
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11717"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931395
     ],
     "wof:country":"AU",
-    "wof:geomhash":"97a6f87776d972c7c4d550dfc015ed94",
+    "wof:geomhash":"7257b8929b83bebf4b603888a751355d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -192,7 +201,7 @@
         }
     ],
     "wof:id":404225287,
-    "wof:lastmodified":1566602672,
+    "wof:lastmodified":1695877514,
     "wof:name":"Newcastle",
     "wof:parent_id":102048981,
     "wof:placetype":"localadmin",

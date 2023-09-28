@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000118,
-    "geom:area_square_m":1213207.508061,
+    "geom:area_square_m":1213207.508054,
     "geom:bbox":"151.267947488,-33.893710999,151.285976992,-33.8780471415",
     "geom:latitude":-33.884468,
     "geom:longitude":151.278201,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.88211,
     "lbl:longitude":151.275809,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "North Bondi"
@@ -39,12 +45,15 @@
         102049285
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11740"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931433
     ],
     "wof:country":"AU",
-    "wof:geomhash":"3089a315c38b3effb8536228dfdbda60",
+    "wof:geomhash":"2cfd98d0c88dce8affd9f3c458f589d3",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404225339,
-    "wof:lastmodified":1566602663,
+    "wof:lastmodified":1695877509,
     "wof:name":"North Bondi",
     "wof:parent_id":102049285,
     "wof:placetype":"localadmin",

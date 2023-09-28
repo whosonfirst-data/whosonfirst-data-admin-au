@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001133,
-    "geom:area_square_m":13381911.149798,
+    "geom:area_square_m":13381911.149822,
     "geom:bbox":"145.726819936,-17.1658360075,145.77428304,-17.125222458",
     "geom:latitude":-17.146047,
     "geom:longitude":145.752364,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-17.146469,
     "lbl:longitude":145.75202,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Goldsborough"
@@ -47,9 +53,12 @@
         102048911
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30673"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"d433c36f80499c291d24a54725c903c7",
+    "wof:geomhash":"c0283228a95cb675bde727e266b35dd0",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":404542353,
-    "wof:lastmodified":1566602263,
+    "wof:lastmodified":1695877271,
     "wof:name":"Goldsborough",
     "wof:parent_id":102048911,
     "wof:placetype":"localadmin",

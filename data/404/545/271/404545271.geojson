@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.073898,
-    "geom:area_square_m":756176459.06151,
+    "geom:area_square_m":756176459.061923,
     "geom:bbox":"139.061384704,-34.332332124,139.358038336,-33.9714359185",
     "geom:latitude":-34.15255,
     "geom:longitude":139.239006,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.156769,
     "lbl:longitude":139.239005,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Eudunda"
@@ -47,9 +53,12 @@
         102049547
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40188"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"aecbf5f44467c6a86cef761659ce94aa",
+    "wof:geomhash":"7bc80975962ce9ac52a632fe58fafac5",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":404545271,
-    "wof:lastmodified":1566602243,
+    "wof:lastmodified":1695877262,
     "wof:name":"Eudunda",
     "wof:parent_id":102049547,
     "wof:placetype":"localadmin",

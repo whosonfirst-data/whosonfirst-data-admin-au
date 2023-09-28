@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003642,
-    "geom:area_square_m":39461480.44089,
+    "geom:area_square_m":39461480.440941,
     "geom:bbox":"153.035543584,-28.870463608,153.097953856,-28.768325996",
     "geom:latitude":-28.814167,
     "geom:longitude":153.067325,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.791013,
     "lbl:longitude":153.05951,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "North Casino"
@@ -38,9 +44,12 @@
         102049223
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11742"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"89b0a5dc79a5ca02d78897586f590a7d",
+    "wof:geomhash":"247c53c94be159c0274eeab6e8bc63ad",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404225345,
-    "wof:lastmodified":1566602734,
+    "wof:lastmodified":1695877550,
     "wof:name":"North Casino",
     "wof:parent_id":102049223,
     "wof:placetype":"localadmin",

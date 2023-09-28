@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.203839,
-    "geom:area_square_m":2042826340.851812,
+    "geom:area_square_m":2042826340.851656,
     "geom:bbox":"136.53294192,-36.086603985,137.25026576,-35.6487361985",
     "geom:latitude":-35.857015,
     "geom:longitude":136.90972,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.852802,
     "lbl:longitude":136.938684,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Vivonne Bay"
@@ -38,9 +44,12 @@
         102049105
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40755"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"e59d03b96bcaa3a1e166f1c764759fb9",
+    "wof:geomhash":"632bf2e08e43a121991e2ade703dadbd",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404546491,
-    "wof:lastmodified":1566603122,
+    "wof:lastmodified":1695877778,
     "wof:name":"Vivonne Bay",
     "wof:parent_id":102049105,
     "wof:placetype":"localadmin",

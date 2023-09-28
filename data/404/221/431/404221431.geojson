@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000101,
-    "geom:area_square_m":1041910.848424,
+    "geom:area_square_m":1041910.848427,
     "geom:bbox":"149.533730016,-33.3951752375,149.557851008,-33.383890145",
     "geom:latitude":-33.388672,
     "geom:longitude":149.545803,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.38706,
     "lbl:longitude":149.543981,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Abercrombie"
@@ -86,12 +92,15 @@
         102049305
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10003"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101929343
     ],
     "wof:country":"AU",
-    "wof:geomhash":"e0e921c5059b0b105fe36121f152c07e",
+    "wof:geomhash":"9f43d3603542c6856d8cef1d96a7c325",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -103,7 +112,7 @@
         }
     ],
     "wof:id":404221431,
-    "wof:lastmodified":1566601979,
+    "wof:lastmodified":1695877123,
     "wof:name":"Abercrombie",
     "wof:parent_id":102049305,
     "wof:placetype":"localadmin",

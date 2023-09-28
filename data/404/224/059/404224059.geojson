@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.109313,
-    "geom:area_square_m":1127684548.272946,
+    "geom:area_square_m":1127684548.272417,
     "geom:bbox":"147.403483232,-33.7092749715,147.845672,-33.209691999",
     "geom:latitude":-33.458266,
     "geom:longitude":147.580312,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.462092,
     "lbl:longitude":147.558507,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Jemalong"
@@ -38,9 +44,12 @@
         102048487
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11171"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"7a23cedc2623e60d5150d4994b1c812b",
+    "wof:geomhash":"fd7aa1aadd05499fc3908f4cabecaa19",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404224059,
-    "wof:lastmodified":1566602638,
+    "wof:lastmodified":1695877495,
     "wof:name":"Jemalong",
     "wof:parent_id":102048487,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006436,
-    "geom:area_square_m":65060089.253461,
+    "geom:area_square_m":65060089.253205,
     "geom:bbox":"138.892052896,-35.215234005,139.038905152,-35.112825664",
     "geom:latitude":-35.157234,
     "geom:longitude":138.961598,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.149898,
     "lbl:longitude":138.966636,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Highland Valley"
@@ -38,9 +44,12 @@
         102048815
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40292"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"66dc1b980cbc0d5fb94c2610b8c2647d",
+    "wof:geomhash":"f978ed1c5d31af014ebd079fb468e7f2",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404545497,
-    "wof:lastmodified":1566602222,
+    "wof:lastmodified":1695877253,
     "wof:name":"Highland Valley",
     "wof:parent_id":102048815,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":8.964341,
-    "geom:area_square_m":100328439838.450943,
+    "geom:area_square_m":100328439838.451828,
     "geom:bbox":"117.208090304,-27.3133172945,120.791402624,-23.2932868675",
     "geom:latitude":-25.140866,
     "geom:longitude":118.864786,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-25.170328,
     "lbl:longitude":118.899026,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Peak Hill"
@@ -47,9 +53,12 @@
         102049527
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50630"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"754f6bab4ecb3ea81af17751ec327a94",
+    "wof:geomhash":"cdb04c81e9a688870fb46899bb2a4b7f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":404548097,
-    "wof:lastmodified":1566603184,
+    "wof:lastmodified":1695877807,
     "wof:name":"Peak Hill",
     "wof:parent_id":102049527,
     "wof:placetype":"localadmin",

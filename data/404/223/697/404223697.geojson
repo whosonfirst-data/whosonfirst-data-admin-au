@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.053533,
-    "geom:area_square_m":557341314.914177,
+    "geom:area_square_m":557341314.914399,
     "geom:bbox":"149.143932992,-32.7702806465,149.604298016,-32.5222612475",
     "geom:latitude":-32.650545,
     "geom:longitude":149.370583,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.618484,
     "lbl:longitude":149.367163,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Grattai"
@@ -38,9 +44,12 @@
         102049261
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11010"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"567e6988d5108ee13efd053eb41fbb00",
+    "wof:geomhash":"5ef2709e5c56a646d8f6140a3787ea12",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404223697,
-    "wof:lastmodified":1566602551,
+    "wof:lastmodified":1695877446,
     "wof:name":"Grattai",
     "wof:parent_id":102049261,
     "wof:placetype":"localadmin",

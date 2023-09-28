@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.217968,
-    "geom:area_square_m":2440794759.58378,
+    "geom:area_square_m":2440794759.584609,
     "geom:bbox":"150.119131008,-25.490462326,150.605970016,-24.728184996",
     "geom:latitude":-25.094649,
     "geom:longitude":150.351869,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-25.04474,
     "lbl:longitude":150.355594,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Cracow"
@@ -38,9 +44,12 @@
         102049135
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30440"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"8c1422107462247225a4ddf310e848f7",
+    "wof:geomhash":"b16f90216220214db3af5ca23e74c0e3",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404541863,
-    "wof:lastmodified":1566603093,
+    "wof:lastmodified":1695877767,
     "wof:name":"Cracow",
     "wof:parent_id":102049135,
     "wof:placetype":"localadmin",

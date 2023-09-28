@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00625,
-    "geom:area_square_m":62175923.028394,
+    "geom:area_square_m":62175923.02836,
     "geom:bbox":"146.3355,-36.4986779985,146.420794016,-36.379674991",
     "geom:latitude":-36.437196,
     "geom:longitude":146.380506,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.443277,
     "lbl:longitude":146.375405,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Oxley"
@@ -50,9 +56,12 @@
         102049395
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21062"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"fbd44d216bcd53364895a28c29fc058c",
+    "wof:geomhash":"b512d88efd3829b7aeb30d57dc319ba2",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":404539861,
-    "wof:lastmodified":1566602367,
+    "wof:lastmodified":1695877335,
     "wof:name":"Oxley",
     "wof:parent_id":102049395,
     "wof:placetype":"localadmin",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000541,
-    "geom:area_square_m":5290264.969137,
+    "geom:area_square_m":5290281.231144,
     "geom:bbox":"144.97924,-37.766632,145.032263,-37.750271",
     "geom:latitude":-37.758288,
     "geom:longitude":145.005138,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.758274,
     "lbl:longitude":145.005174,
     "lbl:max_zoom":18.0,
@@ -82,10 +88,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC21333",
         "gn:id":2146793,
         "qs_pg:id":1028563,
         "wd:id":"Q12006208"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101933633
     ],
@@ -93,7 +101,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"964b8a3cd319df2a1bdbe8f47ca54c3e",
+    "wof:geomhash":"1baff010c1d2761b18838c546b452957",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -106,7 +114,7 @@
         }
     ],
     "wof:id":404540467,
-    "wof:lastmodified":1690853787,
+    "wof:lastmodified":1695878054,
     "wof:name":"Thornbury",
     "wof:parent_id":102048925,
     "wof:placetype":"localadmin",

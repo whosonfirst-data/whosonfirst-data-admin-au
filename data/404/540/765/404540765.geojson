@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.03286,
-    "geom:area_square_m":325439561.576475,
+    "geom:area_square_m":325439561.576518,
     "geom:bbox":"146.237301504,-36.9250563785,146.470227008,-36.6586705125",
     "geom:latitude":-36.780131,
     "geom:longitude":146.329817,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.772531,
     "lbl:longitude":146.321883,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Whitfield"
@@ -89,9 +95,12 @@
         102049395
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21466"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"189d5d30bdece30e39c70d40617bbe87",
+    "wof:geomhash":"891fb59e96b9429298d8c1c7002529be",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -103,7 +112,7 @@
         }
     ],
     "wof:id":404540765,
-    "wof:lastmodified":1566602986,
+    "wof:lastmodified":1695877711,
     "wof:name":"Whitfield",
     "wof:parent_id":102049395,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000358,
-    "geom:area_square_m":3791516.201405,
+    "geom:area_square_m":3791516.201407,
     "geom:bbox":"150.895981856,-31.121136978,150.927761216,-31.1023680065",
     "geom:latitude":-31.109963,
     "geom:longitude":150.914324,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.110501,
     "lbl:longitude":150.917798,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "South Tamworth"
@@ -38,12 +44,15 @@
         102048785
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12115"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931907
     ],
     "wof:country":"AU",
-    "wof:geomhash":"fbea0bfd3357c8509edbb9c620e799c1",
+    "wof:geomhash":"00d18af25551ec7efb7ef1d63a05cd0e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404226183,
-    "wof:lastmodified":1566602085,
+    "wof:lastmodified":1695877184,
     "wof:name":"South Tamworth",
     "wof:parent_id":102048785,
     "wof:placetype":"localadmin",

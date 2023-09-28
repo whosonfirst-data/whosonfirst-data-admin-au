@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015097,
-    "geom:area_square_m":146125643.030033,
+    "geom:area_square_m":146125643.029912,
     "geom:bbox":"146.064716,-38.5379509805,146.29538592,-38.430726997",
     "geom:latitude":-38.483244,
     "geom:longitude":146.184342,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.488067,
     "lbl:longitude":146.193736,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mirboo"
@@ -38,9 +44,12 @@
         102048701
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20900"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"557d4c0e7bb9c25295c6fdc2998c85be",
+    "wof:geomhash":"4c8af72a2a1ecd8642125f7698adac40",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404539501,
-    "wof:lastmodified":1566602385,
+    "wof:lastmodified":1695877346,
     "wof:name":"Mirboo",
     "wof:parent_id":102048701,
     "wof:placetype":"localadmin",

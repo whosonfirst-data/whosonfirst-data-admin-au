@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003255,
-    "geom:area_square_m":33098403.396545,
+    "geom:area_square_m":33098403.396568,
     "geom:bbox":"138.767782016,-34.7241290645,138.848043616,-34.636012029",
     "geom:latitude":-34.684689,
     "geom:longitude":138.803749,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.681316,
     "lbl:longitude":138.789829,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Yattalunga"
@@ -42,9 +48,12 @@
         102049603
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40840"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"e2ba735167b17121df946a9743fd6c26",
+    "wof:geomhash":"1c6b0a8f03948f9a65e96f98da7cf712",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404546675,
-    "wof:lastmodified":1566603108,
+    "wof:lastmodified":1695877772,
     "wof:name":"Yattalunga",
     "wof:parent_id":102049603,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000076,
-    "geom:area_square_m":774433.431284,
+    "geom:area_square_m":774433.431282,
     "geom:bbox":"150.860307616,-34.446755068,150.880092512,-34.436982998",
     "geom:latitude":-34.441707,
     "geom:longitude":150.869812,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.441402,
     "lbl:longitude":150.868313,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mount Saint Thomas"
@@ -38,12 +44,15 @@
         102048853
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11630"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931329
     ],
     "wof:country":"AU",
-    "wof:geomhash":"325c4fee1b989cbd2d5246f447a4a7bc",
+    "wof:geomhash":"804c969b4065931dbb1e83d4c4bef75b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404225093,
-    "wof:lastmodified":1566602730,
+    "wof:lastmodified":1695877548,
     "wof:name":"Mount Saint Thomas",
     "wof:parent_id":102048853,
     "wof:placetype":"localadmin",

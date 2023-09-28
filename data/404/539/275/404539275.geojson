@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004095,
-    "geom:area_square_m":40538788.6437,
+    "geom:area_square_m":40538788.643637,
     "geom:bbox":"144.119412992,-36.845488008,144.220336,-36.7838280815",
     "geom:latitude":-36.811501,
     "geom:longitude":144.169299,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.812008,
     "lbl:longitude":144.175262,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Lockwood"
@@ -80,9 +86,12 @@
         102049661
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20800"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"155e204e7efbc12ca1f7bd243bedb05e",
+    "wof:geomhash":"d5ec2452d37def826b04051310789dcf",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -94,7 +103,7 @@
         }
     ],
     "wof:id":404539275,
-    "wof:lastmodified":1566602367,
+    "wof:lastmodified":1695877334,
     "wof:name":"Lockwood",
     "wof:parent_id":102049661,
     "wof:placetype":"localadmin",

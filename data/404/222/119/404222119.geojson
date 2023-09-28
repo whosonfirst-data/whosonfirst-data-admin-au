@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000075,
-    "geom:area_square_m":763787.764937,
+    "geom:area_square_m":763787.764935,
     "geom:bbox":"150.834768,-34.0226643055,150.847948672,-34.0119090715",
     "geom:latitude":-34.016546,
     "geom:longitude":150.840302,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.015658,
     "lbl:longitude":150.840199,
     "lbl:max_zoom":18.0,
@@ -45,13 +51,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC10309",
         "wd:id":"Q4950614"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101929681
     ],
     "wof:country":"AU",
-    "wof:geomhash":"20740280eea58180ea4ec11083fabef4",
+    "wof:geomhash":"d907a12c905cec85cc946ce5ead2249a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -63,7 +71,7 @@
         }
     ],
     "wof:id":404222119,
-    "wof:lastmodified":1566602781,
+    "wof:lastmodified":1695878000,
     "wof:name":"Bow Bowing",
     "wof:parent_id":102048887,
     "wof:placetype":"localadmin",

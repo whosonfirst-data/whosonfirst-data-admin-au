@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002807,
-    "geom:area_square_m":30769506.654739,
+    "geom:area_square_m":30769506.654809,
     "geom:bbox":"153.119484,-27.6066159245,153.191781184,-27.527944915",
     "geom:latitude":-27.561252,
     "geom:longitude":153.158832,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.557598,
     "lbl:longitude":153.162378,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Burbank"
@@ -117,9 +123,12 @@
         102049495
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30269"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"1d31a10994e4281475f0c8e5b4b2102e",
+    "wof:geomhash":"4240efa4dcdaee231ca31f0574f09bf8",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -132,7 +141,7 @@
         }
     ],
     "wof:id":404541505,
-    "wof:lastmodified":1566603046,
+    "wof:lastmodified":1695877744,
     "wof:name":"Burbank",
     "wof:parent_id":102049495,
     "wof:placetype":"localadmin",

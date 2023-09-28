@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000094,
-    "geom:area_square_m":1091191.731554,
+    "geom:area_square_m":1091191.731552,
     "geom:bbox":"116.82454608,-20.7443429925,116.842772256,-20.733104964",
     "geom:latitude":-20.738295,
     "geom:longitude":116.83278,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-20.737159,
     "lbl:longitude":116.834436,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Pegs Creek"
@@ -38,12 +44,15 @@
         102048511
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50632"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937665
     ],
     "wof:country":"AU",
-    "wof:geomhash":"04f434d187a1590453d09252bb597e86",
+    "wof:geomhash":"0a9f9d2befd580a3b639ad805075019d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404548103,
-    "wof:lastmodified":1566603159,
+    "wof:lastmodified":1695877794,
     "wof:name":"Pegs Creek",
     "wof:parent_id":102048511,
     "wof:placetype":"localadmin",

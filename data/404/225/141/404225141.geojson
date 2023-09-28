@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012574,
-    "geom:area_square_m":136243666.391722,
+    "geom:area_square_m":136243666.391447,
     "geom:bbox":"152.746362016,-28.870265991,152.880956992,-28.7302416",
     "geom:latitude":-28.807363,
     "geom:longitude":152.806751,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.804963,
     "lbl:longitude":152.80548,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mummulgum"
@@ -47,9 +53,12 @@
         102048855
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11652"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"a2bab51366e0a130da6bb80127af8845",
+    "wof:geomhash":"961b40575bca8300c27afe1755a5b565",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":404225141,
-    "wof:lastmodified":1566602735,
+    "wof:lastmodified":1695877550,
     "wof:name":"Mummulgum",
     "wof:parent_id":102048855,
     "wof:placetype":"localadmin",

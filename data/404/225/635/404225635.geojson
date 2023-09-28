@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.046609,
-    "geom:area_square_m":493629825.070088,
+    "geom:area_square_m":493629825.069733,
     "geom:bbox":"150.334778816,-31.228239472,150.599398944,-30.9189369915",
     "geom:latitude":-31.073803,
     "geom:longitude":150.486879,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.074961,
     "lbl:longitude":150.499902,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Piallaway"
@@ -38,9 +44,12 @@
         102049111
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11871"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"68328450b4dcb9b1e8069cbc8af47d96",
+    "wof:geomhash":"3f5085be0a8db95366f16c09f421871a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404225635,
-    "wof:lastmodified":1566602686,
+    "wof:lastmodified":1695877522,
     "wof:name":"Piallaway",
     "wof:parent_id":102049111,
     "wof:placetype":"localadmin",

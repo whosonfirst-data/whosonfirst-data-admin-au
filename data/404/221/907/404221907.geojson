@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030113,
-    "geom:area_square_m":311530471.772821,
+    "geom:area_square_m":311530471.771967,
     "geom:bbox":"149.310521536,-33.359307715,149.509810016,-33.058820244",
     "geom:latitude":-33.212612,
     "geom:longitude":149.397013,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.266075,
     "lbl:longitude":149.38873,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Billywillinga"
@@ -38,9 +44,12 @@
         102049305
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10214"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"32eef1f17cfc9fb372d12483d625eb1e",
+    "wof:geomhash":"562b92cdac5021a598382fe6d8500709",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404221907,
-    "wof:lastmodified":1566601963,
+    "wof:lastmodified":1695877115,
     "wof:name":"Billywillinga",
     "wof:parent_id":102049305,
     "wof:placetype":"localadmin",
