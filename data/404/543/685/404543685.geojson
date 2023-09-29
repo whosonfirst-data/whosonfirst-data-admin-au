@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000721,
-    "geom:area_square_m":7893276.435233,
+    "geom:area_square_m":7893276.435227,
     "geom:bbox":"153.01487056,-27.6603865815,153.046018688,-27.6266310375",
     "geom:latitude":-27.643405,
     "geom:longitude":153.029754,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.643369,
     "lbl:longitude":153.02946,
     "lbl:max_zoom":18.0,
@@ -94,13 +100,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC31300",
         "wd:id":"Q7138538"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935105
     ],
     "wof:country":"AU",
-    "wof:geomhash":"d9c8b595eacb9ff1f021e19234e21b6c",
+    "wof:geomhash":"fb2a213b641f27b394e35b7726023461",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -113,7 +121,7 @@
         }
     ],
     "wof:id":404543685,
-    "wof:lastmodified":1566602128,
+    "wof:lastmodified":1695877919,
     "wof:name":"Parkinson",
     "wof:parent_id":102049495,
     "wof:placetype":"localadmin",

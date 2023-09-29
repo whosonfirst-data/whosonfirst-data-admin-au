@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002768,
-    "geom:area_square_m":25126545.742394,
+    "geom:area_square_m":25126545.742359,
     "geom:bbox":"147.26051504,-42.7887109655,147.327931808,-42.7282936285",
     "geom:latitude":-42.759595,
     "geom:longitude":147.296292,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-42.761446,
     "lbl:longitude":147.296936,
     "lbl:max_zoom":18.0,
@@ -55,10 +61,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC60260",
         "wd:id":"Q7083446"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"de8a774b185186a3b3621d484e806d2a",
+    "wof:geomhash":"0e2f80a870608f7ce006aa4a6caac4ff",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -71,7 +79,7 @@
         }
     ],
     "wof:id":404549255,
-    "wof:lastmodified":1566602907,
+    "wof:lastmodified":1695878012,
     "wof:name":"Old Beach",
     "wof:parent_id":102049297,
     "wof:placetype":"localadmin",

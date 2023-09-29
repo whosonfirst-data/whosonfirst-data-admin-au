@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.230142,
-    "geom:area_square_m":2469859692.515234,
+    "geom:area_square_m":2469859692.515074,
     "geom:bbox":"149.527016992,-30.105464149,150.313845696,-29.458265995",
     "geom:latitude":-29.782857,
     "geom:longitude":150.010144,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-29.841197,
     "lbl:longitude":150.048786,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Biniguy"
@@ -38,9 +44,12 @@
         102049009
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10220"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"5afd7309feb9d540fe42ce9bb985f98e",
+    "wof:geomhash":"0a082288c1b68722b50403d3c2e3b388",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404221919,
-    "wof:lastmodified":1566602008,
+    "wof:lastmodified":1695877136,
     "wof:name":"Biniguy",
     "wof:parent_id":102049009,
     "wof:placetype":"localadmin",

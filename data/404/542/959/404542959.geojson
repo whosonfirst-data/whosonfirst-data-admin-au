@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000683,
-    "geom:area_square_m":7542939.049969,
+    "geom:area_square_m":7542939.049952,
     "geom:bbox":"153.0762528,-26.8030869985,153.109500128,-26.7681831225",
     "geom:latitude":-26.784355,
     "geom:longitude":153.092181,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-26.783348,
     "lbl:longitude":153.095815,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Little Mountain"
@@ -54,12 +60,15 @@
         102049303
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30954"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934723
     ],
     "wof:country":"AU",
-    "wof:geomhash":"98bb160652f198202ebb00e1b32eee5f",
+    "wof:geomhash":"b49d197f7c72c4d5a9a8f44dedf5aecf",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -72,7 +81,7 @@
         }
     ],
     "wof:id":404542959,
-    "wof:lastmodified":1566602290,
+    "wof:lastmodified":1695877287,
     "wof:name":"Little Mountain",
     "wof:parent_id":102049303,
     "wof:placetype":"localadmin",

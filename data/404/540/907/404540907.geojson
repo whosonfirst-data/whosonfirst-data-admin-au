@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006886,
-    "geom:area_square_m":66927587.312801,
+    "geom:area_square_m":66927587.312689,
     "geom:bbox":"146.013290304,-38.250055997,146.138328,-38.1217969955",
     "geom:latitude":-38.186654,
     "geom:longitude":146.075387,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.196807,
     "lbl:longitude":146.0849,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Yarragon"
@@ -38,9 +44,12 @@
         102048523
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21530"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"a64808fbbc54c0316cbf565dbd6f9ba2",
+    "wof:geomhash":"9b6d6b18266437a212805f767a6d71c8",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404540907,
-    "wof:lastmodified":1566602982,
+    "wof:lastmodified":1695877708,
     "wof:name":"Yarragon",
     "wof:parent_id":102048523,
     "wof:placetype":"localadmin",

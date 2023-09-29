@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003954,
-    "geom:area_square_m":43529465.752823,
+    "geom:area_square_m":43529465.752777,
     "geom:bbox":"152.329092992,-27.1394150005,152.410674016,-27.0546780075",
     "geom:latitude":-27.09376,
     "geom:longitude":152.367874,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.088083,
     "lbl:longitude":152.374048,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Toogoolawah"
@@ -50,9 +56,12 @@
         102049287
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31649"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"645e1692f5ec1f23142b3ed9e6938782",
+    "wof:geomhash":"f767e94ac22e2f6c7324414327603f47",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":404544431,
-    "wof:lastmodified":1566602167,
+    "wof:lastmodified":1695877226,
     "wof:name":"Toogoolawah",
     "wof:parent_id":102049287,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001016,
-    "geom:area_square_m":9869597.496178,
+    "geom:area_square_m":9869597.496157,
     "geom:bbox":"147.366972,-38.2294352125,147.435067104,-38.1794509875",
     "geom:latitude":-38.205162,
     "geom:longitude":147.397995,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.205971,
     "lbl:longitude":147.394662,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Golden Beach"
@@ -68,12 +74,15 @@
         102049585
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20550"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932979
     ],
     "wof:country":"AU",
-    "wof:geomhash":"555140e8d7e7d1346f783d7222545663",
+    "wof:geomhash":"034e37be4b10dedb9ce98b996008e7e4",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -85,7 +94,7 @@
         }
     ],
     "wof:id":404538717,
-    "wof:lastmodified":1566602481,
+    "wof:lastmodified":1695877402,
     "wof:name":"Golden Beach",
     "wof:parent_id":102049585,
     "wof:placetype":"localadmin",

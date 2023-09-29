@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029759,
-    "geom:area_square_m":306262970.632754,
+    "geom:area_square_m":306262970.634594,
     "geom:bbox":"149.962608416,-33.7606540225,150.21241488,-33.564368005",
     "geom:latitude":-33.665468,
     "geom:longitude":150.077647,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.649557,
     "lbl:longitude":150.077645,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ganbenang"
@@ -38,9 +44,12 @@
         102049125
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10923"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"2f2f27a6aa1b82873fabd80294cbbf67",
+    "wof:geomhash":"c8e748fa7173594a812ec05834f65023",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404223501,
-    "wof:lastmodified":1566602531,
+    "wof:lastmodified":1695877432,
     "wof:name":"Ganbenang",
     "wof:parent_id":102049125,
     "wof:placetype":"localadmin",

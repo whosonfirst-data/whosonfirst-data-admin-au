@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016995,
-    "geom:area_square_m":167504057.163884,
+    "geom:area_square_m":167504057.163923,
     "geom:bbox":"142.699344128,-37.2077783735,142.974843008,-37.083041032",
     "geom:latitude":-37.146085,
     "geom:longitude":142.844988,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.155236,
     "lbl:longitude":142.869954,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Great Western"
@@ -41,9 +47,12 @@
         102049045
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20569"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"e6fd3f8a80dca8f0f1ba4a8c0b27e9c7",
+    "wof:geomhash":"c42153e2488ada392a4de02277cdb860",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404538761,
-    "wof:lastmodified":1566602464,
+    "wof:lastmodified":1695877392,
     "wof:name":"Great Western",
     "wof:parent_id":102049045,
     "wof:placetype":"localadmin",

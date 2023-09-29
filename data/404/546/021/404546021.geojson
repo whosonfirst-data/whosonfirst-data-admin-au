@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02287,
-    "geom:area_square_m":233683378.852629,
+    "geom:area_square_m":233683378.852583,
     "geom:bbox":"138.379358016,-34.345278054,138.588256416,-34.1651580025",
     "geom:latitude":-34.273797,
     "geom:longitude":138.485034,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.297934,
     "lbl:longitude":138.466102,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u041e\u045e\u044d\u043d"
@@ -107,9 +113,12 @@
         102049309
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40534"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"c2f36d3c32e9b571c8e8f5feff762e59",
+    "wof:geomhash":"58124eb3ce7e432f805c6a17f18a8b63",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -121,7 +130,7 @@
         }
     ],
     "wof:id":404546021,
-    "wof:lastmodified":1566603142,
+    "wof:lastmodified":1695877787,
     "wof:name":"Owen",
     "wof:parent_id":102049309,
     "wof:placetype":"localadmin",

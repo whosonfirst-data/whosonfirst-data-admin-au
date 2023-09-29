@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000346,
-    "geom:area_square_m":3549869.248148,
+    "geom:area_square_m":3549869.248153,
     "geom:bbox":"137.67958752,-33.977251005,137.706964448,-33.956670865",
     "geom:latitude":-33.96758,
     "geom:longitude":137.693354,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.967309,
     "lbl:longitude":137.69498,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Wallaroo Mines"
@@ -38,12 +44,15 @@
         102049563
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40762"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101936725
     ],
     "wof:country":"AU",
-    "wof:geomhash":"4058dceb57abd7dcb0d43670f9d70397",
+    "wof:geomhash":"839da1e4b88130b986590c2d1b9e8dd4",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404546507,
-    "wof:lastmodified":1566603133,
+    "wof:lastmodified":1695877784,
     "wof:name":"Wallaroo Mines",
     "wof:parent_id":102049563,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026621,
-    "geom:area_square_m":280241885.645079,
+    "geom:area_square_m":280241885.64508,
     "geom:bbox":"116.23829888,-31.709251534,116.518739648,-31.556383629",
     "geom:latitude":-31.641864,
     "geom:longitude":116.363889,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.648832,
     "lbl:longitude":116.347092,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Morangup"
@@ -38,9 +44,12 @@
         102048463
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50516"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"e4bf52cd0cdbd55adda23200f17b0353",
+    "wof:geomhash":"bafe7188f41ef373e3163193d2b23432",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404547843,
-    "wof:lastmodified":1566602932,
+    "wof:lastmodified":1695877678,
     "wof:name":"Morangup",
     "wof:parent_id":102048463,
     "wof:placetype":"localadmin",

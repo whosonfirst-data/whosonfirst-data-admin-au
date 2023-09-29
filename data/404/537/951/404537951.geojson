@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.038373,
-    "geom:area_square_m":383463798.464535,
+    "geom:area_square_m":383463798.464074,
     "geom:bbox":"147.237935328,-36.240590992,147.496464992,-35.9426889145",
     "geom:latitude":-36.083516,
     "geom:longitude":147.376232,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.114393,
     "lbl:longitude":147.352725,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bullioh"
@@ -38,9 +44,12 @@
         102048643
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20206"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"b29bd9afc0b4ed0992f879eeb0ae7c60",
+    "wof:geomhash":"36a8960aa93aaf838ba7e64ac0e87baf",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404537951,
-    "wof:lastmodified":1566602337,
+    "wof:lastmodified":1695877317,
     "wof:name":"Bullioh",
     "wof:parent_id":102048643,
     "wof:placetype":"localadmin",

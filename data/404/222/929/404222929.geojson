@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002962,
-    "geom:area_square_m":30330569.193172,
+    "geom:area_square_m":30330569.193092,
     "geom:bbox":"141.906113792,-34.138256727,142.024401376,-34.0758730065",
     "geom:latitude":-34.107742,
     "geom:longitude":141.966852,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.095625,
     "lbl:longitude":141.972663,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Curlwaa"
@@ -38,9 +44,12 @@
         102049399
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10669"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"9bbf86988dbd1e14f6e2b78dd8f3f355",
+    "wof:geomhash":"6d8855971038421d3e805890792b6b6c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404222929,
-    "wof:lastmodified":1566602810,
+    "wof:lastmodified":1695877598,
     "wof:name":"Curlwaa",
     "wof:parent_id":102049399,
     "wof:placetype":"localadmin",

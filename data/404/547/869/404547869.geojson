@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.768923,
-    "geom:area_square_m":9044635638.444046,
+    "geom:area_square_m":9044635638.444622,
     "geom:bbox":"124.2766,-18.5302239945,125.578421056,-17.332291996",
     "geom:latitude":-17.95597,
     "geom:longitude":124.875958,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-18.237981,
     "lbl:longitude":125.047335,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mount Hardman"
@@ -38,9 +44,12 @@
         102048793
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50527"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"2d8971f68454bdb78c755c4a29d53835",
+    "wof:geomhash":"d87fdd8d5c16ada8e359d1c12df090fd",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404547869,
-    "wof:lastmodified":1566602938,
+    "wof:lastmodified":1695877681,
     "wof:name":"Mount Hardman",
     "wof:parent_id":102048793,
     "wof:placetype":"localadmin",

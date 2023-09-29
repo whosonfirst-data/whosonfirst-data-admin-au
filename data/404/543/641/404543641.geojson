@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000225,
-    "geom:area_square_m":2558405.569262,
+    "geom:area_square_m":2558405.56926,
     "geom:bbox":"150.721756992,-23.1054929975,150.74696,-23.0919761205",
     "geom:latitude":-23.098457,
     "geom:longitude":150.735548,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-23.099052,
     "lbl:longitude":150.736566,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Pacific Heights"
@@ -38,12 +44,15 @@
         102048825
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31279"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935073
     ],
     "wof:country":"AU",
-    "wof:geomhash":"dcb3095489130c465784a8a7eb43167a",
+    "wof:geomhash":"6480dca73b433d1774e8a6d7d698f7b4",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404543641,
-    "wof:lastmodified":1566602131,
+    "wof:lastmodified":1695877208,
     "wof:name":"Pacific Heights",
     "wof:parent_id":102048825,
     "wof:placetype":"localadmin",

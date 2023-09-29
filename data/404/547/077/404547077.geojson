@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000297,
-    "geom:area_square_m":3109186.655955,
+    "geom:area_square_m":3109186.655963,
     "geom:bbox":"115.79193728,-32.0896080005,115.81772,-32.0745137395",
     "geom:latitude":-32.081238,
     "geom:longitude":115.806061,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.082107,
     "lbl:longitude":115.80581,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Coolbellup"
@@ -39,12 +45,15 @@
         102049397
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50173"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937041
     ],
     "wof:country":"AU",
-    "wof:geomhash":"0d11d9d59f7e96470cf47c5278328abd",
+    "wof:geomhash":"cff7b57954703fe293c0c79fe199063d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404547077,
-    "wof:lastmodified":1566602928,
+    "wof:lastmodified":1695877676,
     "wof:name":"Coolbellup",
     "wof:parent_id":102049397,
     "wof:placetype":"localadmin",

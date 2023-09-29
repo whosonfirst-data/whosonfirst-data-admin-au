@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000452,
-    "geom:area_square_m":4580139.243145,
+    "geom:area_square_m":4580139.243157,
     "geom:bbox":"138.67423632,-34.902852995,138.712735008,-34.884885425",
     "geom:latitude":-34.893858,
     "geom:longitude":138.691827,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.892054,
     "lbl:longitude":138.696045,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Rostrevor"
@@ -72,12 +78,15 @@
         102049079
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40636"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101936551
     ],
     "wof:country":"AU",
-    "wof:geomhash":"a41a22ce3fdacef5a64726d996b0537f",
+    "wof:geomhash":"e99c1424455a35e1765676d923ba0373",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -90,7 +99,7 @@
         }
     ],
     "wof:id":404546239,
-    "wof:lastmodified":1566603145,
+    "wof:lastmodified":1695877788,
     "wof:name":"Rostrevor",
     "wof:parent_id":102049079,
     "wof:placetype":"localadmin",

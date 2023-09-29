@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000212,
-    "geom:area_square_m":2181200.504645,
+    "geom:area_square_m":2181200.504647,
     "geom:bbox":"151.069156992,-33.8713910635,151.092204832,-33.8499880065",
     "geom:latitude":-33.862284,
     "geom:longitude":151.080605,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.863728,
     "lbl:longitude":151.081748,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Homebush"
@@ -42,12 +48,15 @@
         102049657
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11125"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101930745
     ],
     "wof:country":"AU",
-    "wof:geomhash":"0880a5285dbc158f64a679bee7c0a5a8",
+    "wof:geomhash":"e82e0827950fe2438da3698c25711c96",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -60,7 +69,7 @@
         }
     ],
     "wof:id":404223955,
-    "wof:lastmodified":1566602499,
+    "wof:lastmodified":1695877413,
     "wof:name":"Homebush",
     "wof:parent_id":102049657,
     "wof:placetype":"localadmin",

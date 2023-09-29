@@ -10,6 +10,12 @@
     "geom:latitude":-32.179076,
     "geom:longitude":115.984756,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.179467,
     "lbl:longitude":115.984873,
     "lbl:max_zoom":18.0,
@@ -39,13 +45,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC50335",
         "wd:id":"Q24191461"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937283
     ],
     "wof:country":"AU",
-    "wof:geomhash":"3fa1ace477b562721c33b34ad7cdcec0",
+    "wof:geomhash":"8de96a6cf97f3416af0b7387d39fb5e9",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +65,7 @@
         }
     ],
     "wof:id":404547437,
-    "wof:lastmodified":1566602934,
+    "wof:lastmodified":1695878017,
     "wof:name":"Hilbert",
     "wof:parent_id":102048875,
     "wof:placetype":"localadmin",

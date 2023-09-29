@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000143,
-    "geom:area_square_m":1335687.296165,
+    "geom:area_square_m":1335717.903617,
     "geom:bbox":"145.897719,-41.061358,145.921412,-41.046853",
     "geom:latitude":-41.053983,
     "geom:longitude":145.905947,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-41.053415,
     "lbl:longitude":145.905099,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Burnie"
@@ -41,12 +47,15 @@
         102049367
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60044"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938045
     ],
     "wof:country":"AU",
-    "wof:geomhash":"ba48f16486209c725e293c870931c79d",
+    "wof:geomhash":"7467acd5d6d71378b977d19f79101413",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404548769,
-    "wof:lastmodified":1636494686,
+    "wof:lastmodified":1695877888,
     "wof:name":"Burnie",
     "wof:parent_id":102049367,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018667,
-    "geom:area_square_m":182817284.466853,
+    "geom:area_square_m":182817284.466887,
     "geom:bbox":"145.416277056,-37.6962831205,145.675852544,-37.5464913215",
     "geom:latitude":-37.623887,
     "geom:longitude":145.548693,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.637015,
     "lbl:longitude":145.561296,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Healesville"
@@ -39,9 +45,12 @@
         102048969
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20609"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"fa74852ebc8050e9135499ec9503b272",
+    "wof:geomhash":"f48eedbccca5ba5da9e5dc66cf7fc5c8",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":404538851,
-    "wof:lastmodified":1566602443,
+    "wof:lastmodified":1695877383,
     "wof:name":"Healesville",
     "wof:parent_id":102048969,
     "wof:placetype":"localadmin",

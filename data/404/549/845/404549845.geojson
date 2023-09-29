@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000097,
-    "geom:area_square_m":1144570.776944,
+    "geom:area_square_m":1144570.776941,
     "geom:bbox":"136.974422016,-16.764936993,136.991879008,-16.7539639955",
     "geom:latitude":-16.758528,
     "geom:longitude":136.982766,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-16.758353,
     "lbl:longitude":136.982634,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Robinson River"
@@ -50,12 +56,15 @@
         102048829
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC70163"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938619
     ],
     "wof:country":"AU",
-    "wof:geomhash":"5fe25047baeb072fe35b23cefa26bca6",
+    "wof:geomhash":"8074f271ab16ddfee581d7a66ff7fc21",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -67,7 +76,7 @@
         }
     ],
     "wof:id":404549845,
-    "wof:lastmodified":1566602835,
+    "wof:lastmodified":1695877617,
     "wof:name":"Robinson River",
     "wof:parent_id":102048829,
     "wof:placetype":"localadmin",

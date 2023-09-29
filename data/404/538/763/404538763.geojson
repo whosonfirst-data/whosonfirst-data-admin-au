@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002105,
-    "geom:area_square_m":20630706.577343,
+    "geom:area_square_m":20630706.577374,
     "geom:bbox":"144.265412,-37.585318992,144.337217728,-37.541487312",
     "geom:latitude":-37.56403,
     "geom:longitude":144.296291,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.56537,
     "lbl:longitude":144.292023,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Greendale"
@@ -74,9 +80,12 @@
         102049283
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20570"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"bdf41c6d6da19555d4c89689e4b0a3c2",
+    "wof:geomhash":"faae4fd9be0ff3019a7e45a40337e06f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -88,7 +97,7 @@
         }
     ],
     "wof:id":404538763,
-    "wof:lastmodified":1566602421,
+    "wof:lastmodified":1695877370,
     "wof:name":"Greendale",
     "wof:parent_id":102049283,
     "wof:placetype":"localadmin",

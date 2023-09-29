@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000333,
-    "geom:area_square_m":3651698.287428,
+    "geom:area_square_m":3651698.287402,
     "geom:bbox":"153.07770256,-27.3856478545,153.105973216,-27.3559064775",
     "geom:latitude":-27.368962,
     "geom:longitude":153.091709,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.365918,
     "lbl:longitude":153.090323,
     "lbl:max_zoom":18.0,
@@ -46,13 +52,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC31254",
         "wd:id":"Q7068369"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935039
     ],
     "wof:country":"AU",
-    "wof:geomhash":"639ecd86bfdfff10e933fa30a504c793",
+    "wof:geomhash":"e1d963a21c0394a29a256aac94238324",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -65,7 +73,7 @@
         }
     ],
     "wof:id":404543587,
-    "wof:lastmodified":1566602118,
+    "wof:lastmodified":1695877917,
     "wof:name":"Nudgee",
     "wof:parent_id":102049495,
     "wof:placetype":"localadmin",

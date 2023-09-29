@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005798,
-    "geom:area_square_m":59113275.88364,
+    "geom:area_square_m":59113275.883583,
     "geom:bbox":"150.394219904,-34.514972005,150.544126016,-34.4258980015",
     "geom:latitude":-34.465226,
     "geom:longitude":150.488572,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.467777,
     "lbl:longitude":150.502197,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mittagong"
@@ -60,9 +66,12 @@
         102048539
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11562"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"57b50d3705351ac70d02ca4a41169786",
+    "wof:geomhash":"52903cf1ec8612f14f5ed6c3108383ef",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -75,7 +84,7 @@
         }
     ],
     "wof:id":404224939,
-    "wof:lastmodified":1566602575,
+    "wof:lastmodified":1695877461,
     "wof:name":"Mittagong",
     "wof:parent_id":102048539,
     "wof:placetype":"localadmin",

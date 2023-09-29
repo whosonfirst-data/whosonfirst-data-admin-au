@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001513,
-    "geom:area_square_m":17646624.935631,
+    "geom:area_square_m":17646624.935642,
     "geom:bbox":"146.804302688,-19.3793100955,146.874937952,-19.330812068",
     "geom:latitude":-19.355485,
     "geom:longitude":146.835078,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-19.361989,
     "lbl:longitude":146.834554,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Roseneath"
@@ -41,12 +47,15 @@
         102048451
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31429"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935241
     ],
     "wof:country":"AU",
-    "wof:geomhash":"f3622af5e0f85204194224e49484c777",
+    "wof:geomhash":"7734a62f85546489349cd0c3de85cbc8",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404543967,
-    "wof:lastmodified":1566602122,
+    "wof:lastmodified":1695877203,
     "wof:name":"Roseneath",
     "wof:parent_id":102048451,
     "wof:placetype":"localadmin",

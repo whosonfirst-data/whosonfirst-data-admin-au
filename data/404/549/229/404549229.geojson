@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003415,
-    "geom:area_square_m":31718495.367587,
+    "geom:area_square_m":31718495.367577,
     "geom:bbox":"146.297494144,-41.3556960075,146.373057504,-41.265132569",
     "geom:latitude":-41.315683,
     "geom:longitude":146.334145,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-41.316951,
     "lbl:longitude":146.330977,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Nook"
@@ -38,9 +44,12 @@
         102049291
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60249"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"8cfea035dd522f4049d5d10d86ff28dd",
+    "wof:geomhash":"68d11762bd0749b54c7f830ad975fcac",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404549229,
-    "wof:lastmodified":1566602832,
+    "wof:lastmodified":1695877614,
     "wof:name":"Nook",
     "wof:parent_id":102049291,
     "wof:placetype":"localadmin",

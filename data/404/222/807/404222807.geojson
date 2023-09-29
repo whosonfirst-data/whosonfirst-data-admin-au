@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016267,
-    "geom:area_square_m":174995271.480608,
+    "geom:area_square_m":174995271.480721,
     "geom:bbox":"152.6015,-29.6091122015,152.82234,-29.4447060685",
     "geom:latitude":-29.541284,
     "geom:longitude":152.714696,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-29.524395,
     "lbl:longitude":152.725542,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Copmanhurst"
@@ -38,9 +44,12 @@
         102048835
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10614"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"bf98fd3eb79c26dfc1acb39433f9d6f4",
+    "wof:geomhash":"eff5c525747192b7b0cb6a0b66d4fa03",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404222807,
-    "wof:lastmodified":1566602800,
+    "wof:lastmodified":1695877592,
     "wof:name":"Copmanhurst",
     "wof:parent_id":102048835,
     "wof:placetype":"localadmin",

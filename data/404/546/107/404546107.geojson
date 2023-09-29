@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000171,
-    "geom:area_square_m":1692143.078131,
+    "geom:area_square_m":1692143.078129,
     "geom:bbox":"139.809074208,-36.8778539985,139.835531808,-36.8519617685",
     "geom:latitude":-36.866101,
     "geom:longitude":139.8232,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.866821,
     "lbl:longitude":139.823395,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Pinks Beach"
@@ -38,12 +44,15 @@
         102049157
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40574"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101936459
     ],
     "wof:country":"AU",
-    "wof:geomhash":"d67efd8eb0b87dd2e95deeeff3575f32",
+    "wof:geomhash":"e14d141a4fb7cca35f5f350c94f35845",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404546107,
-    "wof:lastmodified":1566603132,
+    "wof:lastmodified":1695877783,
     "wof:name":"Pinks Beach",
     "wof:parent_id":102049157,
     "wof:placetype":"localadmin",

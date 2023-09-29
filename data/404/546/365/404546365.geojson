@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.228101,
-    "geom:area_square_m":2366470079.760168,
+    "geom:area_square_m":2366470978.406455,
     "geom:bbox":"133.965568,-33.245163,134.820873,-32.674239",
     "geom:latitude":-32.963103,
     "geom:longitude":134.46541,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.985036,
     "lbl:longitude":134.439062,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09b8\u09cd\u099f\u09cd\u09b0\u09bf\u0995\u09bf \u09ac\u09c7"
@@ -83,9 +89,12 @@
         102049163
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40698"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"0d6a04789192d7f3280f9d6fe6da0337",
+    "wof:geomhash":"7b8151575f43749e7d489b22ca6b22bb",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -97,7 +106,7 @@
         }
     ],
     "wof:id":404546365,
-    "wof:lastmodified":1636494678,
+    "wof:lastmodified":1695877884,
     "wof:name":"Streaky Bay",
     "wof:parent_id":102049163,
     "wof:placetype":"localadmin",

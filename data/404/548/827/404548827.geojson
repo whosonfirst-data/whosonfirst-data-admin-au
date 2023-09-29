@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00005,
-    "geom:area_square_m":451578.127041,
+    "geom:area_square_m":451578.127043,
     "geom:bbox":"147.52364432,-42.9621718125,147.53866816,-42.9521072575",
     "geom:latitude":-42.955875,
     "geom:longitude":147.530283,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-42.955973,
     "lbl:longitude":147.530792,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Cremorne"
@@ -51,12 +57,15 @@
         102048771
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60070"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938061
     ],
     "wof:country":"AU",
-    "wof:geomhash":"41c488a6e4fe24b725ae60b32ae8c10d",
+    "wof:geomhash":"50e7aa6a538439d6f45acc4825366151",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -69,7 +78,7 @@
         }
     ],
     "wof:id":404548827,
-    "wof:lastmodified":1566603166,
+    "wof:lastmodified":1695877798,
     "wof:name":"Cremorne",
     "wof:parent_id":102048771,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013804,
-    "geom:area_square_m":154778140.996715,
+    "geom:area_square_m":154778140.996591,
     "geom:bbox":"151.050811008,-25.0049199655,151.215980992,-24.875624187",
     "geom:latitude":-24.938568,
     "geom:longitude":151.134184,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-24.942921,
     "lbl:longitude":151.135726,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Three Moon"
@@ -44,9 +50,12 @@
         102049053
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31628"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"1dc28f82d2bd8c411a68c4e8852f92a1",
+    "wof:geomhash":"efbb9b4795b6d34dd864ee6310ac4472",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404544383,
-    "wof:lastmodified":1566602171,
+    "wof:lastmodified":1695877228,
     "wof:name":"Three Moon",
     "wof:parent_id":102049053,
     "wof:placetype":"localadmin",

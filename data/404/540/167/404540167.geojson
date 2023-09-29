@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000098,
-    "geom:area_square_m":954760.17531,
+    "geom:area_square_m":954760.175313,
     "geom:bbox":"144.884094848,-37.810752999,144.900231136,-37.8021732355",
     "geom:latitude":-37.806765,
     "geom:longitude":144.891585,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.806498,
     "lbl:longitude":144.891432,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Seddon"
@@ -66,12 +72,15 @@
         102049341
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21199"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101933511
     ],
     "wof:country":"AU",
-    "wof:geomhash":"57ba0216ef5faf7f3eafe707884cda36",
+    "wof:geomhash":"825481e787004fb729ee8f4e468f493b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -84,7 +93,7 @@
         }
     ],
     "wof:id":404540167,
-    "wof:lastmodified":1566602987,
+    "wof:lastmodified":1695877711,
     "wof:name":"Seddon",
     "wof:parent_id":102049341,
     "wof:placetype":"localadmin",

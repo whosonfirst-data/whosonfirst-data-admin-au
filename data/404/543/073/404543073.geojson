@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001258,
-    "geom:area_square_m":13901743.067974,
+    "geom:area_square_m":13901743.067971,
     "geom:bbox":"152.834184992,-26.6487580005,152.885317984,-26.6104339925",
     "geom:latitude":-26.629885,
     "geom:longitude":152.859803,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-26.625612,
     "lbl:longitude":152.861867,
     "lbl:max_zoom":18.0,
@@ -85,10 +91,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC31008",
         "wd:id":"Q6754069"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"b6736f4a850d6d5b85de2c3f243de1f1",
+    "wof:geomhash":"7d516846b3b19765fd0b291b7e54be1d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -101,7 +109,7 @@
         }
     ],
     "wof:id":404543073,
-    "wof:lastmodified":1566602127,
+    "wof:lastmodified":1695877919,
     "wof:name":"Mapleton",
     "wof:parent_id":102049303,
     "wof:placetype":"localadmin",

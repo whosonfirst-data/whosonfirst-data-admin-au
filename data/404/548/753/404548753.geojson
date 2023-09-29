@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000064,
-    "geom:area_square_m":599929.577753,
+    "geom:area_square_m":599929.577746,
     "geom:bbox":"147.732378592,-41.171886982,147.75039184,-41.1610868855",
     "geom:latitude":-41.167371,
     "geom:longitude":147.742305,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-41.168578,
     "lbl:longitude":147.74619,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Branxholm"
@@ -38,12 +44,15 @@
         102048565
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60037"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938039
     ],
     "wof:country":"AU",
-    "wof:geomhash":"744b29a9df1a385def6a1eebee8c1a56",
+    "wof:geomhash":"91b21911224433a0adeed6db05ba86de",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404548753,
-    "wof:lastmodified":1566603162,
+    "wof:lastmodified":1695877795,
     "wof:name":"Branxholm",
     "wof:parent_id":102048565,
     "wof:placetype":"localadmin",

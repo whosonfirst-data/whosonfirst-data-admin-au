@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009724,
-    "geom:area_square_m":90009169.972017,
+    "geom:area_square_m":90009169.971972,
     "geom:bbox":"146.590323008,-41.599473005,146.729225984,-41.474298009",
     "geom:latitude":-41.533794,
     "geom:longitude":146.655113,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-41.527865,
     "lbl:longitude":146.667717,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Deloraine"
@@ -53,9 +59,12 @@
         102048535
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60077"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"7d29f1f0d6ec2107a6da8a904a284837",
+    "wof:geomhash":"8d1107107e611b7c5c7b997c4caca768",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -67,7 +76,7 @@
         }
     ],
     "wof:id":404548843,
-    "wof:lastmodified":1566603175,
+    "wof:lastmodified":1695877802,
     "wof:name":"Deloraine",
     "wof:parent_id":102048535,
     "wof:placetype":"localadmin",

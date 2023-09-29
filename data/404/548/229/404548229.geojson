@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004788,
-    "geom:area_square_m":51869853.994404,
+    "geom:area_square_m":51869853.994405,
     "geom:bbox":"114.629487744,-28.881771474,114.727428736,-28.786195997",
     "geom:latitude":-28.828313,
     "geom:longitude":114.674043,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.826381,
     "lbl:longitude":114.674089,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Rudds Gully"
@@ -38,9 +44,12 @@
         102048715
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50690"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"42cfb6eaee47f6b3cbe7c71a0aa8b488",
+    "wof:geomhash":"e4fc230064ae21b488fb87406e1b3a69",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404548229,
-    "wof:lastmodified":1566603166,
+    "wof:lastmodified":1695877797,
     "wof:name":"Rudds Gully",
     "wof:parent_id":102048715,
     "wof:placetype":"localadmin",

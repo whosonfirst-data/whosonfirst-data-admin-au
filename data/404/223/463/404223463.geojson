@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000434,
-    "geom:area_square_m":4458004.967643,
+    "geom:area_square_m":4458004.967627,
     "geom:bbox":"151.190988032,-33.7736240025,151.229783936,-33.749819849",
     "geom:latitude":-33.760026,
     "geom:longitude":151.209868,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.759133,
     "lbl:longitude":151.213399,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Forestville"
@@ -81,12 +87,15 @@
         102049493
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10906"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101930325
     ],
     "wof:country":"AU",
-    "wof:geomhash":"143b67271bd66fe7f47461bc9e84f6a1",
+    "wof:geomhash":"1625cfbe469dac9960384fb4ecde8f0b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -99,7 +108,7 @@
         }
     ],
     "wof:id":404223463,
-    "wof:lastmodified":1566602512,
+    "wof:lastmodified":1695877420,
     "wof:name":"Forestville",
     "wof:parent_id":102049493,
     "wof:placetype":"localadmin",

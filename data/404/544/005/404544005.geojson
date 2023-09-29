@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001987,
-    "geom:area_square_m":21823797.276041,
+    "geom:area_square_m":21823797.275984,
     "geom:bbox":"152.830772992,-27.4057319725,152.907386688,-27.3491690365",
     "geom:latitude":-27.369471,
     "geom:longitude":152.868173,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.367754,
     "lbl:longitude":152.86443,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Samford Valley"
@@ -39,9 +45,12 @@
         102049131
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31447"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"92503ec9a3f2cc01944314943fc9a137",
+    "wof:geomhash":"587ce2b76ef79d442fe5eef2a9552529",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":404544005,
-    "wof:lastmodified":1566602197,
+    "wof:lastmodified":1695877242,
     "wof:name":"Samford Valley",
     "wof:parent_id":102049131,
     "wof:placetype":"localadmin",

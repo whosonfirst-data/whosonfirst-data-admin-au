@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000131,
-    "geom:area_square_m":1478377.107408,
+    "geom:area_square_m":1478377.107409,
     "geom:bbox":"151.246739872,-23.8973774315,151.260414848,-23.8818230015",
     "geom:latitude":-23.888343,
     "geom:longitude":151.253794,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-23.887934,
     "lbl:longitude":151.253112,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Telina"
@@ -38,12 +44,15 @@
         102049463
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31595"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935437
     ],
     "wof:country":"AU",
-    "wof:geomhash":"cad965966c6af83741a46dd4200e706e",
+    "wof:geomhash":"9f82a212acc83e36928a524118f72259",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404544313,
-    "wof:lastmodified":1566602176,
+    "wof:lastmodified":1695877231,
     "wof:name":"Telina",
     "wof:parent_id":102049463,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000437,
-    "geom:area_square_m":4794740.49394,
+    "geom:area_square_m":4794740.493935,
     "geom:bbox":"153.088230976,-27.5680948175,153.117498976,-27.5435690345",
     "geom:latitude":-27.554476,
     "geom:longitude":153.101073,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.553947,
     "lbl:longitude":153.099332,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Wishart"
@@ -54,12 +60,15 @@
         102049495
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31784"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935649
     ],
     "wof:country":"AU",
-    "wof:geomhash":"46510a6ba95ff6b552b42b727a3d188b",
+    "wof:geomhash":"3dbd78d43500c4ed59156a61538781cd",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -72,7 +81,7 @@
         }
     ],
     "wof:id":404544705,
-    "wof:lastmodified":1566602178,
+    "wof:lastmodified":1695877233,
     "wof:name":"Wishart",
     "wof:parent_id":102049495,
     "wof:placetype":"localadmin",

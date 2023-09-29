@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000151,
-    "geom:area_square_m":1522478.843091,
+    "geom:area_square_m":1522478.843065,
     "geom:bbox":"149.057324096,-35.2077478505,149.073644864,-35.1899509245",
     "geom:latitude":-35.19873,
     "geom:longitude":149.064378,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.197629,
     "lbl:longitude":149.064934,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Spence"
@@ -49,12 +55,15 @@
         85681493
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC80091"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938897
     ],
     "wof:country":"AU",
-    "wof:geomhash":"3b53df5c7fe6d0028ca51486b43ec87d",
+    "wof:geomhash":"be89e0be6db406ec4a0c3e90502ace69",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -65,7 +74,7 @@
         }
     ],
     "wof:id":404550119,
-    "wof:lastmodified":1566601928,
+    "wof:lastmodified":1695877100,
     "wof:name":"Spence",
     "wof:parent_id":85681493,
     "wof:placetype":"localadmin",

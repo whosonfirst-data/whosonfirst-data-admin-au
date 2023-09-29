@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.171306,
-    "geom:area_square_m":1697586562.137543,
+    "geom:area_square_m":1697586562.137621,
     "geom:bbox":"141.178415328,-36.9876709975,141.837674848,-36.495960996",
     "geom:latitude":-36.734192,
     "geom:longitude":141.481318,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.692382,
     "lbl:longitude":141.486227,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Goroke"
@@ -41,9 +47,12 @@
         102049637
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20561"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"aa97d0257dd673a32b984f31f03e1fb9",
+    "wof:geomhash":"e3cd7715b55bab7692a41bcb9f59b618",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404538743,
-    "wof:lastmodified":1566602479,
+    "wof:lastmodified":1695877401,
     "wof:name":"Goroke",
     "wof:parent_id":102049637,
     "wof:placetype":"localadmin",

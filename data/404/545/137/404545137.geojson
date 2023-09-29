@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003025,
-    "geom:area_square_m":30974484.725867,
+    "geom:area_square_m":30974484.725829,
     "geom:bbox":"140.635262208,-34.1406689975,140.701346016,-34.0615274775",
     "geom:latitude":-34.100558,
     "geom:longitude":140.67366,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.098531,
     "lbl:longitude":140.673149,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Cooltong"
@@ -38,9 +44,12 @@
         102048689
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40128"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"26900458a015fe97622c0c2cdd33d14a",
+    "wof:geomhash":"a1467e0095f05a93da96e24548bf31b3",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404545137,
-    "wof:lastmodified":1566602239,
+    "wof:lastmodified":1695877260,
     "wof:name":"Cooltong",
     "wof:parent_id":102048689,
     "wof:placetype":"localadmin",

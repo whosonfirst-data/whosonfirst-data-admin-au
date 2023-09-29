@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.175964,
-    "geom:area_square_m":1862936689.63264,
+    "geom:area_square_m":1862936689.632625,
     "geom:bbox":"116.931092032,-31.4269333755,117.280217856,-30.7996290855",
     "geom:latitude":-31.10757,
     "geom:longitude":117.111346,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.046967,
     "lbl:longitude":117.099292,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Manmanning"
@@ -38,9 +44,12 @@
         102049449
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50463"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"06e1af2ceca99f29793b8ff7e3be1918",
+    "wof:geomhash":"cfe5feb8032750f98290d77ac12ef55b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404547725,
-    "wof:lastmodified":1566602942,
+    "wof:lastmodified":1695877684,
     "wof:name":"Manmanning",
     "wof:parent_id":102049449,
     "wof:placetype":"localadmin",

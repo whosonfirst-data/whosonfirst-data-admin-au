@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000423,
-    "geom:area_square_m":4633015.954877,
+    "geom:area_square_m":4633015.95487,
     "geom:bbox":"153.07165584,-27.5435690345,153.097194976,-27.5157360065",
     "geom:latitude":-27.529789,
     "geom:longitude":153.08634,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.530994,
     "lbl:longitude":153.08531,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mount Gravatt East"
@@ -39,12 +45,15 @@
         102049495
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31131"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934907
     ],
     "wof:country":"AU",
-    "wof:geomhash":"fc1eebf97b0e7ec2d519b6a3753654a8",
+    "wof:geomhash":"ee535faa5d096aca459f0bfb61016778",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404543323,
-    "wof:lastmodified":1566602115,
+    "wof:lastmodified":1695877199,
     "wof:name":"Mount Gravatt East",
     "wof:parent_id":102049495,
     "wof:placetype":"localadmin",

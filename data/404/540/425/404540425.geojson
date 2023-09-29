@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003678,
-    "geom:area_square_m":36593036.919084,
+    "geom:area_square_m":36593036.919073,
     "geom:bbox":"145.204239968,-36.469616034,145.313609984,-36.406343999",
     "geom:latitude":-36.433416,
     "geom:longitude":145.269458,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.433715,
     "lbl:longitude":145.273204,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tatura East"
@@ -39,9 +45,12 @@
         102049473
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21314"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"69b84f4734480f9ea5c052a75f25e1a0",
+    "wof:geomhash":"f8cab8a3d4255d1d65319023be3b6b23",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":404540425,
-    "wof:lastmodified":1566602991,
+    "wof:lastmodified":1695877713,
     "wof:name":"Tatura East",
     "wof:parent_id":102049473,
     "wof:placetype":"localadmin",

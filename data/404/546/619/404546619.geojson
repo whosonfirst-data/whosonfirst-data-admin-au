@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019008,
-    "geom:area_square_m":191144204.437971,
+    "geom:area_square_m":191144204.437848,
     "geom:bbox":"138.127497536,-35.665091993,138.294354016,-35.4795404895",
     "geom:latitude":-35.584629,
     "geom:longitude":138.218238,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.609937,
     "lbl:longitude":138.216674,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Wirrina Cove"
@@ -38,9 +44,12 @@
         102049429
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40814"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"12ce6becc7b17d52be1f8dd6130cf099",
+    "wof:geomhash":"fdcf96ff3d7ffd4171c38097d8c82491",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404546619,
-    "wof:lastmodified":1566603111,
+    "wof:lastmodified":1695877774,
     "wof:name":"Wirrina Cove",
     "wof:parent_id":102049429,
     "wof:placetype":"localadmin",

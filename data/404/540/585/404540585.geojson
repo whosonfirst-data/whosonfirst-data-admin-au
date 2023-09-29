@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017827,
-    "geom:area_square_m":177795317.190396,
+    "geom:area_square_m":177795317.190417,
     "geom:bbox":"145.12760304,-36.3283729925,145.277308992,-36.1542751905",
     "geom:latitude":-36.238535,
     "geom:longitude":145.199007,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.237273,
     "lbl:longitude":145.20041,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Undera"
@@ -42,9 +48,12 @@
         102049473
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21385"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"4af9afc78b620ee892de438d1311c366",
+    "wof:geomhash":"41e505c24b933458109b915c4be118b8",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404540585,
-    "wof:lastmodified":1566603035,
+    "wof:lastmodified":1695877739,
     "wof:name":"Undera",
     "wof:parent_id":102049473,
     "wof:placetype":"localadmin",

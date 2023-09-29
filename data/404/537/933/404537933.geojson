@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.114823,
-    "geom:area_square_m":1127119004.38163,
+    "geom:area_square_m":1127119004.381569,
     "geom:bbox":"147.910100864,-37.648672908,148.373,-37.2312320075",
     "geom:latitude":-37.45293,
     "geom:longitude":148.154451,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.446752,
     "lbl:longitude":148.150037,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Buchan"
@@ -50,9 +56,12 @@
         102049039
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20198"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"23de7e17c30836fd7dc49a79d646bda9",
+    "wof:geomhash":"1d311796b0c3091dddd4445036fd58a4",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":404537933,
-    "wof:lastmodified":1566602339,
+    "wof:lastmodified":1695877318,
     "wof:name":"Buchan",
     "wof:parent_id":102049039,
     "wof:placetype":"localadmin",

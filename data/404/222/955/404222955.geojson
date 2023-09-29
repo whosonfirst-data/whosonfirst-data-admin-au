@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001216,
-    "geom:area_square_m":13163919.680355,
+    "geom:area_square_m":13163919.680328,
     "geom:bbox":"153.362499488,-28.9100951405,153.446212,-28.87762",
     "geom:latitude":-28.894905,
     "geom:longitude":153.406608,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.893259,
     "lbl:longitude":153.410747,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Dalwood"
@@ -56,9 +62,12 @@
         102049481
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10680"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"9b5dfb333d527f9b67922548e4644bc4",
+    "wof:geomhash":"b04007d8150629bf8c4dee2285a81fb1",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -70,7 +79,7 @@
         }
     ],
     "wof:id":404222955,
-    "wof:lastmodified":1566602751,
+    "wof:lastmodified":1695877561,
     "wof:name":"Dalwood",
     "wof:parent_id":102049481,
     "wof:placetype":"localadmin",

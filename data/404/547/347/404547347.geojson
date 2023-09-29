@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000424,
-    "geom:area_square_m":4427948.258538,
+    "geom:area_square_m":4427948.258533,
     "geom:bbox":"115.746718816,-32.4337768205,115.77426192,-32.4169181405",
     "geom:latitude":-32.425045,
     "geom:longitude":115.760985,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.425354,
     "lbl:longitude":115.760987,
     "lbl:max_zoom":18.0,
@@ -70,13 +76,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC50295",
         "wd:id":"Q5579184"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937219
     ],
     "wof:country":"AU",
-    "wof:geomhash":"20bea7eced80103853702bdc9d2c793e",
+    "wof:geomhash":"d9b123a1859f82c07eed909403c581a1",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -89,7 +97,7 @@
         }
     ],
     "wof:id":404547347,
-    "wof:lastmodified":1566602948,
+    "wof:lastmodified":1695878018,
     "wof:name":"Golden Bay",
     "wof:parent_id":102049377,
     "wof:placetype":"localadmin",

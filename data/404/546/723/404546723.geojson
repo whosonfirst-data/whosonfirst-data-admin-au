@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.143439,
-    "geom:area_square_m":1479098594.987354,
+    "geom:area_square_m":1479098594.987143,
     "geom:bbox":"116.48467072,-33.70094703,117.106078592,-33.180184314",
     "geom:latitude":-33.495385,
     "geom:longitude":116.857031,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.537319,
     "lbl:longitude":116.878253,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Arthur River"
@@ -50,9 +56,12 @@
         102048941
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50016"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"6c4e8fa6654f88f294b7a0fb0bf486ae",
+    "wof:geomhash":"4fb183df3584a8ae021bcf4334bf9bab",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":404546723,
-    "wof:lastmodified":1566603128,
+    "wof:lastmodified":1695877781,
     "wof:name":"Arthur River",
     "wof:parent_id":102048941,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005587,
-    "geom:area_square_m":56848487.531475,
+    "geom:area_square_m":56848487.531436,
     "geom:bbox":"146.339698016,-34.6761699975,146.467202016,-34.5855179995",
     "geom:latitude":-34.624919,
     "geom:longitude":146.401935,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.61851,
     "lbl:longitude":146.401026,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Yanco"
@@ -44,9 +50,12 @@
         102049361
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12593"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"2775852ef3bf9cdedee9177ae2225d71",
+    "wof:geomhash":"f7029b00d02307a0d8dbb073e67808b5",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404227259,
-    "wof:lastmodified":1566601943,
+    "wof:lastmodified":1695877105,
     "wof:name":"Yanco",
     "wof:parent_id":102049361,
     "wof:placetype":"localadmin",

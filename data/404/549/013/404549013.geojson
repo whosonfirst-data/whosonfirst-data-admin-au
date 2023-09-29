@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000101,
-    "geom:area_square_m":915076.728105,
+    "geom:area_square_m":915076.728106,
     "geom:bbox":"147.256084096,-42.755777025,147.272466848,-42.7459863255",
     "geom:latitude":-42.750662,
     "geom:longitude":147.264832,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-42.751386,
     "lbl:longitude":147.266468,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Herdsmans Cove"
@@ -39,12 +45,15 @@
         102049297
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60153"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938123
     ],
     "wof:country":"AU",
-    "wof:geomhash":"38238d771b31b51a372d3c8f77b1326a",
+    "wof:geomhash":"2286b8be3e8a4d2da5b47cf6b807a533",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404549013,
-    "wof:lastmodified":1566602839,
+    "wof:lastmodified":1695877619,
     "wof:name":"Herdsmans Cove",
     "wof:parent_id":102049297,
     "wof:placetype":"localadmin",

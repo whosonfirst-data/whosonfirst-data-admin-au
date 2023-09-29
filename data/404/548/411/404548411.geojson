@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.15615,
-    "geom:area_square_m":1652537333.032246,
+    "geom:area_square_m":1652537333.03198,
     "geom:bbox":"117.596348,-31.39201,118.079891,-30.941617",
     "geom:latitude":-31.14402,
     "geom:longitude":117.806829,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.145674,
     "lbl:longitude":117.806765,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Trayning"
@@ -31,19 +37,22 @@
     "qs:source":"Australian Bureau Of Statistics",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681439,
         102191583,
         85632793,
-        102048533,
         136253039,
-        85681439
+        102048533
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50772"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         102048533
     ],
     "wof:country":"AU",
-    "wof:geomhash":"6e5cd8995e756b598a500dea398cdacc",
+    "wof:geomhash":"299554f68c880bc4e331c5248aab66f7",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404548411,
-    "wof:lastmodified":1608002027,
+    "wof:lastmodified":1695877847,
     "wof:name":"Trayning",
     "wof:parent_id":102048533,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00088,
-    "geom:area_square_m":10174966.656229,
+    "geom:area_square_m":10174953.99531,
     "geom:bbox":"144.186339,-20.856922,144.236598,-20.805374",
     "geom:latitude":-20.831615,
     "geom:longitude":144.211304,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-20.832882,
     "lbl:longitude":144.213013,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0647\u064a\u063a\u064a\u0646\u062f\u064a\u0646"
@@ -95,12 +101,15 @@
         102049325
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30781"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934573
     ],
     "wof:country":"AU",
-    "wof:geomhash":"911be1351ac91968009fdfb600d3d77f",
+    "wof:geomhash":"afa2be50187aa2108dacbfd334f52763",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -112,7 +121,7 @@
         }
     ],
     "wof:id":404542581,
-    "wof:lastmodified":1636494629,
+    "wof:lastmodified":1695877856,
     "wof:name":"Hughenden",
     "wof:parent_id":102049325,
     "wof:placetype":"localadmin",

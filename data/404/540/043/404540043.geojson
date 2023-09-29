@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001015,
-    "geom:area_square_m":9911257.888418,
+    "geom:area_square_m":9911257.888358,
     "geom:bbox":"145.213346176,-37.839744053,145.264391104,-37.7804960825",
     "geom:latitude":-37.811412,
     "geom:longitude":145.23338,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.816722,
     "lbl:longitude":145.226628,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0631\u06cc\u0646\u0642\u0648\u0648\u062f"
@@ -87,12 +93,15 @@
         102048567
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21144"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101933455
     ],
     "wof:country":"AU",
-    "wof:geomhash":"10cad2f1e997a6e4322ce871e2681d53",
+    "wof:geomhash":"33b436b8c73d1ab54c866ac8f83f8d0b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -105,7 +114,7 @@
         }
     ],
     "wof:id":404540043,
-    "wof:lastmodified":1566603024,
+    "wof:lastmodified":1695877732,
     "wof:name":"Ringwood",
     "wof:parent_id":102048567,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.26579,
-    "geom:area_square_m":2824950430.308758,
+    "geom:area_square_m":2824950430.30753,
     "geom:bbox":"115.044483968,-31.0085102175,115.95222944,-30.391885996",
     "geom:latitude":-30.73373,
     "geom:longitude":115.475706,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-30.724448,
     "lbl:longitude":115.372579,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Wedge Island"
@@ -50,9 +56,12 @@
         102049487
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50818"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"547bb55b2264f6f24602ed850eee71cd",
+    "wof:geomhash":"e87a9f8ccba593f9e704df3c6df49c66",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":404548513,
-    "wof:lastmodified":1566603234,
+    "wof:lastmodified":1695877835,
     "wof:name":"Wedge Island",
     "wof:parent_id":102049487,
     "wof:placetype":"localadmin",

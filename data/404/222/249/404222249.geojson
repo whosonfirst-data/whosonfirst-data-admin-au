@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010819,
-    "geom:area_square_m":107254335.543933,
+    "geom:area_square_m":107254335.543927,
     "geom:bbox":"149.651550016,-36.7555009925,149.825190016,-36.6461510075",
     "geom:latitude":-36.701123,
     "geom:longitude":149.74375,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.700397,
     "lbl:longitude":149.765268,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Buckajo"
@@ -38,9 +44,12 @@
         102049439
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10366"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"51e2cfc2911636b88c2d7424d04304ba",
+    "wof:geomhash":"4a22c504628d63f8e592f32c000fff4b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404222249,
-    "wof:lastmodified":1566602796,
+    "wof:lastmodified":1695877590,
     "wof:name":"Buckajo",
     "wof:parent_id":102049439,
     "wof:placetype":"localadmin",

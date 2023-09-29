@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003303,
-    "geom:area_square_m":35836573.56612,
+    "geom:area_square_m":35836573.566104,
     "geom:bbox":"153.289838016,-28.6974159955,153.376115008,-28.619067996",
     "geom:latitude":-28.663311,
     "geom:longitude":153.335805,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.663876,
     "lbl:longitude":153.338773,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Dunoon"
@@ -74,9 +80,12 @@
         102049635
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10754"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"27c758c873eed0a37e4455203ce23a67",
+    "wof:geomhash":"ebb726c20b30d3d1664381daf1f26c39",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -88,7 +97,7 @@
         }
     ],
     "wof:id":404223121,
-    "wof:lastmodified":1566602528,
+    "wof:lastmodified":1695877430,
     "wof:name":"Dunoon",
     "wof:parent_id":102049635,
     "wof:placetype":"localadmin",

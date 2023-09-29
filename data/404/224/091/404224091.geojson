@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013822,
-    "geom:area_square_m":138353346.933343,
+    "geom:area_square_m":138353346.933301,
     "geom:bbox":"146.793992,-36.0246404365,146.969556992,-35.894094095",
     "geom:latitude":-35.954122,
     "geom:longitude":146.877669,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.962209,
     "lbl:longitude":146.870558,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Jindera"
@@ -50,9 +56,12 @@
         102049625
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11185"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"ff8524c804c3650dd61d437095402714",
+    "wof:geomhash":"b6dc605d46487f71b4c6e93938648922",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":404224091,
-    "wof:lastmodified":1566602590,
+    "wof:lastmodified":1695877468,
     "wof:name":"Jindera",
     "wof:parent_id":102049625,
     "wof:placetype":"localadmin",

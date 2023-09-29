@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022195,
-    "geom:area_square_m":227548337.148835,
+    "geom:area_square_m":227548337.148737,
     "geom:bbox":"138.83080896,-34.123967993,138.965028448,-33.8516574465",
     "geom:latitude":-33.991918,
     "geom:longitude":138.900046,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.016964,
     "lbl:longitude":138.908054,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Waterloo"
@@ -188,9 +194,12 @@
         102048457
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40775"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"9f03702384f8c8bbe7bd93f9a297e623",
+    "wof:geomhash":"7ac378dfae9fa08f1d08884b2385b108",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -202,7 +211,7 @@
         }
     ],
     "wof:id":404546533,
-    "wof:lastmodified":1566603102,
+    "wof:lastmodified":1695877771,
     "wof:name":"Waterloo",
     "wof:parent_id":102048457,
     "wof:placetype":"localadmin",

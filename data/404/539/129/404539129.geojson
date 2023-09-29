@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.041399,
-    "geom:area_square_m":406031919.505738,
+    "geom:area_square_m":406031919.505662,
     "geom:bbox":"144.15828096,-37.642213966,144.472419008,-37.42064916",
     "geom:latitude":-37.516162,
     "geom:longitude":144.332055,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.509922,
     "lbl:longitude":144.381562,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Korobeit"
@@ -41,9 +47,12 @@
         102049283
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20735"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"368332807d6fb1332fe136822fbf4ce1",
+    "wof:geomhash":"ff56d2c850c59de5280572c405c802be",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404539129,
-    "wof:lastmodified":1566602377,
+    "wof:lastmodified":1695877340,
     "wof:name":"Korobeit",
     "wof:parent_id":102049283,
     "wof:placetype":"localadmin",

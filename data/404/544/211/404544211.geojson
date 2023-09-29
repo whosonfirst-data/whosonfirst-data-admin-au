@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003653,
-    "geom:area_square_m":40028501.269829,
+    "geom:area_square_m":40028501.269852,
     "geom:bbox":"152.428343008,-27.662815243,152.504437888,-27.5719469985",
     "geom:latitude":-27.609092,
     "geom:longitude":152.460254,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.60803,
     "lbl:longitude":152.457628,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Summerholm"
@@ -38,9 +44,12 @@
         102049033
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31549"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"d7de1b04fa019ee024de4cab91e896a7",
+    "wof:geomhash":"e78c40c9a8b9b0793e50824f96ad8000",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404544211,
-    "wof:lastmodified":1566602154,
+    "wof:lastmodified":1695877219,
     "wof:name":"Summerholm",
     "wof:parent_id":102049033,
     "wof:placetype":"localadmin",

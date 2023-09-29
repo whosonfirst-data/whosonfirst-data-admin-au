@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.098714,
-    "geom:area_square_m":971264170.271991,
+    "geom:area_square_m":971264170.272499,
     "geom:bbox":"149.63606,-37.505059998,150.052689984,-37.0934036035",
     "geom:latitude":-37.27677,
     "geom:longitude":149.838468,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.278648,
     "lbl:longitude":149.817935,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kiah"
@@ -38,9 +44,12 @@
         102049439
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11236"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"2e5cf0e027adda3bd78cd2e6baa127cf",
+    "wof:geomhash":"67b581eb72560f4531f504c4c012d2db",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404224205,
-    "wof:lastmodified":1566602598,
+    "wof:lastmodified":1695877474,
     "wof:name":"Kiah",
     "wof:parent_id":102049439,
     "wof:placetype":"localadmin",

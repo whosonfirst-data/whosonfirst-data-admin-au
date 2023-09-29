@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012521,
-    "geom:area_square_m":132338543.913043,
+    "geom:area_square_m":132338543.913078,
     "geom:bbox":"152.674167008,-31.3263069915,152.8534,-31.205401",
     "geom:latitude":-31.265724,
     "geom:longitude":152.757397,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.272599,
     "lbl:longitude":152.751324,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Cooperabung"
@@ -38,9 +44,12 @@
         102049203
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10605"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"b62931a06e3d52ab378415527f0e2183",
+    "wof:geomhash":"fdc03130af46cf9b587f48889a9f9be8",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404222785,
-    "wof:lastmodified":1566602777,
+    "wof:lastmodified":1695877578,
     "wof:name":"Cooperabung",
     "wof:parent_id":102049203,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.147836,
-    "geom:area_square_m":1368592020.232345,
+    "geom:area_square_m":1368592020.231046,
     "geom:bbox":"147.622324,-41.7802660865,148.1674,-41.3322995385",
     "geom:latitude":-41.52431,
     "geom:longitude":147.900055,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-41.506062,
     "lbl:longitude":147.896231,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mathinna"
@@ -38,9 +44,12 @@
         102049669
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60211"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"de4943757a8aefc0df0fea360ac44693",
+    "wof:geomhash":"97ec7ee02285ce5165d0c81cd25462e6",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404549143,
-    "wof:lastmodified":1566602860,
+    "wof:lastmodified":1695877633,
     "wof:name":"Mathinna",
     "wof:parent_id":102049669,
     "wof:placetype":"localadmin",

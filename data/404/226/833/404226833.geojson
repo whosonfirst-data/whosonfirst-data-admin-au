@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.423274,
-    "geom:area_square_m":15208318690.603769,
+    "geom:area_square_m":15208318690.603563,
     "geom:bbox":"144.065192672,-30.993071098,145.681098016,-29.3777030645",
     "geom:latitude":-30.211662,
     "geom:longitude":144.813356,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-30.351953,
     "lbl:longitude":144.868628,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Wanaaring"
@@ -38,9 +44,12 @@
         102049345
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12404"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"abd8b854c44b4e43d264f54e94782350",
+    "wof:geomhash":"e31eb842c8acc032c3b68a5f9f844b2a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404226833,
-    "wof:lastmodified":1566602038,
+    "wof:lastmodified":1695877154,
     "wof:name":"Wanaaring",
     "wof:parent_id":102049345,
     "wof:placetype":"localadmin",

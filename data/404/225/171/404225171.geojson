@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025129,
-    "geom:area_square_m":262607579.953703,
+    "geom:area_square_m":262607669.76707,
     "geom:bbox":"150.762971,-32.412776,151.02334,-32.20828",
     "geom:latitude":-32.31408,
     "geom:longitude":150.908257,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.341766,
     "lbl:longitude":150.918975,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09ae\u09c1\u099c\u09cb\u09df\u09c7\u09b2\u09ac\u09cd\u09b0\u09c1\u0995"
@@ -83,9 +89,12 @@
         102048429
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11665"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"b6608b9237777826f87f620cf13cacbb",
+    "wof:geomhash":"8b3c14e6eb764c897d70c26f2fc77e96",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -97,7 +106,7 @@
         }
     ],
     "wof:id":404225171,
-    "wof:lastmodified":1636494654,
+    "wof:lastmodified":1695877868,
     "wof:name":"Muswellbrook",
     "wof:parent_id":102048429,
     "wof:placetype":"localadmin",

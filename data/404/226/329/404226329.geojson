@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000273,
-    "geom:area_square_m":2740410.159683,
+    "geom:area_square_m":2740410.159687,
     "geom:bbox":"150.190944,-35.7677475125,150.216246016,-35.74624191",
     "geom:latitude":-35.757903,
     "geom:longitude":150.201776,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.758967,
     "lbl:longitude":150.19987,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Surf Beach"
@@ -41,12 +47,15 @@
         102049609
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12180"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931987
     ],
     "wof:country":"AU",
-    "wof:geomhash":"312d7823b3e6d3ba2b5a47687feb911e",
+    "wof:geomhash":"5c1850d401593fc5271899cf63581d56",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404226329,
-    "wof:lastmodified":1566602083,
+    "wof:lastmodified":1695877182,
     "wof:name":"Surf Beach",
     "wof:parent_id":102049609,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029241,
-    "geom:area_square_m":312021837.470854,
+    "geom:area_square_m":312021420.811429,
     "geom:bbox":"151.568205,-30.44976,151.81008,-30.256755",
     "geom:latitude":-30.350758,
     "geom:longitude":151.673118,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-30.365955,
     "lbl:longitude":151.670722,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Black Mountain"
@@ -110,9 +116,12 @@
         102048707
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10232"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"85f3e0536d632fbf8949321954ea4c83",
+    "wof:geomhash":"6aa30493cc1d24a080a4f19ce2e698ce",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -124,7 +133,7 @@
         }
     ],
     "wof:id":404221947,
-    "wof:lastmodified":1636494611,
+    "wof:lastmodified":1695877848,
     "wof:name":"Black Mountain",
     "wof:parent_id":102048707,
     "wof:placetype":"localadmin",

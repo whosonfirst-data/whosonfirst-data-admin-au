@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008538,
-    "geom:area_square_m":84274376.689773,
+    "geom:area_square_m":84274376.689901,
     "geom:bbox":"143.981111648,-37.0956146865,144.131207008,-36.9800549915",
     "geom:latitude":-37.037534,
     "geom:longitude":144.063091,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.040367,
     "lbl:longitude":144.055714,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Welshmans Reef"
@@ -38,9 +44,12 @@
         102049601
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21448"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"908e0c171d03f3e12c06a8792e5df70e",
+    "wof:geomhash":"e14af46be195c1e6a2fff83e855891eb",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404540725,
-    "wof:lastmodified":1566603004,
+    "wof:lastmodified":1695877720,
     "wof:name":"Welshmans Reef",
     "wof:parent_id":102049601,
     "wof:placetype":"localadmin",

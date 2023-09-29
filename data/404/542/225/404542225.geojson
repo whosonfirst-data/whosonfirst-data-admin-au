@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004068,
-    "geom:area_square_m":44562401.670436,
+    "geom:area_square_m":44562401.670435,
     "geom:bbox":"152.04322,-27.663570006,152.146504,-27.5941479975",
     "geom:latitude":-27.630532,
     "geom:longitude":152.099192,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.62634,
     "lbl:longitude":152.104286,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Flagstone Creek"
@@ -38,9 +44,12 @@
         102049033
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30612"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"0e99060fd875ece9f7987993b348c7fc",
+    "wof:geomhash":"c0764321d108a603e3428ab01edabe58",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404542225,
-    "wof:lastmodified":1566602302,
+    "wof:lastmodified":1695877295,
     "wof:name":"Flagstone Creek",
     "wof:parent_id":102049033,
     "wof:placetype":"localadmin",

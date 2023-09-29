@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007211,
-    "geom:area_square_m":70397801.056846,
+    "geom:area_square_m":70397767.142128,
     "geom:bbox":"147.502805,-37.901854,147.683654,-37.805059",
     "geom:latitude":-37.860404,
     "geom:longitude":147.593816,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.852538,
     "lbl:longitude":147.610204,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0628\u0627\u064a\u0631\u0646\u0633\u062f\u0627\u0644"
@@ -125,9 +131,12 @@
         102049039
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20053"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"5c83ac74a1c094ac1003099cdbfd48ea",
+    "wof:geomhash":"1232d7a7c8b60d9c9646efb7fc09bc53",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -139,7 +148,7 @@
         }
     ],
     "wof:id":404537613,
-    "wof:lastmodified":1636494632,
+    "wof:lastmodified":1695877857,
     "wof:name":"Bairnsdale",
     "wof:parent_id":102049039,
     "wof:placetype":"localadmin",

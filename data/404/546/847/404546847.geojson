@@ -10,12 +10,18 @@
     "geom:latitude":-33.158308,
     "geom:longitude":115.690861,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.158366,
     "lbl:longitude":115.691025,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Binningup"
@@ -38,12 +44,15 @@
         102049561
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50071"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101936919
     ],
     "wof:country":"AU",
-    "wof:geomhash":"764e317acfc7b906f0bb039bad6aa598",
+    "wof:geomhash":"a0f6a789e14d8c4dabe4bbed4a58e7ce",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404546847,
-    "wof:lastmodified":1566603140,
+    "wof:lastmodified":1695877786,
     "wof:name":"Binningup",
     "wof:parent_id":102049561,
     "wof:placetype":"localadmin",

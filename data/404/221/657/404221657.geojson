@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000367,
-    "geom:area_square_m":3770539.379031,
+    "geom:area_square_m":3770539.379021,
     "geom:bbox":"150.97370512,-33.934278317,151.006842784,-33.9122970425",
     "geom:latitude":-33.922738,
     "geom:longitude":150.988529,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.921864,
     "lbl:longitude":150.988533,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bankstown Aerodrome"
@@ -39,12 +45,15 @@
         102049447
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10103"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101929467
     ],
     "wof:country":"AU",
-    "wof:geomhash":"79e5ebc1cc6cf2cfbc9a6e2e1d14a42e",
+    "wof:geomhash":"7317c1326fa141cdaece04e0791ec4bf",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404221657,
-    "wof:lastmodified":1566601981,
+    "wof:lastmodified":1695877125,
     "wof:name":"Bankstown Aerodrome",
     "wof:parent_id":102049447,
     "wof:placetype":"localadmin",

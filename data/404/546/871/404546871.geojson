@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.067434,
-    "geom:area_square_m":733915911.659133,
+    "geom:area_square_m":733915911.659274,
     "geom:bbox":"114.473287008,-28.5438901195,114.796251712,-28.1649017835",
     "geom:latitude":-28.336388,
     "geom:longitude":114.637884,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.294327,
     "lbl:longitude":114.702773,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Bowes"
@@ -68,9 +74,12 @@
         102048481
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50082"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"2d6a0415daf5f83debadf78e1653f1f0",
+    "wof:geomhash":"64409fe4eeb8716a57b222bf1a837abb",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -82,7 +91,7 @@
         }
     ],
     "wof:id":404546871,
-    "wof:lastmodified":1566603140,
+    "wof:lastmodified":1695877786,
     "wof:name":"Bowes",
     "wof:parent_id":102048481,
     "wof:placetype":"localadmin",

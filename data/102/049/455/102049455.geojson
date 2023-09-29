@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.390147,
-    "geom:area_square_m":3842620214.924081,
+    "geom:area_square_m":3842621112.486512,
     "geom:bbox":"145.648678,-37.62943,146.647394,-36.85317",
     "geom:latitude":-37.200396,
     "geom:longitude":146.206853,
@@ -23,7 +23,7 @@
     "mps:latitude":-37.189273,
     "mps:longitude":146.217654,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:azb_x_preferred":[
         "\u0645\u0646\u0632\u0641\u06cc\u0644\u062f"
@@ -158,9 +158,12 @@
         136253039
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"24250"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"546b417b4f4ce24ef8c91f3eff1767b4",
+    "wof:geomhash":"946dd14d08220ee4f45c0370752133c4",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -171,7 +174,7 @@
         }
     ],
     "wof:id":102049455,
-    "wof:lastmodified":1636494470,
+    "wof:lastmodified":1695887130,
     "wof:name":"Mansfield",
     "wof:parent_id":85681497,
     "wof:placetype":"county",

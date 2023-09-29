@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006484,
-    "geom:area_square_m":65503862.796321,
+    "geom:area_square_m":65503862.796249,
     "geom:bbox":"138.490067168,-35.2518909965,138.614340992,-35.1587231095",
     "geom:latitude":-35.209107,
     "geom:longitude":138.545997,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.197875,
     "lbl:longitude":138.53987,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mclaren Vale"
@@ -39,9 +45,12 @@
         102048473
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40416"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"b8dc3b3ae4f28a94ab4304753b48f0f3",
+    "wof:geomhash":"cd0e71090e7111b595155b0520391e35",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":404545765,
-    "wof:lastmodified":1566602212,
+    "wof:lastmodified":1695877249,
     "wof:name":"Mclaren Vale",
     "wof:parent_id":102048473,
     "wof:placetype":"localadmin",

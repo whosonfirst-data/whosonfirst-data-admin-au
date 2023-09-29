@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002178,
-    "geom:area_square_m":24721028.593246,
+    "geom:area_square_m":24721028.593238,
     "geom:bbox":"150.42930064,-23.432698224,150.507131008,-23.3715656955",
     "geom:latitude":-23.405274,
     "geom:longitude":150.465414,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-23.4041,
     "lbl:longitude":150.465992,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Fairy Bower"
@@ -38,9 +44,12 @@
         102048825
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30597"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"00830b93ef088755f3d29ea5ae7cdc12",
+    "wof:geomhash":"9b4e9c6a734ee210bc445cb19ee7d808",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404542191,
-    "wof:lastmodified":1566602290,
+    "wof:lastmodified":1695877287,
     "wof:name":"Fairy Bower",
     "wof:parent_id":102048825,
     "wof:placetype":"localadmin",

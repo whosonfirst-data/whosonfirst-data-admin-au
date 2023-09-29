@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01249,
-    "geom:area_square_m":121052521.062463,
+    "geom:area_square_m":121052521.062487,
     "geom:bbox":"146.578965472,-38.442375004,146.802316,-38.340874458",
     "geom:latitude":-38.391849,
     "geom:longitude":146.678318,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.38766,
     "lbl:longitude":146.680139,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Carrajung"
@@ -38,9 +44,12 @@
         102049585
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20264"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"f1d6dd2573f2fe89219e4bf296aaab9f",
+    "wof:geomhash":"3fd8b37582b8d505f13c6159c78adb90",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404538081,
-    "wof:lastmodified":1566602467,
+    "wof:lastmodified":1695877393,
     "wof:name":"Carrajung",
     "wof:parent_id":102049585,
     "wof:placetype":"localadmin",

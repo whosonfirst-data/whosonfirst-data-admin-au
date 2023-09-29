@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011428,
-    "geom:area_square_m":113475823.094277,
+    "geom:area_square_m":113475823.094247,
     "geom:bbox":"146.797163008,-36.633019763,146.969591712,-36.5318082055",
     "geom:latitude":-36.578844,
     "geom:longitude":146.888389,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.587488,
     "lbl:longitude":146.886687,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Rosewhite"
@@ -38,9 +44,12 @@
         102049467
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21166"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"f29eac486b52fe15be691bce708c5b69",
+    "wof:geomhash":"25643138a49db04989566e32342a84f7",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404540093,
-    "wof:lastmodified":1566603032,
+    "wof:lastmodified":1695877737,
     "wof:name":"Rosewhite",
     "wof:parent_id":102049467,
     "wof:placetype":"localadmin",

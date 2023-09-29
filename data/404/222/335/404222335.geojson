@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002389,
-    "geom:area_square_m":25978146.324367,
+    "geom:area_square_m":25978146.324373,
     "geom:bbox":"153.438356992,-28.468290998,153.489598016,-28.382515008",
     "geom:latitude":-28.421182,
     "geom:longitude":153.463024,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.421087,
     "lbl:longitude":153.46342,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Burringbar"
@@ -38,9 +44,12 @@
         102048589
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10405"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"4ea397361a474b0d388d0bd3c580fb0b",
+    "wof:geomhash":"b4088faf03354039006c2cc34405630d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404222335,
-    "wof:lastmodified":1566602785,
+    "wof:lastmodified":1695877582,
     "wof:name":"Burringbar",
     "wof:parent_id":102048589,
     "wof:placetype":"localadmin",

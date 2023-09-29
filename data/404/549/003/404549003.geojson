@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000235,
-    "geom:area_square_m":2192637.162011,
+    "geom:area_square_m":2192637.162013,
     "geom:bbox":"145.89744,-41.092073505,145.924750016,-41.073711996",
     "geom:latitude":-41.083902,
     "geom:longitude":145.911843,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-41.082984,
     "lbl:longitude":145.913185,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Havenview"
@@ -38,12 +44,15 @@
         102049367
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60148"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938119
     ],
     "wof:country":"AU",
-    "wof:geomhash":"2b6e2097c68f868b497d7ff890e70920",
+    "wof:geomhash":"9bfa1d651c75d53762aa2abc5f06b7df",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404549003,
-    "wof:lastmodified":1566602898,
+    "wof:lastmodified":1695877660,
     "wof:name":"Havenview",
     "wof:parent_id":102049367,
     "wof:placetype":"localadmin",

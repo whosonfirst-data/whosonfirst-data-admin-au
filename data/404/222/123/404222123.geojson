@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023072,
-    "geom:area_square_m":238429698.908145,
+    "geom:area_square_m":238429698.907834,
     "geom:bbox":"148.770334016,-33.407563004,148.990654016,-33.2187100275",
     "geom:latitude":-33.306819,
     "geom:longitude":148.885507,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.295132,
     "lbl:longitude":148.885444,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bowan Park"
@@ -38,9 +44,12 @@
         102048769
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10310"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"f6873908f88c359834facb9bceb2d86f",
+    "wof:geomhash":"65fbc5c0ce9b6bc11c0aee432da57db7",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404222123,
-    "wof:lastmodified":1566602811,
+    "wof:lastmodified":1695877599,
     "wof:name":"Bowan Park",
     "wof:parent_id":102048769,
     "wof:placetype":"localadmin",

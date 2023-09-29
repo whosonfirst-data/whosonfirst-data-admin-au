@@ -10,6 +10,12 @@
     "geom:latitude":-27.938102,
     "geom:longitude":153.239263,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.93812,
     "lbl:longitude":153.239853,
     "lbl:max_zoom":18.0,
@@ -43,10 +49,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC30711",
         "wd:id":"Q5613532"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"68501cee896e36991d9084723f8ca999",
+    "wof:geomhash":"2a6d5a9509d72080e65b28c2e58c386e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -59,7 +67,7 @@
         }
     ],
     "wof:id":404542437,
-    "wof:lastmodified":1566602275,
+    "wof:lastmodified":1695877940,
     "wof:name":"Guanaba",
     "wof:parent_id":102049363,
     "wof:placetype":"localadmin",

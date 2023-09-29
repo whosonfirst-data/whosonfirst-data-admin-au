@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025956,
-    "geom:area_square_m":264780284.168392,
+    "geom:area_square_m":264780284.16772,
     "geom:bbox":"116.000922656,-34.5151010055,116.24717,-34.3087510065",
     "geom:latitude":-34.413916,
     "geom:longitude":116.114784,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.39018,
     "lbl:longitude":116.116712,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Eastbrook"
@@ -41,9 +47,12 @@
         102049063
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50244"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"c1bab4dcd24e30dadc766d64864f4a55",
+    "wof:geomhash":"0e65ac124254d0f9e80a197fe8b9074d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404547231,
-    "wof:lastmodified":1566602963,
+    "wof:lastmodified":1695877696,
     "wof:name":"Eastbrook",
     "wof:parent_id":102049063,
     "wof:placetype":"localadmin",

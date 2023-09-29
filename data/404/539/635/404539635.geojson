@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012618,
-    "geom:area_square_m":126995815.536883,
+    "geom:area_square_m":126995815.536897,
     "geom:bbox":"143.76015136,-35.575220991,143.999256576,-35.445884975",
     "geom:latitude":-35.516992,
     "geom:longitude":143.886573,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.53218,
     "lbl:longitude":143.914619,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Murrabit"
@@ -41,9 +47,12 @@
         102049383
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20960"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"7ec9ffb950f683516864bc1575a2042f",
+    "wof:geomhash":"b21e1cda24f811496e0d46cc2354e181",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404539635,
-    "wof:lastmodified":1566602372,
+    "wof:lastmodified":1695877338,
     "wof:name":"Murrabit",
     "wof:parent_id":102049383,
     "wof:placetype":"localadmin",

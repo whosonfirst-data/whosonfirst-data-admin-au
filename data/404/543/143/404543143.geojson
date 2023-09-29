@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000648,
-    "geom:area_square_m":7072458.41761,
+    "geom:area_square_m":7072458.417621,
     "geom:bbox":"153.406761856,-28.069387227,153.437702048,-28.035090003",
     "geom:latitude":-28.049787,
     "geom:longitude":153.421524,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.048791,
     "lbl:longitude":153.421825,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mermaid Waters"
@@ -39,12 +45,15 @@
         102049363
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31045"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934823
     ],
     "wof:country":"AU",
-    "wof:geomhash":"2b1ac4aa4cf8fcef6df43a89d470eb53",
+    "wof:geomhash":"1e6339fbafe15c088854795c73a64171",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404543143,
-    "wof:lastmodified":1566602116,
+    "wof:lastmodified":1695877200,
     "wof:name":"Mermaid Waters",
     "wof:parent_id":102049363,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00052,
-    "geom:area_square_m":5219035.161056,
+    "geom:area_square_m":5219035.161052,
     "geom:bbox":"150.242488992,-35.7194989945,150.26590512,-35.6837257295",
     "geom:latitude":-35.699439,
     "geom:longitude":150.254301,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.698967,
     "lbl:longitude":150.254079,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Maloneys Beach"
@@ -38,12 +44,15 @@
         102049609
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11449"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931131
     ],
     "wof:country":"AU",
-    "wof:geomhash":"2bd4a17bcdaa3bf953308ff1dac07f4a",
+    "wof:geomhash":"250fd02450280a21214c31aac8377a86",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404224685,
-    "wof:lastmodified":1566602623,
+    "wof:lastmodified":1695877488,
     "wof:name":"Maloneys Beach",
     "wof:parent_id":102049609,
     "wof:placetype":"localadmin",

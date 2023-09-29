@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003353,
-    "geom:area_square_m":33859274.694833,
+    "geom:area_square_m":33859274.694754,
     "geom:bbox":"138.526671008,-35.2923022855,138.637464832,-35.2128890005",
     "geom:latitude":-35.255412,
     "geom:longitude":138.584992,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.265348,
     "lbl:longitude":138.580351,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Willunga"
@@ -39,9 +45,12 @@
         102048473
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40804"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"ae28c5b9a0ed30a938cd2fb2a87834a9",
+    "wof:geomhash":"20dab8544864999452cd2f421fc2788c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":404546597,
-    "wof:lastmodified":1566603132,
+    "wof:lastmodified":1695877783,
     "wof:name":"Willunga",
     "wof:parent_id":102048473,
     "wof:placetype":"localadmin",

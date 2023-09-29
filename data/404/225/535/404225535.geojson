@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000157,
-    "geom:area_square_m":1611757.721827,
+    "geom:area_square_m":1611757.721818,
     "geom:bbox":"151.21806848,-33.889879353,151.237557312,-33.876793526",
     "geom:latitude":-33.883774,
     "geom:longitude":151.228418,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.883834,
     "lbl:longitude":151.228422,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Paddington"
@@ -135,12 +141,15 @@
         102049633
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11827"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931535
     ],
     "wof:country":"AU",
-    "wof:geomhash":"ea2ba1dfb3086a7d2fdc663b2e7efafb",
+    "wof:geomhash":"2da746173d3cd97b63152ec5590f103a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -153,7 +162,7 @@
         }
     ],
     "wof:id":404225535,
-    "wof:lastmodified":1566602667,
+    "wof:lastmodified":1695877512,
     "wof:name":"Paddington",
     "wof:parent_id":102049633,
     "wof:placetype":"localadmin",

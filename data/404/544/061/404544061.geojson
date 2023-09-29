@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000048,
-    "geom:area_square_m":553242.153702,
+    "geom:area_square_m":553242.1537,
     "geom:bbox":"148.774336992,-20.2931319515,148.794294976,-20.2836701265",
     "geom:latitude":-20.288968,
     "geom:longitude":148.786867,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-20.287607,
     "lbl:longitude":148.791014,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Shute Harbour"
@@ -41,12 +47,15 @@
         102049581
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31478"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935303
     ],
     "wof:country":"AU",
-    "wof:geomhash":"697839dde685cced1caebbc0c958ed1f",
+    "wof:geomhash":"1564e0399c231c58031378983b785af6",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404544061,
-    "wof:lastmodified":1566602195,
+    "wof:lastmodified":1695877241,
     "wof:name":"Shute Harbour",
     "wof:parent_id":102049581,
     "wof:placetype":"localadmin",

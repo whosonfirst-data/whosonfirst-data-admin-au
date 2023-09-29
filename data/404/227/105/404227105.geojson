@@ -10,6 +10,12 @@
     "geom:latitude":-33.776449,
     "geom:longitude":150.980506,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.7782,
     "lbl:longitude":150.981971,
     "lbl:max_zoom":18.0,
@@ -55,13 +61,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC12525",
         "wd:id":"Q2584884"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932375
     ],
     "wof:country":"AU",
-    "wof:geomhash":"96e3a1f2fcda3e22e0cb83f50d5b5740",
+    "wof:geomhash":"59e970ee947967d635893b8e4cddab36",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -74,7 +82,7 @@
         }
     ],
     "wof:id":404227105,
-    "wof:lastmodified":1566601936,
+    "wof:lastmodified":1695877893,
     "wof:name":"Winston Hills",
     "wof:parent_id":102049565,
     "wof:placetype":"localadmin",

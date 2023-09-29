@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.102452,
-    "geom:area_square_m":1043286576.271365,
+    "geom:area_square_m":1043286576.271182,
     "geom:bbox":"141.99303312,-34.8110329995,142.384163072,-34.3623250085",
     "geom:latitude":-34.559508,
     "geom:longitude":142.161104,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.529912,
     "lbl:longitude":142.174436,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Nangiloc"
@@ -38,9 +44,12 @@
         102049611
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20974"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"54a4d093bbf58c03f6866deda7e658dc",
+    "wof:geomhash":"c495c338df0acbde70d43ee1346a6f0c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404539667,
-    "wof:lastmodified":1566602370,
+    "wof:lastmodified":1695877336,
     "wof:name":"Nangiloc",
     "wof:parent_id":102049611,
     "wof:placetype":"localadmin",

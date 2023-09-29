@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003801,
-    "geom:area_square_m":38928147.207489,
+    "geom:area_square_m":38928147.207574,
     "geom:bbox":"150.528715264,-34.1437710035,150.601250016,-34.0464943775",
     "geom:latitude":-34.088713,
     "geom:longitude":150.563415,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.087751,
     "lbl:longitude":150.565893,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "The Oaks"
@@ -41,9 +47,12 @@
         102048943
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12260"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"45eb6f2ccbfa50ddad848ef82dbbe1e4",
+    "wof:geomhash":"15cc69ecc0d1a9aa1069b663010e3318",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404226509,
-    "wof:lastmodified":1566602059,
+    "wof:lastmodified":1695877167,
     "wof:name":"The Oaks",
     "wof:parent_id":102048943,
     "wof:placetype":"localadmin",

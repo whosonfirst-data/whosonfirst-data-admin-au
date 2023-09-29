@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000223,
-    "geom:area_square_m":2244216.959047,
+    "geom:area_square_m":2244216.959017,
     "geom:bbox":"138.620252704,-35.544720004,138.640215232,-35.526524995",
     "geom:latitude":-35.535801,
     "geom:longitude":138.631207,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.535977,
     "lbl:longitude":138.631398,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mccracken"
@@ -39,12 +45,15 @@
         102049465
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40414"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101936267
     ],
     "wof:country":"AU",
-    "wof:geomhash":"ee89d0121f73ad71f7349e77a81c2bac",
+    "wof:geomhash":"2c21158dccaf816c67d4313341d3ea98",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404545759,
-    "wof:lastmodified":1566602239,
+    "wof:lastmodified":1695877260,
     "wof:name":"Mccracken",
     "wof:parent_id":102049465,
     "wof:placetype":"localadmin",

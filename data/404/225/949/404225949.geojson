@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008832,
-    "geom:area_square_m":95988256.920649,
+    "geom:area_square_m":95988256.920694,
     "geom:bbox":"153.275434016,-28.5427953265,153.40836,-28.4259059995",
     "geom:latitude":-28.482721,
     "geom:longitude":153.330181,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.479839,
     "lbl:longitude":153.329206,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Rowlands Creek"
@@ -38,9 +44,12 @@
         102048589
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12011"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"95d4a48a79bdb9d14a9edc4ba724ab61",
+    "wof:geomhash":"f45ea3f33ac3d393ecf00aeb6dc6a7b9",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404225949,
-    "wof:lastmodified":1566602697,
+    "wof:lastmodified":1695877527,
     "wof:name":"Rowlands Creek",
     "wof:parent_id":102048589,
     "wof:placetype":"localadmin",

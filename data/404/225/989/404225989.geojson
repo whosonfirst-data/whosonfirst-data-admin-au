@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000088,
-    "geom:area_square_m":902236.248429,
+    "geom:area_square_m":902236.248428,
     "geom:bbox":"150.885056992,-33.922932008,150.896042016,-33.9106710035",
     "geom:latitude":-33.917127,
     "geom:longitude":150.890928,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.917059,
     "lbl:longitude":150.890481,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Sadleir"
@@ -39,12 +45,15 @@
         102049387
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12029"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931789
     ],
     "wof:country":"AU",
-    "wof:geomhash":"86767f6caf83fcf97cd469fbb9f25b5d",
+    "wof:geomhash":"87dd9316ada8ea56b536f8d951b5f7fd",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404225989,
-    "wof:lastmodified":1566602735,
+    "wof:lastmodified":1695877551,
     "wof:name":"Sadleir",
     "wof:parent_id":102049387,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008957,
-    "geom:area_square_m":93319651.729336,
+    "geom:area_square_m":93319651.729327,
     "geom:bbox":"151.47343808,-32.6298647215,151.660967008,-32.550390997",
     "geom:latitude":-32.591648,
     "geom:longitude":151.560085,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.599924,
     "lbl:longitude":151.552471,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Paterson"
@@ -92,9 +98,12 @@
         102049061
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11846"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"9da83e6c7b90397dfe96ec681080b2ad",
+    "wof:geomhash":"1cceaa23409e177d77c75f7a8d5fe6b7",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -106,7 +115,7 @@
         }
     ],
     "wof:id":404225579,
-    "wof:lastmodified":1566602736,
+    "wof:lastmodified":1695877551,
     "wof:name":"Paterson",
     "wof:parent_id":102049061,
     "wof:placetype":"localadmin",

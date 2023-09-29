@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000423,
-    "geom:area_square_m":4093293.818097,
+    "geom:area_square_m":4093293.818094,
     "geom:bbox":"145.429472,-38.447372483,145.456988,-38.422253997",
     "geom:latitude":-38.433309,
     "geom:longitude":145.444936,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.431842,
     "lbl:longitude":145.44518,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Coronet Bay"
@@ -38,12 +44,15 @@
         102049085
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20336"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932787
     ],
     "wof:country":"AU",
-    "wof:geomhash":"18b18cb29ae929bb1d36b7b385c71d5b",
+    "wof:geomhash":"b47b3af38272a88c69a4fb7732277983",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404538243,
-    "wof:lastmodified":1566602437,
+    "wof:lastmodified":1695877379,
     "wof:name":"Coronet Bay",
     "wof:parent_id":102049085,
     "wof:placetype":"localadmin",

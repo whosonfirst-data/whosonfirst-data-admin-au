@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002056,
-    "geom:area_square_m":22302513.411208,
+    "geom:area_square_m":22302513.411212,
     "geom:bbox":"153.50109,-28.7169998365,153.598475008,-28.6770590025",
     "geom:latitude":-28.696897,
     "geom:longitude":153.547725,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.69408,
     "lbl:longitude":153.559933,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Coopers Shoot"
@@ -38,9 +44,12 @@
         102048747
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10608"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"a9904bb1e71143876588f4e09a9594f2",
+    "wof:geomhash":"2afaf5c4751a4989e439324cea28e02a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404222793,
-    "wof:lastmodified":1566602784,
+    "wof:lastmodified":1695877582,
     "wof:name":"Coopers Shoot",
     "wof:parent_id":102048747,
     "wof:placetype":"localadmin",

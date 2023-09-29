@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002021,
-    "geom:area_square_m":21998784.699934,
+    "geom:area_square_m":21998784.699972,
     "geom:bbox":"153.514096192,-28.333598011,153.568820992,-28.2749780045",
     "geom:latitude":-28.302782,
     "geom:longitude":153.538188,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.300097,
     "lbl:longitude":153.535977,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Duranbah"
@@ -38,9 +44,12 @@
         102048589
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10757"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"ea0264c217bfcca3f5b6193806ada638",
+    "wof:geomhash":"94b13b53449072c77161bd04efbebebd",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404223127,
-    "wof:lastmodified":1566602524,
+    "wof:lastmodified":1695877427,
     "wof:name":"Duranbah",
     "wof:parent_id":102048589,
     "wof:placetype":"localadmin",

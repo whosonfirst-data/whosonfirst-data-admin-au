@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008121,
-    "geom:area_square_m":83903187.082085,
+    "geom:area_square_m":83903187.081984,
     "geom:bbox":"115.690230048,-33.37194599,115.90284752,-33.294576955",
     "geom:latitude":-33.332742,
     "geom:longitude":115.790359,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.331105,
     "lbl:longitude":115.783441,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Picton East"
@@ -38,9 +44,12 @@
         102049295
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50644"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"b956a56b12165396998629a61e3b3f83",
+    "wof:geomhash":"3ebc791bbda14b7524ff4bffc948fbff",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404548127,
-    "wof:lastmodified":1566603191,
+    "wof:lastmodified":1695877811,
     "wof:name":"Picton East",
     "wof:parent_id":102049295,
     "wof:placetype":"localadmin",

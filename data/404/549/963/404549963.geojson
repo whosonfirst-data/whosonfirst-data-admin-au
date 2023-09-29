@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00017,
-    "geom:area_square_m":1719262.82565,
+    "geom:area_square_m":1719262.825644,
     "geom:bbox":"149.054410976,-35.2674248175,149.074599584,-35.2534087365",
     "geom:latitude":-35.260137,
     "geom:longitude":149.065665,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.260546,
     "lbl:longitude":149.067683,
     "lbl:max_zoom":18.0,
@@ -104,13 +110,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC80021",
         "wd:id":"Q5166874"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938745
     ],
     "wof:country":"AU",
-    "wof:geomhash":"cd7ae945ce6d6742f02bafccbd0324af",
+    "wof:geomhash":"7efc849eb9232abbab231ae9feed6a72",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -121,7 +129,7 @@
         }
     ],
     "wof:id":404549963,
-    "wof:lastmodified":1566602828,
+    "wof:lastmodified":1695878006,
     "wof:name":"Cook",
     "wof:parent_id":85681493,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":-23.815189,
     "geom:longitude":150.977962,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-23.815084,
     "lbl:longitude":150.977766,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mount Larcom"
@@ -38,12 +44,15 @@
         102049463
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31140"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934917
     ],
     "wof:country":"AU",
-    "wof:geomhash":"83d29c1a5757a78f2caac8b99cfbd185",
+    "wof:geomhash":"3a785ee91400be3edbd98df97d15e80c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404543343,
-    "wof:lastmodified":1566602146,
+    "wof:lastmodified":1695877215,
     "wof:name":"Mount Larcom",
     "wof:parent_id":102049463,
     "wof:placetype":"localadmin",

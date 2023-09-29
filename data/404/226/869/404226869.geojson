@@ -10,12 +10,18 @@
     "geom:latitude":-33.72912,
     "geom:longitude":148.146066,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.730693,
     "lbl:longitude":148.15097,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Warraderry"
@@ -38,9 +44,12 @@
         102048709
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12420"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"91992ce65daf8d3683a96712a2d83a7e",
+    "wof:geomhash":"b04be73ae74cdbc828db73f5e7921990",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404226869,
-    "wof:lastmodified":1566602036,
+    "wof:lastmodified":1695877153,
     "wof:name":"Warraderry",
     "wof:parent_id":102048709,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000886,
-    "geom:area_square_m":8819748.503388,
+    "geom:area_square_m":8819748.50339,
     "geom:bbox":"148.622745952,-36.4338549975,148.653715232,-36.373758025",
     "geom:latitude":-36.394378,
     "geom:longitude":148.638176,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.392006,
     "lbl:longitude":148.639229,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "East Jindabyne"
@@ -38,9 +44,12 @@
         102048967
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10773"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"c35dea9dc715d8e8d5a43a0406762f95",
+    "wof:geomhash":"abf4504bc5740e353bd2b2844ba5f785",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404223163,
-    "wof:lastmodified":1566602535,
+    "wof:lastmodified":1695877434,
     "wof:name":"East Jindabyne",
     "wof:parent_id":102048967,
     "wof:placetype":"localadmin",

@@ -10,6 +10,12 @@
     "geom:latitude":-31.86828,
     "geom:longitude":116.040663,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.867369,
     "lbl:longitude":116.040903,
     "lbl:max_zoom":18.0,
@@ -84,13 +90,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC50746",
         "wd:id":"Q7622254"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937827
     ],
     "wof:country":"AU",
-    "wof:geomhash":"6d26aa306caa739bbb47c0e828a03b92",
+    "wof:geomhash":"65f8ec479456f6ac6ad1cfbffc3095cd",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -102,7 +110,7 @@
         }
     ],
     "wof:id":404548355,
-    "wof:lastmodified":1566603164,
+    "wof:lastmodified":1695878046,
     "wof:name":"Stratton",
     "wof:parent_id":102049575,
     "wof:placetype":"localadmin",

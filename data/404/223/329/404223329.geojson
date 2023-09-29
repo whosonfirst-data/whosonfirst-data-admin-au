@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.042409,
-    "geom:area_square_m":444764290.660462,
+    "geom:area_square_m":444764290.660773,
     "geom:bbox":"148.526540352,-32.125292003,148.840183168,-31.8860215685",
     "geom:latitude":-31.989592,
     "geom:longitude":148.670281,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.004576,
     "lbl:longitude":148.642012,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Eumungerie"
@@ -47,9 +53,12 @@
         102049599
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10846"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"5ccb875990238ab5f8de4b6cc31138cd",
+    "wof:geomhash":"a249fd672fc575893f7b1983bdfde90f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":404223329,
-    "wof:lastmodified":1566602562,
+    "wof:lastmodified":1695877453,
     "wof:name":"Eumungerie",
     "wof:parent_id":102049599,
     "wof:placetype":"localadmin",

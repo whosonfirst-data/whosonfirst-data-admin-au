@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000216,
-    "geom:area_square_m":2136703.245978,
+    "geom:area_square_m":2136703.245987,
     "geom:bbox":"149.893031968,-36.9481171465,149.914250656,-36.924609104",
     "geom:latitude":-36.936299,
     "geom:longitude":149.902572,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.935854,
     "lbl:longitude":149.902395,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Pambula Beach"
@@ -38,12 +44,15 @@
         102049439
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11836"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931549
     ],
     "wof:country":"AU",
-    "wof:geomhash":"e255abe1d3fff113b68d9224fa1e8bdd",
+    "wof:geomhash":"adc62c4820ec144b9eff77eb18ebaba0",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404225555,
-    "wof:lastmodified":1566602702,
+    "wof:lastmodified":1695877529,
     "wof:name":"Pambula Beach",
     "wof:parent_id":102049439,
     "wof:placetype":"localadmin",

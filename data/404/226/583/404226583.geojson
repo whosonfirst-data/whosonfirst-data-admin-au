@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000457,
-    "geom:area_square_m":4698030.433537,
+    "geom:area_square_m":4698030.433532,
     "geom:bbox":"150.925991776,-33.807160932,150.96761392,-33.776755516",
     "geom:latitude":-33.790366,
     "geom:longitude":150.948624,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.787268,
     "lbl:longitude":150.957583,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Toongabbie"
@@ -51,12 +57,15 @@
         102049565
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12293"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932113
     ],
     "wof:country":"AU",
-    "wof:geomhash":"dff8a9928e955292dcaefbc6605473fc",
+    "wof:geomhash":"83e5e40dd469859d2d31572ffe018717",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -69,7 +78,7 @@
         }
     ],
     "wof:id":404226583,
-    "wof:lastmodified":1566602088,
+    "wof:lastmodified":1695877186,
     "wof:name":"Toongabbie",
     "wof:parent_id":102049565,
     "wof:placetype":"localadmin",

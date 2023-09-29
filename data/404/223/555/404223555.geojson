@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000068,
-    "geom:area_square_m":732782.488305,
+    "geom:area_square_m":732782.488302,
     "geom:bbox":"153.271448992,-28.8217680005,153.286108992,-28.813581991",
     "geom:latitude":-28.817749,
     "geom:longitude":153.278698,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.817311,
     "lbl:longitude":153.278809,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Girards Hill"
@@ -38,12 +44,15 @@
         102049635
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10947"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101930385
     ],
     "wof:country":"AU",
-    "wof:geomhash":"3a8adf05f19d123d6ef6d0aaa2f92a9b",
+    "wof:geomhash":"4f74adaa2decab8105d5c1cd1c5ee1a6",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404223555,
-    "wof:lastmodified":1566602532,
+    "wof:lastmodified":1695877433,
     "wof:name":"Girards Hill",
     "wof:parent_id":102049635,
     "wof:placetype":"localadmin",

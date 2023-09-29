@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009054,
-    "geom:area_square_m":93451973.748865,
+    "geom:area_square_m":93451973.748868,
     "geom:bbox":"149.669330144,-33.479584503,149.780998016,-33.3452859915",
     "geom:latitude":-33.412922,
     "geom:longitude":149.728568,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.416556,
     "lbl:longitude":149.727514,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Napoleon Reef"
@@ -38,9 +44,12 @@
         102049305
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11679"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"1089e2d49211a8c928ddf6afda034cf5",
+    "wof:geomhash":"c770b9b2e11eb41ceef7bbccd8d496a0",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404225203,
-    "wof:lastmodified":1566602684,
+    "wof:lastmodified":1695877521,
     "wof:name":"Napoleon Reef",
     "wof:parent_id":102049305,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009146,
-    "geom:area_square_m":97594323.555473,
+    "geom:area_square_m":97594323.555389,
     "geom:bbox":"152.621135648,-30.407717001,152.776775008,-30.294896009",
     "geom:latitude":-30.353279,
     "geom:longitude":152.695502,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-30.351209,
     "lbl:longitude":152.694353,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Dorrigo"
@@ -38,9 +44,12 @@
         102048545
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10725"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"cee941a4aafa1c433a32161b4cdad873",
+    "wof:geomhash":"c2ac794a217eb2f9ae4cd53a21d3f696",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404223055,
-    "wof:lastmodified":1566602516,
+    "wof:lastmodified":1695877422,
     "wof:name":"Dorrigo",
     "wof:parent_id":102048545,
     "wof:placetype":"localadmin",

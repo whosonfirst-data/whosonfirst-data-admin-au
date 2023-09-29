@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004593,
-    "geom:area_square_m":47277005.219113,
+    "geom:area_square_m":47277005.218964,
     "geom:bbox":"151.160754976,-33.70993063,151.259162016,-33.6144567735",
     "geom:latitude":-33.658979,
     "geom:longitude":151.205299,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.651978,
     "lbl:longitude":151.214237,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ku-Ring-Gai Chase"
@@ -39,9 +45,12 @@
         102049493
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11289"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"f282d401ad1890aa22646164a5596154",
+    "wof:geomhash":"b9b4d4f12cbd0bf6674c454743ff33cd",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":404224325,
-    "wof:lastmodified":1566602609,
+    "wof:lastmodified":1695877480,
     "wof:name":"Ku-Ring-Gai Chase",
     "wof:parent_id":102049493,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0873,
-    "geom:area_square_m":861388334.206266,
+    "geom:area_square_m":861388334.206123,
     "geom:bbox":"141.76520976,-37.2244726255,142.324062016,-36.851226005",
     "geom:latitude":-37.063985,
     "geom:longitude":142.046747,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.064416,
     "lbl:longitude":142.051073,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Brimpaen"
@@ -38,9 +44,12 @@
         102048541
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20184"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"a00f04d0ad22a995fa7987dffe74c2af",
+    "wof:geomhash":"c823675cd15c24cb3f88cca83d10a782",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404537901,
-    "wof:lastmodified":1566602320,
+    "wof:lastmodified":1695877306,
     "wof:name":"Brimpaen",
     "wof:parent_id":102048541,
     "wof:placetype":"localadmin",

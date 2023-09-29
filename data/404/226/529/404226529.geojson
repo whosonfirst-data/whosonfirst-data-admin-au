@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001647,
-    "geom:area_square_m":16888802.877788,
+    "geom:area_square_m":16888802.877722,
     "geom:bbox":"150.609399008,-34.0225259995,150.670862528,-33.9567284",
     "geom:latitude":-33.991422,
     "geom:longitude":150.635922,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.990682,
     "lbl:longitude":150.6329,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062a\u064a\u0631\u064a\u0632\u0627 \u0628\u0627\u0631\u0643"
@@ -41,9 +47,12 @@
         102048943
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12269"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"c5a9e79f648421f895dee50a1b53e639",
+    "wof:geomhash":"48f266a86012189b3711b3889266e300",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404226529,
-    "wof:lastmodified":1566602047,
+    "wof:lastmodified":1695877160,
     "wof:name":"Theresa Park",
     "wof:parent_id":102048943,
     "wof:placetype":"localadmin",

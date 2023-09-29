@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018733,
-    "geom:area_square_m":217346605.950897,
+    "geom:area_square_m":217346605.951433,
     "geom:bbox":"148.569603904,-20.6199260155,149.178165856,-20.014220975",
     "geom:latitude":-20.231838,
     "geom:longitude":148.952036,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-20.279451,
     "lbl:longitude":148.995319,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Whitsundays"
@@ -38,9 +44,12 @@
         102049581
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31765"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"c64ba24d5f76dd11babfb5efbca94d5a",
+    "wof:geomhash":"6abee13e98ae785008b5eaca4b5124cc",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404544667,
-    "wof:lastmodified":1566602165,
+    "wof:lastmodified":1695877225,
     "wof:name":"Whitsundays",
     "wof:parent_id":102049581,
     "wof:placetype":"localadmin",

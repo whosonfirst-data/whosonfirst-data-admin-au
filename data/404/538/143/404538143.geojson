@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002213,
-    "geom:area_square_m":21466736.652926,
+    "geom:area_square_m":21466749.74524,
     "geom:bbox":"146.394252,-38.341695,146.454066,-38.289082",
     "geom:latitude":-38.316107,
     "geom:longitude":146.423614,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.31597,
     "lbl:longitude":146.423069,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062a\u0634\u0631\u0634\u0644"
@@ -77,12 +83,15 @@
         102049021
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20292"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932755
     ],
     "wof:country":"AU",
-    "wof:geomhash":"c0f421c90a244f30bb426afeb135f3d4",
+    "wof:geomhash":"40ef86ed117f90d9f6aaea298c75b566",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -94,7 +103,7 @@
         }
     ],
     "wof:id":404538143,
-    "wof:lastmodified":1636494639,
+    "wof:lastmodified":1695877860,
     "wof:name":"Churchill",
     "wof:parent_id":102049021,
     "wof:placetype":"localadmin",

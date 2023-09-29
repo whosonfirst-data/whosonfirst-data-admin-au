@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000098,
-    "geom:area_square_m":991461.432471,
+    "geom:area_square_m":991461.432463,
     "geom:bbox":"137.345798592,-34.9549040955,137.363869088,-34.930741005",
     "geom:latitude":-34.942159,
     "geom:longitude":137.352699,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.940236,
     "lbl:longitude":137.350296,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Point Turton"
@@ -38,12 +44,15 @@
         102049327
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40580"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101936469
     ],
     "wof:country":"AU",
-    "wof:geomhash":"3a3c5e702ff04328857bf1aa84abe74a",
+    "wof:geomhash":"ea76d06f0f5de39d117c43ac29e698f7",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404546117,
-    "wof:lastmodified":1566603129,
+    "wof:lastmodified":1695877782,
     "wof:name":"Point Turton",
     "wof:parent_id":102049327,
     "wof:placetype":"localadmin",

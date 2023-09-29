@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015216,
-    "geom:area_square_m":150631470.73464,
+    "geom:area_square_m":150631470.734589,
     "geom:bbox":"142.001384992,-36.862396009,142.19595,-36.744294007",
     "geom:latitude":-36.811105,
     "geom:longitude":142.100276,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.816099,
     "lbl:longitude":142.092432,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mckenzie Creek"
@@ -38,9 +44,12 @@
         102048541
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20858"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"71cb9a6354376a8c30ee3eb7f4f97938",
+    "wof:geomhash":"49b2f5eb9b5ae1c600d43f593c5b6279",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404539405,
-    "wof:lastmodified":1566602402,
+    "wof:lastmodified":1695877358,
     "wof:name":"Mckenzie Creek",
     "wof:parent_id":102048541,
     "wof:placetype":"localadmin",

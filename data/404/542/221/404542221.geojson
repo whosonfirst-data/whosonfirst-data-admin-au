@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005954,
-    "geom:area_square_m":70209696.906444,
+    "geom:area_square_m":70209696.906451,
     "geom:bbox":"145.852867008,-17.547340991,146.00341008,-17.476442997",
     "geom:latitude":-17.510632,
     "geom:longitude":145.930541,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-17.520162,
     "lbl:longitude":145.941949,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Fitzgerald Creek"
@@ -38,9 +44,12 @@
         102049237
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30610"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"e9058396e58011878c0c2792a8c45421",
+    "wof:geomhash":"933991e31c3853c6a208bd141ca456fa",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404542221,
-    "wof:lastmodified":1566602271,
+    "wof:lastmodified":1695877276,
     "wof:name":"Fitzgerald Creek",
     "wof:parent_id":102049237,
     "wof:placetype":"localadmin",

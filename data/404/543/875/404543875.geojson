@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000381,
-    "geom:area_square_m":4191079.115609,
+    "geom:area_square_m":4191079.115592,
     "geom:bbox":"153.09693504,-27.2385170215,153.117923104,-27.2143340065",
     "geom:latitude":-27.2269,
     "geom:longitude":153.107375,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.227093,
     "lbl:longitude":153.106525,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Redcliffe"
@@ -57,12 +63,15 @@
         102049131
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31386"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935195
     ],
     "wof:country":"AU",
-    "wof:geomhash":"8a31d20b3c286d35f1a43a58b83930a8",
+    "wof:geomhash":"b12e8c8365777959b995dbb0aa474967",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -75,7 +84,7 @@
         }
     ],
     "wof:id":404543875,
-    "wof:lastmodified":1566602104,
+    "wof:lastmodified":1695877193,
     "wof:name":"Redcliffe",
     "wof:parent_id":102049131,
     "wof:placetype":"localadmin",

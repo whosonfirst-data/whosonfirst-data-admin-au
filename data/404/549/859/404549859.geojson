@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.480462,
-    "geom:area_square_m":50203593093.201569,
+    "geom:area_square_m":50203593093.200928,
     "geom:bbox":"135.401281792,-25.9985334685,137.999053824,-23.870243241",
     "geom:latitude":-25.01157,
     "geom:longitude":136.922404,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-25.015648,
     "lbl:longitude":136.947145,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u064a\u0645\u0628\u0633\u0648\u0646"
@@ -119,9 +125,12 @@
         102048913
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC70171"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"c6e841bf95c3abb4b7efebe29b8bc75a",
+    "wof:geomhash":"ee8985a88716aeaeb2b0fb22ec1fc03e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -133,7 +142,7 @@
         }
     ],
     "wof:id":404549859,
-    "wof:lastmodified":1566602843,
+    "wof:lastmodified":1695877622,
     "wof:name":"Simpson",
     "wof:parent_id":102048913,
     "wof:placetype":"localadmin",

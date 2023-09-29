@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004717,
-    "geom:area_square_m":46033536.32533,
+    "geom:area_square_m":46033536.325337,
     "geom:bbox":"140.793324992,-37.923017992,140.908136896,-37.853889005",
     "geom:latitude":-37.884924,
     "geom:longitude":140.846656,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.88081,
     "lbl:longitude":140.863935,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Yahl"
@@ -38,9 +44,12 @@
         102049129
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40836"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"b331785960c16753069b765510e767bb",
+    "wof:geomhash":"b33fc32142ace68353d74cc55c83288f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404546669,
-    "wof:lastmodified":1566603119,
+    "wof:lastmodified":1695877777,
     "wof:name":"Yahl",
     "wof:parent_id":102049129,
     "wof:placetype":"localadmin",

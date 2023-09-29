@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015979,
-    "geom:area_square_m":156875597.138568,
+    "geom:area_square_m":156875683.92183,
     "geom:bbox":"143.229178,-37.495489,143.439863,-37.385305",
     "geom:latitude":-37.44142,
     "geom:longitude":143.345046,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.442217,
     "lbl:longitude":143.345045,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09ac\u09bf\u0989\u09ab\u09cb\u09b0\u09cd\u099f"
@@ -155,9 +161,12 @@
         102049485
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20098"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"6859677a9c6d1c18e969ffdeddd2c708",
+    "wof:geomhash":"292c9330fee8a0caa7022a767bc27810",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -169,7 +178,7 @@
         }
     ],
     "wof:id":404537711,
-    "wof:lastmodified":1636494633,
+    "wof:lastmodified":1695877857,
     "wof:name":"Beaufort",
     "wof:parent_id":102049485,
     "wof:placetype":"localadmin",

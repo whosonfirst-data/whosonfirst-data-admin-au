@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.143178,
-    "geom:area_square_m":1500888281.16506,
+    "geom:area_square_m":1500888281.164751,
     "geom:bbox":"148.997084032,-32.304746443,149.584292,-31.778675004",
     "geom:latitude":-32.031685,
     "geom:longitude":149.302425,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.076011,
     "lbl:longitude":149.302503,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Dunedoo"
@@ -50,9 +56,12 @@
         102049559
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10749"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"6f636960282c1f77e61c41c13a2513fd",
+    "wof:geomhash":"5458ef4b393e44c88bc5a97338eb6814",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":404223109,
-    "wof:lastmodified":1566602533,
+    "wof:lastmodified":1695877433,
     "wof:name":"Dunedoo",
     "wof:parent_id":102049559,
     "wof:placetype":"localadmin",

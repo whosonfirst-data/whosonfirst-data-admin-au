@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000639,
-    "geom:area_square_m":6692661.713875,
+    "geom:area_square_m":6692661.713873,
     "geom:bbox":"115.848994336,-32.0873618415,115.890434976,-32.0657144365",
     "geom:latitude":-32.07511,
     "geom:longitude":115.866135,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.075379,
     "lbl:longitude":115.865743,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Leeming"
@@ -42,12 +48,15 @@
         102048851
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50436"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937419
     ],
     "wof:country":"AU",
-    "wof:geomhash":"7db7059fd09f80218b6f35727eddbb95",
+    "wof:geomhash":"288a1d610ddd77b5fe79172ed6def8f7",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -60,7 +69,7 @@
         }
     ],
     "wof:id":404547663,
-    "wof:lastmodified":1566602965,
+    "wof:lastmodified":1695877698,
     "wof:name":"Leeming",
     "wof:parent_id":102048851,
     "wof:placetype":"localadmin",

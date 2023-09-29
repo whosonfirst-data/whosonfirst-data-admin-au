@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.074001,
-    "geom:area_square_m":755041746.920142,
+    "geom:area_square_m":755041746.919521,
     "geom:bbox":"148.553621888,-34.5720214355,148.9394,-34.1511459915",
     "geom:latitude":-34.395804,
     "geom:longitude":148.734933,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.434139,
     "lbl:longitude":148.71601,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Boorowa"
@@ -56,9 +62,12 @@
         102048445
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10296"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"a534cf734b0a10e97fb00038e037c255",
+    "wof:geomhash":"b7947d288947acaf979a60d3eaf13396",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -70,7 +79,7 @@
         }
     ],
     "wof:id":404222091,
-    "wof:lastmodified":1566602763,
+    "wof:lastmodified":1695877569,
     "wof:name":"Boorowa",
     "wof:parent_id":102048445,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.058509,
-    "geom:area_square_m":599434793.359109,
+    "geom:area_square_m":599434793.358968,
     "geom:bbox":"116.156760992,-34.2040840745,116.504307616,-33.8731445675",
     "geom:latitude":-34.049868,
     "geom:longitude":116.311274,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.012804,
     "lbl:longitude":116.284768,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kangaroo Gully"
@@ -38,9 +44,12 @@
         102049243
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50376"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"44018a705f72b1feaf83403acd8d9403",
+    "wof:geomhash":"aac99283010b4bbdf86f133087c9a45b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404547529,
-    "wof:lastmodified":1566602947,
+    "wof:lastmodified":1695877686,
     "wof:name":"Kangaroo Gully",
     "wof:parent_id":102049243,
     "wof:placetype":"localadmin",

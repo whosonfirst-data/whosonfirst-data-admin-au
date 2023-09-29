@@ -10,12 +10,18 @@
     "geom:latitude":-33.368262,
     "geom:longitude":149.062852,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.368338,
     "lbl:longitude":149.063665,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Springside"
@@ -53,9 +59,12 @@
         102049023
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12136"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"74a12f01aee589b25b06bac76269c285",
+    "wof:geomhash":"873a5f27a753044f20585723852e0e7d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -67,7 +76,7 @@
         }
     ],
     "wof:id":404226231,
-    "wof:lastmodified":1566602072,
+    "wof:lastmodified":1695877175,
     "wof:name":"Springside",
     "wof:parent_id":102049023,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021777,
-    "geom:area_square_m":250641533.032548,
+    "geom:area_square_m":250641533.032317,
     "geom:bbox":"149.07441552,-21.539689498,149.289805088,-21.3318669545",
     "geom:latitude":-21.437852,
     "geom:longitude":149.187745,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-21.446179,
     "lbl:longitude":149.187719,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Sarina"
@@ -38,9 +44,12 @@
         102048783
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31454"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"cfd9f46d987ea29940c2327e1f0faaca",
+    "wof:geomhash":"460157ebbe0cd67d3d397998dd4d6997",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404544019,
-    "wof:lastmodified":1566602191,
+    "wof:lastmodified":1695877239,
     "wof:name":"Sarina",
     "wof:parent_id":102048783,
     "wof:placetype":"localadmin",

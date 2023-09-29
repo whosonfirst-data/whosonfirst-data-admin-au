@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000092,
-    "geom:area_square_m":1010016.846546,
+    "geom:area_square_m":1010016.846537,
     "geom:bbox":"153.360295872,-27.6427549715,153.386478016,-27.6351025575",
     "geom:latitude":-27.638606,
     "geom:longitude":153.372264,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.638765,
     "lbl:longitude":153.373556,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Karragarra Island"
@@ -39,12 +45,15 @@
         102048569
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30853"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934633
     ],
     "wof:country":"AU",
-    "wof:geomhash":"11cdf05179274c50c86ce2632fd0de5b",
+    "wof:geomhash":"037851713936a2a99fc5d45651c0bb5d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404542741,
-    "wof:lastmodified":1566602288,
+    "wof:lastmodified":1695877286,
     "wof:name":"Karragarra Island",
     "wof:parent_id":102048569,
     "wof:placetype":"localadmin",

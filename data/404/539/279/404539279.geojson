@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001111,
-    "geom:area_square_m":10876517.5242,
+    "geom:area_square_m":10876517.524248,
     "geom:bbox":"144.490435552,-37.6858195205,144.521121952,-37.6302479995",
     "geom:latitude":-37.655806,
     "geom:longitude":144.506954,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.654233,
     "lbl:longitude":144.508195,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Long Forest"
@@ -38,9 +44,12 @@
         102049283
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20802"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"84cecbfaa884447fa98e714482fc199a",
+    "wof:geomhash":"443fabb36c0e9d165115bfdec2468dea",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404539279,
-    "wof:lastmodified":1566602394,
+    "wof:lastmodified":1695877352,
     "wof:name":"Long Forest",
     "wof:parent_id":102049283,
     "wof:placetype":"localadmin",

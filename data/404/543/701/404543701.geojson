@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002074,
-    "geom:area_square_m":22762793.728733,
+    "geom:area_square_m":22762793.728716,
     "geom:bbox":"152.558351008,-27.4482130045,152.606992992,-27.3888719975",
     "geom:latitude":-27.418479,
     "geom:longitude":152.581931,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.42294,
     "lbl:longitude":152.583905,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Patrick Estate"
@@ -38,9 +44,12 @@
         102049287
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31307"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"2dd658245cf4957272aa546570983c58",
+    "wof:geomhash":"b67e85254d9ea8208f1c832c80789a35",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404543701,
-    "wof:lastmodified":1566602092,
+    "wof:lastmodified":1695877188,
     "wof:name":"Patrick Estate",
     "wof:parent_id":102049287,
     "wof:placetype":"localadmin",

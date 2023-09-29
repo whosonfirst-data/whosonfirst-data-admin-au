@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.074176,
-    "geom:area_square_m":819603122.903662,
+    "geom:area_square_m":819603122.903542,
     "geom:bbox":"151.003150912,-26.810855019,151.418019104,-26.5226658115",
     "geom:latitude":-26.672249,
     "geom:longitude":151.198423,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-26.678784,
     "lbl:longitude":151.173665,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Jandowae"
@@ -50,9 +56,12 @@
         102048423
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30818"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"a576b753cecf57ad1ab6001f8ee189af",
+    "wof:geomhash":"8c54a9aa18911ec73646d5288c97d2ac",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":404542661,
-    "wof:lastmodified":1566602280,
+    "wof:lastmodified":1695877281,
     "wof:name":"Jandowae",
     "wof:parent_id":102048423,
     "wof:placetype":"localadmin",

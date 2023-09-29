@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.072734,
-    "geom:area_square_m":739445653.746893,
+    "geom:area_square_m":739445653.746718,
     "geom:bbox":"149.14503,-34.8769290005,149.533547008,-34.5260190025",
     "geom:latitude":-34.695924,
     "geom:longitude":149.350674,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.686382,
     "lbl:longitude":149.353693,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Breadalbane"
@@ -47,9 +53,12 @@
         102048469
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10327"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"aa2e6e29398e34ba67295ed1fa045dd0",
+    "wof:geomhash":"4b9d1ad9b96a513d1cbd16097ea1d58d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":404222161,
-    "wof:lastmodified":1566602747,
+    "wof:lastmodified":1695877558,
     "wof:name":"Breadalbane",
     "wof:parent_id":102048469,
     "wof:placetype":"localadmin",

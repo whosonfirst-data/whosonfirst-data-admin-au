@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003834,
-    "geom:area_square_m":46574148.640989,
+    "geom:area_square_m":46574148.640972,
     "geom:bbox":"142.526462592,-10.8434321845,142.609273344,-10.719678821",
     "geom:latitude":-10.769102,
     "geom:longitude":142.5643,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-10.753766,
     "lbl:longitude":142.578626,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Somerset"
@@ -236,12 +242,15 @@
         102048935
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31490"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935319
     ],
     "wof:country":"AU",
-    "wof:geomhash":"4abd9a11096ddab52c440d859cbd86fa",
+    "wof:geomhash":"e2ed888c41673e17107af0fcc6a0ab78",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -253,7 +262,7 @@
         }
     ],
     "wof:id":404544089,
-    "wof:lastmodified":1566602185,
+    "wof:lastmodified":1695877236,
     "wof:name":"Somerset",
     "wof:parent_id":102048935,
     "wof:placetype":"localadmin",

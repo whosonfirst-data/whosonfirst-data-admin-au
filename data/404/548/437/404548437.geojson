@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000249,
-    "geom:area_square_m":2616776.054379,
+    "geom:area_square_m":2616776.05438,
     "geom:bbox":"115.878707936,-31.9856266045,115.906616672,-31.9670991135",
     "geom:latitude":-31.975495,
     "geom:longitude":115.893463,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.976056,
     "lbl:longitude":115.893254,
     "lbl:max_zoom":18.0,
@@ -283,13 +289,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC50784",
         "wd:id":"Q4011294"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937873
     ],
     "wof:country":"AU",
-    "wof:geomhash":"a970aa2a267f9c8a960729251ab09356",
+    "wof:geomhash":"ec8d8cf03e02f7221988525887a50cb4",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -302,7 +310,7 @@
         }
     ],
     "wof:id":404548437,
-    "wof:lastmodified":1566603177,
+    "wof:lastmodified":1695878048,
     "wof:name":"Victoria Park",
     "wof:parent_id":102048663,
     "wof:placetype":"localadmin",

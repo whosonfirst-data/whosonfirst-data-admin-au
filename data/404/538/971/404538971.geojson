@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000218,
-    "geom:area_square_m":2128375.253473,
+    "geom:area_square_m":2128364.719296,
     "geom:bbox":"145.04808,-37.783744,145.076711,-37.765308",
     "geom:latitude":-37.773394,
     "geom:longitude":145.061777,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.774004,
     "lbl:longitude":145.057002,
     "lbl:max_zoom":18.0,
@@ -55,10 +61,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC20664",
         "gn:id":2162546,
         "qs_pg:id":1028581,
         "wd:id":"Q6098125"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101933079
     ],
@@ -66,7 +74,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8dea1fd0a59fc541bea35006f855475a",
+    "wof:geomhash":"4cb72138b04372e5f513081e78cabb73",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -79,7 +87,7 @@
         }
     ],
     "wof:id":404538971,
-    "wof:lastmodified":1690853584,
+    "wof:lastmodified":1695878054,
     "wof:name":"Ivanhoe East",
     "wof:parent_id":102049337,
     "wof:placetype":"localadmin",

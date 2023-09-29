@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006887,
-    "geom:area_square_m":70245803.11366,
+    "geom:area_square_m":70245803.113687,
     "geom:bbox":"138.860130976,-34.463576008,138.989924,-34.3685738645",
     "geom:latitude":-34.419011,
     "geom:longitude":138.917988,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.418777,
     "lbl:longitude":138.924365,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Moppa"
@@ -38,9 +44,12 @@
         102049171
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40452"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"a6d26cb84cdc7bf2d9d39539dd12fe45",
+    "wof:geomhash":"89a2ba76d2d941301fd384554cb3bd2e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404545845,
-    "wof:lastmodified":1566602216,
+    "wof:lastmodified":1695877251,
     "wof:name":"Moppa",
     "wof:parent_id":102049171,
     "wof:placetype":"localadmin",

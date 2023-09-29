@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000151,
-    "geom:area_square_m":1550568.538273,
+    "geom:area_square_m":1550568.538274,
     "geom:bbox":"150.968373504,-33.981158427,150.994010368,-33.9642378275",
     "geom:latitude":-33.969886,
     "geom:longitude":150.983936,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.970694,
     "lbl:longitude":150.98733,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Pleasure Point"
@@ -39,12 +45,15 @@
         102049387
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11885"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931603
     ],
     "wof:country":"AU",
-    "wof:geomhash":"045333982cd7ccd87f8b87bec030ee6c",
+    "wof:geomhash":"572c60f1a20edcf6cb614eddebf94a1e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404225665,
-    "wof:lastmodified":1566602727,
+    "wof:lastmodified":1695877547,
     "wof:name":"Pleasure Point",
     "wof:parent_id":102049387,
     "wof:placetype":"localadmin",

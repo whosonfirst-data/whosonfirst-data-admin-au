@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000476,
-    "geom:area_square_m":4994769.966926,
+    "geom:area_square_m":4994769.966917,
     "geom:bbox":"115.855108352,-31.875112766,115.878825088,-31.848537516",
     "geom:latitude":-31.859634,
     "geom:longitude":115.865874,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.857505,
     "lbl:longitude":115.866834,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mirrabooka"
@@ -42,12 +48,15 @@
         102048573
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50509"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937517
     ],
     "wof:country":"AU",
-    "wof:geomhash":"20f98d6096a70faecdae1cabac7bcc9d",
+    "wof:geomhash":"550da581adc0a6dd98de384d69873053",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -60,7 +69,7 @@
         }
     ],
     "wof:id":404547827,
-    "wof:lastmodified":1566602925,
+    "wof:lastmodified":1695877676,
     "wof:name":"Mirrabooka",
     "wof:parent_id":102048573,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000491,
-    "geom:area_square_m":5110502.158535,
+    "geom:area_square_m":5110502.158526,
     "geom:bbox":"151.380573344,-32.697445055,151.404255712,-32.6606088725",
     "geom:latitude":-32.675822,
     "geom:longitude":151.392434,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.670478,
     "lbl:longitude":151.393601,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Greta"
@@ -65,12 +71,15 @@
         102048575
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11032"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101930547
     ],
     "wof:country":"AU",
-    "wof:geomhash":"e3ca524c4c1788a123657b4e49c53d80",
+    "wof:geomhash":"c619832f32cf5aea229c3560e34e4525",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -82,7 +91,7 @@
         }
     ],
     "wof:id":404223747,
-    "wof:lastmodified":1566602523,
+    "wof:lastmodified":1695877426,
     "wof:name":"Greta",
     "wof:parent_id":102048575,
     "wof:placetype":"localadmin",

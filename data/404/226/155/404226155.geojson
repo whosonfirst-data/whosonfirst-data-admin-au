@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014175,
-    "geom:area_square_m":143387277.198421,
+    "geom:area_square_m":143387277.198591,
     "geom:bbox":"148.090443712,-35.197368888,148.223701024,-35.0057809825",
     "geom:latitude":-35.111348,
     "geom:longitude":148.15702,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.115825,
     "lbl:longitude":148.152482,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "South Gundagai"
@@ -38,9 +44,12 @@
         102049279
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12102"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"e57dbf723b461fde418a0e4c9eb844ad",
+    "wof:geomhash":"f9103231860ed69f8551ea48a90aa602",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404226155,
-    "wof:lastmodified":1566602059,
+    "wof:lastmodified":1695877167,
     "wof:name":"South Gundagai",
     "wof:parent_id":102049279,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014566,
-    "geom:area_square_m":161762371.902641,
+    "geom:area_square_m":161762371.902678,
     "geom:bbox":"152.3697456,-26.1687774615,152.536755968,-25.9870100035",
     "geom:latitude":-26.086708,
     "geom:longitude":152.464564,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-26.0795,
     "lbl:longitude":152.47281,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lower Wonga"
@@ -38,9 +44,12 @@
         102049393
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30972"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"759a2ce0243011a9190e9d886888ebbe",
+    "wof:geomhash":"d8e73fedcdca2d35cf86e624a603f8f2",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404542999,
-    "wof:lastmodified":1566602266,
+    "wof:lastmodified":1695877273,
     "wof:name":"Lower Wonga",
     "wof:parent_id":102049393,
     "wof:placetype":"localadmin",

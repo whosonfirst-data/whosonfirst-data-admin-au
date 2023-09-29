@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011086,
-    "geom:area_square_m":107051654.815952,
+    "geom:area_square_m":107051654.815891,
     "geom:bbox":"146.389204,-38.722377092,146.528350272,-38.596812708",
     "geom:latitude":-38.653792,
     "geom:longitude":146.457824,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.654011,
     "lbl:longitude":146.457824,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Y Trallwng"
@@ -122,9 +128,12 @@
         102048701
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21449"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"44a6004dbf7a7d8273175bcbb68429eb",
+    "wof:geomhash":"84aa37d6c09abb66f14c9c22bdf12b3b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -136,7 +145,7 @@
         }
     ],
     "wof:id":404540727,
-    "wof:lastmodified":1566603041,
+    "wof:lastmodified":1695877742,
     "wof:name":"Welshpool",
     "wof:parent_id":102048701,
     "wof:placetype":"localadmin",

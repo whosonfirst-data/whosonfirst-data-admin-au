@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000884,
-    "geom:area_square_m":9066521.254277,
+    "geom:area_square_m":9066521.254289,
     "geom:bbox":"150.848748,-33.9567822905,150.895785664,-33.927061208",
     "geom:latitude":-33.941854,
     "geom:longitude":150.871702,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.941757,
     "lbl:longitude":150.872144,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Prestons"
@@ -39,12 +45,15 @@
         102049387
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11909"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931637
     ],
     "wof:country":"AU",
-    "wof:geomhash":"48f1f3a9f9c4181c367f70eeb48d582f",
+    "wof:geomhash":"fb93931789a6bc86fbf7713a2388dd03",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404225719,
-    "wof:lastmodified":1566602734,
+    "wof:lastmodified":1695877550,
     "wof:name":"Prestons",
     "wof:parent_id":102049387,
     "wof:placetype":"localadmin",

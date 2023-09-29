@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000262,
-    "geom:area_square_m":2744783.644625,
+    "geom:area_square_m":2744783.644617,
     "geom:bbox":"115.945651968,-32.0204494875,115.976514432,-31.9997529085",
     "geom:latitude":-32.008991,
     "geom:longitude":115.959029,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.008652,
     "lbl:longitude":115.958791,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "East Cannington"
@@ -39,12 +45,15 @@
         102049055
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50237"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937131
     ],
     "wof:country":"AU",
-    "wof:geomhash":"7f56cbba8175fb65d8328885308273e0",
+    "wof:geomhash":"36f5e9757d3366d051e2c868a82bffb9",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404547215,
-    "wof:lastmodified":1566602959,
+    "wof:lastmodified":1695877694,
     "wof:name":"East Cannington",
     "wof:parent_id":102049055,
     "wof:placetype":"localadmin",

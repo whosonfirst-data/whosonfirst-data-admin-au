@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002014,
-    "geom:area_square_m":20629028.229021,
+    "geom:area_square_m":20629028.229006,
     "geom:bbox":"139.74178176,-34.076020359,139.806029696,-34.0254879975",
     "geom:latitude":-34.05485,
     "geom:longitude":139.769312,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.053756,
     "lbl:longitude":139.766713,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Cadell"
@@ -38,12 +44,15 @@
         102049005
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40085"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935835
     ],
     "wof:country":"AU",
-    "wof:geomhash":"3f08376eb35c71f8edd0e99b86b3f29e",
+    "wof:geomhash":"15fc9e4d6be75a8d861049f4c034e91b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404545043,
-    "wof:lastmodified":1566602243,
+    "wof:lastmodified":1695877262,
     "wof:name":"Cadell",
     "wof:parent_id":102049005,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016903,
-    "geom:area_square_m":167803075.76757,
+    "geom:area_square_m":167803075.767506,
     "geom:bbox":"144.709776992,-36.634540944,144.9631,-36.556245651",
     "geom:latitude":-36.597561,
     "geom:longitude":144.839717,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.595873,
     "lbl:longitude":144.839817,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Colbinabbin"
@@ -41,9 +47,12 @@
         102049529
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20320"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"ee4a49b68703b075658ac547dfe461b5",
+    "wof:geomhash":"053afaf98ee627a9a3b670e5404cd794",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404538207,
-    "wof:lastmodified":1566602473,
+    "wof:lastmodified":1695877397,
     "wof:name":"Colbinabbin",
     "wof:parent_id":102049529,
     "wof:placetype":"localadmin",

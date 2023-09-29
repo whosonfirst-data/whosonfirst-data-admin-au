@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000425,
-    "geom:area_square_m":4455127.236506,
+    "geom:area_square_m":4455127.236509,
     "geom:bbox":"115.804097632,-31.942537274,115.83854208,-31.922224644",
     "geom:latitude":-31.933015,
     "geom:longitude":115.818615,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.932461,
     "lbl:longitude":115.818289,
     "lbl:max_zoom":18.0,
@@ -130,13 +136,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC50823",
         "wd:id":"Q7982172"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937927
     ],
     "wof:country":"AU",
-    "wof:geomhash":"ca78e606cf7e03bc20891226669dbd6c",
+    "wof:geomhash":"49c6402953ef753c8fabb859bb3bf01e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -149,7 +157,7 @@
         }
     ],
     "wof:id":404548525,
-    "wof:lastmodified":1566603235,
+    "wof:lastmodified":1695878052,
     "wof:name":"Wembley",
     "wof:parent_id":102048955,
     "wof:placetype":"localadmin",

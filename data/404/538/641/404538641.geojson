@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01433,
-    "geom:area_square_m":140105425.929267,
+    "geom:area_square_m":140105425.929221,
     "geom:bbox":"143.6986,-37.802720521,143.903409472,-37.6892248525",
     "geom:latitude":-37.7498,
     "geom:longitude":143.803626,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.765733,
     "lbl:longitude":143.785043,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Garibaldi"
@@ -38,9 +44,12 @@
         102049027
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20516"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"fa3915326d732b60661c7f1d60bdf280",
+    "wof:geomhash":"4d3897bba865e244512482f3525bb10d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404538641,
-    "wof:lastmodified":1566602469,
+    "wof:lastmodified":1695877395,
     "wof:name":"Garibaldi",
     "wof:parent_id":102049027,
     "wof:placetype":"localadmin",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000698,
-    "geom:area_square_m":7114236.727396,
+    "geom:area_square_m":7114195.088633,
     "geom:bbox":"150.823834,-34.500725,150.864231,-34.462042",
     "geom:latitude":-34.479395,
     "geom:longitude":150.841965,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.475859,
     "lbl:longitude":150.84334,
     "lbl:max_zoom":18.0,
@@ -147,13 +153,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC10184",
         "wd:id":"Q4891969"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101929553
     ],
     "wof:country":"AU",
-    "wof:geomhash":"c59d734967435dda38fbcff9cbf078c5",
+    "wof:geomhash":"b62bd265c866e40a2b5157d8ac938c4a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -165,7 +173,7 @@
         }
     ],
     "wof:id":404221839,
-    "wof:lastmodified":1690853414,
+    "wof:lastmodified":1695877902,
     "wof:name":"Berkeley",
     "wof:parent_id":102048853,
     "wof:placetype":"localadmin",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001057,
-    "geom:area_square_m":11613333.269523,
+    "geom:area_square_m":11613333.269517,
     "geom:bbox":"152.864598592,-27.342706006,152.917242112,-27.2935780165",
     "geom:latitude":-27.319485,
     "geom:longitude":152.891323,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.318486,
     "lbl:longitude":152.890915,
     "lbl:max_zoom":18.0,
@@ -49,13 +55,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC30373",
         "wd:id":"Q5130760"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934177
     ],
     "wof:country":"AU",
-    "wof:geomhash":"97533c6a7010a0df59915605a7261a17",
+    "wof:geomhash":"450e8a6414eac15e661f08b9c44bb432",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -68,7 +76,7 @@
         }
     ],
     "wof:id":404541721,
-    "wof:lastmodified":1566603096,
+    "wof:lastmodified":1695878037,
     "wof:name":"Clear Mountain",
     "wof:parent_id":102049131,
     "wof:placetype":"localadmin",

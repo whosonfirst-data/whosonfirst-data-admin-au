@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.189405,
-    "geom:area_square_m":2098281062.738575,
+    "geom:area_square_m":2098281062.738115,
     "geom:bbox":"148.08756,-26.5955159995,148.753296,-26.1525820065",
     "geom:latitude":-26.372445,
     "geom:longitude":148.429281,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-26.375948,
     "lbl:longitude":148.4291,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Dargal Road"
@@ -38,9 +44,12 @@
         102049081
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30474"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"7572a6ec6098db377b0d25c7fa55b478",
+    "wof:geomhash":"8202d31f8ba1cb744db448fa1e0d1bc5",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404541935,
-    "wof:lastmodified":1566603074,
+    "wof:lastmodified":1695877757,
     "wof:name":"Dargal Road",
     "wof:parent_id":102049081,
     "wof:placetype":"localadmin",

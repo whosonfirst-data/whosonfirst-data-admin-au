@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000057,
-    "geom:area_square_m":585588.683703,
+    "geom:area_square_m":585588.683687,
     "geom:bbox":"151.11083,-34.072528003,151.120039424,-34.0617649065",
     "geom:latitude":-34.067398,
     "geom:longitude":151.115539,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.0686,
     "lbl:longitude":151.115226,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lilli Pilli"
@@ -42,12 +48,15 @@
         102049511
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11367"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931041
     ],
     "wof:country":"AU",
-    "wof:geomhash":"d9dd6d208c615540083f1160925dfd1d",
+    "wof:geomhash":"18813df6da4b6b7739affc6ec51f7d84",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -60,7 +69,7 @@
         }
     ],
     "wof:id":404224501,
-    "wof:lastmodified":1566602611,
+    "wof:lastmodified":1695877482,
     "wof:name":"Lilli Pilli",
     "wof:parent_id":102049511,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008089,
-    "geom:area_square_m":81748775.932371,
+    "geom:area_square_m":81748775.932413,
     "geom:bbox":"150.4368088,-35.2295704505,150.571840992,-35.119594518",
     "geom:latitude":-35.179211,
     "geom:longitude":150.507576,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.176977,
     "lbl:longitude":150.508626,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mondayong"
@@ -38,9 +44,12 @@
         102049405
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11575"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"ef259d7d013e98212ff9087930f6bb57",
+    "wof:geomhash":"386e4f0a0a6c9df407f5d26188e9c765",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404224969,
-    "wof:lastmodified":1566602616,
+    "wof:lastmodified":1695877484,
     "wof:name":"Mondayong",
     "wof:parent_id":102049405,
     "wof:placetype":"localadmin",

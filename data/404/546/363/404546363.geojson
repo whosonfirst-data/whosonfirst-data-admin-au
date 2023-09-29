@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009883,
-    "geom:area_square_m":99813943.55196,
+    "geom:area_square_m":99813943.551923,
     "geom:bbox":"138.803243008,-35.3110569935,138.947123008,-35.1511242345",
     "geom:latitude":-35.24096,
     "geom:longitude":138.88509,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.215195,
     "lbl:longitude":138.88618,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Strathalbyn"
@@ -41,9 +47,12 @@
         102048815
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40697"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"4363b7ce92e46cd25d055350e99b4db1",
+    "wof:geomhash":"1537d07fc2327275cbe770627384fc1e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404546363,
-    "wof:lastmodified":1566603107,
+    "wof:lastmodified":1695877772,
     "wof:name":"Strathalbyn",
     "wof:parent_id":102048815,
     "wof:placetype":"localadmin",

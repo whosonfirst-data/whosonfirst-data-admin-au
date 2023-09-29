@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.104827,
-    "geom:area_square_m":1050114324.532509,
+    "geom:area_square_m":1050114324.532402,
     "geom:bbox":"141.706500992,-36.027346006,142.239033344,-35.666685694",
     "geom:latitude":-35.889703,
     "geom:longitude":141.98152,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.893671,
     "lbl:longitude":141.937171,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Re\u00ebnboog"
@@ -425,9 +431,12 @@
         102048501
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21125"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"76c94f162661dcdbe7f72736f4d11798",
+    "wof:geomhash":"dedfb30606891302d594a9db1d15ee44",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -439,7 +448,7 @@
         }
     ],
     "wof:id":404540003,
-    "wof:lastmodified":1566603026,
+    "wof:lastmodified":1695877733,
     "wof:name":"Rainbow",
     "wof:parent_id":102048501,
     "wof:placetype":"localadmin",

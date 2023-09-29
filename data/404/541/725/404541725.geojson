@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001076,
-    "geom:area_square_m":11796177.01018,
+    "geom:area_square_m":11796177.010241,
     "geom:bbox":"153.24204656,-27.54912501,153.295272,-27.5093099945",
     "geom:latitude":-27.532983,
     "geom:longitude":153.267531,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.535449,
     "lbl:longitude":153.267693,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Cleveland"
@@ -345,12 +351,15 @@
         102048569
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30375"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934179
     ],
     "wof:country":"AU",
-    "wof:geomhash":"c17c739e7cb4a10822dab2698eab8133",
+    "wof:geomhash":"5fad6fcacbb8f8df61938d00860bbd7e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -363,7 +372,7 @@
         }
     ],
     "wof:id":404541725,
-    "wof:lastmodified":1566603065,
+    "wof:lastmodified":1695877752,
     "wof:name":"Cleveland",
     "wof:parent_id":102048569,
     "wof:placetype":"localadmin",

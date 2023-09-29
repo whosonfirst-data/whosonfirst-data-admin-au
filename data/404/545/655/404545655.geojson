@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001021,
-    "geom:area_square_m":10403346.995957,
+    "geom:area_square_m":10403346.995974,
     "geom:bbox":"139.001974112,-34.4885010025,139.048104,-34.451012066",
     "geom:latitude":-34.469236,
     "geom:longitude":139.024886,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.468245,
     "lbl:longitude":139.025314,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Light Pass"
@@ -38,12 +44,15 @@
         102048713
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40366"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101936221
     ],
     "wof:country":"AU",
-    "wof:geomhash":"d4cc5aa15d5a3b1866ac9d668686de9b",
+    "wof:geomhash":"bfe5783418ad901dd92ca880d3bb1b9d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404545655,
-    "wof:lastmodified":1566602245,
+    "wof:lastmodified":1695877263,
     "wof:name":"Light Pass",
     "wof:parent_id":102048713,
     "wof:placetype":"localadmin",

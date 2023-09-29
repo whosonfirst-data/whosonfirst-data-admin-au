@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003265,
-    "geom:area_square_m":35098611.615051,
+    "geom:area_square_m":35098611.615091,
     "geom:bbox":"152.965663008,-29.640639957,153.045048,-29.5586580025",
     "geom:latitude":-29.602526,
     "geom:longitude":153.005573,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-29.60707,
     "lbl:longitude":153.009497,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Southgate"
@@ -83,9 +89,12 @@
         102048835
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12121"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"43816cfab6aacab57c68294c5d42b819",
+    "wof:geomhash":"d75a9af1321146c5d4efa116bdf9b0bc",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -97,7 +106,7 @@
         }
     ],
     "wof:id":404226197,
-    "wof:lastmodified":1566602058,
+    "wof:lastmodified":1695877166,
     "wof:name":"Southgate",
     "wof:parent_id":102048835,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001515,
-    "geom:area_square_m":14835113.328791,
+    "geom:area_square_m":14835113.328773,
     "geom:bbox":"145.166076,-37.658253984,145.227324,-37.6157020045",
     "geom:latitude":-37.63758,
     "geom:longitude":145.194337,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.628928,
     "lbl:longitude":145.181123,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Hurstbridge"
@@ -38,12 +44,15 @@
         102048735
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20649"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101933067
     ],
     "wof:country":"AU",
-    "wof:geomhash":"0999fa7e30e78746bcee9cf5c83e01ce",
+    "wof:geomhash":"7e1985f95bd3aebaa19c4ec23d19dcd6",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404538937,
-    "wof:lastmodified":1566602427,
+    "wof:lastmodified":1695877373,
     "wof:name":"Hurstbridge",
     "wof:parent_id":102048735,
     "wof:placetype":"localadmin",

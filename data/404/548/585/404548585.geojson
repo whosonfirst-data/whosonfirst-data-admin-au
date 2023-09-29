@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01344,
-    "geom:area_square_m":138133503.853165,
+    "geom:area_square_m":138133503.853225,
     "geom:bbox":"114.986667584,-33.825053318,115.191237984,-33.7178630045",
     "geom:latitude":-33.777909,
     "geom:longitude":115.074776,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.784448,
     "lbl:longitude":115.052417,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Wilyabrup"
@@ -39,9 +45,12 @@
         102048623
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50850"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"99b6dd6afa6d36171ec04ec3555fd5dc",
+    "wof:geomhash":"258acfa55e2b8101a92a36d079a07f7b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":404548585,
-    "wof:lastmodified":1566603229,
+    "wof:lastmodified":1695877832,
     "wof:name":"Wilyabrup",
     "wof:parent_id":102048623,
     "wof:placetype":"localadmin",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000069,
-    "geom:area_square_m":714225.326751,
+    "geom:area_square_m":714222.20316,
     "geom:bbox":"151.760424,-32.920443,151.769885,-32.907024",
     "geom:latitude":-32.912563,
     "geom:longitude":151.765179,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.911825,
     "lbl:longitude":151.764855,
     "lbl:max_zoom":18.0,
@@ -67,10 +73,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC10477",
         "gn:id":2172216,
         "qs_pg:id":356126,
         "wd:id":"Q5046427"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101929839
     ],
@@ -78,7 +86,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"57f4cbe4b67c8104b5c630770027b114",
+    "wof:geomhash":"9aeedf95079ac4b847828735f9bfa7cb",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -91,7 +99,7 @@
         }
     ],
     "wof:id":404222497,
-    "wof:lastmodified":1690853695,
+    "wof:lastmodified":1695878054,
     "wof:name":"Carrington",
     "wof:parent_id":102048981,
     "wof:placetype":"localadmin",

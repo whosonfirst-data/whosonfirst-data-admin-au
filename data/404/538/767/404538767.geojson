@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001865,
-    "geom:area_square_m":18257072.052023,
+    "geom:area_square_m":18257072.05204,
     "geom:bbox":"144.833918048,-37.666207245,144.913324352,-37.6098609625",
     "geom:latitude":-37.646322,
     "geom:longitude":144.873285,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.646113,
     "lbl:longitude":144.872819,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Greenvale"
@@ -54,12 +60,15 @@
         102049057
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20572"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932995
     ],
     "wof:country":"AU",
-    "wof:geomhash":"abd6895c4d83ac10a158466884aeaee3",
+    "wof:geomhash":"aaf04880472d65670f8474252611cba5",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -72,7 +81,7 @@
         }
     ],
     "wof:id":404538767,
-    "wof:lastmodified":1566602458,
+    "wof:lastmodified":1695877389,
     "wof:name":"Greenvale",
     "wof:parent_id":102049057,
     "wof:placetype":"localadmin",

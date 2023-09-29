@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005569,
-    "geom:area_square_m":54802978.279149,
+    "geom:area_square_m":54802978.279107,
     "geom:bbox":"144.310399552,-37.319363547,144.401812,-37.2118599915",
     "geom:latitude":-37.27118,
     "geom:longitude":144.358423,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.269923,
     "lbl:longitude":144.359116,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lauriston"
@@ -41,9 +47,12 @@
         102048977
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20775"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"8c7cc2e94e3217909625de3f5d247349",
+    "wof:geomhash":"194bffe36d68bb0e5e447bcecbc83432",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404539219,
-    "wof:lastmodified":1566602364,
+    "wof:lastmodified":1695877333,
     "wof:name":"Lauriston",
     "wof:parent_id":102048977,
     "wof:placetype":"localadmin",

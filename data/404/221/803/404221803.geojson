@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009432,
-    "geom:area_square_m":99892707.329976,
+    "geom:area_square_m":99892707.330017,
     "geom:bbox":"152.879463008,-31.140400991,153.031221312,-31.0005060075",
     "geom:latitude":-31.076538,
     "geom:longitude":152.951214,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.090862,
     "lbl:longitude":152.9627,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Belmore River"
@@ -38,9 +44,12 @@
         102048527
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10168"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"ab15bc3adb6bf696acdadd4a50229ca7",
+    "wof:geomhash":"76ff0037753cf65b6f0d2318220f9080",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404221803,
-    "wof:lastmodified":1566601979,
+    "wof:lastmodified":1695877123,
     "wof:name":"Belmore River",
     "wof:parent_id":102048527,
     "wof:placetype":"localadmin",

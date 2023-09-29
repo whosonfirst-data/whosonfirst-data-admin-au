@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000038,
-    "geom:area_square_m":389262.211836,
+    "geom:area_square_m":389257.951641,
     "geom:bbox":"151.24797,-33.872645,151.256693,-33.863542",
     "geom:latitude":-33.867458,
     "geom:longitude":151.251796,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.86677,
     "lbl:longitude":151.251498,
     "lbl:max_zoom":18.0,
@@ -82,13 +88,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC11889",
         "wd:id":"Q2900765"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931611
     ],
     "wof:country":"AU",
-    "wof:geomhash":"83ac10bf498dcea2d8f5b5343221cb32",
+    "wof:geomhash":"b935df9728d830c7f08dff160533695d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -101,7 +109,7 @@
         }
     ],
     "wof:id":404225675,
-    "wof:lastmodified":1690853662,
+    "wof:lastmodified":1695877986,
     "wof:name":"Point Piper",
     "wof:parent_id":102049633,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001894,
-    "geom:area_square_m":20508164.576205,
+    "geom:area_square_m":20508164.576289,
     "geom:bbox":"153.262247008,-28.9094609975,153.353839008,-28.861123994",
     "geom:latitude":-28.885379,
     "geom:longitude":153.313988,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.88542,
     "lbl:longitude":153.31471,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Wyrallah"
@@ -38,9 +44,12 @@
         102049635
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12590"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"5fadf35b1201c12165837a27059d1660",
+    "wof:geomhash":"793515571391efc3183f054c9464817e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404227253,
-    "wof:lastmodified":1566601955,
+    "wof:lastmodified":1695877112,
     "wof:name":"Wyrallah",
     "wof:parent_id":102049635,
     "wof:placetype":"localadmin",

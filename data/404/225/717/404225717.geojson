@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.069662,
-    "geom:area_square_m":733631505.995452,
+    "geom:area_square_m":733631505.995674,
     "geom:bbox":"149.84088928,-31.7685044995,150.206248992,-31.445628791",
     "geom:latitude":-31.604271,
     "geom:longitude":150.030832,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.618102,
     "lbl:longitude":150.030946,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Premer"
@@ -38,9 +44,12 @@
         102048659
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11908"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"70b4274c9075c2cabf61f5521fe3e31b",
+    "wof:geomhash":"dae4fc52e7b0bde1e350347621b7beeb",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404225717,
-    "wof:lastmodified":1566602734,
+    "wof:lastmodified":1695877550,
     "wof:name":"Premer",
     "wof:parent_id":102048659,
     "wof:placetype":"localadmin",

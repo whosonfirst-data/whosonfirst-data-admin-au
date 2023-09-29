@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018859,
-    "geom:area_square_m":206268030.647141,
+    "geom:area_square_m":206268030.647124,
     "geom:bbox":"151.566036832,-27.907428755,151.766123232,-27.6794610065",
     "geom:latitude":-27.805417,
     "geom:longitude":151.669303,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.772737,
     "lbl:longitude":151.709464,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Felton"
@@ -86,9 +92,12 @@
         102049357
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30601"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"c6e223cb82000ff19ac311ace90d26af",
+    "wof:geomhash":"48b3c6d24f06caeadd427541554cacf5",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -100,7 +109,7 @@
         }
     ],
     "wof:id":404542201,
-    "wof:lastmodified":1566602307,
+    "wof:lastmodified":1695877299,
     "wof:name":"Felton",
     "wof:parent_id":102049357,
     "wof:placetype":"localadmin",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000895,
-    "geom:area_square_m":9280480.809414,
+    "geom:area_square_m":9280480.809439,
     "geom:bbox":"151.555901024,-33.031956801,151.606924928,-32.997244992",
     "geom:latitude":-33.01555,
     "geom:longitude":151.577703,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.017873,
     "lbl:longitude":151.573849,
     "lbl:max_zoom":18.0,
@@ -478,13 +484,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC12297",
         "wd:id":"Q2249475"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932121
     ],
     "wof:country":"AU",
-    "wof:geomhash":"13715b9988eac95669ea378daace55a3",
+    "wof:geomhash":"87d0a8166996641527769bcf90ca6a9d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -497,7 +505,7 @@
         }
     ],
     "wof:id":404226593,
-    "wof:lastmodified":1566602013,
+    "wof:lastmodified":1695877904,
     "wof:name":"Toronto",
     "wof:parent_id":102048999,
     "wof:placetype":"localadmin",

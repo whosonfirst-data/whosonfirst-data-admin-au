@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000998,
-    "geom:area_square_m":11735019.136864,
+    "geom:area_square_m":11735019.136812,
     "geom:bbox":"122.180991008,-17.977673191,122.236175776,-17.914690015",
     "geom:latitude":-17.944638,
     "geom:longitude":122.213971,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-17.956361,
     "lbl:longitude":122.211668,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Cable Beach"
@@ -47,12 +53,15 @@
         102048717
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50119"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101936969
     ],
     "wof:country":"AU",
-    "wof:geomhash":"aa7a912ae0dd606bf4549322db9dde36",
+    "wof:geomhash":"3faf081ed8e1f1002bcc682ad784e5ef",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":404546955,
-    "wof:lastmodified":1566603107,
+    "wof:lastmodified":1695877772,
     "wof:name":"Cable Beach",
     "wof:parent_id":102048717,
     "wof:placetype":"localadmin",

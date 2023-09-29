@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000458,
-    "geom:area_square_m":4939141.625156,
+    "geom:area_square_m":4939141.625162,
     "geom:bbox":"153.2503616,-29.369119564,153.29506896,-29.3473451565",
     "geom:latitude":-29.356821,
     "geom:longitude":153.274123,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-29.355563,
     "lbl:longitude":153.274124,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Woombah"
@@ -38,12 +44,15 @@
         102048835
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12569"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932413
     ],
     "wof:country":"AU",
-    "wof:geomhash":"be9ad0b77ee4a8d1ed26ef804fe10dd4",
+    "wof:geomhash":"dd506b69cc5378ef556165a702817f2f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404227205,
-    "wof:lastmodified":1566601946,
+    "wof:lastmodified":1695877107,
     "wof:name":"Woombah",
     "wof:parent_id":102048835,
     "wof:placetype":"localadmin",

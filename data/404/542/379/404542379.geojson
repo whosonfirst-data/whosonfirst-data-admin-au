@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.076638,
-    "geom:area_square_m":833603748.370199,
+    "geom:area_square_m":833604103.445093,
     "geom:bbox":"150.207567,-28.609077,150.501383,-28.226486",
     "geom:latitude":-28.397951,
     "geom:longitude":150.357208,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.397009,
     "lbl:longitude":150.369086,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u063a\u0648\u0646\u062f\u064a\u0648\u064a\u0646\u062f\u064a"
@@ -107,9 +113,12 @@
         102048595
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30684"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"919016c8cf98da50a7922568e382332e",
+    "wof:geomhash":"2b39b94ea6777a52d83ef18fce732630",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -121,7 +130,7 @@
         }
     ],
     "wof:id":404542379,
-    "wof:lastmodified":1636494629,
+    "wof:lastmodified":1695877856,
     "wof:name":"Goondiwindi",
     "wof:parent_id":102048595,
     "wof:placetype":"localadmin",

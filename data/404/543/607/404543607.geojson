@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002189,
-    "geom:area_square_m":24432799.025992,
+    "geom:area_square_m":24432799.02598,
     "geom:bbox":"152.589776,-25.5375350025,152.659410112,-25.4826209345",
     "geom:latitude":-25.510039,
     "geom:longitude":152.624403,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-25.510482,
     "lbl:longitude":152.624437,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Oakhurst"
@@ -74,12 +80,15 @@
         102049435
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31263"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935049
     ],
     "wof:country":"AU",
-    "wof:geomhash":"5898ce6635ec4ce92bc237995f2227bd",
+    "wof:geomhash":"177fddb992fdd93f451cb8de8483e068",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -91,7 +100,7 @@
         }
     ],
     "wof:id":404543607,
-    "wof:lastmodified":1566602137,
+    "wof:lastmodified":1695877211,
     "wof:name":"Oakhurst",
     "wof:parent_id":102049435,
     "wof:placetype":"localadmin",

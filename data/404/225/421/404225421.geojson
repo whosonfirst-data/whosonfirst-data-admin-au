@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.084968,
-    "geom:area_square_m":896223838.671649,
+    "geom:area_square_m":896223838.671749,
     "geom:bbox":"151.519767008,-31.6381421035,152.034612288,-31.3106020085",
     "geom:latitude":-31.45775,
     "geom:longitude":151.738685,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.451529,
     "lbl:longitude":151.674525,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Nowendoc"
@@ -38,9 +44,12 @@
         102048995
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11776"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"5961734dc27bb07cbb0a4c7c493a832e",
+    "wof:geomhash":"43b1b4f3e772b23a3a794624153ba20e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404225421,
-    "wof:lastmodified":1566602710,
+    "wof:lastmodified":1695877533,
     "wof:name":"Nowendoc",
     "wof:parent_id":102048995,
     "wof:placetype":"localadmin",

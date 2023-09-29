@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000293,
-    "geom:area_square_m":2961466.076694,
+    "geom:area_square_m":2961466.076709,
     "geom:bbox":"149.147393984,-35.2095950015,149.167156,-35.1845810035",
     "geom:latitude":-35.199061,
     "geom:longitude":149.156311,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.200088,
     "lbl:longitude":149.156499,
     "lbl:max_zoom":18.0,
@@ -116,13 +122,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC80049",
         "wd:id":"Q12059592"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938807
     ],
     "wof:country":"AU",
-    "wof:geomhash":"9ca6b295497067792b620366a9c1fd25",
+    "wof:geomhash":"1436f050071793170f3c2061a0259b3c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -133,7 +141,7 @@
         }
     ],
     "wof:id":404550025,
-    "wof:lastmodified":1566601925,
+    "wof:lastmodified":1695877891,
     "wof:name":"Harrison",
     "wof:parent_id":85681493,
     "wof:placetype":"localadmin",

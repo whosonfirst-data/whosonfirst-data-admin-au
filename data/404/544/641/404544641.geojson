@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001169,
-    "geom:area_square_m":12917394.881845,
+    "geom:area_square_m":12917394.881842,
     "geom:bbox":"152.888554016,-26.679339999,152.964024992,-26.6454610045",
     "geom:latitude":-26.66362,
     "geom:longitude":152.928104,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-26.664461,
     "lbl:longitude":152.91499,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "West Woombye"
@@ -39,9 +45,12 @@
         102049303
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31754"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"82c2556b17a63f7496cce1a72d87a8e2",
+    "wof:geomhash":"ad3962c6d74ef1ac37749f3d4ffc398f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":404544641,
-    "wof:lastmodified":1566602191,
+    "wof:lastmodified":1695877239,
     "wof:name":"West Woombye",
     "wof:parent_id":102049303,
     "wof:placetype":"localadmin",

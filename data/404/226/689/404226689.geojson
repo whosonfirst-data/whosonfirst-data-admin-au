@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001344,
-    "geom:area_square_m":13553241.412307,
+    "geom:area_square_m":13553265.660333,
     "geom:bbox":"150.435733,-35.382726,150.492479,-35.332358",
     "geom:latitude":-35.357142,
     "geom:longitude":150.461167,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.356459,
     "lbl:longitude":150.461595,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u0989\u09b2\u09cd\u09b2\u09be\u09a6\u09c1\u09b2\u09cd\u09b2\u09be"
@@ -77,12 +83,15 @@
         102049405
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12340"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932167
     ],
     "wof:country":"AU",
-    "wof:geomhash":"7fbf65bc8ae73d1840194fb0662a5eeb",
+    "wof:geomhash":"b6a58884a0a8d155dbae016799ba7a7b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -94,7 +103,7 @@
         }
     ],
     "wof:id":404226689,
-    "wof:lastmodified":1636494613,
+    "wof:lastmodified":1695877849,
     "wof:name":"Ulladulla",
     "wof:parent_id":102049405,
     "wof:placetype":"localadmin",

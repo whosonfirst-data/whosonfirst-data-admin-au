@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001107,
-    "geom:area_square_m":10738046.721298,
+    "geom:area_square_m":10738046.721307,
     "geom:bbox":"145.145675008,-38.361083007,145.212857984,-38.3157455565",
     "geom:latitude":-38.337437,
     "geom:longitude":145.177868,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.329559,
     "lbl:longitude":145.179319,
     "lbl:max_zoom":18.0,
@@ -105,13 +111,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC20139",
         "wd:id":"Q2904938"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932603
     ],
     "wof:country":"AU",
-    "wof:geomhash":"2a54cc39023bfc0e9c77f73c14024520",
+    "wof:geomhash":"ce4ef43ae97607090868b206fc9d7c54",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -123,7 +131,7 @@
         }
     ],
     "wof:id":404537801,
-    "wof:lastmodified":1566602344,
+    "wof:lastmodified":1695877946,
     "wof:name":"Bittern",
     "wof:parent_id":102048695,
     "wof:placetype":"localadmin",

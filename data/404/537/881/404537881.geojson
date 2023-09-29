@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004153,
-    "geom:area_square_m":40321213.200756,
+    "geom:area_square_m":40321213.200823,
     "geom:bbox":"144.374473088,-38.30259559,144.489169792,-38.209496967",
     "geom:latitude":-38.257676,
     "geom:longitude":144.445662,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.260277,
     "lbl:longitude":144.446532,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Breamlea"
@@ -39,9 +45,12 @@
         102049571
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20175"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"cc83f7a991a47edeb89b3c5cc3e435c1",
+    "wof:geomhash":"6acc53abdcf2abdca46b1d970f64498e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":404537881,
-    "wof:lastmodified":1566602326,
+    "wof:lastmodified":1695877310,
     "wof:name":"Breamlea",
     "wof:parent_id":102049571,
     "wof:placetype":"localadmin",

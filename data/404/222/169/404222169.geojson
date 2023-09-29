@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.051754,
-    "geom:area_square_m":518146768.236898,
+    "geom:area_square_m":518146768.237015,
     "geom:bbox":"149.042771008,-36.0512429925,149.357734592,-35.7576819955",
     "geom:latitude":-35.935664,
     "geom:longitude":149.17772,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.92371,
     "lbl:longitude":149.153865,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bredbo"
@@ -47,9 +53,12 @@
         102048491
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10331"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"eba2858cbc224df962fa3f7cfe5db587",
+    "wof:geomhash":"fe5f7012ce9c90a9bd6dcd2cb480fdc1",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":404222169,
-    "wof:lastmodified":1566602751,
+    "wof:lastmodified":1695877560,
     "wof:name":"Bredbo",
     "wof:parent_id":102048491,
     "wof:placetype":"localadmin",

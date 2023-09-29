@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.234216,
-    "geom:area_square_m":2358098275.538549,
+    "geom:area_square_m":2358098275.538076,
     "geom:bbox":"148.762675,-35.920762,149.399285,-35.124517",
     "geom:latitude":-35.488797,
     "geom:longitude":149.002509,
@@ -490,20 +490,26 @@
         85632793
     ],
     "wof:concordances":{
+        "ausstat:area_code":"8",
         "digitalenvoy:region_code":28385,
         "fips:code":"AS01",
         "gn:id":2177478,
         "gp:id":1100968,
         "hasc:id":"AU.AC",
+        "iso:code":"AU-ACT",
         "iso:id":"AU-ACT",
         "unlc:id":"AU-ACT",
         "wd:id":"Q3258"
     },
+    "wof:concordances_official":"ausstat:area_code",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"AU",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3e7669f675a1fff29dbda8ab388164f9",
+    "wof:geomhash":"6057154f926b5674096901fa9c1ad1e0",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -519,7 +525,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690852090,
+    "wof:lastmodified":1695884442,
     "wof:name":"Australian Capital Territory",
     "wof:parent_id":85632793,
     "wof:placetype":"region",

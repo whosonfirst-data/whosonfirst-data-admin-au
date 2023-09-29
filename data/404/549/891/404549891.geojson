@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001745,
-    "geom:area_square_m":20916462.972524,
+    "geom:area_square_m":20916462.97252,
     "geom:bbox":"129.491663008,-14.270566009,129.54386,-14.225061004",
     "geom:latitude":-14.244106,
     "geom:longitude":129.516326,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-14.243912,
     "lbl:longitude":129.518438,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Wadeye"
@@ -38,9 +44,12 @@
         102049217
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC70193"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"a2b273bd8becabbf12aed8aca4d3d316",
+    "wof:geomhash":"aef9c9842f7c376a0d022254f3d099ad",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404549891,
-    "wof:lastmodified":1566602902,
+    "wof:lastmodified":1695877662,
     "wof:name":"Wadeye",
     "wof:parent_id":102049217,
     "wof:placetype":"localadmin",

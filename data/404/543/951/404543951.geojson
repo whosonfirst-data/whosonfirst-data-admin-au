@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012475,
-    "geom:area_square_m":140394771.147267,
+    "geom:area_square_m":140394771.147266,
     "geom:bbox":"148.524631008,-24.5271370045,148.697784,-24.411311002",
     "geom:latitude":-24.47197,
     "geom:longitude":148.617829,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-24.466319,
     "lbl:longitude":148.628159,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Rolleston"
@@ -53,9 +59,12 @@
         102049631
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31422"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"811d8fa13670f57e47284d9cad190379",
+    "wof:geomhash":"6d0fb46a2ec521f150d4d3a168ee1a2a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -67,7 +76,7 @@
         }
     ],
     "wof:id":404543951,
-    "wof:lastmodified":1566602124,
+    "wof:lastmodified":1695877205,
     "wof:name":"Rolleston",
     "wof:parent_id":102049631,
     "wof:placetype":"localadmin",

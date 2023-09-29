@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010823,
-    "geom:area_square_m":111478767.095434,
+    "geom:area_square_m":111478767.095497,
     "geom:bbox":"149.288364992,-33.6557829985,149.422057728,-33.526110005",
     "geom:latitude":-33.592772,
     "geom:longitude":149.362026,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.591301,
     "lbl:longitude":149.367449,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041d\u044e\u0431\u0440\u0438\u0434\u0436"
@@ -74,9 +80,12 @@
         102049333
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11716"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"487efa04779ac263f2b6c8ec9ec959fa",
+    "wof:geomhash":"a11e98436447f7a551414c1c9db86384",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -88,7 +97,7 @@
         }
     ],
     "wof:id":404225285,
-    "wof:lastmodified":1566602718,
+    "wof:lastmodified":1695877538,
     "wof:name":"Newbridge",
     "wof:parent_id":102049333,
     "wof:placetype":"localadmin",

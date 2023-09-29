@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033234,
-    "geom:area_square_m":337968539.500322,
+    "geom:area_square_m":337968539.500333,
     "geom:bbox":"145.957210912,-34.7712054225,146.2296736,-34.544701986",
     "geom:latitude":-34.673256,
     "geom:longitude":146.07786,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.687025,
     "lbl:longitude":146.045894,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Darlington Point"
@@ -50,9 +56,12 @@
         102048547
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10694"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"7f3f99cc8a95e044022989611d1a6629",
+    "wof:geomhash":"a6b079216f14e13bab4ed83a78cbdc3a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":404222987,
-    "wof:lastmodified":1566602811,
+    "wof:lastmodified":1695877599,
     "wof:name":"Darlington Point",
     "wof:parent_id":102048547,
     "wof:placetype":"localadmin",

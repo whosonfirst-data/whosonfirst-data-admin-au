@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004196,
-    "geom:area_square_m":47012074.742652,
+    "geom:area_square_m":47012074.742801,
     "geom:bbox":"151.96587696,-25.089556189,152.04370464,-24.969968637",
     "geom:latitude":-25.024043,
     "geom:longitude":152.005426,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-25.024585,
     "lbl:longitude":151.995135,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mcilwraith"
@@ -38,9 +44,12 @@
         102048763
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31030"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"a667bc00413fdc8063acbd6e2edc53b6",
+    "wof:geomhash":"9a3b64eeeccfc9b2838618066a9d99e3",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404543113,
-    "wof:lastmodified":1566602144,
+    "wof:lastmodified":1695877214,
     "wof:name":"Mcilwraith",
     "wof:parent_id":102048763,
     "wof:placetype":"localadmin",

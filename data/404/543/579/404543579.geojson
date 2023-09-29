@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000205,
-    "geom:area_square_m":2392951.915481,
+    "geom:area_square_m":2392951.915483,
     "geom:bbox":"146.798315232,-19.259000174,146.821674144,-19.238366976",
     "geom:latitude":-19.248853,
     "geom:longitude":146.808037,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-19.249692,
     "lbl:longitude":146.807865,
     "lbl:max_zoom":18.0,
@@ -42,13 +48,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC31250",
         "wd:id":"Q7057186"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935031
     ],
     "wof:country":"AU",
-    "wof:geomhash":"72f62e64a17f27144ac2b7b9d0b2d496",
+    "wof:geomhash":"67664c05605a1228178febff982a2cbe",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -60,7 +68,7 @@
         }
     ],
     "wof:id":404543579,
-    "wof:lastmodified":1566602143,
+    "wof:lastmodified":1695877921,
     "wof:name":"North Ward",
     "wof:parent_id":102048451,
     "wof:placetype":"localadmin",

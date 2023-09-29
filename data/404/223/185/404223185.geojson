@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001567,
-    "geom:area_square_m":16587631.236236,
+    "geom:area_square_m":16587631.236217,
     "geom:bbox":"150.92894768,-31.122240244,150.979381216,-31.0751799995",
     "geom:latitude":-31.097503,
     "geom:longitude":150.954982,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.098853,
     "lbl:longitude":150.957988,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "East Tamworth"
@@ -38,12 +44,15 @@
         102048785
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10782"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101930171
     ],
     "wof:country":"AU",
-    "wof:geomhash":"f54164c988aa30264909124dc196b572",
+    "wof:geomhash":"f84130f304db3cc89a15561b098363e0",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404223185,
-    "wof:lastmodified":1566602569,
+    "wof:lastmodified":1695877458,
     "wof:name":"East Tamworth",
     "wof:parent_id":102048785,
     "wof:placetype":"localadmin",

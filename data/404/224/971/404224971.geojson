@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.036122,
-    "geom:area_square_m":369759264.44635,
+    "geom:area_square_m":369759264.446188,
     "geom:bbox":"148.0127544,-34.2387579955,148.425370912,-34.028167778",
     "geom:latitude":-34.123315,
     "geom:longitude":148.223133,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.114597,
     "lbl:longitude":148.219985,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Monteagle"
@@ -50,9 +56,12 @@
         102049073
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11576"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"904c04af2fbabf53b97337474ee54f64",
+    "wof:geomhash":"cc47893fe8fed9ac25e54cccf80de332",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":404224971,
-    "wof:lastmodified":1566602606,
+    "wof:lastmodified":1695877479,
     "wof:name":"Monteagle",
     "wof:parent_id":102049073,
     "wof:placetype":"localadmin",

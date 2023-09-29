@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.046749,
-    "geom:area_square_m":457215875.01416,
+    "geom:area_square_m":457215875.014077,
     "geom:bbox":"147.189228224,-37.943640497,147.412648,-37.55209055",
     "geom:latitude":-37.72669,
     "geom:longitude":147.302712,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.679197,
     "lbl:longitude":147.285677,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Fernbank"
@@ -38,9 +44,12 @@
         102049039
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20485"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"700608d0468f9e8960773bead436d84a",
+    "wof:geomhash":"ca30d9efd5214f9f3254e41ad770a53d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404538571,
-    "wof:lastmodified":1566602479,
+    "wof:lastmodified":1695877401,
     "wof:name":"Fernbank",
     "wof:parent_id":102049039,
     "wof:placetype":"localadmin",

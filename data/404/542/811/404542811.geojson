@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001787,
-    "geom:area_square_m":19538931.344924,
+    "geom:area_square_m":19538931.344917,
     "geom:bbox":"153.20809856,-27.858487005,153.266350016,-27.7980246945",
     "geom:latitude":-27.825383,
     "geom:longitude":153.233462,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.822868,
     "lbl:longitude":153.233878,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kingsholme"
@@ -39,9 +45,12 @@
         102049363
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30886"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"dbf4c4dc0597113f8375bedbf0c6e0d5",
+    "wof:geomhash":"fbcba70d672de6327069bfc0c6a57fe5",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":404542811,
-    "wof:lastmodified":1566602269,
+    "wof:lastmodified":1695877274,
     "wof:name":"Kingsholme",
     "wof:parent_id":102049363,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004071,
-    "geom:area_square_m":44046101.845644,
+    "geom:area_square_m":44046101.845596,
     "geom:bbox":"153.384542656,-29.001260976,153.497254336,-28.918613003",
     "geom:latitude":-28.959608,
     "geom:longitude":153.442054,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.959402,
     "lbl:longitude":153.442243,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Wardell"
@@ -56,9 +62,12 @@
         102049481
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12412"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"aec433c0bd51bb5d98a6343bc5b8672c",
+    "wof:geomhash":"e188ef491d52269802a91f05e6c70e87",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -70,7 +79,7 @@
         }
     ],
     "wof:id":404226851,
-    "wof:lastmodified":1566602035,
+    "wof:lastmodified":1695877152,
     "wof:name":"Wardell",
     "wof:parent_id":102049481,
     "wof:placetype":"localadmin",

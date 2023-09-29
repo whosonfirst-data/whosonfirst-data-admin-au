@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000502,
-    "geom:area_square_m":5091330.029518,
+    "geom:area_square_m":5091342.892946,
     "geom:bbox":"138.576673,-34.91949,138.612826,-34.898617",
     "geom:latitude":-34.908439,
     "geom:longitude":138.59534,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.907975,
     "lbl:longitude":138.593885,
     "lbl:max_zoom":18.0,
@@ -103,10 +109,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC40502",
         "gn:id":2064551,
         "qs_pg:id":1032042,
         "wd:id":"Q7053663"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101936351
     ],
@@ -114,7 +122,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"89ac3130925b818b9777ae94f46fdcd1",
+    "wof:geomhash":"cda4293484c4f3ec7e13da17969e704d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -127,7 +135,7 @@
         }
     ],
     "wof:id":404545955,
-    "wof:lastmodified":1690853489,
+    "wof:lastmodified":1695878053,
     "wof:name":"North Adelaide",
     "wof:parent_id":102048711,
     "wof:placetype":"localadmin",

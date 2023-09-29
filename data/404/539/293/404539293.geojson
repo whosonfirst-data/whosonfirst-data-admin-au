@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.044978,
-    "geom:area_square_m":435605357.144123,
+    "geom:area_square_m":435605357.143924,
     "geom:bbox":"143.824532384,-38.579417565,144.234254016,-38.3169830955",
     "geom:latitude":-38.442187,
     "geom:longitude":144.016149,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.404003,
     "lbl:longitude":144.053473,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Lorne"
@@ -59,9 +65,12 @@
         102048931
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20808"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"523a355f91ad8e942042dc4d670ce966",
+    "wof:geomhash":"6de1cce73daef0d4ad7f5c1569c19cdf",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -73,7 +82,7 @@
         }
     ],
     "wof:id":404539293,
-    "wof:lastmodified":1566602372,
+    "wof:lastmodified":1695877338,
     "wof:name":"Lorne",
     "wof:parent_id":102048931,
     "wof:placetype":"localadmin",

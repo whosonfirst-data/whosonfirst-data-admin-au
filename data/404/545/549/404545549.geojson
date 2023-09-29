@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037962,
-    "geom:area_square_m":380654601.077463,
+    "geom:area_square_m":380654601.077231,
     "geom:bbox":"137.744718016,-35.904274016,138.13490592,-35.716858027",
     "geom:latitude":-35.812787,
     "geom:longitude":137.959764,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.807439,
     "lbl:longitude":137.995451,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Island Beach"
@@ -44,9 +50,12 @@
         102049105
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40315"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"2afd64c509d8a3956b129541f4850616",
+    "wof:geomhash":"c2d4eb1aba23f92a37892c1ec1ef51ec",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404545549,
-    "wof:lastmodified":1566602251,
+    "wof:lastmodified":1695877265,
     "wof:name":"Island Beach",
     "wof:parent_id":102049105,
     "wof:placetype":"localadmin",

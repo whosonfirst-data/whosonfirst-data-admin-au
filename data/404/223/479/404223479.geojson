@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008389,
-    "geom:area_square_m":88548296.306244,
+    "geom:area_square_m":88548296.30621,
     "geom:bbox":"152.559610016,-31.4493580025,152.745332992,-31.3500539985",
     "geom:latitude":-31.39527,
     "geom:longitude":152.642537,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.392875,
     "lbl:longitude":152.641128,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Frazers Creek"
@@ -38,9 +44,12 @@
         102049203
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10913"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"0988362536cb2a8ce25b3972fc390193",
+    "wof:geomhash":"0de1f66c330aac6a473288eb420e93b4",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404223479,
-    "wof:lastmodified":1566602506,
+    "wof:lastmodified":1695877417,
     "wof:name":"Frazers Creek",
     "wof:parent_id":102049203,
     "wof:placetype":"localadmin",

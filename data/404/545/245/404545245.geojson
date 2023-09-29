@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000242,
-    "geom:area_square_m":2462099.644768,
+    "geom:area_square_m":2462099.644776,
     "geom:bbox":"138.673258016,-34.741450744,138.694455136,-34.716041993",
     "geom:latitude":-34.726006,
     "geom:longitude":138.681543,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.724988,
     "lbl:longitude":138.68082,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Elizabeth East"
@@ -39,12 +45,15 @@
         102049603
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40176"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935947
     ],
     "wof:country":"AU",
-    "wof:geomhash":"128c384bbb1320659378d1ddb07f3b53",
+    "wof:geomhash":"45bdb9d66e7f59ad32bc32d05eaf8038",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404545245,
-    "wof:lastmodified":1566602216,
+    "wof:lastmodified":1695877250,
     "wof:name":"Elizabeth East",
     "wof:parent_id":102049603,
     "wof:placetype":"localadmin",

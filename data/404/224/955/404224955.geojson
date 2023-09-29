@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.160356,
-    "geom:area_square_m":1732211586.018082,
+    "geom:area_square_m":1732211586.020569,
     "geom:bbox":"151.365372992,-29.384081994,151.949107008,-28.8668760695",
     "geom:latitude":-29.119867,
     "geom:longitude":151.677223,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-29.106645,
     "lbl:longitude":151.657431,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mole River"
@@ -38,9 +44,12 @@
         102048787
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11569"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"2c1d591738f64d2de1bfd65f0c87812e",
+    "wof:geomhash":"2486cccfc4bc718b3741fef8b64e843a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404224955,
-    "wof:lastmodified":1566602580,
+    "wof:lastmodified":1695877464,
     "wof:name":"Mole River",
     "wof:parent_id":102048787,
     "wof:placetype":"localadmin",

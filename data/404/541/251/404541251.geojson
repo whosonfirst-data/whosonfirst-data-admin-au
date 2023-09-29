@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005474,
-    "geom:area_square_m":64165969.715546,
+    "geom:area_square_m":64165969.71562,
     "geom:bbox":"146.148496992,-18.6287070055,146.240810016,-18.520130006",
     "geom:latitude":-18.568131,
     "geom:longitude":146.189655,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-18.564623,
     "lbl:longitude":146.188971,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bemerside"
@@ -38,9 +44,12 @@
         102048645
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30146"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"07af64851663d8f4e8d483e4eb8a2c72",
+    "wof:geomhash":"5a538fc44210b2fe8ed018b47d6bc99b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404541251,
-    "wof:lastmodified":1566603062,
+    "wof:lastmodified":1695877750,
     "wof:name":"Bemerside",
     "wof:parent_id":102048645,
     "wof:placetype":"localadmin",

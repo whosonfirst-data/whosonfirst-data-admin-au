@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014364,
-    "geom:area_square_m":145260439.538704,
+    "geom:area_square_m":145260439.53882,
     "geom:bbox":"143.34067552,-35.195037111,143.531483008,-35.060274009",
     "geom:latitude":-35.128553,
     "geom:longitude":143.440414,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.131807,
     "lbl:longitude":143.438901,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Koraleigh"
@@ -41,9 +47,12 @@
         102049043
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11283"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"a2c5489d60ad8d422d27c154c68f28f0",
+    "wof:geomhash":"934f9e2839aed108f83d1eab26b619db",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404224311,
-    "wof:lastmodified":1566602646,
+    "wof:lastmodified":1695877499,
     "wof:name":"Koraleigh",
     "wof:parent_id":102049043,
     "wof:placetype":"localadmin",

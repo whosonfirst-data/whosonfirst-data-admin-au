@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009713,
-    "geom:area_square_m":94959380.505932,
+    "geom:area_square_m":94959380.505916,
     "geom:bbox":"147.366841312,-37.8240615845,147.548846016,-37.709733305",
     "geom:latitude":-37.754766,
     "geom:longitude":147.459913,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.750083,
     "lbl:longitude":147.458516,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Calulu"
@@ -38,9 +44,12 @@
         102049039
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20236"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"9aaff542684827541342b8328271b2f9",
+    "wof:geomhash":"c914e9b57ae25f76906cffb12b908afc",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404538017,
-    "wof:lastmodified":1566602469,
+    "wof:lastmodified":1695877394,
     "wof:name":"Calulu",
     "wof:parent_id":102049039,
     "wof:placetype":"localadmin",

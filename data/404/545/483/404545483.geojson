@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000082,
-    "geom:area_square_m":833955.076613,
+    "geom:area_square_m":833955.076612,
     "geom:bbox":"138.511981888,-34.8841829615,138.521733856,-34.8657732045",
     "geom:latitude":-34.87516,
     "geom:longitude":138.515785,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.876184,
     "lbl:longitude":138.515711,
     "lbl:max_zoom":18.0,
@@ -115,10 +121,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC40286",
         "gn:id":2069887,
         "qs_pg:id":903698,
         "wd:id":"Q12059859"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101936129
     ],
@@ -126,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"67bd0324c72d9c18dd1694abf676fc15",
+    "wof:geomhash":"824583322b4ebdd87d4b531ea7d3c2ef",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -139,7 +147,7 @@
         }
     ],
     "wof:id":404545483,
-    "wof:lastmodified":1582313097,
+    "wof:lastmodified":1695878053,
     "wof:name":"Hendon",
     "wof:parent_id":102049185,
     "wof:placetype":"localadmin",

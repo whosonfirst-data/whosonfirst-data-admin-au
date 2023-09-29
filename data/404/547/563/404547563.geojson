@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.182258,
-    "geom:area_square_m":1919864154.660368,
+    "geom:area_square_m":1919864154.660967,
     "geom:bbox":"117.569921,-31.831077,118.041296,-31.323095",
     "geom:latitude":-31.582156,
     "geom:longitude":117.814247,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.577575,
     "lbl:longitude":117.795307,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kellerberrin"
@@ -31,19 +37,22 @@
     "qs:source":"Australian Bureau Of Statistics",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681439,
         102191583,
         85632793,
-        102048631,
         136253039,
-        85681439
+        102048631
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50391"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         102048631
     ],
     "wof:country":"AU",
-    "wof:geomhash":"66e6354757a7e56c9b5a137e81d8c952",
+    "wof:geomhash":"f807675ff4b637a01e86a547e713b196",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404547563,
-    "wof:lastmodified":1608000206,
+    "wof:lastmodified":1695877845,
     "wof:name":"Kellerberrin",
     "wof:parent_id":102048631,
     "wof:placetype":"localadmin",

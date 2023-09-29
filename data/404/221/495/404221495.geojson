@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000948,
-    "geom:area_square_m":10270498.438575,
+    "geom:area_square_m":10270498.438552,
     "geom:bbox":"153.423508672,-28.8135457495,153.465606016,-28.7775056775",
     "geom:latitude":-28.793913,
     "geom:longitude":153.444013,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.793832,
     "lbl:longitude":153.444009,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Alstonvale"
@@ -38,9 +44,12 @@
         102049481
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10031"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"3319dc4f058c6536ee9f83ab995e39fa",
+    "wof:geomhash":"0a1d302e9185582fa1f538b2ca248445",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404221495,
-    "wof:lastmodified":1566602003,
+    "wof:lastmodified":1695877133,
     "wof:name":"Alstonvale",
     "wof:parent_id":102049481,
     "wof:placetype":"localadmin",

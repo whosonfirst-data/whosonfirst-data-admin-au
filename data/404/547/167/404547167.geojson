@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000153,
-    "geom:area_square_m":1697131.913172,
+    "geom:area_square_m":1697131.913174,
     "geom:bbox":"113.527387104,-25.932231522,113.543582048,-25.913606018",
     "geom:latitude":-25.923932,
     "geom:longitude":113.535394,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-25.924494,
     "lbl:longitude":113.535379,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Denham"
@@ -68,12 +74,15 @@
         102048721
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50215"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937101
     ],
     "wof:country":"AU",
-    "wof:geomhash":"cc36769c0cc18ac455c9ebfbe2e9f22f",
+    "wof:geomhash":"d485c54d8096a879898ea49df00b7326",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -85,7 +94,7 @@
         }
     ],
     "wof:id":404547167,
-    "wof:lastmodified":1566602924,
+    "wof:lastmodified":1695877675,
     "wof:name":"Denham",
     "wof:parent_id":102048721,
     "wof:placetype":"localadmin",

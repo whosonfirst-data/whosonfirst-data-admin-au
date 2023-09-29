@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010348,
-    "geom:area_square_m":105482816.243457,
+    "geom:area_square_m":105482816.243468,
     "geom:bbox":"140.487409792,-34.5159969975,140.662952992,-34.4133950355",
     "geom:latitude":-34.478324,
     "geom:longitude":140.588017,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.476422,
     "lbl:longitude":140.58799,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Loxton"
@@ -56,9 +62,12 @@
         102049421
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40383"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"3a745eb07d49fb0a89780ce8844dfe13",
+    "wof:geomhash":"d3cf248a0225eba0f8bb41e78d99a47d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -70,7 +79,7 @@
         }
     ],
     "wof:id":404545693,
-    "wof:lastmodified":1566602222,
+    "wof:lastmodified":1695877253,
     "wof:name":"Loxton",
     "wof:parent_id":102049421,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002556,
-    "geom:area_square_m":26740548.013446,
+    "geom:area_square_m":26740548.01345,
     "geom:bbox":"148.652165504,-32.2627997095,148.713932992,-32.1968902035",
     "geom:latitude":-32.227569,
     "geom:longitude":148.68136,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.228168,
     "lbl:longitude":148.680782,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mugga Downs"
@@ -38,9 +44,12 @@
         102049599
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11640"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"5af7616006a0df4400b27724e64d2f6e",
+    "wof:geomhash":"d80bd09b52550db0069e02fc5a5b2744",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404225115,
-    "wof:lastmodified":1566602732,
+    "wof:lastmodified":1695877548,
     "wof:name":"Mugga Downs",
     "wof:parent_id":102049599,
     "wof:placetype":"localadmin",

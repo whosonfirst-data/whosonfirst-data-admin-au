@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000582,
-    "geom:area_square_m":6563648.401144,
+    "geom:area_square_m":6563648.401112,
     "geom:bbox":"151.868886848,-24.197485005,151.899790496,-24.149328025",
     "geom:latitude":-24.179477,
     "geom:longitude":151.886343,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-24.182597,
     "lbl:longitude":151.887399,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Seventeen Seventy"
@@ -38,12 +44,15 @@
         102049463
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31466"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935291
     ],
     "wof:country":"AU",
-    "wof:geomhash":"601ee70a605640161c244233d3b25a95",
+    "wof:geomhash":"c35726ba62a2896f86115ebd3a7a4f63",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404544035,
-    "wof:lastmodified":1566602194,
+    "wof:lastmodified":1695877240,
     "wof:name":"Seventeen Seventy",
     "wof:parent_id":102049463,
     "wof:placetype":"localadmin",

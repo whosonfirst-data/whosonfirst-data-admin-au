@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037863,
-    "geom:area_square_m":370322218.041513,
+    "geom:area_square_m":370322218.041606,
     "geom:bbox":"148.114552,-37.8307055265,148.425166016,-37.6359089995",
     "geom:latitude":-37.723037,
     "geom:longitude":148.25451,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.730431,
     "lbl:longitude":148.254628,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bete Bolong"
@@ -38,9 +44,12 @@
         102049039
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20128"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"b5e8d041a9d75d6b35ee8b763395cea4",
+    "wof:geomhash":"f050debba7c62366c49e7df5a198da2f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404537779,
-    "wof:lastmodified":1566602334,
+    "wof:lastmodified":1695877315,
     "wof:name":"Bete Bolong",
     "wof:parent_id":102049039,
     "wof:placetype":"localadmin",

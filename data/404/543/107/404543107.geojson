@@ -10,6 +10,12 @@
     "geom:latitude":-27.93657,
     "geom:longitude":153.279642,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.929553,
     "lbl:longitude":153.279972,
     "lbl:max_zoom":18.0,
@@ -43,10 +49,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC31026",
         "wd:id":"Q6792336"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"5d22b8cc5334fcfde9f61e4c7c4493dc",
+    "wof:geomhash":"76ad0e76794a3b81c227a6156bc11e3d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -59,7 +67,7 @@
         }
     ],
     "wof:id":404543107,
-    "wof:lastmodified":1566602122,
+    "wof:lastmodified":1695877918,
     "wof:name":"Maudsland",
     "wof:parent_id":102049363,
     "wof:placetype":"localadmin",

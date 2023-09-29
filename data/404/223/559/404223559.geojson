@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.08151,
-    "geom:area_square_m":838994197.820853,
+    "geom:area_square_m":838994197.820816,
     "geom:bbox":"146.795954048,-33.7823959995,147.296416992,-33.5281729585",
     "geom:latitude":-33.651421,
     "geom:longitude":147.034108,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.658306,
     "lbl:longitude":147.075662,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Girral"
@@ -38,9 +44,12 @@
         102049365
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10949"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"4b3a8bf45a01766f5ba8d94911ab0e14",
+    "wof:geomhash":"c40bebf4f1f2ce30fedad0188cba0817",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404223559,
-    "wof:lastmodified":1566602492,
+    "wof:lastmodified":1695877409,
     "wof:name":"Girral",
     "wof:parent_id":102049365,
     "wof:placetype":"localadmin",

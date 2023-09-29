@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.055016,
-    "geom:area_square_m":536752120.934219,
+    "geom:area_square_m":536752120.934599,
     "geom:bbox":"143.030440896,-38.079596997,143.278242016,-37.730872404",
     "geom:latitude":-37.906955,
     "geom:longitude":143.172013,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.920057,
     "lbl:longitude":143.181978,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Derrinallum"
@@ -53,9 +59,12 @@
         102049319
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20387"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"a15cd0ea7aad6024ab52210794498505",
+    "wof:geomhash":"21f1c1de96ae4f6b49e9b65047371f4a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -67,7 +76,7 @@
         }
     ],
     "wof:id":404538353,
-    "wof:lastmodified":1566602425,
+    "wof:lastmodified":1695877372,
     "wof:name":"Derrinallum",
     "wof:parent_id":102049319,
     "wof:placetype":"localadmin",

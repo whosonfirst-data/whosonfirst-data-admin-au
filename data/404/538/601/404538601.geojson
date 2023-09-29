@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012326,
-    "geom:area_square_m":120217907.931259,
+    "geom:area_square_m":120217907.931206,
     "geom:bbox":"147.5665,-37.9830366355,147.781551872,-37.872992993",
     "geom:latitude":-37.928558,
     "geom:longitude":147.653208,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.933603,
     "lbl:longitude":147.646505,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Forge Creek"
@@ -38,9 +44,12 @@
         102049039
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20498"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"7a6e235655c3ee71358f9b5d488cf0b8",
+    "wof:geomhash":"fd0af09f52ebd0f133bf9644ff7cb6e1",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404538601,
-    "wof:lastmodified":1566602474,
+    "wof:lastmodified":1695877398,
     "wof:name":"Forge Creek",
     "wof:parent_id":102049039,
     "wof:placetype":"localadmin",

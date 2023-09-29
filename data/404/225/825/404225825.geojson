@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000117,
-    "geom:area_square_m":1252864.48261,
+    "geom:area_square_m":1252864.482605,
     "geom:bbox":"153.217211008,-29.990901863,153.234534016,-29.975707998",
     "geom:latitude":-29.983705,
     "geom:longitude":153.224951,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-29.984131,
     "lbl:longitude":153.222655,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Red Rock"
@@ -65,12 +71,15 @@
         102048797
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11956"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931697
     ],
     "wof:country":"AU",
-    "wof:geomhash":"e8bcfe169903735d245e3f72bc9617ef",
+    "wof:geomhash":"9b88ff4dc466c4d98133eacd9a1e258a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -82,7 +91,7 @@
         }
     ],
     "wof:id":404225825,
-    "wof:lastmodified":1566602719,
+    "wof:lastmodified":1695877540,
     "wof:name":"Red Rock",
     "wof:parent_id":102048797,
     "wof:placetype":"localadmin",

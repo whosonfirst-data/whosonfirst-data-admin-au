@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00619,
-    "geom:area_square_m":60684782.030406,
+    "geom:area_square_m":60684782.030521,
     "geom:bbox":"144.764098016,-37.6120780025,144.870505216,-37.50179867",
     "geom:latitude":-37.547268,
     "geom:longitude":144.807794,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.53787,
     "lbl:longitude":144.806975,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Wildwood"
@@ -78,9 +84,12 @@
         102049057
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21471"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"84ebbd00a389d42d9357be2343baf417",
+    "wof:geomhash":"6c91f588a62105074a2a09bb7ecd26af",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -93,7 +102,7 @@
         }
     ],
     "wof:id":404540777,
-    "wof:lastmodified":1566603010,
+    "wof:lastmodified":1695877723,
     "wof:name":"Wildwood",
     "wof:parent_id":102049057,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001168,
-    "geom:area_square_m":10556172.755647,
+    "geom:area_square_m":10556172.755582,
     "geom:bbox":"147.296645728,-43.060816384,147.34514976,-43.0219782055",
     "geom:latitude":-43.041955,
     "geom:longitude":147.321828,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-43.041409,
     "lbl:longitude":147.321363,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Tonteldoos"
@@ -83,9 +89,12 @@
         102048889
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60369"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"adee70d6c213daf4ca221e0a4ed0cbe1",
+    "wof:geomhash":"8b494dcbd472aaf14ac487c60c9e6f61",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -97,7 +106,7 @@
         }
     ],
     "wof:id":404549499,
-    "wof:lastmodified":1566602848,
+    "wof:lastmodified":1695877624,
     "wof:name":"Tinderbox",
     "wof:parent_id":102048889,
     "wof:placetype":"localadmin",

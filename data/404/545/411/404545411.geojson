@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000401,
-    "geom:area_square_m":4037566.47417,
+    "geom:area_square_m":4037566.474165,
     "geom:bbox":"138.746290144,-35.5232854415,138.776610496,-35.504574449",
     "geom:latitude":-35.513145,
     "geom:longitude":138.762553,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.513258,
     "lbl:longitude":138.762543,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Goolwa Beach"
@@ -38,12 +44,15 @@
         102048815
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40251"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101936075
     ],
     "wof:country":"AU",
-    "wof:geomhash":"1824247bc3855bc69c41c4c740849f36",
+    "wof:geomhash":"a1701091c9a66449fd5860a1c1eae8a7",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404545411,
-    "wof:lastmodified":1566602242,
+    "wof:lastmodified":1695877262,
     "wof:name":"Goolwa Beach",
     "wof:parent_id":102048815,
     "wof:placetype":"localadmin",

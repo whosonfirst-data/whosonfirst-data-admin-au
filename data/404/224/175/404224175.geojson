@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005106,
-    "geom:area_square_m":52711980.877987,
+    "geom:area_square_m":52711980.878005,
     "geom:bbox":"149.57602,-33.435798,149.679160992,-33.3392604305",
     "geom:latitude":-33.389918,
     "geom:longitude":149.625222,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.383569,
     "lbl:longitude":149.621741,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kelso"
@@ -92,9 +98,12 @@
         102049305
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11222"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"c91f2dc13447f81614d4cd7cf1d51d54",
+    "wof:geomhash":"39bb1059bd172b5fce6957039b72fec4",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -106,7 +115,7 @@
         }
     ],
     "wof:id":404224175,
-    "wof:lastmodified":1566602607,
+    "wof:lastmodified":1695877479,
     "wof:name":"Kelso",
     "wof:parent_id":102049305,
     "wof:placetype":"localadmin",

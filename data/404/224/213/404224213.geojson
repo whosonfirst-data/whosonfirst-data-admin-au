@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000674,
-    "geom:area_square_m":6853988.351665,
+    "geom:area_square_m":6853988.351702,
     "geom:bbox":"150.826276,-34.7154830155,150.857276768,-34.662471025",
     "geom:latitude":-34.692778,
     "geom:longitude":150.840363,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.697449,
     "lbl:longitude":150.838824,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kiama Heights"
@@ -38,12 +44,15 @@
         102048749
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11239"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101930875
     ],
     "wof:country":"AU",
-    "wof:geomhash":"ea83dd33f5edf43a270f8ea06906b3b0",
+    "wof:geomhash":"b35e5e5a85cfc15ef845a125dbfcf284",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404224213,
-    "wof:lastmodified":1566602632,
+    "wof:lastmodified":1695877493,
     "wof:name":"Kiama Heights",
     "wof:parent_id":102048749,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003267,
-    "geom:area_square_m":34313504.669557,
+    "geom:area_square_m":34313504.669614,
     "geom:bbox":"152.621907008,-31.884425999,152.754649216,-31.822295007",
     "geom:latitude":-31.856454,
     "geom:longitude":152.677377,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.863468,
     "lbl:longitude":152.660782,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Crowdy Head"
@@ -47,9 +53,12 @@
         102048833
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10648"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"7b6e345c72f4b4d751022495fcb629b0",
+    "wof:geomhash":"7e9568bd56058b815b6597d02530c129",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":404222883,
-    "wof:lastmodified":1566602792,
+    "wof:lastmodified":1695877588,
     "wof:name":"Crowdy Head",
     "wof:parent_id":102048833,
     "wof:placetype":"localadmin",

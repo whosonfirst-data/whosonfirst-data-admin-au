@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.038681,
-    "geom:area_square_m":377665157.737774,
+    "geom:area_square_m":377665157.737907,
     "geom:bbox":"143.440553152,-37.9884580235,143.66507184,-37.7142196475",
     "geom:latitude":-37.852367,
     "geom:longitude":143.542445,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.861797,
     "lbl:longitude":143.53347,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mannibadar"
@@ -38,9 +44,12 @@
         102049027
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20842"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"8550080b2b36bdf9004bdcb1b7a86658",
+    "wof:geomhash":"b8446c0467a90a1c27318d5c270db06d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404539369,
-    "wof:lastmodified":1566602388,
+    "wof:lastmodified":1695877347,
     "wof:name":"Mannibadar",
     "wof:parent_id":102049027,
     "wof:placetype":"localadmin",

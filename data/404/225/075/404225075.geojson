@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000034,
-    "geom:area_square_m":352180.782121,
+    "geom:area_square_m":352180.78212,
     "geom:bbox":"151.045408992,-33.9181039705,151.055999296,-33.9133507285",
     "geom:latitude":-33.915764,
     "geom:longitude":151.050159,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.915855,
     "lbl:longitude":151.04847,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mount Lewis"
@@ -45,12 +51,15 @@
         102049447
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11622"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931317
     ],
     "wof:country":"AU",
-    "wof:geomhash":"0e4e08d5a33c5e1f09b1d823400b89b3",
+    "wof:geomhash":"3ae6cabb255906f9d32d39257a323e73",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -63,7 +72,7 @@
         }
     ],
     "wof:id":404225075,
-    "wof:lastmodified":1566602717,
+    "wof:lastmodified":1695877538,
     "wof:name":"Mount Lewis",
     "wof:parent_id":102049447,
     "wof:placetype":"localadmin",

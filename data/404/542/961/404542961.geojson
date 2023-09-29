@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006495,
-    "geom:area_square_m":76723502.998773,
+    "geom:area_square_m":76723502.998667,
     "geom:bbox":"145.680554016,-17.247386949,145.795992,-17.106038994",
     "geom:latitude":-17.185984,
     "geom:longitude":145.733323,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-17.189972,
     "lbl:longitude":145.732435,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Little Mulgrave"
@@ -38,9 +44,12 @@
         102048911
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30955"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"deaecf52692dad4f49a4cd791236d47f",
+    "wof:geomhash":"28df07230c50b6d3f146ed938773591b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404542961,
-    "wof:lastmodified":1566602289,
+    "wof:lastmodified":1695877287,
     "wof:name":"Little Mulgrave",
     "wof:parent_id":102048911,
     "wof:placetype":"localadmin",

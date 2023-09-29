@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000503,
-    "geom:area_square_m":5949454.341026,
+    "geom:area_square_m":5949454.341024,
     "geom:bbox":"145.750702848,-16.9634131515,145.78186752,-16.9272846495",
     "geom:latitude":-16.945545,
     "geom:longitude":145.767174,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-16.946183,
     "lbl:longitude":145.76564,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Portsmith"
@@ -38,12 +44,15 @@
         102048911
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31346"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935155
     ],
     "wof:country":"AU",
-    "wof:geomhash":"35ae334e58b13d4552a2287660ab1ca5",
+    "wof:geomhash":"ce55d938e850a687c33819f0520e200d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404543789,
-    "wof:lastmodified":1566602143,
+    "wof:lastmodified":1695877214,
     "wof:name":"Portsmith",
     "wof:parent_id":102048911,
     "wof:placetype":"localadmin",

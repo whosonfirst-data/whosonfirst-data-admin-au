@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012237,
-    "geom:area_square_m":127418134.067955,
+    "geom:area_square_m":127418134.067894,
     "geom:bbox":"150.887559008,-32.689356004,151.080920992,-32.583568009",
     "geom:latitude":-32.638374,
     "geom:longitude":150.982848,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.6323,
     "lbl:longitude":150.971319,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bulga"
@@ -47,9 +53,12 @@
         102048757
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10374"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"62a4b82ed79942bb26605f7b8f852325",
+    "wof:geomhash":"426f348bd75f235c63bf1d04798c061f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":404222267,
-    "wof:lastmodified":1566602767,
+    "wof:lastmodified":1695877571,
     "wof:name":"Bulga",
     "wof:parent_id":102048757,
     "wof:placetype":"localadmin",

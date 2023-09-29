@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002995,
-    "geom:area_square_m":35784967.196978,
+    "geom:area_square_m":35784967.197036,
     "geom:bbox":"133.036410592,-14.959018164,133.152643008,-14.893338687",
     "geom:latitude":-14.926821,
     "geom:longitude":133.077222,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-14.921046,
     "lbl:longitude":133.072375,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mataranka"
@@ -38,12 +44,15 @@
         102048829
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC70123"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938551
     ],
     "wof:country":"AU",
-    "wof:geomhash":"2b71cf5c4c15f36251a1959411ffd1b3",
+    "wof:geomhash":"30c29e23aa3f7c84bba806d35e1bf306",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404549783,
-    "wof:lastmodified":1566602861,
+    "wof:lastmodified":1695877634,
     "wof:name":"Mataranka",
     "wof:parent_id":102048829,
     "wof:placetype":"localadmin",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001968,
-    "geom:area_square_m":20689762.527707,
+    "geom:area_square_m":20689762.527725,
     "geom:bbox":"116.013155008,-31.7932370015,116.069021696,-31.742128994",
     "geom:latitude":-31.763758,
     "geom:longitude":116.040725,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.764466,
     "lbl:longitude":116.040195,
     "lbl:max_zoom":18.0,
@@ -51,10 +57,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC50780",
         "wd:id":"Q7898945"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"2b6095e6ac52216a355805b055dce42a",
+    "wof:geomhash":"2f4b5cbc2cd77fae6e67f613e4c605f8",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -66,7 +74,7 @@
         }
     ],
     "wof:id":404548429,
-    "wof:lastmodified":1566603209,
+    "wof:lastmodified":1695878050,
     "wof:name":"Upper Swan",
     "wof:parent_id":102049575,
     "wof:placetype":"localadmin",

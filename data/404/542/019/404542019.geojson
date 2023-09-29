@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.127193,
-    "geom:area_square_m":1403731358.177776,
+    "geom:area_square_m":1403731358.177868,
     "geom:bbox":"149.588218592,-27.007122962,150.134305984,-26.566439975",
     "geom:latitude":-26.807647,
     "geom:longitude":149.826174,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-26.806766,
     "lbl:longitude":149.79951,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Dulacca"
@@ -38,9 +44,12 @@
         102048423
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30514"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"90a2d899c7cdfe4ee0b93a05bd77475b",
+    "wof:geomhash":"bfca8d67a07699e7093423116b240643",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404542019,
-    "wof:lastmodified":1566602302,
+    "wof:lastmodified":1695877295,
     "wof:name":"Dulacca",
     "wof:parent_id":102048423,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00099,
-    "geom:area_square_m":10947322.816944,
+    "geom:area_square_m":10947322.816961,
     "geom:bbox":"152.910436,-26.6158982635,152.963032448,-26.5841383885",
     "geom:latitude":-26.601471,
     "geom:longitude":152.934657,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-26.600501,
     "lbl:longitude":152.927272,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Image Flat"
@@ -39,9 +45,12 @@
         102049303
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30791"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"0be68d10add767f40e00c3eac1a4bfa2",
+    "wof:geomhash":"69eddc54b37f9f495139fba5585b9070",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":404542601,
-    "wof:lastmodified":1566602306,
+    "wof:lastmodified":1695877298,
     "wof:name":"Image Flat",
     "wof:parent_id":102049303,
     "wof:placetype":"localadmin",

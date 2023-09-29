@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034129,
-    "geom:area_square_m":353072278.769151,
+    "geom:area_square_m":353072278.768993,
     "geom:bbox":"148.492700064,-33.3087140075,148.809092,-33.1183120075",
     "geom:latitude":-33.212433,
     "geom:longitude":148.648126,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.224046,
     "lbl:longitude":148.624111,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Manildra"
@@ -38,9 +44,12 @@
         102048769
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11456"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"67b15c6f7cc828fd90b02cd775c12627",
+    "wof:geomhash":"0022748f55fa67494f3c7fa59ac781de",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404224701,
-    "wof:lastmodified":1566602572,
+    "wof:lastmodified":1695877460,
     "wof:name":"Manildra",
     "wof:parent_id":102048769,
     "wof:placetype":"localadmin",

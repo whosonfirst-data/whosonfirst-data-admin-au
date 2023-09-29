@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000041,
-    "geom:area_square_m":419901.753949,
+    "geom:area_square_m":419901.753947,
     "geom:bbox":"150.881691232,-34.387682052,150.895121792,-34.381206534",
     "geom:latitude":-34.383859,
     "geom:longitude":150.888693,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.383701,
     "lbl:longitude":150.888689,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Fernhill"
@@ -47,12 +53,15 @@
         102048853
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10881"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101930289
     ],
     "wof:country":"AU",
-    "wof:geomhash":"e2cd186e5c498a8a0a711367055436c7",
+    "wof:geomhash":"18278dfd92cf63a1df29d2e8755d5d64",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":404223407,
-    "wof:lastmodified":1566602517,
+    "wof:lastmodified":1695877423,
     "wof:name":"Fernhill",
     "wof:parent_id":102048853,
     "wof:placetype":"localadmin",

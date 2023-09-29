@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000207,
-    "geom:area_square_m":1876236.461357,
+    "geom:area_square_m":1876236.461346,
     "geom:bbox":"147.315610016,-42.892267324,147.337880416,-42.8734953925",
     "geom:latitude":-42.882799,
     "geom:longitude":147.325821,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-42.882256,
     "lbl:longitude":147.325986,
     "lbl:max_zoom":18.0,
@@ -334,13 +340,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC60159",
         "wd:id":"Q5874777"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938127
     ],
     "wof:country":"AU",
-    "wof:geomhash":"a129563fd5878162df9090a3082c4bc7",
+    "wof:geomhash":"b86f88737c9b00edf817d39068d18efd",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -353,7 +361,7 @@
         }
     ],
     "wof:id":404549027,
-    "wof:lastmodified":1566602878,
+    "wof:lastmodified":1695878011,
     "wof:name":"Hobart",
     "wof:parent_id":102048965,
     "wof:placetype":"localadmin",

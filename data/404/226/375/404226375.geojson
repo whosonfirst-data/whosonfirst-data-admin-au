@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001557,
-    "geom:area_square_m":15922103.280762,
+    "geom:area_square_m":15922103.280714,
     "geom:bbox":"150.559032992,-34.2537878765,150.62319,-34.2116039915",
     "geom:latitude":-34.230042,
     "geom:longitude":150.590821,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.229466,
     "lbl:longitude":150.591318,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tahmoor"
@@ -38,12 +44,15 @@
         102048943
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12200"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932017
     ],
     "wof:country":"AU",
-    "wof:geomhash":"6532196b5df0ba4dfc452399e0ccaa6e",
+    "wof:geomhash":"8a95cf6ef335b927316fd2fb3def08a5",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404226375,
-    "wof:lastmodified":1566602088,
+    "wof:lastmodified":1695877186,
     "wof:name":"Tahmoor",
     "wof:parent_id":102048943,
     "wof:placetype":"localadmin",

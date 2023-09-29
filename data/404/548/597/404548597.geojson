@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014648,
-    "geom:area_square_m":151640937.651004,
+    "geom:area_square_m":151640937.651036,
     "geom:bbox":"115.7617264,-33.218131995,115.922916384,-33.0901244455",
     "geom:latitude":-33.151609,
     "geom:longitude":115.843479,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.148663,
     "lbl:longitude":115.844994,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Wokalup"
@@ -38,9 +44,12 @@
         102049561
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50855"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"f9fd70ab4c9ed71fa6e7e8d6fa2849a7",
+    "wof:geomhash":"7c5ed933f7a3bad64865d9313ed2e0a2",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404548597,
-    "wof:lastmodified":1566603199,
+    "wof:lastmodified":1695877816,
     "wof:name":"Wokalup",
     "wof:parent_id":102049561,
     "wof:placetype":"localadmin",

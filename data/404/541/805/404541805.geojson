@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00418,
-    "geom:area_square_m":46234169.431576,
+    "geom:area_square_m":46234169.431514,
     "geom:bbox":"152.85898,-26.5925130055,152.9365688,-26.513360145",
     "geom:latitude":-26.553265,
     "geom:longitude":152.900461,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-26.552493,
     "lbl:longitude":152.901189,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Cooloolabin"
@@ -39,9 +45,12 @@
         102049303
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30410"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"b59c5f0e222e8e4de4766d5f9b27453b",
+    "wof:geomhash":"7bc37a2960edb6ddf3bf85db44581b2d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":404541805,
-    "wof:lastmodified":1566603064,
+    "wof:lastmodified":1695877752,
     "wof:name":"Cooloolabin",
     "wof:parent_id":102049303,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0007,
-    "geom:area_square_m":7668108.729735,
+    "geom:area_square_m":7668108.729754,
     "geom:bbox":"152.719409312,-27.665062993,152.761142016,-27.6309376155",
     "geom:latitude":-27.652655,
     "geom:longitude":152.740583,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.654513,
     "lbl:longitude":152.740887,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Yamanto"
@@ -39,12 +45,15 @@
         102048583
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31835"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935697
     ],
     "wof:country":"AU",
-    "wof:geomhash":"e87e0c7c3abdb42a2792352c3951d834",
+    "wof:geomhash":"ac4f2f783da5f6daac309d0cf48396de",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404544811,
-    "wof:lastmodified":1566602155,
+    "wof:lastmodified":1695877220,
     "wof:name":"Yamanto",
     "wof:parent_id":102048583,
     "wof:placetype":"localadmin",

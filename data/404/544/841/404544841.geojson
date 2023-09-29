@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011566,
-    "geom:area_square_m":129063365.008088,
+    "geom:area_square_m":129063365.008026,
     "geom:bbox":"152.469717856,-25.590803995,152.641020672,-25.460609468",
     "geom:latitude":-25.520186,
     "geom:longitude":152.562556,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-25.505677,
     "lbl:longitude":152.554089,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Yengarie"
@@ -38,9 +44,12 @@
         102049435
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31849"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"c1a56168724a01d3e0c899fee61a5b05",
+    "wof:geomhash":"719bb531fd6d7866b7f5cc3ed9436485",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404544841,
-    "wof:lastmodified":1566602185,
+    "wof:lastmodified":1695877236,
     "wof:name":"Yengarie",
     "wof:parent_id":102049435,
     "wof:placetype":"localadmin",

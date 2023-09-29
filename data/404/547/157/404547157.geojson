@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001134,
-    "geom:area_square_m":11710232.123998,
+    "geom:area_square_m":11710232.123975,
     "geom:bbox":"115.661293984,-33.4087764375,115.703141408,-33.3492569425",
     "geom:latitude":-33.374049,
     "geom:longitude":115.685207,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.374892,
     "lbl:longitude":115.682034,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Davenport"
@@ -102,12 +108,15 @@
         102048605
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50211"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937095
     ],
     "wof:country":"AU",
-    "wof:geomhash":"b7998135ed56df19bed7e16323207364",
+    "wof:geomhash":"a69a5f7422c4c2f91095ad0c34321cbc",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -120,7 +129,7 @@
         }
     ],
     "wof:id":404547157,
-    "wof:lastmodified":1566602920,
+    "wof:lastmodified":1695877673,
     "wof:name":"Davenport",
     "wof:parent_id":102048605,
     "wof:placetype":"localadmin",

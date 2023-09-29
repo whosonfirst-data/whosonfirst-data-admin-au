@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020152,
-    "geom:area_square_m":205586187.402762,
+    "geom:area_square_m":205586187.402776,
     "geom:bbox":"138.436518016,-34.4999749985,138.630442368,-34.3448769555",
     "geom:latitude":-34.407096,
     "geom:longitude":138.510784,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.400767,
     "lbl:longitude":138.502996,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mallala"
@@ -44,9 +50,12 @@
         102048587
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40393"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"fd956daf73f18f21f50558110c624cd7",
+    "wof:geomhash":"b55982faeef1ddb9cf2813cf8a7190fd",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404545713,
-    "wof:lastmodified":1566602227,
+    "wof:lastmodified":1695877256,
     "wof:name":"Mallala",
     "wof:parent_id":102048587,
     "wof:placetype":"localadmin",

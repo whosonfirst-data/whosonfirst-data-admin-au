@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000233,
-    "geom:area_square_m":2381669.191014,
+    "geom:area_square_m":2381669.190996,
     "geom:bbox":"150.820595648,-34.0948309925,150.845448032,-34.077032938",
     "geom:latitude":-34.085993,
     "geom:longitude":150.833224,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.085609,
     "lbl:longitude":150.83304,
     "lbl:max_zoom":18.0,
@@ -54,13 +60,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC10016",
         "wd:id":"Q965457"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101929367
     ],
     "wof:country":"AU",
-    "wof:geomhash":"39ba94fb1d5ba0c0598b450473850cc0",
+    "wof:geomhash":"d7cf747cc470fca07831b5e6c13c2f12",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -72,7 +80,7 @@
         }
     ],
     "wof:id":404221461,
-    "wof:lastmodified":1566602003,
+    "wof:lastmodified":1695877902,
     "wof:name":"Airds",
     "wof:parent_id":102048887,
     "wof:placetype":"localadmin",

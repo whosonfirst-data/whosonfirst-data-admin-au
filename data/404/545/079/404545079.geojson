@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002658,
-    "geom:area_square_m":26946717.013702,
+    "geom:area_square_m":26946717.01371,
     "geom:bbox":"138.879606816,-34.934297001,138.972815296,-34.8857280075",
     "geom:latitude":-34.913882,
     "geom:longitude":138.92292,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.914104,
     "lbl:longitude":138.922924,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Charleston"
@@ -161,9 +167,12 @@
         102049017
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40101"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"0bae772ec5d6e5b88befee151735dfb3",
+    "wof:geomhash":"e2f49e198bf6ac3f66cf3d1e4498248d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -175,7 +184,7 @@
         }
     ],
     "wof:id":404545079,
-    "wof:lastmodified":1566602216,
+    "wof:lastmodified":1695877250,
     "wof:name":"Charleston",
     "wof:parent_id":102049017,
     "wof:placetype":"localadmin",

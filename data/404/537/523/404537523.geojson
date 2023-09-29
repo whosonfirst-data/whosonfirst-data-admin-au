@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003778,
-    "geom:area_square_m":37135729.694331,
+    "geom:area_square_m":37135729.694307,
     "geom:bbox":"143.859057888,-37.3979273305,143.942744992,-37.297387989",
     "geom:latitude":-37.35063,
     "geom:longitude":143.897794,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.352939,
     "lbl:longitude":143.890346,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Allendale"
@@ -80,9 +86,12 @@
         102049553
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20013"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"be59e1f760b1b8375db11e075dac528a",
+    "wof:geomhash":"bd182818c656a8ffbf0c482c46e62001",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -94,7 +103,7 @@
         }
     ],
     "wof:id":404537523,
-    "wof:lastmodified":1566602349,
+    "wof:lastmodified":1695877324,
     "wof:name":"Allendale",
     "wof:parent_id":102049553,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00014,
-    "geom:area_square_m":1442024.551238,
+    "geom:area_square_m":1442024.551243,
     "geom:bbox":"151.200537824,-33.8451540305,151.218628192,-33.828580972",
     "geom:latitude":-33.83664,
     "geom:longitude":151.208584,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.836768,
     "lbl:longitude":151.207701,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "North Sydney"
@@ -60,12 +66,15 @@
         102048877
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11764"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931469
     ],
     "wof:country":"AU",
-    "wof:geomhash":"647461ec1afdaeb3ff0aa9d7e54abf52",
+    "wof:geomhash":"e1a54831df788846150dc63f465fd3d8",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -78,7 +87,7 @@
         }
     ],
     "wof:id":404225393,
-    "wof:lastmodified":1566602706,
+    "wof:lastmodified":1695877531,
     "wof:name":"North Sydney",
     "wof:parent_id":102048877,
     "wof:placetype":"localadmin",

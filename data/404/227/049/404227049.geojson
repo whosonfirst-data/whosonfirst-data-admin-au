@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007698,
-    "geom:area_square_m":78345699.713761,
+    "geom:area_square_m":78345699.713661,
     "geom:bbox":"150.442914016,-34.6818924915,150.561823936,-34.5516959665",
     "geom:latitude":-34.609369,
     "geom:longitude":150.504041,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.600356,
     "lbl:longitude":150.488405,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Wildes Meadow"
@@ -39,9 +45,12 @@
         102048539
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12500"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"7fb749fe49453799d728c1f9cbdf18fd",
+    "wof:geomhash":"ffec29096a7ba5c83477d75ec0d9a71d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":404227049,
-    "wof:lastmodified":1566601941,
+    "wof:lastmodified":1695877104,
     "wof:name":"Wildes Meadow",
     "wof:parent_id":102048539,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005098,
-    "geom:area_square_m":49480393.587315,
+    "geom:area_square_m":49480393.587263,
     "geom:bbox":"145.705438816,-38.329229004,145.834924672,-38.255038047",
     "geom:latitude":-38.290729,
     "geom:longitude":145.766964,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.286438,
     "lbl:longitude":145.755225,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Poowong North"
@@ -38,9 +44,12 @@
         102048701
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21099"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"aa2d8c11ff9af5368ae7227499965a5b",
+    "wof:geomhash":"22c185b62636c107336175dc4d502b3c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404539943,
-    "wof:lastmodified":1566602419,
+    "wof:lastmodified":1695877369,
     "wof:name":"Poowong North",
     "wof:parent_id":102048701,
     "wof:placetype":"localadmin",

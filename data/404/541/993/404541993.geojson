@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000418,
-    "geom:area_square_m":4917780.611243,
+    "geom:area_square_m":4917780.611229,
     "geom:bbox":"138.799928512,-17.9594249945,138.852252992,-17.929596353",
     "geom:latitude":-17.941253,
     "geom:longitude":138.827333,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-17.938752,
     "lbl:longitude":138.825149,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Doomadgee"
@@ -38,12 +44,15 @@
         102048621
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30503"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934307
     ],
     "wof:country":"AU",
-    "wof:geomhash":"314a2240d663873adec9dc1174cd80a5",
+    "wof:geomhash":"e43d2778a5fd852bd7e54e8483a6b1dc",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404541993,
-    "wof:lastmodified":1566603075,
+    "wof:lastmodified":1695877757,
     "wof:name":"Doomadgee",
     "wof:parent_id":102048621,
     "wof:placetype":"localadmin",

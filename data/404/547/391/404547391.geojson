@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002145,
-    "geom:area_square_m":22278756.186382,
+    "geom:area_square_m":22278756.18638,
     "geom:bbox":"115.852537984,-32.8848860005,115.928725984,-32.852302006",
     "geom:latitude":-32.867982,
     "geom:longitude":115.887298,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.868448,
     "lbl:longitude":115.882727,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Hamel"
@@ -71,9 +77,12 @@
         102048647
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50315"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"77d2f5d6489f127bd7514a85277731f3",
+    "wof:geomhash":"68ce954d477e8b0be2652e6b8944d0c5",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -85,7 +94,7 @@
         }
     ],
     "wof:id":404547391,
-    "wof:lastmodified":1566602920,
+    "wof:lastmodified":1695877673,
     "wof:name":"Hamel",
     "wof:parent_id":102048647,
     "wof:placetype":"localadmin",

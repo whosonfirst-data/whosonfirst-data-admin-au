@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009851,
-    "geom:area_square_m":91284490.181791,
+    "geom:area_square_m":91284490.181751,
     "geom:bbox":"146.447093408,-41.52100507,146.602072672,-41.3892372845",
     "geom:latitude":-41.458779,
     "geom:longitude":146.515463,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-41.452256,
     "lbl:longitude":146.507788,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0645\u0628\u0631\u0644\u064a"
@@ -122,9 +128,12 @@
         102048535
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60175"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"06bbdc28458167272e7770421d95b4ac",
+    "wof:geomhash":"3c3f0d0d86e4088e53eb9168f787b669",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -136,7 +145,7 @@
         }
     ],
     "wof:id":404549063,
-    "wof:lastmodified":1566602851,
+    "wof:lastmodified":1695877626,
     "wof:name":"Kimberley",
     "wof:parent_id":102048535,
     "wof:placetype":"localadmin",

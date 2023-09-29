@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000138,
-    "geom:area_square_m":1635366.365861,
+    "geom:area_square_m":1635366.365863,
     "geom:bbox":"145.755197632,-16.9323086945,145.772382016,-16.9137580045",
     "geom:latitude":-16.923095,
     "geom:longitude":145.763977,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-16.922507,
     "lbl:longitude":145.763973,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Parramatta Park"
@@ -44,12 +50,15 @@
         102048911
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31304"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935113
     ],
     "wof:country":"AU",
-    "wof:geomhash":"069da22b0deed5e19657e3b9a088b459",
+    "wof:geomhash":"b0b0883b9e7bc6f8d69d5772a502ff24",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":404543695,
-    "wof:lastmodified":1566602111,
+    "wof:lastmodified":1695877197,
     "wof:name":"Parramatta Park",
     "wof:parent_id":102048911,
     "wof:placetype":"localadmin",

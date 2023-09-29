@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000497,
-    "geom:area_square_m":5163764.632591,
+    "geom:area_square_m":5163720.911624,
     "geom:bbox":"151.643944,-32.894769,151.677637,-32.865384",
     "geom:latitude":-32.878882,
     "geom:longitude":151.661428,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.880785,
     "lbl:longitude":151.661697,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Maryland"
@@ -543,12 +549,15 @@
         102048981
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11484"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931169
     ],
     "wof:country":"AU",
-    "wof:geomhash":"22b38d4862e9588bdd08e127743dbc2b",
+    "wof:geomhash":"4ce95d13378331c467ca986b9f28ab98",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -561,7 +570,7 @@
         }
     ],
     "wof:id":404224763,
-    "wof:lastmodified":1636494645,
+    "wof:lastmodified":1695877863,
     "wof:name":"Maryland",
     "wof:parent_id":102048981,
     "wof:placetype":"localadmin",

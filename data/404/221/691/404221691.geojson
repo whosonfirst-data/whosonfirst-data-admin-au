@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005868,
-    "geom:area_square_m":63751551.119893,
+    "geom:area_square_m":63751551.120238,
     "geom:bbox":"153.09154,-28.589168777,153.15911,-28.4418559965",
     "geom:latitude":-28.517498,
     "geom:longitude":153.12432,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.521678,
     "lbl:longitude":153.121566,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Barkers Vale"
@@ -38,9 +44,12 @@
         102048855
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10118"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"d2df22ab816abafd82f9fd493dcc581b",
+    "wof:geomhash":"3d54b45256a05059045056ea7b069ec6",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404221691,
-    "wof:lastmodified":1566602003,
+    "wof:lastmodified":1695877134,
     "wof:name":"Barkers Vale",
     "wof:parent_id":102048855,
     "wof:placetype":"localadmin",

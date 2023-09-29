@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001611,
-    "geom:area_square_m":17621980.179848,
+    "geom:area_square_m":17621980.179815,
     "geom:bbox":"153.227204992,-27.7998976715,153.28560096,-27.7437062525",
     "geom:latitude":-27.774223,
     "geom:longitude":153.253597,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.776271,
     "lbl:longitude":153.253156,
     "lbl:max_zoom":18.0,
@@ -43,13 +49,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC31271",
         "wd:id":"Q7103375"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935059
     ],
     "wof:country":"AU",
-    "wof:geomhash":"c98751a34e6a3989a5352751c5fcd617",
+    "wof:geomhash":"31bcd706c1d3c0b0e0d12346570d704e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -62,7 +70,7 @@
         }
     ],
     "wof:id":404543623,
-    "wof:lastmodified":1566602129,
+    "wof:lastmodified":1695877919,
     "wof:name":"Ormeau",
     "wof:parent_id":102049363,
     "wof:placetype":"localadmin",

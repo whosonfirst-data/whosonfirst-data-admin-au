@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000117,
-    "geom:area_square_m":1198356.517732,
+    "geom:area_square_m":1198356.51773,
     "geom:bbox":"146.09086,-34.2690259935,146.106715008,-34.2508712405",
     "geom:latitude":-34.25924,
     "geom:longitude":146.098198,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.259816,
     "lbl:longitude":146.097658,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Beelbangera"
@@ -38,12 +44,15 @@
         102049013
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10148"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101929517
     ],
     "wof:country":"AU",
-    "wof:geomhash":"979037b0e800c144d3f5bf393dc38fd1",
+    "wof:geomhash":"0df28c2c7dd81bde7befa34d23e6fd23",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404221757,
-    "wof:lastmodified":1566601992,
+    "wof:lastmodified":1695877129,
     "wof:name":"Beelbangera",
     "wof:parent_id":102049013,
     "wof:placetype":"localadmin",

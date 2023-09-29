@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.05161,
-    "geom:area_square_m":540670587.763243,
+    "geom:area_square_m":540670587.764518,
     "geom:bbox":"148.212803872,-32.2567698565,148.456896832,-31.9045049925",
     "geom:latitude":-32.089238,
     "geom:longitude":148.323453,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.084402,
     "lbl:longitude":148.325783,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Burroway"
@@ -38,9 +44,12 @@
         102048743
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10406"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"e8ea2401251fd4abd53d566866869eae",
+    "wof:geomhash":"e37a58365336ecb348dd8a5ce4295284",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404222339,
-    "wof:lastmodified":1566602749,
+    "wof:lastmodified":1695877559,
     "wof:name":"Burroway",
     "wof:parent_id":102048743,
     "wof:placetype":"localadmin",

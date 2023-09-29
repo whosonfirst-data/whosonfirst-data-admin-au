@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001403,
-    "geom:area_square_m":13636061.518325,
+    "geom:area_square_m":13636061.518314,
     "geom:bbox":"146.222263072,-38.197055051,146.276700128,-38.157598547",
     "geom:latitude":-38.177614,
     "geom:longitude":146.251516,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.175413,
     "lbl:longitude":146.253707,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Moe"
@@ -98,12 +104,15 @@
         102049021
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20906"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101933249
     ],
     "wof:country":"AU",
-    "wof:geomhash":"11967ba2900e691bac837c539671e5b4",
+    "wof:geomhash":"3bf8393039df06805a702faaa4d3b8fc",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -115,7 +124,7 @@
         }
     ],
     "wof:id":404539513,
-    "wof:lastmodified":1566602411,
+    "wof:lastmodified":1695877364,
     "wof:name":"Moe",
     "wof:parent_id":102049021,
     "wof:placetype":"localadmin",

@@ -10,6 +10,12 @@
     "geom:latitude":-34.03443,
     "geom:longitude":151.02697,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.033866,
     "lbl:longitude":151.025991,
     "lbl:max_zoom":18.0,
@@ -61,13 +67,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC12575",
         "wd:id":"Q8036922"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932421
     ],
     "wof:country":"AU",
-    "wof:geomhash":"c57c3f8928c21bd0caec900d292f3c0a",
+    "wof:geomhash":"709c0cbf4b382ae149c356484bdb93a9",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -80,7 +88,7 @@
         }
     ],
     "wof:id":404227219,
-    "wof:lastmodified":1566601940,
+    "wof:lastmodified":1695877894,
     "wof:name":"Woronora Heights",
     "wof:parent_id":102049511,
     "wof:placetype":"localadmin",

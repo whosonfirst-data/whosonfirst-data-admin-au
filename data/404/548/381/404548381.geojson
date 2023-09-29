@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.289179,
-    "geom:area_square_m":3135311702.166927,
+    "geom:area_square_m":3135311702.166119,
     "geom:bbox":"115.050779584,-29.0107106095,116.052159008,-28.409792999",
     "geom:latitude":-28.737998,
     "geom:longitude":115.430112,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.732978,
     "lbl:longitude":115.31241,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tardun"
@@ -38,9 +44,12 @@
         102048715
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50759"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"bfab0e55937a2ac5aeb6394334dd0dc4",
+    "wof:geomhash":"d406e5c39da27c7f487720d0e12df3c4",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404548381,
-    "wof:lastmodified":1566603239,
+    "wof:lastmodified":1695877837,
     "wof:name":"Tardun",
     "wof:parent_id":102048715,
     "wof:placetype":"localadmin",

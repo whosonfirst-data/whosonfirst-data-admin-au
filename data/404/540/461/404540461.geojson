@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000407,
-    "geom:area_square_m":3974186.299019,
+    "geom:area_square_m":3974186.299004,
     "geom:bbox":"145.38536208,-37.901294478,145.424989792,-37.8812167795",
     "geom:latitude":-37.89187,
     "geom:longitude":145.402157,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.891948,
     "lbl:longitude":145.400212,
     "lbl:max_zoom":18.0,
@@ -43,10 +49,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC21330",
         "wd:id":"Q7756315"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"bf566e2fa02255a94d0b9f036a182dae",
+    "wof:geomhash":"f2c6146b4ef59819280963eee7c56ba6",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -59,7 +67,7 @@
         }
     ],
     "wof:id":404540461,
-    "wof:lastmodified":1566603031,
+    "wof:lastmodified":1695878028,
     "wof:name":"The Patch",
     "wof:parent_id":102048969,
     "wof:placetype":"localadmin",

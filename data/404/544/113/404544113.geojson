@@ -10,12 +10,18 @@
     "geom:latitude":-27.791706,
     "geom:longitude":152.994446,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.791105,
     "lbl:longitude":152.990179,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "South Maclean"
@@ -39,9 +45,12 @@
         102048665
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31501"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"042fa096c8e13a5d13c178b65a8b668c",
+    "wof:geomhash":"e7cb084f4015591d20b006468c0da2a0",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":404544113,
-    "wof:lastmodified":1566602204,
+    "wof:lastmodified":1695877246,
     "wof:name":"South Maclean",
     "wof:parent_id":102048665,
     "wof:placetype":"localadmin",

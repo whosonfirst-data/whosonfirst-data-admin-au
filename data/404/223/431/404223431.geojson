@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016673,
-    "geom:area_square_m":174643719.599659,
+    "geom:area_square_m":174643719.599614,
     "geom:bbox":"152.106059712,-32.1672896855,152.340199008,-32.0206519885",
     "geom:latitude":-32.101581,
     "geom:longitude":152.203837,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.092295,
     "lbl:longitude":152.205579,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u064a\u0631\u0627\u0639\u0629"
@@ -311,9 +317,12 @@
         102048833
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10892"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"6fb6ee97c1bad0a427d4534804f413fb",
+    "wof:geomhash":"40fd3bbf5220aac7fab626817d38b5ec",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -325,7 +334,7 @@
         }
     ],
     "wof:id":404223431,
-    "wof:lastmodified":1566602517,
+    "wof:lastmodified":1695877423,
     "wof:name":"Firefly",
     "wof:parent_id":102048833,
     "wof:placetype":"localadmin",

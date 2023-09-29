@@ -10,12 +10,18 @@
     "geom:latitude":-36.248928,
     "geom:longitude":147.030765,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.249839,
     "lbl:longitude":147.028416,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tangambalanga"
@@ -34,19 +40,22 @@
     "qs:source":"Australian Bureau Of Statistics",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681497,
         102191583,
         85632793,
-        102049541,
         136253039,
-        85681497
+        102049541
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21303"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101933607
     ],
     "wof:country":"AU",
-    "wof:geomhash":"a12978a7286943935c2a3b9ffbe7f12c",
+    "wof:geomhash":"a01dafcf52066f9b45120243ab5e18b5",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404540401,
-    "wof:lastmodified":1607992288,
+    "wof:lastmodified":1695877843,
     "wof:name":"Tangambalanga",
     "wof:parent_id":102049541,
     "wof:placetype":"localadmin",

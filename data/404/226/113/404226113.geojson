@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000858,
-    "geom:area_square_m":9309511.565848,
+    "geom:area_square_m":9309511.565887,
     "geom:bbox":"153.571763872,-28.690179924,153.604469152,-28.641963004",
     "geom:latitude":-28.668053,
     "geom:longitude":153.588375,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.668264,
     "lbl:longitude":153.585702,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Skinners Shoot"
@@ -38,9 +44,12 @@
         102048747
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12084"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"0a2103220158738f01ff5d5d9beaf419",
+    "wof:geomhash":"222089b1a65f5ee4e46cf0a4633eb9af",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404226113,
-    "wof:lastmodified":1566602087,
+    "wof:lastmodified":1695877185,
     "wof:name":"Skinners Shoot",
     "wof:parent_id":102048747,
     "wof:placetype":"localadmin",

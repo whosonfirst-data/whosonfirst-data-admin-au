@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.716573,
-    "geom:area_square_m":8203582880.810323,
+    "geom:area_square_m":8203582880.813159,
     "geom:bbox":"148.272130048,-22.8787609935,149.448532992,-21.718817006",
     "geom:latitude":-22.201374,
     "geom:longitude":148.951281,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-22.11216,
     "lbl:longitude":149.000248,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Walkure"
@@ -227,9 +233,12 @@
         102049343
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31696"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"b9ae34e68d33ed52c19d39f14a7bb7b8",
+    "wof:geomhash":"64601f0885a679b866e4370c4dde085b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -241,7 +250,7 @@
         }
     ],
     "wof:id":404544525,
-    "wof:lastmodified":1566602202,
+    "wof:lastmodified":1695877245,
     "wof:name":"Valkyrie",
     "wof:parent_id":102049343,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002659,
-    "geom:area_square_m":27700818.434301,
+    "geom:area_square_m":27700764.275647,
     "geom:bbox":"149.533627,-32.635999,149.609084,-32.564388",
     "geom:latitude":-32.600584,
     "geom:longitude":149.572918,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.602195,
     "lbl:longitude":149.572904,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0648\u062f\u062c\u064a"
@@ -104,12 +110,15 @@
         102049261
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11639"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931333
     ],
     "wof:country":"AU",
-    "wof:geomhash":"ed0f63d10493cb6a607194cb78f7e7db",
+    "wof:geomhash":"d9c212b4304d03686b7b35ef66ac748b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -121,7 +130,7 @@
         }
     ],
     "wof:id":404225113,
-    "wof:lastmodified":1636494654,
+    "wof:lastmodified":1695877868,
     "wof:name":"Mudgee",
     "wof:parent_id":102049261,
     "wof:placetype":"localadmin",

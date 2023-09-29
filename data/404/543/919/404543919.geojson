@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000729,
-    "geom:area_square_m":8235659.01802,
+    "geom:area_square_m":8235659.018036,
     "geom:bbox":"151.135532544,-23.998393,151.173663008,-23.9614172535",
     "geom:latitude":-23.981992,
     "geom:longitude":151.158306,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-23.979064,
     "lbl:longitude":151.159597,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "River Ranch"
@@ -38,12 +44,15 @@
         102049463
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31406"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935217
     ],
     "wof:country":"AU",
-    "wof:geomhash":"38ad5533e641ed9c359c7f975241494e",
+    "wof:geomhash":"e4407b9d4e1b74378eb453424120a3a1",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404543919,
-    "wof:lastmodified":1566602143,
+    "wof:lastmodified":1695877214,
     "wof:name":"River Ranch",
     "wof:parent_id":102049463,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023465,
-    "geom:area_square_m":244147825.201133,
+    "geom:area_square_m":244147825.201198,
     "geom:bbox":"115.666247328,-32.8016873935,115.8982328,-32.6143089965",
     "geom:latitude":-32.706496,
     "geom:longitude":115.779706,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.704627,
     "lbl:longitude":115.771802,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "West Pinjarra"
@@ -39,9 +45,12 @@
         102049595
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50831"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"f2bafc3b60eb71b701d4c6cc36897354",
+    "wof:geomhash":"74ee7fb9bf6c549800ef171bb743d07f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":404548543,
-    "wof:lastmodified":1566603191,
+    "wof:lastmodified":1695877812,
     "wof:name":"West Pinjarra",
     "wof:parent_id":102049595,
     "wof:placetype":"localadmin",

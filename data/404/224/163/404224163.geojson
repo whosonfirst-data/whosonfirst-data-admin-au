@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002458,
-    "geom:area_square_m":26650898.145838,
+    "geom:area_square_m":26650898.145912,
     "geom:bbox":"153.215852992,-28.7601940065,153.289304032,-28.684078994",
     "geom:latitude":-28.72216,
     "geom:longitude":153.257175,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.719717,
     "lbl:longitude":153.265783,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Keerrong"
@@ -38,9 +44,12 @@
         102049635
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11217"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"638cf647b0274e46fb98f7b815b656c4",
+    "wof:geomhash":"3110f3164cef80cec93f5674bc8c4936",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404224163,
-    "wof:lastmodified":1566602615,
+    "wof:lastmodified":1695877483,
     "wof:name":"Keerrong",
     "wof:parent_id":102049635,
     "wof:placetype":"localadmin",

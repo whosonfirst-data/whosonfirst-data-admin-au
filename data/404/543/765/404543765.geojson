@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000679,
-    "geom:area_square_m":7439301.989184,
+    "geom:area_square_m":7439301.989193,
     "geom:bbox":"152.212092512,-27.573600991,152.257683968,-27.549473994",
     "geom:latitude":-27.561276,
     "geom:longitude":152.232501,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.560756,
     "lbl:longitude":152.227981,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Placid Hills"
@@ -38,9 +44,12 @@
         102049033
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31335"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"b2c7222d13ea89841679f9dce0480a39",
+    "wof:geomhash":"272a04f3ff3989f9451d1879c0df85bc",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404543765,
-    "wof:lastmodified":1566602095,
+    "wof:lastmodified":1695877189,
     "wof:name":"Placid Hills",
     "wof:parent_id":102049033,
     "wof:placetype":"localadmin",

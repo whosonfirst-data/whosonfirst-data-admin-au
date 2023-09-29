@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002313,
-    "geom:area_square_m":22620837.476851,
+    "geom:area_square_m":22620837.47682,
     "geom:bbox":"147.764783616,-37.7653432875,147.841544992,-37.690650999",
     "geom:latitude":-37.726526,
     "geom:longitude":147.805246,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.72394,
     "lbl:longitude":147.805822,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mossiface"
@@ -38,9 +44,12 @@
         102049039
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20930"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"648c7c1238a3dd0631eb300679a99ff7",
+    "wof:geomhash":"cdca7c83394ce9bc1dff5cce611990b1",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404539567,
-    "wof:lastmodified":1566602352,
+    "wof:lastmodified":1695877326,
     "wof:name":"Mossiface",
     "wof:parent_id":102049039,
     "wof:placetype":"localadmin",

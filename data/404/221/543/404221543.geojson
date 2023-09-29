@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025811,
-    "geom:area_square_m":274985592.392608,
+    "geom:area_square_m":274985592.392985,
     "geom:bbox":"151.559119616,-30.586687999,151.775604992,-30.4172099985",
     "geom:latitude":-30.503148,
     "geom:longitude":151.667766,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-30.509754,
     "lbl:longitude":151.66578,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Armidale"
@@ -38,9 +44,12 @@
         102048707
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10053"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"7625778170931c020c512cb579510113",
+    "wof:geomhash":"a6472a62bb4f4120f54188a234b36506",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404221543,
-    "wof:lastmodified":1566601983,
+    "wof:lastmodified":1695877125,
     "wof:name":"Armidale",
     "wof:parent_id":102048707,
     "wof:placetype":"localadmin",

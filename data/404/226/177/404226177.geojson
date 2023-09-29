@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000847,
-    "geom:area_square_m":8585986.107769,
+    "geom:area_square_m":8585986.10778,
     "geom:bbox":"150.573235008,-34.924763618,150.620034016,-34.8936959945",
     "geom:latitude":-34.908258,
     "geom:longitude":150.598541,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.90602,
     "lbl:longitude":150.595005,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "South Nowra"
@@ -38,12 +44,15 @@
         102049405
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12112"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931899
     ],
     "wof:country":"AU",
-    "wof:geomhash":"5d35af8b357351f23a7baf47ee493e82",
+    "wof:geomhash":"9f024f54c1e18c195b686a1b30db598e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404226177,
-    "wof:lastmodified":1566602084,
+    "wof:lastmodified":1695877183,
     "wof:name":"South Nowra",
     "wof:parent_id":102049405,
     "wof:placetype":"localadmin",

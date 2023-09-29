@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000079,
-    "geom:area_square_m":821993.987088,
+    "geom:area_square_m":821993.98709,
     "geom:bbox":"151.644449024,-32.966948541,151.655355008,-32.9569170455",
     "geom:latitude":-32.961855,
     "geom:longitude":151.649722,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.961858,
     "lbl:longitude":151.649617,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lakelands"
@@ -42,12 +48,15 @@
         102048999
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11321"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101930981
     ],
     "wof:country":"AU",
-    "wof:geomhash":"ed2f5b6e195b06e2206e8bf45fedb286",
+    "wof:geomhash":"5ef3915fb09a904ce42c066143bed315",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -60,7 +69,7 @@
         }
     ],
     "wof:id":404224397,
-    "wof:lastmodified":1566602579,
+    "wof:lastmodified":1695877464,
     "wof:name":"Lakelands",
     "wof:parent_id":102048999,
     "wof:placetype":"localadmin",

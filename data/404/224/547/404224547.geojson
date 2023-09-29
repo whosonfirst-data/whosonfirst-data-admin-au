@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007974,
-    "geom:area_square_m":82242067.433968,
+    "geom:area_square_m":82242067.433863,
     "geom:bbox":"151.197560992,-33.5706390055,151.292187008,-33.375486002",
     "geom:latitude":-33.473875,
     "geom:longitude":151.245269,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.464316,
     "lbl:longitude":151.25653,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Little Wobby"
@@ -38,9 +44,12 @@
         102048513
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11388"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"6298b76602663a59f3912d96befeb5f3",
+    "wof:geomhash":"a31d7badddd9f7eb73af58a2717004bd",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404224547,
-    "wof:lastmodified":1566602646,
+    "wof:lastmodified":1695877499,
     "wof:name":"Little Wobby",
     "wof:parent_id":102048513,
     "wof:placetype":"localadmin",

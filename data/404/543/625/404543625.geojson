@@ -10,12 +10,18 @@
     "geom:latitude":-27.794637,
     "geom:longitude":153.251097,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.794761,
     "lbl:longitude":153.251098,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ormeau Hills"
@@ -39,12 +45,15 @@
         102049363
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31272"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935061
     ],
     "wof:country":"AU",
-    "wof:geomhash":"c8cbad8441f316a779bbd867fd9f3669",
+    "wof:geomhash":"1b06ce4b0638b8d372f3af39b3eecea8",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404543625,
-    "wof:lastmodified":1566602127,
+    "wof:lastmodified":1695877206,
     "wof:name":"Ormeau Hills",
     "wof:parent_id":102049363,
     "wof:placetype":"localadmin",

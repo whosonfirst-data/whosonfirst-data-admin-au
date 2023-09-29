@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000718,
-    "geom:area_square_m":7035218.280319,
+    "geom:area_square_m":7035218.280306,
     "geom:bbox":"145.170480992,-37.6204449975,145.199823008,-37.5817320085",
     "geom:latitude":-37.602125,
     "geom:longitude":145.185502,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.604174,
     "lbl:longitude":145.184321,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Nutfield"
@@ -44,9 +50,12 @@
         102048735
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21042"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"ad968b2c6058450ea1b9727977e50359",
+    "wof:geomhash":"787d4c7c1b9567b1d8215d1d43f9c755",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404539815,
-    "wof:lastmodified":1566602396,
+    "wof:lastmodified":1695877354,
     "wof:name":"Nutfield",
     "wof:parent_id":102048735,
     "wof:placetype":"localadmin",

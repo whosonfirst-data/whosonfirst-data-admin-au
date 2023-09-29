@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.065443,
-    "geom:area_square_m":660551722.947743,
+    "geom:area_square_m":660551722.947685,
     "geom:bbox":"139.066436576,-35.4717035195,139.402435008,-35.1109900755",
     "geom:latitude":-35.28466,
     "geom:longitude":139.225437,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.284984,
     "lbl:longitude":139.242049,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Monarto South"
@@ -39,9 +45,12 @@
         102048515
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40444"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"a4253c08124728fc807a204b074700a4",
+    "wof:geomhash":"fc1398d1d4b236a7b85aa183956f8e45",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":404545827,
-    "wof:lastmodified":1566602214,
+    "wof:lastmodified":1695877250,
     "wof:name":"Monarto South",
     "wof:parent_id":102048515,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.06946,
-    "geom:area_square_m":708355809.023663,
+    "geom:area_square_m":708355809.023111,
     "geom:bbox":"147.455444992,-34.630697053,147.84434064,-34.2025060985",
     "geom:latitude":-34.437715,
     "geom:longitude":147.680841,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.419886,
     "lbl:longitude":147.71322,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Sebastopol"
@@ -41,9 +47,12 @@
         102048529
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12059"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"54e0e3efab435058bac2c4279fad31b7",
+    "wof:geomhash":"d9d6a01e4708bb1137c03f66166dc747",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404226057,
-    "wof:lastmodified":1566602076,
+    "wof:lastmodified":1695877178,
     "wof:name":"Sebastopol",
     "wof:parent_id":102048529,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023521,
-    "geom:area_square_m":234290652.511335,
+    "geom:area_square_m":234290652.511333,
     "geom:bbox":"144.831759616,-36.398794001,145.131987008,-36.2693376055",
     "geom:latitude":-36.335187,
     "geom:longitude":144.97539,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.343549,
     "lbl:longitude":145.017547,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kyabram"
@@ -56,9 +62,12 @@
         102049529
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20744"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"22d8415ef2b99491e9ee213b712f8b1f",
+    "wof:geomhash":"b0e17906c66ab7dc68fb87f23abb285e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -70,7 +79,7 @@
         }
     ],
     "wof:id":404539149,
-    "wof:lastmodified":1566602420,
+    "wof:lastmodified":1695877369,
     "wof:name":"Kyabram",
     "wof:parent_id":102049529,
     "wof:placetype":"localadmin",

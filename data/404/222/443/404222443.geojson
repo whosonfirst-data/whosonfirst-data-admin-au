@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00998,
-    "geom:area_square_m":103055272.011827,
+    "geom:area_square_m":103055272.012109,
     "geom:bbox":"148.894424992,-33.4500820165,149.08287296,-33.2900549445",
     "geom:latitude":-33.375189,
     "geom:longitude":148.987152,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.360714,
     "lbl:longitude":148.985758,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Canobolas"
@@ -38,9 +44,12 @@
         102048769
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10453"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"97bd5c07e98eb5491d6aeef4730af808",
+    "wof:geomhash":"017164a7922683f1b9f660e9a76878de",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404222443,
-    "wof:lastmodified":1566602793,
+    "wof:lastmodified":1695877588,
     "wof:name":"Canobolas",
     "wof:parent_id":102048769,
     "wof:placetype":"localadmin",

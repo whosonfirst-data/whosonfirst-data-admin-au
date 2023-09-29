@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00032,
-    "geom:area_square_m":3788423.048518,
+    "geom:area_square_m":3788423.048506,
     "geom:bbox":"145.652810304,-16.76122926,145.695539168,-16.7223939305",
     "geom:latitude":-16.747151,
     "geom:longitude":145.665885,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-16.749387,
     "lbl:longitude":145.664068,
     "lbl:max_zoom":18.0,
@@ -60,13 +66,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC31289",
         "wd:id":"Q7128027"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935091
     ],
     "wof:country":"AU",
-    "wof:geomhash":"944581810076890d894963635e2927e2",
+    "wof:geomhash":"811527821d84256eb41afd093f93785b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -78,7 +86,7 @@
         }
     ],
     "wof:id":404543661,
-    "wof:lastmodified":1566602111,
+    "wof:lastmodified":1695877916,
     "wof:name":"Palm Cove",
     "wof:parent_id":102048911,
     "wof:placetype":"localadmin",

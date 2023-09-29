@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.247758,
-    "geom:area_square_m":2502986440.340074,
+    "geom:area_square_m":2502986440.340133,
     "geom:bbox":"145.505372608,-35.510650996,146.064971328,-34.8574077635",
     "geom:latitude":-35.212565,
     "geom:longitude":145.769752,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.220302,
     "lbl:longitude":145.764427,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Jerilderie"
@@ -53,9 +59,12 @@
         102049257
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11175"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"1c56b0b59e2830e42aa84c424dd4fa33",
+    "wof:geomhash":"ad952302e55196dbee99f38e3a732591",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -67,7 +76,7 @@
         }
     ],
     "wof:id":404224069,
-    "wof:lastmodified":1566602642,
+    "wof:lastmodified":1695877497,
     "wof:name":"Jerilderie",
     "wof:parent_id":102049257,
     "wof:placetype":"localadmin",

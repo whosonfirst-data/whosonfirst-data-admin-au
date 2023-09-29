@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002269,
-    "geom:area_square_m":22219294.108504,
+    "geom:area_square_m":22219294.108545,
     "geom:bbox":"143.94613008,-37.673928997,144.016566752,-37.615986997",
     "geom:latitude":-37.640983,
     "geom:longitude":143.97928,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.639845,
     "lbl:longitude":143.978753,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Yendon"
@@ -38,9 +44,12 @@
         102049283
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21540"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"0e754eea2c398346d3a14875aeadce83",
+    "wof:geomhash":"32ed5ac5548fecb9de48749360204251",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404540929,
-    "wof:lastmodified":1566603035,
+    "wof:lastmodified":1695877739,
     "wof:name":"Yendon",
     "wof:parent_id":102049283,
     "wof:placetype":"localadmin",

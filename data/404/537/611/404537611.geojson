@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.047944,
-    "geom:area_square_m":474856865.575431,
+    "geom:area_square_m":474856865.575315,
     "geom:bbox":"144.784766528,-36.8924982285,145.177795072,-36.6506727405",
     "geom:latitude":-36.774588,
     "geom:longitude":144.980793,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.767341,
     "lbl:longitude":144.997076,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bailieston"
@@ -38,9 +44,12 @@
         102048611
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20052"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"0ae79f315902512c3796d84f1f954526",
+    "wof:geomhash":"0547229bca689f8aefe0c6efbb2efca0",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404537611,
-    "wof:lastmodified":1566602327,
+    "wof:lastmodified":1695877310,
     "wof:name":"Bailieston",
     "wof:parent_id":102048611,
     "wof:placetype":"localadmin",

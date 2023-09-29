@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000103,
-    "geom:area_square_m":1063628.319278,
+    "geom:area_square_m":1063628.31928,
     "geom:bbox":"150.808696864,-33.7433979625,150.821948448,-33.7333383285",
     "geom:latitude":-33.738282,
     "geom:longitude":150.8154,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.738459,
     "lbl:longitude":150.8154,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Blackett"
@@ -42,12 +48,15 @@
         102048555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10236"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101929593
     ],
     "wof:country":"AU",
-    "wof:geomhash":"9eccd732871db4fbf81bedd42ccabce4",
+    "wof:geomhash":"f77ad8865ef0de601fd1ea08ec3f7b97",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -60,7 +69,7 @@
         }
     ],
     "wof:id":404221955,
-    "wof:lastmodified":1566601971,
+    "wof:lastmodified":1695877119,
     "wof:name":"Blackett",
     "wof:parent_id":102048555,
     "wof:placetype":"localadmin",

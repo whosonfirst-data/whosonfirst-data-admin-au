@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002879,
-    "geom:area_square_m":28678968.919872,
+    "geom:area_square_m":28678968.919837,
     "geom:bbox":"145.35296304,-36.347644202,145.415803712,-36.2953148615",
     "geom:latitude":-36.323264,
     "geom:longitude":145.386029,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.323332,
     "lbl:longitude":145.386023,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Shepparton North"
@@ -39,9 +45,12 @@
         102049473
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21213"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"d9b6a0191bde43e7983b9ab83bf8096f",
+    "wof:geomhash":"11abd16804940b408399869216bf08d4",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":404540197,
-    "wof:lastmodified":1566603016,
+    "wof:lastmodified":1695877728,
     "wof:name":"Shepparton North",
     "wof:parent_id":102049473,
     "wof:placetype":"localadmin",

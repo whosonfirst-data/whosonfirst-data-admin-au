@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004986,
-    "geom:area_square_m":49081002.903851,
+    "geom:area_square_m":49081002.903708,
     "geom:bbox":"145.113879008,-37.294120001,145.195549568,-37.186414",
     "geom:latitude":-37.246125,
     "geom:longitude":145.149478,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.244976,
     "lbl:longitude":145.148858,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Reedy Creek"
@@ -53,9 +59,12 @@
         102048437
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21136"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"fb0108d18c80ea366cba10a212b63676",
+    "wof:geomhash":"b86bf70b2ff867927f077921d1c18b58",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -67,7 +76,7 @@
         }
     ],
     "wof:id":404540025,
-    "wof:lastmodified":1566602994,
+    "wof:lastmodified":1695877715,
     "wof:name":"Reedy Creek",
     "wof:parent_id":102048437,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00357,
-    "geom:area_square_m":37528396.046125,
+    "geom:area_square_m":37528396.046122,
     "geom:bbox":"152.596075744,-31.826518002,152.685231136,-31.734311042",
     "geom:latitude":-31.777133,
     "geom:longitude":152.648822,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.76883,
     "lbl:longitude":152.64949,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0412\u0435\u0440\u0430\u0441\u043e\u0432\u0430\u044f \u043f\u0443\u0441\u0442\u043a\u0430"
@@ -95,9 +101,12 @@
         102048833
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11591"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"9071eefbfba1a41f558abcf10e3125c1",
+    "wof:geomhash":"ed36e1441c52f37b01cb767e0c4cc904",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -109,7 +118,7 @@
         }
     ],
     "wof:id":404225005,
-    "wof:lastmodified":1566602728,
+    "wof:lastmodified":1695877547,
     "wof:name":"Moorland",
     "wof:parent_id":102048833,
     "wof:placetype":"localadmin",

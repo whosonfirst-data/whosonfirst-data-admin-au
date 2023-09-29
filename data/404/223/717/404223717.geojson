@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000933,
-    "geom:area_square_m":9574791.834396,
+    "geom:area_square_m":9574791.834389,
     "geom:bbox":"151.036514368,-33.9177548755,151.07729184,-33.8828902195",
     "geom:latitude":-33.900342,
     "geom:longitude":151.055627,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.9007,
     "lbl:longitude":151.055243,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Greenacre"
@@ -39,12 +45,15 @@
         102049447
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11019"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101930519
     ],
     "wof:country":"AU",
-    "wof:geomhash":"d014d1e0e63828ac1af26d77766dfc86",
+    "wof:geomhash":"3ecbfe1d5323a33c011a9e62775c3387",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404223717,
-    "wof:lastmodified":1566602563,
+    "wof:lastmodified":1695877454,
     "wof:name":"Greenacre",
     "wof:parent_id":102049447,
     "wof:placetype":"localadmin",

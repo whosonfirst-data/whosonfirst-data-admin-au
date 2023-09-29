@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017046,
-    "geom:area_square_m":166475776.748503,
+    "geom:area_square_m":166475776.748623,
     "geom:bbox":"143.684225888,-37.89193,143.93800224,-37.7812360085",
     "geom:latitude":-37.832007,
     "geom:longitude":143.830394,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.834782,
     "lbl:longitude":143.853261,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Dereel"
@@ -38,9 +44,12 @@
         102049027
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20385"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"4b95b75beb6901c2a57cd56da56395c1",
+    "wof:geomhash":"558f947d1b0cd2e1ed36416de2765044",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404538351,
-    "wof:lastmodified":1566602460,
+    "wof:lastmodified":1695877390,
     "wof:name":"Dereel",
     "wof:parent_id":102049027,
     "wof:placetype":"localadmin",

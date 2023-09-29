@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000093,
-    "geom:area_square_m":935260.881373,
+    "geom:area_square_m":935260.881372,
     "geom:bbox":"150.50535296,-35.261344108,150.527454016,-35.253800289",
     "geom:latitude":-35.257294,
     "geom:longitude":150.516501,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.258065,
     "lbl:longitude":150.5165,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Manyana"
@@ -41,12 +47,15 @@
         102049405
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11462"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931145
     ],
     "wof:country":"AU",
-    "wof:geomhash":"0e14435a3a2f9da828f7b7bcf49855e5",
+    "wof:geomhash":"ebab0102db81527e2411435cb47d6f17",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404224715,
-    "wof:lastmodified":1566602605,
+    "wof:lastmodified":1695877479,
     "wof:name":"Manyana",
     "wof:parent_id":102049405,
     "wof:placetype":"localadmin",

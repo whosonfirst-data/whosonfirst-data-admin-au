@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0083,
-    "geom:area_square_m":80726741.627753,
+    "geom:area_square_m":80726741.627778,
     "geom:bbox":"146.30672016,-38.176051002,146.448825152,-38.081780182",
     "geom:latitude":-38.132716,
     "geom:longitude":146.37241,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.134757,
     "lbl:longitude":146.378186,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Yallourn North"
@@ -38,9 +44,12 @@
         102049021
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21520"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"098f569ddb39cdcec1b6f00f8969d04c",
+    "wof:geomhash":"c1d16d5b3e87590b4905e5e9a9f4a6b5",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404540885,
-    "wof:lastmodified":1566603023,
+    "wof:lastmodified":1695877732,
     "wof:name":"Yallourn North",
     "wof:parent_id":102049021,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000097,
-    "geom:area_square_m":1051151.870313,
+    "geom:area_square_m":1051151.87031,
     "geom:bbox":"149.79826224,-29.3217206955,149.813403136,-29.3085380765",
     "geom:latitude":-29.315019,
     "geom:longitude":149.805838,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-29.315837,
     "lbl:longitude":149.80647,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Ashley"
@@ -107,12 +113,15 @@
         102049009
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10065"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101929421
     ],
     "wof:country":"AU",
-    "wof:geomhash":"df9a02bd48304c2d06baa8a50a2b8cf4",
+    "wof:geomhash":"5dc7388a33e1e0ac526614b707f01577",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -124,7 +133,7 @@
         }
     ],
     "wof:id":404221571,
-    "wof:lastmodified":1566602005,
+    "wof:lastmodified":1695877134,
     "wof:name":"Ashley",
     "wof:parent_id":102049009,
     "wof:placetype":"localadmin",

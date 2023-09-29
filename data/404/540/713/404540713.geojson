@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000717,
-    "geom:area_square_m":7013080.301456,
+    "geom:area_square_m":7013080.301449,
     "geom:bbox":"145.175393536,-37.69027667,145.210992,-37.6510789995",
     "geom:latitude":-37.669939,
     "geom:longitude":145.191608,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.667337,
     "lbl:longitude":145.190126,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Wattle Glen"
@@ -38,12 +44,15 @@
         102048735
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21443"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101933709
     ],
     "wof:country":"AU",
-    "wof:geomhash":"15784584538f9ee8b6f57f060800c41e",
+    "wof:geomhash":"ce0fe5ae4da194738dc0076dae59b173",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404540713,
-    "wof:lastmodified":1566603005,
+    "wof:lastmodified":1695877721,
     "wof:name":"Wattle Glen",
     "wof:parent_id":102048735,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000591,
-    "geom:area_square_m":6492938.771871,
+    "geom:area_square_m":6492938.77186,
     "geom:bbox":"152.997905824,-27.2912210055,153.020453056,-27.246934984",
     "geom:latitude":-27.267332,
     "geom:longitude":153.010529,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.265755,
     "lbl:longitude":153.009185,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Murrumba Downs"
@@ -39,12 +45,15 @@
         102049131
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31195"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934967
     ],
     "wof:country":"AU",
-    "wof:geomhash":"8630147fbfc2de101209988bd20af84e",
+    "wof:geomhash":"44a53b844e3a53566112b4fc78019111",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404543465,
-    "wof:lastmodified":1566602112,
+    "wof:lastmodified":1695877198,
     "wof:name":"Murrumba Downs",
     "wof:parent_id":102049131,
     "wof:placetype":"localadmin",

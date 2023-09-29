@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011281,
-    "geom:area_square_m":114312666.151372,
+    "geom:area_square_m":114312666.151312,
     "geom:bbox":"150.598542016,-35.021999618,150.792864064,-34.9207090285",
     "geom:latitude":-34.968176,
     "geom:longitude":150.688141,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.970489,
     "lbl:longitude":150.688149,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0645\u0628\u0631\u062a\u0648\u0646"
@@ -68,9 +74,12 @@
         102049405
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10568"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"89b89815ab400f8c36484965ba25ae1b",
+    "wof:geomhash":"89c05dac3d23115543ff429716f3d01a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -82,7 +91,7 @@
         }
     ],
     "wof:id":404222703,
-    "wof:lastmodified":1566602787,
+    "wof:lastmodified":1695877584,
     "wof:name":"Comberton",
     "wof:parent_id":102049405,
     "wof:placetype":"localadmin",

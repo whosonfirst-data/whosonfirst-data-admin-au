@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000764,
-    "geom:area_square_m":8225927.054339,
+    "geom:area_square_m":8225927.054317,
     "geom:bbox":"153.314514016,-29.4361110055,153.371810752,-29.386375994",
     "geom:latitude":-29.414375,
     "geom:longitude":153.341003,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-29.409548,
     "lbl:longitude":153.338184,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Freeburn Island"
@@ -38,12 +44,15 @@
         102048835
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10915"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101930343
     ],
     "wof:country":"AU",
-    "wof:geomhash":"e9ef86c3e36925aa072ed352dea9018b",
+    "wof:geomhash":"5e574e4f980a2ce24af8200befa7b0f0",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404223483,
-    "wof:lastmodified":1566602506,
+    "wof:lastmodified":1695877417,
     "wof:name":"Freeburn Island",
     "wof:parent_id":102048835,
     "wof:placetype":"localadmin",

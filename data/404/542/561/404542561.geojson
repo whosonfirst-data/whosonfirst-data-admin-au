@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.093982,
-    "geom:area_square_m":1121607717.054007,
+    "geom:area_square_m":1121607717.054188,
     "geom:bbox":"145.028207,-15.441473,145.356756,-14.830294",
     "geom:latitude":-15.169278,
     "geom:longitude":145.191228,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-15.249938,
     "lbl:longitude":145.166382,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Hope Vale"
@@ -31,19 +37,22 @@
     "qs:source":"Australian Bureau Of Statistics",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681463,
         102191583,
         85632793,
-        102049391,
         136253039,
-        85681463
+        102049391
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30772"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         102049391
     ],
     "wof:country":"AU",
-    "wof:geomhash":"9663f9346564b82320afa4a75b7db987",
+    "wof:geomhash":"085eaafbe07a555dfaacd14995387096",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404542561,
-    "wof:lastmodified":1607995563,
+    "wof:lastmodified":1695877844,
     "wof:name":"Hope Vale",
     "wof:parent_id":102049391,
     "wof:placetype":"localadmin",

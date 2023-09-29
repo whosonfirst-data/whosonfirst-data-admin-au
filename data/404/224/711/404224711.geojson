@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000286,
-    "geom:area_square_m":3002584.702355,
+    "geom:area_square_m":3002584.702356,
     "geom:bbox":"152.652551008,-31.905827909,152.696441408,-31.8745719925",
     "geom:latitude":-31.889679,
     "geom:longitude":152.670428,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.89584,
     "lbl:longitude":152.66094,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Manning Point"
@@ -38,12 +44,15 @@
         102048833
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11461"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         1175610499
     ],
     "wof:country":"AU",
-    "wof:geomhash":"23844a3e574122be838483fb8cb3e8f5",
+    "wof:geomhash":"649c20e95999ca2a8bb275d428149c5e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404224711,
-    "wof:lastmodified":1566602655,
+    "wof:lastmodified":1695877504,
     "wof:name":"Manning Point",
     "wof:parent_id":102048833,
     "wof:placetype":"localadmin",

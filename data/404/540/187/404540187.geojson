@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009852,
-    "geom:area_square_m":96173512.797406,
+    "geom:area_square_m":96173512.797291,
     "geom:bbox":"144.119888,-37.9307590025,144.24846048,-37.801417233",
     "geom:latitude":-37.867356,
     "geom:longitude":144.181963,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.866731,
     "lbl:longitude":144.189599,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "She Oaks"
@@ -38,9 +44,12 @@
         102049027
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21208"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"c4703d866362a341fbe68c62b5b20a0b",
+    "wof:geomhash":"737e14730ed9c337beb84d95cbea6e9d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404540187,
-    "wof:lastmodified":1566603004,
+    "wof:lastmodified":1695877720,
     "wof:name":"She Oaks",
     "wof:parent_id":102049027,
     "wof:placetype":"localadmin",

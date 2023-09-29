@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000207,
-    "geom:area_square_m":2120910.401208,
+    "geom:area_square_m":2120910.401212,
     "geom:bbox":"138.144118304,-34.1915020025,138.167113312,-34.1742871975",
     "geom:latitude":-34.183344,
     "geom:longitude":138.155342,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.183785,
     "lbl:longitude":138.153601,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Port Wakefield"
@@ -41,12 +47,15 @@
         102049309
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40603"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101936505
     ],
     "wof:country":"AU",
-    "wof:geomhash":"874a98a65e7b903bc48f191ee5185cd8",
+    "wof:geomhash":"9f9a9a8efdb0c8c468043cfdc3c1f15a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404546169,
-    "wof:lastmodified":1566603107,
+    "wof:lastmodified":1695877772,
     "wof:name":"Port Wakefield",
     "wof:parent_id":102049309,
     "wof:placetype":"localadmin",

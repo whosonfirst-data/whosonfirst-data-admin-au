@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01893,
-    "geom:area_square_m":191661580.584797,
+    "geom:area_square_m":191661580.584746,
     "geom:bbox":"139.167791008,-35.1037849915,139.367070016,-34.980831605",
     "geom:latitude":-35.036013,
     "geom:longitude":139.256838,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.038715,
     "lbl:longitude":139.254956,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mypolonga"
@@ -39,9 +45,12 @@
         102048515
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40476"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"895150c56bb69a2ee17f3d43331fa00c",
+    "wof:geomhash":"59036b3d9bf0b845a813a4823f88f5a5",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":404545899,
-    "wof:lastmodified":1566602249,
+    "wof:lastmodified":1695877265,
     "wof:name":"Mypolonga",
     "wof:parent_id":102048515,
     "wof:placetype":"localadmin",

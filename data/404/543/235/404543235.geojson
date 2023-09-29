@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.097562,
-    "geom:area_square_m":1096611155.002973,
+    "geom:area_square_m":1096611155.002501,
     "geom:bbox":"150.818772992,-24.880961992,151.237355616,-24.3920918885",
     "geom:latitude":-24.630576,
     "geom:longitude":151.059191,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-24.622814,
     "lbl:longitude":151.097015,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Moonford"
@@ -38,9 +44,12 @@
         102049053
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31091"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"faa90d2413a53745408ea481202e5e8d",
+    "wof:geomhash":"8856a3f0fd10f7360c65af1d7d44ab0d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404543235,
-    "wof:lastmodified":1566602107,
+    "wof:lastmodified":1695877195,
     "wof:name":"Moonford",
     "wof:parent_id":102049053,
     "wof:placetype":"localadmin",

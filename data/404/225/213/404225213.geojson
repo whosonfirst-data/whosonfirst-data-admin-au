@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000123,
-    "geom:area_square_m":1261505.373226,
+    "geom:area_square_m":1261505.373227,
     "geom:bbox":"151.192590016,-33.822247867,151.210383136,-33.8123679975",
     "geom:latitude":-33.816982,
     "geom:longitude":151.200785,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.817501,
     "lbl:longitude":151.199178,
     "lbl:max_zoom":18.0,
@@ -49,13 +55,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC11684",
         "wd:id":"Q6965767"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931367
     ],
     "wof:country":"AU",
-    "wof:geomhash":"5c17b8913fc3300dcf389c1ee12c1493",
+    "wof:geomhash":"bca259898975734291546f526ddf5977",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -68,7 +76,7 @@
         }
     ],
     "wof:id":404225213,
-    "wof:lastmodified":1566602721,
+    "wof:lastmodified":1695877993,
     "wof:name":"Naremburn",
     "wof:parent_id":102049093,
     "wof:placetype":"localadmin",

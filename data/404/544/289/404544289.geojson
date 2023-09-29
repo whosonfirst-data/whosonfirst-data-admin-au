@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000241,
-    "geom:area_square_m":2744580.826228,
+    "geom:area_square_m":2744580.826232,
     "geom:bbox":"150.74281936,-23.159474018,150.763296384,-23.1386780015",
     "geom:latitude":-23.150355,
     "geom:longitude":150.752642,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-23.149626,
     "lbl:longitude":150.752793,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Taranganba"
@@ -38,12 +44,15 @@
         102048825
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31584"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935425
     ],
     "wof:country":"AU",
-    "wof:geomhash":"35c83e95203710e08ea13b52e9eaf30e",
+    "wof:geomhash":"06dd6f88a1eb703138dcc1cde8c8624e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404544289,
-    "wof:lastmodified":1566602157,
+    "wof:lastmodified":1695877220,
     "wof:name":"Taranganba",
     "wof:parent_id":102048825,
     "wof:placetype":"localadmin",

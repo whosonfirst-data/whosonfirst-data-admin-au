@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00035,
-    "geom:area_square_m":3669459.425777,
+    "geom:area_square_m":3669459.425782,
     "geom:bbox":"115.903638368,-32.0572344805,115.931591008,-32.0382733495",
     "geom:latitude":-32.04785,
     "geom:longitude":115.915074,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.046548,
     "lbl:longitude":115.912551,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Parkwood"
@@ -63,12 +69,15 @@
         102049055
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50627"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937657
     ],
     "wof:country":"AU",
-    "wof:geomhash":"eab25024ed30716627ff4a92c2d0fff4",
+    "wof:geomhash":"6f6c48a481d94b533751852fa27a2f54",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -81,7 +90,7 @@
         }
     ],
     "wof:id":404548091,
-    "wof:lastmodified":1566603176,
+    "wof:lastmodified":1695877802,
     "wof:name":"Parkwood",
     "wof:parent_id":102049055,
     "wof:placetype":"localadmin",

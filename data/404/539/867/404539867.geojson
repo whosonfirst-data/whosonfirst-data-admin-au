@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003284,
-    "geom:area_square_m":32000154.485977,
+    "geom:area_square_m":32000154.48594,
     "geom:bbox":"145.459044,-38.0422139915,145.54959856,-37.9758329945",
     "geom:latitude":-38.007809,
     "geom:longitude":145.507641,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.011995,
     "lbl:longitude":145.50834,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Pakenham Upper"
@@ -38,9 +44,12 @@
         102048791
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21065"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"c12940a7de4e03c593b7a106c16d96ab",
+    "wof:geomhash":"be34fa38278d38ba9a602eb25c21eb64",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404539867,
-    "wof:lastmodified":1566602373,
+    "wof:lastmodified":1695877338,
     "wof:name":"Pakenham Upper",
     "wof:parent_id":102048791,
     "wof:placetype":"localadmin",

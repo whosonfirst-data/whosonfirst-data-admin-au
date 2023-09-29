@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.045851,
-    "geom:area_square_m":466683727.338327,
+    "geom:area_square_m":466683727.338718,
     "geom:bbox":"148.192844512,-34.742090918,148.51648,-34.4254949975",
     "geom:latitude":-34.5994,
     "geom:longitude":148.35647,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.650497,
     "lbl:longitude":148.305169,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Harden"
@@ -74,9 +80,12 @@
         102049663
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11073"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"295a11f7d77da2016ddf96c33d1e8f9a",
+    "wof:geomhash":"cef04adc5ec35149f53131d64cf84059",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -88,7 +97,7 @@
         }
     ],
     "wof:id":404223839,
-    "wof:lastmodified":1566602556,
+    "wof:lastmodified":1695877451,
     "wof:name":"Harden",
     "wof:parent_id":102049663,
     "wof:placetype":"localadmin",

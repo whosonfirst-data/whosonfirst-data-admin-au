@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.072379,
-    "geom:area_square_m":763018481.421644,
+    "geom:area_square_m":763018481.421521,
     "geom:bbox":"150.9401624,-31.661852388,151.355271008,-31.3366959995",
     "geom:latitude":-31.508871,
     "geom:longitude":151.166924,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.522384,
     "lbl:longitude":151.146404,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Nundle"
@@ -38,9 +44,12 @@
         102048785
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11785"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"8d8300d60504e4562cd8f87ed29def1d",
+    "wof:geomhash":"78f202b642e1b4e19c5d9a2751396258",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404225441,
-    "wof:lastmodified":1566602676,
+    "wof:lastmodified":1695877516,
     "wof:name":"Nundle",
     "wof:parent_id":102048785,
     "wof:placetype":"localadmin",

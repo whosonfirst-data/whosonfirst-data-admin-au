@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000863,
-    "geom:area_square_m":8903205.290873,
+    "geom:area_square_m":8903205.290845,
     "geom:bbox":"151.353733088,-33.466624402,151.41198,-33.4354986885",
     "geom:latitude":-33.452671,
     "geom:longitude":151.377674,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.453144,
     "lbl:longitude":151.377681,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Green Point"
@@ -41,12 +47,15 @@
         102048513
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11016"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101930507
     ],
     "wof:country":"AU",
-    "wof:geomhash":"7662aa57445131e6e502a51dc318a5b6",
+    "wof:geomhash":"bebc063d4e1604459032148cdee9047b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404223711,
-    "wof:lastmodified":1566602567,
+    "wof:lastmodified":1695877457,
     "wof:name":"Green Point",
     "wof:parent_id":102048513,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.087332,
-    "geom:area_square_m":977864984.733003,
+    "geom:area_square_m":977864984.733122,
     "geom:bbox":"150.854486016,-25.2568764975,151.333412832,-24.942926003",
     "geom:latitude":-25.104239,
     "geom:longitude":151.096498,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-25.131214,
     "lbl:longitude":151.100044,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tellebang"
@@ -38,9 +44,12 @@
         102049053
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31596"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"8bc84ef52769135857d9a00023131e25",
+    "wof:geomhash":"7d31b1ee254a67c6ff25d08664285e9c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404544315,
-    "wof:lastmodified":1566602173,
+    "wof:lastmodified":1695877229,
     "wof:name":"Tellebang",
     "wof:parent_id":102049053,
     "wof:placetype":"localadmin",

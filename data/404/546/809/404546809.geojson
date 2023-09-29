@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.056295,
-    "geom:area_square_m":594457420.071879,
+    "geom:area_square_m":594457420.071835,
     "geom:bbox":"116.245004768,-31.4724000855,116.625346208,-31.2305702315",
     "geom:latitude":-31.35162,
     "geom:longitude":116.424689,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.378819,
     "lbl:longitude":116.428529,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bejoording"
@@ -38,9 +44,12 @@
         102048463
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50054"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"58e77183c728aa94e7e6350ef2f7d384",
+    "wof:geomhash":"d917255b0bebf5825f3785e0ccca656b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404546809,
-    "wof:lastmodified":1566603143,
+    "wof:lastmodified":1695877787,
     "wof:name":"Bejoording",
     "wof:parent_id":102048463,
     "wof:placetype":"localadmin",

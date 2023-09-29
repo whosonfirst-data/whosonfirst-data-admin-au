@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000039,
-    "geom:area_square_m":402259.104035,
+    "geom:area_square_m":402259.104038,
     "geom:bbox":"151.325232128,-32.8532519995,151.336612992,-32.8443515385",
     "geom:latitude":-32.84845,
     "geom:longitude":151.330713,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.848174,
     "lbl:longitude":151.330794,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bellbird Heights"
@@ -38,12 +44,15 @@
         102048575
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10160"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         1175610491
     ],
     "wof:country":"AU",
-    "wof:geomhash":"e177f0eaefbee074e925bbd10bb9d8e2",
+    "wof:geomhash":"4c692aeec9c17b11c0f795c08ebda256",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404221785,
-    "wof:lastmodified":1566601983,
+    "wof:lastmodified":1695877126,
     "wof:name":"Bellbird Heights",
     "wof:parent_id":102048575,
     "wof:placetype":"localadmin",

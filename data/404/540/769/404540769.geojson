@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009855,
-    "geom:area_square_m":96732984.446369,
+    "geom:area_square_m":96732984.446319,
     "geom:bbox":"145.066768192,-37.5289609435,145.221139936,-37.4017503555",
     "geom:latitude":-37.460452,
     "geom:longitude":145.132234,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.464946,
     "lbl:longitude":145.12465,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Whittlesea"
@@ -47,9 +53,12 @@
         102049577
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21468"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"77b4cf0c4e32fef81b60a2ce84ec0b6e",
+    "wof:geomhash":"c66c374e76ae4d914466d5be04d4a046",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":404540769,
-    "wof:lastmodified":1566603014,
+    "wof:lastmodified":1695877727,
     "wof:name":"Whittlesea",
     "wof:parent_id":102049577,
     "wof:placetype":"localadmin",

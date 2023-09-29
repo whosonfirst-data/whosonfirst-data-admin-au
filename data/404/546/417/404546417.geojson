@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007929,
-    "geom:area_square_m":80836035.346663,
+    "geom:area_square_m":80836035.346668,
     "geom:bbox":"138.259976,-34.4939035945,138.436708,-34.433353002",
     "geom:latitude":-34.465005,
     "geom:longitude":138.350067,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.46596,
     "lbl:longitude":138.326665,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Thompson Beach"
@@ -38,9 +44,12 @@
         102048587
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40722"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"ed5860b1a73b60ec8891e4ae8965a176",
+    "wof:geomhash":"7f1956002cde8719adc64a3724316213",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404546417,
-    "wof:lastmodified":1566603137,
+    "wof:lastmodified":1695877785,
     "wof:name":"Thompson Beach",
     "wof:parent_id":102048587,
     "wof:placetype":"localadmin",

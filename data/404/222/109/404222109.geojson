@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000073,
-    "geom:area_square_m":746977.831063,
+    "geom:area_square_m":746977.831049,
     "geom:bbox":"151.1896448,-33.964421995,151.214702176,-33.9478268475",
     "geom:latitude":-33.956953,
     "geom:longitude":151.201812,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.957314,
     "lbl:longitude":151.202834,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Botanybaai"
@@ -132,12 +138,15 @@
         102049567
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10304"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101929675
     ],
     "wof:country":"AU",
-    "wof:geomhash":"8887c19b58ca12a9a6747461252eb5e6",
+    "wof:geomhash":"e5b855b43c4670d96b3cace9d3dac0dc",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -150,7 +159,7 @@
         }
     ],
     "wof:id":404222109,
-    "wof:lastmodified":1566602784,
+    "wof:lastmodified":1695877582,
     "wof:name":"Botany Bay",
     "wof:parent_id":102049567,
     "wof:placetype":"localadmin",

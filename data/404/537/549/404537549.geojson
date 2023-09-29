@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0133,
-    "geom:area_square_m":132138432.796064,
+    "geom:area_square_m":132138432.796159,
     "geom:bbox":"145.297738912,-36.6134833745,145.554030016,-36.498779175",
     "geom:latitude":-36.53503,
     "geom:longitude":145.423697,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.527603,
     "lbl:longitude":145.423627,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:amh_x_preferred":[
         "\u12a0\u122d\u12ab\u12f5\u12eb"
@@ -198,9 +204,12 @@
         102049473
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20025"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"0c1304f2178ce5f88787291a1ae623cc",
+    "wof:geomhash":"9762a9a3d41bc2e58b3f34f082704b0b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -213,7 +222,7 @@
         }
     ],
     "wof:id":404537549,
-    "wof:lastmodified":1566602345,
+    "wof:lastmodified":1695877321,
     "wof:name":"Arcadia",
     "wof:parent_id":102049473,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026188,
-    "geom:area_square_m":307199022.685621,
+    "geom:area_square_m":307199022.685535,
     "geom:bbox":"145.757464288,-18.513470006,146.081903008,-18.3643183255",
     "geom:latitude":-18.438197,
     "geom:longitude":145.93126,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-18.438031,
     "lbl:longitude":145.928855,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Abergowrie"
@@ -38,9 +44,12 @@
         102048645
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30001"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"ddc8f6a84c55c128cb4b76d7c65a5707",
+    "wof:geomhash":"fd584b4c87f30266d2492278cfb929bd",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404540941,
-    "wof:lastmodified":1566603005,
+    "wof:lastmodified":1695877721,
     "wof:name":"Abergowrie",
     "wof:parent_id":102048645,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.19743,
-    "geom:area_square_m":2232769256.6306,
+    "geom:area_square_m":2232769256.630501,
     "geom:bbox":"147.727391712,-24.158122999,148.436707776,-23.5976480165",
     "geom:latitude":-23.851045,
     "geom:longitude":148.039679,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-23.8632,
     "lbl:longitude":148.015476,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Gindie"
@@ -38,9 +44,12 @@
         102049631
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30646"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"c52999df87bb7f11869ce3b5d1062ddd",
+    "wof:geomhash":"d4d54f79c85f4c1385e38e7fb32a123e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404542297,
-    "wof:lastmodified":1566602308,
+    "wof:lastmodified":1695877299,
     "wof:name":"Gindie",
     "wof:parent_id":102049631,
     "wof:placetype":"localadmin",

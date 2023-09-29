@@ -10,6 +10,12 @@
     "geom:latitude":-35.15071,
     "geom:longitude":147.337073,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.150444,
     "lbl:longitude":147.336995,
     "lbl:max_zoom":18.0,
@@ -99,13 +105,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC11393",
         "wd:id":"Q6662239"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931071
     ],
     "wof:country":"AU",
-    "wof:geomhash":"8eb00853ede89a08b874bf4d8296034d",
+    "wof:geomhash":"8e173bb13e1ae79da478b737f3942872",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -117,7 +125,7 @@
         }
     ],
     "wof:id":404224559,
-    "wof:lastmodified":1566602575,
+    "wof:lastmodified":1695877973,
     "wof:name":"Lloyd",
     "wof:parent_id":102049075,
     "wof:placetype":"localadmin",

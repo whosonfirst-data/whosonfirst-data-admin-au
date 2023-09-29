@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.054046,
-    "geom:area_square_m":612284337.694087,
+    "geom:area_square_m":612284337.69487,
     "geom:bbox":"150.978741888,-23.8811280305,152.092500736,-23.245454803",
     "geom:latitude":-23.62258,
     "geom:longitude":151.164859,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-23.594925,
     "lbl:longitude":151.141017,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Gladstone Harbour"
@@ -38,9 +44,12 @@
         102049463
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30650"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"4b79f24c44c4a1dc5c0f913a52f62554",
+    "wof:geomhash":"23fd3a7a13d78cfdb41e1e1becbddd24",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404542307,
-    "wof:lastmodified":1566602258,
+    "wof:lastmodified":1695877269,
     "wof:name":"Gladstone Harbour",
     "wof:parent_id":102049463,
     "wof:placetype":"localadmin",

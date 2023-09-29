@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000342,
-    "geom:area_square_m":3504674.18996,
+    "geom:area_square_m":3504656.549035,
     "geom:bbox":"151.180834,-33.921437,151.202985,-33.894969",
     "geom:latitude":-33.90986,
     "geom:longitude":151.192791,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.909808,
     "lbl:longitude":151.192961,
     "lbl:max_zoom":18.0,
@@ -440,10 +446,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC10022",
         "gn:id":2178136,
         "qs_pg:id":573052,
         "wd:id":"Q2915846"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101929377
     ],
@@ -451,7 +459,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b5cfa09aa37ab34cf8283067465d8e50",
+    "wof:geomhash":"12086440d8e3c71b9eb0374a5734d2da",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -464,7 +472,7 @@
         }
     ],
     "wof:id":404221475,
-    "wof:lastmodified":1690853410,
+    "wof:lastmodified":1695878053,
     "wof:name":"Alexandria",
     "wof:parent_id":102049151,
     "wof:placetype":"localadmin",

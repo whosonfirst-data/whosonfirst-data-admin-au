@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005559,
-    "geom:area_square_m":56773778.432483,
+    "geom:area_square_m":56773778.432544,
     "geom:bbox":"150.483602016,-34.370826998,150.565672032,-34.269518001",
     "geom:latitude":-34.320353,
     "geom:longitude":150.525503,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.321886,
     "lbl:longitude":150.526278,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Balmoral"
@@ -66,9 +72,12 @@
         102048539
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10093"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"aad1150d40c5da916e717862c34b1cdb",
+    "wof:geomhash":"12e7310c118e330e333e76d998424d23",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -81,7 +90,7 @@
         }
     ],
     "wof:id":404221633,
-    "wof:lastmodified":1566601977,
+    "wof:lastmodified":1695877123,
     "wof:name":"Balmoral",
     "wof:parent_id":102048539,
     "wof:placetype":"localadmin",

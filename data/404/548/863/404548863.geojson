@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.05659,
-    "geom:area_square_m":519770049.375789,
+    "geom:area_square_m":519770049.374917,
     "geom:bbox":"147.901495008,-42.217061095,148.235209824,-41.858412991",
     "geom:latitude":-42.029394,
     "geom:longitude":148.06447,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-41.982358,
     "lbl:longitude":148.078017,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Dolphin Sands"
@@ -38,9 +44,12 @@
         102048801
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60086"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"2fd4dcfa38aa15060fd3a54c36010d64",
+    "wof:geomhash":"7f564628f5f83d5c84ac2f1881874b7c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404548863,
-    "wof:lastmodified":1566603227,
+    "wof:lastmodified":1695877831,
     "wof:name":"Dolphin Sands",
     "wof:parent_id":102048801,
     "wof:placetype":"localadmin",

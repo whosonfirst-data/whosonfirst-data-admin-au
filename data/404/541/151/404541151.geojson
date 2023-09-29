@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.073266,
-    "geom:area_square_m":12164055343.465355,
+    "geom:area_square_m":12164055043.72098,
     "geom:bbox":"144.775526,-24.153413,145.920087,-22.894265",
     "geom:latitude":-23.566997,
     "geom:longitude":145.315451,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-23.568913,
     "lbl:longitude":145.326255,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09ac\u09be\u09b0\u0995\u09cd\u09af\u09be\u09b2\u09cd\u09a1\u09be\u0987\u09a8"
@@ -92,9 +98,12 @@
         102048807
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30102"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"a1a285c2c50fea7c28356e0e336a9b33",
+    "wof:geomhash":"90b7f208ad3e01df2a57b2706aed6287",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -106,7 +115,7 @@
         }
     ],
     "wof:id":404541151,
-    "wof:lastmodified":1636494672,
+    "wof:lastmodified":1695877881,
     "wof:name":"Barcaldine",
     "wof:parent_id":102048807,
     "wof:placetype":"localadmin",

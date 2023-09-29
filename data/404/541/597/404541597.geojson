@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001457,
-    "geom:area_square_m":16898269.750653,
+    "geom:area_square_m":16898269.750689,
     "geom:bbox":"148.620151008,-20.345043007,148.682312704,-20.2912280055",
     "geom:latitude":-20.317486,
     "geom:longitude":148.652049,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-20.31737,
     "lbl:longitude":148.652507,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Cannon Valley"
@@ -38,9 +44,12 @@
         102049581
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30313"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"435ab93199c5a04437c45477e29e0107",
+    "wof:geomhash":"b3b76a872ede40ce5a69ff5716afe493",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404541597,
-    "wof:lastmodified":1566603075,
+    "wof:lastmodified":1695877757,
     "wof:name":"Cannon Valley",
     "wof:parent_id":102049581,
     "wof:placetype":"localadmin",

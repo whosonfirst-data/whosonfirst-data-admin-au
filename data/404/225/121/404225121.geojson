@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000052,
-    "geom:area_square_m":567654.996636,
+    "geom:area_square_m":567654.996635,
     "geom:bbox":"152.576373952,-28.421499466,152.58962368,-28.4148420375",
     "geom:latitude":-28.418239,
     "geom:longitude":152.583386,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.418296,
     "lbl:longitude":152.581934,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Muli Muli"
@@ -38,12 +44,15 @@
         102048855
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11643"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931335
     ],
     "wof:country":"AU",
-    "wof:geomhash":"7d09bb45a1a2d2b846d1d8b364c32b73",
+    "wof:geomhash":"b6c6762deffe82bb601dd5bad3b3119a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404225121,
-    "wof:lastmodified":1566602698,
+    "wof:lastmodified":1695877528,
     "wof:name":"Muli Muli",
     "wof:parent_id":102048855,
     "wof:placetype":"localadmin",

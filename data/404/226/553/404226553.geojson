@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.041864,
-    "geom:area_square_m":441960376.111105,
+    "geom:area_square_m":441960376.112343,
     "geom:bbox":"150.773426272,-31.5174380395,151.067443008,-31.1766087285",
     "geom:latitude":-31.375824,
     "geom:longitude":150.923345,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.405861,
     "lbl:longitude":150.923229,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Timbumburi"
@@ -38,9 +44,12 @@
         102048785
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12279"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"a16f6ae4726cdba499bebeb71e8cde0d",
+    "wof:geomhash":"29dc27cf8dd9969642fd038baee4395d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404226553,
-    "wof:lastmodified":1566602061,
+    "wof:lastmodified":1695877168,
     "wof:name":"Timbumburi",
     "wof:parent_id":102048785,
     "wof:placetype":"localadmin",

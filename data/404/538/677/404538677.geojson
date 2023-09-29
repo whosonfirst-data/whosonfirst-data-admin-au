@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008428,
-    "geom:area_square_m":81555027.965934,
+    "geom:area_square_m":81555027.965965,
     "geom:bbox":"145.539752992,-38.5463630045,145.685148256,-38.460506003",
     "geom:latitude":-38.506247,
     "geom:longitude":145.611505,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.505326,
     "lbl:longitude":145.611512,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Glen Alvie"
@@ -38,9 +44,12 @@
         102049085
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20532"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"26038f7a6a596c195ab23d67a834d381",
+    "wof:geomhash":"86e5ba55e8fd4bfa54ee7db86f2cd91c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404538677,
-    "wof:lastmodified":1566602470,
+    "wof:lastmodified":1695877395,
     "wof:name":"Glen Alvie",
     "wof:parent_id":102049085,
     "wof:placetype":"localadmin",

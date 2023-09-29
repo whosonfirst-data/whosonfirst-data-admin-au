@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006416,
-    "geom:area_square_m":62862590.480954,
+    "geom:area_square_m":62862590.480986,
     "geom:bbox":"144.946460512,-37.6483300845,145.061415008,-37.557336595",
     "geom:latitude":-37.596603,
     "geom:longitude":145.000925,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.590873,
     "lbl:longitude":145.000929,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Wollert"
@@ -38,9 +44,12 @@
         102049577
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21488"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"c5c442dc15b745c2a00b2b8984fc3115",
+    "wof:geomhash":"b835ed816b7c3458dc242ce8e0722d72",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404540813,
-    "wof:lastmodified":1566603024,
+    "wof:lastmodified":1695877733,
     "wof:name":"Wollert",
     "wof:parent_id":102049577,
     "wof:placetype":"localadmin",

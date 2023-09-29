@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01473,
-    "geom:area_square_m":137589661.331991,
+    "geom:area_square_m":137589661.331959,
     "geom:bbox":"148.151942016,-41.028862261,148.35739552,-40.834643008",
     "geom:latitude":-40.940278,
     "geom:longitude":148.242818,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-40.966921,
     "lbl:longitude":148.260795,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mount William"
@@ -50,9 +56,12 @@
         102049669
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60236"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"dc3d82ed9e28612382de9ecb26500021",
+    "wof:geomhash":"84ef82537b1771e6fa6fa8a88e567b88",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":404549201,
-    "wof:lastmodified":1566602904,
+    "wof:lastmodified":1695877663,
     "wof:name":"Mount William",
     "wof:parent_id":102049669,
     "wof:placetype":"localadmin",

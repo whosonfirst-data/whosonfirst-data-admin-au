@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005109,
-    "geom:area_square_m":49551684.885253,
+    "geom:area_square_m":49551684.88522,
     "geom:bbox":"145.704527008,-38.3759420035,145.825704992,-38.303667998",
     "geom:latitude":-38.338799,
     "geom:longitude":145.773411,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.341014,
     "lbl:longitude":145.786635,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Poowong"
@@ -38,9 +44,12 @@
         102048701
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21098"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"9353e35113ff3c0b33891f451447f715",
+    "wof:geomhash":"176bd01845e03fa86bfe85e15be40c67",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404539941,
-    "wof:lastmodified":1566602376,
+    "wof:lastmodified":1695877340,
     "wof:name":"Poowong",
     "wof:parent_id":102048701,
     "wof:placetype":"localadmin",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000315,
-    "geom:area_square_m":3316937.642781,
+    "geom:area_square_m":3316937.642773,
     "geom:bbox":"115.70661008,-31.730834189,115.735293984,-31.711940916",
     "geom:latitude":-31.720603,
     "geom:longitude":115.720505,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.720512,
     "lbl:longitude":115.720289,
     "lbl:max_zoom":18.0,
@@ -43,13 +49,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC50112",
         "wd:id":"Q5000054"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101936959
     ],
     "wof:country":"AU",
-    "wof:geomhash":"ba503e6a1f571287a8ad9f95453729d8",
+    "wof:geomhash":"c49be76f00a61620d23eada01e84e3cc",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -62,7 +70,7 @@
         }
     ],
     "wof:id":404546939,
-    "wof:lastmodified":1566603105,
+    "wof:lastmodified":1695878038,
     "wof:name":"Burns Beach",
     "wof:parent_id":102048433,
     "wof:placetype":"localadmin",

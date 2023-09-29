@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000203,
-    "geom:area_square_m":2076603.220414,
+    "geom:area_square_m":2076603.220421,
     "geom:bbox":"140.7755048,-34.1836293275,140.801292096,-34.1661584455",
     "geom:latitude":-34.176443,
     "geom:longitude":140.785794,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.177164,
     "lbl:longitude":140.785594,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Paringa"
@@ -44,12 +50,15 @@
         102048689
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40550"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101936429
     ],
     "wof:country":"AU",
-    "wof:geomhash":"36f0bfbe2cd6ed88a1f0ae3ab08ce694",
+    "wof:geomhash":"4f13754aab967dd06356140eee4d2fbc",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":404546055,
-    "wof:lastmodified":1566603120,
+    "wof:lastmodified":1695877777,
     "wof:name":"Paringa",
     "wof:parent_id":102048689,
     "wof:placetype":"localadmin",

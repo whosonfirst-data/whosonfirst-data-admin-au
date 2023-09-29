@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000164,
-    "geom:area_square_m":1717530.602804,
+    "geom:area_square_m":1717530.6028,
     "geom:bbox":"133.64271824,-32.1521697835,133.667344192,-32.139974343",
     "geom:latitude":-32.145694,
     "geom:longitude":133.653644,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.146654,
     "lbl:longitude":133.649726,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Thevenard"
@@ -38,12 +44,15 @@
         102048593
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40721"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101936675
     ],
     "wof:country":"AU",
-    "wof:geomhash":"21f57bd513f70c6931185fa53af1d4ce",
+    "wof:geomhash":"b1391420b00a4871601f2430d6e53235",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404546415,
-    "wof:lastmodified":1566603115,
+    "wof:lastmodified":1695877775,
     "wof:name":"Thevenard",
     "wof:parent_id":102048593,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00023,
-    "geom:area_square_m":2374086.487909,
+    "geom:area_square_m":2374086.487905,
     "geom:bbox":"151.335846496,-33.4815270585,151.369156992,-33.46999932",
     "geom:latitude":-33.475643,
     "geom:longitude":151.352067,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.476307,
     "lbl:longitude":151.347389,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0421\u0430\u0440\u0430\u0442\u043e\u0433\u0430"
@@ -98,12 +104,15 @@
         102048513
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12046"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931811
     ],
     "wof:country":"AU",
-    "wof:geomhash":"fd322e6e267500f32d7989b32b506e03",
+    "wof:geomhash":"fa12c326dfa7f28da1d6cf9df6319bd7",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -115,7 +124,7 @@
         }
     ],
     "wof:id":404226029,
-    "wof:lastmodified":1566602067,
+    "wof:lastmodified":1695877172,
     "wof:name":"Saratoga",
     "wof:parent_id":102048513,
     "wof:placetype":"localadmin",

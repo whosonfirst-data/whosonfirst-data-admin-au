@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002363,
-    "geom:area_square_m":28032579.573047,
+    "geom:area_square_m":28032579.573046,
     "geom:bbox":"145.336439008,-16.4357088285,145.402600992,-16.3728940025",
     "geom:latitude":-16.405779,
     "geom:longitude":145.369702,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-16.404103,
     "lbl:longitude":145.370207,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Miallo"
@@ -38,9 +44,12 @@
         102048911
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31047"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"2e85b606c42a4732ef46c79a3be707f6",
+    "wof:geomhash":"1abc3951abaac2b5d17df8153fe36791",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404543147,
-    "wof:lastmodified":1566602145,
+    "wof:lastmodified":1695877215,
     "wof:name":"Miallo",
     "wof:parent_id":102048911,
     "wof:placetype":"localadmin",

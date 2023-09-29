@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003695,
-    "geom:area_square_m":35914816.580231,
+    "geom:area_square_m":35914816.580183,
     "geom:bbox":"146.153506016,-38.2137200175,146.227514752,-38.132572006",
     "geom:latitude":-38.172298,
     "geom:longitude":146.19251,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.170252,
     "lbl:longitude":146.200567,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Trafalgar East"
@@ -38,9 +44,12 @@
         102048523
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21361"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"ae93beb4debc10e4ea42e419c1763896",
+    "wof:geomhash":"fbe646a722cfdad900a72c5c597cc0a8",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404540531,
-    "wof:lastmodified":1566603016,
+    "wof:lastmodified":1695877728,
     "wof:name":"Trafalgar East",
     "wof:parent_id":102048523,
     "wof:placetype":"localadmin",

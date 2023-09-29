@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015185,
-    "geom:area_square_m":151028455.217226,
+    "geom:area_square_m":151028455.217112,
     "geom:bbox":"146.495024,-36.5222760065,146.725781056,-36.405987282",
     "geom:latitude":-36.451364,
     "geom:longitude":146.624129,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.4547,
     "lbl:longitude":146.626042,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Everton"
@@ -92,9 +98,12 @@
         102049395
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20478"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"4cad04760b765717bb1123dd9f2bd7fd",
+    "wof:geomhash":"adf94316f355be8151703819c7b7ba85",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -106,7 +115,7 @@
         }
     ],
     "wof:id":404538555,
-    "wof:lastmodified":1566602458,
+    "wof:lastmodified":1695877389,
     "wof:name":"Everton",
     "wof:parent_id":102049395,
     "wof:placetype":"localadmin",

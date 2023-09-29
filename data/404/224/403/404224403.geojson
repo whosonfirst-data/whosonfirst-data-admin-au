@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000384,
-    "geom:area_square_m":4044217.282644,
+    "geom:area_square_m":4044217.282643,
     "geom:bbox":"152.743876512,-31.641736006,152.776834656,-31.6145270015",
     "geom:latitude":-31.632097,
     "geom:longitude":152.758195,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.634346,
     "lbl:longitude":152.760696,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Lakewood"
@@ -107,12 +113,15 @@
         102049203
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11324"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101930987
     ],
     "wof:country":"AU",
-    "wof:geomhash":"49b1cabde83d5b009527034dfe4c5e6a",
+    "wof:geomhash":"9cb400ba61944dca7fe07e7400ba7375",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -124,7 +133,7 @@
         }
     ],
     "wof:id":404224403,
-    "wof:lastmodified":1566602644,
+    "wof:lastmodified":1695877498,
     "wof:name":"Lakewood",
     "wof:parent_id":102049203,
     "wof:placetype":"localadmin",

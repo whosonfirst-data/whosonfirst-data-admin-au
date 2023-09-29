@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.337757,
-    "geom:area_square_m":13944223456.142138,
+    "geom:area_square_m":13944223456.142796,
     "geom:bbox":"145.164993312,-33.2759597205,146.705554784,-31.7992359965",
     "geom:latitude":-32.542594,
     "geom:longitude":146.019008,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.537452,
     "lbl:longitude":146.081071,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Euabalong"
@@ -47,9 +53,12 @@
         102049423
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10842"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"adb41c093bbb1c0e4ebe4e79f37cd7f6",
+    "wof:geomhash":"ff9f7f966c054a53b06ae1a7a438f43c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":404223319,
-    "wof:lastmodified":1566602565,
+    "wof:lastmodified":1695877455,
     "wof:name":"Euabalong",
     "wof:parent_id":102049423,
     "wof:placetype":"localadmin",

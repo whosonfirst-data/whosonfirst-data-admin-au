@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000148,
-    "geom:area_square_m":1520050.602515,
+    "geom:area_square_m":1520050.602527,
     "geom:bbox":"151.096259808,-33.8356279735,151.115776992,-33.8179860035",
     "geom:latitude":-33.826135,
     "geom:longitude":151.106296,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.826381,
     "lbl:longitude":151.105334,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u067e\u0627\u062a\u0646\u06cc"
@@ -84,12 +90,15 @@
         102049349
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11918"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931649
     ],
     "wof:country":"AU",
-    "wof:geomhash":"5402d8eb11d83847097f23937f3cf238",
+    "wof:geomhash":"4161b9da94dbcc9be7322d57e8782a30",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -102,7 +111,7 @@
         }
     ],
     "wof:id":404225741,
-    "wof:lastmodified":1566602699,
+    "wof:lastmodified":1695877528,
     "wof:name":"Putney",
     "wof:parent_id":102049349,
     "wof:placetype":"localadmin",

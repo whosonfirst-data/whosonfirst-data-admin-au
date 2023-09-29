@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037795,
-    "geom:area_square_m":422992529.729673,
+    "geom:area_square_m":422992529.730117,
     "geom:bbox":"151.982062528,-25.3218969305,152.204139008,-25.034198713",
     "geom:latitude":-25.162675,
     "geom:longitude":152.081747,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-25.150712,
     "lbl:longitude":152.070643,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Booyal"
@@ -38,9 +44,12 @@
         102048763
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30206"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"d6c76aacd8bae370f720ccd37751dc5d",
+    "wof:geomhash":"117e09ada6f0bbf0382d929e07b3d9f3",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404541371,
-    "wof:lastmodified":1566603069,
+    "wof:lastmodified":1695877753,
     "wof:name":"Booyal",
     "wof:parent_id":102048763,
     "wof:placetype":"localadmin",

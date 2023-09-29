@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012157,
-    "geom:area_square_m":130363733.591031,
+    "geom:area_square_m":130363733.591129,
     "geom:bbox":"150.459360992,-29.917689001,150.634328992,-29.798475001",
     "geom:latitude":-29.864513,
     "geom:longitude":150.550348,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-29.861064,
     "lbl:longitude":150.535732,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bingara"
@@ -38,9 +44,12 @@
         102049247
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10218"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"22f4c70788d5b205ddb6556af474c7b4",
+    "wof:geomhash":"eef5758e49054e50928697556b8f8848",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404221915,
-    "wof:lastmodified":1566601982,
+    "wof:lastmodified":1695877125,
     "wof:name":"Bingara",
     "wof:parent_id":102049247,
     "wof:placetype":"localadmin",

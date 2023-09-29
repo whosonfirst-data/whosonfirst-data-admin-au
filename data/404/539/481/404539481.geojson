@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031461,
-    "geom:area_square_m":312255650.362025,
+    "geom:area_square_m":312255650.362018,
     "geom:bbox":"145.318434016,-36.708923154,145.644547008,-36.554318469",
     "geom:latitude":-36.614652,
     "geom:longitude":145.500056,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.628813,
     "lbl:longitude":145.545832,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Miepoll"
@@ -38,9 +44,12 @@
         102048611
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20891"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"8417e9d3529ac3b76d07709ee86ffe74",
+    "wof:geomhash":"9a76ed5001645fbaf75788f7c514990d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404539481,
-    "wof:lastmodified":1566602395,
+    "wof:lastmodified":1695877353,
     "wof:name":"Miepoll",
     "wof:parent_id":102048611,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":7.827,
-    "geom:area_square_m":87660338965.602905,
+    "geom:area_square_m":87660338965.602661,
     "geom:bbox":"129.000567776,-25.9994823335,133.37151728,-24.135167977",
     "geom:latitude":-25.070563,
     "geom:longitude":131.108566,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-24.868871,
     "lbl:longitude":131.688171,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "Petermann"
@@ -50,9 +56,12 @@
         102048913
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC70156"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"cc4876885acc2673afe787435d5b114a",
+    "wof:geomhash":"dfa90d65962673c8102e8d3ba58b8596",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":404549835,
-    "wof:lastmodified":1566602848,
+    "wof:lastmodified":1695877625,
     "wof:name":"Petermann",
     "wof:parent_id":102048913,
     "wof:placetype":"localadmin",

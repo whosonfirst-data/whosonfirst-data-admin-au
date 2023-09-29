@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.04391,
-    "geom:area_square_m":441996423.575467,
+    "geom:area_square_m":441996423.575478,
     "geom:bbox":"145.48451776,-35.5885810435,146.031768576,-35.430704911",
     "geom:latitude":-35.505282,
     "geom:longitude":145.757672,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.494551,
     "lbl:longitude":145.753537,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Logie Brae"
@@ -38,9 +44,12 @@
         102049257
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11400"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"4e93ddda94b2be61287a2654333a22e3",
+    "wof:geomhash":"2f97c4f404abfa24e2b117a0c0206c9e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404224575,
-    "wof:lastmodified":1566602603,
+    "wof:lastmodified":1695877477,
     "wof:name":"Logie Brae",
     "wof:parent_id":102049257,
     "wof:placetype":"localadmin",

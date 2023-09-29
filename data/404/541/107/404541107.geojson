@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008381,
-    "geom:area_square_m":102018542.900163,
+    "geom:area_square_m":102018542.900078,
     "geom:bbox":"142.085126176,-10.1809600235,142.192476,-10.0591309745",
     "geom:latitude":-10.116495,
     "geom:longitude":142.145072,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-10.114697,
     "lbl:longitude":142.146106,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Badu Island"
@@ -59,9 +65,12 @@
         102048439
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30080"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"01a28244026f3f779bccabe95f5bc748",
+    "wof:geomhash":"798eec4fc259a193e247940fe38b3e63",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -73,7 +82,7 @@
         }
     ],
     "wof:id":404541107,
-    "wof:lastmodified":1566603075,
+    "wof:lastmodified":1695877757,
     "wof:name":"Badu Island",
     "wof:parent_id":102048439,
     "wof:placetype":"localadmin",

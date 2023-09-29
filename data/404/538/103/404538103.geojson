@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000129,
-    "geom:area_square_m":1257829.487908,
+    "geom:area_square_m":1257800.234383,
     "geom:bbox":"145.034603,-37.887273,145.049635,-37.875108",
     "geom:latitude":-37.881233,
     "geom:longitude":145.042006,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.881193,
     "lbl:longitude":145.042902,
     "lbl:max_zoom":18.0,
@@ -52,10 +58,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC20274",
         "gn:id":2171947,
         "qs_pg:id":356125,
         "wd:id":"Q5054508"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932739
     ],
@@ -63,7 +71,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4c67659491b48e50563fda6945125fcc",
+    "wof:geomhash":"29b6dd55582376afe601fc8685e6ec8a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -76,7 +84,7 @@
         }
     ],
     "wof:id":404538103,
-    "wof:lastmodified":1690853572,
+    "wof:lastmodified":1695878053,
     "wof:name":"Caulfield East",
     "wof:parent_id":102048479,
     "wof:placetype":"localadmin",

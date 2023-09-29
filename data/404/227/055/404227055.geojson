@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007863,
-    "geom:area_square_m":83415118.220909,
+    "geom:area_square_m":83415118.220875,
     "geom:bbox":"152.592188,-30.9736430085,152.720830016,-30.8576869325",
     "geom:latitude":-30.914685,
     "geom:longitude":152.661726,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-30.913587,
     "lbl:longitude":152.662682,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Willawarrin"
@@ -38,9 +44,12 @@
         102048527
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12502"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"ef38fe2a1ab5bede071c3f0495d240d5",
+    "wof:geomhash":"fddb1c7c942eefe51ac9a7535c0dcc40",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404227055,
-    "wof:lastmodified":1566601945,
+    "wof:lastmodified":1695877106,
     "wof:name":"Willawarrin",
     "wof:parent_id":102048527,
     "wof:placetype":"localadmin",

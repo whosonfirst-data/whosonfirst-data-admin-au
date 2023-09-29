@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002079,
-    "geom:area_square_m":23027994.223652,
+    "geom:area_square_m":23027994.223689,
     "geom:bbox":"152.900570016,-26.413539991,152.962998016,-26.352600991",
     "geom:latitude":-26.384817,
     "geom:longitude":152.932132,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-26.389534,
     "lbl:longitude":152.935241,
     "lbl:max_zoom":18.0,
@@ -52,10 +58,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC30928",
         "wd:id":"Q6476719"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"a1d56de20cfc73bd36b6f8bc4ed4ecb9",
+    "wof:geomhash":"7d271747a4e9cc0d35b84dacb7533132",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -68,7 +76,7 @@
         }
     ],
     "wof:id":404542901,
-    "wof:lastmodified":1566602263,
+    "wof:lastmodified":1695877939,
     "wof:name":"Lake Macdonald",
     "wof:parent_id":102049303,
     "wof:placetype":"localadmin",

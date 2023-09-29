@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00719,
-    "geom:area_square_m":71164120.844938,
+    "geom:area_square_m":71164120.84499,
     "geom:bbox":"149.720876992,-36.873731995,149.864848992,-36.7816120035",
     "geom:latitude":-36.82596,
     "geom:longitude":149.795569,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.822481,
     "lbl:longitude":149.800428,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Wolumla"
@@ -38,9 +44,12 @@
         102049439
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12536"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"f0e912bc3a1471cc4d8ed73ec94bb291",
+    "wof:geomhash":"e3c19687e6510caca521e443395fbf13",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404227131,
-    "wof:lastmodified":1566601949,
+    "wof:lastmodified":1695877108,
     "wof:name":"Wolumla",
     "wof:parent_id":102049439,
     "wof:placetype":"localadmin",

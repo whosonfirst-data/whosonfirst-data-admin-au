@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002111,
-    "geom:area_square_m":19059716.796601,
+    "geom:area_square_m":19059716.796564,
     "geom:bbox":"147.008796992,-43.1377897965,147.070142016,-43.082763008",
     "geom:latitude":-43.109633,
     "geom:longitude":147.04063,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-43.109701,
     "lbl:longitude":147.04112,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Cradoc"
@@ -38,9 +44,12 @@
         102048679
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60069"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"df3b21c4f31ef42353f1d8592b3680c1",
+    "wof:geomhash":"73400d1c4dc7137583ae5952e7a52310",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404548825,
-    "wof:lastmodified":1566603211,
+    "wof:lastmodified":1695877821,
     "wof:name":"Cradoc",
     "wof:parent_id":102048679,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000911,
-    "geom:area_square_m":9933082.060787,
+    "geom:area_square_m":9933082.060771,
     "geom:bbox":"153.44556192,-28.1792029865,153.486193984,-28.135334695",
     "geom:latitude":-28.154289,
     "geom:longitude":153.462697,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.1535,
     "lbl:longitude":153.461319,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Currumbin Waters"
@@ -39,12 +45,15 @@
         102049363
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30462"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934263
     ],
     "wof:country":"AU",
-    "wof:geomhash":"85bdc49005902b7df200e6e8de656b2f",
+    "wof:geomhash":"61777b37e9fe5201de86670d96095080",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404541907,
-    "wof:lastmodified":1566603043,
+    "wof:lastmodified":1695877743,
     "wof:name":"Currumbin Waters",
     "wof:parent_id":102049363,
     "wof:placetype":"localadmin",

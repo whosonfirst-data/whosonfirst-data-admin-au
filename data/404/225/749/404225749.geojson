@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005751,
-    "geom:area_square_m":58322899.763665,
+    "geom:area_square_m":58322899.763599,
     "geom:bbox":"150.643393696,-34.9400810075,150.766558048,-34.8539189965",
     "geom:latitude":-34.8956,
     "geom:longitude":150.698852,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.896508,
     "lbl:longitude":150.69791,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Pyree"
@@ -38,9 +44,12 @@
         102049405
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11922"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"936a4af225487d32c416e1df103ef6e0",
+    "wof:geomhash":"faa731a557e80ce6498e315f51b0c0d1",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404225749,
-    "wof:lastmodified":1566602694,
+    "wof:lastmodified":1695877526,
     "wof:name":"Pyree",
     "wof:parent_id":102049405,
     "wof:placetype":"localadmin",

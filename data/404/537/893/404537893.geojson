@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00084,
-    "geom:area_square_m":8196305.467183,
+    "geom:area_square_m":8196305.467196,
     "geom:bbox":"144.983381664,-37.9324137905,145.008549728,-37.883273517",
     "geom:latitude":-37.908189,
     "geom:longitude":144.995817,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.90757,
     "lbl:longitude":144.996841,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Brighton"
@@ -261,12 +267,15 @@
         102049181
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20181"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932651
     ],
     "wof:country":"AU",
-    "wof:geomhash":"d856b193b36502a160732b058a0769b5",
+    "wof:geomhash":"83656fb864bfc078f29e97e83bc320c4",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -279,7 +288,7 @@
         }
     ],
     "wof:id":404537893,
-    "wof:lastmodified":1566602330,
+    "wof:lastmodified":1695877313,
     "wof:name":"Brighton",
     "wof:parent_id":102049181,
     "wof:placetype":"localadmin",

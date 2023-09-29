@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.048275,
-    "geom:area_square_m":489138691.268425,
+    "geom:area_square_m":489138691.26834,
     "geom:bbox":"137.491896992,-35.090956999,137.812853888,-34.835406879",
     "geom:latitude":-34.97223,
     "geom:longitude":137.639763,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.974208,
     "lbl:longitude":137.682191,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Wool Bay"
@@ -38,9 +44,12 @@
         102049327
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40829"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"c6dcaaa7ecf2143fbe1919641a677657",
+    "wof:geomhash":"4e75908483056bbecb771233da9eecb3",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404546653,
-    "wof:lastmodified":1566603145,
+    "wof:lastmodified":1695877788,
     "wof:name":"Wool Bay",
     "wof:parent_id":102049327,
     "wof:placetype":"localadmin",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000025,
-    "geom:area_square_m":252668.286352,
+    "geom:area_square_m":252673.412627,
     "geom:bbox":"151.224892,-33.875338,151.231811,-33.868049",
     "geom:latitude":-33.871463,
     "geom:longitude":151.227651,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.870999,
     "lbl:longitude":151.227128,
     "lbl:max_zoom":18.0,
@@ -94,13 +100,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC10804",
         "wd:id":"Q2918794"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101930205
     ],
     "wof:country":"AU",
-    "wof:geomhash":"12e1b2a6dbf8b2cedb810040e760a002",
+    "wof:geomhash":"308cd060dc488607ae8f53b74f6e027d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -113,7 +121,7 @@
         }
     ],
     "wof:id":404223233,
-    "wof:lastmodified":1690853610,
+    "wof:lastmodified":1695877966,
     "wof:name":"Elizabeth Bay",
     "wof:parent_id":102049151,
     "wof:placetype":"localadmin",

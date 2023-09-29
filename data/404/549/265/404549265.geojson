@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000704,
-    "geom:area_square_m":6391611.236137,
+    "geom:area_square_m":6391611.236139,
     "geom:bbox":"147.281114752,-42.8148522425,147.323462112,-42.785015128",
     "geom:latitude":-42.800733,
     "geom:longitude":147.302771,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-42.798744,
     "lbl:longitude":147.300693,
     "lbl:max_zoom":18.0,
@@ -148,10 +154,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC60265",
         "wd:id":"Q7108337"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"d6284993184fd4914dcb603312d56a2f",
+    "wof:geomhash":"cde42d4aed50b8555246ec5670f9429e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -164,7 +172,7 @@
         }
     ],
     "wof:id":404549265,
-    "wof:lastmodified":1566602903,
+    "wof:lastmodified":1695878012,
     "wof:name":"Otago",
     "wof:parent_id":102048771,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000288,
-    "geom:area_square_m":2774878.196647,
+    "geom:area_square_m":2774878.196654,
     "geom:bbox":"143.656015968,-38.7662820135,143.679940928,-38.739133911",
     "geom:latitude":-38.753031,
     "geom:longitude":143.667472,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.753405,
     "lbl:longitude":143.665293,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Apollo Bay"
@@ -65,12 +71,15 @@
         102049117
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20022"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932493
     ],
     "wof:country":"AU",
-    "wof:geomhash":"7474bd0712ac6d9c86d38f8ed90f55e4",
+    "wof:geomhash":"7ce4c0c94b082e8bec59b1b15656eb18",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -82,7 +91,7 @@
         }
     ],
     "wof:id":404537543,
-    "wof:lastmodified":1566602332,
+    "wof:lastmodified":1695877313,
     "wof:name":"Apollo Bay",
     "wof:parent_id":102049117,
     "wof:placetype":"localadmin",

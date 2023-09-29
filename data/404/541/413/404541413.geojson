@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000753,
-    "geom:area_square_m":8257008.896713,
+    "geom:area_square_m":8257002.002519,
     "geom:bbox":"152.71416,-27.604276,152.756484,-27.578996",
     "geom:latitude":-27.590065,
     "geom:longitude":152.736343,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.590376,
     "lbl:longitude":152.738061,
     "lbl:max_zoom":18.0,
@@ -58,13 +64,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC30227",
         "wd:id":"Q4957907"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934005
     ],
     "wof:country":"AU",
-    "wof:geomhash":"692a54d5824eab16281c18fb45e32607",
+    "wof:geomhash":"eb1fb191f65e609a264abd256b82d18f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -77,7 +85,7 @@
         }
     ],
     "wof:id":404541413,
-    "wof:lastmodified":1690853795,
+    "wof:lastmodified":1695878030,
     "wof:name":"Brassall",
     "wof:parent_id":102048583,
     "wof:placetype":"localadmin",

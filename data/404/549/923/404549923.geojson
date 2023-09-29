@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000351,
-    "geom:area_square_m":3541109.131244,
+    "geom:area_square_m":3541109.131231,
     "geom:bbox":"149.135939488,-35.2762229365,149.16045392,-35.250416898",
     "geom:latitude":-35.262247,
     "geom:longitude":149.147846,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.262003,
     "lbl:longitude":149.14701,
     "lbl:max_zoom":18.0,
@@ -47,13 +53,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC80002",
         "wd:id":"Q4530072"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938701
     ],
     "wof:country":"AU",
-    "wof:geomhash":"806d19f162e080498c068d322936f59f",
+    "wof:geomhash":"3744c91a705c52ed3eef560482a348a3",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -64,7 +72,7 @@
         }
     ],
     "wof:id":404549923,
-    "wof:lastmodified":1566602859,
+    "wof:lastmodified":1695878009,
     "wof:name":"Ainslie",
     "wof:parent_id":85681493,
     "wof:placetype":"localadmin",

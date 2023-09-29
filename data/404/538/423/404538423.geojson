@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.088667,
-    "geom:area_square_m":862950320.367993,
+    "geom:area_square_m":862950320.368467,
     "geom:bbox":"141.167954016,-38.2787226535,141.61870944,-37.9159682525",
     "geom:latitude":-38.08607,
     "geom:longitude":141.387769,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.079449,
     "lbl:longitude":141.38422,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Drumborg"
@@ -38,9 +44,12 @@
         102049579
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20418"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"6af79b738ba191fc6f089c2cf85c9689",
+    "wof:geomhash":"9dea1d6702adf24aa790d06430be1769",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404538423,
-    "wof:lastmodified":1566602438,
+    "wof:lastmodified":1695877379,
     "wof:name":"Drumborg",
     "wof:parent_id":102049579,
     "wof:placetype":"localadmin",

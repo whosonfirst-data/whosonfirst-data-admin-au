@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000358,
-    "geom:area_square_m":3881501.854698,
+    "geom:area_square_m":3881501.854715,
     "geom:bbox":"153.247097248,-28.826858997,153.275228,-28.7972503575",
     "geom:latitude":-28.811464,
     "geom:longitude":153.261815,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.811391,
     "lbl:longitude":153.262983,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "South Lismore"
@@ -38,12 +44,15 @@
         102049635
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12107"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931891
     ],
     "wof:country":"AU",
-    "wof:geomhash":"3fe0aada7de4f6a2048b6aa577df56fd",
+    "wof:geomhash":"f264b87f969008f2935acafba300b3a9",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404226165,
-    "wof:lastmodified":1566602052,
+    "wof:lastmodified":1695877162,
     "wof:name":"South Lismore",
     "wof:parent_id":102049635,
     "wof:placetype":"localadmin",

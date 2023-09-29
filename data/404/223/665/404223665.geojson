@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003559,
-    "geom:area_square_m":38637456.472681,
+    "geom:area_square_m":38637456.472569,
     "geom:bbox":"153.382720416,-28.6437190055,153.472027008,-28.5654680015",
     "geom:latitude":-28.60318,
     "geom:longitude":153.427947,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.604056,
     "lbl:longitude":153.427257,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Goonengerry"
@@ -38,9 +44,12 @@
         102048747
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10996"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"a3e0df50afa3e9138fc757c6ff31e824",
+    "wof:geomhash":"0363d8d58b510ed364b34b13002745fa",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404223665,
-    "wof:lastmodified":1566602555,
+    "wof:lastmodified":1695877450,
     "wof:name":"Goonengerry",
     "wof:parent_id":102048747,
     "wof:placetype":"localadmin",

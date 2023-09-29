@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000312,
-    "geom:area_square_m":3404042.682253,
+    "geom:area_square_m":3404042.682263,
     "geom:bbox":"152.66255184,-28.0216829975,152.686216608,-28.0025792315",
     "geom:latitude":-28.012321,
     "geom:longitude":152.675728,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.013719,
     "lbl:longitude":152.678317,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Dugandan"
@@ -38,12 +44,15 @@
         102048945
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30513"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934319
     ],
     "wof:country":"AU",
-    "wof:geomhash":"f3595a5149111d59076b9372deb8c0d0",
+    "wof:geomhash":"1c130d88f6f87aa5d17ed39c67eb4b14",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404542015,
-    "wof:lastmodified":1566602268,
+    "wof:lastmodified":1695877273,
     "wof:name":"Dugandan",
     "wof:parent_id":102048945,
     "wof:placetype":"localadmin",

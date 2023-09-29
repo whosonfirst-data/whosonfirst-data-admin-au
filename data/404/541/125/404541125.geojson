@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003018,
-    "geom:area_square_m":34860533.260043,
+    "geom:area_square_m":34860533.26007,
     "geom:bbox":"148.967247008,-20.959476033,149.061742912,-20.890865971",
     "geom:latitude":-20.925615,
     "geom:longitude":149.005444,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-20.928055,
     "lbl:longitude":148.994389,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ball Bay"
@@ -38,9 +44,12 @@
         102048783
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30088"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"0ae4c48f4ebe5d5250525ccf75a8c8ca",
+    "wof:geomhash":"1980f1d3675b9b9e2dc5873ec5d71f85",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404541125,
-    "wof:lastmodified":1566603097,
+    "wof:lastmodified":1695877768,
     "wof:name":"Ball Bay",
     "wof:parent_id":102048783,
     "wof:placetype":"localadmin",

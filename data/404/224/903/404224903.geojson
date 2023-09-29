@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00162,
-    "geom:area_square_m":16342406.851029,
+    "geom:area_square_m":16342406.851024,
     "geom:bbox":"150.419174016,-35.354178995,150.46076,-35.2877459945",
     "geom:latitude":-35.31942,
     "geom:longitude":150.439111,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.319242,
     "lbl:longitude":150.439419,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0645\u06cc\u0644\u062a\u0648\u0646"
@@ -113,9 +119,12 @@
         102049405
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11546"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"f3d9f5a67fdca1295db3c5ec79830317",
+    "wof:geomhash":"c79bb509a3947012172e167bad001019",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -127,7 +136,7 @@
         }
     ],
     "wof:id":404224903,
-    "wof:lastmodified":1566602612,
+    "wof:lastmodified":1695877483,
     "wof:name":"Milton",
     "wof:parent_id":102049405,
     "wof:placetype":"localadmin",

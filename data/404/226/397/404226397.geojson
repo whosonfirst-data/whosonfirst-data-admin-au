@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002317,
-    "geom:area_square_m":24093253.393954,
+    "geom:area_square_m":24093253.393935,
     "geom:bbox":"151.921350016,-32.7836100075,152.061832416,-32.719213006",
     "geom:latitude":-32.747064,
     "geom:longitude":151.997143,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.744978,
     "lbl:longitude":151.986533,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tanilba Bay"
@@ -38,9 +44,12 @@
         102049095
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12210"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"eb2f7e4d910aa0a7097457ac8d2aad05",
+    "wof:geomhash":"97038e0242e4c9f1824da291b9736629",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404226397,
-    "wof:lastmodified":1566602019,
+    "wof:lastmodified":1695877142,
     "wof:name":"Tanilba Bay",
     "wof:parent_id":102049095,
     "wof:placetype":"localadmin",

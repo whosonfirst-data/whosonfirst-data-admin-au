@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.045062,
-    "geom:area_square_m":457561371.975195,
+    "geom:area_square_m":457561371.974902,
     "geom:bbox":"148.256076608,-34.9073849585,148.577947392,-34.6834930005",
     "geom:latitude":-34.797676,
     "geom:longitude":148.43642,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.836086,
     "lbl:longitude":148.468463,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Jugiong"
@@ -47,9 +53,12 @@
         102049663
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11189"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"bde797082a616842cb83e02699b28cc4",
+    "wof:geomhash":"ca451c1db40b396bc32246a64ec04d59",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":404224099,
-    "wof:lastmodified":1566602594,
+    "wof:lastmodified":1695877471,
     "wof:name":"Jugiong",
     "wof:parent_id":102049663,
     "wof:placetype":"localadmin",

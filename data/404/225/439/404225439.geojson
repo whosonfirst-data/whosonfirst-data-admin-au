@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000352,
-    "geom:area_square_m":3835887.823474,
+    "geom:area_square_m":3835887.823467,
     "geom:bbox":"153.442815008,-28.331648,153.477226016,-28.313259999",
     "geom:latitude":-28.322055,
     "geom:longitude":153.459663,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.32314,
     "lbl:longitude":153.460816,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Nunderi"
@@ -38,12 +44,15 @@
         102048589
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11784"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931497
     ],
     "wof:country":"AU",
-    "wof:geomhash":"9f6e178bd188804eeb17d7881185f34b",
+    "wof:geomhash":"d6b19b690abcd5444745f2b262952697",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404225439,
-    "wof:lastmodified":1566602680,
+    "wof:lastmodified":1695877519,
     "wof:name":"Nunderi",
     "wof:parent_id":102048589,
     "wof:placetype":"localadmin",

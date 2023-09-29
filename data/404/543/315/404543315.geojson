@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003577,
-    "geom:area_square_m":39152424.521577,
+    "geom:area_square_m":39152424.521593,
     "geom:bbox":"152.573124,-27.752488998,152.688308,-27.6989979685",
     "geom:latitude":-27.721081,
     "geom:longitude":152.634554,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.720316,
     "lbl:longitude":152.628819,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mount Forbes"
@@ -54,9 +60,12 @@
         102048583
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31127"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"301ab9e148b3f0e3f8f567a8480963e0",
+    "wof:geomhash":"145c506005f156d6af9763df8a25934a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -69,7 +78,7 @@
         }
     ],
     "wof:id":404543315,
-    "wof:lastmodified":1566602115,
+    "wof:lastmodified":1695877199,
     "wof:name":"Mount Forbes",
     "wof:parent_id":102048583,
     "wof:placetype":"localadmin",

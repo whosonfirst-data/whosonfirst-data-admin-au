@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000332,
-    "geom:area_square_m":3755513.471399,
+    "geom:area_square_m":3755513.471386,
     "geom:bbox":"151.222151168,-23.89581198,151.24955184,-23.8728643395",
     "geom:latitude":-23.883594,
     "geom:longitude":151.23563,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-23.882362,
     "lbl:longitude":151.235636,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "New Auckland"
@@ -38,12 +44,15 @@
         102049463
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31213"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934989
     ],
     "wof:country":"AU",
-    "wof:geomhash":"705b7ad632c65e3a88dc0f2c2b0ccd5f",
+    "wof:geomhash":"5ad77f710807c22c93ff6ba243e5a27c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404543501,
-    "wof:lastmodified":1566602120,
+    "wof:lastmodified":1695877202,
     "wof:name":"New Auckland",
     "wof:parent_id":102049463,
     "wof:placetype":"localadmin",

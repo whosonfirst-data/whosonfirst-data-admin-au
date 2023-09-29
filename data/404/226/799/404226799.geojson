@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000615,
-    "geom:area_square_m":6476975.273687,
+    "geom:area_square_m":6476975.273695,
     "geom:bbox":"150.8030856,-31.55263083,150.837143584,-31.5207759575",
     "geom:latitude":-31.534443,
     "geom:longitude":150.821176,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.532925,
     "lbl:longitude":150.821171,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Wallabadah"
@@ -38,12 +44,15 @@
         102048659
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12389"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932213
     ],
     "wof:country":"AU",
-    "wof:geomhash":"ca0adf244bb91c2d55fb8e704b0a09f8",
+    "wof:geomhash":"03051763cadb98d52b7ee314bcf6a44a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404226799,
-    "wof:lastmodified":1566602013,
+    "wof:lastmodified":1695877139,
     "wof:name":"Wallabadah",
     "wof:parent_id":102048659,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024692,
-    "geom:area_square_m":274220616.902639,
+    "geom:area_square_m":274220616.902205,
     "geom:bbox":"151.65775,-26.2309949965,151.84353888,-25.9138221165",
     "geom:latitude":-26.083722,
     "geom:longitude":151.731618,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-26.121192,
     "lbl:longitude":151.730186,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mondure"
@@ -38,9 +44,12 @@
         102048861
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31081"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"e6d20c1e2e47cebb64c51606156f24f2",
+    "wof:geomhash":"2b7cd72fbf9a0c9185a65b569398c029",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404543215,
-    "wof:lastmodified":1566602128,
+    "wof:lastmodified":1695877206,
     "wof:name":"Mondure",
     "wof:parent_id":102048861,
     "wof:placetype":"localadmin",

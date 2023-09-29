@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00301,
-    "geom:area_square_m":32900786.142391,
+    "geom:area_square_m":32900786.142493,
     "geom:bbox":"153.19499,-27.923011009,153.266384,-27.8506820215",
     "geom:latitude":-27.887736,
     "geom:longitude":153.234406,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.888063,
     "lbl:longitude":153.234406,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Wongawallan"
@@ -39,9 +45,12 @@
         102049363
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31797"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"dab4f89960034776d1b202c0d6cb0166",
+    "wof:geomhash":"7e573dd31180c1b622685937bfdeeb98",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":404544733,
-    "wof:lastmodified":1566602179,
+    "wof:lastmodified":1695877233,
     "wof:name":"Wongawallan",
     "wof:parent_id":102049363,
     "wof:placetype":"localadmin",

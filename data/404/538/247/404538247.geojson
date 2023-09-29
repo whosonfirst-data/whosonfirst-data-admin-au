@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003486,
-    "geom:area_square_m":33831880.727422,
+    "geom:area_square_m":33831880.727398,
     "geom:bbox":"143.500488064,-38.3206075045,143.597882752,-38.2504724505",
     "geom:latitude":-38.290053,
     "geom:longitude":143.547124,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.298197,
     "lbl:longitude":143.534948,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Cororooke"
@@ -38,9 +44,12 @@
         102049117
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20338"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"899767c6b4546729bc4556becfeb92da",
+    "wof:geomhash":"ea61c53dad0476f1137c7e8f0fbf7e59",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404538247,
-    "wof:lastmodified":1566602468,
+    "wof:lastmodified":1695877394,
     "wof:name":"Cororooke",
     "wof:parent_id":102049117,
     "wof:placetype":"localadmin",

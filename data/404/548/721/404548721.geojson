@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016108,
-    "geom:area_square_m":150119774.0847,
+    "geom:area_square_m":150119774.084706,
     "geom:bbox":"147.119292,-41.189356162,147.264068992,-40.9991175725",
     "geom:latitude":-41.088575,
     "geom:longitude":147.188741,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-41.081386,
     "lbl:longitude":147.201892,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bellingham"
@@ -38,9 +44,12 @@
         102049339
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60023"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"dc4ea930eaf4eed0e7e1a76e19d30a7b",
+    "wof:geomhash":"e2f741cab8ee0a52d77cd90fbe715cb9",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404548721,
-    "wof:lastmodified":1566603234,
+    "wof:lastmodified":1695877835,
     "wof:name":"Bellingham",
     "wof:parent_id":102049339,
     "wof:placetype":"localadmin",

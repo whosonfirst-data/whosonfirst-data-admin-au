@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.05074,
-    "geom:area_square_m":528195080.166483,
+    "geom:area_square_m":528195080.16639,
     "geom:bbox":"116.907905568,-32.7347047765,117.402041504,-32.5854401165",
     "geom:latitude":-32.662818,
     "geom:longitude":117.171776,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.652495,
     "lbl:longitude":117.15189,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Popanyinning"
@@ -38,9 +44,12 @@
         102048559
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50655"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"fcc750f05abd7bdd17a97f71e7ac729d",
+    "wof:geomhash":"5737a3fcee0bc4bbe85549addae42b38",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404548149,
-    "wof:lastmodified":1566603240,
+    "wof:lastmodified":1695877838,
     "wof:name":"Popanyinning",
     "wof:parent_id":102048559,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015928,
-    "geom:area_square_m":159916008.729717,
+    "geom:area_square_m":159916008.729591,
     "geom:bbox":"143.983287008,-35.773398985,144.199036096,-35.647616079",
     "geom:latitude":-35.710724,
     "geom:longitude":144.08871,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.717118,
     "lbl:longitude":144.097663,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Gannawarra"
@@ -38,9 +44,12 @@
         102049383
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20511"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"894a6110ef26a2431c7e1ffaa3c992d1",
+    "wof:geomhash":"ca10131ea1f79721b973a31d5e066309",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404538629,
-    "wof:lastmodified":1566602438,
+    "wof:lastmodified":1695877379,
     "wof:name":"Gannawarra",
     "wof:parent_id":102049383,
     "wof:placetype":"localadmin",

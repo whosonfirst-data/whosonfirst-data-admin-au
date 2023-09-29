@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002825,
-    "geom:area_square_m":29423836.209666,
+    "geom:area_square_m":29423836.209713,
     "geom:bbox":"151.664418016,-32.6439139915,151.76496176,-32.593820376",
     "geom:latitude":-32.619126,
     "geom:longitude":151.710168,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.620182,
     "lbl:longitude":151.706744,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Glen Oak"
@@ -38,9 +44,12 @@
         102049095
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10957"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"5bb61ea585e7d036978239d2309443de",
+    "wof:geomhash":"dc8c5cbcd4ff1bad7a5a3aa82bf35140",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404223577,
-    "wof:lastmodified":1566602566,
+    "wof:lastmodified":1695877456,
     "wof:name":"Glen Oak",
     "wof:parent_id":102049095,
     "wof:placetype":"localadmin",

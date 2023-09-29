@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.304102,
-    "geom:area_square_m":3221553400.372615,
+    "geom:area_square_m":3221553400.371727,
     "geom:bbox":"151.303511776,-31.4214777625,152.29571744,-30.7570047525",
     "geom:latitude":-31.048145,
     "geom:longitude":151.734378,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.077757,
     "lbl:longitude":151.644478,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Walcha"
@@ -50,9 +56,12 @@
         102048995
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12386"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"6ba63e560631d3b6da9fe9ca12c95413",
+    "wof:geomhash":"ae12e216e9175d380782f23f1d418d54",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":404226793,
-    "wof:lastmodified":1566602053,
+    "wof:lastmodified":1695877163,
     "wof:name":"Walcha",
     "wof:parent_id":102048995,
     "wof:placetype":"localadmin",

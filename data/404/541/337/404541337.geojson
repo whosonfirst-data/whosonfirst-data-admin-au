@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00566,
-    "geom:area_square_m":62666513.874207,
+    "geom:area_square_m":62666513.874044,
     "geom:bbox":"152.701044128,-26.495906838,152.796920896,-26.37000198",
     "geom:latitude":-26.433676,
     "geom:longitude":152.747328,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-26.466663,
     "lbl:longitude":152.730685,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bollier"
@@ -38,9 +44,12 @@
         102049393
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30191"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"6c45c18072d6a7e29471cb3258253a48",
+    "wof:geomhash":"733bd6f45dde020641cdcbcf9b3c3238",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404541337,
-    "wof:lastmodified":1566603047,
+    "wof:lastmodified":1695877744,
     "wof:name":"Bollier",
     "wof:parent_id":102049393,
     "wof:placetype":"localadmin",

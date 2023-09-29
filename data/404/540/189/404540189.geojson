@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012947,
-    "geom:area_square_m":128114104.14802,
+    "geom:area_square_m":128114104.148018,
     "geom:bbox":"143.9784,-36.908852506,144.127585088,-36.7728808545",
     "geom:latitude":-36.846593,
     "geom:longitude":144.064725,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.849473,
     "lbl:longitude":144.064733,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Shelbourne"
@@ -47,9 +53,12 @@
         102049661
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21209"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"ec095c193151bbe60c3a364e0118b87e",
+    "wof:geomhash":"25888ab6757af9e7955c9724728cbdbe",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":404540189,
-    "wof:lastmodified":1566603005,
+    "wof:lastmodified":1695877721,
     "wof:name":"Shelbourne",
     "wof:parent_id":102049661,
     "wof:placetype":"localadmin",

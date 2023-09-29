@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001412,
-    "geom:area_square_m":14364680.349562,
+    "geom:area_square_m":14364680.349664,
     "geom:bbox":"138.761930176,-34.65515853,138.816112992,-34.596591119",
     "geom:latitude":-34.625014,
     "geom:longitude":138.792837,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.622131,
     "lbl:longitude":138.792433,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kalbeeba"
@@ -38,9 +44,12 @@
         102048713
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40324"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"46efabbcbf4d41ad86a09e6277f292f7",
+    "wof:geomhash":"6731707a79f9beefb3e289a1f7b03dbd",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404545569,
-    "wof:lastmodified":1566602208,
+    "wof:lastmodified":1695877248,
     "wof:name":"Kalbeeba",
     "wof:parent_id":102048713,
     "wof:placetype":"localadmin",

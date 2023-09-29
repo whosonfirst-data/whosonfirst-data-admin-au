@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.038618,
-    "geom:area_square_m":381662981.490242,
+    "geom:area_square_m":381662981.490663,
     "geom:bbox":"142.073568,-37.085973023,142.410996736,-36.8393340015",
     "geom:latitude":-36.940638,
     "geom:longitude":142.23629,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.916101,
     "lbl:longitude":142.208496,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Wartook"
@@ -38,9 +44,12 @@
         102048541
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21436"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"b6929aec66fef61a28239a2d48ab6d84",
+    "wof:geomhash":"6ad5c62ec5e0b7dc357398c3c16d37d0",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404540697,
-    "wof:lastmodified":1566603027,
+    "wof:lastmodified":1695877734,
     "wof:name":"Wartook",
     "wof:parent_id":102048541,
     "wof:placetype":"localadmin",

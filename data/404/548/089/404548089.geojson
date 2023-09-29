@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000628,
-    "geom:area_square_m":6551796.930528,
+    "geom:area_square_m":6551796.930524,
     "geom:bbox":"115.754937568,-32.5114218755,115.78497648,-32.475137992",
     "geom:latitude":-32.49556,
     "geom:longitude":115.773019,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.495819,
     "lbl:longitude":115.773247,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Parklands"
@@ -42,12 +48,15 @@
         102048431
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50626"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937655
     ],
     "wof:country":"AU",
-    "wof:geomhash":"2244bd9582ccdcb6c65103f4671d92f8",
+    "wof:geomhash":"b480930c1890b30725bf7d98c44b828e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -60,7 +69,7 @@
         }
     ],
     "wof:id":404548089,
-    "wof:lastmodified":1566603204,
+    "wof:lastmodified":1695877818,
     "wof:name":"Parklands",
     "wof:parent_id":102048431,
     "wof:placetype":"localadmin",

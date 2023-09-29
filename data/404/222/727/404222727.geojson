@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005697,
-    "geom:area_square_m":60558602.296591,
+    "geom:area_square_m":60558602.296501,
     "geom:bbox":"152.800556992,-30.786894,152.911383008,-30.671187008",
     "geom:latitude":-30.729023,
     "geom:longitude":152.859217,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-30.751246,
     "lbl:longitude":152.878553,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Congarinni"
@@ -38,9 +44,12 @@
         102049433
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10579"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"5d62c81169baa5eb1362419de010af50",
+    "wof:geomhash":"788f97ee9e741e59f2fe570ec9da9eb0",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404222727,
-    "wof:lastmodified":1566602819,
+    "wof:lastmodified":1695877604,
     "wof:name":"Congarinni",
     "wof:parent_id":102049433,
     "wof:placetype":"localadmin",

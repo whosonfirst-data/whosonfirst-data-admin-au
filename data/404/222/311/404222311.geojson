@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009837,
-    "geom:area_square_m":98953085.498917,
+    "geom:area_square_m":98953085.499068,
     "geom:bbox":"149.177388,-35.645331995,149.282492992,-35.486379995",
     "geom:latitude":-35.559392,
     "geom:longitude":149.223524,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.53927,
     "lbl:longitude":149.228745,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Burra"
@@ -59,9 +65,12 @@
         102049385
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10394"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"37d31a26eccf7c0dfc34815a3ed1ca05",
+    "wof:geomhash":"a130ecf86efb79d112426963cf9b8e70",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -73,7 +82,7 @@
         }
     ],
     "wof:id":404222311,
-    "wof:lastmodified":1566602810,
+    "wof:lastmodified":1695877598,
     "wof:name":"Burra",
     "wof:parent_id":102049385,
     "wof:placetype":"localadmin",

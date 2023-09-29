@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031323,
-    "geom:area_square_m":335870416.728098,
+    "geom:area_square_m":335870416.729022,
     "geom:bbox":"153.046396992,-29.998801992,153.29451488,-29.7689970085",
     "geom:latitude":-29.868333,
     "geom:longitude":153.161763,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-29.860819,
     "lbl:longitude":153.159927,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Halfway Creek"
@@ -44,9 +50,12 @@
         102048835
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11061"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"5c5f429907f3602264903a58ac551e57",
+    "wof:geomhash":"6c0e67c3d7c18aba2928683afa541ea3",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404223811,
-    "wof:lastmodified":1566602501,
+    "wof:lastmodified":1695877414,
     "wof:name":"Halfway Creek",
     "wof:parent_id":102048835,
     "wof:placetype":"localadmin",

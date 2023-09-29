@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003391,
-    "geom:area_square_m":37553864.025798,
+    "geom:area_square_m":37553864.02582,
     "geom:bbox":"152.915364,-26.444600011,153.006649792,-26.3716739915",
     "geom:latitude":-26.411304,
     "geom:longitude":152.963654,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-26.413415,
     "lbl:longitude":152.966775,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tinbeerwah"
@@ -39,9 +45,12 @@
         102049303
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31638"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"938d3c9a7fc2f9fd87c3fa7d38a1ae48",
+    "wof:geomhash":"134e57692a14f935ba07c6b3ec231e0e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":404544405,
-    "wof:lastmodified":1566602194,
+    "wof:lastmodified":1695877241,
     "wof:name":"Tinbeerwah",
     "wof:parent_id":102049303,
     "wof:placetype":"localadmin",

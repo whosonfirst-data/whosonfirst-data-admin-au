@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008793,
-    "geom:area_square_m":85435614.536794,
+    "geom:area_square_m":85435614.536978,
     "geom:bbox":"146.361060992,-38.2641379935,146.497213088,-38.1560619925",
     "geom:latitude":-38.20768,
     "geom:longitude":146.421108,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.205783,
     "lbl:longitude":146.414376,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Morwell"
@@ -38,9 +44,12 @@
         102049021
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20929"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"df1c74663ea77151e9b1acb49818d7e3",
+    "wof:geomhash":"f17665e5c03e91288db269dffb02db6e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404539565,
-    "wof:lastmodified":1566602391,
+    "wof:lastmodified":1695877350,
     "wof:name":"Morwell",
     "wof:parent_id":102049021,
     "wof:placetype":"localadmin",

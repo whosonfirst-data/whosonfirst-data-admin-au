@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017787,
-    "geom:area_square_m":195347666.621244,
+    "geom:area_square_m":195347666.621233,
     "geom:bbox":"152.190832992,-27.429300066,152.432876,-27.2863499925",
     "geom:latitude":-27.356213,
     "geom:longitude":152.322106,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.361938,
     "lbl:longitude":152.322056,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mount Hallen"
@@ -38,9 +44,12 @@
         102049287
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31132"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"c5338f3e8e39a14fe271af04308f42e9",
+    "wof:geomhash":"1a7f46d8769d2513a31c63742656a342",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404543325,
-    "wof:lastmodified":1566602118,
+    "wof:lastmodified":1695877201,
     "wof:name":"Mount Hallen",
     "wof:parent_id":102049287,
     "wof:placetype":"localadmin",

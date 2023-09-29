@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011673,
-    "geom:area_square_m":114958741.380378,
+    "geom:area_square_m":114958741.380455,
     "geom:bbox":"144.056001952,-37.271835678,144.205595552,-37.1476597745",
     "geom:latitude":-37.205324,
     "geom:longitude":144.122796,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.199542,
     "lbl:longitude":144.115261,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Yandoit"
@@ -38,9 +44,12 @@
         102049553
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21524"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"68aa2718a6f8093fc6b8d073b78dc84b",
+    "wof:geomhash":"20ffe53ab899a4ae2a92fa1df94aa390",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404540893,
-    "wof:lastmodified":1566603001,
+    "wof:lastmodified":1695877719,
     "wof:name":"Yandoit",
     "wof:parent_id":102049553,
     "wof:placetype":"localadmin",

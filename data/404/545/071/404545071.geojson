@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001471,
-    "geom:area_square_m":15060754.283026,
+    "geom:area_square_m":15060754.283039,
     "geom:bbox":"140.685027008,-34.121180006,140.730913696,-34.06449978",
     "geom:latitude":-34.09343,
     "geom:longitude":140.706484,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.091697,
     "lbl:longitude":140.708776,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Chaffey"
@@ -38,9 +44,12 @@
         102048689
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40098"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"5f6a305814c7b9bdaaf3ca7ca0dba86b",
+    "wof:geomhash":"7fd10e32cf8e5f9dc88ed25f367b9326",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404545071,
-    "wof:lastmodified":1566602219,
+    "wof:lastmodified":1695877252,
     "wof:name":"Chaffey",
     "wof:parent_id":102048689,
     "wof:placetype":"localadmin",

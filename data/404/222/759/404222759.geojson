@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.061969,
-    "geom:area_square_m":628366976.865086,
+    "geom:area_square_m":628366976.864829,
     "geom:bbox":"147.859616448,-35.065750009,148.322735008,-34.7730579015",
     "geom:latitude":-34.910049,
     "geom:longitude":148.120247,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.923012,
     "lbl:longitude":148.135904,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Coolac"
@@ -38,9 +44,12 @@
         102049279
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10593"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"d1f96c326d51cff3b125588068edf4a6",
+    "wof:geomhash":"17b38545a5faefd8bac045c428245051",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404222759,
-    "wof:lastmodified":1566602791,
+    "wof:lastmodified":1695877587,
     "wof:name":"Coolac",
     "wof:parent_id":102049279,
     "wof:placetype":"localadmin",

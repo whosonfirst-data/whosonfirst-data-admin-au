@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037213,
-    "geom:area_square_m":365402089.874763,
+    "geom:area_square_m":365402089.874844,
     "geom:bbox":"141.611346016,-37.558871133,141.902538848,-37.2977289995",
     "geom:latitude":-37.43034,
     "geom:longitude":141.752456,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.412709,
     "lbl:longitude":141.76443,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Konongwootong"
@@ -38,9 +44,12 @@
         102048455
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20728"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"99c34173a7acf5c4493ffd77592650df",
+    "wof:geomhash":"ddaefd73f78d4bcbddee30a84beb7fd2",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404539113,
-    "wof:lastmodified":1566602418,
+    "wof:lastmodified":1695877368,
     "wof:name":"Konongwootong",
     "wof:parent_id":102048455,
     "wof:placetype":"localadmin",

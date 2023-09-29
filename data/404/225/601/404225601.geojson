@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000067,
-    "geom:area_square_m":691836.006589,
+    "geom:area_square_m":691836.00659,
     "geom:bbox":"151.641176032,-33.078377667,151.651306016,-33.068116124",
     "geom:latitude":-33.072051,
     "geom:longitude":151.646646,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.07208,
     "lbl:longitude":151.646742,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Pelikaan"
@@ -306,12 +312,15 @@
         102048999
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11856"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931569
     ],
     "wof:country":"AU",
-    "wof:geomhash":"2cd80a57f5487eb348b600bf377703fd",
+    "wof:geomhash":"d5da99ff86b7cb2bc6653cfc63652047",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -324,7 +333,7 @@
         }
     ],
     "wof:id":404225601,
-    "wof:lastmodified":1566602726,
+    "wof:lastmodified":1695877546,
     "wof:name":"Pelican",
     "wof:parent_id":102048999,
     "wof:placetype":"localadmin",

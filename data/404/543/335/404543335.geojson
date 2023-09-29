@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000693,
-    "geom:area_square_m":8038068.591415,
+    "geom:area_square_m":8038068.591417,
     "geom:bbox":"148.589374016,-20.391367007,148.623252128,-20.3582639765",
     "geom:latitude":-20.37328,
     "geom:longitude":148.608096,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-20.373262,
     "lbl:longitude":148.608414,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mount Julian"
@@ -44,12 +50,15 @@
         102049581
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31136"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934913
     ],
     "wof:country":"AU",
-    "wof:geomhash":"ab9f9d06413750e278da1386501ac2dd",
+    "wof:geomhash":"0e9994ea7e560e3651f285985db7b2c9",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":404543335,
-    "wof:lastmodified":1566602122,
+    "wof:lastmodified":1695877203,
     "wof:name":"Mount Julian",
     "wof:parent_id":102049581,
     "wof:placetype":"localadmin",

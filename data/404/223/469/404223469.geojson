@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010519,
-    "geom:area_square_m":108336417.061258,
+    "geom:area_square_m":108336417.061363,
     "geom:bbox":"149.47793,-33.663010005,149.590664,-33.522262005",
     "geom:latitude":-33.598499,
     "geom:longitude":149.537756,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.605425,
     "lbl:longitude":149.531079,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Fosters Valley"
@@ -38,9 +44,12 @@
         102049305
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10909"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"9d5ff0d360db67700322c0815aed7409",
+    "wof:geomhash":"e2c8abce880e84da4cdc893fa64eb6e7",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404223469,
-    "wof:lastmodified":1566602551,
+    "wof:lastmodified":1695877446,
     "wof:name":"Fosters Valley",
     "wof:parent_id":102049305,
     "wof:placetype":"localadmin",

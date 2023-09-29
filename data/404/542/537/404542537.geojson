@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01671,
-    "geom:area_square_m":185352690.148686,
+    "geom:area_square_m":185352690.148559,
     "geom:bbox":"151.614144992,-26.3165039945,151.79318,-26.134780992",
     "geom:latitude":-26.223522,
     "geom:longitude":151.70898,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-26.252891,
     "lbl:longitude":151.737386,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Hivesville"
@@ -38,9 +44,12 @@
         102048861
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30762"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"d4dcd868a2326ab0c8449c752228bacb",
+    "wof:geomhash":"c2f418c0581495103e42e3315b1b4270",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404542537,
-    "wof:lastmodified":1566602289,
+    "wof:lastmodified":1695877286,
     "wof:name":"Hivesville",
     "wof:parent_id":102048861,
     "wof:placetype":"localadmin",

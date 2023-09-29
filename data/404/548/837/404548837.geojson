@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.05007,
-    "geom:area_square_m":463073217.59349,
+    "geom:area_square_m":463073217.593763,
     "geom:bbox":"147.33524,-41.6985070015,147.780109312,-41.478488074",
     "geom:latitude":-41.587773,
     "geom:longitude":147.559747,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-41.582371,
     "lbl:longitude":147.544591,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Deddington"
@@ -56,9 +62,12 @@
         102049249
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60075"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"6d64bfb7f1695d9b3ed9ce935433c44f",
+    "wof:geomhash":"ae4de1368b0c11b3f91f14237cc46b0c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -70,7 +79,7 @@
         }
     ],
     "wof:id":404548837,
-    "wof:lastmodified":1566603218,
+    "wof:lastmodified":1695877825,
     "wof:name":"Deddington",
     "wof:parent_id":102049249,
     "wof:placetype":"localadmin",

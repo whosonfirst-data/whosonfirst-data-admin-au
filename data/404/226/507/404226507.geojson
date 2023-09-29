@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018004,
-    "geom:area_square_m":185440216.712645,
+    "geom:area_square_m":185440216.712609,
     "geom:bbox":"149.562640992,-33.708639996,149.702861984,-33.4848546905",
     "geom:latitude":-33.591866,
     "geom:longitude":149.631045,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.574506,
     "lbl:longitude":149.624141,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "The Lagoon"
@@ -41,9 +47,12 @@
         102049305
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12259"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"1f4d708b0a431cba1b98ab148298f4c2",
+    "wof:geomhash":"58007f21906e66cf5a5e9d649c6e2eb9",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404226507,
-    "wof:lastmodified":1566602057,
+    "wof:lastmodified":1695877165,
     "wof:name":"The Lagoon",
     "wof:parent_id":102049305,
     "wof:placetype":"localadmin",

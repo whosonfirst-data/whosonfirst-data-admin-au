@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.190619,
-    "geom:area_square_m":1964142787.754887,
+    "geom:area_square_m":1964142787.754932,
     "geom:bbox":"117.906816448,-33.7972346275,118.434865984,-33.3161940755",
     "geom:latitude":-33.559666,
     "geom:longitude":118.171926,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.571459,
     "lbl:longitude":118.166803,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Nyabing"
@@ -38,9 +44,12 @@
         102048681
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50602"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"105c8f6bb0a5c31cfea383271d292a5c",
+    "wof:geomhash":"b80e3d53fae19e3f188ab0463bc8c4a8",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404548037,
-    "wof:lastmodified":1566603185,
+    "wof:lastmodified":1695877808,
     "wof:name":"Nyabing",
     "wof:parent_id":102048681,
     "wof:placetype":"localadmin",

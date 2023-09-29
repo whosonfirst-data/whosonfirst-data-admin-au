@@ -10,6 +10,12 @@
     "geom:latitude":-35.015173,
     "geom:longitude":117.900961,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.014975,
     "lbl:longitude":117.903409,
     "lbl:max_zoom":18.0,
@@ -42,13 +48,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC50508",
         "wd:id":"Q6872217"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937515
     ],
     "wof:country":"AU",
-    "wof:geomhash":"abbb2f55a05277715031b61d08909eb8",
+    "wof:geomhash":"ed95b382c8fc5d3a959cd9f1027ed704",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -60,7 +68,7 @@
         }
     ],
     "wof:id":404547825,
-    "wof:lastmodified":1566602963,
+    "wof:lastmodified":1695878021,
     "wof:name":"Mira Mar",
     "wof:parent_id":102048671,
     "wof:placetype":"localadmin",

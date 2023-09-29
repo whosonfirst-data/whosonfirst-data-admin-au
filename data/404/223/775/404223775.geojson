@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003294,
-    "geom:area_square_m":35019972.537549,
+    "geom:area_square_m":35019972.537302,
     "geom:bbox":"152.931548,-30.758432009,153.01204704,-30.6510470015",
     "geom:latitude":-30.717173,
     "geom:longitude":152.96938,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-30.726179,
     "lbl:longitude":152.966658,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Gumma"
@@ -47,9 +53,12 @@
         102049433
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11045"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"4da7a9d1563ee060023541b3fd666df2",
+    "wof:geomhash":"51bcf5895dc2f680a7824a942c731dc4",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":404223775,
-    "wof:lastmodified":1566602561,
+    "wof:lastmodified":1695877453,
     "wof:name":"Gumma",
     "wof:parent_id":102049433,
     "wof:placetype":"localadmin",

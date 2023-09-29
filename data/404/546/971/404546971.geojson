@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003201,
-    "geom:area_square_m":33541895.274026,
+    "geom:area_square_m":33541895.274051,
     "geom:bbox":"116.040259808,-32.085225887,116.142879008,-32.0274179935",
     "geom:latitude":-32.057475,
     "geom:longitude":116.095814,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.05581,
     "lbl:longitude":116.094988,
     "lbl:max_zoom":18.0,
@@ -46,10 +52,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC50126",
         "wd:id":"Q5032691"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"583d69ec3b9beffc4c5935c53f087a4c",
+    "wof:geomhash":"4db84e8ee09ffdf19cf978c60646145e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -62,7 +70,7 @@
         }
     ],
     "wof:id":404546971,
-    "wof:lastmodified":1566603127,
+    "wof:lastmodified":1695878041,
     "wof:name":"Canning Mills",
     "wof:parent_id":102048953,
     "wof:placetype":"localadmin",

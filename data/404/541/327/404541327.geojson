@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000351,
-    "geom:area_square_m":3850983.899456,
+    "geom:area_square_m":3850983.899471,
     "geom:bbox":"151.939549568,-27.511211998,151.969622016,-27.487012999",
     "geom:latitude":-27.498304,
     "geom:longitude":151.957173,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.498248,
     "lbl:longitude":151.957418,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Blue Mountain Heights"
@@ -38,12 +44,15 @@
         102049357
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30183"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101933957
     ],
     "wof:country":"AU",
-    "wof:geomhash":"afe42fe681f1a453dbb9e3f1f58d2c67",
+    "wof:geomhash":"9b60afd3be174cc9a2ae3a4c6ba19cc8",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404541327,
-    "wof:lastmodified":1566603094,
+    "wof:lastmodified":1695877767,
     "wof:name":"Blue Mountain Heights",
     "wof:parent_id":102049357,
     "wof:placetype":"localadmin",

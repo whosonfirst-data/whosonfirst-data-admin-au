@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002663,
-    "geom:area_square_m":27731146.621746,
+    "geom:area_square_m":27731146.621737,
     "geom:bbox":"151.594988256,-32.640673994,151.687108608,-32.578850398",
     "geom:latitude":-32.614948,
     "geom:longitude":151.649376,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.61963,
     "lbl:longitude":151.652525,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Duns Creek"
@@ -38,9 +44,12 @@
         102049095
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10755"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"3da538176d49069960f4e4152285d5ea",
+    "wof:geomhash":"0a46643510a468258ce8fdabc6b953b4",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404223123,
-    "wof:lastmodified":1566602561,
+    "wof:lastmodified":1695877453,
     "wof:name":"Duns Creek",
     "wof:parent_id":102049095,
     "wof:placetype":"localadmin",

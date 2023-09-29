@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021317,
-    "geom:area_square_m":259014771.337352,
+    "geom:area_square_m":259014771.337453,
     "geom:bbox":"141.909051968,-10.958673772,142.755429824,-10.459513987",
     "geom:latitude":-10.691832,
     "geom:longitude":142.249633,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-10.676814,
     "lbl:longitude":142.185256,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Prince Of Wales"
@@ -38,9 +44,12 @@
         102049123
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31357"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"25bd0130d41ef41c293a608241063548",
+    "wof:geomhash":"bfc0f327a160b5e6a0151ee48327fdc1",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404543811,
-    "wof:lastmodified":1566602099,
+    "wof:lastmodified":1695877191,
     "wof:name":"Prince Of Wales",
     "wof:parent_id":102049123,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.095264,
-    "geom:area_square_m":1080007771.60764,
+    "geom:area_square_m":1080007771.607717,
     "geom:bbox":"147.526180992,-23.705505995,148.098226016,-23.3757781455",
     "geom:latitude":-23.53014,
     "geom:longitude":147.796794,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-23.53237,
     "lbl:longitude":147.801003,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "The Gemfields"
@@ -38,9 +44,12 @@
         102049631
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31613"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"80d9e4e6da326bcfc26cc06b6ae50133",
+    "wof:geomhash":"c887a3ce1cde4a5b1f4295fd451c3761",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404544349,
-    "wof:lastmodified":1566602175,
+    "wof:lastmodified":1695877231,
     "wof:name":"The Gemfields",
     "wof:parent_id":102049631,
     "wof:placetype":"localadmin",

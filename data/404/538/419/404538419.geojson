@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004906,
-    "geom:area_square_m":47682079.771336,
+    "geom:area_square_m":47682079.771317,
     "geom:bbox":"145.783559904,-38.231249008,145.887472992,-38.140207511",
     "geom:latitude":-38.188493,
     "geom:longitude":145.835448,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.195577,
     "lbl:longitude":145.831911,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Drouin South"
@@ -38,9 +44,12 @@
         102048523
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20416"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"c23abfecb4d4e41c1a5f2777d1075bc2",
+    "wof:geomhash":"f7fb203da4cb3d30b23fa2bc7d0d71b6",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404538419,
-    "wof:lastmodified":1566602464,
+    "wof:lastmodified":1695877392,
     "wof:name":"Drouin South",
     "wof:parent_id":102048523,
     "wof:placetype":"localadmin",

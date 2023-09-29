@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001081,
-    "geom:area_square_m":11772237.019748,
+    "geom:area_square_m":11772237.019752,
     "geom:bbox":"153.48347856,-28.2607330045,153.529032992,-28.2217407395",
     "geom:latitude":-28.239422,
     "geom:longitude":153.505811,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.238859,
     "lbl:longitude":153.505376,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Terranora"
@@ -38,12 +44,15 @@
         102048589
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12247"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932069
     ],
     "wof:country":"AU",
-    "wof:geomhash":"bbc00c5836a3630dc6ee6d0e4a7c5d22",
+    "wof:geomhash":"d16c743ce8dbcb47181689c380529257",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404226481,
-    "wof:lastmodified":1566602067,
+    "wof:lastmodified":1695877172,
     "wof:name":"Terranora",
     "wof:parent_id":102048589,
     "wof:placetype":"localadmin",

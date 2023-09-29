@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.179192,
-    "geom:area_square_m":1934955682.585243,
+    "geom:area_square_m":1934955682.585211,
     "geom:bbox":"115.250204864,-29.3731755225,115.752265568,-28.917124419",
     "geom:latitude":-29.158152,
     "geom:longitude":115.484297,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-29.052441,
     "lbl:longitude":115.488082,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Yandanooka"
@@ -38,9 +44,12 @@
         102048725
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50877"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"3a193c86792294770ae1aab73bf13a05",
+    "wof:geomhash":"5beab2f0d11d3b1c33e8abf515b7275d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404548647,
-    "wof:lastmodified":1566603208,
+    "wof:lastmodified":1695877820,
     "wof:name":"Yandanooka",
     "wof:parent_id":102048725,
     "wof:placetype":"localadmin",

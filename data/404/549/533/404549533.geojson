@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011335,
-    "geom:area_square_m":105262839.366789,
+    "geom:area_square_m":105262839.366824,
     "geom:bbox":"147.12343664,-41.393245291,147.294258016,-41.268319009",
     "geom:latitude":-41.321469,
     "geom:longitude":147.208312,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-41.317535,
     "lbl:longitude":147.199989,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Underwood"
@@ -44,9 +50,12 @@
         102049411
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60384"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"dd1570a687d87d9d027561dd8eba348f",
+    "wof:geomhash":"47a423515bd04d0cd83e88979162be65",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404549533,
-    "wof:lastmodified":1566602824,
+    "wof:lastmodified":1695877608,
     "wof:name":"Underwood",
     "wof:parent_id":102049411,
     "wof:placetype":"localadmin",

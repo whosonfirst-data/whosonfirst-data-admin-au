@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003371,
-    "geom:area_square_m":34304708.130431,
+    "geom:area_square_m":34304708.13036,
     "geom:bbox":"150.784004128,-34.643238166,150.853129856,-34.5693830025",
     "geom:latitude":-34.606673,
     "geom:longitude":150.817977,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.605089,
     "lbl:longitude":150.817343,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Dunmore"
@@ -72,9 +78,12 @@
         102048497
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10753"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"95d6193debca380b033fb5bfadd4d23e",
+    "wof:geomhash":"80e3c62f1856b062bec673e2265406a2",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -87,7 +96,7 @@
         }
     ],
     "wof:id":404223119,
-    "wof:lastmodified":1566602528,
+    "wof:lastmodified":1695877430,
     "wof:name":"Dunmore",
     "wof:parent_id":102048497,
     "wof:placetype":"localadmin",

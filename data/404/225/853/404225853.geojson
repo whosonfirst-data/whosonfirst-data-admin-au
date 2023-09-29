@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000098,
-    "geom:area_square_m":1006411.970534,
+    "geom:area_square_m":1006398.11768,
     "geom:bbox":"151.082984,-33.83726,151.094419,-33.822811",
     "geom:latitude":-33.829247,
     "geom:longitude":151.087731,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.828281,
     "lbl:longitude":151.087058,
     "lbl:max_zoom":18.0,
@@ -307,13 +313,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC11968",
         "wd:id":"Q264350"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931717
     ],
     "wof:country":"AU",
-    "wof:geomhash":"bc07f4abae025e9fd936d04d72b8eb36",
+    "wof:geomhash":"175286b2d816f50deadef50996abebdd",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -326,7 +334,7 @@
         }
     ],
     "wof:id":404225853,
-    "wof:lastmodified":1636494653,
+    "wof:lastmodified":1695878058,
     "wof:name":"Rhodes",
     "wof:parent_id":102049003,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003238,
-    "geom:area_square_m":36791286.283,
+    "geom:area_square_m":36791286.283025,
     "geom:bbox":"150.65602416,-23.289262026,150.723824416,-23.212717018",
     "geom:latitude":-23.249465,
     "geom:longitude":150.683909,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-23.248382,
     "lbl:longitude":150.684568,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Cawarral"
@@ -38,9 +44,12 @@
         102048825
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30340"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"9de7bdd1a2023aa509d459ace9441d15",
+    "wof:geomhash":"04485d48379a95235568ab632eafda75",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404541659,
-    "wof:lastmodified":1566603063,
+    "wof:lastmodified":1695877751,
     "wof:name":"Cawarral",
     "wof:parent_id":102048825,
     "wof:placetype":"localadmin",

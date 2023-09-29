@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000099,
-    "geom:area_square_m":1069898.96534,
+    "geom:area_square_m":1069932.094226,
     "geom:bbox":"115.758194,-29.541108,115.769994,-29.527292",
     "geom:latitude":-29.534339,
     "geom:longitude":115.762805,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-29.534268,
     "lbl:longitude":115.762921,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09a5\u09cd\u09b0\u09bf \u09b8\u09cd\u09aa\u09cd\u09b0\u09bf\u0982\u09b8"
@@ -98,12 +104,15 @@
         102049573
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50766"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937863
     ],
     "wof:country":"AU",
-    "wof:geomhash":"5ae934fc85d161bf79547ec00880dad7",
+    "wof:geomhash":"7a22aa068828e7a8431cef5513664664",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -115,7 +124,7 @@
         }
     ],
     "wof:id":404548397,
-    "wof:lastmodified":1636494683,
+    "wof:lastmodified":1695877886,
     "wof:name":"Three Springs",
     "wof:parent_id":102049573,
     "wof:placetype":"localadmin",

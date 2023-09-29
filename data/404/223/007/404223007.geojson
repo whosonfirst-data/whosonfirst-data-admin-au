@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.158288,
-    "geom:area_square_m":1564960057.143838,
+    "geom:area_square_m":1564960057.1436,
     "geom:bbox":"148.395227392,-37.1568368475,149.118308,-36.660137877",
     "geom:latitude":-36.910508,
     "geom:longitude":148.772702,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.910427,
     "lbl:longitude":148.772769,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Delegate"
@@ -41,9 +47,12 @@
         102049437
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10703"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"be1cd0f2ff0573a2544bb08e113aba12",
+    "wof:geomhash":"58eacfe8e830505d071213f00bfdee51",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404223007,
-    "wof:lastmodified":1566602512,
+    "wof:lastmodified":1695877420,
     "wof:name":"Delegate",
     "wof:parent_id":102049437,
     "wof:placetype":"localadmin",

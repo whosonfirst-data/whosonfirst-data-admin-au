@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000282,
-    "geom:area_square_m":2894209.695402,
+    "geom:area_square_m":2894209.695383,
     "geom:bbox":"150.943148,-33.91097,150.979445,-33.890354",
     "geom:latitude":-33.901446,
     "geom:longitude":150.963693,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.905651,
     "lbl:longitude":150.969469,
     "lbl:max_zoom":18.0,
@@ -40,22 +46,24 @@
     "qs:source":"Australian Bureau Of Statistics",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681545,
         102191583,
         85632793,
-        102049221,
-        136253039,
         1376953385,
-        85681545
+        136253039,
+        102049221
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC11336",
         "wd:id":"Q6487508"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931001
     ],
     "wof:country":"AU",
-    "wof:geomhash":"0f8d6eebfbbecfbd3888056d8e68f815",
+    "wof:geomhash":"30a2059a3fdcd041a33f0643765f9c1e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -68,7 +76,7 @@
         }
     ],
     "wof:id":404224431,
-    "wof:lastmodified":1607987095,
+    "wof:lastmodified":1695878054,
     "wof:name":"Lansvale",
     "wof:parent_id":102049221,
     "wof:placetype":"localadmin",

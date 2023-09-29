@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.345138,
-    "geom:area_square_m":14494419099.885223,
+    "geom:area_square_m":14494419099.884659,
     "geom:bbox":"144.355645856,-30.0106569955,146.523153024,-28.9986153835",
     "geom:latitude":-29.373666,
     "geom:longitude":145.398326,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-29.432342,
     "lbl:longitude":145.202633,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Enngonia"
@@ -38,9 +44,12 @@
         102049345
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10828"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"9994432c893e6a2c8d0824485fdb01fc",
+    "wof:geomhash":"24895f39055cb907f368ee1ea960541f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404223287,
-    "wof:lastmodified":1566602503,
+    "wof:lastmodified":1695877415,
     "wof:name":"Enngonia",
     "wof:parent_id":102049345,
     "wof:placetype":"localadmin",

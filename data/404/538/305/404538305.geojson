@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000248,
-    "geom:area_square_m":2423645.162519,
+    "geom:area_square_m":2423662.77012,
     "geom:bbox":"144.92324,-37.681055,144.949991,-37.664169",
     "geom:latitude":-37.670834,
     "geom:longitude":144.93542,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.670851,
     "lbl:longitude":144.934102,
     "lbl:max_zoom":18.0,
@@ -424,13 +430,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC20364",
         "wd:id":"Q5211219"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932817
     ],
     "wof:country":"AU",
-    "wof:geomhash":"43fcd7f12d3ef350278fc4fee216930a",
+    "wof:geomhash":"b321d17eeaeb088a8593ae1872cdea71",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -443,7 +451,7 @@
         }
     ],
     "wof:id":404538305,
-    "wof:lastmodified":1690853589,
+    "wof:lastmodified":1695877959,
     "wof:name":"Dallas",
     "wof:parent_id":102049057,
     "wof:placetype":"localadmin",

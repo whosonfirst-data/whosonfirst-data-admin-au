@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014079,
-    "geom:area_square_m":171344793.76955,
+    "geom:area_square_m":171344793.769567,
     "geom:bbox":"142.183887136,-10.2597769795,142.344168128,-10.1157890375",
     "geom:latitude":-10.182454,
     "geom:longitude":142.265184,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-10.181723,
     "lbl:longitude":142.266722,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Moa Island"
@@ -44,9 +50,12 @@
         102048439
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31076"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"1a37bb8fee035907bc015648c69dc92a",
+    "wof:geomhash":"3dd16adfe0297b4f25389502dbb2c437",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404543207,
-    "wof:lastmodified":1566602134,
+    "wof:lastmodified":1695877209,
     "wof:name":"Moa Island",
     "wof:parent_id":102048439,
     "wof:placetype":"localadmin",

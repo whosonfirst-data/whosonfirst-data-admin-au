@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003746,
-    "geom:area_square_m":37905050.712586,
+    "geom:area_square_m":37905087.175784,
     "geom:bbox":"138.824828,-35.112674,138.90716,-35.050839",
     "geom:latitude":-35.080913,
     "geom:longitude":138.863455,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.078262,
     "lbl:longitude":138.862683,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09ae\u09be\u0989\u09a8\u09cd\u099f \u09ac\u09be\u09b0\u09cd\u0995\u09be\u09b0"
@@ -108,9 +114,12 @@
         102048895
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40456"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"f2a2b0b561f2de30931a781ecba1d540",
+    "wof:geomhash":"4ec5cfbc1384c79c9046a05f43ec4bd7",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -123,7 +132,7 @@
         }
     ],
     "wof:id":404545855,
-    "wof:lastmodified":1636494627,
+    "wof:lastmodified":1695877855,
     "wof:name":"Mount Barker",
     "wof:parent_id":102048895,
     "wof:placetype":"localadmin",

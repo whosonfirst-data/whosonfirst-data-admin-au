@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000015,
-    "geom:area_square_m":159088.138653,
+    "geom:area_square_m":159088.138652,
     "geom:bbox":"151.204831488,-33.846507694,151.210652416,-33.841241928",
     "geom:latitude":-33.8437,
     "geom:longitude":151.207516,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.842895,
     "lbl:longitude":151.207479,
     "lbl:max_zoom":18.0,
@@ -58,13 +64,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC11342",
         "wd:id":"Q6502507"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931011
     ],
     "wof:country":"AU",
-    "wof:geomhash":"c634e9d54dce40510b02312b06ecbada",
+    "wof:geomhash":"11fe57114f1422f78cf08a77f051a0a2",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -77,7 +85,7 @@
         }
     ],
     "wof:id":404224445,
-    "wof:lastmodified":1566602632,
+    "wof:lastmodified":1695877981,
     "wof:name":"Lavender Bay",
     "wof:parent_id":102048877,
     "wof:placetype":"localadmin",

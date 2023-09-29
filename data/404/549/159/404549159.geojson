@@ -10,12 +10,18 @@
     "geom:latitude":-41.195501,
     "geom:longitude":146.353215,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-41.195799,
     "lbl:longitude":146.354863,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Miandetta"
@@ -42,12 +48,15 @@
         102048819
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60218"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938171
     ],
     "wof:country":"AU",
-    "wof:geomhash":"0ecdbe2ea91c3e9dfac92d2b408b9a61",
+    "wof:geomhash":"3c37b6056558a5fa05efad60f46bad57",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -60,7 +69,7 @@
         }
     ],
     "wof:id":404549159,
-    "wof:lastmodified":1566602825,
+    "wof:lastmodified":1695877608,
     "wof:name":"Miandetta",
     "wof:parent_id":102048819,
     "wof:placetype":"localadmin",

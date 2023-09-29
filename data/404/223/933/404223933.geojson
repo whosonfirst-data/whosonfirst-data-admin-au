@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000855,
-    "geom:area_square_m":9054879.723564,
+    "geom:area_square_m":9054879.723534,
     "geom:bbox":"150.881752544,-31.144597494,150.926094016,-31.1118354555",
     "geom:latitude":-31.127557,
     "geom:longitude":150.907105,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.126115,
     "lbl:longitude":150.909741,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Hillvue"
@@ -38,12 +44,15 @@
         102048785
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11115"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101930713
     ],
     "wof:country":"AU",
-    "wof:geomhash":"8f9f76ec572be1f5ca8bae5b6a09b214",
+    "wof:geomhash":"d9dca9d6ddf9db6deee09299c1e9c327",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404223933,
-    "wof:lastmodified":1566602539,
+    "wof:lastmodified":1695877437,
     "wof:name":"Hillvue",
     "wof:parent_id":102048785,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006496,
-    "geom:area_square_m":73401227.320391,
+    "geom:area_square_m":73401227.32038,
     "geom:bbox":"151.153540544,-24.0007714525,151.328182016,-23.919464008",
     "geom:latitude":-23.955012,
     "geom:longitude":151.238348,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-23.949328,
     "lbl:longitude":151.231278,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Burua"
@@ -38,9 +44,12 @@
         102049463
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30281"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"e2d8721528fb0ced7f66b2654f035f25",
+    "wof:geomhash":"a2e90ce9d6dc14d26795fe70d94dbe83",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404541529,
-    "wof:lastmodified":1566603069,
+    "wof:lastmodified":1695877754,
     "wof:name":"Burua",
     "wof:parent_id":102049463,
     "wof:placetype":"localadmin",

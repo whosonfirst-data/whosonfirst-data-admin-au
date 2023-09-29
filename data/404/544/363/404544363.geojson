@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000289,
-    "geom:area_square_m":3274651.235886,
+    "geom:area_square_m":3274651.235884,
     "geom:bbox":"150.48954,-23.4099490145,150.50313968,-23.374459151",
     "geom:latitude":-23.391996,
     "geom:longitude":150.496241,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-23.387609,
     "lbl:longitude":150.49569,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "The Range"
@@ -44,12 +50,15 @@
         102048825
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31619"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935461
     ],
     "wof:country":"AU",
-    "wof:geomhash":"1072ef44ac4e46b5bd47c1eb49e0a691",
+    "wof:geomhash":"41477322feee8a65374a80c315a3afdb",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":404544363,
-    "wof:lastmodified":1566602153,
+    "wof:lastmodified":1695877218,
     "wof:name":"The Range",
     "wof:parent_id":102048825,
     "wof:placetype":"localadmin",

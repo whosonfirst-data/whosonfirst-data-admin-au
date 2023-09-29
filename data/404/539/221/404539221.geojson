@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000178,
-    "geom:area_square_m":1741588.659117,
+    "geom:area_square_m":1741563.647787,
     "geom:bbox":"144.766191,-37.868134,144.780854,-37.845863",
     "geom:latitude":-37.85723,
     "geom:longitude":144.773407,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.857377,
     "lbl:longitude":144.774018,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09b2\u09be\u09ad\u09c7\u09b0\u099f\u09a8"
@@ -102,12 +108,15 @@
         102049107
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20776"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101933161
     ],
     "wof:country":"AU",
-    "wof:geomhash":"ee2752a8e2f633400e1fa468e58d2a89",
+    "wof:geomhash":"658c9c10032eff6935a17007174db719",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -120,7 +129,7 @@
         }
     ],
     "wof:id":404539221,
-    "wof:lastmodified":1636494634,
+    "wof:lastmodified":1695877858,
     "wof:name":"Laverton",
     "wof:parent_id":102049107,
     "wof:placetype":"localadmin",

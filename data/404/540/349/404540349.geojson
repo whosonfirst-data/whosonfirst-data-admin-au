@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013481,
-    "geom:area_square_m":132166096.330451,
+    "geom:area_square_m":132165915.722422,
     "geom:bbox":"144.632409,-37.624826,144.780498,-37.481911",
     "geom:latitude":-37.547079,
     "geom:longitude":144.714948,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.542708,
     "lbl:longitude":144.716379,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0635\u0646\u0628\u064a\u0631\u064a"
@@ -121,9 +127,12 @@
         102049057
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21280"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"a204c3bed537ce812e3233931d49a214",
+    "wof:geomhash":"ee328e9d834886e6ef097be958143afb",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -136,7 +145,7 @@
         }
     ],
     "wof:id":404540349,
-    "wof:lastmodified":1636494670,
+    "wof:lastmodified":1695877879,
     "wof:name":"Sunbury",
     "wof:parent_id":102049057,
     "wof:placetype":"localadmin",

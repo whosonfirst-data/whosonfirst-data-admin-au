@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000231,
-    "geom:area_square_m":2321188.911669,
+    "geom:area_square_m":2321188.911675,
     "geom:bbox":"142.838573152,-35.5151763735,142.863983936,-35.4957538525",
     "geom:latitude":-35.505998,
     "geom:longitude":142.852183,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.505396,
     "lbl:longitude":142.853061,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Sea Lake"
@@ -44,12 +50,15 @@
         102049557
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21191"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101933499
     ],
     "wof:country":"AU",
-    "wof:geomhash":"8443d4d61aa050759bc16821758f8658",
+    "wof:geomhash":"fe038d6f9a161dd9ac1f93ed1a524794",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":404540149,
-    "wof:lastmodified":1566603041,
+    "wof:lastmodified":1695877742,
     "wof:name":"Sea Lake",
     "wof:parent_id":102049557,
     "wof:placetype":"localadmin",

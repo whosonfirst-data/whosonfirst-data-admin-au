@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019613,
-    "geom:area_square_m":195753471.904003,
+    "geom:area_square_m":195753471.904094,
     "geom:bbox":"146.196100768,-36.284841179,146.391140672,-36.0693812805",
     "geom:latitude":-36.178257,
     "geom:longitude":146.2954,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.193948,
     "lbl:longitude":146.313127,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Boorhaman"
@@ -38,9 +44,12 @@
         102049395
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20161"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"18c9c11946fa9a9cdc0388b6df59ac91",
+    "wof:geomhash":"14f6f52ed99f3db4608f9b35d6be1872",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404537851,
-    "wof:lastmodified":1566602329,
+    "wof:lastmodified":1695877312,
     "wof:name":"Boorhaman",
     "wof:parent_id":102049395,
     "wof:placetype":"localadmin",

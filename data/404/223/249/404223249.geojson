@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.194433,
-    "geom:area_square_m":12303526329.321859,
+    "geom:area_square_m":12303526329.320972,
     "geom:bbox":"141.001706912,-34.2165200705,142.573094016,-32.986660365",
     "geom:latitude":-33.586577,
     "geom:longitude":141.688835,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.559485,
     "lbl:longitude":141.704482,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ellerslie"
@@ -50,9 +56,12 @@
         102049399
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10811"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"9e892753ff28a03f4d97c69de592c32e",
+    "wof:geomhash":"d4420184811a90575c4c5c74e81f4572",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":404223249,
-    "wof:lastmodified":1566602547,
+    "wof:lastmodified":1695877443,
     "wof:name":"Ellerslie",
     "wof:parent_id":102049399,
     "wof:placetype":"localadmin",

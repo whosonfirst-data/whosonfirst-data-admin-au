@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000943,
-    "geom:area_square_m":10351611.251569,
+    "geom:area_square_m":10351611.251538,
     "geom:bbox":"152.900359008,-27.408758998,152.952072512,-27.374554977",
     "geom:latitude":-27.391127,
     "geom:longitude":152.924049,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.386759,
     "lbl:longitude":152.912885,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ferny Hills"
@@ -39,12 +45,15 @@
         102049131
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30605"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934401
     ],
     "wof:country":"AU",
-    "wof:geomhash":"a0a133b6435821fa3910666d2cfc6449",
+    "wof:geomhash":"20a8f27e6276c9bb37c1f1453c3d45c0",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404542209,
-    "wof:lastmodified":1566602304,
+    "wof:lastmodified":1695877296,
     "wof:name":"Ferny Hills",
     "wof:parent_id":102049131,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007476,
-    "geom:area_square_m":73165240.986699,
+    "geom:area_square_m":73165240.986841,
     "geom:bbox":"143.966922016,-37.733938002,144.087328096,-37.6160310085",
     "geom:latitude":-37.677452,
     "geom:longitude":144.030585,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.68087,
     "lbl:longitude":144.03149,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lal Lal"
@@ -38,9 +44,12 @@
         102049283
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20760"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"323157422dcc7b6cae262d5dac744f07",
+    "wof:geomhash":"429a1c4425cd69ed53eb2169886baf08",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404539185,
-    "wof:lastmodified":1566602420,
+    "wof:lastmodified":1695877370,
     "wof:name":"Lal Lal",
     "wof:parent_id":102049283,
     "wof:placetype":"localadmin",

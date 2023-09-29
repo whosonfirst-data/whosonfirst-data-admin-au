@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000639,
-    "geom:area_square_m":7369557.468414,
+    "geom:area_square_m":7369557.468412,
     "geom:bbox":"149.168890016,-21.113309009,149.200502016,-21.069182994",
     "geom:latitude":-21.093154,
     "geom:longitude":149.184887,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-21.090112,
     "lbl:longitude":149.186205,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Andergrove"
@@ -38,12 +44,15 @@
         102048783
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30039"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101933799
     ],
     "wof:country":"AU",
-    "wof:geomhash":"7d458af8f2761f4712177ec496ed8e6e",
+    "wof:geomhash":"46154912b552c37d8d9a6917dfcc7ade",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404541017,
-    "wof:lastmodified":1566603085,
+    "wof:lastmodified":1695877762,
     "wof:name":"Andergrove",
     "wof:parent_id":102048783,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002439,
-    "geom:area_square_m":23706764.62368,
+    "geom:area_square_m":23706764.623682,
     "geom:bbox":"145.53624,-38.202367992,145.632754848,-38.152083956",
     "geom:latitude":-38.176081,
     "geom:longitude":145.580569,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.178544,
     "lbl:longitude":145.575882,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Bayles"
@@ -41,9 +47,12 @@
         102048791
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20090"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"5e95b6f152d9cd876401d4c2e295d99f",
+    "wof:geomhash":"e7b66eea318d2f25f1e5508524f615a8",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404537693,
-    "wof:lastmodified":1566602329,
+    "wof:lastmodified":1695877312,
     "wof:name":"Bayles",
     "wof:parent_id":102048791,
     "wof:placetype":"localadmin",

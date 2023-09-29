@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004876,
-    "geom:area_square_m":47207471.759345,
+    "geom:area_square_m":47207471.759317,
     "geom:bbox":"145.685761376,-38.5021199955,145.78803,-38.4193919915",
     "geom:latitude":-38.461155,
     "geom:longitude":145.735835,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.45976,
     "lbl:longitude":145.736615,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Bena"
@@ -68,9 +74,12 @@
         102048701
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20114"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"580b7c89b5283558c4b63a41205e7451",
+    "wof:geomhash":"6f91e5328ce50e1e90e25258e15a9255",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -82,7 +91,7 @@
         }
     ],
     "wof:id":404537747,
-    "wof:lastmodified":1566602332,
+    "wof:lastmodified":1695877314,
     "wof:name":"Bena",
     "wof:parent_id":102048701,
     "wof:placetype":"localadmin",

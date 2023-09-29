@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001845,
-    "geom:area_square_m":18748813.581511,
+    "geom:area_square_m":18748813.581507,
     "geom:bbox":"138.604407776,-34.7507695085,138.666818976,-34.692160232",
     "geom:latitude":-34.71913,
     "geom:longitude":138.635031,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.719722,
     "lbl:longitude":138.635032,
     "lbl:max_zoom":18.0,
@@ -439,13 +445,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC40171",
         "wd:id":"Q5338136"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935937
     ],
     "wof:country":"AU",
-    "wof:geomhash":"82e2e24240525436ae7d42bbde077147",
+    "wof:geomhash":"a0f9f5b2b31c19086aeccf33998c3caf",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -458,7 +466,7 @@
         }
     ],
     "wof:id":404545233,
-    "wof:lastmodified":1566602224,
+    "wof:lastmodified":1695877932,
     "wof:name":"Edinburgh",
     "wof:parent_id":102048731,
     "wof:placetype":"localadmin",

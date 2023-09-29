@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003485,
-    "geom:area_square_m":33939359.861299,
+    "geom:area_square_m":33939400.873483,
     "geom:bbox":"145.31297,-38.079591,145.383974,-38.004604",
     "geom:latitude":-38.040353,
     "geom:longitude":145.348099,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.036129,
     "lbl:longitude":145.348768,
     "lbl:max_zoom":18.0,
@@ -118,13 +124,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC20125",
         "wd:id":"Q829245"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932597
     ],
     "wof:country":"AU",
-    "wof:geomhash":"4eff26a021326590d45757ad457667ec",
+    "wof:geomhash":"94b1afd9024c12d21e7d300ded27ad84",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -137,7 +145,7 @@
         }
     ],
     "wof:id":404537773,
-    "wof:lastmodified":1690853548,
+    "wof:lastmodified":1695877947,
     "wof:name":"Berwick",
     "wof:parent_id":102048685,
     "wof:placetype":"localadmin",

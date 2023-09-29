@@ -10,6 +10,12 @@
     "geom:latitude":-33.8225,
     "geom:longitude":151.214197,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.822334,
     "lbl:longitude":151.213313,
     "lbl:max_zoom":18.0,
@@ -64,13 +70,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC10443",
         "wd:id":"Q5026863"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101929795
     ],
     "wof:country":"AU",
-    "wof:geomhash":"1090a556190a9708683f9e094f1ca9e5",
+    "wof:geomhash":"44c637cadefc10af69932abafb5f13d8",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -83,7 +91,7 @@
         }
     ],
     "wof:id":404222421,
-    "wof:lastmodified":1566602791,
+    "wof:lastmodified":1695878001,
     "wof:name":"Cammeray",
     "wof:parent_id":102048877,
     "wof:placetype":"localadmin",

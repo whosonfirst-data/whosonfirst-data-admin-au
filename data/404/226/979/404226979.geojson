@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000281,
-    "geom:area_square_m":2899267.015954,
+    "geom:area_square_m":2899267.015959,
     "geom:bbox":"149.544676224,-33.4201158645,149.578485152,-33.3958170025",
     "geom:latitude":-33.408631,
     "geom:longitude":149.563223,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.409721,
     "lbl:longitude":149.5604,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "West Bathurst"
@@ -38,12 +44,15 @@
         102049305
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12469"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932297
     ],
     "wof:country":"AU",
-    "wof:geomhash":"7dfadb195a326abced50b66114b70f8e",
+    "wof:geomhash":"faab2712d499433be52a8073a2df628b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404226979,
-    "wof:lastmodified":1566602042,
+    "wof:lastmodified":1695877156,
     "wof:name":"West Bathurst",
     "wof:parent_id":102049305,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021365,
-    "geom:area_square_m":231395743.642023,
+    "geom:area_square_m":231395743.642227,
     "geom:bbox":"151.728992288,-28.963332535,151.925503008,-28.749851008",
     "geom:latitude":-28.850609,
     "geom:longitude":151.814531,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.886294,
     "lbl:longitude":151.796621,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ballandean"
@@ -39,9 +45,12 @@
         102048963
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30089"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"1c93af34b294cafb456402d23aaa0d6d",
+    "wof:geomhash":"608bd643991aff292647dd839c392969",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":404541127,
-    "wof:lastmodified":1566603068,
+    "wof:lastmodified":1695877753,
     "wof:name":"Ballandean",
     "wof:parent_id":102048963,
     "wof:placetype":"localadmin",

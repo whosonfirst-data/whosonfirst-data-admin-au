@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002037,
-    "geom:area_square_m":19903139.149826,
+    "geom:area_square_m":19903139.149813,
     "geom:bbox":"140.792572992,-37.8271560055,140.882821568,-37.7842419995",
     "geom:latitude":-37.806916,
     "geom:longitude":140.830861,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.804953,
     "lbl:longitude":140.831534,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Worrolong"
@@ -38,9 +44,12 @@
         102049129
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40831"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"39ff3578126ad116af8ddc96e6d9fdd3",
+    "wof:geomhash":"de7c5f64fc3b421b0ea46d2995834b36",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404546657,
-    "wof:lastmodified":1566603122,
+    "wof:lastmodified":1695877778,
     "wof:name":"Worrolong",
     "wof:parent_id":102049129,
     "wof:placetype":"localadmin",

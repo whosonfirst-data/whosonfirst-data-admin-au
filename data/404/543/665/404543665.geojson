@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007477,
-    "geom:area_square_m":87564845.400504,
+    "geom:area_square_m":87564845.400574,
     "geom:bbox":"146.480809216,-18.8486852515,146.694227552,-18.5378065155",
     "geom:latitude":-18.706677,
     "geom:longitude":146.580433,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-18.733052,
     "lbl:longitude":146.606755,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Palm Island"
@@ -59,12 +65,15 @@
         102048811
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31291"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935093
     ],
     "wof:country":"AU",
-    "wof:geomhash":"b8a1b4716365bdf8d4a8e2907652b438",
+    "wof:geomhash":"bba50f8f9baed0be8ef270511bc41a51",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -76,7 +85,7 @@
         }
     ],
     "wof:id":404543665,
-    "wof:lastmodified":1566602136,
+    "wof:lastmodified":1695877211,
     "wof:name":"Palm Island",
     "wof:parent_id":102048811,
     "wof:placetype":"localadmin",

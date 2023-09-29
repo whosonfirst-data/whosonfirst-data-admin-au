@@ -10,12 +10,18 @@
     "geom:latitude":-33.961667,
     "geom:longitude":150.988873,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.960464,
     "lbl:longitude":150.988989,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "East Hills"
@@ -48,12 +54,15 @@
         102049447
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10772"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101930155
     ],
     "wof:country":"AU",
-    "wof:geomhash":"868a3a3700872e98d63dd95313953234",
+    "wof:geomhash":"140b9ad356c1ff004ad95d74e82d8a0b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -66,7 +75,7 @@
         }
     ],
     "wof:id":404223161,
-    "wof:lastmodified":1566602491,
+    "wof:lastmodified":1695877408,
     "wof:name":"East Hills",
     "wof:parent_id":102049447,
     "wof:placetype":"localadmin",

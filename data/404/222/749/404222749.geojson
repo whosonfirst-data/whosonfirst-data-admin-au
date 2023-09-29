@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.046117,
-    "geom:area_square_m":463371358.055574,
+    "geom:area_square_m":463371358.05577,
     "geom:bbox":"147.073171552,-35.8601771755,147.347396,-35.469458822",
     "geom:latitude":-35.651266,
     "geom:longitude":147.188865,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.614093,
     "lbl:longitude":147.188726,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Cookardinia"
@@ -38,9 +44,12 @@
         102049625
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10589"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"e988b6c6ef277a0f32598bd008761e52",
+    "wof:geomhash":"096b137709c6dbf7c3fb16f58893beff",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404222749,
-    "wof:lastmodified":1566602778,
+    "wof:lastmodified":1695877579,
     "wof:name":"Cookardinia",
     "wof:parent_id":102049625,
     "wof:placetype":"localadmin",

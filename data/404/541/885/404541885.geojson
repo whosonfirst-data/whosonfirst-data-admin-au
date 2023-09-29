@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.055822,
-    "geom:area_square_m":613813135.144153,
+    "geom:area_square_m":613813135.144793,
     "geom:bbox":"152.45043984,-27.4070529835,152.757022016,-27.0532610185",
     "geom:latitude":-27.218346,
     "geom:longitude":152.615663,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.205829,
     "lbl:longitude":152.613263,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Crossdale"
@@ -38,9 +44,12 @@
         102049287
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30450"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"54d1abc597b195a30ec668520c3d27d5",
+    "wof:geomhash":"b30b3ba31bbf6cd06fed4f7adaebfa16",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404541885,
-    "wof:lastmodified":1566603083,
+    "wof:lastmodified":1695877761,
     "wof:name":"Crossdale",
     "wof:parent_id":102049287,
     "wof:placetype":"localadmin",

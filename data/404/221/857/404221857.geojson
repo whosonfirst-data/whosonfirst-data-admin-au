@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000075,
-    "geom:area_square_m":757431.447653,
+    "geom:area_square_m":757431.44765,
     "geom:bbox":"150.540855008,-35.210906004,150.55682896,-35.201553995",
     "geom:latitude":-35.20557,
     "geom:longitude":150.549,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.206138,
     "lbl:longitude":150.550208,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Berrara"
@@ -38,12 +44,15 @@
         102049405
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10192"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101929561
     ],
     "wof:country":"AU",
-    "wof:geomhash":"cebf6f33cc9f469ef696fed00a2d590c",
+    "wof:geomhash":"0140d965bf83cdde11bb1bd0d0771132",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404221857,
-    "wof:lastmodified":1566601978,
+    "wof:lastmodified":1695877123,
     "wof:name":"Berrara",
     "wof:parent_id":102049405,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004437,
-    "geom:area_square_m":44123119.86318,
+    "geom:area_square_m":44123119.863084,
     "geom:bbox":"146.464435008,-36.5231270065,146.548779008,-36.4278930025",
     "geom:latitude":-36.47303,
     "geom:longitude":146.508812,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.479287,
     "lbl:longitude":146.516497,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Markwood"
@@ -38,9 +44,12 @@
         102049395
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20848"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"e8d59b7eee1f12d42b35cea2165e67a0",
+    "wof:geomhash":"7c082e1a192bbe3ba49f1579a9231c97",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404539383,
-    "wof:lastmodified":1566602375,
+    "wof:lastmodified":1695877339,
     "wof:name":"Markwood",
     "wof:parent_id":102049395,
     "wof:placetype":"localadmin",

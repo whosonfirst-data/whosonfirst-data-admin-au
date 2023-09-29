@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.184984,
-    "geom:area_square_m":1855711127.835582,
+    "geom:area_square_m":1855711127.833281,
     "geom:bbox":"144.677663008,-36.0829688645,145.36372352,-35.4552634945",
     "geom:latitude":-35.777965,
     "geom:longitude":144.953044,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.726035,
     "lbl:longitude":144.919559,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mathoura"
@@ -53,9 +59,12 @@
         102049015
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11489"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"3c8bfccb03a1ce93687e2974041df871",
+    "wof:geomhash":"8d33266f57d0b7fb9f6fc1fe2fda1186",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -67,7 +76,7 @@
         }
     ],
     "wof:id":404224775,
-    "wof:lastmodified":1566602647,
+    "wof:lastmodified":1695877500,
     "wof:name":"Mathoura",
     "wof:parent_id":102049015,
     "wof:placetype":"localadmin",

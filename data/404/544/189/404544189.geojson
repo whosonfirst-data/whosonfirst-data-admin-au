@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001528,
-    "geom:area_square_m":16713942.589398,
+    "geom:area_square_m":16713942.589406,
     "geom:bbox":"153.023368992,-27.7939590235,153.091267936,-27.749966005",
     "geom:latitude":-27.776803,
     "geom:longitude":153.057631,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.779042,
     "lbl:longitude":153.060972,
     "lbl:max_zoom":18.0,
@@ -49,10 +55,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC31539",
         "wd:id":"Q7618117"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"c6cb0e081f87a0bb29c005d8629779d2",
+    "wof:geomhash":"065d8e94e27beb7f1a4ed86e78f18db9",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -65,7 +73,7 @@
         }
     ],
     "wof:id":404544189,
-    "wof:lastmodified":1566602172,
+    "wof:lastmodified":1695877925,
     "wof:name":"Stockleigh",
     "wof:parent_id":102048665,
     "wof:placetype":"localadmin",

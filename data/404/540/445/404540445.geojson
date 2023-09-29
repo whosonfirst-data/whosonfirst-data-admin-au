@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.145665,
-    "geom:area_square_m":1458139031.273392,
+    "geom:area_square_m":1458139031.273407,
     "geom:bbox":"140.963103424,-36.1876837115,141.379391936,-35.748531396",
     "geom:latitude":-35.948231,
     "geom:longitude":141.138886,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.914895,
     "lbl:longitude":141.121991,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Telopea Downs"
@@ -38,9 +44,12 @@
         102049637
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21323"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"5a9b935f307c25359a060f8f26edc488",
+    "wof:geomhash":"cbc598e33c4fb954436afe610d073113",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404540445,
-    "wof:lastmodified":1566603025,
+    "wof:lastmodified":1695877733,
     "wof:name":"Telopea Downs",
     "wof:parent_id":102049637,
     "wof:placetype":"localadmin",

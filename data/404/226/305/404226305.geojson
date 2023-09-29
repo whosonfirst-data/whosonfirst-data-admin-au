@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000065,
-    "geom:area_square_m":687657.700259,
+    "geom:area_square_m":687657.70027,
     "geom:bbox":"152.984602688,-30.828985792,152.995427008,-30.816439055",
     "geom:latitude":-30.821989,
     "geom:longitude":152.991518,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-30.819673,
     "lbl:longitude":152.992045,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Stuarts Point"
@@ -38,12 +44,15 @@
         102048527
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12169"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931973
     ],
     "wof:country":"AU",
-    "wof:geomhash":"2ce486866ac97e09c9db1bde6cfcb1b4",
+    "wof:geomhash":"4889ee9d906389993c9ae579d5b5fe4d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404226305,
-    "wof:lastmodified":1566602061,
+    "wof:lastmodified":1695877168,
     "wof:name":"Stuarts Point",
     "wof:parent_id":102048527,
     "wof:placetype":"localadmin",

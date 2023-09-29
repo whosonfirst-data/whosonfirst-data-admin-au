@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003288,
-    "geom:area_square_m":33642208.304926,
+    "geom:area_square_m":33642208.304934,
     "geom:bbox":"140.657157728,-34.2050139955,140.737424768,-34.125552999",
     "geom:latitude":-34.163515,
     "geom:longitude":140.697237,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.165826,
     "lbl:longitude":140.699967,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Renmark West"
@@ -38,9 +44,12 @@
         102048689
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40618"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"c6d2eacf60e765e734e24aaee5de09b2",
+    "wof:geomhash":"d31ee055f88732160584f589dc193677",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404546203,
-    "wof:lastmodified":1566603119,
+    "wof:lastmodified":1695877777,
     "wof:name":"Renmark West",
     "wof:parent_id":102048689,
     "wof:placetype":"localadmin",

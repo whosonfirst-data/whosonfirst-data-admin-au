@@ -10,12 +10,18 @@
     "geom:latitude":-20.731595,
     "geom:longitude":139.505689,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-20.731777,
     "lbl:longitude":139.505601,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Townview"
@@ -38,12 +44,15 @@
         102049087
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31667"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935511
     ],
     "wof:country":"AU",
-    "wof:geomhash":"1789958f8994c48e2ce372c45c6ab6e1",
+    "wof:geomhash":"5f2a8db0ae050d221e451137a9a825f7",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404544467,
-    "wof:lastmodified":1566602192,
+    "wof:lastmodified":1695877239,
     "wof:name":"Townview",
     "wof:parent_id":102049087,
     "wof:placetype":"localadmin",

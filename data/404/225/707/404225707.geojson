@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015093,
-    "geom:area_square_m":150776708.553212,
+    "geom:area_square_m":150776708.554929,
     "geom:bbox":"149.978744992,-36.2014500055,150.141502016,-36.0266180865",
     "geom:latitude":-36.109617,
     "geom:longitude":150.064983,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.112441,
     "lbl:longitude":150.093326,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Potato Point"
@@ -38,9 +44,12 @@
         102049609
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11903"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"8fbe9f1cb8d015a7a5fcc738b2349cdb",
+    "wof:geomhash":"5dc6df89bf8f1fbb336dc81b4e6abfb9",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404225707,
-    "wof:lastmodified":1566602668,
+    "wof:lastmodified":1695877512,
     "wof:name":"Potato Point",
     "wof:parent_id":102049609,
     "wof:placetype":"localadmin",

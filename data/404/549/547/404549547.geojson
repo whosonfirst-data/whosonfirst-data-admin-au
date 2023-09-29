@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000175,
-    "geom:area_square_m":1621953.814245,
+    "geom:area_square_m":1621953.814237,
     "geom:bbox":"147.1747968,-41.4436120035,147.198638752,-41.429312262",
     "geom:latitude":-41.43602,
     "geom:longitude":147.185875,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-41.436172,
     "lbl:longitude":147.18606,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Waverley"
@@ -74,12 +80,15 @@
         102049411
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60390"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938327
     ],
     "wof:country":"AU",
-    "wof:geomhash":"ecdc35bfa213455d5678dbee1ba3adf2",
+    "wof:geomhash":"0028fb225c93253bb6f8f27ce8fafb45",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -91,7 +100,7 @@
         }
     ],
     "wof:id":404549547,
-    "wof:lastmodified":1566602912,
+    "wof:lastmodified":1695877669,
     "wof:name":"Waverley",
     "wof:parent_id":102049411,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.360286,
-    "geom:area_square_m":15557323844.134483,
+    "geom:area_square_m":15557323844.139708,
     "geom:bbox":"146.031455008,-23.3512359715,147.519990016,-21.4685700035",
     "geom:latitude":-22.33866,
     "geom:longitude":146.710408,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-22.102386,
     "lbl:longitude":146.536379,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Belyando"
@@ -38,9 +44,12 @@
         102049343
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30145"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"e06337f2d009cd1e6dccae63858fa335",
+    "wof:geomhash":"73092aaf17203b2f1d463f2d17c89d2b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404541249,
-    "wof:lastmodified":1566603084,
+    "wof:lastmodified":1695877762,
     "wof:name":"Belyando",
     "wof:parent_id":102049343,
     "wof:placetype":"localadmin",

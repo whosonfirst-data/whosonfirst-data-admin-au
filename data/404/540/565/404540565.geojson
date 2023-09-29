@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002628,
-    "geom:area_square_m":25516170.02399,
+    "geom:area_square_m":25516170.023951,
     "geom:bbox":"145.145558016,-38.2853783615,145.249325184,-38.238523208",
     "geom:latitude":-38.263711,
     "geom:longitude":145.187138,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.267812,
     "lbl:longitude":145.173389,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tyabb"
@@ -38,12 +44,15 @@
         102048695
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21376"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101933655
     ],
     "wof:country":"AU",
-    "wof:geomhash":"d21160f0b96c236df67a49039ec00ac2",
+    "wof:geomhash":"d87a4af88d77c3df9f042e0ea9dd77e5",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404540565,
-    "wof:lastmodified":1566603017,
+    "wof:lastmodified":1695877728,
     "wof:name":"Tyabb",
     "wof:parent_id":102048695,
     "wof:placetype":"localadmin",

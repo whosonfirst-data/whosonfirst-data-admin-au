@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004272,
-    "geom:area_square_m":41352855.216958,
+    "geom:area_square_m":41352855.216858,
     "geom:bbox":"145.883231648,-38.5172139975,146.000271008,-38.426872004",
     "geom:latitude":-38.474386,
     "geom:longitude":145.944866,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.470429,
     "lbl:longitude":145.949715,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Leongatha"
@@ -56,9 +62,12 @@
         102048701
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20783"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"1bae8715c00b26703d6d0f1062c1a74a",
+    "wof:geomhash":"7376514b632f607048beff101aa5885b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -70,7 +79,7 @@
         }
     ],
     "wof:id":404539237,
-    "wof:lastmodified":1566602405,
+    "wof:lastmodified":1695877360,
     "wof:name":"Leongatha",
     "wof:parent_id":102048701,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.09798,
-    "geom:area_square_m":1056674421.487413,
+    "geom:area_square_m":1056674421.48781,
     "geom:bbox":"150.6396216,-29.5411289935,151.122974016,-29.0181580065",
     "geom:latitude":-29.287214,
     "geom:longitude":150.895763,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-29.274717,
     "lbl:longitude":150.899316,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Graman"
@@ -38,9 +44,12 @@
         102049369
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11006"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"97a20f83b3eece8c0589b14b6a7d1cad",
+    "wof:geomhash":"36058ee91503193b68384a92b84d7eda",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404223689,
-    "wof:lastmodified":1566602506,
+    "wof:lastmodified":1695877417,
     "wof:name":"Graman",
     "wof:parent_id":102049369,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.179389,
-    "geom:area_square_m":1920283668.338066,
+    "geom:area_square_m":1920283668.33823,
     "geom:bbox":"148.480838016,-30.2688089925,149.094301312,-29.8065940035",
     "geom:latitude":-30.036594,
     "geom:longitude":148.792893,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-30.074306,
     "lbl:longitude":148.787441,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Burren Junction"
@@ -47,9 +53,12 @@
         102049265
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10403"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"85325263a67b0d56e911938ff09b58d7",
+    "wof:geomhash":"0be4a3b6f67774890d09e9c270883dfa",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":404222331,
-    "wof:lastmodified":1566602745,
+    "wof:lastmodified":1695877557,
     "wof:name":"Burren Junction",
     "wof:parent_id":102049265,
     "wof:placetype":"localadmin",

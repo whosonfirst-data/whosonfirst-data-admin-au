@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022824,
-    "geom:area_square_m":247273803.620894,
+    "geom:area_square_m":247273803.620754,
     "geom:bbox":"114.688696992,-28.927198002,114.871530816,-28.707674005",
     "geom:latitude":-28.815321,
     "geom:longitude":114.769084,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.814329,
     "lbl:longitude":114.775303,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Moonyoonooka"
@@ -38,9 +44,12 @@
         102048715
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50513"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"1968b150e299acef8f2344e760cf9d43",
+    "wof:geomhash":"ed56ed820610a03e6738037cae3e4317",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404547837,
-    "wof:lastmodified":1566602967,
+    "wof:lastmodified":1695877699,
     "wof:name":"Moonyoonooka",
     "wof:parent_id":102048715,
     "wof:placetype":"localadmin",

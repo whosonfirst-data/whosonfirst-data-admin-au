@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006153,
-    "geom:area_square_m":63481470.199644,
+    "geom:area_square_m":63481470.19951,
     "geom:bbox":"151.152403008,-33.5153970065,151.240481056,-33.379219006",
     "geom:latitude":-33.444475,
     "geom:longitude":151.187989,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.454792,
     "lbl:longitude":151.192311,
     "lbl:max_zoom":18.0,
@@ -51,10 +57,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC10108",
         "wd:id":"Q4857954"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"4eab7c3431b55ea1ea5a3c93d208ddcf",
+    "wof:geomhash":"4e4eb53ad6dc958b95e5f37dbd0e7134",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -66,7 +74,7 @@
         }
     ],
     "wof:id":404221667,
-    "wof:lastmodified":1566601979,
+    "wof:lastmodified":1695877898,
     "wof:name":"Bar Point",
     "wof:parent_id":102048513,
     "wof:placetype":"localadmin",

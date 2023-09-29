@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008227,
-    "geom:area_square_m":89965832.300837,
+    "geom:area_square_m":89965832.300697,
     "geom:bbox":"152.924923008,-27.888700428,153.086529504,-27.788822998",
     "geom:latitude":-27.829766,
     "geom:longitude":153.017277,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.835694,
     "lbl:longitude":153.037463,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Jimboomba"
@@ -45,9 +51,12 @@
         102048665
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30823"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"1f6717dd9456f4031f4cf87dedc27257",
+    "wof:geomhash":"937af68e2fd8fa977612b1753b699132",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -60,7 +69,7 @@
         }
     ],
     "wof:id":404542673,
-    "wof:lastmodified":1566602272,
+    "wof:lastmodified":1695877277,
     "wof:name":"Jimboomba",
     "wof:parent_id":102048665,
     "wof:placetype":"localadmin",

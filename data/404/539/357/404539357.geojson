@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.122169,
-    "geom:area_square_m":1236121761.695754,
+    "geom:area_square_m":1236121761.695884,
     "geom:bbox":"142.693408256,-35.249378382,143.138718368,-34.9215892215",
     "geom:latitude":-35.087544,
     "geom:longitude":142.911054,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.083923,
     "lbl:longitude":142.908019,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Manangatang"
@@ -38,9 +44,12 @@
         102049167
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20836"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"e6bbd031bd2d413c2e2c0478f5d51bb6",
+    "wof:geomhash":"fab0fb0d103e063953e879b50a9294ea",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404539357,
-    "wof:lastmodified":1566602385,
+    "wof:lastmodified":1695877346,
     "wof:name":"Manangatang",
     "wof:parent_id":102049167,
     "wof:placetype":"localadmin",

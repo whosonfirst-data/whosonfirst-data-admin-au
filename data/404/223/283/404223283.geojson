@@ -10,6 +10,12 @@
     "geom:latitude":-34.080407,
     "geom:longitude":150.796125,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.080421,
     "lbl:longitude":150.79638,
     "lbl:max_zoom":18.0,
@@ -42,13 +48,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC10826",
         "wd:id":"Q5378715"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101930231
     ],
     "wof:country":"AU",
-    "wof:geomhash":"8dd0318fee71f595e4021798d22cdc31",
+    "wof:geomhash":"c3f6e0175475de7406fd3db736da2d8b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -60,7 +68,7 @@
         }
     ],
     "wof:id":404223283,
-    "wof:lastmodified":1566602540,
+    "wof:lastmodified":1695877969,
     "wof:name":"Englorie Park",
     "wof:parent_id":102048887,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000237,
-    "geom:area_square_m":2475659.328909,
+    "geom:area_square_m":2475659.328915,
     "geom:bbox":"115.856535424,-32.1806443545,115.869828,-32.1572855885",
     "geom:latitude":-32.167143,
     "geom:longitude":115.862644,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.167188,
     "lbl:longitude":115.863184,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Aubin Grove"
@@ -39,12 +45,15 @@
         102049397
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50022"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101936843
     ],
     "wof:country":"AU",
-    "wof:geomhash":"d161f1152696737ab0c3f46b84775261",
+    "wof:geomhash":"b36f0b6eb190e3bab9f2269b69f8ff0e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404546737,
-    "wof:lastmodified":1566603104,
+    "wof:lastmodified":1695877771,
     "wof:name":"Aubin Grove",
     "wof:parent_id":102049397,
     "wof:placetype":"localadmin",

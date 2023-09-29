@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002273,
-    "geom:area_square_m":24132805.739789,
+    "geom:area_square_m":24132805.739749,
     "geom:bbox":"152.842859008,-30.850510764,152.914684992,-30.785998008",
     "geom:latitude":-30.824544,
     "geom:longitude":152.879818,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-30.826314,
     "lbl:longitude":152.885308,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Eungai Creek"
@@ -38,9 +44,12 @@
         102049433
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10847"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"c2625d466de294564267f827d1bb8c71",
+    "wof:geomhash":"7131401b3e02ed7b780aa92d03ab987c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404223331,
-    "wof:lastmodified":1566602489,
+    "wof:lastmodified":1695877407,
     "wof:name":"Eungai Creek",
     "wof:parent_id":102049433,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000327,
-    "geom:area_square_m":3403239.248428,
+    "geom:area_square_m":3403239.248413,
     "geom:bbox":"151.596415648,-32.7794710025,151.6207,-32.7515483975",
     "geom:latitude":-32.764975,
     "geom:longitude":151.609401,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.765513,
     "lbl:longitude":151.609579,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Metford"
@@ -39,12 +45,15 @@
         102048483
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11528"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931223
     ],
     "wof:country":"AU",
-    "wof:geomhash":"28177c1f90135ec6862c2fe2cf27cec0",
+    "wof:geomhash":"76d6b22a55f2cb69c7d8140d3c8f4ee8",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404224863,
-    "wof:lastmodified":1566602644,
+    "wof:lastmodified":1695877498,
     "wof:name":"Metford",
     "wof:parent_id":102048483,
     "wof:placetype":"localadmin",

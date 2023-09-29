@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000707,
-    "geom:area_square_m":7650158.689182,
+    "geom:area_square_m":7650158.689187,
     "geom:bbox":"153.453571008,-28.900992049,153.487612192,-28.858748002",
     "geom:latitude":-28.878656,
     "geom:longitude":153.468397,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.877401,
     "lbl:longitude":153.466997,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Uralba"
@@ -38,9 +44,12 @@
         102049481
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12356"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"03fcd4a011805c046205e11e0f317e1a",
+    "wof:geomhash":"f28c364fb75bc615bfc79eca122f1493",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404226725,
-    "wof:lastmodified":1566602041,
+    "wof:lastmodified":1695877156,
     "wof:name":"Uralba",
     "wof:parent_id":102049481,
     "wof:placetype":"localadmin",

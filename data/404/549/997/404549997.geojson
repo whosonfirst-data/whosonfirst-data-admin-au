@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000158,
-    "geom:area_square_m":1590465.169356,
+    "geom:area_square_m":1590465.169352,
     "geom:bbox":"149.114921632,-35.3232832365,149.135434208,-35.310683201",
     "geom:latitude":-35.317196,
     "geom:longitude":149.124759,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.317624,
     "lbl:longitude":149.124761,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Forrest"
@@ -76,12 +82,15 @@
         85681493
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC80036"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938777
     ],
     "wof:country":"AU",
-    "wof:geomhash":"5c3309aecae78ba6b902b9815c55d416",
+    "wof:geomhash":"0fed79506e6a21c13932f65d6dbbbe6a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -92,7 +101,7 @@
         }
     ],
     "wof:id":404549997,
-    "wof:lastmodified":1566602828,
+    "wof:lastmodified":1695877610,
     "wof:name":"Forrest",
     "wof:parent_id":85681493,
     "wof:placetype":"localadmin",

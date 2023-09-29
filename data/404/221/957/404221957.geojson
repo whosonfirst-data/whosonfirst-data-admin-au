@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010872,
-    "geom:area_square_m":111834302.21819,
+    "geom:area_square_m":111834302.217377,
     "geom:bbox":"150.17099984,-33.797628992,150.333524992,-33.6000930035",
     "geom:latitude":-33.703442,
     "geom:longitude":150.242997,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.706635,
     "lbl:longitude":150.235184,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Blackheath"
@@ -62,9 +68,12 @@
         102049627
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10237"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"a4439c8c8c3584c99804b98f1dfb910e",
+    "wof:geomhash":"34bb4accf47125976e83d806d1957f7d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -76,7 +85,7 @@
         }
     ],
     "wof:id":404221957,
-    "wof:lastmodified":1566601988,
+    "wof:lastmodified":1695877128,
     "wof:name":"Blackheath",
     "wof:parent_id":102049627,
     "wof:placetype":"localadmin",

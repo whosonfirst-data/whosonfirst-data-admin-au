@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003775,
-    "geom:area_square_m":36919942.033055,
+    "geom:area_square_m":36919942.033071,
     "geom:bbox":"144.61328,-37.7530199195,144.727452384,-37.6822690005",
     "geom:latitude":-37.724986,
     "geom:longitude":144.657618,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.722013,
     "lbl:longitude":144.65201,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Rockbank"
@@ -39,9 +45,12 @@
         102048697
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21157"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"ab1222d032225411c17f2bc7bf100868",
+    "wof:geomhash":"79c2d38e84978e2b831094ed0f60b413",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":404540071,
-    "wof:lastmodified":1566602994,
+    "wof:lastmodified":1695877715,
     "wof:name":"Rockbank",
     "wof:parent_id":102048697,
     "wof:placetype":"localadmin",

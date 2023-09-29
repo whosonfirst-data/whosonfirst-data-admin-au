@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000132,
-    "geom:area_square_m":1447792.568142,
+    "geom:area_square_m":1447792.56814,
     "geom:bbox":"151.919922976,-27.5388710335,151.933762016,-27.5264379975",
     "geom:latitude":-27.532652,
     "geom:longitude":151.926842,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.532644,
     "lbl:longitude":151.926839,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Wilsonton Heights"
@@ -38,12 +44,15 @@
         102049357
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31776"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935635
     ],
     "wof:country":"AU",
-    "wof:geomhash":"9baa48ea938105c890d03c3a98b2d784",
+    "wof:geomhash":"d2828a426435a29693d99ffada276023",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404544691,
-    "wof:lastmodified":1566602196,
+    "wof:lastmodified":1695877242,
     "wof:name":"Wilsonton Heights",
     "wof:parent_id":102049357,
     "wof:placetype":"localadmin",

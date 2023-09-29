@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.081964,
-    "geom:area_square_m":849022328.702868,
+    "geom:area_square_m":849021891.567342,
     "geom:bbox":"148.089658,-33.275808,148.50726,-32.959165",
     "geom:latitude":-33.101167,
     "geom:longitude":148.302794,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.071046,
     "lbl:longitude":148.30275,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Parkes"
@@ -68,9 +74,12 @@
         102048657
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11839"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"336c03bbb9ffe921a8f9342e53681153",
+    "wof:geomhash":"e78469af1cb2713ac2657a0e19e28fde",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -82,7 +91,7 @@
         }
     ],
     "wof:id":404225563,
-    "wof:lastmodified":1636494652,
+    "wof:lastmodified":1695877867,
     "wof:name":"Parkes",
     "wof:parent_id":102048657,
     "wof:placetype":"localadmin",

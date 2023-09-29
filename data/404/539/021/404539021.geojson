@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011446,
-    "geom:area_square_m":114302576.588161,
+    "geom:area_square_m":114302576.588183,
     "geom:bbox":"144.849352864,-36.19918962,145.014396288,-36.0778144685",
     "geom:latitude":-36.139211,
     "geom:longitude":144.924406,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.139328,
     "lbl:longitude":144.917594,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kanyapella"
@@ -38,9 +44,12 @@
         102049529
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20686"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"36baf53109e1d69a789f2c26bc1a572e",
+    "wof:geomhash":"4d5c9e61c7734d7418a6fe62e8d19fc1",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404539021,
-    "wof:lastmodified":1566602400,
+    "wof:lastmodified":1695877357,
     "wof:name":"Kanyapella",
     "wof:parent_id":102049529,
     "wof:placetype":"localadmin",

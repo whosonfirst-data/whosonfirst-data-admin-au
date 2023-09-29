@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010445,
-    "geom:area_square_m":101626489.716112,
+    "geom:area_square_m":101626489.716097,
     "geom:bbox":"146.184438016,-38.1745480435,146.328831008,-38.0483859615",
     "geom:latitude":-38.11023,
     "geom:longitude":146.25935,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.109017,
     "lbl:longitude":146.264332,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tanjil South"
@@ -38,9 +44,12 @@
         102048523
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21305"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"fde98c9cf4dabc485675c2d64818dad3",
+    "wof:geomhash":"029357999a4ddc77ac7f531b29749581",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404540405,
-    "wof:lastmodified":1566603028,
+    "wof:lastmodified":1695877735,
     "wof:name":"Tanjil South",
     "wof:parent_id":102048523,
     "wof:placetype":"localadmin",

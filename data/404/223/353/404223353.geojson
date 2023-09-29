@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002733,
-    "geom:area_square_m":29758694.328044,
+    "geom:area_square_m":29758694.32808,
     "geom:bbox":"153.445751008,-28.323731998,153.51988032,-28.2638125885",
     "geom:latitude":-28.294404,
     "geom:longitude":153.486418,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.291507,
     "lbl:longitude":153.485706,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Eviron"
@@ -38,9 +44,12 @@
         102048589
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10857"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"f6e0deb5e2398dd5f62982a1c619b2ef",
+    "wof:geomhash":"f89c43aeca035630d3021599fd111948",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404223353,
-    "wof:lastmodified":1566602491,
+    "wof:lastmodified":1695877408,
     "wof:name":"Eviron",
     "wof:parent_id":102048589,
     "wof:placetype":"localadmin",

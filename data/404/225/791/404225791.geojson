@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000036,
-    "geom:area_square_m":369795.842093,
+    "geom:area_square_m":369795.842092,
     "geom:bbox":"151.136285056,-33.9852719575,151.144434752,-33.9782330035",
     "geom:latitude":-33.982225,
     "geom:longitude":151.140442,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.982469,
     "lbl:longitude":151.140366,
     "lbl:max_zoom":18.0,
@@ -136,13 +142,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC11941",
         "wd:id":"Q7290261"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931679
     ],
     "wof:country":"AU",
-    "wof:geomhash":"095153d24cf30ab87d6c7bbbbb89ba45",
+    "wof:geomhash":"f849f022107a4200912c59211194fd78",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -155,7 +163,7 @@
         }
     ],
     "wof:id":404225791,
-    "wof:lastmodified":1566602663,
+    "wof:lastmodified":1695877985,
     "wof:name":"Ramsgate",
     "wof:parent_id":102048425,
     "wof:placetype":"localadmin",

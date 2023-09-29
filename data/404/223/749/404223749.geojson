@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000792,
-    "geom:area_square_m":8140251.132551,
+    "geom:area_square_m":8140251.132584,
     "geom:bbox":"150.924288224,-33.838070991,150.964690624,-33.805469699",
     "geom:latitude":-33.823464,
     "geom:longitude":150.946073,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.823226,
     "lbl:longitude":150.946074,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Greystanes"
@@ -39,12 +45,15 @@
         102048495
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11033"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101930551
     ],
     "wof:country":"AU",
-    "wof:geomhash":"4bf18d08501cf9c9c86a6460e81acace",
+    "wof:geomhash":"1fe5ceec4538d423395185dc9c448b45",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404223749,
-    "wof:lastmodified":1566602524,
+    "wof:lastmodified":1695877427,
     "wof:name":"Greystanes",
     "wof:parent_id":102048495,
     "wof:placetype":"localadmin",

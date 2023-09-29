@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.042139,
-    "geom:area_square_m":427964854.864775,
+    "geom:area_square_m":427964854.864693,
     "geom:bbox":"139.328786016,-34.9041970015,139.644403488,-34.6226719935",
     "geom:latitude":-34.781292,
     "geom:longitude":139.479971,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.797152,
     "lbl:longitude":139.482367,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Walker Flat"
@@ -38,9 +44,12 @@
         102049005
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40758"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"b20bef6022c880f9c312166293f63068",
+    "wof:geomhash":"b726a93c1a62238380cfbab03e4607cd",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404546497,
-    "wof:lastmodified":1566603119,
+    "wof:lastmodified":1695877777,
     "wof:name":"Walker Flat",
     "wof:parent_id":102049005,
     "wof:placetype":"localadmin",

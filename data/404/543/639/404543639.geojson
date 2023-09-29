@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002266,
-    "geom:area_square_m":25336735.202794,
+    "geom:area_square_m":25336735.20279,
     "geom:bbox":"152.526804128,-25.302353993,152.586296992,-25.223844951",
     "geom:latitude":-25.265826,
     "geom:longitude":152.552123,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-25.266731,
     "lbl:longitude":152.549198,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Pacific Haven"
@@ -38,12 +44,15 @@
         102049435
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31278"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935069
     ],
     "wof:country":"AU",
-    "wof:geomhash":"ca2f37b05e555ec1b4aa9be3cecd24b6",
+    "wof:geomhash":"c95906c91af04dc847f336d50f3a2fa3",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404543639,
-    "wof:lastmodified":1566602134,
+    "wof:lastmodified":1695877210,
     "wof:name":"Pacific Haven",
     "wof:parent_id":102049435,
     "wof:placetype":"localadmin",

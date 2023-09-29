@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029374,
-    "geom:area_square_m":290945371.184318,
+    "geom:area_square_m":290945371.184198,
     "geom:bbox":"145.812325696,-36.939621003,145.986072992,-36.6435869445",
     "geom:latitude":-36.770865,
     "geom:longitude":145.898186,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.732846,
     "lbl:longitude":145.885157,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Warrenbayne"
@@ -38,9 +44,12 @@
         102049239
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21431"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"13b818afd252b34d26b0d2a6bcd6a1fa",
+    "wof:geomhash":"234aacebcc11c2d76ce4037159c584e3",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404540687,
-    "wof:lastmodified":1566602994,
+    "wof:lastmodified":1695877715,
     "wof:name":"Warrenbayne",
     "wof:parent_id":102049239,
     "wof:placetype":"localadmin",

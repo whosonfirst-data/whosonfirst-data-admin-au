@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022924,
-    "geom:area_square_m":223420107.134999,
+    "geom:area_square_m":223420107.135164,
     "geom:bbox":"142.555057888,-38.0939902375,142.801504992,-37.886705452",
     "geom:latitude":-37.983125,
     "geom:longitude":142.679373,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.981789,
     "lbl:longitude":142.677483,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0647\u06a9\u0633\u0647\u0627\u0645"
@@ -104,9 +110,12 @@
         102049109
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20624"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"6b270ce48d593943717f74d834af9bc2",
+    "wof:geomhash":"e0b2b622c85d71193e59cc93b5df7c15",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -118,7 +127,7 @@
         }
     ],
     "wof:id":404538883,
-    "wof:lastmodified":1566602465,
+    "wof:lastmodified":1695877393,
     "wof:name":"Hexham",
     "wof:parent_id":102049109,
     "wof:placetype":"localadmin",

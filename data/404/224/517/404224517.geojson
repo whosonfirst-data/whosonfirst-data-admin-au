@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000677,
-    "geom:area_square_m":6959269.160477,
+    "geom:area_square_m":6959242.856213,
     "geom:bbox":"150.485095,-33.737538,150.526763,-33.701519",
     "geom:latitude":-33.718322,
     "geom:longitude":150.508092,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.715978,
     "lbl:longitude":150.513616,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Linden"
@@ -128,12 +134,15 @@
         102049627
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11374"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931045
     ],
     "wof:country":"AU",
-    "wof:geomhash":"0c3013331df184c90de0c863a548e8be",
+    "wof:geomhash":"d61f34bf3d5199ef5c8539f114b06ba8",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -145,7 +154,7 @@
         }
     ],
     "wof:id":404224517,
-    "wof:lastmodified":1636494647,
+    "wof:lastmodified":1695877864,
     "wof:name":"Linden",
     "wof:parent_id":102049627,
     "wof:placetype":"localadmin",

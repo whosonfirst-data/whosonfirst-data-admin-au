@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003259,
-    "geom:area_square_m":31846563.395414,
+    "geom:area_square_m":31846563.395437,
     "geom:bbox":"140.716257984,-37.8137934925,140.79268,-37.7529330065",
     "geom:latitude":-37.780877,
     "geom:longitude":140.757247,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.774188,
     "lbl:longitude":140.765607,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Suttontown"
@@ -38,9 +44,12 @@
         102049129
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40704"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"c8b4a27f23660cdedec28b6ba48a1d32",
+    "wof:geomhash":"7e992ec58b2b40c49dbbff187527409e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404546379,
-    "wof:lastmodified":1566603123,
+    "wof:lastmodified":1695877779,
     "wof:name":"Suttontown",
     "wof:parent_id":102049129,
     "wof:placetype":"localadmin",

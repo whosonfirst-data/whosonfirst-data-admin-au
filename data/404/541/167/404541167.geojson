@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025449,
-    "geom:area_square_m":289447997.291443,
+    "geom:area_square_m":289447997.291452,
     "geom:bbox":"150.445698112,-23.2768223485,150.599261312,-22.9673255995",
     "geom:latitude":-23.102187,
     "geom:longitude":150.528008,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-23.085524,
     "lbl:longitude":150.529175,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Barmoya"
@@ -38,9 +44,12 @@
         102048825
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30109"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"b6a5ac60849854f1ad894cf8cdcd27f7",
+    "wof:geomhash":"882ac162f99765b189cad02581e3f431",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404541167,
-    "wof:lastmodified":1566603049,
+    "wof:lastmodified":1695877745,
     "wof:name":"Barmoya",
     "wof:parent_id":102048825,
     "wof:placetype":"localadmin",

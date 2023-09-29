@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001431,
-    "geom:area_square_m":16503089.471205,
+    "geom:area_square_m":16503089.471257,
     "geom:bbox":"149.185496896,-21.1482530115,149.24547216,-21.076436955",
     "geom:latitude":-21.109327,
     "geom:longitude":149.21161,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-21.109442,
     "lbl:longitude":149.209727,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mackay Harbour"
@@ -38,12 +44,15 @@
         102048783
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30989"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934757
     ],
     "wof:country":"AU",
-    "wof:geomhash":"a2d0ff03667904f92135ede1e5460f85",
+    "wof:geomhash":"b73e3988f91df2c7842a29232547a98a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404543031,
-    "wof:lastmodified":1566602108,
+    "wof:lastmodified":1695877195,
     "wof:name":"Mackay Harbour",
     "wof:parent_id":102048783,
     "wof:placetype":"localadmin",

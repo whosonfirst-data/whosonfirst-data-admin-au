@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.057351,
-    "geom:area_square_m":671441601.126133,
+    "geom:area_square_m":671441601.125999,
     "geom:bbox":"145.775168768,-18.919208713,146.14025,-18.593765001",
     "geom:latitude":-18.769587,
     "geom:longitude":145.972049,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-18.778591,
     "lbl:longitude":145.972164,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Trebonne"
@@ -44,9 +50,12 @@
         102048645
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31669"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"4a31f9d12f81c02332cd4b704963cac6",
+    "wof:geomhash":"9a85054f724d4e66997c68c490de8dc3",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404544471,
-    "wof:lastmodified":1566602155,
+    "wof:lastmodified":1695877219,
     "wof:name":"Trebonne",
     "wof:parent_id":102048645,
     "wof:placetype":"localadmin",

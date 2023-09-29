@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004344,
-    "geom:area_square_m":44270934.827284,
+    "geom:area_square_m":44270934.82728,
     "geom:bbox":"138.851394016,-34.5184290075,138.953512992,-34.4503780895",
     "geom:latitude":-34.483898,
     "geom:longitude":138.905621,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.490132,
     "lbl:longitude":138.906595,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Marananga"
@@ -38,9 +44,12 @@
         102049171
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40401"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"893a610539149c4beffdfaf13b39e71a",
+    "wof:geomhash":"412d0d2e03047a483e15e438e13216f5",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404545731,
-    "wof:lastmodified":1566602213,
+    "wof:lastmodified":1695877250,
     "wof:name":"Marananga",
     "wof:parent_id":102049171,
     "wof:placetype":"localadmin",

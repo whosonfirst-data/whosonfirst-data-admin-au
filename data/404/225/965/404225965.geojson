@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000099,
-    "geom:area_square_m":1020751.474454,
+    "geom:area_square_m":1020751.474441,
     "geom:bbox":"151.13426784,-33.8637450135,151.149765952,-33.853077007",
     "geom:latitude":-33.858895,
     "geom:longitude":151.141109,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.858291,
     "lbl:longitude":151.141113,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Russell Lea"
@@ -39,12 +45,15 @@
         102049003
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12018"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931775
     ],
     "wof:country":"AU",
-    "wof:geomhash":"abff5fef0b73f22fad2f18e663083dbf",
+    "wof:geomhash":"2e7fa63e07e8511577ff2eefb7ddf0f9",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404225965,
-    "wof:lastmodified":1566602662,
+    "wof:lastmodified":1695877508,
     "wof:name":"Russell Lea",
     "wof:parent_id":102049003,
     "wof:placetype":"localadmin",

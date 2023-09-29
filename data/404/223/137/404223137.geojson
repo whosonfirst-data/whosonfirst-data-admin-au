@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000227,
-    "geom:area_square_m":2326490.692387,
+    "geom:area_square_m":2326490.692386,
     "geom:bbox":"150.799375808,-34.0470340225,150.824165088,-34.028986477",
     "geom:latitude":-34.037472,
     "geom:longitude":150.813596,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.036728,
     "lbl:longitude":150.815855,
     "lbl:max_zoom":18.0,
@@ -45,13 +51,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC10761",
         "wd:id":"Q5325294"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101930137
     ],
     "wof:country":"AU",
-    "wof:geomhash":"ae5a23687b3601bb8762b77e1b7a089c",
+    "wof:geomhash":"89577f492391d2fa36860bb87bacb5aa",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -63,7 +71,7 @@
         }
     ],
     "wof:id":404223137,
-    "wof:lastmodified":1566602538,
+    "wof:lastmodified":1695877969,
     "wof:name":"Eagle Vale",
     "wof:parent_id":102048887,
     "wof:placetype":"localadmin",

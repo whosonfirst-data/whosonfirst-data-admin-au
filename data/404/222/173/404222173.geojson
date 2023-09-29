@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007819,
-    "geom:area_square_m":80628468.471523,
+    "geom:area_square_m":80628468.471417,
     "geom:bbox":"149.635817056,-33.54187441,149.788283008,-33.440056515",
     "geom:latitude":-33.490106,
     "geom:longitude":149.715246,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.491207,
     "lbl:longitude":149.720534,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Brewongle"
@@ -38,9 +44,12 @@
         102049305
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10333"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"d614d01783aeeeb184c13d155b25f36e",
+    "wof:geomhash":"21d9e3f20a7dd852d46c62f8707b93d3",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404222173,
-    "wof:lastmodified":1566602772,
+    "wof:lastmodified":1695877574,
     "wof:name":"Brewongle",
     "wof:parent_id":102049305,
     "wof:placetype":"localadmin",

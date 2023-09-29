@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000251,
-    "geom:area_square_m":2637045.029989,
+    "geom:area_square_m":2637045.029988,
     "geom:bbox":"152.815484992,-31.649592993,152.849528,-31.6356609575",
     "geom:latitude":-31.643674,
     "geom:longitude":152.830968,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.643339,
     "lbl:longitude":152.830963,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Camden Head"
@@ -38,12 +44,15 @@
         102049203
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10439"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101929787
     ],
     "wof:country":"AU",
-    "wof:geomhash":"5ab030cee70071b70badac9defb7596f",
+    "wof:geomhash":"2120adcbf981ac1735995d90eadbe1a4",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404222413,
-    "wof:lastmodified":1566602756,
+    "wof:lastmodified":1695877563,
     "wof:name":"Camden Head",
     "wof:parent_id":102049203,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.051873,
-    "geom:area_square_m":549779733.015078,
+    "geom:area_square_m":549779733.015098,
     "geom:bbox":"116.33642,-31.139697991,116.61289504,-30.88613799",
     "geom:latitude":-31.004365,
     "geom:longitude":116.468302,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.011889,
     "lbl:longitude":116.468351,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Calingiri"
@@ -38,9 +44,12 @@
         102049115
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50121"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"4a89d2074859da8fc3b379885d5bb429",
+    "wof:geomhash":"3e3fe27d0ecda694f07ac46e528535a2",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404546959,
-    "wof:lastmodified":1566603130,
+    "wof:lastmodified":1695877782,
     "wof:name":"Calingiri",
     "wof:parent_id":102049115,
     "wof:placetype":"localadmin",

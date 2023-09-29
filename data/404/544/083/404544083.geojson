@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.115968,
-    "geom:area_square_m":1310090496.874137,
+    "geom:area_square_m":1310090496.874812,
     "geom:bbox":"150.178721632,-24.202593003,150.702352992,-23.8076109915",
     "geom:latitude":-23.99051,
     "geom:longitude":150.43835,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-23.982511,
     "lbl:longitude":150.434357,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Smoky Creek"
@@ -38,9 +44,12 @@
         102049135
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31488"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"4f3a0886a334d25681d1e3ad29fcbf16",
+    "wof:geomhash":"141ad1bcab3e1928c67ce6dd51a76546",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404544083,
-    "wof:lastmodified":1566602157,
+    "wof:lastmodified":1695877220,
     "wof:name":"Smoky Creek",
     "wof:parent_id":102049135,
     "wof:placetype":"localadmin",

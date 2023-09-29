@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.03256,
-    "geom:area_square_m":367420017.163091,
+    "geom:area_square_m":367420017.163019,
     "geom:bbox":"151.597606016,-24.2813929945,152.718351136,-23.7996800045",
     "geom:latitude":-24.134338,
     "geom:longitude":151.724723,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-24.161966,
     "lbl:longitude":151.737166,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Eurimbula"
@@ -38,9 +44,12 @@
         102049463
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30589"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"edd86bf60dff540062628151d14374d1",
+    "wof:geomhash":"9ae805bce7c733cb5b8db731f7147097",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404542173,
-    "wof:lastmodified":1566602282,
+    "wof:lastmodified":1695877282,
     "wof:name":"Eurimbula",
     "wof:parent_id":102049463,
     "wof:placetype":"localadmin",

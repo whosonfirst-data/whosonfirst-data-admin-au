@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000901,
-    "geom:area_square_m":9807339.031794,
+    "geom:area_square_m":9807339.031791,
     "geom:bbox":"153.544528,-28.4166369445,153.575671008,-28.3543031925",
     "geom:latitude":-28.379978,
     "geom:longitude":153.561454,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.381771,
     "lbl:longitude":153.562984,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Pottsville"
@@ -65,12 +71,15 @@
         102048589
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11906"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931631
     ],
     "wof:country":"AU",
-    "wof:geomhash":"058d71988ae54735c1c1555ea93e7c2e",
+    "wof:geomhash":"c449a51bff11c0516a67cfcb5e89f369",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -82,7 +91,7 @@
         }
     ],
     "wof:id":404225713,
-    "wof:lastmodified":1566602691,
+    "wof:lastmodified":1695877525,
     "wof:name":"Pottsville",
     "wof:parent_id":102048589,
     "wof:placetype":"localadmin",

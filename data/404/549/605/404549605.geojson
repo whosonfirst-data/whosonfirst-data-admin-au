@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003484,
-    "geom:area_square_m":32445549.717627,
+    "geom:area_square_m":32445549.717659,
     "geom:bbox":"145.652986016,-41.1640439995,145.751112,-41.0981040055",
     "geom:latitude":-41.13043,
     "geom:longitude":145.708075,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-41.127571,
     "lbl:longitude":145.712854,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Yolla"
@@ -41,9 +47,12 @@
         102048983
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60416"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"29f6b8cbffe578987af4c4252a44ad0d",
+    "wof:geomhash":"2706ce194857580bcdadf24866826275",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404549605,
-    "wof:lastmodified":1566602845,
+    "wof:lastmodified":1695877623,
     "wof:name":"Yolla",
     "wof:parent_id":102048983,
     "wof:placetype":"localadmin",

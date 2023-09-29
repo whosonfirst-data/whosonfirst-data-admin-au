@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004978,
-    "geom:area_square_m":53868363.020862,
+    "geom:area_square_m":53868363.020931,
     "geom:bbox":"153.287079008,-28.969779008,153.388640992,-28.8933385065",
     "geom:latitude":-28.931303,
     "geom:longitude":153.337364,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.932563,
     "lbl:longitude":153.336388,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tucki Tucki"
@@ -38,9 +44,12 @@
         102049635
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12311"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"2424f001c3dcf650806ac0a79a0aadb9",
+    "wof:geomhash":"ce67ea34c900c4f68413db0e1c1ef482",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404226625,
-    "wof:lastmodified":1566602064,
+    "wof:lastmodified":1695877171,
     "wof:name":"Tucki Tucki",
     "wof:parent_id":102049635,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001234,
-    "geom:area_square_m":11489117.340904,
+    "geom:area_square_m":11489117.340879,
     "geom:bbox":"146.827783648,-41.1479854815,146.901843424,-41.110538207",
     "geom:latitude":-41.126382,
     "geom:longitude":146.859889,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-41.125873,
     "lbl:longitude":146.854269,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bell Bay"
@@ -44,9 +50,12 @@
         102049339
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60021"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"e562233df60c106debf18ea16c976e85",
+    "wof:geomhash":"ea1bbce3ea1e8e6bbf1dfde156a86931",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404548717,
-    "wof:lastmodified":1566603235,
+    "wof:lastmodified":1695877836,
     "wof:name":"Bell Bay",
     "wof:parent_id":102049339,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013008,
-    "geom:area_square_m":151444417.972581,
+    "geom:area_square_m":151444417.972495,
     "geom:bbox":"147.162665984,-19.7642590205,147.352534144,-19.6170180015",
     "geom:latitude":-19.686534,
     "geom:longitude":147.259634,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-19.688839,
     "lbl:longitude":147.245222,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mount Kelly"
@@ -41,9 +47,12 @@
         102048927
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31137"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"18be148bebfff73c9b6aa2bcaa22face",
+    "wof:geomhash":"6103b93355e8b691c59437df65aa71dd",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404543337,
-    "wof:lastmodified":1566602095,
+    "wof:lastmodified":1695877189,
     "wof:name":"Mount Kelly",
     "wof:parent_id":102048927,
     "wof:placetype":"localadmin",

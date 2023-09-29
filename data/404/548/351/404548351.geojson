@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003931,
-    "geom:area_square_m":40547194.663987,
+    "geom:area_square_m":40547194.664018,
     "geom:bbox":"115.55759376,-33.507839997,115.640308992,-33.4312650005",
     "geom:latitude":-33.469503,
     "geom:longitude":115.597327,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.468402,
     "lbl:longitude":115.596546,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Stratham"
@@ -38,9 +44,12 @@
         102048869
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50745"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"bdbb8774086d86f110f89dca42044a19",
+    "wof:geomhash":"2e7822ebdbe2126e391a02e5879a3264",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404548351,
-    "wof:lastmodified":1566603200,
+    "wof:lastmodified":1695877816,
     "wof:name":"Stratham",
     "wof:parent_id":102048869,
     "wof:placetype":"localadmin",

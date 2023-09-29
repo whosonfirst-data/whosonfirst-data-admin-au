@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002647,
-    "geom:area_square_m":29708748.51272,
+    "geom:area_square_m":29708748.512706,
     "geom:bbox":"152.280535008,-24.8507489945,152.37127024,-24.7942089985",
     "geom:latitude":-24.821416,
     "geom:longitude":152.324757,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-24.827538,
     "lbl:longitude":152.320968,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Gooburrum"
@@ -38,9 +44,12 @@
         102048763
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30674"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"3d5df590766489b6851a7202f93e3bbe",
+    "wof:geomhash":"fb9f53b2ace9a96552dc4d116f87cf5d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404542355,
-    "wof:lastmodified":1566602265,
+    "wof:lastmodified":1695877272,
     "wof:name":"Gooburrum",
     "wof:parent_id":102048763,
     "wof:placetype":"localadmin",

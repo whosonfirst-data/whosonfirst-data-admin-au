@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.093867,
-    "geom:area_square_m":950744695.409225,
+    "geom:area_square_m":950744695.408986,
     "geom:bbox":"136.924012096,-35.108819785,137.527310016,-34.8750439985",
     "geom:latitude":-35.003123,
     "geom:longitude":137.232701,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.987504,
     "lbl:longitude":137.212626,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Corny Point"
@@ -44,9 +50,12 @@
         102049327
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40133"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"db68a6fddc75d6d691fffde62c68a043",
+    "wof:geomhash":"f7f2732a9cee6414ebb31ba86be69fe5",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404545147,
-    "wof:lastmodified":1566602256,
+    "wof:lastmodified":1695877268,
     "wof:name":"Corny Point",
     "wof:parent_id":102049327,
     "wof:placetype":"localadmin",

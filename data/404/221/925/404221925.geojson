@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001055,
-    "geom:area_square_m":11442625.945269,
+    "geom:area_square_m":11442625.945288,
     "geom:bbox":"153.46565,-28.7327632425,153.5251536,-28.690806001",
     "geom:latitude":-28.710794,
     "geom:longitude":153.49347,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.70848,
     "lbl:longitude":153.493496,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Binna Burra"
@@ -44,9 +50,12 @@
         102048747
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10222"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"bf2af761127981e30906674f00937c01",
+    "wof:geomhash":"b78b54281e427926e88533acd77ad67f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404221925,
-    "wof:lastmodified":1566601986,
+    "wof:lastmodified":1695877127,
     "wof:name":"Binna Burra",
     "wof:parent_id":102048747,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002888,
-    "geom:area_square_m":28525935.487987,
+    "geom:area_square_m":28525935.487998,
     "geom:bbox":"144.213676992,-37.0278470035,144.297784,-36.963176128",
     "geom:latitude":-36.993453,
     "geom:longitude":144.258333,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.989015,
     "lbl:longitude":144.262469,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Harcourt"
@@ -68,9 +74,12 @@
         102049601
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20592"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"e511c5c040641b3b4e92d4d8a0c5c39a",
+    "wof:geomhash":"e0597fde038572d7631eda3536e34691",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -82,7 +91,7 @@
         }
     ],
     "wof:id":404538811,
-    "wof:lastmodified":1566602432,
+    "wof:lastmodified":1695877376,
     "wof:name":"Harcourt",
     "wof:parent_id":102049601,
     "wof:placetype":"localadmin",

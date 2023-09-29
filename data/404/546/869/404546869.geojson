@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001296,
-    "geom:area_square_m":13336702.573933,
+    "geom:area_square_m":13336702.573943,
     "geom:bbox":"115.324399808,-33.6974882145,115.393023904,-33.6618366795",
     "geom:latitude":-33.680112,
     "geom:longitude":115.360968,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.675641,
     "lbl:longitude":115.363309,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bovell"
@@ -42,9 +48,12 @@
         102048623
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50081"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"c6b7f5d83294874f46902e4b47ddfb1b",
+    "wof:geomhash":"6ba3863b3eb25cc73c725694dd455206",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404546869,
-    "wof:lastmodified":1566603120,
+    "wof:lastmodified":1695877778,
     "wof:name":"Bovell",
     "wof:parent_id":102048623,
     "wof:placetype":"localadmin",

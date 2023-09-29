@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001286,
-    "geom:area_square_m":14366065.903297,
+    "geom:area_square_m":14366065.903302,
     "geom:bbox":"152.737240672,-25.372164446,152.798726016,-25.327128009",
     "geom:latitude":-25.34715,
     "geom:longitude":152.759851,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-25.342288,
     "lbl:longitude":152.752651,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Walligan"
@@ -38,12 +44,15 @@
         102049435
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31716"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935569
     ],
     "wof:country":"AU",
-    "wof:geomhash":"a09bf12be3780b8ca798c0b486d055e9",
+    "wof:geomhash":"9394ec928891f1b12a866d2eb045c824",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404544563,
-    "wof:lastmodified":1566602181,
+    "wof:lastmodified":1695877234,
     "wof:name":"Walligan",
     "wof:parent_id":102049435,
     "wof:placetype":"localadmin",

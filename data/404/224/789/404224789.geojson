@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000035,
-    "geom:area_square_m":356943.601722,
+    "geom:area_square_m":356943.601721,
     "geom:bbox":"150.982717184,-33.824355202,150.994361536,-33.8184593075",
     "geom:latitude":-33.820824,
     "geom:longitude":150.988629,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.821271,
     "lbl:longitude":150.98775,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mays Hill"
@@ -39,12 +45,15 @@
         102048495
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11495"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931187
     ],
     "wof:country":"AU",
-    "wof:geomhash":"31a4179d98d5dc3c197a71c855313afb",
+    "wof:geomhash":"251ceb229e31945bd49c21b5348f74a1",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404224789,
-    "wof:lastmodified":1566602653,
+    "wof:lastmodified":1695877503,
     "wof:name":"Mays Hill",
     "wof:parent_id":102048495,
     "wof:placetype":"localadmin",

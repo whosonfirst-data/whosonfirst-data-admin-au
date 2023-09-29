@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00177,
-    "geom:area_square_m":20143098.972342,
+    "geom:area_square_m":20143098.972352,
     "geom:bbox":"150.656418688,-23.051991238,150.710953504,-22.9956460285",
     "geom:latitude":-23.024726,
     "geom:longitude":150.681391,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-23.02592,
     "lbl:longitude":150.679542,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Woodbury"
@@ -86,9 +92,12 @@
         102048825
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31799"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"0eab30fb22009dc0b93a231a03e90d45",
+    "wof:geomhash":"b8264b27adac3c15ae799624244a80d2",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -100,7 +109,7 @@
         }
     ],
     "wof:id":404544739,
-    "wof:lastmodified":1566602150,
+    "wof:lastmodified":1695877217,
     "wof:name":"Woodbury",
     "wof:parent_id":102048825,
     "wof:placetype":"localadmin",

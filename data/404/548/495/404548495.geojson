@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000297,
-    "geom:area_square_m":3119679.979161,
+    "geom:area_square_m":3119622.017863,
     "geom:bbox":"115.792249,-31.845877,115.823359,-31.833637",
     "geom:latitude":-31.839741,
     "geom:longitude":115.808554,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.839647,
     "lbl:longitude":115.808553,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0648\u0631\u0643"
@@ -180,12 +186,15 @@
         102048433
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50810"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937907
     ],
     "wof:country":"AU",
-    "wof:geomhash":"024d1dd552db554f7d96b510a9921410",
+    "wof:geomhash":"d20840c4bc3377ae40a35800a33e7718",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -198,7 +207,7 @@
         }
     ],
     "wof:id":404548495,
-    "wof:lastmodified":1636494688,
+    "wof:lastmodified":1695877889,
     "wof:name":"Warwick",
     "wof:parent_id":102048433,
     "wof:placetype":"localadmin",

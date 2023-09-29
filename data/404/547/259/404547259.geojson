@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":8.837349,
-    "geom:area_square_m":92659257306.33519,
+    "geom:area_square_m":92659257306.334335,
     "geom:bbox":"120.009691424,-33.028129743,129.001930016,-31.2219078285",
     "geom:latitude":-32.009556,
     "geom:longitude":124.413279,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.159088,
     "lbl:longitude":124.480824,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Eucla"
@@ -38,9 +44,12 @@
         102048729
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50256"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"f4baf2c718e34e42ea7ae0f07efe3f3a",
+    "wof:geomhash":"f20268feafa4f2d8d4af678e1e706bb3",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404547259,
-    "wof:lastmodified":1566602934,
+    "wof:lastmodified":1695877679,
     "wof:name":"Eucla",
     "wof:parent_id":102048729,
     "wof:placetype":"localadmin",

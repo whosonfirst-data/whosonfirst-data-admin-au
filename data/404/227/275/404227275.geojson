@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003129,
-    "geom:area_square_m":32893557.602677,
+    "geom:area_square_m":32893557.602757,
     "geom:bbox":"152.413865984,-31.8519047935,152.458768992,-31.7174099415",
     "geom:latitude":-31.779011,
     "geom:longitude":152.434449,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.775829,
     "lbl:longitude":152.432927,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Yarratt Forest"
@@ -38,9 +44,12 @@
         102048833
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12600"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"2b36ef693c9bb0b2ad08d58bab9b4bca",
+    "wof:geomhash":"e40c4d3f5511aa82d1cae9a25dc5ec31",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404227275,
-    "wof:lastmodified":1566601942,
+    "wof:lastmodified":1695877104,
     "wof:name":"Yarratt Forest",
     "wof:parent_id":102048833,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037003,
-    "geom:area_square_m":394611080.915582,
+    "geom:area_square_m":394611080.915715,
     "geom:bbox":"151.726428,-30.5165929975,152.01868,-30.2944592425",
     "geom:latitude":-30.408405,
     "geom:longitude":151.859369,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-30.40595,
     "lbl:longitude":151.869264,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Thalgarrah"
@@ -38,9 +44,12 @@
         102048707
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12252"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"767eaed135706a8e771841605b2992fb",
+    "wof:geomhash":"be5c84ffe4a6d98aaa95fbf0931f6ffa",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404226491,
-    "wof:lastmodified":1566602040,
+    "wof:lastmodified":1695877155,
     "wof:name":"Thalgarrah",
     "wof:parent_id":102048707,
     "wof:placetype":"localadmin",

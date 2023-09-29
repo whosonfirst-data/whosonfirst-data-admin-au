@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.084841,
-    "geom:area_square_m":868134763.338556,
+    "geom:area_square_m":868134763.338569,
     "geom:bbox":"146.150488224,-34.3485979345,146.476478304,-33.959317993",
     "geom:latitude":-34.154281,
     "geom:longitude":146.318457,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.145628,
     "lbl:longitude":146.347661,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Binya"
@@ -38,9 +44,12 @@
         102049179
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10224"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"45fe5ede6a21232148d0bc6d2ccd6c2c",
+    "wof:geomhash":"935f1874d991192c36212761939e615d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404221929,
-    "wof:lastmodified":1566602005,
+    "wof:lastmodified":1695877135,
     "wof:name":"Binya",
     "wof:parent_id":102049179,
     "wof:placetype":"localadmin",

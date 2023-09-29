@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005497,
-    "geom:area_square_m":57815350.133863,
+    "geom:area_square_m":57815350.133936,
     "geom:bbox":"152.373596992,-31.788698045,152.44489008,-31.6459331565",
     "geom:latitude":-31.718825,
     "geom:longitude":152.403432,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.705028,
     "lbl:longitude":152.403966,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Killabakh"
@@ -38,9 +44,12 @@
         102048833
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11243"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"3b9ce740dc1bfccf2b07b20a4a5a336d",
+    "wof:geomhash":"b6c1a3f4f9f1d28bedf4f7128e69bc7d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404224221,
-    "wof:lastmodified":1566602585,
+    "wof:lastmodified":1695877466,
     "wof:name":"Killabakh",
     "wof:parent_id":102048833,
     "wof:placetype":"localadmin",

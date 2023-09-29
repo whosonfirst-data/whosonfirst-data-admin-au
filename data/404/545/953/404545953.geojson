@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00054,
-    "geom:area_square_m":5440398.700292,
+    "geom:area_square_m":5440398.700286,
     "geom:bbox":"138.300450624,-35.4688721685,138.332722016,-35.429060668",
     "geom:latitude":-35.450303,
     "geom:longitude":138.315418,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.449766,
     "lbl:longitude":138.314073,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Normanville"
@@ -77,12 +83,15 @@
         102049429
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40501"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101936347
     ],
     "wof:country":"AU",
-    "wof:geomhash":"6f5d625483ca9f222adbcc875212b23e",
+    "wof:geomhash":"c56147f27d85f9f3b5f9ecb88c07a1fa",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -94,7 +103,7 @@
         }
     ],
     "wof:id":404545953,
-    "wof:lastmodified":1566602210,
+    "wof:lastmodified":1695877248,
     "wof:name":"Normanville",
     "wof:parent_id":102049429,
     "wof:placetype":"localadmin",

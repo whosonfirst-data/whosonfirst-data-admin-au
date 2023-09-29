@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000108,
-    "geom:area_square_m":1136031.457948,
+    "geom:area_square_m":1136031.457952,
     "geom:bbox":"152.774058016,-31.642330004,152.79194336,-31.6290329995",
     "geom:latitude":-31.635244,
     "geom:longitude":152.782787,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.634592,
     "lbl:longitude":152.781905,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "West Haven"
@@ -38,12 +44,15 @@
         102049203
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12471"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932303
     ],
     "wof:country":"AU",
-    "wof:geomhash":"37feeb9cf781daddb7931b8eb7171baa",
+    "wof:geomhash":"b858cb55de5e928002b987f7a42e9676",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404226985,
-    "wof:lastmodified":1566602047,
+    "wof:lastmodified":1695877160,
     "wof:name":"West Haven",
     "wof:parent_id":102049203,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000171,
-    "geom:area_square_m":1556474.381861,
+    "geom:area_square_m":1556474.381845,
     "geom:bbox":"147.026660832,-42.777558703,147.046884992,-42.7591909965",
     "geom:latitude":-42.768212,
     "geom:longitude":147.035938,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-42.768302,
     "lbl:longitude":147.034379,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lawitta"
@@ -38,12 +44,15 @@
         102048499
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60187"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938151
     ],
     "wof:country":"AU",
-    "wof:geomhash":"5054b9a1f5f09813cc73720e45309b38",
+    "wof:geomhash":"ac16e93e8bdf9c62b19ca9e120d5d96e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404549089,
-    "wof:lastmodified":1566602875,
+    "wof:lastmodified":1695877640,
     "wof:name":"Lawitta",
     "wof:parent_id":102048499,
     "wof:placetype":"localadmin",

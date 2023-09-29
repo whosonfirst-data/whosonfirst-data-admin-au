@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001109,
-    "geom:area_square_m":12180396.361905,
+    "geom:area_square_m":12180396.361975,
     "geom:bbox":"152.994740992,-27.3361753395,153.04958,-27.278667997",
     "geom:latitude":-27.305721,
     "geom:longitude":153.019821,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.311605,
     "lbl:longitude":153.010265,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bald Hills"
@@ -48,12 +54,15 @@
         102049495
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30085"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101933853
     ],
     "wof:country":"AU",
-    "wof:geomhash":"09fc3a0a9f3d4e2f1932b57c122aca84",
+    "wof:geomhash":"47eb8d2485b352beb4a26d374313e8e2",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -66,7 +75,7 @@
         }
     ],
     "wof:id":404541119,
-    "wof:lastmodified":1566603071,
+    "wof:lastmodified":1695877754,
     "wof:name":"Bald Hills",
     "wof:parent_id":102049495,
     "wof:placetype":"localadmin",

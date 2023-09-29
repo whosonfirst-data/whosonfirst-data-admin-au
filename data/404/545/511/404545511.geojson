@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000087,
-    "geom:area_square_m":878858.563659,
+    "geom:area_square_m":878858.563657,
     "geom:bbox":"138.564479008,-34.911977121,138.577984832,-34.8994276645",
     "geom:latitude":-34.90666,
     "geom:longitude":138.569939,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.90657,
     "lbl:longitude":138.569837,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Hindmarsh"
@@ -42,12 +48,15 @@
         102049185
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40298"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101936149
     ],
     "wof:country":"AU",
-    "wof:geomhash":"645683f1cda815fd8ceb92b4d588fcbb",
+    "wof:geomhash":"dd84961aabcbe71eb082a3330462e5b1",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -60,7 +69,7 @@
         }
     ],
     "wof:id":404545511,
-    "wof:lastmodified":1566602231,
+    "wof:lastmodified":1695877257,
     "wof:name":"Hindmarsh",
     "wof:parent_id":102049185,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.087278,
-    "geom:area_square_m":984328957.388755,
+    "geom:area_square_m":984328957.388667,
     "geom:bbox":"150.337359008,-24.3780399915,150.81424,-23.992561356",
     "geom:latitude":-24.20494,
     "geom:longitude":150.605869,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-24.180525,
     "lbl:longitude":150.602173,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Argoon"
@@ -41,9 +47,12 @@
         102049135
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30054"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"917b5c11ab41bfa755c7dec32ab193de",
+    "wof:geomhash":"6720e9d243cf188c60016172c9eaa963",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404541049,
-    "wof:lastmodified":1566603057,
+    "wof:lastmodified":1695877748,
     "wof:name":"Argoon",
     "wof:parent_id":102049135,
     "wof:placetype":"localadmin",

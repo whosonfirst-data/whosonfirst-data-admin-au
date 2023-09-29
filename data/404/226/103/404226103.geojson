@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000293,
-    "geom:area_square_m":3008677.754996,
+    "geom:area_square_m":3008677.755008,
     "geom:bbox":"151.030078016,-33.8440915015,151.06208976,-33.824184003",
     "geom:latitude":-33.833431,
     "geom:longitude":151.047307,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.835108,
     "lbl:longitude":151.04706,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Silverwater"
@@ -42,12 +48,15 @@
         102048477
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12079"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931853
     ],
     "wof:country":"AU",
-    "wof:geomhash":"0967cf51e6300c18302909fd2dea3157",
+    "wof:geomhash":"35d0f86f4ab5ecbc75e285a0c63d1ad7",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -60,7 +69,7 @@
         }
     ],
     "wof:id":404226103,
-    "wof:lastmodified":1566602013,
+    "wof:lastmodified":1695877139,
     "wof:name":"Silverwater",
     "wof:parent_id":102048477,
     "wof:placetype":"localadmin",

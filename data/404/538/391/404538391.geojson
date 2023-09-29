@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.100816,
-    "geom:area_square_m":1004384392.361382,
+    "geom:area_square_m":1004384392.361196,
     "geom:bbox":"142.719237024,-36.4827375845,143.150499008,-36.134214031",
     "geom:latitude":-36.322384,
     "geom:longitude":142.917627,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.333129,
     "lbl:longitude":142.917544,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Donald"
@@ -65,9 +71,12 @@
         102049557
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20404"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"4fb587f880545ee7b289ae88003ed5ee",
+    "wof:geomhash":"500a6cdd681ce28a49f62d9e7d970713",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -79,7 +88,7 @@
         }
     ],
     "wof:id":404538391,
-    "wof:lastmodified":1566602423,
+    "wof:lastmodified":1695877371,
     "wof:name":"Donald",
     "wof:parent_id":102049557,
     "wof:placetype":"localadmin",

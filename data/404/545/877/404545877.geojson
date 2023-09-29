@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004049,
-    "geom:area_square_m":41079862.755792,
+    "geom:area_square_m":41079862.75586,
     "geom:bbox":"138.910863008,-34.9051619985,139.009473728,-34.837764001",
     "geom:latitude":-34.869965,
     "geom:longitude":138.959804,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.874872,
     "lbl:longitude":138.953951,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mount Torrens"
@@ -38,9 +44,12 @@
         102049017
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40466"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"12edb4abf46124bf026dd878bf30f069",
+    "wof:geomhash":"c87d2e1f54d4a4525dda44a0d5dde5a4",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404545877,
-    "wof:lastmodified":1566602240,
+    "wof:lastmodified":1695877261,
     "wof:name":"Mount Torrens",
     "wof:parent_id":102049017,
     "wof:placetype":"localadmin",

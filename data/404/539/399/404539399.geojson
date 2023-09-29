@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000213,
-    "geom:area_square_m":2085917.848341,
+    "geom:area_square_m":2085917.848357,
     "geom:bbox":"145.73335168,-37.521815448,145.760757504,-37.503902786",
     "geom:latitude":-37.511976,
     "geom:longitude":145.74727,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.511951,
     "lbl:longitude":145.747254,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041c\u0435\u0440\u0438\u0441\u0432\u0438\u043b"
@@ -95,12 +101,15 @@
         102048737
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20855"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101933219
     ],
     "wof:country":"AU",
-    "wof:geomhash":"2710ae86fd26720bb52fff9b3a5b0db0",
+    "wof:geomhash":"3e6f26a08aa8b0d0f141ab3a6a652039",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -112,7 +121,7 @@
         }
     ],
     "wof:id":404539399,
-    "wof:lastmodified":1566602357,
+    "wof:lastmodified":1695877329,
     "wof:name":"Marysville",
     "wof:parent_id":102048737,
     "wof:placetype":"localadmin",

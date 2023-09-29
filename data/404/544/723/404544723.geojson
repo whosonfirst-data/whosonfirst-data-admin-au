@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00565,
-    "geom:area_square_m":66658323.916614,
+    "geom:area_square_m":66658323.916581,
     "geom:bbox":"145.382666016,-17.4976200025,145.477831808,-17.3727929175",
     "geom:latitude":-17.430267,
     "geom:longitude":145.439157,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-17.431849,
     "lbl:longitude":145.446338,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Wondecla"
@@ -38,9 +44,12 @@
         102048519
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31792"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"6bf2182c2097937c861d2ca31d363c1c",
+    "wof:geomhash":"29fc66e3ca63024a205868942d49f9a2",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404544723,
-    "wof:lastmodified":1566602175,
+    "wof:lastmodified":1695877231,
     "wof:name":"Wondecla",
     "wof:parent_id":102048519,
     "wof:placetype":"localadmin",

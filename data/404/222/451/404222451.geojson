@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000194,
-    "geom:area_square_m":1995537.833696,
+    "geom:area_square_m":1995537.833698,
     "geom:bbox":"151.108245984,-33.923378006,151.125950048,-33.9026359355",
     "geom:latitude":-33.912176,
     "geom:longitude":151.115967,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.913933,
     "lbl:longitude":151.116101,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Canterbury"
@@ -249,12 +255,15 @@
         102049409
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10456"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101929811
     ],
     "wof:country":"AU",
-    "wof:geomhash":"2bfea4a1271bb4e37db3da1b4a893421",
+    "wof:geomhash":"6e06570517823d1d47fa0db79fe473f5",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -267,7 +276,7 @@
         }
     ],
     "wof:id":404222451,
-    "wof:lastmodified":1566602801,
+    "wof:lastmodified":1695877593,
     "wof:name":"Canterbury",
     "wof:parent_id":102049409,
     "wof:placetype":"localadmin",

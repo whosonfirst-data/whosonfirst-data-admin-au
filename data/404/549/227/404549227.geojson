@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004135,
-    "geom:area_square_m":37311487.844346,
+    "geom:area_square_m":37311487.844431,
     "geom:bbox":"147.089465344,-43.179087032,147.188990112,-43.088440991",
     "geom:latitude":-43.137832,
     "geom:longitude":147.150417,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-43.137263,
     "lbl:longitude":147.157874,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Nicholls Rivulet"
@@ -38,9 +44,12 @@
         102048679
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60248"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"7950545dddef72a04823641e86315f50",
+    "wof:geomhash":"ccfbfdad70e628ba1e72b2a480f9699e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404549227,
-    "wof:lastmodified":1566602833,
+    "wof:lastmodified":1695877614,
     "wof:name":"Nicholls Rivulet",
     "wof:parent_id":102048679,
     "wof:placetype":"localadmin",

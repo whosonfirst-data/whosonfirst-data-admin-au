@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028563,
-    "geom:area_square_m":301836476.089895,
+    "geom:area_square_m":301836476.090041,
     "geom:bbox":"150.919718016,-31.419967996,151.108327072,-31.1623141485",
     "geom:latitude":-31.282726,
     "geom:longitude":151.018756,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.279112,
     "lbl:longitude":151.020528,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Loomberah"
@@ -38,9 +44,12 @@
         102048785
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11407"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"602fcde98ac3d802370ad1dbcb41cf6f",
+    "wof:geomhash":"7efaa26ab454621a9fc59e0d14366c99",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404224591,
-    "wof:lastmodified":1566602618,
+    "wof:lastmodified":1695877485,
     "wof:name":"Loomberah",
     "wof:parent_id":102048785,
     "wof:placetype":"localadmin",

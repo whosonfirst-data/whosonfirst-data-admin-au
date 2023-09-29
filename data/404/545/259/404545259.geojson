@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000198,
-    "geom:area_square_m":2014965.72824,
+    "geom:area_square_m":2014965.728242,
     "geom:bbox":"138.650108032,-34.713901025,138.671492864,-34.6974381895",
     "geom:latitude":-34.705366,
     "geom:longitude":138.661432,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.705641,
     "lbl:longitude":138.66127,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Elizabeth West"
@@ -39,12 +45,15 @@
         102049603
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40182"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935961
     ],
     "wof:country":"AU",
-    "wof:geomhash":"91514defdb14762ff447b20291caeceb",
+    "wof:geomhash":"aee23be1889c8b315c3bca652aa8d06a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404545259,
-    "wof:lastmodified":1566602221,
+    "wof:lastmodified":1695877252,
     "wof:name":"Elizabeth West",
     "wof:parent_id":102049603,
     "wof:placetype":"localadmin",

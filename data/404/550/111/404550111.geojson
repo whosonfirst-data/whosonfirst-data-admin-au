@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000222,
-    "geom:area_square_m":2237213.772577,
+    "geom:area_square_m":2237213.772567,
     "geom:bbox":"149.10330544,-35.4360882075,149.12983408,-35.416304289",
     "geom:latitude":-35.427875,
     "geom:longitude":149.113772,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.428211,
     "lbl:longitude":149.109552,
     "lbl:max_zoom":18.0,
@@ -110,13 +116,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC80088",
         "wd:id":"Q7330307"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938891
     ],
     "wof:country":"AU",
-    "wof:geomhash":"cd05b1d42e1c0c338c631ee7b7711a21",
+    "wof:geomhash":"5932fe544f837cb2246167f00e40ce5b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -127,7 +135,7 @@
         }
     ],
     "wof:id":404550111,
-    "wof:lastmodified":1566601928,
+    "wof:lastmodified":1695877892,
     "wof:name":"Richardson",
     "wof:parent_id":85681493,
     "wof:placetype":"localadmin",

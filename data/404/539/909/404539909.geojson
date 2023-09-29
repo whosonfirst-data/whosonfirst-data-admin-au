@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.062084,
-    "geom:area_square_m":628569917.318717,
+    "geom:area_square_m":628569917.319057,
     "geom:bbox":"143.031416992,-35.186643994,143.350891712,-34.8854760005",
     "geom:latitude":-35.0359,
     "geom:longitude":143.212285,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.033063,
     "lbl:longitude":143.212249,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Piangil"
@@ -53,9 +59,12 @@
         102049167
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21084"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"90132b3c8824dd384355665e3f1f52ef",
+    "wof:geomhash":"e13d0e312c42e3c56b125b67810cca9a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -67,7 +76,7 @@
         }
     ],
     "wof:id":404539909,
-    "wof:lastmodified":1566602350,
+    "wof:lastmodified":1695877325,
     "wof:name":"Piangil",
     "wof:parent_id":102049167,
     "wof:placetype":"localadmin",

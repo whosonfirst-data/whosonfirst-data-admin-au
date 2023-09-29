@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000842,
-    "geom:area_square_m":8493257.808849,
+    "geom:area_square_m":8493257.808847,
     "geom:bbox":"139.379232032,-35.330649326,139.425128992,-35.2987586375",
     "geom:latitude":-35.312567,
     "geom:longitude":139.399462,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.312651,
     "lbl:longitude":139.397894,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Wellington East"
@@ -38,12 +44,15 @@
         102048883
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40784"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101936743
     ],
     "wof:country":"AU",
-    "wof:geomhash":"4eec13d03c60efb20dccdf79dcf86477",
+    "wof:geomhash":"0b68fc65f95c9e4c727e967218ff2d9a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404546551,
-    "wof:lastmodified":1566603101,
+    "wof:lastmodified":1695877771,
     "wof:name":"Wellington East",
     "wof:parent_id":102048883,
     "wof:placetype":"localadmin",

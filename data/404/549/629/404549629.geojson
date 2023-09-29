@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000372,
-    "geom:area_square_m":4213099.841876,
+    "geom:area_square_m":4213099.841893,
     "geom:bbox":"133.840934688,-23.710051001,133.868893056,-23.681679993",
     "geom:latitude":-23.69601,
     "geom:longitude":133.853998,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-23.695932,
     "lbl:longitude":133.852886,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Araluen"
@@ -42,12 +48,15 @@
         102048753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC70014"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938369
     ],
     "wof:country":"AU",
-    "wof:geomhash":"6e407bce3613e2fd52640ebbd3a9cd84",
+    "wof:geomhash":"c7346268d2d4b52934599733a553e4b9",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -60,7 +69,7 @@
         }
     ],
     "wof:id":404549629,
-    "wof:lastmodified":1566602842,
+    "wof:lastmodified":1695877621,
     "wof:name":"Araluen",
     "wof:parent_id":102048753,
     "wof:placetype":"localadmin",

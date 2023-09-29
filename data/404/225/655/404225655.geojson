@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.080064,
-    "geom:area_square_m":843225002.222277,
+    "geom:area_square_m":843225002.222742,
     "geom:bbox":"150.151705408,-31.765931427,150.665104992,-31.4493679925",
     "geom:latitude":-31.599058,
     "geom:longitude":150.392942,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.571553,
     "lbl:longitude":150.38906,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Pine Ridge"
@@ -83,9 +89,12 @@
         102048659
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11880"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"cc54124d58f7d3533dda76f5eb7d9e9d",
+    "wof:geomhash":"960d6706dfb98281cb6f4860925c5d12",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -97,7 +106,7 @@
         }
     ],
     "wof:id":404225655,
-    "wof:lastmodified":1566602722,
+    "wof:lastmodified":1695877543,
     "wof:name":"Pine Ridge",
     "wof:parent_id":102048659,
     "wof:placetype":"localadmin",

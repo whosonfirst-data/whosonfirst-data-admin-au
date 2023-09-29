@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010398,
-    "geom:area_square_m":114591667.708465,
+    "geom:area_square_m":114591667.707875,
     "geom:bbox":"153.07519392,-27.0807029935,153.194496608,-26.8140772195",
     "geom:latitude":-26.971433,
     "geom:longitude":153.129208,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-26.968616,
     "lbl:longitude":153.123518,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Welsby"
@@ -42,9 +48,12 @@
         102049131
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31744"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"c74b8331364ce9f0dfb7adb31f309034",
+    "wof:geomhash":"9f0677c83e051fe27825788074cd98a9",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404544619,
-    "wof:lastmodified":1566602157,
+    "wof:lastmodified":1695877220,
     "wof:name":"Welsby",
     "wof:parent_id":102049131,
     "wof:placetype":"localadmin",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001972,
-    "geom:area_square_m":20430466.574748,
+    "geom:area_square_m":20430466.574761,
     "geom:bbox":"151.478242816,-33.087714025,151.565438176,-33.0450590005",
     "geom:latitude":-33.065005,
     "geom:longitude":151.521255,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.065175,
     "lbl:longitude":151.527848,
     "lbl:max_zoom":18.0,
@@ -52,13 +58,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC10830",
         "wd:id":"Q5384895"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101930237
     ],
     "wof:country":"AU",
-    "wof:geomhash":"487bf87853bb9882d9808a7c91646252",
+    "wof:geomhash":"2de665665ed7f496410bd0b6c54899c4",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -71,7 +79,7 @@
         }
     ],
     "wof:id":404223293,
-    "wof:lastmodified":1566602517,
+    "wof:lastmodified":1695877966,
     "wof:name":"Eraring",
     "wof:parent_id":102048999,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001035,
-    "geom:area_square_m":11243755.398843,
+    "geom:area_square_m":11243755.398854,
     "geom:bbox":"151.920895392,-28.540062007,151.958747008,-28.497309062",
     "geom:latitude":-28.520535,
     "geom:longitude":151.940135,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.519064,
     "lbl:longitude":151.942388,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Cottonvale"
@@ -42,9 +48,12 @@
         102048963
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30437"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"3264e006d857311eb6db38ff8bf56a7b",
+    "wof:geomhash":"d6487b2e1effe8bc968ada6507c9280a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404541857,
-    "wof:lastmodified":1566603059,
+    "wof:lastmodified":1695877749,
     "wof:name":"Cottonvale",
     "wof:parent_id":102048963,
     "wof:placetype":"localadmin",

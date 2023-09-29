@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000215,
-    "geom:area_square_m":2255041.456898,
+    "geom:area_square_m":2255041.45691,
     "geom:bbox":"116.015936288,-31.909847774,116.038190816,-31.8940857925",
     "geom:latitude":-31.902616,
     "geom:longitude":116.029566,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.901477,
     "lbl:longitude":116.031578,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Bellevue"
@@ -116,12 +122,15 @@
         102049575
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50057"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101936897
     ],
     "wof:country":"AU",
-    "wof:geomhash":"abf742da8c7d7a0be3a9615a0ec9a941",
+    "wof:geomhash":"bcf31327de941c79f26df2d2001f8c0f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -133,7 +142,7 @@
         }
     ],
     "wof:id":404546815,
-    "wof:lastmodified":1566603139,
+    "wof:lastmodified":1695877786,
     "wof:name":"Bellevue",
     "wof:parent_id":102049575,
     "wof:placetype":"localadmin",

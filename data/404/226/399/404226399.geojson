@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035697,
-    "geom:area_square_m":354580465.492688,
+    "geom:area_square_m":354580465.492576,
     "geom:bbox":"149.839752,-36.6949240005,150.068538016,-36.410200657",
     "geom:latitude":-36.552871,
     "geom:longitude":149.959509,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.55164,
     "lbl:longitude":149.961259,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:als_x_preferred":[
         "Tanja"
@@ -71,9 +77,12 @@
         102049439
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12211"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"1296d52157678a7be1a95113a188c3e8",
+    "wof:geomhash":"29c061ea0eb1c5d1605bb329175e60ac",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -85,7 +94,7 @@
         }
     ],
     "wof:id":404226399,
-    "wof:lastmodified":1566602018,
+    "wof:lastmodified":1695877142,
     "wof:name":"Tanja",
     "wof:parent_id":102049439,
     "wof:placetype":"localadmin",

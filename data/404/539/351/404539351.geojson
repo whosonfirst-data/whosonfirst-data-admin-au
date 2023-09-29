@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000282,
-    "geom:area_square_m":2748381.818932,
+    "geom:area_square_m":2748381.818922,
     "geom:bbox":"145.027684448,-37.873738987,145.042242112,-37.8437891335",
     "geom:latitude":-37.857627,
     "geom:longitude":145.035073,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.857461,
     "lbl:longitude":145.034939,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Malvern"
@@ -87,12 +93,15 @@
         102049007
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20834"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101933197
     ],
     "wof:country":"AU",
-    "wof:geomhash":"36e5ce4cb40adda502f91b2a1f7eba0b",
+    "wof:geomhash":"83a083fb5ded28d3f2fcae4824154fe9",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -105,7 +114,7 @@
         }
     ],
     "wof:id":404539351,
-    "wof:lastmodified":1566602388,
+    "wof:lastmodified":1695877347,
     "wof:name":"Malvern",
     "wof:parent_id":102049007,
     "wof:placetype":"localadmin",

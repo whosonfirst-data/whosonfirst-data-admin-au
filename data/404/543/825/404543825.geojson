@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008879,
-    "geom:area_square_m":97183601.056911,
+    "geom:area_square_m":97183601.056789,
     "geom:bbox":"152.673946016,-27.794445,152.810899008,-27.64746657",
     "geom:latitude":-27.729336,
     "geom:longitude":152.738812,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.731955,
     "lbl:longitude":152.728451,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Purga"
@@ -69,9 +75,12 @@
         102048583
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31363"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"e529b0c59f0e3835bc84d7b499f159e9",
+    "wof:geomhash":"e01abd985d09234c253d24e92bfcdba8",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -84,7 +93,7 @@
         }
     ],
     "wof:id":404543825,
-    "wof:lastmodified":1566602131,
+    "wof:lastmodified":1695877208,
     "wof:name":"Purga",
     "wof:parent_id":102048583,
     "wof:placetype":"localadmin",

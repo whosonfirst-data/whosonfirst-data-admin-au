@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021776,
-    "geom:area_square_m":215221936.31825,
+    "geom:area_square_m":215221936.318089,
     "geom:bbox":"144.494504,-37.0152572355,144.753450848,-36.8460410285",
     "geom:latitude":-36.93814,
     "geom:longitude":144.609898,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.955331,
     "lbl:longitude":144.590329,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Mia Mia"
@@ -44,9 +50,12 @@
         102049661
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20888"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"71d6e1f58c976f89884bca553e105296",
+    "wof:geomhash":"c80c8f2af67a002aafcd9df70299adad",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404539473,
-    "wof:lastmodified":1566602398,
+    "wof:lastmodified":1695877355,
     "wof:name":"Mia Mia",
     "wof:parent_id":102049661,
     "wof:placetype":"localadmin",

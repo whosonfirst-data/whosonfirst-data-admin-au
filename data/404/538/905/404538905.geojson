@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001588,
-    "geom:area_square_m":15393466.718028,
+    "geom:area_square_m":15393466.718004,
     "geom:bbox":"145.165861792,-38.409916643,145.235023968,-38.3534973965",
     "geom:latitude":-38.381071,
     "geom:longitude":145.19822,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.393184,
     "lbl:longitude":145.206868,
     "lbl:max_zoom":18.0,
@@ -54,13 +60,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC20633",
         "wd:id":"Q3124910"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101933051
     ],
     "wof:country":"AU",
-    "wof:geomhash":"ccaed83e61561bd9f4c2da20f3b67bf3",
+    "wof:geomhash":"5e2c416da9383697d2bedcb61ad2a5c3",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -72,7 +80,7 @@
         }
     ],
     "wof:id":404538905,
-    "wof:lastmodified":1566602462,
+    "wof:lastmodified":1695877959,
     "wof:name":"Hmas Cerberus",
     "wof:parent_id":102048695,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012773,
-    "geom:area_square_m":154068563.718835,
+    "geom:area_square_m":154068563.718805,
     "geom:bbox":"130.88150928,-12.800985394,130.97930544,-12.604931977",
     "geom:latitude":-12.705331,
     "geom:longitude":130.924218,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-12.700657,
     "lbl:longitude":130.920232,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Blackmore"
@@ -65,9 +71,12 @@
         102049205
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC70029"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"2eee741814d989d5952e85baaea820f0",
+    "wof:geomhash":"5ca9f9f35a63dd3188ddddcbbd88572c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -79,7 +88,7 @@
         }
     ],
     "wof:id":404549655,
-    "wof:lastmodified":1566602898,
+    "wof:lastmodified":1695877660,
     "wof:name":"Blackmore",
     "wof:parent_id":102049205,
     "wof:placetype":"localadmin",

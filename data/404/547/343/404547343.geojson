@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000362,
-    "geom:area_square_m":3712792.723367,
+    "geom:area_square_m":3712792.723374,
     "geom:bbox":"117.993566528,-33.9469630085,118.017495552,-33.924572921",
     "geom:latitude":-33.938224,
     "geom:longitude":118.003506,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.938884,
     "lbl:longitude":118.002072,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Gnowangerup"
@@ -38,12 +44,15 @@
         102049091
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50294"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937217
     ],
     "wof:country":"AU",
-    "wof:geomhash":"7e73b2971bf202140f3dfc8e0d1e2a99",
+    "wof:geomhash":"cda8f4d72c1ec884b56d06d69e178ac3",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404547343,
-    "wof:lastmodified":1566602980,
+    "wof:lastmodified":1695877707,
     "wof:name":"Gnowangerup",
     "wof:parent_id":102049091,
     "wof:placetype":"localadmin",

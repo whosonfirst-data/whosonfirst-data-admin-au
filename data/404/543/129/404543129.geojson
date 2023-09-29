@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005916,
-    "geom:area_square_m":65493202.795702,
+    "geom:area_square_m":65493202.795674,
     "geom:bbox":"151.765488,-26.4853749915,151.92192496,-26.4093739945",
     "geom:latitude":-26.451492,
     "geom:longitude":151.84986,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-26.455405,
     "lbl:longitude":151.844461,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Memerambi"
@@ -38,9 +44,12 @@
         102048861
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31037"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"752e1195c844d24a867fcfbc09260595",
+    "wof:geomhash":"29001cac87b106a395d24677684a9a5a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404543129,
-    "wof:lastmodified":1566602114,
+    "wof:lastmodified":1695877198,
     "wof:name":"Memerambi",
     "wof:parent_id":102048861,
     "wof:placetype":"localadmin",

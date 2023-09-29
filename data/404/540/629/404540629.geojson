@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008134,
-    "geom:area_square_m":80347336.792012,
+    "geom:area_square_m":80347336.791945,
     "geom:bbox":"144.105302016,-37.021406321,144.227067968,-36.930518004",
     "geom:latitude":-36.976255,
     "geom:longitude":144.166421,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.976256,
     "lbl:longitude":144.166455,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0648\u0627\u0644\u0645\u0631"
@@ -68,9 +74,12 @@
         102049601
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21406"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"a9ca7354ef579aa603121a746dea69f9",
+    "wof:geomhash":"440e7efe44e4df7b41fc8c923a17e2f6",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -82,7 +91,7 @@
         }
     ],
     "wof:id":404540629,
-    "wof:lastmodified":1566602995,
+    "wof:lastmodified":1695877716,
     "wof:name":"Walmer",
     "wof:parent_id":102049601,
     "wof:placetype":"localadmin",

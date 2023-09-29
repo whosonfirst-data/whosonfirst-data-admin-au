@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000696,
-    "geom:area_square_m":7040049.37696,
+    "geom:area_square_m":7040049.37697,
     "geom:bbox":"150.536740992,-35.109165994,150.579973472,-35.0763180045",
     "geom:latitude":-35.091251,
     "geom:longitude":150.555609,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.089478,
     "lbl:longitude":150.550525,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Basin View"
@@ -38,9 +44,12 @@
         102049405
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10128"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"8b17bbf6bc3b38e2ebced661cf28d242",
+    "wof:geomhash":"4cfa964b4991d4827358b8c461126c43",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404221713,
-    "wof:lastmodified":1566601982,
+    "wof:lastmodified":1695877125,
     "wof:name":"Basin View",
     "wof:parent_id":102049405,
     "wof:placetype":"localadmin",

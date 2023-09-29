@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000354,
-    "geom:area_square_m":3733498.578684,
+    "geom:area_square_m":3733498.578699,
     "geom:bbox":"152.703487008,-31.4531019955,152.728396992,-31.4273030055",
     "geom:latitude":-31.439314,
     "geom:longitude":152.715435,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.438987,
     "lbl:longitude":152.715434,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Crosslands"
@@ -38,12 +44,15 @@
         102049203
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10645"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101930019
     ],
     "wof:country":"AU",
-    "wof:geomhash":"ecc1ad712d7a3c5277e1dd24ba02280b",
+    "wof:geomhash":"5a8bac3e205c143a8c314ef10b5343ca",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404222875,
-    "wof:lastmodified":1566602761,
+    "wof:lastmodified":1695877568,
     "wof:name":"Crosslands",
     "wof:parent_id":102049203,
     "wof:placetype":"localadmin",

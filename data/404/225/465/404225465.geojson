@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002088,
-    "geom:area_square_m":21499480.556203,
+    "geom:area_square_m":21499480.556231,
     "geom:bbox":"150.84627728,-33.6507474465,150.909831008,-33.586059995",
     "geom:latitude":-33.615583,
     "geom:longitude":150.880061,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.619274,
     "lbl:longitude":150.877907,
     "lbl:max_zoom":18.0,
@@ -90,10 +96,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC11796",
         "wd:id":"Q7074245"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"85cc4c1dad41b05c30c0dc01e29e4d9f",
+    "wof:geomhash":"1ddfcda261dfb956eecefbc3575980a1",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -105,7 +113,7 @@
         }
     ],
     "wof:id":404225465,
-    "wof:lastmodified":1566602689,
+    "wof:lastmodified":1695877989,
     "wof:name":"Oakville",
     "wof:parent_id":102048745,
     "wof:placetype":"localadmin",

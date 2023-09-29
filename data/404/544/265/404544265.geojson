@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004146,
-    "geom:area_square_m":45288705.765497,
+    "geom:area_square_m":45288705.765513,
     "geom:bbox":"153.156771008,-28.0004859935,153.225928512,-27.8936058695",
     "geom:latitude":-27.93968,
     "geom:longitude":153.192091,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.919704,
     "lbl:longitude":153.189774,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Tamborine Mountain"
@@ -50,9 +56,12 @@
         102048945
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31574"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"ddea2a6f90fd9d137bfc166abf586508",
+    "wof:geomhash":"8cf3e563c6d52c558ad46224863940cb",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":404544265,
-    "wof:lastmodified":1566602195,
+    "wof:lastmodified":1695877241,
     "wof:name":"Tamborine Mountain",
     "wof:parent_id":102048945,
     "wof:placetype":"localadmin",

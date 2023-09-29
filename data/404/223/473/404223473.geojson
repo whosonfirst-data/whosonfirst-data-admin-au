@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011847,
-    "geom:area_square_m":123781798.903002,
+    "geom:area_square_m":123781798.903046,
     "geom:bbox":"151.735679008,-32.3974780075,151.849956576,-32.243237754",
     "geom:latitude":-32.327598,
     "geom:longitude":151.78947,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.331528,
     "lbl:longitude":151.784901,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Fosterton"
@@ -38,9 +44,12 @@
         102049061
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10910"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"e618b587c88f524714e58b5543215186",
+    "wof:geomhash":"cd6d34d580c99564a5232e0316cbffe8",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404223473,
-    "wof:lastmodified":1566602549,
+    "wof:lastmodified":1695877444,
     "wof:name":"Fosterton",
     "wof:parent_id":102049061,
     "wof:placetype":"localadmin",

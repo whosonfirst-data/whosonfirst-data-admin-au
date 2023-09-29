@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000256,
-    "geom:area_square_m":2679663.248878,
+    "geom:area_square_m":2679676.430163,
     "geom:bbox":"115.8776,-32.039295,115.917515,-32.027869",
     "geom:latitude":-32.034675,
     "geom:longitude":115.898562,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.033311,
     "lbl:longitude":115.898259,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0631\u064a\u0641\u0631\u062a\u0648\u0646"
@@ -102,12 +108,15 @@
         102049055
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50678"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937725
     ],
     "wof:country":"AU",
-    "wof:geomhash":"dd9d4851e1aa47a4df04861858c04c59",
+    "wof:geomhash":"cec83ec07ec48b0d5b5bcf115b88878e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -120,7 +129,7 @@
         }
     ],
     "wof:id":404548201,
-    "wof:lastmodified":1636494688,
+    "wof:lastmodified":1695877889,
     "wof:name":"Riverton",
     "wof:parent_id":102049055,
     "wof:placetype":"localadmin",

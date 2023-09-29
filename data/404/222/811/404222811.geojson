@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003325,
-    "geom:area_square_m":34948183.291523,
+    "geom:area_square_m":34948183.29159,
     "geom:bbox":"152.65599488,-31.8289109955,152.751312992,-31.7475182105",
     "geom:latitude":-31.787538,
     "geom:longitude":152.695916,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.779446,
     "lbl:longitude":152.695191,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Coralville"
@@ -38,9 +44,12 @@
         102048833
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10616"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"44f8770174ceb2b5112089d00ade0986",
+    "wof:geomhash":"acddad0f45a7289220556ac2c19d88d3",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404222811,
-    "wof:lastmodified":1566602754,
+    "wof:lastmodified":1695877562,
     "wof:name":"Coralville",
     "wof:parent_id":102048833,
     "wof:placetype":"localadmin",

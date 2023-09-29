@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010332,
-    "geom:area_square_m":100536652.495408,
+    "geom:area_square_m":100536652.495418,
     "geom:bbox":"146.853880896,-38.154859918,147.02261808,-38.0329140045",
     "geom:latitude":-38.099847,
     "geom:longitude":146.947597,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.10907,
     "lbl:longitude":146.948871,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0641\u0648\u0644\u0627\u0645"
@@ -122,9 +128,12 @@
         102049585
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20509"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"9382f0fe419fbc738deb4424115ec353",
+    "wof:geomhash":"5d35de727e41381ff78944285c2260ff",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -136,7 +145,7 @@
         }
     ],
     "wof:id":404538625,
-    "wof:lastmodified":1566602465,
+    "wof:lastmodified":1695877392,
     "wof:name":"Fulham",
     "wof:parent_id":102049585,
     "wof:placetype":"localadmin",

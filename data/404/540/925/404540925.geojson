@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004342,
-    "geom:area_square_m":42393916.320236,
+    "geom:area_square_m":42393916.320625,
     "geom:bbox":"145.475510016,-37.899342358,145.590935328,-37.7980709345",
     "geom:latitude":-37.846009,
     "geom:longitude":145.52914,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.835046,
     "lbl:longitude":145.51393,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Yellingbo"
@@ -39,9 +45,12 @@
         102048969
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21538"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"ab2b1e642036451f793579ab04c6759e",
+    "wof:geomhash":"21f1ad8934229f07ee7541b489147d2a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":404540925,
-    "wof:lastmodified":1566603010,
+    "wof:lastmodified":1695877724,
     "wof:name":"Yellingbo",
     "wof:parent_id":102048969,
     "wof:placetype":"localadmin",

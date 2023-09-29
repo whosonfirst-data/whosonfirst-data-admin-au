@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012792,
-    "geom:area_square_m":124313963.458342,
+    "geom:area_square_m":124313963.458293,
     "geom:bbox":"143.405669888,-38.2595441475,143.57739952,-38.1209567625",
     "geom:latitude":-38.193537,
     "geom:longitude":143.496341,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.168442,
     "lbl:longitude":143.530736,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Dreeite"
@@ -38,9 +44,12 @@
         102049117
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20412"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"da6acb9b93482dbf95ae777652da0293",
+    "wof:geomhash":"411b75336927669cfa6dfe7fd8cb815a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404538409,
-    "wof:lastmodified":1566602444,
+    "wof:lastmodified":1695877383,
     "wof:name":"Dreeite",
     "wof:parent_id":102049117,
     "wof:placetype":"localadmin",

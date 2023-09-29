@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01644,
-    "geom:area_square_m":159868781.981075,
+    "geom:area_square_m":159868781.981194,
     "geom:bbox":"143.899639552,-38.200174003,144.202511008,-38.1005199975",
     "geom:latitude":-38.147712,
     "geom:longitude":144.063857,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.142076,
     "lbl:longitude":144.076447,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Gnarwarre"
@@ -38,9 +44,12 @@
         102048931
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20549"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"7a6a54545af584e164c831f056943853",
+    "wof:geomhash":"394805a04559a55a44c7258e6fb9d505",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404538715,
-    "wof:lastmodified":1566602452,
+    "wof:lastmodified":1695877387,
     "wof:name":"Gnarwarre",
     "wof:parent_id":102048931,
     "wof:placetype":"localadmin",

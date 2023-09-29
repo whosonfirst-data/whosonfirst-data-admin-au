@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002354,
-    "geom:area_square_m":23064015.133542,
+    "geom:area_square_m":23064015.133551,
     "geom:bbox":"143.929705952,-37.6160469925,144.011336,-37.569442995",
     "geom:latitude":-37.594066,
     "geom:longitude":143.972157,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.599456,
     "lbl:longitude":143.983557,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Dunnstown"
@@ -38,9 +44,12 @@
         102049283
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20425"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"b158237a4b8da40195220cfd18b6c701",
+    "wof:geomhash":"0dc23da3e29433a68fd5e68babb35761",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404538439,
-    "wof:lastmodified":1566602440,
+    "wof:lastmodified":1695877381,
     "wof:name":"Dunnstown",
     "wof:parent_id":102049283,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00599,
-    "geom:area_square_m":62758021.641979,
+    "geom:area_square_m":62758012.664447,
     "geom:bbox":"150.815842,-32.130387,150.906349,-32.02123",
     "geom:latitude":-32.078313,
     "geom:longitude":150.861961,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.077138,
     "lbl:longitude":150.861105,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "Scones"
@@ -122,9 +128,12 @@
         102048493
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12053"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"548685090c27e154127ae33414223207",
+    "wof:geomhash":"444de20021e91ea81c2e4c4e55a17e47",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -136,7 +145,7 @@
         }
     ],
     "wof:id":404226043,
-    "wof:lastmodified":1636494615,
+    "wof:lastmodified":1695877850,
     "wof:name":"Scone",
     "wof:parent_id":102048493,
     "wof:placetype":"localadmin",

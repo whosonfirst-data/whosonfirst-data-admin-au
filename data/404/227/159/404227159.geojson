@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004635,
-    "geom:area_square_m":49880246.799117,
+    "geom:area_square_m":49880246.799217,
     "geom:bbox":"153.106422016,-29.559420998,153.204067008,-29.454375001",
     "geom:latitude":-29.507601,
     "geom:longitude":153.151755,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-29.508793,
     "lbl:longitude":153.143597,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Woodford Island"
@@ -41,9 +47,12 @@
         102048835
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12549"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"b08e9d72d58b29db14d2de4839121839",
+    "wof:geomhash":"f28dd4f6f55275dc4c28227eff87b786",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404227159,
-    "wof:lastmodified":1566601936,
+    "wof:lastmodified":1695877102,
     "wof:name":"Woodford Island",
     "wof:parent_id":102048835,
     "wof:placetype":"localadmin",

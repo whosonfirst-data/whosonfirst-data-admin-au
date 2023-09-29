@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.038314,
-    "geom:area_square_m":390186930.424094,
+    "geom:area_square_m":390186930.424047,
     "geom:bbox":"146.00884176,-34.638475008,146.361716992,-34.4535934265",
     "geom:latitude":-34.552805,
     "geom:longitude":146.202105,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.541545,
     "lbl:longitude":146.24875,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Stanbridge"
@@ -47,9 +53,12 @@
         102049361
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12152"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"1069dde3728adc2fd53bab28f2409abd",
+    "wof:geomhash":"aec8945e8552d36289da13d1ed08cd2a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":404226267,
-    "wof:lastmodified":1566602036,
+    "wof:lastmodified":1695877152,
     "wof:name":"Stanbridge",
     "wof:parent_id":102049361,
     "wof:placetype":"localadmin",

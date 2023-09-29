@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000552,
-    "geom:area_square_m":5407673.083734,
+    "geom:area_square_m":5407673.083733,
     "geom:bbox":"144.934877024,-37.646539562,144.97402464,-37.6209259975",
     "geom:latitude":-37.634683,
     "geom:longitude":144.950763,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.632394,
     "lbl:longitude":144.947225,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Somerton"
@@ -81,12 +87,15 @@
         102049057
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21230"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101933531
     ],
     "wof:country":"AU",
-    "wof:geomhash":"56438ef8d07a48316ee780ee20687069",
+    "wof:geomhash":"c471769fc6b6b90b2864bd75b4a3a883",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -99,7 +108,7 @@
         }
     ],
     "wof:id":404540237,
-    "wof:lastmodified":1566603031,
+    "wof:lastmodified":1695877736,
     "wof:name":"Somerton",
     "wof:parent_id":102049057,
     "wof:placetype":"localadmin",

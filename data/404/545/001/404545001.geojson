@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000679,
-    "geom:area_square_m":6872673.919863,
+    "geom:area_square_m":6872673.919874,
     "geom:bbox":"138.749240032,-35.027001278,138.790463776,-35.002162586",
     "geom:latitude":-35.015184,
     "geom:longitude":138.767525,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.013516,
     "lbl:longitude":138.76714,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0631\u064a\u062f\u062c\u0648\u0648\u062a\u0631"
@@ -104,12 +110,15 @@
         102049017
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40067"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935811
     ],
     "wof:country":"AU",
-    "wof:geomhash":"6379d3ee0cf88523dbf178c4e4e7943a",
+    "wof:geomhash":"99ca4c0fa4b3a9e2b6b8f3c8f25486cb",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -121,7 +130,7 @@
         }
     ],
     "wof:id":404545001,
-    "wof:lastmodified":1566602224,
+    "wof:lastmodified":1695877253,
     "wof:name":"Bridgewater",
     "wof:parent_id":102049017,
     "wof:placetype":"localadmin",

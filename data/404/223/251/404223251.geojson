@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000349,
-    "geom:area_square_m":3577556.621954,
+    "geom:area_square_m":3577556.621939,
     "geom:bbox":"150.66560832,-34.048842009,150.692388,-34.019584",
     "geom:latitude":-34.032883,
     "geom:longitude":150.678235,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.031767,
     "lbl:longitude":150.676917,
     "lbl:max_zoom":18.0,
@@ -46,13 +52,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC10812",
         "wd:id":"Q5365935"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101930215
     ],
     "wof:country":"AU",
-    "wof:geomhash":"5f6a373bfe863977d37bd5109585b9f1",
+    "wof:geomhash":"8dea8c852543c2789fcdbb12ea80e157",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -65,7 +73,7 @@
         }
     ],
     "wof:id":404223251,
-    "wof:lastmodified":1566602517,
+    "wof:lastmodified":1695877965,
     "wof:name":"Ellis Lane",
     "wof:parent_id":102048421,
     "wof:placetype":"localadmin",

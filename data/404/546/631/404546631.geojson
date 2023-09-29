@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000082,
-    "geom:area_square_m":831711.056117,
+    "geom:area_square_m":831711.056118,
     "geom:bbox":"138.684153408,-34.9105299955,138.69576,-34.9001085385",
     "geom:latitude":-34.905124,
     "geom:longitude":138.689635,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.903868,
     "lbl:longitude":138.687893,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Woodforde"
@@ -38,12 +44,15 @@
         102049017
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40819"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101936785
     ],
     "wof:country":"AU",
-    "wof:geomhash":"62b0799a60b8c0706c6369ab02d6d548",
+    "wof:geomhash":"2b702987fb437bb5f510e07921982197",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404546631,
-    "wof:lastmodified":1566603148,
+    "wof:lastmodified":1695877789,
     "wof:name":"Woodforde",
     "wof:parent_id":102049017,
     "wof:placetype":"localadmin",

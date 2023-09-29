@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034611,
-    "geom:area_square_m":394082000.692932,
+    "geom:area_square_m":394082000.692451,
     "geom:bbox":"150.550409888,-23.1013697175,150.800009056,-22.830852191",
     "geom:latitude":-22.956612,
     "geom:longitude":150.675147,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-22.931542,
     "lbl:longitude":150.662954,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Farnborough"
@@ -65,9 +71,12 @@
         102048825
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30599"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"fb09e576f3710dee761faf382d8ebd35",
+    "wof:geomhash":"58e234ede9ee7aaaa62ee5489d9ba729",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -79,7 +88,7 @@
         }
     ],
     "wof:id":404542195,
-    "wof:lastmodified":1566602262,
+    "wof:lastmodified":1695877270,
     "wof:name":"Farnborough",
     "wof:parent_id":102048825,
     "wof:placetype":"localadmin",

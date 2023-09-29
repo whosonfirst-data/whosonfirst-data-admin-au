@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003352,
-    "geom:area_square_m":39511257.698255,
+    "geom:area_square_m":39511257.698237,
     "geom:bbox":"145.882486016,-17.597911999,145.992858848,-17.520909005",
     "geom:latitude":-17.562951,
     "geom:longitude":145.936727,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-17.565457,
     "lbl:longitude":145.946759,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Coorumba"
@@ -38,9 +44,12 @@
         102049237
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30422"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"80ec40f69bf3dee23fc03281d8b301ee",
+    "wof:geomhash":"82dea54630e4104dca920b08fb3dc471",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404541827,
-    "wof:lastmodified":1566603050,
+    "wof:lastmodified":1695877746,
     "wof:name":"Coorumba",
     "wof:parent_id":102049237,
     "wof:placetype":"localadmin",

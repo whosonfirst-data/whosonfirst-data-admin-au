@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000466,
-    "geom:area_square_m":4306701.653579,
+    "geom:area_square_m":4306701.653572,
     "geom:bbox":"147.157891008,-41.5829739465,147.184322016,-41.553557004",
     "geom:latitude":-41.56747,
     "geom:longitude":147.172061,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-41.569382,
     "lbl:longitude":147.173636,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Perth"
@@ -386,12 +392,15 @@
         102049249
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60277"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938217
     ],
     "wof:country":"AU",
-    "wof:geomhash":"3767f2822ad905c6b4c5cef9d691354a",
+    "wof:geomhash":"26155a6525e4924825bf846cd06aa6da",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -403,7 +412,7 @@
         }
     ],
     "wof:id":404549293,
-    "wof:lastmodified":1566602850,
+    "wof:lastmodified":1695877626,
     "wof:name":"Perth",
     "wof:parent_id":102049249,
     "wof:placetype":"localadmin",

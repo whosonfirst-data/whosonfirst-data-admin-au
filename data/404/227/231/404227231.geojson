@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029794,
-    "geom:area_square_m":305879464.084797,
+    "geom:area_square_m":305879464.084827,
     "geom:bbox":"148.870524128,-33.9822177,149.13548,-33.7900827125",
     "geom:latitude":-33.873956,
     "geom:longitude":148.996514,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.868803,
     "lbl:longitude":148.994455,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Wyangala"
@@ -38,9 +44,12 @@
         102048613
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12581"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"4187c0e641338187f308b38a864831ef",
+    "wof:geomhash":"6e5cd05f1b4841e7ba8e59cbbbfae29e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404227231,
-    "wof:lastmodified":1566601955,
+    "wof:lastmodified":1695877112,
     "wof:name":"Wyangala",
     "wof:parent_id":102048613,
     "wof:placetype":"localadmin",

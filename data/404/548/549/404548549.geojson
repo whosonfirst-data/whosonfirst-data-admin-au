@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00022,
-    "geom:area_square_m":2307254.958078,
+    "geom:area_square_m":2307254.958076,
     "geom:bbox":"115.82618336,-31.8739403655,115.855156544,-31.8593688035",
     "geom:latitude":-31.867435,
     "geom:longitude":115.839195,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.86796,
     "lbl:longitude":115.835577,
     "lbl:max_zoom":18.0,
@@ -196,13 +202,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC50834",
         "wd:id":"Q7989106"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937947
     ],
     "wof:country":"AU",
-    "wof:geomhash":"21e0a0f8c2d6d5db2b7159c575a7fc4d",
+    "wof:geomhash":"8604f2449c2d82e28cf6e1fb7711dd79",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -215,7 +223,7 @@
         }
     ],
     "wof:id":404548549,
-    "wof:lastmodified":1566603228,
+    "wof:lastmodified":1695878051,
     "wof:name":"Westminster",
     "wof:parent_id":102048573,
     "wof:placetype":"localadmin",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000414,
-    "geom:area_square_m":4046739.637555,
+    "geom:area_square_m":4046756.841543,
     "geom:bbox":"144.937074,-37.801554,144.964972,-37.775448",
     "geom:latitude":-37.787105,
     "geom:longitude":144.951533,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.786833,
     "lbl:longitude":144.951322,
     "lbl:max_zoom":18.0,
@@ -109,10 +115,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC21071",
         "gn:id":2153770,
         "qs_pg:id":1028573,
         "wd:id":"Q3427921"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101933389
     ],
@@ -120,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5a4cf4b91444eac9de0bdf21725a0e9d",
+    "wof:geomhash":"b3f7fcfb7e61e777409c167ac8c81813",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -133,7 +141,7 @@
         }
     ],
     "wof:id":404539881,
-    "wof:lastmodified":1690853554,
+    "wof:lastmodified":1695878053,
     "wof:name":"Parkville",
     "wof:parent_id":102049169,
     "wof:placetype":"localadmin",

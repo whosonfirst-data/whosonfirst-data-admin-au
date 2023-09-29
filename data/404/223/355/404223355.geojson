@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.085098,
-    "geom:area_square_m":918946306.461641,
+    "geom:area_square_m":918946306.461282,
     "geom:bbox":"152.298278944,-29.3526324195,152.7539,-28.96997422",
     "geom:latitude":-29.153617,
     "geom:longitude":152.539749,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-29.121952,
     "lbl:longitude":152.562333,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ewingar"
@@ -38,9 +44,12 @@
         102048835
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10858"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"a5270bcc22e7a5c39307907ad2c47d2b",
+    "wof:geomhash":"80add8b232a08ae14f627c967d2f9c7a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404223355,
-    "wof:lastmodified":1566602497,
+    "wof:lastmodified":1695877412,
     "wof:name":"Ewingar",
     "wof:parent_id":102048835,
     "wof:placetype":"localadmin",

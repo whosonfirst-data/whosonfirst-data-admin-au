@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0003,
-    "geom:area_square_m":3141068.872594,
+    "geom:area_square_m":3141068.872591,
     "geom:bbox":"115.757988,-32.047291,115.776282,-32.025779",
     "geom:latitude":-32.03794,
     "geom:longitude":115.768167,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.038949,
     "lbl:longitude":115.768906,
     "lbl:max_zoom":18.0,
@@ -76,14 +82,16 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC50239",
         "wd:id":"Q3717659"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937135,
         102048779
     ],
     "wof:country":"AU",
-    "wof:geomhash":"3833ccb8338765c0e9fab168da4ad7ab",
+    "wof:geomhash":"e164d2c367186c49d04b58ac09043a15",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -96,7 +104,7 @@
         }
     ],
     "wof:id":404547221,
-    "wof:lastmodified":1690853746,
+    "wof:lastmodified":1695878055,
     "wof:name":"East Fremantle",
     "wof:parent_id":102048779,
     "wof:placetype":"localadmin",

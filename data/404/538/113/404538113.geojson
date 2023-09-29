@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001278,
-    "geom:area_square_m":12420912.332994,
+    "geom:area_square_m":12420895.3147,
     "geom:bbox":"144.250475,-38.18379,144.293727,-38.141269",
     "geom:latitude":-38.164549,
     "geom:longitude":144.272787,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.164312,
     "lbl:longitude":144.273196,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Ceres"
@@ -207,9 +213,12 @@
         102049571
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20278"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"c704afccbc467e821bf438f633197981",
+    "wof:geomhash":"eecf6660c5833098fc1102c0daae5c52",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -222,7 +231,7 @@
         }
     ],
     "wof:id":404538113,
-    "wof:lastmodified":1636494642,
+    "wof:lastmodified":1695877862,
     "wof:name":"Ceres",
     "wof:parent_id":102049571,
     "wof:placetype":"localadmin",

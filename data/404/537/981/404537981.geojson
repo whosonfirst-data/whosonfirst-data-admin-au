@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023805,
-    "geom:area_square_m":238033079.982527,
+    "geom:area_square_m":238033079.982392,
     "geom:bbox":"145.731547584,-36.099234009,145.955002688,-35.952465702",
     "geom:latitude":-36.034454,
     "geom:longitude":145.840574,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.041017,
     "lbl:longitude":145.842741,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Burramine"
@@ -38,9 +44,12 @@
         102048427
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20220"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"8728624573db9b265a898bcce0c84c83",
+    "wof:geomhash":"71e4f532ef5a07becb2f8480a832a30b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404537981,
-    "wof:lastmodified":1566602350,
+    "wof:lastmodified":1695877325,
     "wof:name":"Burramine",
     "wof:parent_id":102048427,
     "wof:placetype":"localadmin",

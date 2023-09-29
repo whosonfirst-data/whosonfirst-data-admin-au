@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.195993,
-    "geom:area_square_m":2085279852.735422,
+    "geom:area_square_m":2085279852.735734,
     "geom:bbox":"116.510923424,-30.801770183,117.257760896,-30.4504480975",
     "geom:latitude":-30.633451,
     "geom:longitude":116.921413,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-30.628515,
     "lbl:longitude":116.921729,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Cadoux"
@@ -38,9 +44,12 @@
         102049211
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50120"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"b368bbc91bf0d2ea77f407dec72baf9f",
+    "wof:geomhash":"58d68840cb8794dcef75af14ddb7ee63",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404546957,
-    "wof:lastmodified":1566603130,
+    "wof:lastmodified":1695877782,
     "wof:name":"Cadoux",
     "wof:parent_id":102049211,
     "wof:placetype":"localadmin",

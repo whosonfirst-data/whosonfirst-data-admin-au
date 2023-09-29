@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00195,
-    "geom:area_square_m":19771143.536253,
+    "geom:area_square_m":19771143.536286,
     "geom:bbox":"138.796212,-34.960945992,138.847312992,-34.887302376",
     "geom:latitude":-34.9276,
     "geom:longitude":138.824421,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.938545,
     "lbl:longitude":138.822692,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lenswood"
@@ -38,9 +44,12 @@
         102049017
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40364"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"fef141cd41f4ec297b9511edb54c9ae2",
+    "wof:geomhash":"d9aae2c550aa01c0289d7dd429633cb1",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404545649,
-    "wof:lastmodified":1566602241,
+    "wof:lastmodified":1695877261,
     "wof:name":"Lenswood",
     "wof:parent_id":102049017,
     "wof:placetype":"localadmin",

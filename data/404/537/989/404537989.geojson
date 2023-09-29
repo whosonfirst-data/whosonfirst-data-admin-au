@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000436,
-    "geom:area_square_m":4260224.857856,
+    "geom:area_square_m":4260263.528997,
     "geom:bbox":"145.131436,-37.862015,145.169266,-37.845413",
     "geom:latitude":-37.853586,
     "geom:longitude":145.150416,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.853775,
     "lbl:longitude":145.150419,
     "lbl:max_zoom":18.0,
@@ -55,10 +61,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC20223",
         "gn:id":2172994,
         "qs_pg:id":356127,
         "wd:id":"Q5001058"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932681
     ],
@@ -66,7 +74,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3ae2b77ace9335ab256bf4603b8723ab",
+    "wof:geomhash":"56a73e006bcf44bd13d21b0efa23f8b1",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -79,7 +87,7 @@
         }
     ],
     "wof:id":404537989,
-    "wof:lastmodified":1690853548,
+    "wof:lastmodified":1695878053,
     "wof:name":"Burwood East",
     "wof:parent_id":102048901,
     "wof:placetype":"localadmin",

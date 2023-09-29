@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000633,
-    "geom:area_square_m":6951663.798879,
+    "geom:area_square_m":6951663.798878,
     "geom:bbox":"152.924526304,-27.2914295375,152.96498288,-27.2567240185",
     "geom:latitude":-27.276133,
     "geom:longitude":152.944713,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.281424,
     "lbl:longitude":152.941667,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Joyner"
@@ -51,12 +57,15 @@
         102049131
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30828"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934609
     ],
     "wof:country":"AU",
-    "wof:geomhash":"4083712f6399f4a0336077fab3807c7c",
+    "wof:geomhash":"c0213eab85b14ab696ecce0bbcfe7839",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -69,7 +78,7 @@
         }
     ],
     "wof:id":404542685,
-    "wof:lastmodified":1566602297,
+    "wof:lastmodified":1695877292,
     "wof:name":"Joyner",
     "wof:parent_id":102049131,
     "wof:placetype":"localadmin",

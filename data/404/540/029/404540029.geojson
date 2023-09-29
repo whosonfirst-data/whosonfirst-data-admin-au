@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000982,
-    "geom:area_square_m":9605583.835985,
+    "geom:area_square_m":9605640.100279,
     "geom:bbox":"145.164081,-37.72545,145.21359,-37.686077",
     "geom:latitude":-37.706614,
     "geom:longitude":145.189025,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.707488,
     "lbl:longitude":145.187352,
     "lbl:max_zoom":18.0,
@@ -312,13 +318,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC21138",
         "wd:id":"Q7315046"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101933447
     ],
     "wof:country":"AU",
-    "wof:geomhash":"8855edc1511f23ae4b1f1d3c4e3e9222",
+    "wof:geomhash":"4a2a4e5d44ea971deb504508f0e55442",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -330,7 +338,7 @@
         }
     ],
     "wof:id":404540029,
-    "wof:lastmodified":1690853785,
+    "wof:lastmodified":1695878027,
     "wof:name":"Research",
     "wof:parent_id":102048735,
     "wof:placetype":"localadmin",

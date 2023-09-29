@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000116,
-    "geom:area_square_m":1224117.399732,
+    "geom:area_square_m":1224115.994708,
     "geom:bbox":"150.924042,-31.101958,150.942987,-31.083895",
     "geom:latitude":-31.092917,
     "geom:longitude":150.932325,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.09275,
     "lbl:longitude":150.931683,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Tamworth"
@@ -86,12 +92,15 @@
         102048785
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12209"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932027
     ],
     "wof:country":"AU",
-    "wof:geomhash":"9ad827ce2312214157fb2e94cdfd6e93",
+    "wof:geomhash":"96984205b461ceee2d424b6e6458598a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -103,7 +112,7 @@
         }
     ],
     "wof:id":404226395,
-    "wof:lastmodified":1636494614,
+    "wof:lastmodified":1695877850,
     "wof:name":"Tamworth",
     "wof:parent_id":102048785,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013446,
-    "geom:area_square_m":124490498.768919,
+    "geom:area_square_m":124490498.769146,
     "geom:bbox":"146.721682016,-41.595291635,146.894608992,-41.422780504",
     "geom:latitude":-41.519332,
     "geom:longitude":146.812836,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-41.526779,
     "lbl:longitude":146.821266,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Westbury"
@@ -77,9 +83,12 @@
         102048535
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60399"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"3bf39bff10ebf877fddf183a9974ce76",
+    "wof:geomhash":"38caf622e7edc8f54c67cc6cef8e09d8",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -91,7 +100,7 @@
         }
     ],
     "wof:id":404549567,
-    "wof:lastmodified":1566602823,
+    "wof:lastmodified":1695877607,
     "wof:name":"Westbury",
     "wof:parent_id":102048535,
     "wof:placetype":"localadmin",

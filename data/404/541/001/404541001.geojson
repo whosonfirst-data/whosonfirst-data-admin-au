@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000068,
-    "geom:area_square_m":789090.587422,
+    "geom:area_square_m":789090.587423,
     "geom:bbox":"147.473792416,-19.464541982,147.483653056,-19.450198599",
     "geom:latitude":-19.45668,
     "geom:longitude":147.478928,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-19.456893,
     "lbl:longitude":147.479411,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0410\u043b\u0432\u0430"
@@ -86,12 +92,15 @@
         102048927
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30032"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101933791
     ],
     "wof:country":"AU",
-    "wof:geomhash":"49f0c7762a08e408361fccc27a2e1904",
+    "wof:geomhash":"c7ee7c3685171173d65873f135d5b62e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -103,7 +112,7 @@
         }
     ],
     "wof:id":404541001,
-    "wof:lastmodified":1566603064,
+    "wof:lastmodified":1695877751,
     "wof:name":"Alva",
     "wof:parent_id":102048927,
     "wof:placetype":"localadmin",

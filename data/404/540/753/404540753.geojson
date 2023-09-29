@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005319,
-    "geom:area_square_m":53148559.802354,
+    "geom:area_square_m":53148559.802299,
     "geom:bbox":"144.58969008,-36.129574305,144.673376416,-36.031524342",
     "geom:latitude":-36.093488,
     "geom:longitude":144.630733,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.100664,
     "lbl:longitude":144.63573,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Wharparilla"
@@ -38,9 +44,12 @@
         102049529
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21461"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"7146bcd3582bb389634b1f974b9d65ff",
+    "wof:geomhash":"bf4d097745144310d81528d786004e1b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404540753,
-    "wof:lastmodified":1566602985,
+    "wof:lastmodified":1695877710,
     "wof:name":"Wharparilla",
     "wof:parent_id":102049529,
     "wof:placetype":"localadmin",

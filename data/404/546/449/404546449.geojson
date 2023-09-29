@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026651,
-    "geom:area_square_m":270412162.889955,
+    "geom:area_square_m":270412162.889887,
     "geom:bbox":"138.975121792,-34.947019007,139.198852992,-34.7592446915",
     "geom:latitude":-34.857424,
     "geom:longitude":139.100272,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.860464,
     "lbl:longitude":139.092736,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tungkillo"
@@ -38,9 +44,12 @@
         102049005
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40736"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"da19442c72f1287b25c800cbbb6b377c",
+    "wof:geomhash":"62946a4bc1efee039dfdf173b058d909",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404546449,
-    "wof:lastmodified":1566603109,
+    "wof:lastmodified":1695877773,
     "wof:name":"Tungkillo",
     "wof:parent_id":102049005,
     "wof:placetype":"localadmin",

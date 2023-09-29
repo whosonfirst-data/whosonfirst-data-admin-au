@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011461,
-    "geom:area_square_m":116555751.766736,
+    "geom:area_square_m":116555751.766941,
     "geom:bbox":"150.596856992,-34.724468003,150.837935008,-34.6191713125",
     "geom:latitude":-34.666677,
     "geom:longitude":150.723817,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.659363,
     "lbl:longitude":150.725686,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Jamberoo"
@@ -50,9 +56,12 @@
         102048749
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11164"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"682852eca1fe483384cc420005928d6a",
+    "wof:geomhash":"0c0b034130b2352469d606a63c309521",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":404224043,
-    "wof:lastmodified":1566602627,
+    "wof:lastmodified":1695877490,
     "wof:name":"Jamberoo",
     "wof:parent_id":102048749,
     "wof:placetype":"localadmin",

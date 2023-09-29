@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.136782,
-    "geom:area_square_m":1442992507.657039,
+    "geom:area_square_m":1442992507.65719,
     "geom:bbox":"149.301787008,-31.6244271655,149.914852192,-31.254540996",
     "geom:latitude":-31.441921,
     "geom:longitude":149.633024,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.412848,
     "lbl:longitude":149.608267,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bomera"
@@ -38,9 +44,12 @@
         102049559
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10273"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"5eff5f8f737440c4ca2f6123329d22df",
+    "wof:geomhash":"bc91def0c5c61aa1c017079bd401311e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404222039,
-    "wof:lastmodified":1566602770,
+    "wof:lastmodified":1695877573,
     "wof:name":"Bomera",
     "wof:parent_id":102049559,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00179,
-    "geom:area_square_m":19495176.153538,
+    "geom:area_square_m":19495176.153621,
     "geom:bbox":"153.420922016,-28.2723900025,153.503253056,-28.2107830045",
     "geom:latitude":-28.235317,
     "geom:longitude":153.458729,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.230269,
     "lbl:longitude":153.458733,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bilambil"
@@ -38,9 +44,12 @@
         102048589
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10209"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"53d4290d6f2a61f8be200d39e74ba5e1",
+    "wof:geomhash":"3908bd991feca8b8ebd58810635dc6e0",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404221895,
-    "wof:lastmodified":1566601977,
+    "wof:lastmodified":1695877123,
     "wof:name":"Bilambil",
     "wof:parent_id":102048589,
     "wof:placetype":"localadmin",

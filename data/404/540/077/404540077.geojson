@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.038669,
-    "geom:area_square_m":377081582.208095,
+    "geom:area_square_m":377081582.208179,
     "geom:bbox":"143.622072352,-38.0597799635,143.906564,-37.8225594585",
     "geom:latitude":-37.942994,
     "geom:longitude":143.754871,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.941293,
     "lbl:longitude":143.752596,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Rokewood"
@@ -38,9 +44,12 @@
         102049027
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21159"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"fcb9b976fd7691fcf38bf10b031435c6",
+    "wof:geomhash":"9b22256bbb47a1c82294b894682ec6d6",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404540077,
-    "wof:lastmodified":1566602991,
+    "wof:lastmodified":1695877713,
     "wof:name":"Rokewood",
     "wof:parent_id":102049027,
     "wof:placetype":"localadmin",

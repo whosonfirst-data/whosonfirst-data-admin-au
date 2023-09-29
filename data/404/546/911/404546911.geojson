@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002385,
-    "geom:area_square_m":26749230.805767,
+    "geom:area_square_m":26749230.805788,
     "geom:bbox":"113.66113392,-24.93444157,113.739093856,-24.861440607",
     "geom:latitude":-24.891646,
     "geom:longitude":113.698521,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-24.885354,
     "lbl:longitude":113.705556,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "S\u00f8rtindane"
@@ -47,12 +53,15 @@
         102048891
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50100"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101936949
     ],
     "wof:country":"AU",
-    "wof:geomhash":"c199ee279a224fd1b56f234f5176c071",
+    "wof:geomhash":"bbc0cc795b2e414cec823465f8de724a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":404546911,
-    "wof:lastmodified":1566603149,
+    "wof:lastmodified":1695877789,
     "wof:name":"Brown Range",
     "wof:parent_id":102048891,
     "wof:placetype":"localadmin",

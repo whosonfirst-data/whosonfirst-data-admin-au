@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000211,
-    "geom:area_square_m":2139717.925404,
+    "geom:area_square_m":2139717.92538,
     "geom:bbox":"150.71003968,-35.010592,150.729004,-34.989906188",
     "geom:latitude":-34.998404,
     "geom:longitude":150.719874,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.995785,
     "lbl:longitude":150.720515,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Callala Bay"
@@ -38,12 +44,15 @@
         102049405
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10430"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101929773
     ],
     "wof:country":"AU",
-    "wof:geomhash":"2cab06c516714b32662c1f1e7cca902a",
+    "wof:geomhash":"1fde579e847dd6e6f73acc7624c36768",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404222393,
-    "wof:lastmodified":1566602788,
+    "wof:lastmodified":1695877585,
     "wof:name":"Callala Bay",
     "wof:parent_id":102049405,
     "wof:placetype":"localadmin",

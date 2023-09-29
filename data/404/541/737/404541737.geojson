@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000565,
-    "geom:area_square_m":6206927.382153,
+    "geom:area_square_m":6206927.382165,
     "geom:bbox":"153.068410912,-27.2632389415,153.095757888,-27.2328800345",
     "geom:latitude":-27.246864,
     "geom:longitude":153.082095,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.246755,
     "lbl:longitude":153.082095,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Clontarf"
@@ -60,12 +66,15 @@
         102049131
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30380"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934185
     ],
     "wof:country":"AU",
-    "wof:geomhash":"ade8f35ac0fcb7deda79bafa3d614dca",
+    "wof:geomhash":"4b0afc4b6c45ae17e46c7c5e6e7795c0",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -78,7 +87,7 @@
         }
     ],
     "wof:id":404541737,
-    "wof:lastmodified":1566603046,
+    "wof:lastmodified":1695877744,
     "wof:name":"Clontarf",
     "wof:parent_id":102049131,
     "wof:placetype":"localadmin",

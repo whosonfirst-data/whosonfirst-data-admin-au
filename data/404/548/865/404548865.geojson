@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001301,
-    "geom:area_square_m":12105016.647918,
+    "geom:area_square_m":12105022.421332,
     "geom:bbox":"146.277017,-41.211231,146.33371,-41.154049",
     "geom:latitude":-41.181955,
     "geom:longitude":146.304168,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-41.18294,
     "lbl:longitude":146.304544,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062f\u0648\u0646"
@@ -165,9 +171,12 @@
         102048819
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60087"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"bbdcf6f250d11c133cc71214db448951",
+    "wof:geomhash":"ca16617b14da28885376c1341eea3077",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -180,7 +189,7 @@
         }
     ],
     "wof:id":404548865,
-    "wof:lastmodified":1636494688,
+    "wof:lastmodified":1695877889,
     "wof:name":"Don",
     "wof:parent_id":102048819,
     "wof:placetype":"localadmin",

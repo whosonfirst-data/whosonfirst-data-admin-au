@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00027,
-    "geom:area_square_m":3022718.839714,
+    "geom:area_square_m":3022718.839708,
     "geom:bbox":"152.658531008,-25.2712199915,152.726331968,-25.2433989885",
     "geom:latitude":-25.256551,
     "geom:longitude":152.691679,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-25.258506,
     "lbl:longitude":152.691133,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Toogoom"
@@ -38,12 +44,15 @@
         102049435
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31650"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935483
     ],
     "wof:country":"AU",
-    "wof:geomhash":"31253d9f77ad78c57142f6d6bc2f1026",
+    "wof:geomhash":"c74296eb2361cc9be3f65ca61a8ff2d1",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404544433,
-    "wof:lastmodified":1566602196,
+    "wof:lastmodified":1695877241,
     "wof:name":"Toogoom",
     "wof:parent_id":102049435,
     "wof:placetype":"localadmin",

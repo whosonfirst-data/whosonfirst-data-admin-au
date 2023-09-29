@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.05279,
-    "geom:area_square_m":538475104.584656,
+    "geom:area_square_m":538475104.584261,
     "geom:bbox":"145.819967008,-34.5700617305,146.236288,-34.272887998",
     "geom:latitude":-34.418844,
     "geom:longitude":146.008924,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.483245,
     "lbl:longitude":146.026228,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Benerembah"
@@ -38,9 +44,12 @@
         102049013
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10176"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"f44a927c22224d934b0a43a78b3addd9",
+    "wof:geomhash":"a6111864815e537c5a5c14062dc9bc5e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404221821,
-    "wof:lastmodified":1566601974,
+    "wof:lastmodified":1695877121,
     "wof:name":"Benerembah",
     "wof:parent_id":102049013,
     "wof:placetype":"localadmin",

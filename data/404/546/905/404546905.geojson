@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.143152,
-    "geom:area_square_m":1466824973.983799,
+    "geom:area_square_m":1466824973.983872,
     "geom:bbox":"117.53522864,-34.259494997,117.98910928,-33.771055629",
     "geom:latitude":-34.037675,
     "geom:longitude":117.791335,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.104106,
     "lbl:longitude":117.795687,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Broomehill East"
@@ -38,9 +44,12 @@
         102048537
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50097"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"861915a3521c2e9d4340b9082451a068",
+    "wof:geomhash":"35a713c3ca11d72224979043eb31aea2",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404546905,
-    "wof:lastmodified":1566603134,
+    "wof:lastmodified":1695877784,
     "wof:name":"Broomehill East",
     "wof:parent_id":102048537,
     "wof:placetype":"localadmin",

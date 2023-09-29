@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000227,
-    "geom:area_square_m":2328479.246953,
+    "geom:area_square_m":2328479.246964,
     "geom:bbox":"150.933870592,-33.809493449,150.954736,-33.7900611415",
     "geom:latitude":-33.800214,
     "geom:longitude":150.944494,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.799974,
     "lbl:longitude":150.944491,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Girraween"
@@ -42,12 +48,15 @@
         102048495
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10950"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101930389
     ],
     "wof:country":"AU",
-    "wof:geomhash":"ba86f8124b084eb6a8c3951c7dc1a215",
+    "wof:geomhash":"54d03d01cf07522439faa87fd78d5f38",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -60,7 +69,7 @@
         }
     ],
     "wof:id":404223563,
-    "wof:lastmodified":1566602535,
+    "wof:lastmodified":1695877435,
     "wof:name":"Girraween",
     "wof:parent_id":102048495,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.045936,
-    "geom:area_square_m":541677960.185631,
+    "geom:area_square_m":541677960.185422,
     "geom:bbox":"145.153697792,-17.682622463,145.456490304,-17.3293144025",
     "geom:latitude":-17.511605,
     "geom:longitude":145.310978,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-17.476661,
     "lbl:longitude":145.298954,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kaban"
@@ -47,9 +53,12 @@
         102048519
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30834"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"a1f31628425ba9a0febf3348d43ef260",
+    "wof:geomhash":"4b167f08464b99ced141d2ff5446f95d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":404542697,
-    "wof:lastmodified":1566602304,
+    "wof:lastmodified":1695877297,
     "wof:name":"Kaban",
     "wof:parent_id":102048519,
     "wof:placetype":"localadmin",

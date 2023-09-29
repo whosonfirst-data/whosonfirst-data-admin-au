@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0176,
-    "geom:area_square_m":177796663.13326,
+    "geom:area_square_m":177796663.133322,
     "geom:bbox":"147.138837856,-35.303692865,147.305492192,-35.1434419985",
     "geom:latitude":-35.218211,
     "geom:longitude":147.214168,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.220269,
     "lbl:longitude":147.212634,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Uranquinty"
@@ -38,9 +44,12 @@
         102049075
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12359"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"a8d473118d8820f7806f558d2d73154e",
+    "wof:geomhash":"f26fe59ab4d2c733da08e738250e24c6",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404226733,
-    "wof:lastmodified":1566602051,
+    "wof:lastmodified":1695877162,
     "wof:name":"Uranquinty",
     "wof:parent_id":102049075,
     "wof:placetype":"localadmin",

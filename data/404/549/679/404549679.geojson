@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003757,
-    "geom:area_square_m":44329565.761177,
+    "geom:area_square_m":44329565.761174,
     "geom:bbox":"130.775922016,-17.456760995,130.834143008,-17.3831760055",
     "geom:latitude":-17.419269,
     "geom:longitude":130.802108,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-17.417614,
     "lbl:longitude":130.80172,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Daguragu"
@@ -38,12 +44,15 @@
         102049217
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC70045"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938415
     ],
     "wof:country":"AU",
-    "wof:geomhash":"b6d9b76b6128eca518a4144985bc265c",
+    "wof:geomhash":"f0fa46086fb5a3bdb6acb21ff61aa73a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404549679,
-    "wof:lastmodified":1566602885,
+    "wof:lastmodified":1695877648,
     "wof:name":"Daguragu",
     "wof:parent_id":102049217,
     "wof:placetype":"localadmin",

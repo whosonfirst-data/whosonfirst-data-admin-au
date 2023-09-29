@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.107708,
-    "geom:area_square_m":1220272129.017725,
+    "geom:area_square_m":1220272129.017878,
     "geom:bbox":"148.255329952,-23.7986919935,148.676556704,-23.4016469915",
     "geom:latitude":-23.617886,
     "geom:longitude":148.471314,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-23.650529,
     "lbl:longitude":148.471267,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Komeet"
@@ -461,9 +467,12 @@
         102049631
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30393"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"10e9f80be42af23a574f6e4b27254bd3",
+    "wof:geomhash":"71abfbbe0431677cc48be99a51ba8e93",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -475,7 +484,7 @@
         }
     ],
     "wof:id":404541767,
-    "wof:lastmodified":1566603074,
+    "wof:lastmodified":1695877756,
     "wof:name":"Comet",
     "wof:parent_id":102049631,
     "wof:placetype":"localadmin",

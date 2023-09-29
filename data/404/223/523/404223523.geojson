@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002609,
-    "geom:area_square_m":28313932.140442,
+    "geom:area_square_m":28313932.14038,
     "geom:bbox":"153.121014016,-28.677970997,153.192695008,-28.614368996",
     "geom:latitude":-28.644022,
     "geom:longitude":153.160648,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.645093,
     "lbl:longitude":153.163056,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Georgica"
@@ -38,9 +44,12 @@
         102049635
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10933"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"3fb8c378b9f4e8f3b816d0cfd143c8cd",
+    "wof:geomhash":"34a5561f06959dde689ec458458082f7",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404223523,
-    "wof:lastmodified":1566602567,
+    "wof:lastmodified":1695877457,
     "wof:name":"Georgica",
     "wof:parent_id":102049635,
     "wof:placetype":"localadmin",

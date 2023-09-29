@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001566,
-    "geom:area_square_m":15338538.192235,
+    "geom:area_square_m":15338538.192241,
     "geom:bbox":"145.101554592,-37.658385001,145.168946016,-37.617464",
     "geom:latitude":-37.637513,
     "geom:longitude":145.134857,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.636044,
     "lbl:longitude":145.138168,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Yarrambat"
@@ -38,9 +44,12 @@
         102048735
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21533"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"97c52a1032cff23ea519ad008026a393",
+    "wof:geomhash":"10726ebdaf5ee1955f103c198f536f7a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404540913,
-    "wof:lastmodified":1566603011,
+    "wof:lastmodified":1695877725,
     "wof:name":"Yarrambat",
     "wof:parent_id":102048735,
     "wof:placetype":"localadmin",

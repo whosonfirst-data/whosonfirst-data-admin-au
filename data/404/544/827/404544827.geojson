@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013478,
-    "geom:area_square_m":159385220.646364,
+    "geom:area_square_m":159385220.646118,
     "geom:bbox":"145.837519,-17.170469,145.964666,-16.864294",
     "geom:latitude":-16.994539,
     "geom:longitude":145.897162,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-16.935934,
     "lbl:longitude":145.896205,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Yarrabah"
@@ -31,19 +37,22 @@
     "qs:source":"Australian Bureau Of Statistics",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681463,
         102191583,
         85632793,
-        102049031,
         136253039,
-        85681463
+        102049031
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31842"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         102049031
     ],
     "wof:country":"AU",
-    "wof:geomhash":"d52d08990a450262c85896adbd36855b",
+    "wof:geomhash":"cceee6cb8b66fb13874aec1523ffd88a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404544827,
-    "wof:lastmodified":1607994782,
+    "wof:lastmodified":1695877844,
     "wof:name":"Yarrabah",
     "wof:parent_id":102049031,
     "wof:placetype":"localadmin",

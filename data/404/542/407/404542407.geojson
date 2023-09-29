@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002943,
-    "geom:area_square_m":33885703.999769,
+    "geom:area_square_m":33885703.999771,
     "geom:bbox":"149.244100992,-21.4131460015,149.315523136,-21.3276290485",
     "geom:latitude":-21.367265,
     "geom:longitude":149.284288,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-21.36624,
     "lbl:longitude":149.289672,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Grasstree Beach"
@@ -38,9 +44,12 @@
         102048783
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30698"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"f8147371bb64e9ddb398dc01b61d54ce",
+    "wof:geomhash":"6304336668cf4a5a373df8733ebebe2c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404542407,
-    "wof:lastmodified":1566602279,
+    "wof:lastmodified":1695877281,
     "wof:name":"Grasstree Beach",
     "wof:parent_id":102048783,
     "wof:placetype":"localadmin",

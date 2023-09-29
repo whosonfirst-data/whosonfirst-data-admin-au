@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000426,
-    "geom:area_square_m":4666227.094492,
+    "geom:area_square_m":4666227.094485,
     "geom:bbox":"153.09098816,-27.639910985,153.119031136,-27.617449765",
     "geom:latitude":-27.628526,
     "geom:longitude":153.105752,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.627246,
     "lbl:longitude":153.106014,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Woodridge"
@@ -69,12 +75,15 @@
         102048665
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31805"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935661
     ],
     "wof:country":"AU",
-    "wof:geomhash":"026841d07f233ca7c6d0b8df73746c80",
+    "wof:geomhash":"683ceb44661ecdcee577b4e0436ba776",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -87,7 +96,7 @@
         }
     ],
     "wof:id":404544751,
-    "wof:lastmodified":1566602181,
+    "wof:lastmodified":1695877234,
     "wof:name":"Woodridge",
     "wof:parent_id":102048665,
     "wof:placetype":"localadmin",

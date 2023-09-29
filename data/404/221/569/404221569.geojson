@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.161113,
-    "geom:area_square_m":1737757861.084306,
+    "geom:area_square_m":1737757861.083073,
     "geom:bbox":"150.980243008,-29.5664019915,151.47519,-28.878592138",
     "geom:latitude":-29.274251,
     "geom:longitude":151.237317,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-29.300508,
     "lbl:longitude":151.254269,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Ashford"
@@ -98,9 +104,12 @@
         102049369
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10064"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"32687a912cc3fabc932fa049be4089d9",
+    "wof:geomhash":"496e74fd3ffd69638f09159362c223b4",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -112,7 +121,7 @@
         }
     ],
     "wof:id":404221569,
-    "wof:lastmodified":1566601963,
+    "wof:lastmodified":1695877115,
     "wof:name":"Ashford",
     "wof:parent_id":102049369,
     "wof:placetype":"localadmin",

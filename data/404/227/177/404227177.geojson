@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003099,
-    "geom:area_square_m":32255620.103097,
+    "geom:area_square_m":32255620.103151,
     "geom:bbox":"151.593524512,-32.6918890055,151.676956992,-32.634624753",
     "geom:latitude":-32.660877,
     "geom:longitude":151.633197,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.660462,
     "lbl:longitude":151.629835,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Woodville"
@@ -80,9 +86,12 @@
         102049095
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12557"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"c16adde313f568dac49e7d24546db482",
+    "wof:geomhash":"eae4e2400c7bc380f673b8f3361c817b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -94,7 +103,7 @@
         }
     ],
     "wof:id":404227177,
-    "wof:lastmodified":1566601960,
+    "wof:lastmodified":1695877114,
     "wof:name":"Woodville",
     "wof:parent_id":102049095,
     "wof:placetype":"localadmin",

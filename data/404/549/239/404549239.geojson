@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002295,
-    "geom:area_square_m":21362708.376553,
+    "geom:area_square_m":21362708.376573,
     "geom:bbox":"146.461036224,-41.2024509985,146.540589408,-41.1314954325",
     "geom:latitude":-41.171041,
     "geom:longitude":146.497306,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-41.170213,
     "lbl:longitude":146.490057,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Northdown"
@@ -41,9 +47,12 @@
         102048629
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60253"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"deec0a3b2ceba80215b2dfdbe4c083a6",
+    "wof:geomhash":"424c2a79fce16f3686f2adb6db768b03",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404549239,
-    "wof:lastmodified":1566602903,
+    "wof:lastmodified":1695877662,
     "wof:name":"Northdown",
     "wof:parent_id":102048629,
     "wof:placetype":"localadmin",

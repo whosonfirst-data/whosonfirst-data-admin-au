@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00053,
-    "geom:area_square_m":6246771.660938,
+    "geom:area_square_m":6246771.66096,
     "geom:bbox":"130.823741312,-17.467502613,130.843010176,-17.4293862675",
     "geom:latitude":-17.444495,
     "geom:longitude":130.832639,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-17.443586,
     "lbl:longitude":130.832456,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kalkarindji"
@@ -41,12 +47,15 @@
         102049217
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC70096"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938505
     ],
     "wof:country":"AU",
-    "wof:geomhash":"a62ccd73e26156d2da14c912c2df3a33",
+    "wof:geomhash":"3205b50122ec7e5de6ef20b7f49d293d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404549747,
-    "wof:lastmodified":1566602859,
+    "wof:lastmodified":1695877632,
     "wof:name":"Kalkarindji",
     "wof:parent_id":102049217,
     "wof:placetype":"localadmin",

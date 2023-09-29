@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025687,
-    "geom:area_square_m":232449171.785015,
+    "geom:area_square_m":232449171.78485,
     "geom:bbox":"146.670660992,-43.0667600085,146.93034464,-42.857148293",
     "geom:latitude":-42.958732,
     "geom:longitude":146.786655,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-42.958154,
     "lbl:longitude":146.788662,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lonnavale"
@@ -38,9 +44,12 @@
         102048679
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60201"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"de0d04b48af6c42b44421b19674c798e",
+    "wof:geomhash":"9a8f7a518dce57beff8289596cd72e2e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404549121,
-    "wof:lastmodified":1566602862,
+    "wof:lastmodified":1695877634,
     "wof:name":"Lonnavale",
     "wof:parent_id":102048679,
     "wof:placetype":"localadmin",

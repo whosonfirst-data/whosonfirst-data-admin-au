@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031738,
-    "geom:area_square_m":324251017.124292,
+    "geom:area_square_m":324251017.124302,
     "geom:bbox":"138.82722,-34.404983992,139.080406592,-34.187562594",
     "geom:latitude":-34.286413,
     "geom:longitude":138.934403,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.302586,
     "lbl:longitude":138.925891,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kapunda"
@@ -59,9 +65,12 @@
         102049171
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40327"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"238669bd77871f67a991e75188dff27b",
+    "wof:geomhash":"7edf0b26eb9f62bd26cbb5510132c604",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -73,7 +82,7 @@
         }
     ],
     "wof:id":404545575,
-    "wof:lastmodified":1566602228,
+    "wof:lastmodified":1695877256,
     "wof:name":"Kapunda",
     "wof:parent_id":102049171,
     "wof:placetype":"localadmin",

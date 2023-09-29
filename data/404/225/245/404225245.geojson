@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000478,
-    "geom:area_square_m":4920289.282867,
+    "geom:area_square_m":4920267.730401,
     "geom:bbox":"150.908828,-33.661236,150.93784,-33.627903",
     "geom:latitude":-33.646235,
     "geom:longitude":150.921367,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.64735,
     "lbl:longitude":150.919173,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0646\u064a\u0644\u0633\u0648\u0646"
@@ -165,9 +171,12 @@
         102049139
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11698"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"f34f76ad15e948671dd6a512ad81b87f",
+    "wof:geomhash":"179983e32c169c8fd36439d63904c23f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -180,7 +189,7 @@
         }
     ],
     "wof:id":404225245,
-    "wof:lastmodified":1636494650,
+    "wof:lastmodified":1695877866,
     "wof:name":"Nelson",
     "wof:parent_id":102049139,
     "wof:placetype":"localadmin",

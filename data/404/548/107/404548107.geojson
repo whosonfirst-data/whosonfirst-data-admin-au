@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001648,
-    "geom:area_square_m":16802032.405976,
+    "geom:area_square_m":16802032.405963,
     "geom:bbox":"116.019055008,-34.4641279925,116.08753,-34.422344318",
     "geom:latitude":-34.441746,
     "geom:longitude":116.050569,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.441494,
     "lbl:longitude":116.050051,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Pemberton"
@@ -80,12 +86,15 @@
         102049063
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50634"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937669
     ],
     "wof:country":"AU",
-    "wof:geomhash":"42aac92efc68cd17a280563feca96c2f",
+    "wof:geomhash":"c335d54f256c7c2319e0ffdcff5cb4d4",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -97,7 +106,7 @@
         }
     ],
     "wof:id":404548107,
-    "wof:lastmodified":1566603199,
+    "wof:lastmodified":1695877816,
     "wof:name":"Pemberton",
     "wof:parent_id":102049063,
     "wof:placetype":"localadmin",

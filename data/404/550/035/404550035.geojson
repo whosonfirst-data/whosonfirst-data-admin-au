@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000326,
-    "geom:area_square_m":3295936.159261,
+    "geom:area_square_m":3295900.095661,
     "geom:bbox":"148.995922,-35.232078,149.030852,-35.216991",
     "geom:latitude":-35.224414,
     "geom:longitude":149.011878,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.224843,
     "lbl:longitude":149.011871,
     "lbl:max_zoom":18.0,
@@ -116,13 +122,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC80053",
         "wd:id":"Q1037986"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938817
     ],
     "wof:country":"AU",
-    "wof:geomhash":"359fdb948e8cb6bc901eb3a64f5ed0ca",
+    "wof:geomhash":"a4d042ef412dc84865f3d9edc9fe4c11",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -133,7 +141,7 @@
         }
     ],
     "wof:id":404550035,
-    "wof:lastmodified":1690853388,
+    "wof:lastmodified":1695877893,
     "wof:name":"Holt",
     "wof:parent_id":85681493,
     "wof:placetype":"localadmin",

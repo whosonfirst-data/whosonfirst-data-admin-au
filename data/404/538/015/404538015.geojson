@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01077,
-    "geom:area_square_m":104534277.632541,
+    "geom:area_square_m":104534277.632393,
     "geom:bbox":"146.523899008,-38.3713239965,146.657022208,-38.210348004",
     "geom:latitude":-38.283792,
     "geom:longitude":146.578075,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.268183,
     "lbl:longitude":146.582585,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Callignee"
@@ -38,9 +44,12 @@
         102049021
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20235"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"79d87506d8a2156544346f20a736f71a",
+    "wof:geomhash":"bcde94ceab6f0a6a65c5f29096cec3d9",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404538015,
-    "wof:lastmodified":1566602431,
+    "wof:lastmodified":1695877375,
     "wof:name":"Callignee",
     "wof:parent_id":102049021,
     "wof:placetype":"localadmin",

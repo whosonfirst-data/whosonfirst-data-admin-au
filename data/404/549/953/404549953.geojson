@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000158,
-    "geom:area_square_m":1588966.43932,
+    "geom:area_square_m":1588966.439321,
     "geom:bbox":"149.068877248,-35.360233712,149.086517952,-35.3476126975",
     "geom:latitude":-35.353398,
     "geom:longitude":149.076835,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.35283,
     "lbl:longitude":149.076667,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Chifley"
@@ -46,12 +52,15 @@
         85681493
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC80017"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938735
     ],
     "wof:country":"AU",
-    "wof:geomhash":"1f46dba7dfb9f391708fa48b39ce7193",
+    "wof:geomhash":"463f6760e45eaed5f4c98b51d2c9fe3e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -62,7 +71,7 @@
         }
     ],
     "wof:id":404549953,
-    "wof:lastmodified":1566602825,
+    "wof:lastmodified":1695877609,
     "wof:name":"Chifley",
     "wof:parent_id":85681493,
     "wof:placetype":"localadmin",

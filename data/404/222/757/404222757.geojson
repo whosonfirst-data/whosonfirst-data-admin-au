@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.067429,
-    "geom:area_square_m":698303320.039331,
+    "geom:area_square_m":698303320.039365,
     "geom:bbox":"147.833619008,-33.2774042745,148.160978016,-32.931235993",
     "geom:latitude":-33.120281,
     "geom:longitude":147.995959,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.131948,
     "lbl:longitude":147.992868,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Cooks Myalls"
@@ -38,9 +44,12 @@
         102048657
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10592"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"b4c1378c2f17af8e6048238b1ff37089",
+    "wof:geomhash":"b83df21494798e7f221108b854d5fa6e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404222757,
-    "wof:lastmodified":1566602789,
+    "wof:lastmodified":1695877586,
     "wof:name":"Cooks Myalls",
     "wof:parent_id":102048657,
     "wof:placetype":"localadmin",

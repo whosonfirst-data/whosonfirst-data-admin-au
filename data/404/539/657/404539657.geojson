@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010315,
-    "geom:area_square_m":103756703.888183,
+    "geom:area_square_m":103756703.887965,
     "geom:bbox":"143.672201824,-35.642103005,143.792746912,-35.494227991",
     "geom:latitude":-35.565805,
     "geom:longitude":143.733759,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.564779,
     "lbl:longitude":143.734683,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mystic Park"
@@ -38,9 +44,12 @@
         102049383
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20970"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"0a1a9458882004f22167bf7007d68cdf",
+    "wof:geomhash":"28504f740827d87621731ed25ade5433",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404539657,
-    "wof:lastmodified":1566602374,
+    "wof:lastmodified":1695877339,
     "wof:name":"Mystic Park",
     "wof:parent_id":102049383,
     "wof:placetype":"localadmin",

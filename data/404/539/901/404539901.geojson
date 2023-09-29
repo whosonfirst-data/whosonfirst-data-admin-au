@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.040461,
-    "geom:area_square_m":395003036.373198,
+    "geom:area_square_m":395003036.373377,
     "geom:bbox":"142.211972,-37.9975090005,142.472470624,-37.7543169915",
     "geom:latitude":-37.859175,
     "geom:longitude":142.336378,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.85883,
     "lbl:longitude":142.346919,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041f\u0435\u043d\u0441\u0445\u044a\u0440\u0441\u0442"
@@ -80,9 +86,12 @@
         102048455
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21080"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"df04ef8bd9e3262e0f312875c759b104",
+    "wof:geomhash":"58c0a038d2334a68d6cc342d6299665c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -94,7 +103,7 @@
         }
     ],
     "wof:id":404539901,
-    "wof:lastmodified":1566602355,
+    "wof:lastmodified":1695877328,
     "wof:name":"Penshurst",
     "wof:parent_id":102048455,
     "wof:placetype":"localadmin",

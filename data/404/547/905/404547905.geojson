@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.323189,
-    "geom:area_square_m":3438667408.6242,
+    "geom:area_square_m":3438667408.624066,
     "geom:bbox":"118.052585,-31.070364,118.520378,-30.203307",
     "geom:latitude":-30.630481,
     "geom:longitude":118.311294,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-30.647029,
     "lbl:longitude":118.330079,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mukinbudin"
@@ -31,19 +37,22 @@
     "qs:source":"Australian Bureau Of Statistics",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681439,
         102191583,
         85632793,
-        102048809,
         136253039,
-        85681439
+        102048809
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50543"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         102048809
     ],
     "wof:country":"AU",
-    "wof:geomhash":"c0a0d8b0031b76dfe78ce4e6a00e6649",
+    "wof:geomhash":"f5904f7f1d3c824f57d6baf5540aea36",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404547905,
-    "wof:lastmodified":1608000223,
+    "wof:lastmodified":1695877846,
     "wof:name":"Mukinbudin",
     "wof:parent_id":102048809,
     "wof:placetype":"localadmin",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000595,
-    "geom:area_square_m":6516672.892049,
+    "geom:area_square_m":6516672.892056,
     "geom:bbox":"152.870350016,-27.653875007,152.90782,-27.623436032",
     "geom:latitude":-27.636741,
     "geom:longitude":152.886626,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.637492,
     "lbl:longitude":152.883218,
     "lbl:max_zoom":18.0,
@@ -40,13 +46,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC30136",
         "wd:id":"Q4883567"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101933911
     ],
     "wof:country":"AU",
-    "wof:geomhash":"9a51eb74196e968474a3816f87589fb8",
+    "wof:geomhash":"da5217e47ead3a9047119dc22420a749",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -59,7 +67,7 @@
         }
     ],
     "wof:id":404541229,
-    "wof:lastmodified":1566603050,
+    "wof:lastmodified":1695878030,
     "wof:name":"Bellbird Park",
     "wof:parent_id":102048583,
     "wof:placetype":"localadmin",

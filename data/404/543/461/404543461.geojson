@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000951,
-    "geom:area_square_m":11092414.615185,
+    "geom:area_square_m":11092414.615175,
     "geom:bbox":"146.767408416,-19.357299332,146.808390976,-19.317773971",
     "geom:latitude":-19.332301,
     "geom:longitude":146.791721,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-19.331059,
     "lbl:longitude":146.794837,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u041c\u044e\u0440\u044d\u0439"
@@ -107,12 +113,15 @@
         102048451
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31193"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934965
     ],
     "wof:country":"AU",
-    "wof:geomhash":"defb0dcc5a36b26cbc233e790c84711f",
+    "wof:geomhash":"855c182a5c36661c2f86d21444693b9f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -124,7 +133,7 @@
         }
     ],
     "wof:id":404543461,
-    "wof:lastmodified":1566602136,
+    "wof:lastmodified":1695877211,
     "wof:name":"Murray",
     "wof:parent_id":102048451,
     "wof:placetype":"localadmin",

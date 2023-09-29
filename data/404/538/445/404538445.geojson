@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000703,
-    "geom:area_square_m":6862012.084298,
+    "geom:area_square_m":6862012.084286,
     "geom:bbox":"147.658958,-37.906128,147.74225,-37.857803",
     "geom:latitude":-37.890138,
     "geom:longitude":147.688845,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.894866,
     "lbl:longitude":147.678984,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Eagle Point"
@@ -49,19 +55,22 @@
     "qs:source":"Australian Bureau Of Statistics",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681497,
         102191583,
         85632793,
-        102049039,
         136253039,
-        85681497
+        102049039
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20428"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932867
     ],
     "wof:country":"AU",
-    "wof:geomhash":"53e23270e3b74020c31fec2c9bc89c5d",
+    "wof:geomhash":"1096b7f9040ca69dd396227c9f4a5d3e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -73,7 +82,7 @@
         }
     ],
     "wof:id":404538445,
-    "wof:lastmodified":1607990294,
+    "wof:lastmodified":1695877841,
     "wof:name":"Eagle Point",
     "wof:parent_id":102049039,
     "wof:placetype":"localadmin",

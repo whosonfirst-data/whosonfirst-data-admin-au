@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005666,
-    "geom:area_square_m":62396324.503983,
+    "geom:area_square_m":62396256.289152,
     "geom:bbox":"152.897501,-27.100231,153.039794,-27.026123",
     "geom:latitude":-27.060719,
     "geom:longitude":152.970374,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.065576,
     "lbl:longitude":152.975274,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Caboolture"
@@ -45,12 +51,15 @@
         102049131
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30287"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934089
     ],
     "wof:country":"AU",
-    "wof:geomhash":"0b742b8dd9f1e6f8ff3f5f86d5d6914f",
+    "wof:geomhash":"38f639195ef2760f6589e6b86340fbfb",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -63,7 +72,7 @@
         }
     ],
     "wof:id":404541543,
-    "wof:lastmodified":1636494674,
+    "wof:lastmodified":1695877882,
     "wof:name":"Caboolture",
     "wof:parent_id":102049131,
     "wof:placetype":"localadmin",

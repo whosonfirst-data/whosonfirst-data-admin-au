@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000185,
-    "geom:area_square_m":1923397.832692,
+    "geom:area_square_m":1923374.203994,
     "geom:bbox":"151.712954,-32.915229,151.731022,-32.894467",
     "geom:latitude":-32.904595,
     "geom:longitude":151.722429,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.904793,
     "lbl:longitude":151.722565,
     "lbl:max_zoom":18.0,
@@ -112,10 +118,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC12410",
         "gn:id":2144713,
         "qs_pg:id":1028562,
         "wd:id":"Q7968806"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932229
     ],
@@ -123,7 +131,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7e1b98545e2bd285bb9eeb5cd2b774ac",
+    "wof:geomhash":"287d2b25e9a91b54f7632f0b24753e96",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -136,7 +144,7 @@
         }
     ],
     "wof:id":404226847,
-    "wof:lastmodified":1690853437,
+    "wof:lastmodified":1695878053,
     "wof:name":"Waratah",
     "wof:parent_id":102048981,
     "wof:placetype":"localadmin",

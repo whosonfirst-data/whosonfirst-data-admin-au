@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000851,
-    "geom:area_square_m":9013514.911423,
+    "geom:area_square_m":9013514.911406,
     "geom:bbox":"152.77814384,-31.095368994,152.82465,-31.060909007",
     "geom:latitude":-31.076977,
     "geom:longitude":152.800522,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.073638,
     "lbl:longitude":152.800173,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Euroka"
@@ -38,9 +44,12 @@
         102048527
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10852"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"ab6f9d893e231007fe23d7dc122dabe5",
+    "wof:geomhash":"fc98ce4e033ca824b1fc1af5c464a2f0",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404223341,
-    "wof:lastmodified":1566602521,
+    "wof:lastmodified":1695877425,
     "wof:name":"Euroka",
     "wof:parent_id":102048527,
     "wof:placetype":"localadmin",

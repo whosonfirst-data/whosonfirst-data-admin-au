@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009079,
-    "geom:area_square_m":91746510.083765,
+    "geom:area_square_m":91746510.083618,
     "geom:bbox":"149.538036608,-35.2515140035,149.67249,-35.1127934",
     "geom:latitude":-35.188653,
     "geom:longitude":149.606886,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.19528,
     "lbl:longitude":149.584469,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mount Fairy"
@@ -38,9 +44,12 @@
         102049385
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11615"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"2df71ad343df75538d1f71ec76dd4e9d",
+    "wof:geomhash":"96bfabc3c40f87b1d7ff4aca1e9958f0",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404225059,
-    "wof:lastmodified":1566602725,
+    "wof:lastmodified":1695877545,
     "wof:name":"Mount Fairy",
     "wof:parent_id":102049385,
     "wof:placetype":"localadmin",

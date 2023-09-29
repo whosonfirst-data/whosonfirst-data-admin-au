@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000252,
-    "geom:area_square_m":2599069.956049,
+    "geom:area_square_m":2599069.956059,
     "geom:bbox":"150.785288768,-33.648652007,150.819853952,-33.631496994",
     "geom:latitude":-33.639845,
     "geom:longitude":150.802479,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.640098,
     "lbl:longitude":150.805104,
     "lbl:max_zoom":18.0,
@@ -51,13 +57,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC10249",
         "wd:id":"Q4926460"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101929611
     ],
     "wof:country":"AU",
-    "wof:geomhash":"aa0f6d50f89ac85a64a2e7ba921f4e23",
+    "wof:geomhash":"10008ed00f36e86c2eda0306f958e21b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -69,7 +77,7 @@
         }
     ],
     "wof:id":404221985,
-    "wof:lastmodified":1566601985,
+    "wof:lastmodified":1695877899,
     "wof:name":"Bligh Park",
     "wof:parent_id":102048745,
     "wof:placetype":"localadmin",

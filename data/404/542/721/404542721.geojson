@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028752,
-    "geom:area_square_m":318442992.31336,
+    "geom:area_square_m":318442992.313161,
     "geom:bbox":"152.368592832,-26.476111209,152.684520832,-26.320971911",
     "geom:latitude":-26.402706,
     "geom:longitude":152.514894,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-26.408747,
     "lbl:longitude":152.51492,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kandanga Creek"
@@ -38,9 +44,12 @@
         102049393
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30844"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"bc7531c6d500ab21b257274762ed3242",
+    "wof:geomhash":"bbefbba3888307264a17b62f6d3c8713",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404542721,
-    "wof:lastmodified":1566602313,
+    "wof:lastmodified":1695877302,
     "wof:name":"Kandanga Creek",
     "wof:parent_id":102049393,
     "wof:placetype":"localadmin",

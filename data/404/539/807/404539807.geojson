@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006247,
-    "geom:area_square_m":60468972.817058,
+    "geom:area_square_m":60468972.817012,
     "geom:bbox":"142.692110016,-38.5338319,142.851368224,-38.4310720035",
     "geom:latitude":-38.476045,
     "geom:longitude":142.766285,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.465729,
     "lbl:longitude":142.751846,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Nullawarre"
@@ -38,9 +44,12 @@
         102049109
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21038"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"c94f1fd6afa1ec68ffbf22c16d23b9b3",
+    "wof:geomhash":"c46f79e9f7e9b0db35b8b5f993ca37a2",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404539807,
-    "wof:lastmodified":1566602401,
+    "wof:lastmodified":1695877357,
     "wof:name":"Nullawarre",
     "wof:parent_id":102049109,
     "wof:placetype":"localadmin",

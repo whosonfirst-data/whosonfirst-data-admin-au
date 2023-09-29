@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005548,
-    "geom:area_square_m":54222731.901336,
+    "geom:area_square_m":54222731.901283,
     "geom:bbox":"145.6414488,-37.8193843775,145.788728,-37.737751851",
     "geom:latitude":-37.780828,
     "geom:longitude":145.719409,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.794343,
     "lbl:longitude":145.732809,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Warburton"
@@ -66,9 +72,12 @@
         102048969
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21422"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"c3b20c27b002d35e5d9b548af526b85e",
+    "wof:geomhash":"6a5cba75e62ae4aaa43806b38dbbb76a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -81,7 +90,7 @@
         }
     ],
     "wof:id":404540665,
-    "wof:lastmodified":1566603030,
+    "wof:lastmodified":1695877736,
     "wof:name":"Warburton",
     "wof:parent_id":102048969,
     "wof:placetype":"localadmin",

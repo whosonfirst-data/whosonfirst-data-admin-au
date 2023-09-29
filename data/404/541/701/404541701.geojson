@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006568,
-    "geom:area_square_m":72519445.838506,
+    "geom:area_square_m":72519445.838525,
     "geom:bbox":"150.575140992,-26.8063109935,150.679471008,-26.693983008",
     "geom:latitude":-26.755538,
     "geom:longitude":150.628304,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-26.75662,
     "lbl:longitude":150.629134,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0634\u0646\u0634\u064a\u0644\u0629"
@@ -200,9 +206,12 @@
         102048423
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30363"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"096d207d585ca414f1fa6f4f7bfff852",
+    "wof:geomhash":"ea75f54b4267415d652c8c9637f4feb3",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -214,7 +223,7 @@
         }
     ],
     "wof:id":404541701,
-    "wof:lastmodified":1566603044,
+    "wof:lastmodified":1695877744,
     "wof:name":"Chinchilla",
     "wof:parent_id":102048423,
     "wof:placetype":"localadmin",

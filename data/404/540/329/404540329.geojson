@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00314,
-    "geom:area_square_m":30791522.31772,
+    "geom:area_square_m":30791522.317661,
     "geom:bbox":"145.236898016,-37.564362007,145.33380576,-37.4973844775",
     "geom:latitude":-37.53361,
     "geom:longitude":145.280948,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.532294,
     "lbl:longitude":145.276924,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Strathewen"
@@ -38,9 +44,12 @@
         102048735
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21271"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"a55c94587590cc7c2559ecf185be5a14",
+    "wof:geomhash":"7864f2f1415ebdbd22af676138eae551",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404540329,
-    "wof:lastmodified":1566603035,
+    "wof:lastmodified":1695877739,
     "wof:name":"Strathewen",
     "wof:parent_id":102048735,
     "wof:placetype":"localadmin",

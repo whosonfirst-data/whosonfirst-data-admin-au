@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004068,
-    "geom:area_square_m":42799551.995263,
+    "geom:area_square_m":42799551.994944,
     "geom:bbox":"152.72735632,-31.7281198875,152.80860976,-31.6367574525",
     "geom:latitude":-31.687964,
     "geom:longitude":152.771572,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.688772,
     "lbl:longitude":152.778895,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "North Brother"
@@ -44,9 +50,12 @@
         102049203
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11741"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"e40be7e180b897bd175b102dd002c931",
+    "wof:geomhash":"0a3693580a1db11f6618e74e7ecbe3bb",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404225341,
-    "wof:lastmodified":1566602691,
+    "wof:lastmodified":1695877524,
     "wof:name":"North Brother",
     "wof:parent_id":102049203,
     "wof:placetype":"localadmin",

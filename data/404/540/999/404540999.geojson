@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035325,
-    "geom:area_square_m":401002601.683892,
+    "geom:area_square_m":401002601.683936,
     "geom:bbox":"150.16945,-23.472183995,150.452719904,-23.2398684505",
     "geom:latitude":-23.358721,
     "geom:longitude":150.332636,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-23.37198,
     "lbl:longitude":150.346526,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Alton Downs"
@@ -38,9 +44,12 @@
         102048825
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30031"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"a960b0912877f10864e553e54c70d8f4",
+    "wof:geomhash":"f360c14183f6d7e695d73508aea35206",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404540999,
-    "wof:lastmodified":1566602988,
+    "wof:lastmodified":1695877712,
     "wof:name":"Alton Downs",
     "wof:parent_id":102048825,
     "wof:placetype":"localadmin",

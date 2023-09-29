@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023139,
-    "geom:area_square_m":226682686.747989,
+    "geom:area_square_m":226682686.748074,
     "geom:bbox":"141.151116,-37.675684092,141.517824192,-37.5248739975",
     "geom:latitude":-37.603148,
     "geom:longitude":141.331721,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.593277,
     "lbl:longitude":141.380185,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Casterton"
@@ -47,9 +53,12 @@
         102049579
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20268"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"04ff3a5e9589cf725954b11caa545db6",
+    "wof:geomhash":"412e67a53195de6969a71f2dddead84e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":404538089,
-    "wof:lastmodified":1566602464,
+    "wof:lastmodified":1695877391,
     "wof:name":"Casterton",
     "wof:parent_id":102049579,
     "wof:placetype":"localadmin",

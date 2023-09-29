@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007377,
-    "geom:area_square_m":71538151.999598,
+    "geom:area_square_m":71538151.99963,
     "geom:bbox":"145.810527008,-38.397430993,145.942198432,-38.2960540085",
     "geom:latitude":-38.346905,
     "geom:longitude":145.868903,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.347433,
     "lbl:longitude":145.869907,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Strzelecki"
@@ -41,9 +47,12 @@
         102048701
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21277"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"108f3413097bf85d3c220294ab1e67c9",
+    "wof:geomhash":"6b4dd5165b47e8a6ecb7790f962cb8c3",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404540341,
-    "wof:lastmodified":1566603004,
+    "wof:lastmodified":1695877720,
     "wof:name":"Strzelecki",
     "wof:parent_id":102048701,
     "wof:placetype":"localadmin",

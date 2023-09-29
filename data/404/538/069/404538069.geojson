@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000174,
-    "geom:area_square_m":1695486.443791,
+    "geom:area_square_m":1695486.443798,
     "geom:bbox":"144.958469056,-37.8079229615,144.975715552,-37.792260177",
     "geom:latitude":-37.800421,
     "geom:longitude":144.968419,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.800816,
     "lbl:longitude":144.969118,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Carlton"
@@ -102,12 +108,15 @@
         102049169
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20259"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932721
     ],
     "wof:country":"AU",
-    "wof:geomhash":"08f5a8b2020d211f90ce19d2e1cd7c60",
+    "wof:geomhash":"cbe6686ea373658b42600936b3ebe5b6",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -120,7 +129,7 @@
         }
     ],
     "wof:id":404538069,
-    "wof:lastmodified":1566602476,
+    "wof:lastmodified":1695877399,
     "wof:name":"Carlton",
     "wof:parent_id":102049169,
     "wof:placetype":"localadmin",

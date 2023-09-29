@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008913,
-    "geom:area_square_m":106679658.655766,
+    "geom:area_square_m":106679658.655761,
     "geom:bbox":"132.326143008,-14.5765889945,132.440912992,-14.4751524215",
     "geom:latitude":-14.531228,
     "geom:longitude":132.37927,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-14.531506,
     "lbl:longitude":132.380356,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Tindal"
@@ -50,9 +56,12 @@
         102049277
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC70184"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"632843eb18ce4b5b68e27d1012d925ff",
+    "wof:geomhash":"c7d10b564fe21c660dd3c1df81f4d020",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":404549875,
-    "wof:lastmodified":1566602842,
+    "wof:lastmodified":1695877622,
     "wof:name":"Tindal",
     "wof:parent_id":102049277,
     "wof:placetype":"localadmin",

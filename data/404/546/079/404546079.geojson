@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.308631,
-    "geom:area_square_m":3218321615.477198,
+    "geom:area_square_m":3218321615.477094,
     "geom:bbox":"138.439194912,-32.943318232,138.890194912,-32.120298853",
     "geom:latitude":-32.5077,
     "geom:longitude":138.640507,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.511676,
     "lbl:longitude":138.643915,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Pekina"
@@ -44,9 +50,12 @@
         102049501
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40562"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"8f0042d8f26f496210f75e209ff15a2c",
+    "wof:geomhash":"11e803c4bf6a4cc4aa78226f3082bbe2",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404546079,
-    "wof:lastmodified":1566603109,
+    "wof:lastmodified":1695877773,
     "wof:name":"Pekina",
     "wof:parent_id":102049501,
     "wof:placetype":"localadmin",

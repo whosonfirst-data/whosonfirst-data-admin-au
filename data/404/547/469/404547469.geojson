@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00024,
-    "geom:area_square_m":2522240.825812,
+    "geom:area_square_m":2522240.825819,
     "geom:bbox":"115.718773664,-31.7437610085,115.738156992,-31.726924991",
     "geom:latitude":-31.735717,
     "geom:longitude":115.729293,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.735535,
     "lbl:longitude":115.729292,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Iluka"
@@ -42,12 +48,15 @@
         102048433
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50350"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937305
     ],
     "wof:country":"AU",
-    "wof:geomhash":"7e791789dfd1cbcd60f3e08fe2baf94d",
+    "wof:geomhash":"08e1485b4a20e87f0ae51017c7d9f875",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -60,7 +69,7 @@
         }
     ],
     "wof:id":404547469,
-    "wof:lastmodified":1566602964,
+    "wof:lastmodified":1695877697,
     "wof:name":"Iluka",
     "wof:parent_id":102048433,
     "wof:placetype":"localadmin",

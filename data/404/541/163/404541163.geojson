@@ -10,12 +10,18 @@
     "geom:latitude":-23.107942,
     "geom:longitude":150.741961,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-23.108111,
     "lbl:longitude":150.741961,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Barlows Hill"
@@ -38,12 +44,15 @@
         102048825
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30107"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101933879
     ],
     "wof:country":"AU",
-    "wof:geomhash":"d4a55e72f5f7a5e46f29ed2b0fcb56fe",
+    "wof:geomhash":"6bc849cc0f5b6096ab7bbe0ed7491d31",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404541163,
-    "wof:lastmodified":1566603075,
+    "wof:lastmodified":1695877757,
     "wof:name":"Barlows Hill",
     "wof:parent_id":102048825,
     "wof:placetype":"localadmin",

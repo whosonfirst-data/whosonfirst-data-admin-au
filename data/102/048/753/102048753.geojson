@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029003,
-    "geom:area_square_m":328290112.608524,
+    "geom:area_square_m":328290112.608554,
     "geom:bbox":"133.725976,-23.8315,133.940458,-23.630506",
     "geom:latitude":-23.735019,
     "geom:longitude":133.854752,
@@ -227,21 +227,26 @@
     "statoids:timezone":"+9:30",
     "statoids:type":"town",
     "wof:belongsto":[
+        85681533,
         102191583,
         85632793,
-        136253039,
         1376953387,
-        85681533
+        136253039
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"70200",
         "hasc:id":"AU.NT.AS"
     },
+    "wof:concordances_official":"ausstat:area_code",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:coterminous":[
         1376953387
     ],
     "wof:country":"AU",
-    "wof:geomhash":"133eaefb44d0a3396af0c341b5e2ab5f",
+    "wof:geomhash":"a3c19973c8b45b1e34f6450154919347",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -253,7 +258,7 @@
         }
     ],
     "wof:id":102048753,
-    "wof:lastmodified":1607985787,
+    "wof:lastmodified":1695886409,
     "wof:name":"Alice Springs",
     "wof:parent_id":1376953387,
     "wof:placetype":"county",

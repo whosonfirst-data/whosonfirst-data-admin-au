@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005766,
-    "geom:area_square_m":53431455.271004,
+    "geom:area_square_m":53431455.270896,
     "geom:bbox":"147.167351008,-41.5015999945,147.305244992,-41.4026743155",
     "geom:latitude":-41.456741,
     "geom:longitude":147.235557,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-41.460317,
     "lbl:longitude":147.22511,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "St Leonards"
@@ -56,9 +62,12 @@
         102049411
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60351"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"130fe2f47c0daf76edc7c5c32ed638f5",
+    "wof:geomhash":"110154e5eafbe24fcd0bf2b1db2bbaae",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -70,7 +79,7 @@
         }
     ],
     "wof:id":404549459,
-    "wof:lastmodified":1566602906,
+    "wof:lastmodified":1695877664,
     "wof:name":"St Leonards",
     "wof:parent_id":102049411,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00068,
-    "geom:area_square_m":6903538.92316,
+    "geom:area_square_m":6903538.923151,
     "geom:bbox":"150.585519008,-34.8641359915,150.62394816,-34.829638838",
     "geom:latitude":-34.846361,
     "geom:longitude":150.604744,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.845343,
     "lbl:longitude":150.604461,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bomaderry"
@@ -38,12 +44,15 @@
         102049405
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10267"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101929631
     ],
     "wof:country":"AU",
-    "wof:geomhash":"a07161a9f64aa0c13a18264de7eec056",
+    "wof:geomhash":"9893ad3179953fe78ed897a2e9dfa266",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404222025,
-    "wof:lastmodified":1566602760,
+    "wof:lastmodified":1695877566,
     "wof:name":"Bomaderry",
     "wof:parent_id":102049405,
     "wof:placetype":"localadmin",

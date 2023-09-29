@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000046,
-    "geom:area_square_m":473639.652709,
+    "geom:area_square_m":473639.652708,
     "geom:bbox":"151.496379008,-33.358473735,151.504991008,-33.350064005",
     "geom:latitude":-33.35413,
     "geom:longitude":151.500239,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.353424,
     "lbl:longitude":151.499889,
     "lbl:max_zoom":18.0,
@@ -51,13 +57,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC10251",
         "wd:id":"Q4928859"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101929613
     ],
     "wof:country":"AU",
-    "wof:geomhash":"177f911b72b191f9e40b900298dbcaa7",
+    "wof:geomhash":"c82569a870d97232f1a64f4a5a36d826",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -69,7 +77,7 @@
         }
     ],
     "wof:id":404221989,
-    "wof:lastmodified":1566602008,
+    "wof:lastmodified":1695877903,
     "wof:name":"Blue Bay",
     "wof:parent_id":102049097,
     "wof:placetype":"localadmin",

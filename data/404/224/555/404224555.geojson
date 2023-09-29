@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000235,
-    "geom:area_square_m":2430585.504055,
+    "geom:area_square_m":2430585.504059,
     "geom:bbox":"149.53482912,-33.4062288395,149.567156,-33.389472002",
     "geom:latitude":-33.396871,
     "geom:longitude":149.55105,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.394552,
     "lbl:longitude":149.544099,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Llanarth"
@@ -62,12 +68,15 @@
         102049305
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11391"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931067
     ],
     "wof:country":"AU",
-    "wof:geomhash":"9e0f9782864898a17b175323ca3c1018",
+    "wof:geomhash":"e7d4ff866ba2a5b6c33e90bcfd51ba33",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -79,7 +88,7 @@
         }
     ],
     "wof:id":404224555,
-    "wof:lastmodified":1566602611,
+    "wof:lastmodified":1695877482,
     "wof:name":"Llanarth",
     "wof:parent_id":102049305,
     "wof:placetype":"localadmin",

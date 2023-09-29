@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000244,
-    "geom:area_square_m":2526290.015717,
+    "geom:area_square_m":2526290.01573,
     "geom:bbox":"151.490299168,-33.218025472,151.516679584,-33.2048169345",
     "geom:latitude":-33.211056,
     "geom:longitude":151.503515,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.210965,
     "lbl:longitude":151.503514,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Blue Haven"
@@ -38,12 +44,15 @@
         102049097
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10252"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101929615
     ],
     "wof:country":"AU",
-    "wof:geomhash":"9f80479e3228074308035298e48ff6e8",
+    "wof:geomhash":"2cbd4fd0cc58bfa379be9a8db530ed3e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404221991,
-    "wof:lastmodified":1566601965,
+    "wof:lastmodified":1695877117,
     "wof:name":"Blue Haven",
     "wof:parent_id":102049097,
     "wof:placetype":"localadmin",

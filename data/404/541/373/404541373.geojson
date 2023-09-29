@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000036,
-    "geom:area_square_m":403213.101083,
+    "geom:area_square_m":403213.101086,
     "geom:bbox":"152.988732,-26.287612008,152.99829,-26.280270986",
     "geom:latitude":-26.284323,
     "geom:longitude":152.993337,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-26.284312,
     "lbl:longitude":152.993337,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Boreen Point"
@@ -39,12 +45,15 @@
         102049303
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30207"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101933989
     ],
     "wof:country":"AU",
-    "wof:geomhash":"2a79d1d95f3b9483667a1807f0767f88",
+    "wof:geomhash":"f6cd6185e4c6b4dd6d55ef5039302b68",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404541373,
-    "wof:lastmodified":1566603097,
+    "wof:lastmodified":1695877769,
     "wof:name":"Boreen Point",
     "wof:parent_id":102049303,
     "wof:placetype":"localadmin",

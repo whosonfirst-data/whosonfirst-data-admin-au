@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.085605,
-    "geom:area_square_m":874821823.098255,
+    "geom:area_square_m":874821823.099347,
     "geom:bbox":"148.773586016,-34.4704492575,149.131031104,-34.0321760065",
     "geom:latitude":-34.263071,
     "geom:longitude":148.956493,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.24704,
     "lbl:longitude":148.959154,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Frogmore"
@@ -47,9 +53,12 @@
         102048445
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10919"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"11caf5b59a2bacce1c2efae142937567",
+    "wof:geomhash":"61fe28c85a1c23125306cea0b84db08b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":404223493,
-    "wof:lastmodified":1566602550,
+    "wof:lastmodified":1695877445,
     "wof:name":"Frogmore",
     "wof:parent_id":102048445,
     "wof:placetype":"localadmin",

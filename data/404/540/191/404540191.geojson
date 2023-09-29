@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026323,
-    "geom:area_square_m":256574168.878172,
+    "geom:area_square_m":256574168.878159,
     "geom:bbox":"143.839753824,-38.0654829955,144.11407,-37.8834461035",
     "geom:latitude":-37.974592,
     "geom:longitude":143.96159,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.982616,
     "lbl:longitude":143.956434,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Shelford"
@@ -44,9 +50,12 @@
         102049027
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21210"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"f489768289b1138b0540a2d974658aab",
+    "wof:geomhash":"4021fe111a28af9bdcd485a1d5f14380",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404540191,
-    "wof:lastmodified":1566603013,
+    "wof:lastmodified":1695877725,
     "wof:name":"Shelford",
     "wof:parent_id":102049027,
     "wof:placetype":"localadmin",

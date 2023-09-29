@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007226,
-    "geom:area_square_m":85119706.436695,
+    "geom:area_square_m":85119706.436842,
     "geom:bbox":"145.854875616,-17.7655340055,145.992036992,-17.629248964",
     "geom:latitude":-17.694205,
     "geom:longitude":145.927305,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-17.673459,
     "lbl:longitude":145.954644,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mena Creek"
@@ -38,9 +44,12 @@
         102049237
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31038"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"75ee8831cacb11f0ae8c76c71d9a7a3a",
+    "wof:geomhash":"c6825bf02fbea654ee89f0f775bd4795",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404543131,
-    "wof:lastmodified":1566602121,
+    "wof:lastmodified":1695877203,
     "wof:name":"Mena Creek",
     "wof:parent_id":102049237,
     "wof:placetype":"localadmin",

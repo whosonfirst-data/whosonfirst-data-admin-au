@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013458,
-    "geom:area_square_m":160238013.642553,
+    "geom:area_square_m":160238013.642565,
     "geom:bbox":"130.432561312,-15.718499996,130.55278416,-15.589658004",
     "geom:latitude":-15.661549,
     "geom:longitude":130.496031,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-15.669054,
     "lbl:longitude":130.504046,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Timber Creek"
@@ -47,12 +53,15 @@
         102049217
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC70183"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938647
     ],
     "wof:country":"AU",
-    "wof:geomhash":"baa8341c6c6b35b6d441fadc8dc65bff",
+    "wof:geomhash":"9b4112e04a03ae618730e5c23c9df339",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":404549873,
-    "wof:lastmodified":1566602838,
+    "wof:lastmodified":1695877619,
     "wof:name":"Timber Creek",
     "wof:parent_id":102049217,
     "wof:placetype":"localadmin",

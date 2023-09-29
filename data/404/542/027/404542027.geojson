@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028072,
-    "geom:area_square_m":313524379.072808,
+    "geom:area_square_m":313524379.072776,
     "geom:bbox":"152.596410016,-25.510503894,152.910631072,-25.3053200055",
     "geom:latitude":-25.414543,
     "geom:longitude":152.732552,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-25.407353,
     "lbl:longitude":152.707936,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Dundathu"
@@ -38,9 +44,12 @@
         102049435
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30518"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"14c0595aa924447d239b388d9801639c",
+    "wof:geomhash":"12eab8076da9a87d610b6614958bd497",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404542027,
-    "wof:lastmodified":1566602297,
+    "wof:lastmodified":1695877291,
     "wof:name":"Dundathu",
     "wof:parent_id":102049435,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.039824,
-    "geom:area_square_m":407649598.195771,
+    "geom:area_square_m":407649598.195934,
     "geom:bbox":"148.373993984,-34.2508140015,148.670473024,-34.011908017",
     "geom:latitude":-34.122616,
     "geom:longitude":148.512325,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.099644,
     "lbl:longitude":148.499907,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bendick Murrell"
@@ -38,9 +44,12 @@
         102049073
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10174"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"756a9012c5c4fdb2a0e03741e2b3299c",
+    "wof:geomhash":"c96d7a4f11020349799564f9ead7d15f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404221817,
-    "wof:lastmodified":1566601974,
+    "wof:lastmodified":1695877121,
     "wof:name":"Bendick Murrell",
     "wof:parent_id":102049073,
     "wof:placetype":"localadmin",

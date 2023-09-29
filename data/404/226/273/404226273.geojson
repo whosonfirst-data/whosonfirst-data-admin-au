@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000123,
-    "geom:area_square_m":1259969.150157,
+    "geom:area_square_m":1259969.150155,
     "geom:bbox":"151.157521088,-33.8998615645,151.173709504,-33.887430989",
     "geom:latitude":-33.893033,
     "geom:longitude":151.166168,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.892941,
     "lbl:longitude":151.166322,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Stanmore"
@@ -72,12 +78,15 @@
         102048531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12155"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931961
     ],
     "wof:country":"AU",
-    "wof:geomhash":"a90bf3a5f5ffa14122241999fa263d53",
+    "wof:geomhash":"77c55798664f06fd64ce60b87de58141",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -90,7 +99,7 @@
         }
     ],
     "wof:id":404226273,
-    "wof:lastmodified":1566602023,
+    "wof:lastmodified":1695877144,
     "wof:name":"Stanmore",
     "wof:parent_id":102048531,
     "wof:placetype":"localadmin",

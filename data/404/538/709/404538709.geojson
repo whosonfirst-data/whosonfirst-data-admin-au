@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003503,
-    "geom:area_square_m":34836011.939884,
+    "geom:area_square_m":34836011.939887,
     "geom:bbox":"146.17594512,-36.506470994,146.253935168,-36.4110996645",
     "geom:latitude":-36.463724,
     "geom:longitude":146.220624,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.474854,
     "lbl:longitude":146.217967,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Glenrowan"
@@ -38,9 +44,12 @@
         102049395
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20546"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"654564379f7540a1b2fd3427690e3dd9",
+    "wof:geomhash":"2d627963dfbd9eff2f4c0dbf9410ea7a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404538709,
-    "wof:lastmodified":1566602428,
+    "wof:lastmodified":1695877374,
     "wof:name":"Glenrowan",
     "wof:parent_id":102049395,
     "wof:placetype":"localadmin",

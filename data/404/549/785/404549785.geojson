@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.663521,
-    "geom:area_square_m":31615431653.512905,
+    "geom:area_square_m":31615431653.512348,
     "geom:bbox":"134.988005888,-17.1216807995,137.267694336,-15.2875439945",
     "geom:latitude":-16.267174,
     "geom:longitude":135.944125,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-16.289062,
     "lbl:longitude":135.832311,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mcarthur"
@@ -38,9 +44,12 @@
         102048829
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC70124"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"3b9676c309c9f443f5e80fd5f38ab6bd",
+    "wof:geomhash":"8577d9ad72fb33298cb3dc0c15d8413d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404549785,
-    "wof:lastmodified":1566602859,
+    "wof:lastmodified":1695877632,
     "wof:name":"Mcarthur",
     "wof:parent_id":102048829,
     "wof:placetype":"localadmin",

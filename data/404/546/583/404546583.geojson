@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000313,
-    "geom:area_square_m":3249739.999745,
+    "geom:area_square_m":3249739.999759,
     "geom:bbox":"137.551116992,-33.040551864,137.572217376,-33.0174218875",
     "geom:latitude":-33.028912,
     "geom:longitude":137.559116,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.027777,
     "lbl:longitude":137.558913,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Whyalla Playford"
@@ -38,12 +44,15 @@
         102048703
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40798"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101936769
     ],
     "wof:country":"AU",
-    "wof:geomhash":"608943f6c2235a5d0ea4bea41b05e284",
+    "wof:geomhash":"92ec70a874c7f3770a250407a51066b3",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404546583,
-    "wof:lastmodified":1566603154,
+    "wof:lastmodified":1695877791,
     "wof:name":"Whyalla Playford",
     "wof:parent_id":102048703,
     "wof:placetype":"localadmin",

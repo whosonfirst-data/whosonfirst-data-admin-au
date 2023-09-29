@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007077,
-    "geom:area_square_m":73865316.520384,
+    "geom:area_square_m":73865316.520453,
     "geom:bbox":"149.558032992,-32.493251009,149.672159008,-32.3750920085",
     "geom:latitude":-32.42917,
     "geom:longitude":149.617343,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.428555,
     "lbl:longitude":149.622955,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "St Fillans"
@@ -47,9 +53,12 @@
         102049261
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12142"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"6f7bdcf863e18ae0ac8482bc1681576f",
+    "wof:geomhash":"47953740680afd3f40e5a0821f1b208a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":404226245,
-    "wof:lastmodified":1566602025,
+    "wof:lastmodified":1695877145,
     "wof:name":"St Fillans",
     "wof:parent_id":102049261,
     "wof:placetype":"localadmin",

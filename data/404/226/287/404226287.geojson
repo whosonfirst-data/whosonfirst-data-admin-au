@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021069,
-    "geom:area_square_m":226029091.796218,
+    "geom:area_square_m":226029091.796262,
     "geom:bbox":"151.607967008,-29.888858009,151.834876992,-29.752371003",
     "geom:latitude":-29.821257,
     "geom:longitude":151.72201,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-29.82712,
     "lbl:longitude":151.731086,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Stonehenge"
@@ -311,9 +317,12 @@
         102049413
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12161"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"74b426d1f49aa957099690ce97bd1d65",
+    "wof:geomhash":"b1f82672ef9101ef8570f43b713a4b3f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -325,7 +334,7 @@
         }
     ],
     "wof:id":404226287,
-    "wof:lastmodified":1566602024,
+    "wof:lastmodified":1695877144,
     "wof:name":"Stonehenge",
     "wof:parent_id":102049413,
     "wof:placetype":"localadmin",

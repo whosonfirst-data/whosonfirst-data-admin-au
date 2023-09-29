@@ -10,12 +10,18 @@
     "geom:latitude":-36.603957,
     "geom:longitude":143.940309,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.603818,
     "lbl:longitude":143.940311,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bridgewater On Loddon"
@@ -38,12 +44,15 @@
         102049477
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20179"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932647
     ],
     "wof:country":"AU",
-    "wof:geomhash":"b934a538b76d31cfd1b3464579564c83",
+    "wof:geomhash":"6a0935975d89487cef00842ab6f9e931",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404537889,
-    "wof:lastmodified":1566602325,
+    "wof:lastmodified":1695877309,
     "wof:name":"Bridgewater On Loddon",
     "wof:parent_id":102049477,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000273,
-    "geom:area_square_m":2700002.331215,
+    "geom:area_square_m":2700002.331218,
     "geom:bbox":"149.89308816,-36.885532997,149.93072448,-36.869358521",
     "geom:latitude":-36.878423,
     "geom:longitude":149.91583,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.87864,
     "lbl:longitude":149.918642,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Berrambool"
@@ -38,12 +44,15 @@
         102049439
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10191"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101929559
     ],
     "wof:country":"AU",
-    "wof:geomhash":"e083045a80af92cad5fc24daa4977bbe",
+    "wof:geomhash":"856028e9b9f5aef3db0425490ce66537",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404221855,
-    "wof:lastmodified":1566602004,
+    "wof:lastmodified":1695877134,
     "wof:name":"Berrambool",
     "wof:parent_id":102049439,
     "wof:placetype":"localadmin",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000826,
-    "geom:area_square_m":8074526.351796,
+    "geom:area_square_m":8074526.351791,
     "geom:bbox":"144.754777696,-37.7829720115,144.79472816,-37.749769007",
     "geom:latitude":-37.768661,
     "geom:longitude":144.77129,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.770374,
     "lbl:longitude":144.766901,
     "lbl:max_zoom":18.0,
@@ -91,13 +97,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC20380",
         "wd:id":"Q5250802"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932833
     ],
     "wof:country":"AU",
-    "wof:geomhash":"a2d98f408e3aac97076086a8d7f1f3fe",
+    "wof:geomhash":"48e678c1c906bff43be8acf080bbc01f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -110,7 +118,7 @@
         }
     ],
     "wof:id":404538339,
-    "wof:lastmodified":1566602428,
+    "wof:lastmodified":1695877955,
     "wof:name":"Deer Park",
     "wof:parent_id":102049521,
     "wof:placetype":"localadmin",

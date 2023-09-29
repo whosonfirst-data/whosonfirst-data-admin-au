@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001028,
-    "geom:area_square_m":10412581.678581,
+    "geom:area_square_m":10412581.678559,
     "geom:bbox":"117.339097984,-34.993177025,117.38152944,-34.95012031",
     "geom:latitude":-34.968552,
     "geom:longitude":117.35708,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.96617,
     "lbl:longitude":117.357406,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:abk_x_preferred":[
         "\u0414\u0430\u043d\u0438\u0430"
@@ -692,12 +698,15 @@
         102048443
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50216"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937103
     ],
     "wof:country":"AU",
-    "wof:geomhash":"3e265697d8c49c454e9301d7144e4117",
+    "wof:geomhash":"4bdcb19eef485565f47ee6916404273e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -709,7 +718,7 @@
         }
     ],
     "wof:id":404547169,
-    "wof:lastmodified":1566602925,
+    "wof:lastmodified":1695877675,
     "wof:name":"Denmark",
     "wof:parent_id":102048443,
     "wof:placetype":"localadmin",

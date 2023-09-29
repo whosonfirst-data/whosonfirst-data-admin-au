@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000248,
-    "geom:area_square_m":2737110.726858,
+    "geom:area_square_m":2737110.726853,
     "geom:bbox":"152.789851008,-26.9918440155,152.820139648,-26.9725070015",
     "geom:latitude":-26.981531,
     "geom:longitude":152.801657,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-26.982807,
     "lbl:longitude":152.800618,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "D'Aguilar"
@@ -39,12 +45,15 @@
         102049131
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30464"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934265
     ],
     "wof:country":"AU",
-    "wof:geomhash":"ce1657997e803563fd3115106c89d8c5",
+    "wof:geomhash":"308c3941fb122ee54fa1bc3831d3d72c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404541913,
-    "wof:lastmodified":1566603071,
+    "wof:lastmodified":1695877755,
     "wof:name":"D'Aguilar",
     "wof:parent_id":102049131,
     "wof:placetype":"localadmin",

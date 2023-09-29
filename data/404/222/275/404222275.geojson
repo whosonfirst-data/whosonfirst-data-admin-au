@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.091052,
-    "geom:area_square_m":937871694.797423,
+    "geom:area_square_m":937871694.796913,
     "geom:bbox":"147.508304992,-33.7248970005,148.027312992,-33.3823189955",
     "geom:latitude":-33.590585,
     "geom:longitude":147.817894,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.588011,
     "lbl:longitude":147.817906,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bundaburrah"
@@ -38,9 +44,12 @@
         102048487
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10378"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"ecb9cd1f78cc134b91d50d4258e4e224",
+    "wof:geomhash":"3680d6c2b324fee7e157c7d6e8340463",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404222275,
-    "wof:lastmodified":1566602762,
+    "wof:lastmodified":1695877568,
     "wof:name":"Bundaburrah",
     "wof:parent_id":102048487,
     "wof:placetype":"localadmin",

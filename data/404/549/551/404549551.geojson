@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003074,
-    "geom:area_square_m":28603848.939754,
+    "geom:area_square_m":28603848.939738,
     "geom:bbox":"146.400096,-41.2271708095,146.475760992,-41.1470066095",
     "geom:latitude":-41.189886,
     "geom:longitude":146.442197,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-41.184142,
     "lbl:longitude":146.441604,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Wesley Vale"
@@ -38,9 +44,12 @@
         102048629
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60392"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"3f87945fdd077d74597bdf658c2e0a0f",
+    "wof:geomhash":"a14349dd1eea892e294299d3232c09cf",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404549551,
-    "wof:lastmodified":1566602821,
+    "wof:lastmodified":1695877605,
     "wof:name":"Wesley Vale",
     "wof:parent_id":102048629,
     "wof:placetype":"localadmin",

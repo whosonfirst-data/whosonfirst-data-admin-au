@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000175,
-    "geom:area_square_m":1879821.694122,
+    "geom:area_square_m":1879821.694127,
     "geom:bbox":"116.008046112,-29.891781601,116.028753824,-29.8756223875",
     "geom:latitude":-29.884563,
     "geom:longitude":116.019379,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-29.883492,
     "lbl:longitude":116.018353,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Coorow"
@@ -38,12 +44,15 @@
         102048591
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50180"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937049
     ],
     "wof:country":"AU",
-    "wof:geomhash":"6ba1b71c7e114d4db7cc2dfe796907db",
+    "wof:geomhash":"488011600500c8dc979a663298e39358",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404547091,
-    "wof:lastmodified":1566602933,
+    "wof:lastmodified":1695877678,
     "wof:name":"Coorow",
     "wof:parent_id":102048591,
     "wof:placetype":"localadmin",

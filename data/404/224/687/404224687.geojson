@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001561,
-    "geom:area_square_m":15655791.726744,
+    "geom:area_square_m":15655791.726733,
     "geom:bbox":"150.186329088,-35.8108549915,150.237379008,-35.7613849925",
     "geom:latitude":-35.786606,
     "geom:longitude":150.210911,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.787919,
     "lbl:longitude":150.208854,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Malua Bay"
@@ -38,12 +44,15 @@
         102049609
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11450"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931133
     ],
     "wof:country":"AU",
-    "wof:geomhash":"5c02f5b3deb62fa69c142d4b8187b368",
+    "wof:geomhash":"b788814fc75bb93f84a80813b2e2a613",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404224687,
-    "wof:lastmodified":1566602587,
+    "wof:lastmodified":1695877467,
     "wof:name":"Malua Bay",
     "wof:parent_id":102049609,
     "wof:placetype":"localadmin",

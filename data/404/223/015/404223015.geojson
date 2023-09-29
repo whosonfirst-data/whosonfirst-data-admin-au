@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000052,
-    "geom:area_square_m":516952.173722,
+    "geom:area_square_m":516952.173727,
     "geom:bbox":"150.207222016,-35.756443994,150.217152992,-35.7461717395",
     "geom:latitude":-35.750893,
     "geom:longitude":150.211439,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.750116,
     "lbl:longitude":150.211102,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Denhams Beach"
@@ -38,12 +44,15 @@
         102049609
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10707"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101930087
     ],
     "wof:country":"AU",
-    "wof:geomhash":"53f64d86ababb2aa6d201d3746b5ea61",
+    "wof:geomhash":"7ae6d3948db65b6d82a96cc3c392b5e9",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404223015,
-    "wof:lastmodified":1566602500,
+    "wof:lastmodified":1695877413,
     "wof:name":"Denhams Beach",
     "wof:parent_id":102049609,
     "wof:placetype":"localadmin",

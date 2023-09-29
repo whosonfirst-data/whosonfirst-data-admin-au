@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001034,
-    "geom:area_square_m":10483475.322695,
+    "geom:area_square_m":10483475.322697,
     "geom:bbox":"138.576994496,-34.942384498,138.624511328,-34.9091180015",
     "geom:latitude":-34.928559,
     "geom:longitude":138.600647,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.929075,
     "lbl:longitude":138.602578,
     "lbl:max_zoom":18.0,
@@ -382,13 +388,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC40002",
         "wd:id":"Q4681820"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935721
     ],
     "wof:country":"AU",
-    "wof:geomhash":"9f20581f65e996396b013a676d9004e6",
+    "wof:geomhash":"09ad90838a6feb2f1f25c507d3804aa4",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -401,7 +409,7 @@
         }
     ],
     "wof:id":404544867,
-    "wof:lastmodified":1566602168,
+    "wof:lastmodified":1695877925,
     "wof:name":"Adelaide",
     "wof:parent_id":102048711,
     "wof:placetype":"localadmin",

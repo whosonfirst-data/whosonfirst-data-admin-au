@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002379,
-    "geom:area_square_m":23154141.891327,
+    "geom:area_square_m":23154141.891324,
     "geom:bbox":"145.974278016,-38.104070425,146.04562208,-38.0400947055",
     "geom:latitude":-38.072287,
     "geom:longitude":146.011376,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.075786,
     "lbl:longitude":146.01139,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Buln Buln East"
@@ -38,9 +44,12 @@
         102048523
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20208"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"857caefdac572e7a8b3e6683941dde19",
+    "wof:geomhash":"c66460b42741d3256f6cd9161e856e0f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404537955,
-    "wof:lastmodified":1566602324,
+    "wof:lastmodified":1695877309,
     "wof:name":"Buln Buln East",
     "wof:parent_id":102048523,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00068,
-    "geom:area_square_m":7137111.770884,
+    "geom:area_square_m":7137111.770894,
     "geom:bbox":"152.435124992,-31.952780946,152.471680864,-31.9180370025",
     "geom:latitude":-31.936208,
     "geom:longitude":152.454673,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.935651,
     "lbl:longitude":152.454678,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Taree South"
@@ -38,12 +44,15 @@
         102048833
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12220"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932037
     ],
     "wof:country":"AU",
-    "wof:geomhash":"82e13f6ae4243941165293f18e25d8b0",
+    "wof:geomhash":"5be8a0bd549ac8344934f21b3b35851c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404226419,
-    "wof:lastmodified":1566602063,
+    "wof:lastmodified":1695877170,
     "wof:name":"Taree South",
     "wof:parent_id":102048833,
     "wof:placetype":"localadmin",

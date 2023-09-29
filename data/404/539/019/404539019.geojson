@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.116677,
-    "geom:area_square_m":1161378644.376905,
+    "geom:area_square_m":1161378644.376619,
     "geom:bbox":"141.071070016,-36.642470007,141.497174528,-36.171319",
     "geom:latitude":-36.390747,
     "geom:longitude":141.283117,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.428525,
     "lbl:longitude":141.279865,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kaniva"
@@ -44,9 +50,12 @@
         102049637
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20685"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"c8d11b9a9e4396b5e6478e70ed96f7c0",
+    "wof:geomhash":"728893700b60fd105054ec41549595c8",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404539019,
-    "wof:lastmodified":1566602399,
+    "wof:lastmodified":1695877355,
     "wof:name":"Kaniva",
     "wof:parent_id":102049637,
     "wof:placetype":"localadmin",

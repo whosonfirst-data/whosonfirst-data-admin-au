@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002615,
-    "geom:area_square_m":26467519.143929,
+    "geom:area_square_m":26467519.143953,
     "geom:bbox":"150.622376128,-35.1230397175,150.701604288,-35.0182980085",
     "geom:latitude":-35.066521,
     "geom:longitude":150.66329,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.06048,
     "lbl:longitude":150.659403,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Hyams Beach"
@@ -38,9 +44,12 @@
         102049405
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11151"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"73b186af766e30ddb4db8aaf30902eaf",
+    "wof:geomhash":"d9131891c536d4a8e70aeb488ff67fae",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404224015,
-    "wof:lastmodified":1566602582,
+    "wof:lastmodified":1695877464,
     "wof:name":"Hyams Beach",
     "wof:parent_id":102049405,
     "wof:placetype":"localadmin",

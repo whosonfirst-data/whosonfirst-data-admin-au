@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005601,
-    "geom:area_square_m":66473839.411375,
+    "geom:area_square_m":66473839.411418,
     "geom:bbox":"145.321505696,-16.366294997,145.453011008,-16.242235995",
     "geom:latitude":-16.292125,
     "geom:longitude":145.390113,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-16.295112,
     "lbl:longitude":145.401038,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Wonga"
@@ -44,9 +50,12 @@
         102048911
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31794"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"e45e74f264f1c2cdb4891ee2715dde13",
+    "wof:geomhash":"f6b2a4c5bdc32a2edc40de3d8ef5ec92",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404544727,
-    "wof:lastmodified":1566602206,
+    "wof:lastmodified":1695877246,
     "wof:name":"Wonga",
     "wof:parent_id":102048911,
     "wof:placetype":"localadmin",

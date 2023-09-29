@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003134,
-    "geom:area_square_m":34641491.078279,
+    "geom:area_square_m":34641491.078255,
     "geom:bbox":"151.985566016,-26.659733033,152.048962016,-26.575182002",
     "geom:latitude":-26.617026,
     "geom:longitude":152.015076,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-26.619069,
     "lbl:longitude":152.020779,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Glan Devon"
@@ -38,9 +44,12 @@
         102048861
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30652"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"10d40dbb0ec981d185840b715606088a",
+    "wof:geomhash":"5461748c4befbc208985e588b5f9d255",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404542311,
-    "wof:lastmodified":1566602311,
+    "wof:lastmodified":1695877301,
     "wof:name":"Glan Devon",
     "wof:parent_id":102048861,
     "wof:placetype":"localadmin",

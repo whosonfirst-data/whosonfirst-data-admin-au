@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001299,
-    "geom:area_square_m":13182136.346131,
+    "geom:area_square_m":13182136.346116,
     "geom:bbox":"150.683516992,-34.8727080035,150.742949792,-34.827115993",
     "geom:latitude":-34.852914,
     "geom:longitude":150.714684,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.85958,
     "lbl:longitude":150.715107,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Coolangatta"
@@ -68,9 +74,12 @@
         102049405
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10597"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"9b8f69c5dcc1e042c38e2380ce434dcd",
+    "wof:geomhash":"7041eae0d6e5ff09ec83d59dbbf54b9a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -82,7 +91,7 @@
         }
     ],
     "wof:id":404222767,
-    "wof:lastmodified":1566602783,
+    "wof:lastmodified":1695877582,
     "wof:name":"Coolangatta",
     "wof:parent_id":102049405,
     "wof:placetype":"localadmin",

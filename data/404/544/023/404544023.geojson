@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000311,
-    "geom:area_square_m":3423472.728995,
+    "geom:area_square_m":3423487.409634,
     "geom:bbox":"153.098199,-27.217094,153.118992,-27.190416",
     "geom:latitude":-27.203849,
     "geom:longitude":153.109903,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.202849,
     "lbl:longitude":153.109752,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Scarborough"
@@ -135,12 +141,15 @@
         102049131
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31458"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935277
     ],
     "wof:country":"AU",
-    "wof:geomhash":"c9b90a110f8ccb0984226cb79c5a76d0",
+    "wof:geomhash":"6a8fe912d76b1b26ab1978a321f34121",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -153,7 +162,7 @@
         }
     ],
     "wof:id":404544023,
-    "wof:lastmodified":1636494619,
+    "wof:lastmodified":1695877852,
     "wof:name":"Scarborough",
     "wof:parent_id":102049131,
     "wof:placetype":"localadmin",

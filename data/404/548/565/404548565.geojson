@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.048817,
-    "geom:area_square_m":512789941.324017,
+    "geom:area_square_m":512789941.323977,
     "geom:bbox":"116.50948896,-31.970221007,116.873999296,-31.727270941",
     "geom:latitude":-31.842104,
     "geom:longitude":116.696684,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.857085,
     "lbl:longitude":116.663503,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Wilberforce"
@@ -56,9 +62,12 @@
         102049293
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50841"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"4e0b838b4c04b777f5f380e20449aa4f",
+    "wof:geomhash":"d1782117c387839dbaac82b7a943c195",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -70,7 +79,7 @@
         }
     ],
     "wof:id":404548565,
-    "wof:lastmodified":1566603203,
+    "wof:lastmodified":1695877818,
     "wof:name":"Wilberforce",
     "wof:parent_id":102049293,
     "wof:placetype":"localadmin",

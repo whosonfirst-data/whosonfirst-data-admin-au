@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.568066,
-    "geom:area_square_m":27174635373.481415,
+    "geom:area_square_m":27174636329.686516,
     "geom:bbox":"142.584781,-32.177015,144.661369,-30.242634",
     "geom:latitude":-31.151828,
     "geom:longitude":143.578375,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.257388,
     "lbl:longitude":143.47612,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0648\u064a\u0644\u0643\u0627\u0646\u064a\u0627"
@@ -110,9 +116,12 @@
         102049255
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12499"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"f890296849fc86d2ecec573b3f3280d0",
+    "wof:geomhash":"1a2c57f47e7d5b2e82a391e058343103",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -124,7 +133,7 @@
         }
     ],
     "wof:id":404227047,
-    "wof:lastmodified":1636494609,
+    "wof:lastmodified":1695877847,
     "wof:name":"Wilcannia",
     "wof:parent_id":102049255,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000109,
-    "geom:area_square_m":1232790.959499,
+    "geom:area_square_m":1232790.959491,
     "geom:bbox":"133.866510848,-23.722629003,133.880568992,-23.702832005",
     "geom:latitude":-23.713335,
     "geom:longitude":133.873855,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-23.713503,
     "lbl:longitude":133.873962,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "The Gap"
@@ -57,12 +63,15 @@
         102048753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC70179"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938639
     ],
     "wof:country":"AU",
-    "wof:geomhash":"3baa3e616e99e2443ce61e417757e8cf",
+    "wof:geomhash":"60507513fc6cb769aa7945619af52722",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -75,7 +84,7 @@
         }
     ],
     "wof:id":404549871,
-    "wof:lastmodified":1566602883,
+    "wof:lastmodified":1695877646,
     "wof:name":"The Gap",
     "wof:parent_id":102048753,
     "wof:placetype":"localadmin",

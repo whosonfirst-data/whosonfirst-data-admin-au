@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020755,
-    "geom:area_square_m":206520282.458863,
+    "geom:area_square_m":206520282.458902,
     "geom:bbox":"143.505884,-36.5120270065,143.691964992,-36.337730126",
     "geom:latitude":-36.419392,
     "geom:longitude":143.59646,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.432673,
     "lbl:longitude":143.596438,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Wedderburn"
@@ -44,9 +50,12 @@
         102049477
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21446"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"ca2f666afd61b3ce1fad468827b21ebb",
+    "wof:geomhash":"c07f30ee7428a66fff85a3655a9b8dd4",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404540719,
-    "wof:lastmodified":1566603036,
+    "wof:lastmodified":1695877739,
     "wof:name":"Wedderburn",
     "wof:parent_id":102049477,
     "wof:placetype":"localadmin",

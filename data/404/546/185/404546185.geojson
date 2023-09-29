@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002005,
-    "geom:area_square_m":20942748.853391,
+    "geom:area_square_m":20942748.853405,
     "geom:bbox":"138.0130888,-32.375475125,138.072550688,-32.3244366405",
     "geom:latitude":-32.345226,
     "geom:longitude":138.044522,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.342526,
     "lbl:longitude":138.051034,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Quorn"
@@ -74,9 +80,12 @@
         102048929
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40610"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"dc752c93e956da692554f29537d0ec0d",
+    "wof:geomhash":"c1d1822255624b11ceb5861f4428d400",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -88,7 +97,7 @@
         }
     ],
     "wof:id":404546185,
-    "wof:lastmodified":1566603156,
+    "wof:lastmodified":1695877792,
     "wof:name":"Quorn",
     "wof:parent_id":102048929,
     "wof:placetype":"localadmin",

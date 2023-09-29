@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017989,
-    "geom:area_square_m":185279597.70412,
+    "geom:area_square_m":185279597.705466,
     "geom:bbox":"149.394283424,-33.7212389955,149.5398,-33.492177009",
     "geom:latitude":-33.598731,
     "geom:longitude":149.457041,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.597425,
     "lbl:longitude":149.446023,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Georges Plains"
@@ -38,9 +44,12 @@
         102049305
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10931"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"9341479fb88ce9700af1c62d0455429f",
+    "wof:geomhash":"50c3a1170bd7bd7d66d8891ec7e7b6b7",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404223519,
-    "wof:lastmodified":1566602522,
+    "wof:lastmodified":1695877426,
     "wof:name":"Georges Plains",
     "wof:parent_id":102049305,
     "wof:placetype":"localadmin",

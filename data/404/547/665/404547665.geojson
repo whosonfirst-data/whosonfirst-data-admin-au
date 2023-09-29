@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002047,
-    "geom:area_square_m":20897077.628015,
+    "geom:area_square_m":20897077.627909,
     "geom:bbox":"115.02955296,-34.4252590115,115.21376208,-34.2969949965",
     "geom:latitude":-34.340213,
     "geom:longitude":115.132832,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.344859,
     "lbl:longitude":115.136916,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Leeuwin"
@@ -47,9 +53,12 @@
         102048475
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50437"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"401d1fc7a0fa2e30ce41d02a53faaab1",
+    "wof:geomhash":"bc2c586d5df1538bd745627a376363b5",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":404547665,
-    "wof:lastmodified":1566602967,
+    "wof:lastmodified":1695877699,
     "wof:name":"Leeuwin",
     "wof:parent_id":102048475,
     "wof:placetype":"localadmin",

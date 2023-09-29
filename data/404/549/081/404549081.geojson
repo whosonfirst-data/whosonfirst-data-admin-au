@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019429,
-    "geom:area_square_m":181138044.014906,
+    "geom:area_square_m":181138044.014974,
     "geom:bbox":"145.413542016,-41.1352589985,145.616054016,-40.9885909985",
     "geom:latitude":-41.064447,
     "geom:longitude":145.524723,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-41.064754,
     "lbl:longitude":145.516552,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Lapoinya"
@@ -44,9 +50,12 @@
         102048983
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60183"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"7e3eaeb6551c20e6bce4a0cbe278e16a",
+    "wof:geomhash":"d91523f060654691ef4b7f9a28757767",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404549081,
-    "wof:lastmodified":1566602882,
+    "wof:lastmodified":1695877646,
     "wof:name":"Lapoinya",
     "wof:parent_id":102048983,
     "wof:placetype":"localadmin",

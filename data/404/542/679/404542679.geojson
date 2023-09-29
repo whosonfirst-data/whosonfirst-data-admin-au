@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000656,
-    "geom:area_square_m":7277909.625156,
+    "geom:area_square_m":7277909.625186,
     "geom:bbox":"152.641070592,-26.2551570325,152.681704928,-26.218539002",
     "geom:latitude":-26.237318,
     "geom:longitude":152.660234,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-26.242,
     "lbl:longitude":152.658233,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Jones Hill"
@@ -41,9 +47,12 @@
         102049393
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30826"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"dba8e3cbd18c1c3b87257ed055a9e985",
+    "wof:geomhash":"77243c81480b7d13d6ef000c971c01df",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404542679,
-    "wof:lastmodified":1566602302,
+    "wof:lastmodified":1695877296,
     "wof:name":"Jones Hill",
     "wof:parent_id":102049393,
     "wof:placetype":"localadmin",

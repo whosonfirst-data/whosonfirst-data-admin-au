@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002001,
-    "geom:area_square_m":21794291.269909,
+    "geom:area_square_m":21794291.27004,
     "geom:bbox":"153.5077928,-28.289022002,153.57239,-28.2406807435",
     "geom:latitude":-28.265397,
     "geom:longitude":153.540973,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.264155,
     "lbl:longitude":153.540357,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Cudgen"
@@ -38,9 +44,12 @@
         102048589
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10654"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"a6916cd81242ba9a5b1bb474c453953e",
+    "wof:geomhash":"c0b1fae78d6d97297047d3dcc489fe2d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404222897,
-    "wof:lastmodified":1566602810,
+    "wof:lastmodified":1695877598,
     "wof:name":"Cudgen",
     "wof:parent_id":102048589,
     "wof:placetype":"localadmin",

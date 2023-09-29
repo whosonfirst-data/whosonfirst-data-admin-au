@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000385,
-    "geom:area_square_m":4352090.43588,
+    "geom:area_square_m":4352090.435912,
     "geom:bbox":"151.177998272,-23.891806989,151.211400832,-23.8534197295",
     "geom:latitude":-23.874027,
     "geom:longitude":151.194606,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-23.872299,
     "lbl:longitude":151.198529,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Byellee"
@@ -38,12 +44,15 @@
         102049463
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30284"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934085
     ],
     "wof:country":"AU",
-    "wof:geomhash":"3a130fe41a770b28416eb33eafa9a838",
+    "wof:geomhash":"45a71b72151e9d62cd1795ba57ee4337",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404541537,
-    "wof:lastmodified":1566603072,
+    "wof:lastmodified":1695877755,
     "wof:name":"Byellee",
     "wof:parent_id":102049463,
     "wof:placetype":"localadmin",

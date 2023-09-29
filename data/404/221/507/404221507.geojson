@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000329,
-    "geom:area_square_m":3540255.331498,
+    "geom:area_square_m":3540255.331527,
     "geom:bbox":"153.342099008,-29.4866071255,153.368841696,-29.451671004",
     "geom:latitude":-29.473013,
     "geom:longitude":153.356211,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-29.478646,
     "lbl:longitude":153.354897,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Angourie"
@@ -38,12 +44,15 @@
         102048835
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10037"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101929389
     ],
     "wof:country":"AU",
-    "wof:geomhash":"3dc19841fbe4572880a5ae221b4597b0",
+    "wof:geomhash":"a7fb2a1d8a79faf7809ba598adf8d2eb",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404221507,
-    "wof:lastmodified":1566601991,
+    "wof:lastmodified":1695877129,
     "wof:name":"Angourie",
     "wof:parent_id":102048835,
     "wof:placetype":"localadmin",

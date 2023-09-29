@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.111105,
-    "geom:area_square_m":1184019036.72726,
+    "geom:area_square_m":1184019036.727585,
     "geom:bbox":"148.81109488,-30.7135098835,149.253228,-30.2941020075",
     "geom:latitude":-30.47692,
     "geom:longitude":149.025866,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-30.459278,
     "lbl:longitude":148.999644,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Gwabegar"
@@ -50,9 +56,12 @@
         102049269
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11054"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"d01422f201e539b3b950b9312a5b0234",
+    "wof:geomhash":"a892f6adb082f020b2f549cd33b5cb41",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":404223797,
-    "wof:lastmodified":1566602486,
+    "wof:lastmodified":1695877406,
     "wof:name":"Gwabegar",
     "wof:parent_id":102049269,
     "wof:placetype":"localadmin",

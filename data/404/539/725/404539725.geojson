@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.095404,
-    "geom:area_square_m":953260432.806369,
+    "geom:area_square_m":953260432.806339,
     "geom:bbox":"141.22660704,-36.218532998,141.826435936,-35.996828591",
     "geom:latitude":-36.093216,
     "geom:longitude":141.503327,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.104373,
     "lbl:longitude":141.449142,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Netherby"
@@ -47,9 +53,12 @@
         102048501
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21000"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"2cfddcb07c17ea294cfa03f628116105",
+    "wof:geomhash":"c528874e0eccc8d15842caa6678e0326",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":404539725,
-    "wof:lastmodified":1566602375,
+    "wof:lastmodified":1695877339,
     "wof:name":"Netherby",
     "wof:parent_id":102048501,
     "wof:placetype":"localadmin",

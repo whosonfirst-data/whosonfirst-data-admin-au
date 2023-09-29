@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000236,
-    "geom:area_square_m":2549851.238187,
+    "geom:area_square_m":2549851.238191,
     "geom:bbox":"115.4339064,-29.2066744495,115.458088704,-29.187529484",
     "geom:latitude":-29.195988,
     "geom:longitude":115.44733,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-29.195687,
     "lbl:longitude":115.447144,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mingenew"
@@ -38,12 +44,15 @@
         102048725
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50505"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937511
     ],
     "wof:country":"AU",
-    "wof:geomhash":"32ca8aebfa329aeeab07785bc0e83b34",
+    "wof:geomhash":"b09fc3f375327b42d67b1680d9252f77",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404547819,
-    "wof:lastmodified":1566602930,
+    "wof:lastmodified":1695877677,
     "wof:name":"Mingenew",
     "wof:parent_id":102048725,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003695,
-    "geom:area_square_m":38131704.90619,
+    "geom:area_square_m":38131704.906178,
     "geom:bbox":"115.65633,-33.4604311385,115.727839904,-33.3859855105",
     "geom:latitude":-33.427673,
     "geom:longitude":115.68693,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.43425,
     "lbl:longitude":115.686252,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "North Boyanup"
@@ -38,12 +44,15 @@
         102048869
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50584"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937597
     ],
     "wof:country":"AU",
-    "wof:geomhash":"32acc1913208920687bbecc6149c3b36",
+    "wof:geomhash":"3a8960f46452ab88ccd3e83be91ad4b1",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404547997,
-    "wof:lastmodified":1566602924,
+    "wof:lastmodified":1695877675,
     "wof:name":"North Boyanup",
     "wof:parent_id":102048869,
     "wof:placetype":"localadmin",

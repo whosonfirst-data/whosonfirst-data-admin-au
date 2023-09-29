@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004438,
-    "geom:area_square_m":43565573.487647,
+    "geom:area_square_m":43565573.487627,
     "geom:bbox":"145.222272352,-37.500985928,145.314704,-37.4097279995",
     "geom:latitude":-37.453671,
     "geom:longitude":145.274532,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.440104,
     "lbl:longitude":145.278343,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Pheasant Creek"
@@ -44,9 +50,12 @@
         102048737
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21083"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"57319ddfe0e808d3bec9991f5ed72b83",
+    "wof:geomhash":"76ca93df224bb9e4fdc70735c04599e3",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404539907,
-    "wof:lastmodified":1566602351,
+    "wof:lastmodified":1695877325,
     "wof:name":"Pheasant Creek",
     "wof:parent_id":102048737,
     "wof:placetype":"localadmin",

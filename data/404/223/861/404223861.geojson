@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000089,
-    "geom:area_square_m":971997.355332,
+    "geom:area_square_m":971997.355349,
     "geom:bbox":"153.566107,-28.37544,153.580705,-28.353892",
     "geom:latitude":-28.363897,
     "geom:longitude":153.574274,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.361959,
     "lbl:longitude":153.577433,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Hastings Point"
@@ -31,19 +37,22 @@
     "qs:source":"Australian Bureau Of Statistics",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681545,
         102191583,
         85632793,
-        102048589,
         136253039,
-        85681545
+        102048589
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11083"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101930651
     ],
     "wof:country":"AU",
-    "wof:geomhash":"e63a8460c97a0b2b3a8d97d8ba5a5317",
+    "wof:geomhash":"68b97ba5468095c83d73030ac8f10920",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404223861,
-    "wof:lastmodified":1607988537,
+    "wof:lastmodified":1695877841,
     "wof:name":"Hastings Point",
     "wof:parent_id":102048589,
     "wof:placetype":"localadmin",

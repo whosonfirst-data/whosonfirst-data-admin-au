@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001821,
-    "geom:area_square_m":19744471.18581,
+    "geom:area_square_m":19744471.18579,
     "geom:bbox":"153.318678016,-28.779678965,153.385579872,-28.731945006",
     "geom:latitude":-28.755843,
     "geom:longitude":153.35374,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.756689,
     "lbl:longitude":153.35375,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bexhill"
@@ -50,9 +56,12 @@
         102049635
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10201"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"26aa27ed587e1c33d40dd9e6a9ad6e0e",
+    "wof:geomhash":"ef236a011122e0354ac6845e0fd40dfa",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":404221877,
-    "wof:lastmodified":1566601993,
+    "wof:lastmodified":1695877130,
     "wof:name":"Bexhill",
     "wof:parent_id":102049635,
     "wof:placetype":"localadmin",

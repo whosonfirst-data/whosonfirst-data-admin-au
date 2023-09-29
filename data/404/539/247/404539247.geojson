@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009055,
-    "geom:area_square_m":88280721.359849,
+    "geom:area_square_m":88280689.562881,
     "geom:bbox":"144.013654,-38.002604,144.16656,-37.898067",
     "geom:latitude":-37.955982,
     "geom:longitude":144.096548,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.952853,
     "lbl:longitude":144.095365,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0644\u064a\u062b\u0628\u0631\u064a\u062f\u062c"
@@ -149,9 +155,12 @@
         102049027
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20787"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"08cd2db0421bacb667115652d58c164d",
+    "wof:geomhash":"45f069356925f8d17201b15e5c43f47b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -163,7 +172,7 @@
         }
     ],
     "wof:id":404539247,
-    "wof:lastmodified":1636494636,
+    "wof:lastmodified":1695877859,
     "wof:name":"Lethbridge",
     "wof:parent_id":102049027,
     "wof:placetype":"localadmin",

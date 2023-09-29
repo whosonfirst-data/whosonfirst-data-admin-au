@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001616,
-    "geom:area_square_m":14561429.567673,
+    "geom:area_square_m":14561429.567619,
     "geom:bbox":"147.101759168,-43.227252004,147.16858,-43.1906020055",
     "geom:latitude":-43.208224,
     "geom:longitude":147.134036,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-43.211741,
     "lbl:longitude":147.137375,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Deep Bay"
@@ -47,9 +53,12 @@
         102048679
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60076"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"051d4c8c33dd60ba23f35940c86bd8ee",
+    "wof:geomhash":"0162ca135625b296e77437320d48b14d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":404548841,
-    "wof:lastmodified":1566603204,
+    "wof:lastmodified":1695877819,
     "wof:name":"Deep Bay",
     "wof:parent_id":102048679,
     "wof:placetype":"localadmin",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005592,
-    "geom:area_square_m":58029585.776998,
+    "geom:area_square_m":58029709.516068,
     "geom:bbox":"151.513813,-32.993247,151.590559,-32.872275",
     "geom:latitude":-32.935819,
     "geom:longitude":151.551771,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.929748,
     "lbl:longitude":151.536431,
     "lbl:max_zoom":18.0,
@@ -190,10 +196,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC12382",
         "wd:id":"Q7961024"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"703d679ac336fa96bfa43a40ff31a2c7",
+    "wof:geomhash":"603d51ecf508f4392379c22a28e07fbf",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -206,7 +214,7 @@
         }
     ],
     "wof:id":404226785,
-    "wof:lastmodified":1636494614,
+    "wof:lastmodified":1695878056,
     "wof:name":"Wakefield",
     "wof:parent_id":102048999,
     "wof:placetype":"localadmin",

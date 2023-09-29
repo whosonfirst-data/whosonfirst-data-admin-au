@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000075,
-    "geom:area_square_m":868532.391917,
+    "geom:area_square_m":868532.391916,
     "geom:bbox":"116.813883,-20.755266,116.830652,-20.74225",
     "geom:latitude":-20.748152,
     "geom:longitude":116.821137,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-20.746852,
     "lbl:longitude":116.824689,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Stove Hill"
@@ -31,19 +37,22 @@
     "qs:source":"Australian Bureau Of Statistics",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681439,
         102191583,
         85632793,
-        102048511,
         136253039,
-        85681439
+        102048511
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50743"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937821
     ],
     "wof:country":"AU",
-    "wof:geomhash":"0c3b3c5cb714cebe4c793d6ab51244ce",
+    "wof:geomhash":"f6de7c7a3adadd83bf0d34e38dff8445",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404548347,
-    "wof:lastmodified":1607989006,
+    "wof:lastmodified":1695877841,
     "wof:name":"Stove Hill",
     "wof:parent_id":102048511,
     "wof:placetype":"localadmin",

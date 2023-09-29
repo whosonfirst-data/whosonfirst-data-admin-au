@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.069502,
-    "geom:area_square_m":687689558.493397,
+    "geom:area_square_m":687689558.493096,
     "geom:bbox":"140.431127008,-37.0168058705,140.702116992,-36.690625988",
     "geom:latitude":-36.851501,
     "geom:longitude":140.54936,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.850091,
     "lbl:longitude":140.549337,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Loch Abar"
@@ -62,9 +68,12 @@
         102049215
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40372"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"793346c4d04284c7bfc2ca4ac10ea0c5",
+    "wof:geomhash":"abb63d9a56d527dd9dd402c4ac07b351",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -76,7 +85,7 @@
         }
     ],
     "wof:id":404545667,
-    "wof:lastmodified":1566602222,
+    "wof:lastmodified":1695877253,
     "wof:name":"Lochaber",
     "wof:parent_id":102049215,
     "wof:placetype":"localadmin",

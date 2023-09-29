@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001011,
-    "geom:area_square_m":10398201.395755,
+    "geom:area_square_m":10398201.395758,
     "geom:bbox":"150.668015296,-33.7640802595,150.717572992,-33.729568306",
     "geom:latitude":-33.747837,
     "geom:longitude":150.69712,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.746678,
     "lbl:longitude":150.699109,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Penrith"
@@ -78,12 +84,15 @@
         102048677
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11861"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931577
     ],
     "wof:country":"AU",
-    "wof:geomhash":"81625b6ed05bd713bcb7a0dbbd27e842",
+    "wof:geomhash":"28dc2be33d59e5272600a3f5526e4e6b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -96,7 +105,7 @@
         }
     ],
     "wof:id":404225611,
-    "wof:lastmodified":1566602678,
+    "wof:lastmodified":1695877518,
     "wof:name":"Penrith",
     "wof:parent_id":102048677,
     "wof:placetype":"localadmin",

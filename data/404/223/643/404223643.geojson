@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005355,
-    "geom:area_square_m":54782841.590957,
+    "geom:area_square_m":54782841.590983,
     "geom:bbox":"142.142779008,-34.2601703765,142.27776704,-34.129302024",
     "geom:latitude":-34.17734,
     "geom:longitude":142.216137,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.161747,
     "lbl:longitude":142.221781,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Gol Gol"
@@ -44,9 +50,12 @@
         102049399
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10986"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"056292b9470d058357dac34897d89fe7",
+    "wof:geomhash":"82f035f3d619db5697fbe0ea39de4212",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404223643,
-    "wof:lastmodified":1566602501,
+    "wof:lastmodified":1695877414,
     "wof:name":"Gol Gol",
     "wof:parent_id":102049399,
     "wof:placetype":"localadmin",

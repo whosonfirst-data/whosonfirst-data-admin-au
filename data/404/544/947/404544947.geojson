@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001183,
-    "geom:area_square_m":12085861.256372,
+    "geom:area_square_m":12085828.682139,
     "geom:bbox":"140.575189,-34.293827,140.633006,-34.256829",
     "geom:latitude":-34.277063,
     "geom:longitude":140.60771,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.275612,
     "lbl:longitude":140.612094,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0631\u064a"
@@ -92,12 +98,15 @@
         102048599
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40042"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935779
     ],
     "wof:country":"AU",
-    "wof:geomhash":"47f640edfc55567abc281a9a803d19b8",
+    "wof:geomhash":"9e0bfd10e76df1bd085683d9544b8a4a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -109,7 +118,7 @@
         }
     ],
     "wof:id":404544947,
-    "wof:lastmodified":1636494621,
+    "wof:lastmodified":1695877853,
     "wof:name":"Berri",
     "wof:parent_id":102048599,
     "wof:placetype":"localadmin",

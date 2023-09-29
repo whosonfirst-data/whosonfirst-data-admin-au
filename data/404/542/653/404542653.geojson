@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.936358,
-    "geom:area_square_m":10529577774.997391,
+    "geom:area_square_m":10529577774.997692,
     "geom:bbox":"143.430072864,-25.2554288725,144.803748992,-23.92764493",
     "geom:latitude":-24.571464,
     "geom:longitude":144.164181,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-24.57621,
     "lbl:longitude":144.211356,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Isisford"
@@ -38,9 +44,12 @@
         102049401
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30814"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"ea06b38ca20b57e951f88d704971dfb3",
+    "wof:geomhash":"ed77aec8e687680a2954b8732c317d48",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404542653,
-    "wof:lastmodified":1566602307,
+    "wof:lastmodified":1695877299,
     "wof:name":"Isisford",
     "wof:parent_id":102049401,
     "wof:placetype":"localadmin",

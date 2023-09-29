@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009101,
-    "geom:area_square_m":83024339.873967,
+    "geom:area_square_m":83024339.873958,
     "geom:bbox":"147.391132,-42.513259008,147.528638656,-42.3973630015",
     "geom:latitude":-42.459768,
     "geom:longitude":147.459874,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-42.459294,
     "lbl:longitude":147.45983,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tunnack"
@@ -38,9 +44,12 @@
         102049259
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60380"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"46d4aca160f1e1dcc6e26217aa323e2f",
+    "wof:geomhash":"c87396505d5046a71dba090277c1948c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404549525,
-    "wof:lastmodified":1566602913,
+    "wof:lastmodified":1695877669,
     "wof:name":"Tunnack",
     "wof:parent_id":102049259,
     "wof:placetype":"localadmin",

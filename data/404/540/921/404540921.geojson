@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00595,
-    "geom:area_square_m":59561405.522739,
+    "geom:area_square_m":59561405.522752,
     "geom:bbox":"145.531496992,-35.9844579925,145.628544,-35.8989770035",
     "geom:latitude":-35.94725,
     "geom:longitude":145.568166,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.950008,
     "lbl:longitude":145.56724,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Yarroweyah"
@@ -38,9 +44,12 @@
         102048427
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21536"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"e402ca37495ff044e6229993b9bc7c0f",
+    "wof:geomhash":"f65de40d8a28cb112eed1b245a2422c3",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404540921,
-    "wof:lastmodified":1566603038,
+    "wof:lastmodified":1695877741,
     "wof:name":"Yarroweyah",
     "wof:parent_id":102048427,
     "wof:placetype":"localadmin",

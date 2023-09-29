@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.214794,
-    "geom:area_square_m":2192860954.244713,
+    "geom:area_square_m":2192860954.244075,
     "geom:bbox":"141.425092,-34.5502880055,142.004515008,-34.090884369",
     "geom:latitude":-34.347105,
     "geom:longitude":141.736428,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.32897,
     "lbl:longitude":141.788856,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Werrimull"
@@ -38,9 +44,12 @@
         102049611
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21454"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"1b2d04c2cd0f51a6d85af4bac7a0e47e",
+    "wof:geomhash":"3601aa03d5d32a3c065f7cb83ca81a9e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404540737,
-    "wof:lastmodified":1566602985,
+    "wof:lastmodified":1695877710,
     "wof:name":"Werrimull",
     "wof:parent_id":102049611,
     "wof:placetype":"localadmin",

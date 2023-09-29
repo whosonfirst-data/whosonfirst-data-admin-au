@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.143952,
-    "geom:area_square_m":1557794521.475111,
+    "geom:area_square_m":1557794521.475156,
     "geom:bbox":"150.148545952,-29.2396952105,150.672983712,-28.6730205265",
     "geom:latitude":-28.935224,
     "geom:longitude":150.419042,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.924075,
     "lbl:longitude":150.419014,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "North Star"
@@ -38,9 +44,12 @@
         102049247
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11762"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"e0a45b556bcc4bb1f7795173141aacf8",
+    "wof:geomhash":"b7de4b28191903c737339f97ec22289b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404225389,
-    "wof:lastmodified":1566602734,
+    "wof:lastmodified":1695877550,
     "wof:name":"North Star",
     "wof:parent_id":102049247,
     "wof:placetype":"localadmin",

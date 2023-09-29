@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001669,
-    "geom:area_square_m":18889096.440248,
+    "geom:area_square_m":18889096.440257,
     "geom:bbox":"133.862756,-23.7660060085,133.94045264,-23.7252085135",
     "geom:latitude":-23.744236,
     "geom:longitude":133.903575,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-23.745398,
     "lbl:longitude":133.903586,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Ross"
@@ -111,12 +117,15 @@
         102048753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC70165"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938623
     ],
     "wof:country":"AU",
-    "wof:geomhash":"6c87a2e9c837d5292237e6cad386a323",
+    "wof:geomhash":"4604b8dc64ed5ab74d7bfab390f248bd",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -129,7 +138,7 @@
         }
     ],
     "wof:id":404549849,
-    "wof:lastmodified":1566602883,
+    "wof:lastmodified":1695877646,
     "wof:name":"Ross",
     "wof:parent_id":102048753,
     "wof:placetype":"localadmin",

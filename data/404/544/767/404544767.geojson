@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003784,
-    "geom:area_square_m":41415795.742122,
+    "geom:area_square_m":41415795.742105,
     "geom:bbox":"153.281810016,-27.7680000085,153.361784992,-27.695121423",
     "geom:latitude":-27.733539,
     "geom:longitude":153.326141,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.738421,
     "lbl:longitude":153.323528,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Woongoolba"
@@ -39,9 +45,12 @@
         102049363
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31814"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"3676f8cf563c262aff4053f58fe4dcf1",
+    "wof:geomhash":"5250d68440c37c4f7a98440260078ab3",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":404544767,
-    "wof:lastmodified":1566602180,
+    "wof:lastmodified":1695877234,
     "wof:name":"Woongoolba",
     "wof:parent_id":102049363,
     "wof:placetype":"localadmin",

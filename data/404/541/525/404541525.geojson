@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00045,
-    "geom:area_square_m":5038886.627644,
+    "geom:area_square_m":5038886.627649,
     "geom:bbox":"152.583166,-25.254979,152.640731,-25.183173",
     "geom:latitude":-25.217454,
     "geom:longitude":152.606047,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-25.235227,
     "lbl:longitude":152.591852,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Burrum Heads"
@@ -31,19 +37,22 @@
     "qs:source":"Australian Bureau Of Statistics",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681463,
         102191583,
         85632793,
-        102049435,
         136253039,
-        85681463
+        102049435
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30279"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934079
     ],
     "wof:country":"AU",
-    "wof:geomhash":"d5c16cea2532a26d30f25b116bc0526f",
+    "wof:geomhash":"37ef80065bb0588ceb34e7b1bb7e72e9",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404541525,
-    "wof:lastmodified":1607991294,
+    "wof:lastmodified":1695877842,
     "wof:name":"Burrum Heads",
     "wof:parent_id":102049435,
     "wof:placetype":"localadmin",

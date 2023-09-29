@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003866,
-    "geom:area_square_m":37847987.693855,
+    "geom:area_square_m":37847987.693888,
     "geom:bbox":"143.717858016,-37.6834599935,143.805340768,-37.6147430015",
     "geom:latitude":-37.647825,
     "geom:longitude":143.761123,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.647917,
     "lbl:longitude":143.76197,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ross Creek"
@@ -47,9 +53,12 @@
         102049027
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21167"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"d4ad105a93a82859ed8c0367bfae872a",
+    "wof:geomhash":"dfb7d8bed41c053fdab94b627c3dd13c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":404540095,
-    "wof:lastmodified":1566603028,
+    "wof:lastmodified":1695877735,
     "wof:name":"Ross Creek",
     "wof:parent_id":102049027,
     "wof:placetype":"localadmin",

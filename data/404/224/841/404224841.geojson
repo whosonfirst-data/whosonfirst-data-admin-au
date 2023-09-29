@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000056,
-    "geom:area_square_m":583486.461579,
+    "geom:area_square_m":583486.461583,
     "geom:bbox":"151.726172864,-32.950392003,151.740674016,-32.9431249995",
     "geom:latitude":-32.946665,
     "geom:longitude":151.732412,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.946535,
     "lbl:longitude":151.732413,
     "lbl:max_zoom":18.0,
@@ -52,13 +58,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC11518",
         "wd:id":"Q3306460"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931213
     ],
     "wof:country":"AU",
-    "wof:geomhash":"98dd7c9b374fc3bb9c005095ba2eba12",
+    "wof:geomhash":"2caa1a3d6bca61d6535d4da593248f82",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -71,7 +79,7 @@
         }
     ],
     "wof:id":404224841,
-    "wof:lastmodified":1566602620,
+    "wof:lastmodified":1695877980,
     "wof:name":"Merewether Heights",
     "wof:parent_id":102048981,
     "wof:placetype":"localadmin",

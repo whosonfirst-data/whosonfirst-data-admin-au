@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000076,
-    "geom:area_square_m":739292.831406,
+    "geom:area_square_m":739292.831409,
     "geom:bbox":"145.24750016,-38.504951994,145.261528992,-38.496687119",
     "geom:latitude":-38.500664,
     "geom:longitude":145.255152,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.500353,
     "lbl:longitude":145.255853,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Smiths Beach"
@@ -38,12 +44,15 @@
         102049085
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21223"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101933525
     ],
     "wof:country":"AU",
-    "wof:geomhash":"80e0879bd7212f45e874d4240c9ae190",
+    "wof:geomhash":"b445c95ac53637ced44cdb807d6b1322",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404540221,
-    "wof:lastmodified":1566602993,
+    "wof:lastmodified":1695877714,
     "wof:name":"Smiths Beach",
     "wof:parent_id":102049085,
     "wof:placetype":"localadmin",

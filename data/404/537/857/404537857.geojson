@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005347,
-    "geom:area_square_m":51876140.174264,
+    "geom:area_square_m":51876140.174284,
     "geom:bbox":"143.068992576,-38.3673014305,143.170008992,-38.2710855575",
     "geom:latitude":-38.313856,
     "geom:longitude":143.115585,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.317001,
     "lbl:longitude":143.114797,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bostocks Creek"
@@ -38,9 +44,12 @@
         102049319
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20164"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"896e605b158ae01e9635082af961f526",
+    "wof:geomhash":"e88972716fc179df0a1a584e86e30547",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404537857,
-    "wof:lastmodified":1566602328,
+    "wof:lastmodified":1695877311,
     "wof:name":"Bostocks Creek",
     "wof:parent_id":102049319,
     "wof:placetype":"localadmin",

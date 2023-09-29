@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001211,
-    "geom:area_square_m":13277787.707843,
+    "geom:area_square_m":13277787.707863,
     "geom:bbox":"152.98251648,-27.586202044,153.025019744,-27.5296090085",
     "geom:latitude":-27.55732,
     "geom:longitude":153.003052,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.560795,
     "lbl:longitude":153.000969,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Rocklea"
@@ -42,12 +48,15 @@
         102049495
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31416"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935235
     ],
     "wof:country":"AU",
-    "wof:geomhash":"6498c52ec0b5669bb915e7a577865e2b",
+    "wof:geomhash":"8cf81de94d1723a76e2486b822709c08",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -60,7 +69,7 @@
         }
     ],
     "wof:id":404543937,
-    "wof:lastmodified":1566602095,
+    "wof:lastmodified":1695877189,
     "wof:name":"Rocklea",
     "wof:parent_id":102049495,
     "wof:placetype":"localadmin",

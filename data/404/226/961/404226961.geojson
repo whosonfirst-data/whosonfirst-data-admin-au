@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003251,
-    "geom:area_square_m":33333601.001578,
+    "geom:area_square_m":33333601.001529,
     "geom:bbox":"150.538362016,-34.0169360025,150.623928576,-33.940785507",
     "geom:latitude":-33.985064,
     "geom:longitude":150.581018,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.98533,
     "lbl:longitude":150.581654,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Werombi"
@@ -38,9 +44,12 @@
         102048943
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12461"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"cfc7e9b5ba5d50ccf21f787603d88393",
+    "wof:geomhash":"e9df16bd8c75ea3c7c4db171bb901b2e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404226961,
-    "wof:lastmodified":1566602051,
+    "wof:lastmodified":1695877162,
     "wof:name":"Werombi",
     "wof:parent_id":102048943,
     "wof:placetype":"localadmin",

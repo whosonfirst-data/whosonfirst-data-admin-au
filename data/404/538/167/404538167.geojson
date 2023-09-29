@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02803,
-    "geom:area_square_m":275502069.325461,
+    "geom:area_square_m":275502069.325524,
     "geom:bbox":"145.021813312,-37.472599343,145.265835808,-37.262853003",
     "geom:latitude":-37.355995,
     "geom:longitude":145.151086,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.353669,
     "lbl:longitude":145.152907,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Clonbinane"
@@ -38,9 +44,12 @@
         102048437
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20302"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"690ce5f0b552413f8e21a0914e65d872",
+    "wof:geomhash":"e9d3c3482cdc6efa8627d137c25ac6d2",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404538167,
-    "wof:lastmodified":1566602429,
+    "wof:lastmodified":1695877374,
     "wof:name":"Clonbinane",
     "wof:parent_id":102048437,
     "wof:placetype":"localadmin",

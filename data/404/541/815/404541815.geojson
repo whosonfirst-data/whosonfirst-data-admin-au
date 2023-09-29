@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002054,
-    "geom:area_square_m":23028974.409355,
+    "geom:area_square_m":23028974.409371,
     "geom:bbox":"152.436434016,-25.0107122045,152.50578192,-24.9304499915",
     "geom:latitude":-24.969934,
     "geom:longitude":152.472312,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-24.960733,
     "lbl:longitude":152.472808,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Coonarr"
@@ -38,9 +44,12 @@
         102048763
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30415"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"0420d0bd7907e3b1d688ad0152dc1aca",
+    "wof:geomhash":"2b1a4a19c79090cde49905881886a63c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404541815,
-    "wof:lastmodified":1566603082,
+    "wof:lastmodified":1695877761,
     "wof:name":"Coonarr",
     "wof:parent_id":102048763,
     "wof:placetype":"localadmin",

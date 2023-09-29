@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002404,
-    "geom:area_square_m":23823676.953979,
+    "geom:area_square_m":23823687.226155,
     "geom:bbox":"142.168729,-36.741016,142.223774,-36.696786",
     "geom:latitude":-36.718924,
     "geom:longitude":142.196228,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.718919,
     "lbl:longitude":142.196233,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0647\u0648\u0631\u0634\u0645"
@@ -119,12 +125,15 @@
         102048541
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20638"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101933059
     ],
     "wof:country":"AU",
-    "wof:geomhash":"851fa50d8bef01773070a39e428f3dc2",
+    "wof:geomhash":"7c597e7e021db8fa1456aef73d45f2c7",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -136,7 +145,7 @@
         }
     ],
     "wof:id":404538915,
-    "wof:lastmodified":1636494639,
+    "wof:lastmodified":1695877860,
     "wof:name":"Horsham",
     "wof:parent_id":102048541,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.193583,
-    "geom:area_square_m":2056993416.367533,
+    "geom:area_square_m":2056993416.36718,
     "geom:bbox":"117.583751168,-30.9751947885,118.142002784,-30.500432193",
     "geom:latitude":-30.757553,
     "geom:longitude":117.835422,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-30.779307,
     "lbl:longitude":117.830008,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bencubbin"
@@ -38,9 +44,12 @@
         102048803
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50059"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"5ca42bfd24272561d336293b06b7542a",
+    "wof:geomhash":"723c02b39888fa143a3726aacfe24478",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404546819,
-    "wof:lastmodified":1566603113,
+    "wof:lastmodified":1695877775,
     "wof:name":"Bencubbin",
     "wof:parent_id":102048803,
     "wof:placetype":"localadmin",

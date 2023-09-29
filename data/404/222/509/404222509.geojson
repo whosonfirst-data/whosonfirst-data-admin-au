@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000283,
-    "geom:area_square_m":2859375.361325,
+    "geom:area_square_m":2859375.361322,
     "geom:bbox":"147.378876608,-35.083739261,147.402550176,-35.066012265",
     "geom:latitude":-35.074819,
     "geom:longitude":147.391983,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.074332,
     "lbl:longitude":147.392944,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Cartwrights Hill"
@@ -38,12 +44,15 @@
         102049075
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10482"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101929849
     ],
     "wof:country":"AU",
-    "wof:geomhash":"586e484b2287f30d0b9028d7bf70cf88",
+    "wof:geomhash":"723b9671686d822f447a1f55797d9861",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404222509,
-    "wof:lastmodified":1566602788,
+    "wof:lastmodified":1695877585,
     "wof:name":"Cartwrights Hill",
     "wof:parent_id":102049075,
     "wof:placetype":"localadmin",

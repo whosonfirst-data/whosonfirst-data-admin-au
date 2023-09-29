@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.760874,
-    "geom:area_square_m":8261282259.361215,
+    "geom:area_square_m":8261282259.361035,
     "geom:bbox":"147.241668992,-28.9991489975,148.731156,-28.020809964",
     "geom:latitude":-28.58789,
     "geom:longitude":148.042343,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.638223,
     "lbl:longitude":148.031432,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Dirranbandi"
@@ -38,9 +44,12 @@
         102049509
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30499"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"133f061646abf589d4db0e83c690eb68",
+    "wof:geomhash":"652fc035bfd31780e33d78e548ac32f3",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404541987,
-    "wof:lastmodified":1566603095,
+    "wof:lastmodified":1695877768,
     "wof:name":"Dirranbandi",
     "wof:parent_id":102049509,
     "wof:placetype":"localadmin",

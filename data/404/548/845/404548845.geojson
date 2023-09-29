@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011646,
-    "geom:area_square_m":105032729.749641,
+    "geom:area_square_m":105032729.749435,
     "geom:bbox":"147.275981056,-43.280741646,147.433270656,-43.063523082",
     "geom:latitude":-43.166048,
     "geom:longitude":147.36429,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-43.154736,
     "lbl:longitude":147.370876,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Dennes Point"
@@ -38,9 +44,12 @@
         102048889
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60078"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"506f057e48e98a8a5be497b5bd0e331a",
+    "wof:geomhash":"2fc5ad59d7a4f930b7b648223beea11b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404548845,
-    "wof:lastmodified":1566603169,
+    "wof:lastmodified":1695877799,
     "wof:name":"Dennes Point",
     "wof:parent_id":102048889,
     "wof:placetype":"localadmin",

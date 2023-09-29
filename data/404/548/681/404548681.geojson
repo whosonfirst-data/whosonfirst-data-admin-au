@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027767,
-    "geom:area_square_m":249473852.472953,
+    "geom:area_square_m":249473852.473048,
     "geom:bbox":"147.091735456,-43.529620777,147.3824856,-43.240855498",
     "geom:latitude":-43.398247,
     "geom:longitude":147.264319,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-43.40161,
     "lbl:longitude":147.291444,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Adventure Bay"
@@ -44,9 +50,12 @@
         102048889
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60005"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"8dda3b2dafdbef927d01dcf3433ad5dd",
+    "wof:geomhash":"5a67684d822ec5706b028d1bb5697d3b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404548681,
-    "wof:lastmodified":1566603166,
+    "wof:lastmodified":1695877797,
     "wof:name":"Adventure Bay",
     "wof:parent_id":102048889,
     "wof:placetype":"localadmin",

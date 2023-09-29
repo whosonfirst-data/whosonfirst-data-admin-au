@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02059,
-    "geom:area_square_m":206065439.351711,
+    "geom:area_square_m":206065439.351869,
     "geom:bbox":"146.653755136,-36.068261235,146.837071008,-35.872276009",
     "geom:latitude":-35.967159,
     "geom:longitude":146.754079,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.975711,
     "lbl:longitude":146.761786,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bungowannah"
@@ -38,9 +44,12 @@
         102049625
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10388"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"2de2dc0424a73aca5e9b85384cfccf60",
+    "wof:geomhash":"6f1baca415bc25bdab33104305924441",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404222297,
-    "wof:lastmodified":1566602807,
+    "wof:lastmodified":1695877596,
     "wof:name":"Bungowannah",
     "wof:parent_id":102049625,
     "wof:placetype":"localadmin",

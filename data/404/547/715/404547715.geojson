@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000627,
-    "geom:area_square_m":6584635.692017,
+    "geom:area_square_m":6584635.692014,
     "geom:bbox":"115.87734096,-31.868544008,115.917523904,-31.8451420075",
     "geom:latitude":-31.858593,
     "geom:longitude":115.894227,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.859024,
     "lbl:longitude":115.889824,
     "lbl:max_zoom":18.0,
@@ -45,13 +51,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC50459",
         "wd:id":"Q6740964"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937449
     ],
     "wof:country":"AU",
-    "wof:geomhash":"6b6b627a2d9eb3e12b7219b94c9f9c2d",
+    "wof:geomhash":"baba125dee0a5614a2f4b83df38e0714",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -63,7 +71,7 @@
         }
     ],
     "wof:id":404547715,
-    "wof:lastmodified":1566602945,
+    "wof:lastmodified":1695878018,
     "wof:name":"Malaga",
     "wof:parent_id":102049575,
     "wof:placetype":"localadmin",

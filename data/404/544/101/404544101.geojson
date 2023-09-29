@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00125,
-    "geom:area_square_m":14732199.442822,
+    "geom:area_square_m":14732199.442829,
     "geom:bbox":"146.028344608,-17.5568688795,146.079406304,-17.5096029335",
     "geom:latitude":-17.537898,
     "geom:longitude":146.055443,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-17.535406,
     "lbl:longitude":146.06008,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "South Innisfail"
@@ -38,12 +44,15 @@
         102049237
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31496"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935327
     ],
     "wof:country":"AU",
-    "wof:geomhash":"65a5e46b711df922f43a18971433dc91",
+    "wof:geomhash":"8e2c3cceb233ae2bc6eac1baa762fc1b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404544101,
-    "wof:lastmodified":1566602184,
+    "wof:lastmodified":1695877235,
     "wof:name":"South Innisfail",
     "wof:parent_id":102049237,
     "wof:placetype":"localadmin",

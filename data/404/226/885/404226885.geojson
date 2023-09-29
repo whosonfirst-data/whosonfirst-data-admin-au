@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.432283,
-    "geom:area_square_m":4575812226.63314,
+    "geom:area_square_m":4575812226.630473,
     "geom:bbox":"147.0995968,-31.843500003,147.984506016,-30.4286380035",
     "geom:latitude":-31.122383,
     "geom:longitude":147.518732,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.02975,
     "lbl:longitude":147.525254,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Warren"
@@ -44,9 +50,12 @@
         102048959
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12427"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"5870397d719da1f46820ef2017b29df3",
+    "wof:geomhash":"eb1ce6264556cc2838a001ccb0cc867a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404226885,
-    "wof:lastmodified":1566602068,
+    "wof:lastmodified":1695877173,
     "wof:name":"Warren",
     "wof:parent_id":102048959,
     "wof:placetype":"localadmin",

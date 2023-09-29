@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000046,
-    "geom:area_square_m":504855.959808,
+    "geom:area_square_m":504855.959809,
     "geom:bbox":"153.141954112,-26.800308983,153.150712928,-26.792340034",
     "geom:latitude":-26.796536,
     "geom:longitude":153.145847,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-26.796483,
     "lbl:longitude":153.145493,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Shelly Beach"
@@ -51,12 +57,15 @@
         102049303
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31474"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935295
     ],
     "wof:country":"AU",
-    "wof:geomhash":"232195c9fe2953ecd14e80ecc312a471",
+    "wof:geomhash":"9654fdc69369406f9002f5771c95e6da",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -69,7 +78,7 @@
         }
     ],
     "wof:id":404544053,
-    "wof:lastmodified":1566602163,
+    "wof:lastmodified":1695877224,
     "wof:name":"Shelly Beach",
     "wof:parent_id":102049303,
     "wof:placetype":"localadmin",

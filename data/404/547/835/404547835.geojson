@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017939,
-    "geom:area_square_m":184352699.625335,
+    "geom:area_square_m":184352699.625372,
     "geom:bbox":"121.664037984,-33.8550590045,121.887152256,-33.7280859935",
     "geom:latitude":-33.789291,
     "geom:longitude":121.769066,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.789287,
     "lbl:longitude":121.7712,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Monjingup"
@@ -38,9 +44,12 @@
         102049141
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50512"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"1ab30dc8921f47659037ddfa3c37b9e7",
+    "wof:geomhash":"8e3408563301b78cf4486383976842e5",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404547835,
-    "wof:lastmodified":1566602936,
+    "wof:lastmodified":1695877680,
     "wof:name":"Monjingup",
     "wof:parent_id":102049141,
     "wof:placetype":"localadmin",

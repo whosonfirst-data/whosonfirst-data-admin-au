@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.048217,
-    "geom:area_square_m":510360098.946268,
+    "geom:area_square_m":510360098.946363,
     "geom:bbox":"151.073370976,-31.297721994,151.382836704,-30.9558900015",
     "geom:latitude":-31.128724,
     "geom:longitude":151.230685,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.121626,
     "lbl:longitude":151.217685,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Limbri"
@@ -38,9 +44,12 @@
         102048785
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11371"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"068a3173244fbd789eae67da56ace047",
+    "wof:geomhash":"5897d4036fda505280e78398c73f839b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404224509,
-    "wof:lastmodified":1566602617,
+    "wof:lastmodified":1695877485,
     "wof:name":"Limbri",
     "wof:parent_id":102048785,
     "wof:placetype":"localadmin",

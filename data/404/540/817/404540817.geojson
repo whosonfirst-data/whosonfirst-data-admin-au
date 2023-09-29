@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002373,
-    "geom:area_square_m":23206096.766014,
+    "geom:area_square_m":23206096.766009,
     "geom:bbox":"145.234720608,-37.768536998,145.296967808,-37.7024431025",
     "geom:latitude":-37.735657,
     "geom:longitude":145.269798,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.734641,
     "lbl:longitude":145.269316,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Wonga Park"
@@ -39,9 +45,12 @@
         102049583
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21490"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"35bae516d12febd6cb790cf9267e84e1",
+    "wof:geomhash":"7ce0479a37cda031892b16a412cff94f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":404540817,
-    "wof:lastmodified":1566602993,
+    "wof:lastmodified":1695877715,
     "wof:name":"Wonga Park",
     "wof:parent_id":102049583,
     "wof:placetype":"localadmin",

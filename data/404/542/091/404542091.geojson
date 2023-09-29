@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001697,
-    "geom:area_square_m":20062951.366428,
+    "geom:area_square_m":20062951.366451,
     "geom:bbox":"145.699367712,-17.038658997,145.77536016,-16.9872290155",
     "geom:latitude":-17.017442,
     "geom:longitude":145.740743,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-17.025702,
     "lbl:longitude":145.738149,
     "lbl:max_zoom":18.0,
@@ -315,13 +321,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC30551",
         "wd:id":"Q5338982"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934371
     ],
     "wof:country":"AU",
-    "wof:geomhash":"61d3f8660d293d112ea9d5cf40df48da",
+    "wof:geomhash":"34bf147e8462207639056f08b0e75983",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -333,7 +341,7 @@
         }
     ],
     "wof:id":404542091,
-    "wof:lastmodified":1566602274,
+    "wof:lastmodified":1695877939,
     "wof:name":"Edmonton",
     "wof:parent_id":102048911,
     "wof:placetype":"localadmin",

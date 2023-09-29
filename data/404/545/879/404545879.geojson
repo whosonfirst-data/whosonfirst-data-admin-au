@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000848,
-    "geom:area_square_m":8787007.867907,
+    "geom:area_square_m":8787007.867908,
     "geom:bbox":"137.523620992,-33.0755849995,137.566950464,-33.039857337",
     "geom:latitude":-33.057545,
     "geom:longitude":137.545929,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.061308,
     "lbl:longitude":137.543814,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mullaquana"
@@ -38,12 +44,15 @@
         102048703
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40467"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101936315
     ],
     "wof:country":"AU",
-    "wof:geomhash":"52bef111d557f2cae125ba5e5601fd78",
+    "wof:geomhash":"e7de12e974d3e56ff54f18e5b4efa34c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404545879,
-    "wof:lastmodified":1566602240,
+    "wof:lastmodified":1695877261,
     "wof:name":"Mullaquana",
     "wof:parent_id":102048703,
     "wof:placetype":"localadmin",

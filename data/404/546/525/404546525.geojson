@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000081,
-    "geom:area_square_m":825306.078215,
+    "geom:area_square_m":825306.078219,
     "geom:bbox":"137.395268352,-34.9989032005,137.408269728,-34.986836668",
     "geom:latitude":-34.992801,
     "geom:longitude":137.401976,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.992129,
     "lbl:longitude":137.401336,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Warooka"
@@ -38,12 +44,15 @@
         102049327
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40771"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101936731
     ],
     "wof:country":"AU",
-    "wof:geomhash":"14ac625d432c26ed13621f021332a4de",
+    "wof:geomhash":"6b0da33001848786c48762f79917992a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404546525,
-    "wof:lastmodified":1566603151,
+    "wof:lastmodified":1695877790,
     "wof:name":"Warooka",
     "wof:parent_id":102049327,
     "wof:placetype":"localadmin",

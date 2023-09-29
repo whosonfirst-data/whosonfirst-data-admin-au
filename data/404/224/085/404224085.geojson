@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002975,
-    "geom:area_square_m":32265488.19961,
+    "geom:area_square_m":32265488.19973,
     "geom:bbox":"153.147448,-28.7576879965,153.224852992,-28.6618979935",
     "geom:latitude":-28.701823,
     "geom:longitude":153.183903,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.689824,
     "lbl:longitude":153.180112,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Jiggi"
@@ -38,9 +44,12 @@
         102049635
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11182"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"e093143759352e3c6cdf2e967cfe8bf0",
+    "wof:geomhash":"c215f0351259feb1ed74380c52a60b0d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404224085,
-    "wof:lastmodified":1566602588,
+    "wof:lastmodified":1695877467,
     "wof:name":"Jiggi",
     "wof:parent_id":102049635,
     "wof:placetype":"localadmin",

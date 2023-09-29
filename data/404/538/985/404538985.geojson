@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013241,
-    "geom:area_square_m":128301712.093204,
+    "geom:area_square_m":128301712.093202,
     "geom:bbox":"143.079619008,-38.461727151,143.299954112,-38.354620994",
     "geom:latitude":-38.408102,
     "geom:longitude":143.195717,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.409515,
     "lbl:longitude":143.232397,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Jancourt East"
@@ -38,9 +44,12 @@
         102049319
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20670"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"b74765806bd1b2a9a1850e1bccd4cd8c",
+    "wof:geomhash":"8d84a9b19a5ca49f2cc14b84d778e233",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404538985,
-    "wof:lastmodified":1566602453,
+    "wof:lastmodified":1695877387,
     "wof:name":"Jancourt East",
     "wof:parent_id":102049319,
     "wof:placetype":"localadmin",

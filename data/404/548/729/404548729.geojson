@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001492,
-    "geom:area_square_m":13450311.166323,
+    "geom:area_square_m":13450311.166354,
     "geom:bbox":"147.193932992,-43.2124690795,147.259561408,-43.1710270075",
     "geom:latitude":-43.190948,
     "geom:longitude":147.230248,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-43.190615,
     "lbl:longitude":147.230246,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Birchs Bay"
@@ -38,9 +44,12 @@
         102048889
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60027"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"05870f584dccd6dd6d79ff47225e18f2",
+    "wof:geomhash":"d3a141030da63313dc4043e3f916c4fb",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404548729,
-    "wof:lastmodified":1566603239,
+    "wof:lastmodified":1695877838,
     "wof:name":"Birchs Bay",
     "wof:parent_id":102048889,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016274,
-    "geom:area_square_m":151167065.12202,
+    "geom:area_square_m":151167065.122186,
     "geom:bbox":"146.433862016,-41.3716401585,146.660478432,-41.241864194",
     "geom:latitude":-41.304917,
     "geom:longitude":146.536523,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-41.301573,
     "lbl:longitude":146.519442,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Sassafras"
@@ -125,9 +131,12 @@
         102048629
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60323"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"834e25b772134ced6f6462ec0124558a",
+    "wof:geomhash":"8242bb254e1af10d8413c02137366c70",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -139,7 +148,7 @@
         }
     ],
     "wof:id":404549395,
-    "wof:lastmodified":1566602864,
+    "wof:lastmodified":1695877636,
     "wof:name":"Sassafras",
     "wof:parent_id":102048629,
     "wof:placetype":"localadmin",

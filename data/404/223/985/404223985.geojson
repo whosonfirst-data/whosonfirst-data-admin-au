@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015588,
-    "geom:area_square_m":156028099.627662,
+    "geom:area_square_m":156028099.627521,
     "geom:bbox":"146.517634976,-36.0408680075,146.710872736,-35.8790285645",
     "geom:latitude":-35.955867,
     "geom:longitude":146.624979,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.934356,
     "lbl:longitude":146.618401,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Howlong"
@@ -53,9 +59,12 @@
         102048635
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11138"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"eed484479f4775bfd210d52bad30ba35",
+    "wof:geomhash":"1d6f9553f915df013ed73b5a4d633648",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -67,7 +76,7 @@
         }
     ],
     "wof:id":404223985,
-    "wof:lastmodified":1566602527,
+    "wof:lastmodified":1695877429,
     "wof:name":"Howlong",
     "wof:parent_id":102048635,
     "wof:placetype":"localadmin",

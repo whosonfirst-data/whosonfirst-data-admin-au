@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.036731,
-    "geom:area_square_m":400242331.935427,
+    "geom:area_square_m":400242331.935806,
     "geom:bbox":"152.458205472,-28.33898806,152.750250368,-28.1064159945",
     "geom:latitude":-28.209323,
     "geom:longitude":152.608665,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.206419,
     "lbl:longitude":152.608654,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Croftby"
@@ -38,9 +44,12 @@
         102048945
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30448"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"96b5916b09c2564ad3d016dd48d7cc2e",
+    "wof:geomhash":"9d1722ad13b87dc5b5ac42797e186b5c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404541881,
-    "wof:lastmodified":1566603056,
+    "wof:lastmodified":1695877748,
     "wof:name":"Croftby",
     "wof:parent_id":102048945,
     "wof:placetype":"localadmin",

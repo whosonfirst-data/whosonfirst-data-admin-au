@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033978,
-    "geom:area_square_m":359027691.031391,
+    "geom:area_square_m":359027691.031546,
     "geom:bbox":"151.072751168,-31.442567966,151.394061984,-31.130099007",
     "geom:latitude":-31.293065,
     "geom:longitude":151.230442,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.290567,
     "lbl:longitude":151.23306,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Dungowan"
@@ -38,9 +44,12 @@
         102048785
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10752"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"eea6b38961bd7af32e6789b0592fb2b5",
+    "wof:geomhash":"c5e0560370bd75d63f76cbe5937d9422",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404223117,
-    "wof:lastmodified":1566602530,
+    "wof:lastmodified":1695877431,
     "wof:name":"Dungowan",
     "wof:parent_id":102048785,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000136,
-    "geom:area_square_m":1439787.489705,
+    "geom:area_square_m":1439766.606466,
     "geom:bbox":"152.943349,-31.034222,152.9589,-31.015914",
     "geom:latitude":-31.026603,
     "geom:longitude":152.950197,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.027626,
     "lbl:longitude":152.949432,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Gladstone"
@@ -44,12 +50,15 @@
         102048527
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10952"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101930399
     ],
     "wof:country":"AU",
-    "wof:geomhash":"b62c09ca1bc1e5eb8983bec6cdf28137",
+    "wof:geomhash":"804ff7982136aad16308723e6f28ba21",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":404223567,
-    "wof:lastmodified":1636494642,
+    "wof:lastmodified":1695877861,
     "wof:name":"Gladstone",
     "wof:parent_id":102048527,
     "wof:placetype":"localadmin",

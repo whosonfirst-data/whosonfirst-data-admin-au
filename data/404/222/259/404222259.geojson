@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.081282,
-    "geom:area_square_m":860384669.104517,
+    "geom:area_square_m":860384669.103352,
     "geom:bbox":"148.834002496,-31.305434089,149.258212,-30.9176086545",
     "geom:latitude":-31.12424,
     "geom:longitude":149.03951,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.149062,
     "lbl:longitude":149.039609,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bugaldie"
@@ -38,9 +44,12 @@
         102049559
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10371"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"4459b4045d16d6c01847e46895929ed3",
+    "wof:geomhash":"e3f4c6e991f221be8bc02fde75c7c5e0",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404222259,
-    "wof:lastmodified":1566602764,
+    "wof:lastmodified":1695877569,
     "wof:name":"Bugaldie",
     "wof:parent_id":102049559,
     "wof:placetype":"localadmin",

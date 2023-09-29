@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000647,
-    "geom:area_square_m":6269688.253324,
+    "geom:area_square_m":6269688.253325,
     "geom:bbox":"144.750855968,-38.3895540075,144.788654528,-38.353493567",
     "geom:latitude":-38.368731,
     "geom:longitude":144.772272,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.369235,
     "lbl:longitude":144.775419,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Blairgowrie"
@@ -56,12 +62,15 @@
         102048695
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20146"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932619
     ],
     "wof:country":"AU",
-    "wof:geomhash":"59419107cf2a561dfb00c4196f6a25dd",
+    "wof:geomhash":"1cc9260a32c204bb1be536902238e98f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -73,7 +82,7 @@
         }
     ],
     "wof:id":404537817,
-    "wof:lastmodified":1566602325,
+    "wof:lastmodified":1695877309,
     "wof:name":"Blairgowrie",
     "wof:parent_id":102048695,
     "wof:placetype":"localadmin",

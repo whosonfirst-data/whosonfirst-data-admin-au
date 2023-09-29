@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.222523,
-    "geom:area_square_m":2305762720.235517,
+    "geom:area_square_m":2305762720.235106,
     "geom:bbox":"116.389085,-33.343376,117.029771,-32.760961",
     "geom:latitude":-33.07141,
     "geom:longitude":116.728101,
@@ -156,19 +156,24 @@
     "statoids:type":"shire",
     "wof:belongsto":[
         102191583,
+        85681439,
         85632793,
-        136253039,
-        85681439
+        136253039
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"59170",
         "hasc:id":"AU.WA.WS"
     },
+    "wof:concordances_official":"ausstat:area_code",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:coterminous":[
         404548575
     ],
     "wof:country":"AU",
-    "wof:geomhash":"393c852b6d0dc9e617add2903493a861",
+    "wof:geomhash":"64adfb6308f9f7a257933a4731c6a002",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -179,7 +184,7 @@
         }
     ],
     "wof:id":102049145,
-    "wof:lastmodified":1608001933,
+    "wof:lastmodified":1695886414,
     "wof:name":"Williams",
     "wof:parent_id":85681439,
     "wof:placetype":"county",

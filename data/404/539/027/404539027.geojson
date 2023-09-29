@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012234,
-    "geom:area_square_m":121995429.892912,
+    "geom:area_square_m":121995429.892889,
     "geom:bbox":"145.495012,-36.299074709,145.631604224,-36.199148957",
     "geom:latitude":-36.248229,
     "geom:longitude":145.569555,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.249115,
     "lbl:longitude":145.570474,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Katandra West"
@@ -39,9 +45,12 @@
         102049473
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20689"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"243ec8ccded3c51016fb165cb867b53f",
+    "wof:geomhash":"51cecb54ebdab1faaefd7c4e10f8f564",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":404539027,
-    "wof:lastmodified":1566602395,
+    "wof:lastmodified":1695877353,
     "wof:name":"Katandra West",
     "wof:parent_id":102049473,
     "wof:placetype":"localadmin",

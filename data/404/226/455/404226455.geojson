@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029329,
-    "geom:area_square_m":299062607.975876,
+    "geom:area_square_m":299062607.975945,
     "geom:bbox":"147.412904,-34.5447809995,147.633540992,-34.347433008",
     "geom:latitude":-34.447872,
     "geom:longitude":147.512494,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.448315,
     "lbl:longitude":147.510375,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Temora"
@@ -38,9 +44,12 @@
         102048529
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12236"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"fd594a2be6eb844c46ab97aa92ae0527",
+    "wof:geomhash":"645fe2d5a32ee34da6224233f7aad40b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404226455,
-    "wof:lastmodified":1566602035,
+    "wof:lastmodified":1695877152,
     "wof:name":"Temora",
     "wof:parent_id":102048529,
     "wof:placetype":"localadmin",

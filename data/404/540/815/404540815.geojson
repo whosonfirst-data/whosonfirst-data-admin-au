@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015302,
-    "geom:area_square_m":148158152.962435,
+    "geom:area_square_m":148158152.962446,
     "geom:bbox":"146.645618048,-38.5312419925,146.821503968,-38.3972490085",
     "geom:latitude":-38.462633,
     "geom:longitude":146.739498,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.469739,
     "lbl:longitude":146.749924,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Won Wron"
@@ -38,9 +44,12 @@
         102049585
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21489"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"5ee6a6a3da2783cf2210353caacbb0c0",
+    "wof:geomhash":"28d97e3932aab409237c63eb878c4b8d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404540815,
-    "wof:lastmodified":1566603022,
+    "wof:lastmodified":1695877731,
     "wof:name":"Won Wron",
     "wof:parent_id":102049585,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000394,
-    "geom:area_square_m":4074093.602353,
+    "geom:area_square_m":4074093.602354,
     "geom:bbox":"115.641331744,-33.3647680085,115.666431968,-33.3436040085",
     "geom:latitude":-33.354801,
     "geom:longitude":115.653057,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.354925,
     "lbl:longitude":115.651805,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Carey Park"
@@ -42,12 +48,15 @@
         102048605
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50135"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101936981
     ],
     "wof:country":"AU",
-    "wof:geomhash":"313c09d116f97f480c6c819f1aa24e91",
+    "wof:geomhash":"87da769380dd4712c5df9973ad31c7b4",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -60,7 +69,7 @@
         }
     ],
     "wof:id":404546991,
-    "wof:lastmodified":1566603104,
+    "wof:lastmodified":1695877771,
     "wof:name":"Carey Park",
     "wof:parent_id":102048605,
     "wof:placetype":"localadmin",

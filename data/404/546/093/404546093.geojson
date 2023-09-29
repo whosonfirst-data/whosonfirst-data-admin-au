@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.906627,
-    "geom:area_square_m":20079805083.168671,
+    "geom:area_square_m":20079805083.169498,
     "geom:bbox":"129.001340096,-32.2087833355,134.290517408,-31.266858481",
     "geom:latitude":-31.601097,
     "geom:longitude":131.890759,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.635998,
     "lbl:longitude":132.151969,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Penong"
@@ -37,9 +43,12 @@
         85681519
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40568"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"dde5a5fd1837f47692a6370c27efe2a8",
+    "wof:geomhash":"a146cd483a34b432d34568953b3d1f0e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":404546093,
-    "wof:lastmodified":1566603147,
+    "wof:lastmodified":1695877788,
     "wof:name":"Penong",
     "wof:parent_id":85681519,
     "wof:placetype":"localadmin",

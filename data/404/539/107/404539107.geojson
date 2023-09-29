@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014209,
-    "geom:area_square_m":140674842.326301,
+    "geom:area_square_m":140674885.136564,
     "geom:bbox":"144.523918,-36.879205,144.700866,-36.72537",
     "geom:latitude":-36.803747,
     "geom:longitude":144.617074,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.812034,
     "lbl:longitude":144.615786,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0646\u0648\u0633\u0644\u064a"
@@ -77,9 +83,12 @@
         102049661
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20725"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"4213c7623e897f2bbebd7ab42a171c80",
+    "wof:geomhash":"d68d42933eeb0d3ff07e35133d70bb70",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -91,7 +100,7 @@
         }
     ],
     "wof:id":404539107,
-    "wof:lastmodified":1636494635,
+    "wof:lastmodified":1695877858,
     "wof:name":"Knowsley",
     "wof:parent_id":102049661,
     "wof:placetype":"localadmin",

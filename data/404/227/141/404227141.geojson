@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017525,
-    "geom:area_square_m":183167992.829426,
+    "geom:area_square_m":183167992.829447,
     "geom:bbox":"148.691307008,-32.3816734205,148.902256096,-32.211119423",
     "geom:latitude":-32.298941,
     "geom:longitude":148.797536,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.301765,
     "lbl:longitude":148.806259,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Wongarbon"
@@ -47,9 +53,12 @@
         102049599
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12541"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"26dafc3cfa6710f71b07083490748447",
+    "wof:geomhash":"962b7b7fd15a355b511371f0356677ac",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":404227141,
-    "wof:lastmodified":1566601961,
+    "wof:lastmodified":1695877114,
     "wof:name":"Wongarbon",
     "wof:parent_id":102049599,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029962,
-    "geom:area_square_m":339516703.770331,
+    "geom:area_square_m":339516703.770122,
     "geom:bbox":"150.05334,-23.675567001,150.338720992,-23.5134219935",
     "geom:latitude":-23.593171,
     "geom:longitude":150.191791,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-23.593477,
     "lbl:longitude":150.203408,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Westwood"
@@ -113,9 +119,12 @@
         102048825
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31758"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"dcf7542ae137576cdd97af4b6f06c193",
+    "wof:geomhash":"6d1bbab41f54216a194e61b870ecae3e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -127,7 +136,7 @@
         }
     ],
     "wof:id":404544651,
-    "wof:lastmodified":1566602164,
+    "wof:lastmodified":1695877224,
     "wof:name":"Westwood",
     "wof:parent_id":102048825,
     "wof:placetype":"localadmin",

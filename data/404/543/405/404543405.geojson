@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017517,
-    "geom:area_square_m":192056100.673849,
+    "geom:area_square_m":192056100.67375,
     "geom:bbox":"151.472283008,-27.6126420035,151.633996,-27.4515050055",
     "geom:latitude":-27.540053,
     "geom:longitude":151.56095,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.548292,
     "lbl:longitude":151.560943,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mount Tyson"
@@ -38,9 +44,12 @@
         102049357
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31168"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"2d0cd483daced2c94b486368c5f903de",
+    "wof:geomhash":"aff4c57d99466364ff7578724fbc0e49",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404543405,
-    "wof:lastmodified":1566602134,
+    "wof:lastmodified":1695877210,
     "wof:name":"Mount Tyson",
     "wof:parent_id":102049357,
     "wof:placetype":"localadmin",

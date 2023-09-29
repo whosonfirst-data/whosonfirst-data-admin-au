@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000176,
-    "geom:area_square_m":1928662.492506,
+    "geom:area_square_m":1928697.640604,
     "geom:bbox":"152.996267,-27.490082,153.015555,-27.474202",
     "geom:latitude":-27.483396,
     "geom:longitude":153.005987,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.483555,
     "lbl:longitude":153.00613,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "West End"
@@ -102,12 +108,15 @@
         102049495
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31746"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935601
     ],
     "wof:country":"AU",
-    "wof:geomhash":"adc697362119c209fcb375fcb873d3ab",
+    "wof:geomhash":"d97a018bfc6a455e72180e4879973bb5",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -120,7 +129,7 @@
         }
     ],
     "wof:id":404544623,
-    "wof:lastmodified":1636494622,
+    "wof:lastmodified":1695877853,
     "wof:name":"West End",
     "wof:parent_id":102049495,
     "wof:placetype":"localadmin",

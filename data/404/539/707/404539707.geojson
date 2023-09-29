@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00217,
-    "geom:area_square_m":21255027.770369,
+    "geom:area_square_m":21255027.770354,
     "geom:bbox":"143.895836256,-37.634194993,143.982737984,-37.583900005",
     "geom:latitude":-37.612791,
     "geom:longitude":143.934272,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.609163,
     "lbl:longitude":143.924091,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Navigators"
@@ -38,9 +44,12 @@
         102049283
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20992"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"313a424e06f6fc9b32493445bb78990f",
+    "wof:geomhash":"81c9134d9dae41bd7a7f300e2f8c1a0b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404539707,
-    "wof:lastmodified":1566602359,
+    "wof:lastmodified":1695877330,
     "wof:name":"Navigators",
     "wof:parent_id":102049283,
     "wof:placetype":"localadmin",

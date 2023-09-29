@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002389,
-    "geom:area_square_m":24611222.698328,
+    "geom:area_square_m":24611222.698268,
     "geom:bbox":"150.75537952,-33.6047979975,150.83177728,-33.5341940055",
     "geom:latitude":-33.562536,
     "geom:longitude":150.799342,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.560646,
     "lbl:longitude":150.801932,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Freemans Reach"
@@ -38,9 +44,12 @@
         102048745
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10916"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"9696b2c480d8330fe67c0ca659b2ef01",
+    "wof:geomhash":"1304a0c83bb98983cc615332ab098a55",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404223485,
-    "wof:lastmodified":1566602501,
+    "wof:lastmodified":1695877414,
     "wof:name":"Freemans Reach",
     "wof:parent_id":102048745,
     "wof:placetype":"localadmin",

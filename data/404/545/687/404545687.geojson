@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019271,
-    "geom:area_square_m":196235462.926334,
+    "geom:area_square_m":196235462.926558,
     "geom:bbox":"138.29280336,-34.676317757,138.516912992,-34.485852006",
     "geom:latitude":-34.561463,
     "geom:longitude":138.419911,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.546074,
     "lbl:longitude":138.410616,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lower Light"
@@ -38,9 +44,12 @@
         102048587
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40381"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"003867f2184599f3a7a706e11927c2ae",
+    "wof:geomhash":"d75c7994141546b2ac6bf00736a9538d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404545687,
-    "wof:lastmodified":1566602218,
+    "wof:lastmodified":1695877251,
     "wof:name":"Lower Light",
     "wof:parent_id":102048587,
     "wof:placetype":"localadmin",

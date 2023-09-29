@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013669,
-    "geom:area_square_m":146992371.245439,
+    "geom:area_square_m":146992371.24412,
     "geom:bbox":"153.235414656,-29.688646088,153.363207808,-29.4463487205",
     "geom:latitude":-29.576485,
     "geom:longitude":153.307008,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-29.636916,
     "lbl:longitude":153.286754,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Yuraygir"
@@ -38,9 +44,12 @@
         102048835
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12625"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"3fb095a3d6bde3982c3238f904463b30",
+    "wof:geomhash":"bac487410f9a20eb616acbdc8ebe0169",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404227331,
-    "wof:lastmodified":1566601935,
+    "wof:lastmodified":1695877101,
     "wof:name":"Yuraygir",
     "wof:parent_id":102048835,
     "wof:placetype":"localadmin",

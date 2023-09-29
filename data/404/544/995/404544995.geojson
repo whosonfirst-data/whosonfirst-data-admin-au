@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000057,
-    "geom:area_square_m":579483.941704,
+    "geom:area_square_m":579483.941702,
     "geom:bbox":"138.573315968,-34.907876966,138.584238368,-34.8965539855",
     "geom:latitude":-34.902584,
     "geom:longitude":138.579109,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.902649,
     "lbl:longitude":138.579192,
     "lbl:max_zoom":18.0,
@@ -73,13 +79,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC40063",
         "wd:id":"Q4950729"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935805
     ],
     "wof:country":"AU",
-    "wof:geomhash":"e67eaf09786057cdadbd1568ce917941",
+    "wof:geomhash":"8f03880024393ed1303f6ab2baf5154a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -92,7 +100,7 @@
         }
     ],
     "wof:id":404544995,
-    "wof:lastmodified":1566602179,
+    "wof:lastmodified":1695877925,
     "wof:name":"Bowden",
     "wof:parent_id":102049185,
     "wof:placetype":"localadmin",

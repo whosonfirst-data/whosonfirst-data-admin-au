@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001282,
-    "geom:area_square_m":12976747.440162,
+    "geom:area_square_m":12976747.440165,
     "geom:bbox":"138.545764704,-35.0968589985,138.609778688,-35.050234133",
     "geom:latitude":-35.076717,
     "geom:longitude":138.575698,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.077499,
     "lbl:longitude":138.573524,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Happy Valley"
@@ -96,12 +102,15 @@
         102048473
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40273"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101936109
     ],
     "wof:country":"AU",
-    "wof:geomhash":"7fba3516ff9365384faa9bb4f2898b82",
+    "wof:geomhash":"e8049126e8bf15549e8b4226681838fd",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -114,7 +123,7 @@
         }
     ],
     "wof:id":404545457,
-    "wof:lastmodified":1566602248,
+    "wof:lastmodified":1695877264,
     "wof:name":"Happy Valley",
     "wof:parent_id":102048473,
     "wof:placetype":"localadmin",

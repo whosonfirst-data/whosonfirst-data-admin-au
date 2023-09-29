@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000124,
-    "geom:area_square_m":1321528.370676,
+    "geom:area_square_m":1321528.37067,
     "geom:bbox":"138.417030272,-30.558321579,138.431824352,-30.5459270045",
     "geom:latitude":-30.551898,
     "geom:longitude":138.424015,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-30.551859,
     "lbl:longitude":138.424156,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Copley"
@@ -61,12 +67,15 @@
         85681519
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40132"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935887
     ],
     "wof:country":"AU",
-    "wof:geomhash":"989044d3a60b38e8f16b2c19c1d3d163",
+    "wof:geomhash":"a05dcfa87bbbab1e119cdfd27400e9f3",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -77,7 +86,7 @@
         }
     ],
     "wof:id":404545145,
-    "wof:lastmodified":1566602226,
+    "wof:lastmodified":1695877254,
     "wof:name":"Copley",
     "wof:parent_id":85681519,
     "wof:placetype":"localadmin",

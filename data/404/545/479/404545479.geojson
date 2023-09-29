@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000526,
-    "geom:area_square_m":5325503.851426,
+    "geom:area_square_m":5325503.851424,
     "geom:bbox":"138.700204992,-35.038677997,138.738224704,-35.0123525155",
     "geom:latitude":-35.028343,
     "geom:longitude":138.717244,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.028498,
     "lbl:longitude":138.717275,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Heathfield"
@@ -53,12 +59,15 @@
         102049017
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40283"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101936123
     ],
     "wof:country":"AU",
-    "wof:geomhash":"04dc224a7dccf73767bb6d19fc4a486a",
+    "wof:geomhash":"0faf4297a7a0eb0849cfe3753498df8d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -70,7 +79,7 @@
         }
     ],
     "wof:id":404545479,
-    "wof:lastmodified":1566602218,
+    "wof:lastmodified":1695877251,
     "wof:name":"Heathfield",
     "wof:parent_id":102049017,
     "wof:placetype":"localadmin",

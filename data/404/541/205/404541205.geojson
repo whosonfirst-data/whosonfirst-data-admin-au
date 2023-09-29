@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":8.441669,
-    "geom:area_square_m":94877547971.685822,
+    "geom:area_square_m":94877545337.761017,
     "geom:bbox":"137.998246,-25.996867,142.145019,-23.156658",
     "geom:latitude":-24.630901,
     "geom:longitude":139.73257,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-24.83626,
     "lbl:longitude":139.564458,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09ac\u09c7\u09a1\u09cb\u0989\u09b0\u09bf"
@@ -86,9 +92,12 @@
         102048619
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30126"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"c3739c4371ae6906488ac4ed9dcc71fd",
+    "wof:geomhash":"d554719e82fb41e0690c32a563a259e9",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -100,7 +109,7 @@
         }
     ],
     "wof:id":404541205,
-    "wof:lastmodified":1636494674,
+    "wof:lastmodified":1695877882,
     "wof:name":"Bedourie",
     "wof:parent_id":102048619,
     "wof:placetype":"localadmin",

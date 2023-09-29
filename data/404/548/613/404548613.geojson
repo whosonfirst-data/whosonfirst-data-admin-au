@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000685,
-    "geom:area_square_m":7201347.786179,
+    "geom:area_square_m":7201347.786183,
     "geom:bbox":"115.780763904,-31.8030117355,115.81681536,-31.774174287",
     "geom:latitude":-31.789278,
     "geom:longitude":115.79676,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.78937,
     "lbl:longitude":115.795303,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Woodvale"
@@ -48,12 +54,15 @@
         102048433
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50862"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937989
     ],
     "wof:country":"AU",
-    "wof:geomhash":"1d48db99e34bdc5b48d75c263af3c2a0",
+    "wof:geomhash":"6aea87d5146bd3ea55c7fda82407f55d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -66,7 +75,7 @@
         }
     ],
     "wof:id":404548613,
-    "wof:lastmodified":1566603204,
+    "wof:lastmodified":1695877818,
     "wof:name":"Woodvale",
     "wof:parent_id":102048433,
     "wof:placetype":"localadmin",

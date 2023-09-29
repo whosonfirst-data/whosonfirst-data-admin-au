@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000291,
-    "geom:area_square_m":2994362.20007,
+    "geom:area_square_m":2994362.200075,
     "geom:bbox":"150.63283376,-33.681704995,150.657555968,-33.658668462",
     "geom:latitude":-33.667166,
     "geom:longitude":150.643353,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.665686,
     "lbl:longitude":150.643546,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Hawkesbury Heights"
@@ -38,12 +44,15 @@
         102049627
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11085"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101930657
     ],
     "wof:country":"AU",
-    "wof:geomhash":"8a023a9d9fd00547d92b5656b1bf754e",
+    "wof:geomhash":"927101e5e1dc2c1bdb77fc5fc74d0eca",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404223865,
-    "wof:lastmodified":1566602554,
+    "wof:lastmodified":1695877449,
     "wof:name":"Hawkesbury Heights",
     "wof:parent_id":102049627,
     "wof:placetype":"localadmin",

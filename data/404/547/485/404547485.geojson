@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000146,
-    "geom:area_square_m":1529735.406929,
+    "geom:area_square_m":1529735.406927,
     "geom:bbox":"116.036382432,-31.873741398,116.058845056,-31.856074268",
     "geom:latitude":-31.863676,
     "geom:longitude":116.050391,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.860428,
     "lbl:longitude":116.049627,
     "lbl:max_zoom":18.0,
@@ -42,13 +48,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC50357",
         "wd:id":"Q6151199"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937315
     ],
     "wof:country":"AU",
-    "wof:geomhash":"4db441621eee4350128edca0d83b51eb",
+    "wof:geomhash":"f23b337624f4915799b2c2a8d6b5357f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -60,7 +68,7 @@
         }
     ],
     "wof:id":404547485,
-    "wof:lastmodified":1566602927,
+    "wof:lastmodified":1695878016,
     "wof:name":"Jane Brook",
     "wof:parent_id":102049575,
     "wof:placetype":"localadmin",

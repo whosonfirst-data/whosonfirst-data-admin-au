@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000239,
-    "geom:area_square_m":2451606.969825,
+    "geom:area_square_m":2451629.102673,
     "geom:bbox":"151.106272,-33.891543,151.127527,-33.869725",
     "geom:latitude":-33.880397,
     "geom:longitude":151.115519,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.878637,
     "lbl:longitude":151.116251,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0631\u0648\u064a\u062f\u0648\u0646"
@@ -120,12 +126,15 @@
         102049193
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10650"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101930025
     ],
     "wof:country":"AU",
-    "wof:geomhash":"908e7587db881793dd7a8e0318de5e71",
+    "wof:geomhash":"d667cb57b2fa1b844ef1b09f19005887",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -138,7 +147,7 @@
         }
     ],
     "wof:id":404222887,
-    "wof:lastmodified":1636494655,
+    "wof:lastmodified":1695877869,
     "wof:name":"Croydon",
     "wof:parent_id":102049193,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.108597,
-    "geom:area_square_m":1134635587.738567,
+    "geom:area_square_m":1134635587.738625,
     "geom:bbox":"117.760556,-32.5674180455,118.20840912,-32.149623129",
     "geom:latitude":-32.331781,
     "geom:longitude":117.976364,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.325568,
     "lbl:longitude":117.972874,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Corrigin"
@@ -38,9 +44,12 @@
         102048509
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50182"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"f561f92d1c241a9fd9944e12d15d9399",
+    "wof:geomhash":"a01a0665b06400a643b8ceb71760603f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404547095,
-    "wof:lastmodified":1566602965,
+    "wof:lastmodified":1695877698,
     "wof:name":"Corrigin",
     "wof:parent_id":102048509,
     "wof:placetype":"localadmin",

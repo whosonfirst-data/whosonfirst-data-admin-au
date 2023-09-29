@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000148,
-    "geom:area_square_m":1714935.65413,
+    "geom:area_square_m":1714935.654123,
     "geom:bbox":"139.48576992,-20.7166703595,139.494888,-20.6950480035",
     "geom:latitude":-20.705327,
     "geom:longitude":139.489881,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-20.705276,
     "lbl:longitude":139.489968,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Soldiers Hill"
@@ -44,12 +50,15 @@
         102049087
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31489"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935317
     ],
     "wof:country":"AU",
-    "wof:geomhash":"a71b2e6988dadcd777c547da9e9ed7ae",
+    "wof:geomhash":"f98a1c51554a07d810031f8f927668e1",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":404544085,
-    "wof:lastmodified":1566602160,
+    "wof:lastmodified":1695877221,
     "wof:name":"Soldiers Hill",
     "wof:parent_id":102049087,
     "wof:placetype":"localadmin",

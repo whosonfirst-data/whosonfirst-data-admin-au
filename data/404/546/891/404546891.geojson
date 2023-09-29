@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001125,
-    "geom:area_square_m":11948896.035942,
+    "geom:area_square_m":11948896.035923,
     "geom:bbox":"121.424025952,-30.803241784,121.491240128,-30.773374052",
     "geom:latitude":-30.790288,
     "geom:longitude":121.45492,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-30.789549,
     "lbl:longitude":121.451604,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Broadwood"
@@ -41,12 +47,15 @@
         102049523
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50091"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101936937
     ],
     "wof:country":"AU",
-    "wof:geomhash":"84317321f4b64358005f912c3e879d83",
+    "wof:geomhash":"59222dc37deb86e0e619009962d9b684",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404546891,
-    "wof:lastmodified":1566603144,
+    "wof:lastmodified":1695877787,
     "wof:name":"Broadwood",
     "wof:parent_id":102049523,
     "wof:placetype":"localadmin",

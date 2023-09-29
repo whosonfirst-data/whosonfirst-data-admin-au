@@ -10,12 +10,18 @@
     "geom:latitude":-34.445501,
     "geom:longitude":150.476761,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.446131,
     "lbl:longitude":150.474326,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Balaklava"
@@ -60,9 +66,12 @@
         102048539
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10080"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"69c5105341d7fef36d08ef9eb335ccf9",
+    "wof:geomhash":"d4712270894069b93441fa3f868c77b0",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -75,7 +84,7 @@
         }
     ],
     "wof:id":404221605,
-    "wof:lastmodified":1566601978,
+    "wof:lastmodified":1695877123,
     "wof:name":"Balaclava",
     "wof:parent_id":102048539,
     "wof:placetype":"localadmin",

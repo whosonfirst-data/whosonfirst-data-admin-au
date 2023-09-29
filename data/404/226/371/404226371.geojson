@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000223,
-    "geom:area_square_m":2302734.829431,
+    "geom:area_square_m":2302734.829432,
     "geom:bbox":"151.446294304,-33.299927007,151.470188992,-33.2758705505",
     "geom:latitude":-33.285349,
     "geom:longitude":151.457773,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.280958,
     "lbl:longitude":151.452658,
     "lbl:max_zoom":18.0,
@@ -84,13 +90,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC12198",
         "wd:id":"Q7673980"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932013
     ],
     "wof:country":"AU",
-    "wof:geomhash":"de080058f804693c65bf2d73713a0d3a",
+    "wof:geomhash":"b0a9c24f77cf1d8ef743795929d0baaf",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -102,7 +110,7 @@
         }
     ],
     "wof:id":404226371,
-    "wof:lastmodified":1566602046,
+    "wof:lastmodified":1695877908,
     "wof:name":"Tacoma",
     "wof:parent_id":102049097,
     "wof:placetype":"localadmin",

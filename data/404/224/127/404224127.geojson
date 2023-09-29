@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000026,
-    "geom:area_square_m":265749.148216,
+    "geom:area_square_m":265749.148214,
     "geom:bbox":"151.091932736,-34.007303922,151.098195968,-33.997624019",
     "geom:latitude":-34.002623,
     "geom:longitude":151.095854,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.005431,
     "lbl:longitude":151.095597,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kangaroo Point"
@@ -45,12 +51,15 @@
         102049511
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11201"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101930837
     ],
     "wof:country":"AU",
-    "wof:geomhash":"9a14d9cd760d92b1eabf31ed18891291",
+    "wof:geomhash":"09b26c8e4815c225aae003556ea2d7fa",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -63,7 +72,7 @@
         }
     ],
     "wof:id":404224127,
-    "wof:lastmodified":1566602605,
+    "wof:lastmodified":1695877479,
     "wof:name":"Kangaroo Point",
     "wof:parent_id":102049511,
     "wof:placetype":"localadmin",

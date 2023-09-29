@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.059251,
-    "geom:area_square_m":608883385.219299,
+    "geom:area_square_m":608883385.219342,
     "geom:bbox":"117.02766,-33.942099007,117.340728864,-33.632958124",
     "geom:latitude":-33.791693,
     "geom:longitude":117.212713,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.80947,
     "lbl:longitude":117.209821,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kojonup"
@@ -38,9 +44,12 @@
         102048683
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50405"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"9619798417921a0b62718c20d893e826",
+    "wof:geomhash":"80f86739e9b8a2b56e98dba687a3a62e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404547593,
-    "wof:lastmodified":1566602919,
+    "wof:lastmodified":1695877672,
     "wof:name":"Kojonup",
     "wof:parent_id":102048683,
     "wof:placetype":"localadmin",

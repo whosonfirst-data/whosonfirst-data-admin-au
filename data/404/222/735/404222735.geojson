@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001011,
-    "geom:area_square_m":10117283.21775,
+    "geom:area_square_m":10117283.217719,
     "geom:bbox":"150.109655008,-35.9722446255,150.160416,-35.9408220055",
     "geom:latitude":-35.956868,
     "geom:longitude":150.134723,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.957068,
     "lbl:longitude":150.135206,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u0646\u063a\u0648"
@@ -212,9 +218,12 @@
         102049609
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10582"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"241c0c358a1bef0430837641123d7b4c",
+    "wof:geomhash":"26c49aec1b92937d71e3154d906985a0",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -226,7 +235,7 @@
         }
     ],
     "wof:id":404222735,
-    "wof:lastmodified":1566602787,
+    "wof:lastmodified":1695877584,
     "wof:name":"Congo",
     "wof:parent_id":102049609,
     "wof:placetype":"localadmin",

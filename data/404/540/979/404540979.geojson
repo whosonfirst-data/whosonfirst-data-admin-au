@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008149,
-    "geom:area_square_m":95095855.630135,
+    "geom:area_square_m":95095855.630099,
     "geom:bbox":"146.583686176,-19.385163995,146.7120216,-19.2547285055",
     "geom:latitude":-19.314906,
     "geom:longitude":146.64438,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-19.34474,
     "lbl:longitude":146.617477,
     "lbl:max_zoom":18.0,
@@ -51,10 +57,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC30022",
         "wd:id":"Q4726066"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"44f660f3f1a518b3d66481d74d4ddf48",
+    "wof:geomhash":"4b1de8de340f932fe09273459da01ba0",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -66,7 +74,7 @@
         }
     ],
     "wof:id":404540979,
-    "wof:lastmodified":1566603005,
+    "wof:lastmodified":1695878026,
     "wof:name":"Alice River",
     "wof:parent_id":102048451,
     "wof:placetype":"localadmin",

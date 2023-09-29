@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004035,
-    "geom:area_square_m":47904470.592991,
+    "geom:area_square_m":47904470.592965,
     "geom:bbox":"145.389270016,-16.2450052045,145.471727392,-16.1514094865",
     "geom:latitude":-16.20951,
     "geom:longitude":145.428001,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-16.213029,
     "lbl:longitude":145.423946,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Cow Bay"
@@ -38,9 +44,12 @@
         102048911
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30438"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"e07bf56f9fe5b350ffe532301f4ae117",
+    "wof:geomhash":"797f9d4b2cde8727f8d0efa88956997a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404541859,
-    "wof:lastmodified":1566603058,
+    "wof:lastmodified":1695877749,
     "wof:name":"Cow Bay",
     "wof:parent_id":102048911,
     "wof:placetype":"localadmin",

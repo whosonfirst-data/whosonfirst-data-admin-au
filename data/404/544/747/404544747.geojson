@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000228,
-    "geom:area_square_m":2552706.081406,
+    "geom:area_square_m":2552706.0814,
     "geom:bbox":"152.545051744,-25.12924398,152.586989568,-25.08861391",
     "geom:latitude":-25.10783,
     "geom:longitude":152.56393,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-25.108956,
     "lbl:longitude":152.564196,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Woodgate"
@@ -53,12 +59,15 @@
         102048763
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31803"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935659
     ],
     "wof:country":"AU",
-    "wof:geomhash":"f1fdbec3abc0c7d584f05d94cfb9c05f",
+    "wof:geomhash":"38495c89f7a4c5bc7f30430a4832c91a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -70,7 +79,7 @@
         }
     ],
     "wof:id":404544747,
-    "wof:lastmodified":1566602173,
+    "wof:lastmodified":1695877230,
     "wof:name":"Woodgate",
     "wof:parent_id":102048763,
     "wof:placetype":"localadmin",

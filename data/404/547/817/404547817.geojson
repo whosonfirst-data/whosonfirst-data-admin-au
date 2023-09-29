@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000458,
-    "geom:area_square_m":4818189.281662,
+    "geom:area_square_m":4818189.281657,
     "geom:bbox":"115.694763712,-31.7055135905,115.719968,-31.6724399935",
     "geom:latitude":-31.689178,
     "geom:longitude":115.707675,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.689403,
     "lbl:longitude":115.706821,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mindarie"
@@ -41,12 +47,15 @@
         102048879
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50504"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937509
     ],
     "wof:country":"AU",
-    "wof:geomhash":"4fc7d4452542424e493b4626d16dc750",
+    "wof:geomhash":"242e685f9610cfe8a283b907343d3c97",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404547817,
-    "wof:lastmodified":1566602929,
+    "wof:lastmodified":1695877677,
     "wof:name":"Mindarie",
     "wof:parent_id":102048879,
     "wof:placetype":"localadmin",

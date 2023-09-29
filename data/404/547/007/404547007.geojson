@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.186106,
-    "geom:area_square_m":24183533130.450588,
+    "geom:area_square_m":24183533130.447971,
     "geom:bbox":"112.921113952,-27.297933305,115.515783232,-25.4803879845",
     "geom:latitude":-26.535066,
     "geom:longitude":114.523718,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-26.640898,
     "lbl:longitude":114.743171,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Carrarang"
@@ -38,9 +44,12 @@
         102048721
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50142"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"c1565b9b0f8cf63e57f7235ce558c7c1",
+    "wof:geomhash":"44a2baff5b76885a311d7f3e6559f322",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404547007,
-    "wof:lastmodified":1566602935,
+    "wof:lastmodified":1695877679,
     "wof:name":"Carrarang",
     "wof:parent_id":102048721,
     "wof:placetype":"localadmin",

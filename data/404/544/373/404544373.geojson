@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.082385,
-    "geom:area_square_m":954110294.142491,
+    "geom:area_square_m":954110294.142267,
     "geom:bbox":"148.251715232,-20.732269541,148.633467136,-20.278934996",
     "geom:latitude":-20.513561,
     "geom:longitude":148.414671,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-20.558559,
     "lbl:longitude":148.417439,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Thoopara"
@@ -38,9 +44,12 @@
         102049581
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31624"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"250a96e2c111b2964fd2e5b35f874ee5",
+    "wof:geomhash":"222708715a5b8269664bca87e26c6c62",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404544373,
-    "wof:lastmodified":1566602202,
+    "wof:lastmodified":1695877244,
     "wof:name":"Thoopara",
     "wof:parent_id":102049581,
     "wof:placetype":"localadmin",

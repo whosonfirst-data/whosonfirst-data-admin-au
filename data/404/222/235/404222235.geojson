@@ -10,12 +10,18 @@
     "geom:latitude":-34.482825,
     "geom:longitude":150.811137,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.483384,
     "lbl:longitude":150.809205,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Brownsville"
@@ -104,12 +110,15 @@
         102048853
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10360"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101929719
     ],
     "wof:country":"AU",
-    "wof:geomhash":"3547e2b31e6de9939d71ec2b93745ab4",
+    "wof:geomhash":"3e66566fbdeb0aa88f3a34f469f855af",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -121,7 +130,7 @@
         }
     ],
     "wof:id":404222235,
-    "wof:lastmodified":1566602765,
+    "wof:lastmodified":1695877570,
     "wof:name":"Brownsville",
     "wof:parent_id":102048853,
     "wof:placetype":"localadmin",

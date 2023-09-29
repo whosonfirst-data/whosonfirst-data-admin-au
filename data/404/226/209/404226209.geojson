@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003311,
-    "geom:area_square_m":33099573.108881,
+    "geom:area_square_m":33099573.108855,
     "geom:bbox":"146.814481888,-36.0887237335,146.882804992,-36.015632583",
     "geom:latitude":-36.053021,
     "geom:longitude":146.849965,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.053199,
     "lbl:longitude":146.849286,
     "lbl:max_zoom":18.0,
@@ -43,10 +49,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC12126",
         "wd:id":"Q3493697"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"db7c82c046c8abfd56c1161c873b1287",
+    "wof:geomhash":"121db77c97246d7222fb3973c7805a4b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -59,7 +67,7 @@
         }
     ],
     "wof:id":404226209,
-    "wof:lastmodified":1566602073,
+    "wof:lastmodified":1695877912,
     "wof:name":"Splitters Creek",
     "wof:parent_id":102048675,
     "wof:placetype":"localadmin",

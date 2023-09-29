@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02163,
-    "geom:area_square_m":258994825.435271,
+    "geom:area_square_m":258994825.435178,
     "geom:bbox":"132.094572064,-14.545915236,132.2634736,-14.3477688585",
     "geom:latitude":-14.455514,
     "geom:longitude":132.174823,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-14.466941,
     "lbl:longitude":132.173196,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Cossack"
@@ -41,9 +47,12 @@
         102049277
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC70043"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"8b7451cb8eeecca415f647ef2ab2832d",
+    "wof:geomhash":"56edff28ba78e87a7b73539f54bd60c7",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404549675,
-    "wof:lastmodified":1566602833,
+    "wof:lastmodified":1695877615,
     "wof:name":"Cossack",
     "wof:parent_id":102049277,
     "wof:placetype":"localadmin",

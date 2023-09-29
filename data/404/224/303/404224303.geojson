@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005012,
-    "geom:area_square_m":52568247.980783,
+    "geom:area_square_m":52568247.980698,
     "geom:bbox":"152.43926,-32.0209799935,152.576894048,-31.9481560015",
     "geom:latitude":-31.984336,
     "geom:longitude":152.509529,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.979961,
     "lbl:longitude":152.502765,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Koorainghat"
@@ -38,9 +44,12 @@
         102048833
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11279"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"77227909482ff76fd83f30b85ef7206d",
+    "wof:geomhash":"e6f3163e845e0b7d4d5a60e41a0ef24c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404224303,
-    "wof:lastmodified":1566602611,
+    "wof:lastmodified":1695877482,
     "wof:name":"Koorainghat",
     "wof:parent_id":102048833,
     "wof:placetype":"localadmin",

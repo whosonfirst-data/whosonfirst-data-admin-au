@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029048,
-    "geom:area_square_m":316888868.205248,
+    "geom:area_square_m":316888868.205495,
     "geom:bbox":"151.612601984,-28.167627,151.899151008,-27.9878781695",
     "geom:latitude":-28.085651,
     "geom:longitude":151.74935,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.066647,
     "lbl:longitude":151.735277,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Pratten"
@@ -39,9 +45,12 @@
         102048963
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31351"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"e2c73da0a2e4bcff42b90f33bf6c6e50",
+    "wof:geomhash":"e896e14aa5ed9519e3c03034609ea3c1",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":404543797,
-    "wof:lastmodified":1566602090,
+    "wof:lastmodified":1695877187,
     "wof:name":"Pratten",
     "wof:parent_id":102048963,
     "wof:placetype":"localadmin",

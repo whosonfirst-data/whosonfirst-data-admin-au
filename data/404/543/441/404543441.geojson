@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003997,
-    "geom:area_square_m":43677665.755365,
+    "geom:area_square_m":43677665.75534,
     "geom:bbox":"153.030627008,-27.9385700085,153.111552992,-27.849838107",
     "geom:latitude":-27.8994,
     "geom:longitude":153.071497,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.900649,
     "lbl:longitude":153.071505,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mundoolun"
@@ -39,9 +45,12 @@
         102048665
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31184"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"a8dd607de745c355504002a24e289336",
+    "wof:geomhash":"b3b196a38211b0b9ed27f6e37be48125",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":404543441,
-    "wof:lastmodified":1566602102,
+    "wof:lastmodified":1695877192,
     "wof:name":"Mundoolun",
     "wof:parent_id":102048665,
     "wof:placetype":"localadmin",

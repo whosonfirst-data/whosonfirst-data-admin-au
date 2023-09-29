@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016632,
-    "geom:area_square_m":195997824.679634,
+    "geom:area_square_m":195997824.679576,
     "geom:bbox":"145.284044992,-17.7306199915,145.478972,-17.5190000085",
     "geom:latitude":-17.626738,
     "geom:longitude":145.375627,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-17.62267,
     "lbl:longitude":145.374155,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Millstream"
@@ -44,9 +50,12 @@
         102048519
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31064"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"aee3dc3b51161b178e3233b2da8583be",
+    "wof:geomhash":"5be14598e953bc0dbe76b45998809b1f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404543179,
-    "wof:lastmodified":1566602142,
+    "wof:lastmodified":1695877213,
     "wof:name":"Millstream",
     "wof:parent_id":102048519,
     "wof:placetype":"localadmin",

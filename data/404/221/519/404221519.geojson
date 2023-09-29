@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001652,
-    "geom:area_square_m":17205793.170902,
+    "geom:area_square_m":17205793.170817,
     "geom:bbox":"148.95276064,-32.6232099755,149.000659008,-32.5595489965",
     "geom:latitude":-32.590707,
     "geom:longitude":148.9748,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.57697,
     "lbl:longitude":148.972798,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Apsley"
@@ -47,9 +53,12 @@
         102049591
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10042"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"b2499c48efb53c6bf03b6ba6fa765029",
+    "wof:geomhash":"c709c343fa1e437ab00bf2d833748f8c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":404221519,
-    "wof:lastmodified":1566601982,
+    "wof:lastmodified":1695877125,
     "wof:name":"Apsley",
     "wof:parent_id":102049591,
     "wof:placetype":"localadmin",

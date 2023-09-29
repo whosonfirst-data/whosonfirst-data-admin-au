@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00614,
-    "geom:area_square_m":60948515.537306,
+    "geom:area_square_m":60948515.537383,
     "geom:bbox":"149.820824992,-36.6580059925,149.915771008,-36.5423690045",
     "geom:latitude":-36.605602,
     "geom:longitude":149.866118,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.60437,
     "lbl:longitude":149.870825,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Angledale"
@@ -38,9 +44,12 @@
         102049439
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10035"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"574c5e41d5e5b2ac55e738f8700c4e9e",
+    "wof:geomhash":"f15947395a362bc2ae94bfac7f99fd45",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404221503,
-    "wof:lastmodified":1566601970,
+    "wof:lastmodified":1695877119,
     "wof:name":"Angledale",
     "wof:parent_id":102049439,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.062226,
-    "geom:area_square_m":699719676.226148,
+    "geom:area_square_m":699719676.226154,
     "geom:bbox":"150.399815392,-24.755227001,150.780072992,-24.4092520075",
     "geom:latitude":-24.577497,
     "geom:longitude":150.570938,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-24.578651,
     "lbl:longitude":150.552095,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Thangool"
@@ -47,9 +53,12 @@
         102049135
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31604"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"2b23a4335d0a6d591bd5fb3cbce4be1b",
+    "wof:geomhash":"0137ff1b3b5cdd6530fce3c3b12711e7",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":404544331,
-    "wof:lastmodified":1566602149,
+    "wof:lastmodified":1695877217,
     "wof:name":"Thangool",
     "wof:parent_id":102049135,
     "wof:placetype":"localadmin",

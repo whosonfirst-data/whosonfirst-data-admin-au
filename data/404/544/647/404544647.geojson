@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000139,
-    "geom:area_square_m":1638706.273635,
+    "geom:area_square_m":1638706.273636,
     "geom:bbox":"145.743376992,-16.938272003,145.762622016,-16.921593994",
     "geom:latitude":-16.93044,
     "geom:longitude":145.752956,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-16.930495,
     "lbl:longitude":145.753603,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Westcourt"
@@ -41,12 +47,15 @@
         102048911
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31756"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935617
     ],
     "wof:country":"AU",
-    "wof:geomhash":"4eb4c52397e98f79f8bfe0cee7cd6cb6",
+    "wof:geomhash":"fa964589a923ed5a52bbbc4bbd60af53",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404544647,
-    "wof:lastmodified":1566602187,
+    "wof:lastmodified":1695877237,
     "wof:name":"Westcourt",
     "wof:parent_id":102048911,
     "wof:placetype":"localadmin",

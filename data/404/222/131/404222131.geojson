@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.045604,
-    "geom:area_square_m":463600738.444607,
+    "geom:area_square_m":463600738.44437,
     "geom:bbox":"148.679276992,-34.8661909715,148.949464992,-34.5562795265",
     "geom:latitude":-34.701772,
     "geom:longitude":148.811763,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.717356,
     "lbl:longitude":148.813825,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bowning"
@@ -50,9 +56,12 @@
         102049253
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10314"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"8371bb69676c11300a2f048e9a889628",
+    "wof:geomhash":"6610d2c063bfe980b43a27043cb590d2",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":404222131,
-    "wof:lastmodified":1566602783,
+    "wof:lastmodified":1695877581,
     "wof:name":"Bowning",
     "wof:parent_id":102049253,
     "wof:placetype":"localadmin",

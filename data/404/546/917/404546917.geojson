@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011663,
-    "geom:area_square_m":120627956.009196,
+    "geom:area_square_m":120627890.718511,
     "geom:bbox":"115.748265,-33.273951,115.946352,-33.168369",
     "geom:latitude":-33.232396,
     "geom:longitude":115.862816,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.245887,
     "lbl:longitude":115.853104,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Brunswick"
@@ -119,9 +125,12 @@
         102049561
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50102"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"3148f6b8e35db6398a0cab91fe82da9a",
+    "wof:geomhash":"ad19ab0730781d8970bc6ca83956309e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -133,7 +142,7 @@
         }
     ],
     "wof:id":404546917,
-    "wof:lastmodified":1636494683,
+    "wof:lastmodified":1695877886,
     "wof:name":"Brunswick",
     "wof:parent_id":102049561,
     "wof:placetype":"localadmin",

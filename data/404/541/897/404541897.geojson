@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.976698,
-    "geom:area_square_m":32462748214.897263,
+    "geom:area_square_m":32462748214.897514,
     "geom:bbox":"145.100614016,-28.9991030065,147.14279888,-26.9757405055",
     "geom:latitude":-28.115474,
     "geom:longitude":146.135438,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.157755,
     "lbl:longitude":146.236809,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Cunnamulla"
@@ -50,9 +56,12 @@
         102048641
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30456"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"f4ea0d4584f6809688d5a521dcfca01d",
+    "wof:geomhash":"c394ce25cbc37f5e324c8d0caf1a73a1",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":404541897,
-    "wof:lastmodified":1566603094,
+    "wof:lastmodified":1695877768,
     "wof:name":"Cunnamulla",
     "wof:parent_id":102048641,
     "wof:placetype":"localadmin",

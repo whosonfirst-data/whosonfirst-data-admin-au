@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0018,
-    "geom:area_square_m":18220277.021075,
+    "geom:area_square_m":18220277.021073,
     "geom:bbox":"138.73157712,-35.0728040775,138.786644992,-35.022727001",
     "geom:latitude":-35.047707,
     "geom:longitude":138.757605,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.048138,
     "lbl:longitude":138.755385,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Mylor"
@@ -50,9 +56,12 @@
         102049017
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40475"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"8c79837b8d94320f141a17d649179c88",
+    "wof:geomhash":"5cfec769f33ba5033cf1c1f4765e29a0",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":404545897,
-    "wof:lastmodified":1566602250,
+    "wof:lastmodified":1695877265,
     "wof:name":"Mylor",
     "wof:parent_id":102049017,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000432,
-    "geom:area_square_m":4734214.547253,
+    "geom:area_square_m":4734214.547261,
     "geom:bbox":"152.752592,-27.612401004,152.77928752,-27.575076995",
     "geom:latitude":-27.592499,
     "geom:longitude":152.761765,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.590776,
     "lbl:longitude":152.760446,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "North Ipswich"
@@ -39,12 +45,15 @@
         102048583
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31241"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935023
     ],
     "wof:country":"AU",
-    "wof:geomhash":"143e1872de339aa30c741f2d07a9322a",
+    "wof:geomhash":"cf3d645207aaca231c82b48d7e018987",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404543561,
-    "wof:lastmodified":1566602095,
+    "wof:lastmodified":1695877189,
     "wof:name":"North Ipswich",
     "wof:parent_id":102048583,
     "wof:placetype":"localadmin",

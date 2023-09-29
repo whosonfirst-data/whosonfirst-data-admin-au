@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001027,
-    "geom:area_square_m":10398214.721103,
+    "geom:area_square_m":10398214.721097,
     "geom:bbox":"117.821275392,-35.0490929975,117.862422688,-35.011084544",
     "geom:latitude":-35.029374,
     "geom:longitude":117.840406,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.030478,
     "lbl:longitude":117.838349,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0631\u0648\u0628\u0646\u0633\u0648\u0646"
@@ -107,12 +113,15 @@
         102048671
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50680"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937729
     ],
     "wof:country":"AU",
-    "wof:geomhash":"b7ec37a7ebf994eaf41c01246cfc8b3e",
+    "wof:geomhash":"94953c3874712df48f7319c48cddeb96",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -124,7 +133,7 @@
         }
     ],
     "wof:id":404548205,
-    "wof:lastmodified":1566603185,
+    "wof:lastmodified":1695877808,
     "wof:name":"Robinson",
     "wof:parent_id":102048671,
     "wof:placetype":"localadmin",

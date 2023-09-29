@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000095,
-    "geom:area_square_m":989094.868744,
+    "geom:area_square_m":989094.868742,
     "geom:bbox":"152.164238272,-32.732240484,152.178976992,-32.7177979965",
     "geom:latitude":-32.724766,
     "geom:longitude":152.173559,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.724653,
     "lbl:longitude":152.174677,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Shoal Bay"
@@ -50,12 +56,15 @@
         102049095
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12075"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931845
     ],
     "wof:country":"AU",
-    "wof:geomhash":"af29b2dc9a7ed2334fcb1f8b4d811c0e",
+    "wof:geomhash":"3ca1b400366b6601fda7584a32ab93fc",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -67,7 +76,7 @@
         }
     ],
     "wof:id":404226093,
-    "wof:lastmodified":1566602080,
+    "wof:lastmodified":1695877181,
     "wof:name":"Shoal Bay",
     "wof:parent_id":102049095,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000523,
-    "geom:area_square_m":5395194.103087,
+    "geom:area_square_m":5395194.103096,
     "geom:bbox":"150.130979008,-33.5218330085,150.170972992,-33.4947999945",
     "geom:latitude":-33.507679,
     "geom:longitude":150.153962,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.50971,
     "lbl:longitude":150.153696,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Hassans Walls"
@@ -38,12 +44,15 @@
         102049125
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11082"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101930647
     ],
     "wof:country":"AU",
-    "wof:geomhash":"d9d7890c01226530ce09d0f9c44465a9",
+    "wof:geomhash":"0c98536a6a88aaa5e26b23caa5818e35",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404223859,
-    "wof:lastmodified":1566602510,
+    "wof:lastmodified":1695877420,
     "wof:name":"Hassans Walls",
     "wof:parent_id":102049125,
     "wof:placetype":"localadmin",

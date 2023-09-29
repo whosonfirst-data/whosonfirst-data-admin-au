@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002943,
-    "geom:area_square_m":29483592.79937,
+    "geom:area_square_m":29483592.799361,
     "geom:bbox":"145.310379008,-35.9141139995,145.383671872,-35.8529049735",
     "geom:latitude":-35.88572,
     "geom:longitude":145.345253,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.886404,
     "lbl:longitude":145.344548,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bearii"
@@ -38,9 +44,12 @@
         102048427
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20097"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"d05c3e48f561cfe3bc7e807577417d5f",
+    "wof:geomhash":"9448b26c48701189d61e68f2c7295f91",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404537709,
-    "wof:lastmodified":1566602322,
+    "wof:lastmodified":1695877307,
     "wof:name":"Bearii",
     "wof:parent_id":102048427,
     "wof:placetype":"localadmin",

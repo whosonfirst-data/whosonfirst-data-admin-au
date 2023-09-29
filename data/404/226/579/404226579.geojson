@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000101,
-    "geom:area_square_m":1019491.462017,
+    "geom:area_square_m":1019491.462016,
     "geom:bbox":"143.33186384,-35.0360721055,143.342318176,-35.0210966885",
     "geom:latitude":-35.02748,
     "geom:longitude":143.337433,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.027489,
     "lbl:longitude":143.338055,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tooleybuc"
@@ -38,12 +44,15 @@
         102049043
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12291"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932111
     ],
     "wof:country":"AU",
-    "wof:geomhash":"6ed49c1dcff74666fef644045187a585",
+    "wof:geomhash":"68ac7725acd2eb670a50f3273d4de1ac",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404226579,
-    "wof:lastmodified":1566602086,
+    "wof:lastmodified":1695877184,
     "wof:name":"Tooleybuc",
     "wof:parent_id":102049043,
     "wof:placetype":"localadmin",

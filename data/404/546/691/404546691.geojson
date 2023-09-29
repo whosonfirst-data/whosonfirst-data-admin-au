@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006217,
-    "geom:area_square_m":63911042.183992,
+    "geom:area_square_m":63911042.18396,
     "geom:bbox":"115.33863,-33.828047913,115.417905984,-33.6973870935",
     "geom:latitude":-33.764294,
     "geom:longitude":115.375491,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.768837,
     "lbl:longitude":115.37475,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Acton Park"
@@ -42,9 +48,12 @@
         102048623
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50002"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"e76863115511641e946fffd593bcc25b",
+    "wof:geomhash":"436e72cadeaf40376a1e3e099218006c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404546691,
-    "wof:lastmodified":1566603145,
+    "wof:lastmodified":1695877788,
     "wof:name":"Acton Park",
     "wof:parent_id":102048623,
     "wof:placetype":"localadmin",

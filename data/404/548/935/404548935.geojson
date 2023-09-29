@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004889,
-    "geom:area_square_m":44154169.432108,
+    "geom:area_square_m":44154169.432139,
     "geom:bbox":"146.93369,-43.1285629955,147.032008608,-43.033603328",
     "geom:latitude":-43.082521,
     "geom:longitude":146.983465,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-43.082911,
     "lbl:longitude":146.984136,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:als_x_preferred":[
         "Franklin"
@@ -143,9 +149,12 @@
         102048679
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60118"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"9b1b4423e8ca4da50add8cab891a17bb",
+    "wof:geomhash":"f2004e03ed15eb42cd4a9305325d3fb3",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -157,7 +166,7 @@
         }
     ],
     "wof:id":404548935,
-    "wof:lastmodified":1566603198,
+    "wof:lastmodified":1695877815,
     "wof:name":"Franklin",
     "wof:parent_id":102048679,
     "wof:placetype":"localadmin",

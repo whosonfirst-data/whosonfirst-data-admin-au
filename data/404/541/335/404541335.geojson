@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000211,
-    "geom:area_square_m":2466153.186244,
+    "geom:area_square_m":2466153.186237,
     "geom:bbox":"146.678361888,-19.3259809965,146.703218848,-19.3049359515",
     "geom:latitude":-19.317625,
     "geom:longitude":146.6902,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-19.317658,
     "lbl:longitude":146.690383,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bohle Plains"
@@ -38,12 +44,15 @@
         102048451
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30188"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101933967
     ],
     "wof:country":"AU",
-    "wof:geomhash":"800864a3f774585385caae84e26b9447",
+    "wof:geomhash":"ac37a2d3e0ee36e5b15e080a0489f82c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404541335,
-    "wof:lastmodified":1566603075,
+    "wof:lastmodified":1695877757,
     "wof:name":"Bohle Plains",
     "wof:parent_id":102048451,
     "wof:placetype":"localadmin",

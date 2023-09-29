@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001431,
-    "geom:area_square_m":15499831.195692,
+    "geom:area_square_m":15499814.015902,
     "geom:bbox":"153.546299,-28.874135,153.583314,-28.79548",
     "geom:latitude":-28.837117,
     "geom:longitude":153.56401,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.834605,
     "lbl:longitude":153.562737,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ballina"
@@ -95,9 +101,12 @@
         102049481
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10089"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"5cd1be1e2e7010f3a2296548e04464cc",
+    "wof:geomhash":"caae3e10e2bd277be2ce5412d509afcf",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -109,7 +118,7 @@
         }
     ],
     "wof:id":404221625,
-    "wof:lastmodified":1636494611,
+    "wof:lastmodified":1695877848,
     "wof:name":"Ballina",
     "wof:parent_id":102049481,
     "wof:placetype":"localadmin",

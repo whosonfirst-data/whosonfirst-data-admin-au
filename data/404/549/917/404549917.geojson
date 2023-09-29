@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002332,
-    "geom:area_square_m":26689288.863703,
+    "geom:area_square_m":26689288.863673,
     "geom:bbox":"132.173520992,-22.2965229995,132.231516992,-22.234126995",
     "geom:latitude":-22.261745,
     "geom:longitude":132.199417,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-22.258661,
     "lbl:longitude":132.199419,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Yuelamu"
@@ -38,12 +44,15 @@
         102049183
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC70214"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938695
     ],
     "wof:country":"AU",
-    "wof:geomhash":"e0d618a2e2ca2c7079f3b7d45d02715a",
+    "wof:geomhash":"81a42d71e49a18ddbe51f37dcb45f422",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404549917,
-    "wof:lastmodified":1566602915,
+    "wof:lastmodified":1695877671,
     "wof:name":"Yuelamu",
     "wof:parent_id":102049183,
     "wof:placetype":"localadmin",

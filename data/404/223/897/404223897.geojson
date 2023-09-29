@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030809,
-    "geom:area_square_m":310004304.106537,
+    "geom:area_square_m":310004304.106442,
     "geom:bbox":"146.854054016,-35.6150799995,147.215796992,-35.4484771765",
     "geom:latitude":-35.537373,
     "geom:longitude":147.049331,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.520533,
     "lbl:longitude":147.097383,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Henty"
@@ -44,9 +50,12 @@
         102049625
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11099"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"47b431137310b94521af3733ad295d74",
+    "wof:geomhash":"4cb2c024fd8960f7321e04d5415178b9",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404223897,
-    "wof:lastmodified":1566602559,
+    "wof:lastmodified":1695877452,
     "wof:name":"Henty",
     "wof:parent_id":102049625,
     "wof:placetype":"localadmin",

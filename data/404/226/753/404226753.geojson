@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000722,
-    "geom:area_square_m":7397386.328364,
+    "geom:area_square_m":7397386.328375,
     "geom:bbox":"150.78767152,-34.020466228,150.832494016,-33.9874919945",
     "geom:latitude":-34.003209,
     "geom:longitude":150.811112,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.0013,
     "lbl:longitude":150.810772,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Varroville"
@@ -38,9 +44,12 @@
         102048887
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12368"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"8f9a803b22b3567bbc2094e90b6992eb",
+    "wof:geomhash":"2bfbb0006cca629f73c13538f9114a16",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404226753,
-    "wof:lastmodified":1566602016,
+    "wof:lastmodified":1695877141,
     "wof:name":"Varroville",
     "wof:parent_id":102048887,
     "wof:placetype":"localadmin",

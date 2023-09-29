@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005292,
-    "geom:area_square_m":49079903.989885,
+    "geom:area_square_m":49079903.989945,
     "geom:bbox":"146.176610688,-41.4416939975,146.296007008,-41.3534034875",
     "geom:latitude":-41.400649,
     "geom:longitude":146.239209,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-41.398393,
     "lbl:longitude":146.238276,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "West Kentish"
@@ -38,9 +44,12 @@
         102049291
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60395"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"325172233c1baf7b5f61b4d7926260f7",
+    "wof:geomhash":"0461e87a3089434f6afb8e5af60725c4",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404549557,
-    "wof:lastmodified":1566602827,
+    "wof:lastmodified":1695877609,
     "wof:name":"West Kentish",
     "wof:parent_id":102049291,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000139,
-    "geom:area_square_m":1405692.408085,
+    "geom:area_square_m":1405721.826826,
     "geom:bbox":"138.552741,-34.942993,138.571067,-34.933968",
     "geom:latitude":-34.938645,
     "geom:longitude":138.562121,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.938844,
     "lbl:longitude":138.561633,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Richmond"
@@ -186,12 +192,15 @@
         102049621
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40622"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101936527
     ],
     "wof:country":"AU",
-    "wof:geomhash":"5c4c0e0bd3693454996c5e530339c38f",
+    "wof:geomhash":"b7f23c8b341a70faadd72bbd6d908818",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -204,7 +213,7 @@
         }
     ],
     "wof:id":404546213,
-    "wof:lastmodified":1636494681,
+    "wof:lastmodified":1695877885,
     "wof:name":"Richmond",
     "wof:parent_id":102049621,
     "wof:placetype":"localadmin",

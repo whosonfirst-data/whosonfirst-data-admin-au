@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.045958,
-    "geom:area_square_m":462883251.603893,
+    "geom:area_square_m":462883251.603882,
     "geom:bbox":"143.341976512,-35.5726918745,143.623201312,-35.3190927645",
     "geom:latitude":-35.459061,
     "geom:longitude":143.464815,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.496612,
     "lbl:longitude":143.464785,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Castle Donnington"
@@ -38,9 +44,12 @@
         102049167
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20269"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"8ecea47259cbdc08973ca44cc4730411",
+    "wof:geomhash":"769fa3a353887f003a270abe4e60b5ad",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404538091,
-    "wof:lastmodified":1566602440,
+    "wof:lastmodified":1695877380,
     "wof:name":"Castle Donnington",
     "wof:parent_id":102049167,
     "wof:placetype":"localadmin",

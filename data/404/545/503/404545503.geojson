@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001651,
-    "geom:area_square_m":16799997.280152,
+    "geom:area_square_m":16799997.280168,
     "geom:bbox":"138.62104704,-34.6597390005,138.727906016,-34.6095929745",
     "geom:latitude":-34.630875,
     "geom:longitude":138.668161,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.625108,
     "lbl:longitude":138.677393,
     "lbl:max_zoom":18.0,
@@ -43,10 +49,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC40295",
         "wd:id":"Q5763275"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"2029682005bb4b2923c2438fbafa2da2",
+    "wof:geomhash":"d85b12a6c1536baed795cda4b511b39d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -59,7 +67,7 @@
         }
     ],
     "wof:id":404545503,
-    "wof:lastmodified":1566602213,
+    "wof:lastmodified":1695877930,
     "wof:name":"Hillier",
     "wof:parent_id":102049603,
     "wof:placetype":"localadmin",

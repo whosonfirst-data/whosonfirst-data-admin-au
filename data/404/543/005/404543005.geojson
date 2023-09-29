@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000192,
-    "geom:area_square_m":2250625.780725,
+    "geom:area_square_m":2250625.780723,
     "geom:bbox":"146.317680736,-18.547418727,146.341904608,-18.518647194",
     "geom:latitude":-18.529855,
     "geom:longitude":146.330323,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-18.528637,
     "lbl:longitude":146.330507,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lucinda"
@@ -41,12 +47,15 @@
         102048645
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30975"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934737
     ],
     "wof:country":"AU",
-    "wof:geomhash":"4dad35d89cd6205728bf02508109143b",
+    "wof:geomhash":"67099416be9c81f543e22b2ea9981221",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404543005,
-    "wof:lastmodified":1566602136,
+    "wof:lastmodified":1695877210,
     "wof:name":"Lucinda",
     "wof:parent_id":102048645,
     "wof:placetype":"localadmin",

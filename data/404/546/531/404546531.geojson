@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023357,
-    "geom:area_square_m":238169774.843216,
+    "geom:area_square_m":238169774.843206,
     "geom:bbox":"138.559954272,-34.553086926,138.782168992,-34.358238007",
     "geom:latitude":-34.448808,
     "geom:longitude":138.673361,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.44275,
     "lbl:longitude":138.680891,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Wasleys"
@@ -38,9 +44,12 @@
         102049171
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40774"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"e0e3f6e39c60543bf42322953c5b9b20",
+    "wof:geomhash":"85e0349d0f711c8a80ef604f75d6ae29",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404546531,
-    "wof:lastmodified":1566603133,
+    "wof:lastmodified":1695877784,
     "wof:name":"Wasleys",
     "wof:parent_id":102049171,
     "wof:placetype":"localadmin",

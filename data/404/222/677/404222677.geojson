@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.496805,
-    "geom:area_square_m":5349201449.983885,
+    "geom:area_square_m":5349201449.981805,
     "geom:bbox":"148.098496992,-29.9256210055,149.08883472,-28.9990429",
     "geom:latitude":-29.451039,
     "geom:longitude":148.577102,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-29.441658,
     "lbl:longitude":148.446095,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Collarenebri"
@@ -50,9 +56,12 @@
         102049265
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10557"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"b2ba8f17e3c86fc4ab5ac11f46f09c38",
+    "wof:geomhash":"d3be47c982dc70c457fb99a4fe2bd41b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":404222677,
-    "wof:lastmodified":1566602797,
+    "wof:lastmodified":1695877590,
     "wof:name":"Collarenebri",
     "wof:parent_id":102049265,
     "wof:placetype":"localadmin",

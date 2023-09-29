@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001644,
-    "geom:area_square_m":17273287.21088,
+    "geom:area_square_m":17273287.210878,
     "geom:bbox":"116.000953984,-31.854379409,116.059418432,-31.813220609",
     "geom:latitude":-31.830226,
     "geom:longitude":116.031573,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.82926,
     "lbl:longitude":116.031565,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Herne Hill"
@@ -71,9 +77,12 @@
         102049575
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50330"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"3fe7e634982cd067bb712cc2cd8224a9",
+    "wof:geomhash":"b6696523053b38e4e7adb97aebae1031",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -85,7 +94,7 @@
         }
     ],
     "wof:id":404547425,
-    "wof:lastmodified":1566602927,
+    "wof:lastmodified":1695877676,
     "wof:name":"Herne Hill",
     "wof:parent_id":102049575,
     "wof:placetype":"localadmin",

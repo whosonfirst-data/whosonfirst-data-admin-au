@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000422,
-    "geom:area_square_m":4423131.031134,
+    "geom:area_square_m":4423131.031129,
     "geom:bbox":"115.778224448,-31.9482009565,115.804148768,-31.9273587825",
     "geom:latitude":-31.938619,
     "geom:longitude":115.792112,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.938975,
     "lbl:longitude":115.794704,
     "lbl:max_zoom":18.0,
@@ -52,13 +58,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC50264",
         "wd:id":"Q3746676"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937175
     ],
     "wof:country":"AU",
-    "wof:geomhash":"09c7b7d8b61736e1c85ca9b3dda36654",
+    "wof:geomhash":"fcf696a62c3c17987dcbaa3ce94cc4ab",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -71,7 +79,7 @@
         }
     ],
     "wof:id":404547277,
-    "wof:lastmodified":1566602957,
+    "wof:lastmodified":1695878020,
     "wof:name":"Floreat",
     "wof:parent_id":102048955,
     "wof:placetype":"localadmin",

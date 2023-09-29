@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00102,
-    "geom:area_square_m":10333363.991274,
+    "geom:area_square_m":10333363.991271,
     "geom:bbox":"117.759604992,-35.0306744715,117.824277728,-35.011186294",
     "geom:latitude":-35.021496,
     "geom:longitude":117.793515,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.020303,
     "lbl:longitude":117.799362,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u062b\u0628\u0631\u062a"
@@ -68,12 +74,15 @@
         102048671
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50195"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937075
     ],
     "wof:country":"AU",
-    "wof:geomhash":"a475ca0bf2fc543115b37fc7b990eae0",
+    "wof:geomhash":"6cc892c157afb7fd18fd456ced8b1a0d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -85,7 +94,7 @@
         }
     ],
     "wof:id":404547121,
-    "wof:lastmodified":1566602948,
+    "wof:lastmodified":1695877687,
     "wof:name":"Cuthbert",
     "wof:parent_id":102048671,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000381,
-    "geom:area_square_m":3915779.515226,
+    "geom:area_square_m":3915779.515192,
     "geom:bbox":"151.117868224,-33.7086840075,151.144098016,-33.684397707",
     "geom:latitude":-33.697789,
     "geom:longitude":151.131009,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.697666,
     "lbl:longitude":151.131257,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "North Wahroonga"
@@ -39,12 +45,15 @@
         102049381
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11769"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931479
     ],
     "wof:country":"AU",
-    "wof:geomhash":"4c07aef660d59fcd8226e067116a3705",
+    "wof:geomhash":"33f2440db5b7a14db04ae62faff2b358",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404225405,
-    "wof:lastmodified":1566602724,
+    "wof:lastmodified":1695877544,
     "wof:name":"North Wahroonga",
     "wof:parent_id":102049381,
     "wof:placetype":"localadmin",

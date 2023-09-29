@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000559,
-    "geom:area_square_m":5420172.858725,
+    "geom:area_square_m":5420172.85872,
     "geom:bbox":"144.857873984,-38.3864893715,144.8893296,-38.359568967",
     "geom:latitude":-38.373721,
     "geom:longitude":144.875529,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.372273,
     "lbl:longitude":144.875231,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Rosebud West"
@@ -38,12 +44,15 @@
         102048695
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21164"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101933473
     ],
     "wof:country":"AU",
-    "wof:geomhash":"878f910c79e5bef4be48326d97391f46",
+    "wof:geomhash":"806fafc1cc068f0036dbdfb5c0f6329d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404540087,
-    "wof:lastmodified":1566603020,
+    "wof:lastmodified":1695877730,
     "wof:name":"Rosebud West",
     "wof:parent_id":102048695,
     "wof:placetype":"localadmin",

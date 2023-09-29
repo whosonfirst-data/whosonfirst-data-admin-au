@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024208,
-    "geom:area_square_m":254762639.140182,
+    "geom:area_square_m":254762639.139969,
     "geom:bbox":"150.622347552,-31.7822759735,150.91075104,-31.5793419995",
     "geom:latitude":-31.66925,
     "geom:longitude":150.766903,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.679006,
     "lbl:longitude":150.77667,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Willow Tree"
@@ -38,9 +44,12 @@
         102048659
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12507"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"dfbd4ad3dc605a7ba47dd9bea370b040",
+    "wof:geomhash":"447c90d8c2f4892d5d04f19a639030fd",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404227065,
-    "wof:lastmodified":1566601943,
+    "wof:lastmodified":1695877105,
     "wof:name":"Willow Tree",
     "wof:parent_id":102048659,
     "wof:placetype":"localadmin",

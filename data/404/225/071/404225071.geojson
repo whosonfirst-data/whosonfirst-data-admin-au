@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000596,
-    "geom:area_square_m":6136592.373796,
+    "geom:area_square_m":6136592.37383,
     "geom:bbox":"151.115280992,-33.6635213635,151.141672448,-33.6184470015",
     "geom:latitude":-33.641973,
     "geom:longitude":151.128653,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.641745,
     "lbl:longitude":151.128852,
     "lbl:max_zoom":18.0,
@@ -58,13 +64,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC11621",
         "wd:id":"Q6921731"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931315
     ],
     "wof:country":"AU",
-    "wof:geomhash":"0c3bfa74d2a7164d239696919e4a6f00",
+    "wof:geomhash":"2a5bdca3a9a178729ca97bcce8291d9f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -77,7 +85,7 @@
         }
     ],
     "wof:id":404225071,
-    "wof:lastmodified":1566602677,
+    "wof:lastmodified":1695877987,
     "wof:name":"Mount Kuring-Gai",
     "wof:parent_id":102049503,
     "wof:placetype":"localadmin",

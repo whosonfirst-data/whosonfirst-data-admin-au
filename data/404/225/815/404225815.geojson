@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000116,
-    "geom:area_square_m":1202014.951632,
+    "geom:area_square_m":1202014.951631,
     "geom:bbox":"151.602293568,-32.737713339,151.623329408,-32.7244813065",
     "geom:latitude":-32.732055,
     "geom:longitude":151.611641,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.732252,
     "lbl:longitude":151.611647,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Raworth"
@@ -39,12 +45,15 @@
         102048483
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11951"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931693
     ],
     "wof:country":"AU",
-    "wof:geomhash":"25f2ebf32b5961ffe50e6e1c3d5a547b",
+    "wof:geomhash":"64e53fec63ae55286e8cd5cc785183b7",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404225815,
-    "wof:lastmodified":1566602717,
+    "wof:lastmodified":1695877538,
     "wof:name":"Raworth",
     "wof:parent_id":102048483,
     "wof:placetype":"localadmin",

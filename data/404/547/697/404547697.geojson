@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00017,
-    "geom:area_square_m":1782755.343639,
+    "geom:area_square_m":1782755.343626,
     "geom:bbox":"115.919148608,-32.0492809975,115.937522144,-32.0315483775",
     "geom:latitude":-32.040126,
     "geom:longitude":115.928877,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.040192,
     "lbl:longitude":115.928733,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041b\u0443\u043d\u0443\u0434"
@@ -84,12 +90,15 @@
         102049055
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50451"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937433
     ],
     "wof:country":"AU",
-    "wof:geomhash":"fd32b8d0dbe43d8e73f2aff846ce3df4",
+    "wof:geomhash":"525b0973f3b6e26cb2e26987d3d0bcb7",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -102,7 +111,7 @@
         }
     ],
     "wof:id":404547697,
-    "wof:lastmodified":1566602964,
+    "wof:lastmodified":1695877697,
     "wof:name":"Lynwood",
     "wof:parent_id":102049055,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.075508,
-    "geom:area_square_m":843286376.981188,
+    "geom:area_square_m":843286376.981142,
     "geom:bbox":"151.643441888,-25.5908579965,152.00494,-25.2528806825",
     "geom:latitude":-25.41863,
     "geom:longitude":151.810098,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-25.421244,
     "lbl:longitude":151.806622,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u062f\u06cc\u062f\u06a9\u0627\u062a"
@@ -104,9 +110,12 @@
         102049053
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30492"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"73d528288b94c4ee32668d7621302e16",
+    "wof:geomhash":"d2faea36f4aa0f62c40c865088397e8f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -118,7 +127,7 @@
         }
     ],
     "wof:id":404541971,
-    "wof:lastmodified":1566603069,
+    "wof:lastmodified":1695877754,
     "wof:name":"Didcot",
     "wof:parent_id":102049053,
     "wof:placetype":"localadmin",

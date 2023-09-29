@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025604,
-    "geom:area_square_m":253708611.733963,
+    "geom:area_square_m":253708611.734189,
     "geom:bbox":"149.43751376,-36.829887994,149.696951008,-36.6465524945",
     "geom:latitude":-36.740457,
     "geom:longitude":149.544178,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.746,
     "lbl:longitude":149.542274,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tantawangalo"
@@ -38,9 +44,12 @@
         102049439
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12213"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"3fcbd9e71fde537015330374a083443d",
+    "wof:geomhash":"1e618c2cbdd317b40c0f6542c4e45f23",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404226403,
-    "wof:lastmodified":1566602080,
+    "wof:lastmodified":1695877181,
     "wof:name":"Tantawangalo",
     "wof:parent_id":102049439,
     "wof:placetype":"localadmin",

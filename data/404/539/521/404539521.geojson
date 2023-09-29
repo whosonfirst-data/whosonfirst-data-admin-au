@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005479,
-    "geom:area_square_m":53819395.833673,
+    "geom:area_square_m":53819395.833674,
     "geom:bbox":"144.731870016,-37.4288140055,144.865116,-37.3606709945",
     "geom:latitude":-37.396894,
     "geom:longitude":144.805378,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.395792,
     "lbl:longitude":144.81204,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Monegeetta"
@@ -38,9 +44,12 @@
         102048977
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20909"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"e1a7e451e275229e81b5e3b8a9ef6073",
+    "wof:geomhash":"2b12c7971eb775b1224872207647ba7e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404539521,
-    "wof:lastmodified":1566602376,
+    "wof:lastmodified":1695877340,
     "wof:name":"Monegeetta",
     "wof:parent_id":102048977,
     "wof:placetype":"localadmin",

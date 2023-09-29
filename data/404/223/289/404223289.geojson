@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000667,
-    "geom:area_square_m":6858609.493713,
+    "geom:area_square_m":6858609.49372,
     "geom:bbox":"151.05636,-33.786889039,151.097268256,-33.760659739",
     "geom:latitude":-33.772781,
     "geom:longitude":151.076331,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.772079,
     "lbl:longitude":151.076727,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Epping"
@@ -96,12 +102,15 @@
         102049565
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10829"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101930235
     ],
     "wof:country":"AU",
-    "wof:geomhash":"3a7e639ccae06d4a064b089427745fa8",
+    "wof:geomhash":"638edea7a5d12b300f8a414041516789",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -114,7 +123,7 @@
         }
     ],
     "wof:id":404223289,
-    "wof:lastmodified":1566602504,
+    "wof:lastmodified":1695877416,
     "wof:name":"Epping",
     "wof:parent_id":102049565,
     "wof:placetype":"localadmin",

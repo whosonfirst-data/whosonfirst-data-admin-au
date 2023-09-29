@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001078,
-    "geom:area_square_m":10563940.732621,
+    "geom:area_square_m":10563940.08548,
     "geom:bbox":"143.847109,-37.620185,143.898059,-37.588256",
     "geom:latitude":-37.603833,
     "geom:longitude":143.871262,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.604559,
     "lbl:longitude":143.8692,
     "lbl:max_zoom":18.0,
@@ -57,13 +63,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC20934",
         "wd:id":"Q1662750"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101933285
     ],
     "wof:country":"AU",
-    "wof:geomhash":"eeb92d6c7718d366737355b7010d3028",
+    "wof:geomhash":"9f87c8eaa28559ea839ee7a731dd5fa6",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -75,7 +83,7 @@
         }
     ],
     "wof:id":404539577,
-    "wof:lastmodified":1690853571,
+    "wof:lastmodified":1695877954,
     "wof:name":"Mount Clear",
     "wof:parent_id":102049037,
     "wof:placetype":"localadmin",

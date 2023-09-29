@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003652,
-    "geom:area_square_m":37715849.140399,
+    "geom:area_square_m":37715849.140411,
     "geom:bbox":"149.073744,-33.3916995315,149.159061088,-33.3180085185",
     "geom:latitude":-33.355747,
     "geom:longitude":149.115595,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.356579,
     "lbl:longitude":149.112682,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Huntley"
@@ -83,9 +89,12 @@
         102049023
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11143"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"939234924d114a8fb0a21c026d589bd6",
+    "wof:geomhash":"f9b78ec0dc363bf9242a81942dd0c29e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -97,7 +106,7 @@
         }
     ],
     "wof:id":404223997,
-    "wof:lastmodified":1566602496,
+    "wof:lastmodified":1695877412,
     "wof:name":"Huntley",
     "wof:parent_id":102049023,
     "wof:placetype":"localadmin",

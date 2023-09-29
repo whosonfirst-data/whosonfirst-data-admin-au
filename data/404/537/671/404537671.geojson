@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004466,
-    "geom:area_square_m":43262148.634491,
+    "geom:area_square_m":43262148.634488,
     "geom:bbox":"143.565472,-38.4621618455,143.66279584,-38.3934002315",
     "geom:latitude":-38.428255,
     "geom:longitude":143.615338,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.429718,
     "lbl:longitude":143.611398,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Barongarook"
@@ -38,9 +44,12 @@
         102049117
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20080"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"24abefe02cf46752614bc61668c8c6c3",
+    "wof:geomhash":"46cc362854cb8f04defd78c12e096280",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404537671,
-    "wof:lastmodified":1566602340,
+    "wof:lastmodified":1695877319,
     "wof:name":"Barongarook",
     "wof:parent_id":102049117,
     "wof:placetype":"localadmin",

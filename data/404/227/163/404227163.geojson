@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005234,
-    "geom:area_square_m":53392212.78751,
+    "geom:area_square_m":53392212.78756,
     "geom:bbox":"150.357846976,-34.4511049915,150.441224992,-34.3495650035",
     "geom:latitude":-34.405657,
     "geom:longitude":150.394334,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.409339,
     "lbl:longitude":150.39773,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Woodlands"
@@ -69,9 +75,12 @@
         102048539
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12550"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"bf65dd4effa09f500b9a2db248665ffc",
+    "wof:geomhash":"50463f57b634b99f11c6b0bc6a056d1c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -84,7 +93,7 @@
         }
     ],
     "wof:id":404227163,
-    "wof:lastmodified":1566601950,
+    "wof:lastmodified":1695877109,
     "wof:name":"Woodlands",
     "wof:parent_id":102048539,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009112,
-    "geom:area_square_m":101205193.728186,
+    "geom:area_square_m":101205193.72827,
     "geom:bbox":"152.50887216,-26.11787103,152.681181088,-26.025286004",
     "geom:latitude":-26.069003,
     "geom:longitude":152.596909,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-26.071661,
     "lbl:longitude":152.591061,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Curra"
@@ -38,12 +44,15 @@
         102049393
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30457"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934253
     ],
     "wof:country":"AU",
-    "wof:geomhash":"13290388e8084263b6379d8899682028",
+    "wof:geomhash":"3e032c112e7ef5db7466dc14c7d282de",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404541899,
-    "wof:lastmodified":1566603092,
+    "wof:lastmodified":1695877767,
     "wof:name":"Curra",
     "wof:parent_id":102049393,
     "wof:placetype":"localadmin",

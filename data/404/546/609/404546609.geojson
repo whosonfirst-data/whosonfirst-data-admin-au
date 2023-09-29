@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018587,
-    "geom:area_square_m":189660535.028937,
+    "geom:area_square_m":189660807.469213,
     "geom:bbox":"138.225222,-34.444813,138.436788,-34.344379",
     "geom:latitude":-34.391561,
     "geom:longitude":138.339523,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.394698,
     "lbl:longitude":138.339544,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0648\u0646\u0632\u0631"
@@ -186,9 +192,12 @@
         102048587
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40809"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"e2e6314fc3fbde07727acf8834c16292",
+    "wof:geomhash":"5a06f2de9f014deb61c9c2f4401eeda2",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -200,7 +209,7 @@
         }
     ],
     "wof:id":404546609,
-    "wof:lastmodified":1636494682,
+    "wof:lastmodified":1695877886,
     "wof:name":"Windsor",
     "wof:parent_id":102048587,
     "wof:placetype":"localadmin",

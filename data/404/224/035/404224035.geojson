@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003926,
-    "geom:area_square_m":41822025.53104,
+    "geom:area_square_m":41822025.531007,
     "geom:bbox":"151.458511008,-30.5409049945,151.555540992,-30.478356994",
     "geom:latitude":-30.511996,
     "geom:longitude":151.506962,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-30.517248,
     "lbl:longitude":151.507849,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Invergowrie"
@@ -65,9 +71,12 @@
         102048863
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11160"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"f2b2c8f44a1db7324f0665334560e14d",
+    "wof:geomhash":"dafd0da5836dd6073697104717dae9a6",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -79,7 +88,7 @@
         }
     ],
     "wof:id":404224035,
-    "wof:lastmodified":1566602636,
+    "wof:lastmodified":1695877494,
     "wof:name":"Invergowrie",
     "wof:parent_id":102048863,
     "wof:placetype":"localadmin",

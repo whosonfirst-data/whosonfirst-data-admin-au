@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000783,
-    "geom:area_square_m":8258833.234064,
+    "geom:area_square_m":8258833.234078,
     "geom:bbox":"145.818726368,-31.513179987,145.856627712,-31.478930456",
     "geom:latitude":-31.497097,
     "geom:longitude":145.834718,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.497282,
     "lbl:longitude":145.834345,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Cobar"
@@ -68,12 +74,15 @@
         102049423
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10549"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101929943
     ],
     "wof:country":"AU",
-    "wof:geomhash":"3c819c4387b75dfce7c33b235b650e37",
+    "wof:geomhash":"a9a74d98965ff31de71f83d4dfcb3546",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -85,7 +94,7 @@
         }
     ],
     "wof:id":404222659,
-    "wof:lastmodified":1566602769,
+    "wof:lastmodified":1695877572,
     "wof:name":"Cobar",
     "wof:parent_id":102049423,
     "wof:placetype":"localadmin",

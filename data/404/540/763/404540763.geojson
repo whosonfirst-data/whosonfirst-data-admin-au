@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018492,
-    "geom:area_square_m":182496889.258493,
+    "geom:area_square_m":182496889.258466,
     "geom:bbox":"145.154814016,-37.103798254,145.425996,-36.9752845445",
     "geom:latitude":-37.046809,
     "geom:longitude":145.286397,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.049606,
     "lbl:longitude":145.265916,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Whiteheads Creek"
@@ -38,9 +44,12 @@
         102048437
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21465"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"42b406a641fcd73f2dd38fa3a4d21441",
+    "wof:geomhash":"63b79b0f382832d5d4eb06c68781d231",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404540763,
-    "wof:lastmodified":1566602981,
+    "wof:lastmodified":1695877707,
     "wof:name":"Whiteheads Creek",
     "wof:parent_id":102048437,
     "wof:placetype":"localadmin",

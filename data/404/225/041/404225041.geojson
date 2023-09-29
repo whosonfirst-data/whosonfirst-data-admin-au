@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.203719,
-    "geom:area_square_m":2063756369.099181,
+    "geom:area_square_m":2063756369.099426,
     "geom:bbox":"143.474576,-35.3297217915,144.163252768,-34.6181569945",
     "geom:latitude":-34.988243,
     "geom:longitude":143.918981,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.952455,
     "lbl:longitude":144.009996,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Moulamein"
@@ -53,9 +59,12 @@
         102049043
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11607"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"7d02f0103158a3062456e90bec419c63",
+    "wof:geomhash":"463a10c2c12b42a08256bc443740b223",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -67,7 +76,7 @@
         }
     ],
     "wof:id":404225041,
-    "wof:lastmodified":1566602671,
+    "wof:lastmodified":1695877514,
     "wof:name":"Moulamein",
     "wof:parent_id":102049043,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.059179,
-    "geom:area_square_m":578782875.880051,
+    "geom:area_square_m":578782875.879976,
     "geom:bbox":"142.590177056,-37.8365833095,142.953038016,-37.587008005",
     "geom:latitude":-37.726175,
     "geom:longitude":142.768938,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.726152,
     "lbl:longitude":142.768972,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lake Bolac"
@@ -38,9 +44,12 @@
         102049537
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20752"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"e6ea6745bda99d5bd6c7b435d40dbea1",
+    "wof:geomhash":"ea6928139f7748366ef88486bb6883ed",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404539167,
-    "wof:lastmodified":1566602358,
+    "wof:lastmodified":1695877329,
     "wof:name":"Lake Bolac",
     "wof:parent_id":102049537,
     "wof:placetype":"localadmin",

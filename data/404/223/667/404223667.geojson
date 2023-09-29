@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.079471,
-    "geom:area_square_m":825076289.681744,
+    "geom:area_square_m":825076289.681516,
     "geom:bbox":"147.794517984,-33.048417176,148.384971744,-32.716736004",
     "geom:latitude":-32.899157,
     "geom:longitude":148.082086,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.935853,
     "lbl:longitude":148.06198,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Goonumbla"
@@ -38,9 +44,12 @@
         102048657
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10997"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"d5b6ab63b5cfd66465a92daa96cfaade",
+    "wof:geomhash":"c0c47f6d0b36e40fedb050589b5847dd",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404223667,
-    "wof:lastmodified":1566602515,
+    "wof:lastmodified":1695877422,
     "wof:name":"Goonumbla",
     "wof:parent_id":102048657,
     "wof:placetype":"localadmin",

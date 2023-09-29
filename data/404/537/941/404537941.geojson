@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034108,
-    "geom:area_square_m":334391168.447504,
+    "geom:area_square_m":334391168.447392,
     "geom:bbox":"141.747442016,-37.6627690015,142.014070016,-37.430862751",
     "geom:latitude":-37.547182,
     "geom:longitude":141.879782,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.526601,
     "lbl:longitude":141.866669,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bulart"
@@ -38,9 +44,12 @@
         102048455
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20202"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"d6ae0dd1750a39ad851ae89f5da944a5",
+    "wof:geomhash":"ee97f38c62daa95b650c13f0e5fc0c16",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404537941,
-    "wof:lastmodified":1566602331,
+    "wof:lastmodified":1695877313,
     "wof:name":"Bulart",
     "wof:parent_id":102048455,
     "wof:placetype":"localadmin",

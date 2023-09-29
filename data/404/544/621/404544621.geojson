@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.051752,
-    "geom:area_square_m":568792667.044963,
+    "geom:area_square_m":568792667.044747,
     "geom:bbox":"150.53060592,-27.4156520055,150.849155872,-27.1543299965",
     "geom:latitude":-27.270492,
     "geom:longitude":150.677836,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.256576,
     "lbl:longitude":150.67487,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Weranga"
@@ -38,9 +44,12 @@
         102048423
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31745"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"d431e75d139ce53d79517627a2b1fc67",
+    "wof:geomhash":"494ec04c80fc730540b9e7e653a49424",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404544621,
-    "wof:lastmodified":1566602156,
+    "wof:lastmodified":1695877220,
     "wof:name":"Weranga",
     "wof:parent_id":102048423,
     "wof:placetype":"localadmin",

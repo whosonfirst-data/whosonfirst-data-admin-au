@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000607,
-    "geom:area_square_m":6368240.418131,
+    "geom:area_square_m":6368240.418119,
     "geom:bbox":"116.015885536,-31.935073486,116.066925984,-31.9053199915",
     "geom:latitude":-31.919383,
     "geom:longitude":116.039818,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.919614,
     "lbl:longitude":116.039826,
     "lbl:max_zoom":18.0,
@@ -42,13 +48,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC50326",
         "wd:id":"Q5703766"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937271
     ],
     "wof:country":"AU",
-    "wof:geomhash":"5375ff2348010cf7d09c509842424743",
+    "wof:geomhash":"72b44ea22fa90d59ddfd430b07241235",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -60,7 +68,7 @@
         }
     ],
     "wof:id":404547415,
-    "wof:lastmodified":1566602931,
+    "wof:lastmodified":1695878016,
     "wof:name":"Helena Valley",
     "wof:parent_id":102049431,
     "wof:placetype":"localadmin",

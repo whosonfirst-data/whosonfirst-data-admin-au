@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013019,
-    "geom:area_square_m":154286125.515342,
+    "geom:area_square_m":154286125.515347,
     "geom:bbox":"145.268839008,-16.6440940125,145.4492376,-16.5103641725",
     "geom:latitude":-16.586298,
     "geom:longitude":145.376295,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-16.577953,
     "lbl:longitude":145.390062,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Julatten"
@@ -38,9 +44,12 @@
         102048519
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30831"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"530564c7a7c2aef514d2585541893cf3",
+    "wof:geomhash":"97796ef1f71940f3a7c542f20e22173b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404542691,
-    "wof:lastmodified":1566602307,
+    "wof:lastmodified":1695877299,
     "wof:name":"Julatten",
     "wof:parent_id":102048519,
     "wof:placetype":"localadmin",

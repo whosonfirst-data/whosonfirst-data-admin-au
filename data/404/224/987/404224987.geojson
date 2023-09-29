@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01873,
-    "geom:area_square_m":198621741.016784,
+    "geom:area_square_m":198621741.016647,
     "geom:bbox":"150.944430944,-31.043805572,151.147495008,-30.856939995",
     "geom:latitude":-30.949541,
     "geom:longitude":151.047955,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-30.959784,
     "lbl:longitude":151.066392,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Moonbi"
@@ -53,9 +59,12 @@
         102048785
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11583"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"1f1f86af72494ec226be92e4688e4032",
+    "wof:geomhash":"891a34cab9b90063243ab1f9e88c5344",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -67,7 +76,7 @@
         }
     ],
     "wof:id":404224987,
-    "wof:lastmodified":1566602648,
+    "wof:lastmodified":1695877501,
     "wof:name":"Moonbi",
     "wof:parent_id":102048785,
     "wof:placetype":"localadmin",

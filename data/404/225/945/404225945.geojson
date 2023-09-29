@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000916,
-    "geom:area_square_m":9922562.70843,
+    "geom:area_square_m":9922562.708434,
     "geom:bbox":"153.362628096,-28.8972790065,153.401118016,-28.8623545215",
     "geom:latitude":-28.880024,
     "geom:longitude":153.382249,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.877501,
     "lbl:longitude":153.38261,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Rous Mill"
@@ -38,9 +44,12 @@
         102049481
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12009"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"daaceedae11ad96bc5688111f8abf2b5",
+    "wof:geomhash":"2944b27a407c15fda51a7e51891a9fc6",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404225945,
-    "wof:lastmodified":1566602735,
+    "wof:lastmodified":1695877551,
     "wof:name":"Rous Mill",
     "wof:parent_id":102049481,
     "wof:placetype":"localadmin",

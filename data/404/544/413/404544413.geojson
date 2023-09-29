@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.161397,
-    "geom:area_square_m":1780872383.54817,
+    "geom:area_square_m":1780872383.549606,
     "geom:bbox":"148.626080992,-27.157017991,149.06791744,-26.575673473",
     "geom:latitude":-26.829299,
     "geom:longitude":148.871529,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-26.828064,
     "lbl:longitude":148.867331,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tingun"
@@ -38,9 +44,12 @@
         102049081
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31641"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"e3efe0ee17679c8bcaf1f4cba9a269a8",
+    "wof:geomhash":"754fc97d62eadc0002510b1a379f5037",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404544413,
-    "wof:lastmodified":1566602156,
+    "wof:lastmodified":1695877220,
     "wof:name":"Tingun",
     "wof:parent_id":102049081,
     "wof:placetype":"localadmin",

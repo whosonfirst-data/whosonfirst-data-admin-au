@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001147,
-    "geom:area_square_m":12415403.599091,
+    "geom:area_square_m":12415403.599101,
     "geom:bbox":"153.523245952,-28.9106145465,153.590086016,-28.8749850265",
     "geom:latitude":-28.891775,
     "geom:longitude":153.548885,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.893296,
     "lbl:longitude":153.546609,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Keith Hall"
@@ -38,9 +44,12 @@
         102049481
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11219"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"972c85a3b532f18918a5167da78a8e0d",
+    "wof:geomhash":"d5fe062a3e9040916856e12872384daf",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404224167,
-    "wof:lastmodified":1566602579,
+    "wof:lastmodified":1695877463,
     "wof:name":"Keith Hall",
     "wof:parent_id":102049481,
     "wof:placetype":"localadmin",

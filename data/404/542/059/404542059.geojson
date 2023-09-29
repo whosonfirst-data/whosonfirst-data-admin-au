@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001684,
-    "geom:area_square_m":18682429.650793,
+    "geom:area_square_m":18682429.6508,
     "geom:bbox":"152.688378464,-26.220477506,152.745611008,-26.1730330165",
     "geom:latitude":-26.197613,
     "geom:longitude":152.717472,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-26.198558,
     "lbl:longitude":152.714076,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "East Deep Creek"
@@ -38,12 +44,15 @@
         102049393
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30535"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934345
     ],
     "wof:country":"AU",
-    "wof:geomhash":"031fcaed1376a24fd3922beb60d461a4",
+    "wof:geomhash":"4fa25512f38a251e1aed998690a88aae",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404542059,
-    "wof:lastmodified":1566602305,
+    "wof:lastmodified":1695877297,
     "wof:name":"East Deep Creek",
     "wof:parent_id":102049393,
     "wof:placetype":"localadmin",

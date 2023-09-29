@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.093818,
-    "geom:area_square_m":992054689.717838,
+    "geom:area_square_m":992054689.718413,
     "geom:bbox":"149.788574688,-31.458229918,150.14300112,-31.0231278815",
     "geom:latitude":-31.22241,
     "geom:longitude":149.960934,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.221808,
     "lbl:longitude":149.981971,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tambar Springs"
@@ -38,9 +44,12 @@
         102049111
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12207"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"a3e4a48d13eec4094686979e7a3e730b",
+    "wof:geomhash":"b0f56631e3912623cf7b8eeb345e101f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404226391,
-    "wof:lastmodified":1566602013,
+    "wof:lastmodified":1695877139,
     "wof:name":"Tambar Springs",
     "wof:parent_id":102049111,
     "wof:placetype":"localadmin",

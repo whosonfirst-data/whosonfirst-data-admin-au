@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00374,
-    "geom:area_square_m":40756445.987986,
+    "geom:area_square_m":40756445.987979,
     "geom:bbox":"152.155128992,-28.2312179935,152.256359008,-28.1708309965",
     "geom:latitude":-28.198633,
     "geom:longitude":152.202682,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.203745,
     "lbl:longitude":152.198589,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Yangan"
@@ -45,9 +51,12 @@
         102048963
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31840"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"977b6db442640200babe46f0ccfdb752",
+    "wof:geomhash":"ab6a784120bb9af030dd1b4acd9f840c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -60,7 +69,7 @@
         }
     ],
     "wof:id":404544821,
-    "wof:lastmodified":1566602158,
+    "wof:lastmodified":1695877221,
     "wof:name":"Yangan",
     "wof:parent_id":102048963,
     "wof:placetype":"localadmin",

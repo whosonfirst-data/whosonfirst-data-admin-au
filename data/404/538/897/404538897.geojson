@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010664,
-    "geom:area_square_m":103961955.704269,
+    "geom:area_square_m":103961955.7044,
     "geom:bbox":"146.048968992,-38.040564069,146.194741408,-37.862371255",
     "geom:latitude":-37.96183,
     "geom:longitude":146.121572,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.985936,
     "lbl:longitude":146.138647,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Hill End"
@@ -50,9 +56,12 @@
         102048523
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20630"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"3b7049c75b4a27c67b0c8c01af5915d5",
+    "wof:geomhash":"638d002218a8ed9416c8cd6faee116c0",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":404538897,
-    "wof:lastmodified":1566602478,
+    "wof:lastmodified":1695877400,
     "wof:name":"Hill End",
     "wof:parent_id":102048523,
     "wof:placetype":"localadmin",

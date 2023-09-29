@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.154133,
-    "geom:area_square_m":1762642983.855987,
+    "geom:area_square_m":1762642983.85624,
     "geom:bbox":"149.31462,-22.647307993,149.767381472,-21.964164894",
     "geom:latitude":-22.354509,
     "geom:longitude":149.503807,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-22.368814,
     "lbl:longitude":149.488224,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "St Lawrence"
@@ -38,9 +44,12 @@
         102049343
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31528"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"d26f169b317cad14b0a8ae2c25bda5ed",
+    "wof:geomhash":"b446dfbd855e1a6ea6895352ee2277e7",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404544171,
-    "wof:lastmodified":1566602207,
+    "wof:lastmodified":1695877247,
     "wof:name":"St Lawrence",
     "wof:parent_id":102049343,
     "wof:placetype":"localadmin",

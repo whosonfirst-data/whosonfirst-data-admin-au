@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001197,
-    "geom:area_square_m":13971824.264033,
+    "geom:area_square_m":13971824.264018,
     "geom:bbox":"146.702141664,-19.281196252,146.760915936,-19.231792298",
     "geom:latitude":-19.258591,
     "geom:longitude":146.728668,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-19.255579,
     "lbl:longitude":146.740885,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bohle"
@@ -38,12 +44,15 @@
         102048451
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30187"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101933965
     ],
     "wof:country":"AU",
-    "wof:geomhash":"c1ab4fe2a66f6f3cc9aaad16a7429be7",
+    "wof:geomhash":"1fe76fb71d18a4020967866137af5eef",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404541331,
-    "wof:lastmodified":1566603044,
+    "wof:lastmodified":1695877743,
     "wof:name":"Bohle",
     "wof:parent_id":102048451,
     "wof:placetype":"localadmin",

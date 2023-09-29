@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000737,
-    "geom:area_square_m":7839859.222197,
+    "geom:area_square_m":7839859.222192,
     "geom:bbox":"121.458104992,-30.7396600035,121.496006016,-30.701090593",
     "geom:latitude":-30.716784,
     "geom:longitude":121.47455,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-30.716403,
     "lbl:longitude":121.474845,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041c\u044a\u043b\u0438\u043d\u0433\u0430\u0440"
@@ -140,12 +146,15 @@
         102049523
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50548"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937561
     ],
     "wof:country":"AU",
-    "wof:geomhash":"3892c07a21f1ca0adf81c2f36cdc9869",
+    "wof:geomhash":"92da772215db6daee5dd115ac7eb1dc6",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -157,7 +166,7 @@
         }
     ],
     "wof:id":404547915,
-    "wof:lastmodified":1566602944,
+    "wof:lastmodified":1695877685,
     "wof:name":"Mullingar",
     "wof:parent_id":102049523,
     "wof:placetype":"localadmin",

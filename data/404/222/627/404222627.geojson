@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000349,
-    "geom:area_square_m":3598015.349933,
+    "geom:area_square_m":3598030.663277,
     "geom:bbox":"150.774528,-33.631199,150.803454,-33.606883",
     "geom:latitude":-33.616254,
     "geom:longitude":150.788378,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.616197,
     "lbl:longitude":150.788157,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Clarendon"
@@ -92,12 +98,15 @@
         102048745
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10534"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101929921
     ],
     "wof:country":"AU",
-    "wof:geomhash":"9ae9f03e58d5059362bed66090222c9e",
+    "wof:geomhash":"99edf9943e21ee7bdfcb00dfef59ba0f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -109,7 +118,7 @@
         }
     ],
     "wof:id":404222627,
-    "wof:lastmodified":1636494655,
+    "wof:lastmodified":1695877869,
     "wof:name":"Clarendon",
     "wof:parent_id":102048745,
     "wof:placetype":"localadmin",

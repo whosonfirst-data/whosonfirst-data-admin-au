@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000406,
-    "geom:area_square_m":4815285.904897,
+    "geom:area_square_m":4815285.904874,
     "geom:bbox":"145.365136416,-16.4871639515,145.38728592,-16.450402916",
     "geom:latitude":-16.468368,
     "geom:longitude":145.375093,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-16.46638,
     "lbl:longitude":145.374017,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mossman"
@@ -47,12 +53,15 @@
         102048911
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31110"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934895
     ],
     "wof:country":"AU",
-    "wof:geomhash":"77a131f69ca6d6410ea1c9b44deb5fea",
+    "wof:geomhash":"42d33880fa4b101e3e26eae455b0ca41",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":404543279,
-    "wof:lastmodified":1566602127,
+    "wof:lastmodified":1695877206,
     "wof:name":"Mossman",
     "wof:parent_id":102048911,
     "wof:placetype":"localadmin",

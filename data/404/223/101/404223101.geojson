@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000122,
-    "geom:area_square_m":1251252.623533,
+    "geom:area_square_m":1251252.623524,
     "geom:bbox":"151.027739552,-33.8093554575,151.057510912,-33.798316119",
     "geom:latitude":-33.802696,
     "geom:longitude":151.043367,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.802497,
     "lbl:longitude":151.04337,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Dundas"
@@ -72,12 +78,15 @@
         102049565
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10745"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101930131
     ],
     "wof:country":"AU",
-    "wof:geomhash":"791970c364f8878c14f35fac2f86fbc0",
+    "wof:geomhash":"8bf3af15c6bf3eaec5822766ee0f979c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -90,7 +99,7 @@
         }
     ],
     "wof:id":404223101,
-    "wof:lastmodified":1566602538,
+    "wof:lastmodified":1695877436,
     "wof:name":"Dundas",
     "wof:parent_id":102049565,
     "wof:placetype":"localadmin",

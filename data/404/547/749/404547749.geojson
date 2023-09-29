@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.101045,
-    "geom:area_square_m":1048945940.0723,
+    "geom:area_square_m":1048945940.072041,
     "geom:bbox":"116.17822416,-33.085828394,116.617713408,-32.6782010035",
     "geom:latitude":-32.909328,
     "geom:longitude":116.376078,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.906044,
     "lbl:longitude":116.321217,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Marradong"
@@ -38,9 +44,12 @@
         102049531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50474"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"35e354e78ed51b97a9a6ecb96197cdcd",
+    "wof:geomhash":"f06f340efe30c0e8bfb7541655a92ff0",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404547749,
-    "wof:lastmodified":1566602945,
+    "wof:lastmodified":1695877685,
     "wof:name":"Marradong",
     "wof:parent_id":102049531,
     "wof:placetype":"localadmin",

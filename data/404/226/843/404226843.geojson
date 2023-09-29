@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.046814,
-    "geom:area_square_m":474393870.228526,
+    "geom:area_square_m":474393870.228529,
     "geom:bbox":"147.605900992,-35.097305422,147.905184256,-34.831437852",
     "geom:latitude":-34.962539,
     "geom:longitude":147.739273,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.979415,
     "lbl:longitude":147.736384,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Wantabadgery"
@@ -38,9 +44,12 @@
         102049607
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12408"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"4e88795388c1d2019817e89561a0a7fb",
+    "wof:geomhash":"c5e69acaef8891030014471816a4cf85",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404226843,
-    "wof:lastmodified":1566602029,
+    "wof:lastmodified":1695877149,
     "wof:name":"Wantabadgery",
     "wof:parent_id":102049607,
     "wof:placetype":"localadmin",

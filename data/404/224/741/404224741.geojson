@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000102,
-    "geom:area_square_m":1036868.574568,
+    "geom:area_square_m":1036868.574567,
     "geom:bbox":"147.342574432,-34.8317973625,147.358258592,-34.8206413445",
     "geom:latitude":-34.825847,
     "geom:longitude":147.350513,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.825121,
     "lbl:longitude":147.350632,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Marrar"
@@ -38,12 +44,15 @@
         102049103
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11474"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931159
     ],
     "wof:country":"AU",
-    "wof:geomhash":"683aa91ed84ce38c60083df1d4430691",
+    "wof:geomhash":"1fba611ac81ddb4153875f23de37099d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404224741,
-    "wof:lastmodified":1566602609,
+    "wof:lastmodified":1695877481,
     "wof:name":"Marrar",
     "wof:parent_id":102049103,
     "wof:placetype":"localadmin",

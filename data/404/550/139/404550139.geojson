@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000364,
-    "geom:area_square_m":3674237.025572,
+    "geom:area_square_m":3674237.025564,
     "geom:bbox":"149.143699008,-35.247075835,149.172711296,-35.222484414",
     "geom:latitude":-35.234742,
     "geom:longitude":149.15944,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.23482,
     "lbl:longitude":149.15922,
     "lbl:max_zoom":18.0,
@@ -119,13 +125,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC80100",
         "wd:id":"Q4476251"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938915
     ],
     "wof:country":"AU",
-    "wof:geomhash":"d0ec8c3b41967895a0abeb5bf125920d",
+    "wof:geomhash":"4a3af521e5fd79d6c7bea38d34fc0076",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -136,7 +144,7 @@
         }
     ],
     "wof:id":404550139,
-    "wof:lastmodified":1566601929,
+    "wof:lastmodified":1695877892,
     "wof:name":"Watson",
     "wof:parent_id":85681493,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.068822,
-    "geom:area_square_m":722720325.179831,
+    "geom:area_square_m":722720325.179938,
     "geom:bbox":"148.298885824,-32.017230802,148.752937792,-31.7287139965",
     "geom:latitude":-31.867898,
     "geom:longitude":148.506776,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.864004,
     "lbl:longitude":148.522251,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Balladoran"
@@ -38,9 +44,12 @@
         102048991
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10087"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"23074fcf1233043dac2089be0f3180e3",
+    "wof:geomhash":"e11b564554cb117501ec6cdf4865bc21",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404221621,
-    "wof:lastmodified":1566601973,
+    "wof:lastmodified":1695877120,
     "wof:name":"Balladoran",
     "wof:parent_id":102048991,
     "wof:placetype":"localadmin",

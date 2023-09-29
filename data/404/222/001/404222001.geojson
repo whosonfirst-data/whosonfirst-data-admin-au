@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000391,
-    "geom:area_square_m":4174811.589644,
+    "geom:area_square_m":4174811.589635,
     "geom:bbox":"153.063556992,-30.360060002,153.093428,-30.3279191565",
     "geom:latitude":-30.344091,
     "geom:longitude":153.078215,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-30.343956,
     "lbl:longitude":153.077994,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Boambee East"
@@ -38,12 +44,15 @@
         102048797
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10256"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101929619
     ],
     "wof:country":"AU",
-    "wof:geomhash":"8db1032c7bcd08434b89342fcaffa701",
+    "wof:geomhash":"b6c0839b4eea65de8ffbaf292abea466",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404222001,
-    "wof:lastmodified":1566602770,
+    "wof:lastmodified":1695877573,
     "wof:name":"Boambee East",
     "wof:parent_id":102048797,
     "wof:placetype":"localadmin",

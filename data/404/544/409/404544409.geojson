@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017988,
-    "geom:area_square_m":199279670.801783,
+    "geom:area_square_m":199279670.801733,
     "geom:bbox":"151.785529312,-26.4341770185,152.038536128,-26.3022104135",
     "geom:latitude":-26.367653,
     "geom:longitude":151.919779,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-26.356978,
     "lbl:longitude":151.928427,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Tingoora"
@@ -47,9 +53,12 @@
         102048861
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31640"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"0740aeb8f171aa1847cdcdfa5db3bef0",
+    "wof:geomhash":"92f3f5f9ccfd07437bcb86f6cc231932",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":404544409,
-    "wof:lastmodified":1566602166,
+    "wof:lastmodified":1695877225,
     "wof:name":"Tingoora",
     "wof:parent_id":102048861,
     "wof:placetype":"localadmin",

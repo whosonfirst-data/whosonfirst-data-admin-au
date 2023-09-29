@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000453,
-    "geom:area_square_m":4724331.931238,
+    "geom:area_square_m":4724331.931269,
     "geom:bbox":"149.571472,-32.5888159965,149.598735328,-32.563117998",
     "geom:latitude":-32.575286,
     "geom:longitude":149.584787,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.575462,
     "lbl:longitude":149.58453,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Putta Bucca"
@@ -38,12 +44,15 @@
         102049261
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11919"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931653
     ],
     "wof:country":"AU",
-    "wof:geomhash":"d010e59a266a2d28fd42ed4716482dbc",
+    "wof:geomhash":"75954c3976c1b2bc182157f630e78de9",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404225743,
-    "wof:lastmodified":1566602732,
+    "wof:lastmodified":1695877548,
     "wof:name":"Putta Bucca",
     "wof:parent_id":102049261,
     "wof:placetype":"localadmin",

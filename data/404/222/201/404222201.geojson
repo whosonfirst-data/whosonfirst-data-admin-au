@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019842,
-    "geom:area_square_m":198966195.718471,
+    "geom:area_square_m":198966195.718457,
     "geom:bbox":"146.571950016,-35.897472639,146.749470112,-35.729542996",
     "geom:latitude":-35.812607,
     "geom:longitude":146.664348,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.811898,
     "lbl:longitude":146.657201,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Brocklesby"
@@ -53,9 +59,12 @@
         102049625
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10345"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"7b12b8e7c344eeb6fb7f7c5cadb07566",
+    "wof:geomhash":"917546fe3d7413fb80a535f3801e89e9",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -67,7 +76,7 @@
         }
     ],
     "wof:id":404222201,
-    "wof:lastmodified":1566602804,
+    "wof:lastmodified":1695877594,
     "wof:name":"Brocklesby",
     "wof:parent_id":102049625,
     "wof:placetype":"localadmin",

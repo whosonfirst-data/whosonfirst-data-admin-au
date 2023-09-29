@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003998,
-    "geom:area_square_m":41239509.481502,
+    "geom:area_square_m":41239509.481566,
     "geom:bbox":"150.738484,-33.5091130005,150.856299072,-33.4321239925",
     "geom:latitude":-33.473261,
     "geom:longitude":150.798062,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.478751,
     "lbl:longitude":150.788275,
     "lbl:max_zoom":18.0,
@@ -42,10 +48,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC10247",
         "wd:id":"Q4925567"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"4956652e0fdc6ace784c4ad424c3b83b",
+    "wof:geomhash":"eafc1933f564e9027466101874ec1746",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +65,7 @@
         }
     ],
     "wof:id":404221981,
-    "wof:lastmodified":1566602011,
+    "wof:lastmodified":1695877904,
     "wof:name":"Blaxlands Ridge",
     "wof:parent_id":102048745,
     "wof:placetype":"localadmin",

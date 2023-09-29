@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.128361,
-    "geom:area_square_m":1318189599.155642,
+    "geom:area_square_m":1318189599.155281,
     "geom:bbox":"146.40903968,-34.0233370025,146.96514,-33.70128003",
     "geom:latitude":-33.849126,
     "geom:longitude":146.67377,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.856818,
     "lbl:longitude":146.61275,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Weethalle"
@@ -38,9 +44,12 @@
         102049365
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12450"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"5d7a66c5408675a60c3b7b5543dedeb9",
+    "wof:geomhash":"988a1bd4a3d2029ba3b6b7e51497b0da",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404226937,
-    "wof:lastmodified":1566602017,
+    "wof:lastmodified":1695877141,
     "wof:name":"Weethalle",
     "wof:parent_id":102049365,
     "wof:placetype":"localadmin",

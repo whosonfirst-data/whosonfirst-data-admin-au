@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000297,
-    "geom:area_square_m":3058911.990219,
+    "geom:area_square_m":3058911.990223,
     "geom:bbox":"151.279574752,-33.671565996,151.304603008,-33.6504450085",
     "geom:latitude":-33.662135,
     "geom:longitude":151.291483,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.662424,
     "lbl:longitude":151.291288,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bayview"
@@ -72,12 +78,15 @@
         102048751
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10138"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101929505
     ],
     "wof:country":"AU",
-    "wof:geomhash":"8cec33c447dbe0184d40e8f19e0ee272",
+    "wof:geomhash":"bb79b41e57bbbf66dc146078d327cca1",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -90,7 +99,7 @@
         }
     ],
     "wof:id":404221735,
-    "wof:lastmodified":1566601991,
+    "wof:lastmodified":1695877129,
     "wof:name":"Bayview",
     "wof:parent_id":102048751,
     "wof:placetype":"localadmin",

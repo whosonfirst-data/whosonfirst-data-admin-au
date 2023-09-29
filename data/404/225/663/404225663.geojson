@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.080316,
-    "geom:area_square_m":809124057.791147,
+    "geom:area_square_m":809124057.79077,
     "geom:bbox":"146.641861472,-35.575860388,147.071424064,-35.2912150035",
     "geom:latitude":-35.439357,
     "geom:longitude":146.815629,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.454683,
     "lbl:longitude":146.815581,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Pleasant Hills"
@@ -65,9 +71,12 @@
         102048617
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11884"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"8515d0b87291583d65b7a21f8ced0db8",
+    "wof:geomhash":"2d523e4d1ad0a91b6438c581c8e7de2c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -79,7 +88,7 @@
         }
     ],
     "wof:id":404225663,
-    "wof:lastmodified":1566602723,
+    "wof:lastmodified":1695877543,
     "wof:name":"Pleasant Hills",
     "wof:parent_id":102048617,
     "wof:placetype":"localadmin",

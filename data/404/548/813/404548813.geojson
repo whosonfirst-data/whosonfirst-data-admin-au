@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.067228,
-    "geom:area_square_m":620281904.302365,
+    "geom:area_square_m":620281904.302099,
     "geom:bbox":"147.186210016,-41.8732890075,147.653623008,-41.600245565",
     "geom:latitude":-41.740669,
     "geom:longitude":147.419053,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-41.750867,
     "lbl:longitude":147.403158,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Conara"
@@ -38,9 +44,12 @@
         102049249
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60064"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"7f60821af3c6b061b1b3e190e892e103",
+    "wof:geomhash":"cb777a0777f469dc141d0b882cb4bd15",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404548813,
-    "wof:lastmodified":1566603211,
+    "wof:lastmodified":1695877821,
     "wof:name":"Conara",
     "wof:parent_id":102049249,
     "wof:placetype":"localadmin",

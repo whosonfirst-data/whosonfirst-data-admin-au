@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00222,
-    "geom:area_square_m":23524992.22725,
+    "geom:area_square_m":23524992.227169,
     "geom:bbox":"150.852292896,-31.042594007,150.899352,-30.972440009",
     "geom:latitude":-31.011176,
     "geom:longitude":150.873982,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.014866,
     "lbl:longitude":150.871184,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Hallsville"
@@ -65,9 +71,12 @@
         102048785
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11063"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"b30865152fed9ae032e7a816e6587054",
+    "wof:geomhash":"fc6b06d533e5bf13524c1c0b00ae6ce0",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -79,7 +88,7 @@
         }
     ],
     "wof:id":404223817,
-    "wof:lastmodified":1566602506,
+    "wof:lastmodified":1695877417,
     "wof:name":"Hallsville",
     "wof:parent_id":102048785,
     "wof:placetype":"localadmin",

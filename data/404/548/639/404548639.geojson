@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001971,
-    "geom:area_square_m":20278321.638613,
+    "geom:area_square_m":20278321.638592,
     "geom:bbox":"115.073867872,-33.723110992,115.13234,-33.668567997",
     "geom:latitude":-33.697839,
     "geom:longitude":115.10158,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.699059,
     "lbl:longitude":115.09865,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Yallingup Siding"
@@ -39,9 +45,12 @@
         102048623
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50874"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"a562d30dd000857e2bac1da493e0473f",
+    "wof:geomhash":"1b69c3e18d22b9aca9e57b4f9f14a1b3",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":404548639,
-    "wof:lastmodified":1566603217,
+    "wof:lastmodified":1695877824,
     "wof:name":"Yallingup Siding",
     "wof:parent_id":102048623,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011344,
-    "geom:area_square_m":115437334.017212,
+    "geom:area_square_m":115437334.017138,
     "geom:bbox":"150.535791008,-34.6969450165,150.746636992,-34.5575839985",
     "geom:latitude":-34.61469,
     "geom:longitude":150.620195,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.60782,
     "lbl:longitude":150.592366,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0420\u043e\u0431\u0435\u0440\u0442\u0441\u0430\u043d"
@@ -114,9 +120,12 @@
         102048539
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11978"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"3806db1e2f6adaa689d88faf0cdd9268",
+    "wof:geomhash":"7e5622ba46e254c60fa4e84efe0f57cb",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -129,7 +138,7 @@
         }
     ],
     "wof:id":404225875,
-    "wof:lastmodified":1566602678,
+    "wof:lastmodified":1695877518,
     "wof:name":"Robertson",
     "wof:parent_id":102048539,
     "wof:placetype":"localadmin",

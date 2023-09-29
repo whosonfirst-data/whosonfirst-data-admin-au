@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.249293,
-    "geom:area_square_m":13997748166.428061,
+    "geom:area_square_m":13997748645.013325,
     "geom:bbox":"145.317823,-25.754714,147.290593,-24.296494",
     "geom:latitude":-25.021482,
     "geom:longitude":146.246715,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-24.904747,
     "lbl:longitude":146.313432,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Tambo"
@@ -74,9 +80,12 @@
         102049175
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31572"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"c8bc3c301d24e4229ec51cde3a4eeca0",
+    "wof:geomhash":"fac33a32704fa45ba69eb85c95d7bcc2",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -88,7 +97,7 @@
         }
     ],
     "wof:id":404544261,
-    "wof:lastmodified":1636494620,
+    "wof:lastmodified":1695877852,
     "wof:name":"Tambo",
     "wof:parent_id":102049175,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003426,
-    "geom:area_square_m":34612044.735586,
+    "geom:area_square_m":34612044.735564,
     "geom:bbox":"138.696287104,-35.2433113995,138.811364992,-35.1692213415",
     "geom:latitude":-35.212182,
     "geom:longitude":138.745639,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.226976,
     "lbl:longitude":138.765651,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Prospect Hill"
@@ -45,9 +51,12 @@
         102048895
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40607"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"2601ab2e236cf86546dc871e2f94b27f",
+    "wof:geomhash":"8e88ccc8b0c0716189037e371ff383d4",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -60,7 +69,7 @@
         }
     ],
     "wof:id":404546179,
-    "wof:lastmodified":1566603152,
+    "wof:lastmodified":1695877790,
     "wof:name":"Prospect Hill",
     "wof:parent_id":102048895,
     "wof:placetype":"localadmin",

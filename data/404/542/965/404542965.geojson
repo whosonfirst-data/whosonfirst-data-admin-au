@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.350189,
-    "geom:area_square_m":4219886085.039246,
+    "geom:area_square_m":4219886085.038633,
     "geom:bbox":"142.883046144,-13.4858602965,143.61744096,-12.482514998",
     "geom:latitude":-12.955902,
     "geom:longitude":143.248421,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-12.934874,
     "lbl:longitude":143.153947,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Lockhart River"
@@ -47,9 +53,12 @@
         102049549
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30957"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"d2a67de6b9c85b2cf960fdbe56febfa2",
+    "wof:geomhash":"a99fe11773501d8b02d6efabff89dd2d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":404542965,
-    "wof:lastmodified":1566602262,
+    "wof:lastmodified":1695877271,
     "wof:name":"Lockhart River",
     "wof:parent_id":102049549,
     "wof:placetype":"localadmin",

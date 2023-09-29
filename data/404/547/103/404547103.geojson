@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00047,
-    "geom:area_square_m":4941707.353206,
+    "geom:area_square_m":4941707.353199,
     "geom:bbox":"115.753600864,-31.798296807,115.784692832,-31.7747767395",
     "geom:latitude":-31.787265,
     "geom:longitude":115.769894,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.78582,
     "lbl:longitude":115.771446,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Craigie"
@@ -54,12 +60,15 @@
         102048433
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50186"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937059
     ],
     "wof:country":"AU",
-    "wof:geomhash":"69443c0d4ad1d37b1d0251b7c0f1da7a",
+    "wof:geomhash":"a83c5127540916691ad58d0546262014",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -72,7 +81,7 @@
         }
     ],
     "wof:id":404547103,
-    "wof:lastmodified":1566602920,
+    "wof:lastmodified":1695877673,
     "wof:name":"Craigie",
     "wof:parent_id":102048433,
     "wof:placetype":"localadmin",

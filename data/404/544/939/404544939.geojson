@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000155,
-    "geom:area_square_m":1566944.387026,
+    "geom:area_square_m":1566944.387028,
     "geom:bbox":"138.651134528,-34.9559019855,138.667628896,-34.9438086835",
     "geom:latitude":-34.949971,
     "geom:longitude":138.659354,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.949979,
     "lbl:longitude":138.659357,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Beaumont"
@@ -150,12 +156,15 @@
         102048505
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40038"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935769
     ],
     "wof:country":"AU",
-    "wof:geomhash":"9a9555838d81ca9a00f3446a312d5028",
+    "wof:geomhash":"4187891feaf15610526bf8e6d7702bae",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -168,7 +177,7 @@
         }
     ],
     "wof:id":404544939,
-    "wof:lastmodified":1566602151,
+    "wof:lastmodified":1695877218,
     "wof:name":"Beaumont",
     "wof:parent_id":102048505,
     "wof:placetype":"localadmin",

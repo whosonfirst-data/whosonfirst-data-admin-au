@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018267,
-    "geom:area_square_m":176269424.178931,
+    "geom:area_square_m":176269424.179123,
     "geom:bbox":"145.728851456,-38.802143468,146.009584544,-38.578836998",
     "geom:latitude":-38.702307,
     "geom:longitude":145.879097,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.716047,
     "lbl:longitude":145.865383,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tarwin Lower"
@@ -38,9 +44,12 @@
         102048701
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21311"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"fcba5980415fec28ba8664a23f1c99ca",
+    "wof:geomhash":"ccc3dfd76b0f1706a0e147ce922a88e7",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404540419,
-    "wof:lastmodified":1566603019,
+    "wof:lastmodified":1695877729,
     "wof:name":"Tarwin Lower",
     "wof:parent_id":102048701,
     "wof:placetype":"localadmin",

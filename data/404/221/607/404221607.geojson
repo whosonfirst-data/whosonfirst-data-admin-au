@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.094116,
-    "geom:area_square_m":1002844534.56382,
+    "geom:area_square_m":1002844534.563671,
     "geom:bbox":"150.934265504,-30.7284868545,151.41996,-30.228074009",
     "geom:latitude":-30.489067,
     "geom:longitude":151.162191,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-30.340272,
     "lbl:longitude":151.057755,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Balala"
@@ -38,9 +44,12 @@
         102048863
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10081"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"2883afa9027f2cd38315a881188cd697",
+    "wof:geomhash":"8eeadef072b9f460006b67ed158a98e1",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404221607,
-    "wof:lastmodified":1566602004,
+    "wof:lastmodified":1695877134,
     "wof:name":"Balala",
     "wof:parent_id":102048863,
     "wof:placetype":"localadmin",

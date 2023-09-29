@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003398,
-    "geom:area_square_m":37655229.683748,
+    "geom:area_square_m":37655229.683749,
     "geom:bbox":"152.762990496,-26.380278952,152.853359488,-26.2958189965",
     "geom:latitude":-26.340417,
     "geom:longitude":152.812662,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-26.333175,
     "lbl:longitude":152.812616,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Cooran"
@@ -39,9 +45,12 @@
         102049303
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30417"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"c2b8670b10dba22090ebfdeb32680f87",
+    "wof:geomhash":"a8d502e3df4d21e437ff614288e527f0",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":404541817,
-    "wof:lastmodified":1566603055,
+    "wof:lastmodified":1695877747,
     "wof:name":"Cooran",
     "wof:parent_id":102049303,
     "wof:placetype":"localadmin",

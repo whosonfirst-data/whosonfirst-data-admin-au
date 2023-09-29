@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001331,
-    "geom:area_square_m":15387857.496529,
+    "geom:area_square_m":15387857.496526,
     "geom:bbox":"116.848406144,-20.7576559995,116.91,-20.7205469975",
     "geom:latitude":-20.739462,
     "geom:longitude":116.87742,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-20.741291,
     "lbl:longitude":116.880456,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mulataga"
@@ -38,12 +44,15 @@
         102048511
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50544"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937557
     ],
     "wof:country":"AU",
-    "wof:geomhash":"47920ff7a568a064c94f335dc39eeba2",
+    "wof:geomhash":"4b72ca0bf59b40b495ccb901a473acbd",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404547907,
-    "wof:lastmodified":1566602919,
+    "wof:lastmodified":1695877672,
     "wof:name":"Mulataga",
     "wof:parent_id":102048511,
     "wof:placetype":"localadmin",

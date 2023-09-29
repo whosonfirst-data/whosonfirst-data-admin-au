@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00046,
-    "geom:area_square_m":4700122.308138,
+    "geom:area_square_m":4700122.308141,
     "geom:bbox":"142.072326,-34.222068,142.100694,-34.193996",
     "geom:latitude":-34.209315,
     "geom:longitude":142.085239,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.208988,
     "lbl:longitude":142.085449,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Cabarita"
@@ -34,19 +40,22 @@
     "qs:source":"Australian Bureau Of Statistics",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681497,
         102191583,
         85632793,
-        102049611,
         136253039,
-        85681497
+        102049611
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20229"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         1175610495
     ],
     "wof:country":"AU",
-    "wof:geomhash":"ea80911ee4f45b00afed4c7070c4fc55",
+    "wof:geomhash":"ef87b9451ed11f6d379738a48d66d51a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404538001,
-    "wof:lastmodified":1607986425,
+    "wof:lastmodified":1695877840,
     "wof:name":"Cabarita",
     "wof:parent_id":102049611,
     "wof:placetype":"localadmin",

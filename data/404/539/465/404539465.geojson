@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001879,
-    "geom:area_square_m":18398309.851419,
+    "geom:area_square_m":18398309.851422,
     "geom:bbox":"144.449291008,-37.6856779955,144.499960096,-37.6292030085",
     "geom:latitude":-37.657123,
     "geom:longitude":144.477231,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.657796,
     "lbl:longitude":144.477237,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Merrimu"
@@ -38,9 +44,12 @@
         102049283
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20884"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"6f74a662003b87ef8b983c64fcb8338a",
+    "wof:geomhash":"510edb7fc9bbf6d892e4819dd8b90281",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404539465,
-    "wof:lastmodified":1566602374,
+    "wof:lastmodified":1695877339,
     "wof:name":"Merrimu",
     "wof:parent_id":102049283,
     "wof:placetype":"localadmin",

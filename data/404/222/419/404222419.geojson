@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00072,
-    "geom:area_square_m":7474862.910597,
+    "geom:area_square_m":7474862.910574,
     "geom:bbox":"151.586530752,-32.9224842905,151.623128608,-32.889260307",
     "geom:latitude":-32.90701,
     "geom:longitude":151.605285,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.908165,
     "lbl:longitude":151.606772,
     "lbl:max_zoom":18.0,
@@ -76,13 +82,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC10442",
         "wd:id":"Q5026329"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101929793
     ],
     "wof:country":"AU",
-    "wof:geomhash":"02243c87dde56c5ed983338a8680861f",
+    "wof:geomhash":"fcfb5428b409e539f1843e2e0c6f2698",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -95,7 +103,7 @@
         }
     ],
     "wof:id":404222419,
-    "wof:lastmodified":1566602791,
+    "wof:lastmodified":1695878001,
     "wof:name":"Cameron Park",
     "wof:parent_id":102048999,
     "wof:placetype":"localadmin",

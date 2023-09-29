@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.12408,
-    "geom:area_square_m":1494766844.131952,
+    "geom:area_square_m":1494766844.131916,
     "geom:bbox":"130.889081152,-13.270601197,131.279458496,-12.8158312555",
     "geom:latitude":-13.02905,
     "geom:longitude":131.068961,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-12.975176,
     "lbl:longitude":131.136671,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Rum Jungle"
@@ -38,9 +44,12 @@
         102048577
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC70166"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"9a087abee70ab1978517f8a5b61517fa",
+    "wof:geomhash":"f3284a7888f20e8c463f446e6def73b5",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404549851,
-    "wof:lastmodified":1566602849,
+    "wof:lastmodified":1695877625,
     "wof:name":"Rum Jungle",
     "wof:parent_id":102048577,
     "wof:placetype":"localadmin",

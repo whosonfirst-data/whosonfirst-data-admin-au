@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000567,
-    "geom:area_square_m":6264820.568523,
+    "geom:area_square_m":6264820.5685,
     "geom:bbox":"152.935716512,-26.602059616,152.971014016,-26.574710992",
     "geom:latitude":-26.587513,
     "geom:longitude":152.952322,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-26.585255,
     "lbl:longitude":152.953528,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kulangoor"
@@ -39,9 +45,12 @@
         102049303
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30905"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"3ae0676ee728c27304fc83d821e157c6",
+    "wof:geomhash":"c700e90e9137fa77c9b804aacc8f6448",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":404542853,
-    "wof:lastmodified":1566602306,
+    "wof:lastmodified":1695877299,
     "wof:name":"Kulangoor",
     "wof:parent_id":102049303,
     "wof:placetype":"localadmin",

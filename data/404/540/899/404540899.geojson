@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037215,
-    "geom:area_square_m":367152215.937908,
+    "geom:area_square_m":367152215.937288,
     "geom:bbox":"145.513747008,-37.208213475,145.77838416,-36.938153176",
     "geom:latitude":-37.074581,
     "geom:longitude":145.633185,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.085175,
     "lbl:longitude":145.635234,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Yarck"
@@ -38,9 +44,12 @@
         102048737
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21527"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"f8ca05a258b40b622291adda99b55dd4",
+    "wof:geomhash":"807ba140d7083ea68305e78592a7634e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404540899,
-    "wof:lastmodified":1566603032,
+    "wof:lastmodified":1695877737,
     "wof:name":"Yarck",
     "wof:parent_id":102048737,
     "wof:placetype":"localadmin",

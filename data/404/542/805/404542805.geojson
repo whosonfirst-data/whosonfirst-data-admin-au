@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003022,
-    "geom:area_square_m":33234572.322287,
+    "geom:area_square_m":33234572.322247,
     "geom:bbox":"152.797846016,-27.229559044,152.891667008,-27.147727846",
     "geom:latitude":-27.19039,
     "geom:longitude":152.842208,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.201395,
     "lbl:longitude":152.850033,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "King Scrub"
@@ -39,9 +45,12 @@
         102049131
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30883"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"aed0233f0ebb353098fdcbb12b79a0b3",
+    "wof:geomhash":"50a37eb113f11820a4fb4f3290cae7fb",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":404542805,
-    "wof:lastmodified":1566602281,
+    "wof:lastmodified":1695877282,
     "wof:name":"King Scrub",
     "wof:parent_id":102049131,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.041315,
-    "geom:area_square_m":421071624.088762,
+    "geom:area_square_m":421071624.088904,
     "geom:bbox":"149.66889,-34.6324886855,149.930047008,-34.3748078095",
     "geom:latitude":-34.489247,
     "geom:longitude":149.80126,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.490256,
     "lbl:longitude":149.798672,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Myrtleville"
@@ -38,9 +44,12 @@
         102048469
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11672"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"736ba14cbdd3a321cca0a7709b523b25",
+    "wof:geomhash":"d95385a8b0e599fbf54ff861fde62d0a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404225187,
-    "wof:lastmodified":1566602690,
+    "wof:lastmodified":1695877524,
     "wof:name":"Myrtleville",
     "wof:parent_id":102048469,
     "wof:placetype":"localadmin",

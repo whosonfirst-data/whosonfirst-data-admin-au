@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031972,
-    "geom:area_square_m":329911182.255476,
+    "geom:area_square_m":329911182.255112,
     "geom:bbox":"150.483122016,-33.516573884,150.834480992,-33.3514416075",
     "geom:latitude":-33.434893,
     "geom:longitude":150.635143,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.436554,
     "lbl:longitude":150.649623,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mountain Lagoon"
@@ -38,9 +44,12 @@
         102048745
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11637"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"e217b9846fa89e8828d0ab263d636645",
+    "wof:geomhash":"45ba5b497b0d1d1bc41ba64e9316667f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404225107,
-    "wof:lastmodified":1566602703,
+    "wof:lastmodified":1695877530,
     "wof:name":"Mountain Lagoon",
     "wof:parent_id":102048745,
     "wof:placetype":"localadmin",

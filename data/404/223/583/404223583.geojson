@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000678,
-    "geom:area_square_m":6967638.524651,
+    "geom:area_square_m":6967638.52464,
     "geom:bbox":"150.606536,-33.7826219955,150.6449256,-33.7492129935",
     "geom:latitude":-33.763737,
     "geom:longitude":150.625882,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.761596,
     "lbl:longitude":150.6256,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Glenbrook"
@@ -47,12 +53,15 @@
         102049627
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10959"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101930413
     ],
     "wof:country":"AU",
-    "wof:geomhash":"29d5c328263111376fa85ff885bb583e",
+    "wof:geomhash":"4653d5f54cb0f01dbb309bd124c7c9a4",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":404223583,
-    "wof:lastmodified":1566602567,
+    "wof:lastmodified":1695877457,
     "wof:name":"Glenbrook",
     "wof:parent_id":102049627,
     "wof:placetype":"localadmin",

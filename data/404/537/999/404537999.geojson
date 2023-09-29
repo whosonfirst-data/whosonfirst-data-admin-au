@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007413,
-    "geom:area_square_m":73777919.269246,
+    "geom:area_square_m":73777919.269239,
     "geom:bbox":"145.031846624,-36.440158003,145.204711936,-36.372362755",
     "geom:latitude":-36.405348,
     "geom:longitude":145.112684,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.404425,
     "lbl:longitude":145.085132,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Byrneside"
@@ -39,9 +45,12 @@
         102049473
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20228"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"c9737c16620093b84b4d40426b128644",
+    "wof:geomhash":"040917a6b8f983585267d1186cde3525",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":404537999,
-    "wof:lastmodified":1566602323,
+    "wof:lastmodified":1695877308,
     "wof:name":"Byrneside",
     "wof:parent_id":102049473,
     "wof:placetype":"localadmin",

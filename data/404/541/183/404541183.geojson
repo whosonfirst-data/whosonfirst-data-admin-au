@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000059,
-    "geom:area_square_m":642866.944394,
+    "geom:area_square_m":642853.918319,
     "geom:bbox":"152.766144,-27.606423,152.774492,-27.596527",
     "geom:latitude":-27.600976,
     "geom:longitude":152.770379,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.600386,
     "lbl:longitude":152.770042,
     "lbl:max_zoom":18.0,
@@ -52,13 +58,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC30116",
         "wd:id":"Q4867494"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101933889
     ],
     "wof:country":"AU",
-    "wof:geomhash":"0e2aedb1ce5370234b985f42bf53b9e4",
+    "wof:geomhash":"a77cb9bbc0f72d5c3cea885504a57163",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -71,7 +79,7 @@
         }
     ],
     "wof:id":404541183,
-    "wof:lastmodified":1690853814,
+    "wof:lastmodified":1695878037,
     "wof:name":"Basin Pocket",
     "wof:parent_id":102048583,
     "wof:placetype":"localadmin",

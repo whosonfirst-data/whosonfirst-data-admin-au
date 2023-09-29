@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.072175,
-    "geom:area_square_m":708338551.42573,
+    "geom:area_square_m":708338551.425595,
     "geom:bbox":"142.771848,-37.589421996,143.197290016,-37.3472039935",
     "geom:latitude":-37.468383,
     "geom:longitude":142.988375,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.472073,
     "lbl:longitude":142.992382,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tatyoon"
@@ -38,9 +44,12 @@
         102049537
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21315"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"3e69f58d8e35ef759ba6f37015aad8c9",
+    "wof:geomhash":"b27b22deef594c83d1d45a908f4bb7d2",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404540427,
-    "wof:lastmodified":1566603024,
+    "wof:lastmodified":1695877733,
     "wof:name":"Tatyoon",
     "wof:parent_id":102049537,
     "wof:placetype":"localadmin",

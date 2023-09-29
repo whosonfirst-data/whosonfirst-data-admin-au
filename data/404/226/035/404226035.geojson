@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000348,
-    "geom:area_square_m":3714802.274892,
+    "geom:area_square_m":3714802.274878,
     "geom:bbox":"153.074308192,-30.3791789935,153.10979472,-30.353913007",
     "geom:latitude":-30.368547,
     "geom:longitude":153.095181,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-30.370043,
     "lbl:longitude":153.096384,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sawtell"
@@ -50,12 +56,15 @@
         102048797
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12049"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931815
     ],
     "wof:country":"AU",
-    "wof:geomhash":"cefac8c66587eb0f2831347961ba8248",
+    "wof:geomhash":"b134ae19fc8cdc33d7a1f10e0cb77576",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -67,7 +76,7 @@
         }
     ],
     "wof:id":404226035,
-    "wof:lastmodified":1566602074,
+    "wof:lastmodified":1695877176,
     "wof:name":"Sawtell",
     "wof:parent_id":102048797,
     "wof:placetype":"localadmin",

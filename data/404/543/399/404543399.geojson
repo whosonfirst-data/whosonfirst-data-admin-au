@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004832,
-    "geom:area_square_m":52890626.993822,
+    "geom:area_square_m":52890626.993761,
     "geom:bbox":"152.169146016,-27.7758044555,152.250766016,-27.681847007",
     "geom:latitude":-27.726651,
     "geom:longitude":152.209102,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.726182,
     "lbl:longitude":152.208326,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mount Sylvia"
@@ -38,9 +44,12 @@
         102049033
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31166"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"d557399311a3ca0e486e7e0e37490a79",
+    "wof:geomhash":"6231bf210543d5175d7ac01d5d6901db",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404543399,
-    "wof:lastmodified":1566602096,
+    "wof:lastmodified":1695877190,
     "wof:name":"Mount Sylvia",
     "wof:parent_id":102049033,
     "wof:placetype":"localadmin",

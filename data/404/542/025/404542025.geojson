@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001154,
-    "geom:area_square_m":13310487.743546,
+    "geom:area_square_m":13310487.743534,
     "geom:bbox":"149.050650208,-21.148445319,149.105210048,-21.1143049935",
     "geom:latitude":-21.131692,
     "geom:longitude":149.078942,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-21.13116,
     "lbl:longitude":149.078934,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Dumbleton"
@@ -59,9 +65,12 @@
         102048783
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30517"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"7e7f08c72caaeaa5c4e042f5aa812300",
+    "wof:geomhash":"25b279d4052568c5db9a4a909766d9e0",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -73,7 +82,7 @@
         }
     ],
     "wof:id":404542025,
-    "wof:lastmodified":1566602272,
+    "wof:lastmodified":1695877276,
     "wof:name":"Dumbleton",
     "wof:parent_id":102048783,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000837,
-    "geom:area_square_m":8768358.800391,
+    "geom:area_square_m":8768358.800385,
     "geom:bbox":"115.87100976,-32.069731545,115.904974432,-32.0386588155",
     "geom:latitude":-32.052507,
     "geom:longitude":115.887824,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.052716,
     "lbl:longitude":115.887824,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Willetton"
@@ -39,12 +45,15 @@
         102049055
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50844"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937963
     ],
     "wof:country":"AU",
-    "wof:geomhash":"80d4fc9e3c87d8b66f6d1da3e13b1702",
+    "wof:geomhash":"794178af79d141ebf6cffd7da1be309b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404548573,
-    "wof:lastmodified":1566603195,
+    "wof:lastmodified":1695877813,
     "wof:name":"Willetton",
     "wof:parent_id":102049055,
     "wof:placetype":"localadmin",

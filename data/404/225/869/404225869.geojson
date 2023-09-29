@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.060326,
-    "geom:area_square_m":647187828.65338,
+    "geom:area_square_m":647187828.652739,
     "geom:bbox":"150.391937984,-29.990581998,150.916132512,-29.619552991",
     "geom:latitude":-29.817446,
     "geom:longitude":150.660854,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-29.843827,
     "lbl:longitude":150.686408,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Riverview"
@@ -83,9 +89,12 @@
         102049247
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11975"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"299155cc2dcd0cfc2bfa705d53980c7e",
+    "wof:geomhash":"3b441089f6b31050a7b2d2db24c7af44",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -97,7 +106,7 @@
         }
     ],
     "wof:id":404225869,
-    "wof:lastmodified":1566602685,
+    "wof:lastmodified":1695877521,
     "wof:name":"Riverview",
     "wof:parent_id":102049247,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.153899,
-    "geom:area_square_m":1611732310.681535,
+    "geom:area_square_m":1611732310.68203,
     "geom:bbox":"118.194632288,-32.2867691605,118.81714096,-31.9083390065",
     "geom:latitude":-32.118597,
     "geom:longitude":118.458741,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.154481,
     "lbl:longitude":118.489243,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "South Kumminin"
@@ -38,9 +44,12 @@
         102048459
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50722"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"5c1e833aed6626eef0928d4d2b38f1c5",
+    "wof:geomhash":"86f6e4f677d78b8b8cf4687b8ed6c646",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404548301,
-    "wof:lastmodified":1566603163,
+    "wof:lastmodified":1695877796,
     "wof:name":"South Kumminin",
     "wof:parent_id":102048459,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003048,
-    "geom:area_square_m":35920485.35125,
+    "geom:area_square_m":35920485.351124,
     "geom:bbox":"146.043034016,-17.6428524765,146.129075648,-17.56948797",
     "geom:latitude":-17.605614,
     "geom:longitude":146.084643,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-17.600523,
     "lbl:longitude":146.08821,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "New Harbourline"
@@ -38,9 +44,12 @@
         102049237
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31217"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"64f0d779d3dfb6b63f307fb5e993fc6f",
+    "wof:geomhash":"db03f1eabe9857987e59fa8ffed0b626",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404543509,
-    "wof:lastmodified":1566602124,
+    "wof:lastmodified":1695877204,
     "wof:name":"New Harbourline",
     "wof:parent_id":102049237,
     "wof:placetype":"localadmin",

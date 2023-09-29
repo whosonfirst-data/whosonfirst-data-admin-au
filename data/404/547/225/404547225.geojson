@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.1231,
-    "geom:area_square_m":1283484835.775259,
+    "geom:area_square_m":1283484835.774841,
     "geom:bbox":"116.81964864,-32.662473691,117.580421888,-32.400999686",
     "geom:latitude":-32.519845,
     "geom:longitude":117.223247,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.501758,
     "lbl:longitude":117.227868,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "East Pingelly"
@@ -38,9 +44,12 @@
         102048761
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50241"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"59a88933d975aa006ae6d51617138510",
+    "wof:geomhash":"be2bd0e73c2c4d4648cd33dc93a17251",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404547225,
-    "wof:lastmodified":1566602962,
+    "wof:lastmodified":1695877696,
     "wof:name":"East Pingelly",
     "wof:parent_id":102048761,
     "wof:placetype":"localadmin",

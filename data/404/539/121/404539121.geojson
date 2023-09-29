@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008321,
-    "geom:area_square_m":83400635.316974,
+    "geom:area_square_m":83400635.316918,
     "geom:bbox":"145.409659392,-35.899038109,145.599914496,-35.8019825395",
     "geom:latitude":-35.848544,
     "geom:longitude":145.517595,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.843389,
     "lbl:longitude":145.516141,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Koonoomoo"
@@ -38,9 +44,12 @@
         102048427
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20731"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"34e453a154c680a35fe02c6fb432fa75",
+    "wof:geomhash":"522f8a5282fc945f7e6cfb7e228df51e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404539121,
-    "wof:lastmodified":1566602381,
+    "wof:lastmodified":1695877343,
     "wof:name":"Koonoomoo",
     "wof:parent_id":102048427,
     "wof:placetype":"localadmin",

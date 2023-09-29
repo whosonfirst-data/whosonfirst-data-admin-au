@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021258,
-    "geom:area_square_m":222311914.849404,
+    "geom:area_square_m":222311914.848235,
     "geom:bbox":"150.67476,-32.3614499975,150.948158912,-32.171047165",
     "geom:latitude":-32.250296,
     "geom:longitude":150.783391,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.227322,
     "lbl:longitude":150.769979,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041a\u0430\u0441\u044a\u043b \u0420\u043e\u043a"
@@ -86,9 +92,12 @@
         102048429
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10489"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"7dc6302d02c81321110df33da311fe36",
+    "wof:geomhash":"4c66e1c91da91068e1b3550a78d7f828",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -100,7 +109,7 @@
         }
     ],
     "wof:id":404222525,
-    "wof:lastmodified":1566602813,
+    "wof:lastmodified":1695877600,
     "wof:name":"Castle Rock",
     "wof:parent_id":102048429,
     "wof:placetype":"localadmin",

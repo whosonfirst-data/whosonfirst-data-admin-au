@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000043,
-    "geom:area_square_m":401811.285281,
+    "geom:area_square_m":401811.285288,
     "geom:bbox":"145.902263616,-41.075810007,145.911293088,-41.067160998",
     "geom:latitude":-41.072228,
     "geom:longitude":145.907314,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-41.072372,
     "lbl:longitude":145.907375,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Brooklyn"
@@ -296,12 +302,15 @@
         102049367
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60043"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938043
     ],
     "wof:country":"AU",
-    "wof:geomhash":"fd8f725e1a76cd731325b30e27237d1c",
+    "wof:geomhash":"da550d010e2f2f7cc8fbc9700f047803",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -313,7 +322,7 @@
         }
     ],
     "wof:id":404548765,
-    "wof:lastmodified":1566603163,
+    "wof:lastmodified":1695877796,
     "wof:name":"Brooklyn",
     "wof:parent_id":102049367,
     "wof:placetype":"localadmin",

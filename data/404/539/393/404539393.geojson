@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001442,
-    "geom:area_square_m":14009160.152692,
+    "geom:area_square_m":14009160.152704,
     "geom:bbox":"144.307356992,-38.223765647,144.399384768,-38.1844739965",
     "geom:latitude":-38.208256,
     "geom:longitude":144.363145,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.207424,
     "lbl:longitude":144.366989,
     "lbl:max_zoom":18.0,
@@ -127,13 +133,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC20852",
         "wd:id":"Q6773455"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101933211
     ],
     "wof:country":"AU",
-    "wof:geomhash":"d1f4f8df7150bc6292867f2748553307",
+    "wof:geomhash":"6b0763fb1968b28c1b532fb2afb9231e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -146,7 +154,7 @@
         }
     ],
     "wof:id":404539393,
-    "wof:lastmodified":1566602390,
+    "wof:lastmodified":1695877951,
     "wof:name":"Marshall",
     "wof:parent_id":102049571,
     "wof:placetype":"localadmin",

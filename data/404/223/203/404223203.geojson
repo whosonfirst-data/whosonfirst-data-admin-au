@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.132467,
-    "geom:area_square_m":1410530395.093581,
+    "geom:area_square_m":1410530395.090471,
     "geom:bbox":"151.963697184,-30.872246784,152.428078176,-30.2813839975",
     "geom:latitude":-30.554683,
     "geom:longitude":152.178913,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-30.523876,
     "lbl:longitude":152.163187,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ebor"
@@ -41,9 +47,12 @@
         102048707
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10790"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"74bae9372fcc45115c2b5af1fd033820",
+    "wof:geomhash":"63aa0ea18550e4052753870857e30849",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404223203,
-    "wof:lastmodified":1566602514,
+    "wof:lastmodified":1695877421,
     "wof:name":"Ebor",
     "wof:parent_id":102048707,
     "wof:placetype":"localadmin",

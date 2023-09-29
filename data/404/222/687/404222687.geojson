@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.090392,
-    "geom:area_square_m":951602744.125146,
+    "geom:area_square_m":951602744.124607,
     "geom:bbox":"148.077397824,-31.827716099,148.501102016,-31.3854750235",
     "geom:latitude":-31.637968,
     "geom:longitude":148.292144,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.643112,
     "lbl:longitude":148.27143,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Collie"
@@ -92,9 +98,12 @@
         102048959
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10561"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"d58e8c9ffe7ab9c868523053757f4edd",
+    "wof:geomhash":"0f9ee1c0b7ecae535469d8624088cd70",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -106,7 +115,7 @@
         }
     ],
     "wof:id":404222687,
-    "wof:lastmodified":1566602760,
+    "wof:lastmodified":1695877567,
     "wof:name":"Collie",
     "wof:parent_id":102048959,
     "wof:placetype":"localadmin",

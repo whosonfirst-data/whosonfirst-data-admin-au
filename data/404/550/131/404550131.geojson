@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000152,
-    "geom:area_square_m":1533083.267272,
+    "geom:area_square_m":1533083.267271,
     "geom:bbox":"149.113211008,-35.27564816,149.132294528,-35.260356134",
     "geom:latitude":-35.26881,
     "geom:longitude":149.124654,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.26935,
     "lbl:longitude":149.125594,
     "lbl:max_zoom":18.0,
@@ -119,13 +125,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC80097",
         "wd:id":"Q4455973"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938909
     ],
     "wof:country":"AU",
-    "wof:geomhash":"a5b0bf11fcfe7b3c307ab13f698cb419",
+    "wof:geomhash":"494dfe54307d66c0fe2ec07a29e9dcfb",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -136,7 +144,7 @@
         }
     ],
     "wof:id":404550131,
-    "wof:lastmodified":1566601928,
+    "wof:lastmodified":1695877892,
     "wof:name":"Turner",
     "wof:parent_id":85681493,
     "wof:placetype":"localadmin",

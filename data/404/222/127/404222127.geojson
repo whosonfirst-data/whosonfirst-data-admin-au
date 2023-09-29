@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000209,
-    "geom:area_square_m":2159448.874059,
+    "geom:area_square_m":2159448.874045,
     "geom:bbox":"150.115728992,-33.5000914015,150.138168992,-33.471310711",
     "geom:latitude":-33.489401,
     "geom:longitude":150.128271,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.495566,
     "lbl:longitude":150.127165,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bowenfels"
@@ -38,9 +44,12 @@
         102049125
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10312"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"433dc599799e3b52daf76f61d9de96e2",
+    "wof:geomhash":"3259ba39f10594da812bc5c7222e9e81",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404222127,
-    "wof:lastmodified":1566602778,
+    "wof:lastmodified":1695877578,
     "wof:name":"Bowenfels",
     "wof:parent_id":102049125,
     "wof:placetype":"localadmin",

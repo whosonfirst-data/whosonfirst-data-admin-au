@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000705,
-    "geom:area_square_m":7313521.942179,
+    "geom:area_square_m":7313521.942172,
     "geom:bbox":"151.622231488,-32.924836806,151.689171296,-32.902810262",
     "geom:latitude":-32.915269,
     "geom:longitude":151.649816,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.913636,
     "lbl:longitude":151.638171,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Elermore Vale"
@@ -39,12 +45,15 @@
         102048981
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10803"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101930203
     ],
     "wof:country":"AU",
-    "wof:geomhash":"1620a252cbb274a5827fabb68821d077",
+    "wof:geomhash":"8707be8b33fad2704d48cdcc85e9e692",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404223231,
-    "wof:lastmodified":1566602550,
+    "wof:lastmodified":1695877445,
     "wof:name":"Elermore Vale",
     "wof:parent_id":102048981,
     "wof:placetype":"localadmin",

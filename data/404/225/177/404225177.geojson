@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00051,
-    "geom:area_square_m":5439225.105845,
+    "geom:area_square_m":5439225.10581,
     "geom:bbox":"153.018262016,-30.503028002,153.051340928,-30.4514019945",
     "geom:latitude":-30.478333,
     "geom:longitude":153.032801,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-30.482969,
     "lbl:longitude":153.028918,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mylestom"
@@ -38,12 +44,15 @@
         102048545
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11668"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931353
     ],
     "wof:country":"AU",
-    "wof:geomhash":"ea0ad09fdac49f6fb1ac1cd5f283535a",
+    "wof:geomhash":"47dc8eda9fcc8d3a56a7d2f20d00e5ab",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404225177,
-    "wof:lastmodified":1566602734,
+    "wof:lastmodified":1695877549,
     "wof:name":"Mylestom",
     "wof:parent_id":102048545,
     "wof:placetype":"localadmin",

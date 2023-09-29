@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.088595,
-    "geom:area_square_m":994744664.193052,
+    "geom:area_square_m":994744664.193643,
     "geom:bbox":"151.121772992,-24.9935419845,151.543653408,-24.535996636",
     "geom:latitude":-24.765442,
     "geom:longitude":151.333032,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-24.753716,
     "lbl:longitude":151.294874,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kalpowar"
@@ -38,9 +44,12 @@
         102049053
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30841"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"93b8079fe4268cbbf3a52fa54a7b3e0d",
+    "wof:geomhash":"15bcc928484c48930eed272afada14a2",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404542713,
-    "wof:lastmodified":1566602283,
+    "wof:lastmodified":1695877283,
     "wof:name":"Kalpowar",
     "wof:parent_id":102049053,
     "wof:placetype":"localadmin",

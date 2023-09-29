@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000364,
-    "geom:area_square_m":3558290.094262,
+    "geom:area_square_m":3558290.094249,
     "geom:bbox":"144.755442016,-37.7112989785,144.781796512,-37.6809371485",
     "geom:latitude":-37.699709,
     "geom:longitude":144.765305,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.6999,
     "lbl:longitude":144.764008,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sydenham"
@@ -63,12 +69,15 @@
         102049521
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21292"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101933603
     ],
     "wof:country":"AU",
-    "wof:geomhash":"4403d9746b3e7ae4142da3c6086960db",
+    "wof:geomhash":"e6518aee191a964aa23b12823ec2b47c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -81,7 +90,7 @@
         }
     ],
     "wof:id":404540375,
-    "wof:lastmodified":1566603039,
+    "wof:lastmodified":1695877741,
     "wof:name":"Sydenham",
     "wof:parent_id":102049521,
     "wof:placetype":"localadmin",

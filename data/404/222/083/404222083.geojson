@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013492,
-    "geom:area_square_m":140747606.966656,
+    "geom:area_square_m":140747606.966312,
     "geom:bbox":"151.883970752,-32.542512994,152.075326016,-32.3844619995",
     "geom:latitude":-32.472603,
     "geom:longitude":151.975166,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.483013,
     "lbl:longitude":151.967295,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Booral"
@@ -41,9 +47,12 @@
         102049617
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10293"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"f23b9b03afaca94e3b438ee2ef4b14dd",
+    "wof:geomhash":"19117d1fc12986c8b3c6d3e13b9939f6",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404222083,
-    "wof:lastmodified":1566602757,
+    "wof:lastmodified":1695877564,
     "wof:name":"Booral",
     "wof:parent_id":102049617,
     "wof:placetype":"localadmin",

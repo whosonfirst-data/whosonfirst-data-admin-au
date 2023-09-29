@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000389,
-    "geom:area_square_m":4056582.30383,
+    "geom:area_square_m":4056582.303838,
     "geom:bbox":"115.766356992,-32.581754787,115.814604992,-32.5670877835",
     "geom:latitude":-32.573969,
     "geom:longitude":115.792002,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.574237,
     "lbl:longitude":115.791644,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "North Yunderup"
@@ -39,12 +45,15 @@
         102049595
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50593"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937611
     ],
     "wof:country":"AU",
-    "wof:geomhash":"22b537a6b577d867b1c867e39d8e8083",
+    "wof:geomhash":"c65db7d60da3aa979fdb319aa8bc98a1",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404548017,
-    "wof:lastmodified":1566603211,
+    "wof:lastmodified":1695877821,
     "wof:name":"North Yunderup",
     "wof:parent_id":102049595,
     "wof:placetype":"localadmin",

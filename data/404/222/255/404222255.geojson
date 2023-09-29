@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00039,
-    "geom:area_square_m":4034701.287657,
+    "geom:area_square_m":4034701.287707,
     "geom:bbox":"151.557365888,-33.2594419955,151.601962752,-33.207219992",
     "geom:latitude":-33.225442,
     "geom:longitude":151.579602,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.21423,
     "lbl:longitude":151.587357,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Budgewoi Peninsula"
@@ -38,12 +44,15 @@
         102049097
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10369"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101929723
     ],
     "wof:country":"AU",
-    "wof:geomhash":"acf09b5377ad51ef2a9068e3a34cfc91",
+    "wof:geomhash":"20fcc59e53268df0ab771f8ddf9939e5",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404222255,
-    "wof:lastmodified":1566602808,
+    "wof:lastmodified":1695877597,
     "wof:name":"Budgewoi Peninsula",
     "wof:parent_id":102049097,
     "wof:placetype":"localadmin",

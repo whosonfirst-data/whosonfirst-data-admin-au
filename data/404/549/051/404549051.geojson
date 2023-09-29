@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005525,
-    "geom:area_square_m":51375443.651552,
+    "geom:area_square_m":51375443.651549,
     "geom:bbox":"147.083932,-41.2829242965,147.201288,-41.1964377215",
     "geom:latitude":-41.237913,
     "geom:longitude":147.149738,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-41.231436,
     "lbl:longitude":147.150641,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Karoola"
@@ -38,9 +44,12 @@
         102049411
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60170"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"6a98f4a15dec0e1b340324044c39bc81",
+    "wof:geomhash":"13e29f72913ff4581e2736db91d25316",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404549051,
-    "wof:lastmodified":1566602907,
+    "wof:lastmodified":1695877665,
     "wof:name":"Karoola",
     "wof:parent_id":102049411,
     "wof:placetype":"localadmin",

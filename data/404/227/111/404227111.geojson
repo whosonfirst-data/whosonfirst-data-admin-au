@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006919,
-    "geom:area_square_m":69159782.704177,
+    "geom:area_square_m":69159782.704201,
     "geom:bbox":"146.955044992,-36.115238655,147.099206048,-36.0095369995",
     "geom:latitude":-36.059082,
     "geom:longitude":147.034794,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.059193,
     "lbl:longitude":147.035886,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Wirlinga"
@@ -39,9 +45,12 @@
         102048675
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12527"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"dbc56d563a99f2f8bf0e5114730a0180",
+    "wof:geomhash":"ec7e02669253abe6342145e9aa5510c0",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":404227111,
-    "wof:lastmodified":1566601947,
+    "wof:lastmodified":1695877107,
     "wof:name":"Wirlinga",
     "wof:parent_id":102048675,
     "wof:placetype":"localadmin",

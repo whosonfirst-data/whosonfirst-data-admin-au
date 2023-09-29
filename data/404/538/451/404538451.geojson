@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001436,
-    "geom:area_square_m":14018831.650141,
+    "geom:area_square_m":14018831.650104,
     "geom:bbox":"147.640258304,-37.863953005,147.697183424,-37.82342709",
     "geom:latitude":-37.839998,
     "geom:longitude":147.671234,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.842154,
     "lbl:longitude":147.676354,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "East Bairnsdale"
@@ -38,9 +44,12 @@
         102049039
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20431"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"82fab24b92361fb2b5d7ee09e7499b41",
+    "wof:geomhash":"dd1a173d2a616ab7a1cf1f4020944471",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404538451,
-    "wof:lastmodified":1566602472,
+    "wof:lastmodified":1695877396,
     "wof:name":"East Bairnsdale",
     "wof:parent_id":102049039,
     "wof:placetype":"localadmin",

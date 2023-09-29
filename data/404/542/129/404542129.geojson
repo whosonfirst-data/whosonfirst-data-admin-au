@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031154,
-    "geom:area_square_m":343073533.734907,
+    "geom:area_square_m":343073533.735217,
     "geom:bbox":"151.77404016,-27.1553659965,152.07761,-26.9504939625",
     "geom:latitude":-27.053038,
     "geom:longitude":151.940593,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.04402,
     "lbl:longitude":151.955544,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Emu Creek"
@@ -50,9 +56,12 @@
         102049357
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30568"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"c4d02681e1f476246ce12005851c08d8",
+    "wof:geomhash":"a3b11243b2d7b4646a5b76b4674f6004",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":404542129,
-    "wof:lastmodified":1566602283,
+    "wof:lastmodified":1695877283,
     "wof:name":"Emu Creek",
     "wof:parent_id":102049357,
     "wof:placetype":"localadmin",

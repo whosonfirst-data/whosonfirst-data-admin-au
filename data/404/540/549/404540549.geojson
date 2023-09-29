@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000546,
-    "geom:area_square_m":5333089.798694,
+    "geom:area_square_m":5333089.798686,
     "geom:bbox":"145.302142976,-37.8938320035,145.329041888,-37.862710915",
     "geom:latitude":-37.878846,
     "geom:longitude":145.315741,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.882159,
     "lbl:longitude":145.315478,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Tremont"
@@ -78,12 +84,15 @@
         102048969
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21369"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101933647
     ],
     "wof:country":"AU",
-    "wof:geomhash":"1009f9dd8d7b27d8415c1495a4ce0dc2",
+    "wof:geomhash":"f6adffb0f9414fc6a4094292a14c91d3",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -96,7 +105,7 @@
         }
     ],
     "wof:id":404540549,
-    "wof:lastmodified":1566603034,
+    "wof:lastmodified":1695877738,
     "wof:name":"Tremont",
     "wof:parent_id":102048969,
     "wof:placetype":"localadmin",

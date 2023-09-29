@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001947,
-    "geom:area_square_m":18953244.755628,
+    "geom:area_square_m":18953123.533574,
     "geom:bbox":"144.333099,-38.087045,144.417377,-38.048005",
     "geom:latitude":-38.067583,
     "geom:longitude":144.375788,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.068083,
     "lbl:longitude":144.374986,
     "lbl:max_zoom":18.0,
@@ -67,13 +73,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC20335",
         "wd:id":"Q5170698"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932783
     ],
     "wof:country":"AU",
-    "wof:geomhash":"adfc6c2b0cc52e6cf94250db951c4931",
+    "wof:geomhash":"07cbc7ec22e5f3b772d2f13d8a150e0b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -86,7 +94,7 @@
         }
     ],
     "wof:id":404538241,
-    "wof:lastmodified":1690853590,
+    "wof:lastmodified":1695877959,
     "wof:name":"Corio",
     "wof:parent_id":102049571,
     "wof:placetype":"localadmin",

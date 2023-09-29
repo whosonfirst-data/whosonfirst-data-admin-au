@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005267,
-    "geom:area_square_m":57679232.327037,
+    "geom:area_square_m":57679232.326993,
     "geom:bbox":"152.390594176,-27.7280110005,152.501736992,-27.617796159",
     "geom:latitude":-27.676,
     "geom:longitude":152.453643,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.683471,
     "lbl:longitude":152.443561,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Grandchester"
@@ -39,9 +45,12 @@
         102048583
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30694"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"0b881338cfcf6d0c571823b5704a1e86",
+    "wof:geomhash":"5c8557e97097eded2ba768504ef1d9e6",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":404542399,
-    "wof:lastmodified":1566602265,
+    "wof:lastmodified":1695877272,
     "wof:name":"Grandchester",
     "wof:parent_id":102048583,
     "wof:placetype":"localadmin",

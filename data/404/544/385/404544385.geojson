@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001263,
-    "geom:area_square_m":13717285.884462,
+    "geom:area_square_m":13717285.884477,
     "geom:bbox":"151.909427008,-28.573260997,151.958907296,-28.5357588515",
     "geom:latitude":-28.552716,
     "geom:longitude":151.932776,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.550134,
     "lbl:longitude":151.93573,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Thulimbah"
@@ -39,9 +45,12 @@
         102048963
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31629"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"4214900d35f5b2c528aa5813a485f743",
+    "wof:geomhash":"e81b74c7b7768baec6e9b22d578728b0",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":404544385,
-    "wof:lastmodified":1566602174,
+    "wof:lastmodified":1695877230,
     "wof:name":"Thulimbah",
     "wof:parent_id":102048963,
     "wof:placetype":"localadmin",

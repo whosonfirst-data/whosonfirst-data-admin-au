@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013201,
-    "geom:area_square_m":139409219.424615,
+    "geom:area_square_m":139409219.424525,
     "geom:bbox":"152.793947776,-31.4085989505,152.976418176,-31.285963801",
     "geom:latitude":-31.348175,
     "geom:longitude":152.877345,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.348345,
     "lbl:longitude":152.884759,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Blackmans Point"
@@ -38,9 +44,12 @@
         102049203
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10238"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"31e9cd20cd961f47f6a622a805a1d6fb",
+    "wof:geomhash":"4ed7e5eee40c870b7915383bad67faff",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404221961,
-    "wof:lastmodified":1566601989,
+    "wof:lastmodified":1695877128,
     "wof:name":"Blackmans Point",
     "wof:parent_id":102049203,
     "wof:placetype":"localadmin",

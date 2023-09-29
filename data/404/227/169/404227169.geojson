@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.109986,
-    "geom:area_square_m":1172366349.101266,
+    "geom:area_square_m":1172366349.102023,
     "geom:bbox":"150.658208,-30.6990370005,151.069671072,-30.1965839935",
     "geom:latitude":-30.454369,
     "geom:longitude":150.843614,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-30.475975,
     "lbl:longitude":150.840448,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Woodsreef"
@@ -38,9 +44,12 @@
         102048785
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12553"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"a759a47ad89128e021144a7e17ce372c",
+    "wof:geomhash":"2017dfdbbb1f888127e53ebfd076ce1b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404227169,
-    "wof:lastmodified":1566601937,
+    "wof:lastmodified":1695877102,
     "wof:name":"Woodsreef",
     "wof:parent_id":102048785,
     "wof:placetype":"localadmin",

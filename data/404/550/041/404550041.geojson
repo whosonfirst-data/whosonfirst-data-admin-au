@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000306,
-    "geom:area_square_m":3088180.315062,
+    "geom:area_square_m":3088180.315069,
     "geom:bbox":"149.105386432,-35.3825952355,149.125200352,-35.354115688",
     "geom:latitude":-35.368624,
     "geom:longitude":149.115554,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.369101,
     "lbl:longitude":149.115403,
     "lbl:max_zoom":18.0,
@@ -59,13 +65,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC80056",
         "wd:id":"Q947722"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938821
     ],
     "wof:country":"AU",
-    "wof:geomhash":"de9ec027dc7ede5b9c63d146bd068ac8",
+    "wof:geomhash":"719755e231f2e864c27eeb256cd36a10",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -76,7 +84,7 @@
         }
     ],
     "wof:id":404550041,
-    "wof:lastmodified":1566601925,
+    "wof:lastmodified":1695877891,
     "wof:name":"Isaacs",
     "wof:parent_id":85681493,
     "wof:placetype":"localadmin",

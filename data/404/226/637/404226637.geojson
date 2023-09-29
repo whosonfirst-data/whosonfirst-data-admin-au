@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002275,
-    "geom:area_square_m":24663545.038451,
+    "geom:area_square_m":24663545.038483,
     "geom:bbox":"153.264619008,-28.7817845055,153.330955008,-28.719745995",
     "geom:latitude":-28.750862,
     "geom:longitude":153.298542,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.751267,
     "lbl:longitude":153.298051,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tullera"
@@ -38,9 +44,12 @@
         102049635
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12317"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"a428ae42cee4f968a6f056f1c9e0d357",
+    "wof:geomhash":"5c2035ede09edf27942f20e81a8dc8d1",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404226637,
-    "wof:lastmodified":1566602075,
+    "wof:lastmodified":1695877178,
     "wof:name":"Tullera",
     "wof:parent_id":102049635,
     "wof:placetype":"localadmin",

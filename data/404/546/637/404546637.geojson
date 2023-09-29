@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005668,
-    "geom:area_square_m":57448030.496433,
+    "geom:area_square_m":57448030.496415,
     "geom:bbox":"138.838015008,-34.993160005,138.97134144,-34.9148957365",
     "geom:latitude":-34.953572,
     "geom:longitude":138.905961,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.958748,
     "lbl:longitude":138.917068,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Woodside"
@@ -89,9 +95,12 @@
         102049017
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40822"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"458f1fd39fc3a2a0b22b4888fa6e5ecf",
+    "wof:geomhash":"8359fd9b07311a4164f3264f772e77c3",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -103,7 +112,7 @@
         }
     ],
     "wof:id":404546637,
-    "wof:lastmodified":1566603143,
+    "wof:lastmodified":1695877787,
     "wof:name":"Woodside",
     "wof:parent_id":102049017,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00559,
-    "geom:area_square_m":55003216.622226,
+    "geom:area_square_m":55003216.62226,
     "geom:bbox":"144.969126016,-37.3191529985,145.055219008,-37.227777003",
     "geom:latitude":-37.278288,
     "geom:longitude":145.011229,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.284045,
     "lbl:longitude":145.006112,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kilmore East"
@@ -38,9 +44,12 @@
         102048437
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20712"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"f695821f79a835520ff36db5418048dd",
+    "wof:geomhash":"bda51bac2e7cb63722ba562764883d4a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404539079,
-    "wof:lastmodified":1566602361,
+    "wof:lastmodified":1695877331,
     "wof:name":"Kilmore East",
     "wof:parent_id":102048437,
     "wof:placetype":"localadmin",

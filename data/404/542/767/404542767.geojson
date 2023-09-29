@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001396,
-    "geom:area_square_m":15657638.026786,
+    "geom:area_square_m":15657638.026777,
     "geom:bbox":"152.2836256,-24.936912985,152.339073856,-24.8858843055",
     "geom:latitude":-24.917107,
     "geom:longitude":152.318222,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-24.919728,
     "lbl:longitude":152.320976,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Kensington"
@@ -146,12 +152,15 @@
         102048763
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30865"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934655
     ],
     "wof:country":"AU",
-    "wof:geomhash":"16feabad47f329644db93a75e1efcd4a",
+    "wof:geomhash":"f4f84d1679457a9bc8fb3455bad3b306",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -163,7 +172,7 @@
         }
     ],
     "wof:id":404542767,
-    "wof:lastmodified":1566602290,
+    "wof:lastmodified":1695877287,
     "wof:name":"Kensington",
     "wof:parent_id":102048763,
     "wof:placetype":"localadmin",

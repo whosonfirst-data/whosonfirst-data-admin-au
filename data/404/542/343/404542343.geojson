@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00171,
-    "geom:area_square_m":18874982.374577,
+    "geom:area_square_m":18874982.374542,
     "geom:bbox":"152.98808,-26.7971529755,153.04634736,-26.7418862975",
     "geom:latitude":-26.768869,
     "geom:longitude":153.021573,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-26.772725,
     "lbl:longitude":153.023565,
     "lbl:max_zoom":18.0,
@@ -79,10 +85,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC30668",
         "wd:id":"Q14935426"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"06e8e081edee862a68b863a236ad8c6c",
+    "wof:geomhash":"4f37fcf739810a326f59733439ff7530",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -95,7 +103,7 @@
         }
     ],
     "wof:id":404542343,
-    "wof:lastmodified":1566602317,
+    "wof:lastmodified":1695877944,
     "wof:name":"Glenview",
     "wof:parent_id":102049303,
     "wof:placetype":"localadmin",

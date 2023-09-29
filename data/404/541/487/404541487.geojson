@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000232,
-    "geom:area_square_m":2602046.645014,
+    "geom:area_square_m":2602046.645017,
     "geom:bbox":"152.326312928,-24.8800688305,152.349112576,-24.864071492",
     "geom:latitude":-24.872388,
     "geom:longitude":152.337902,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-24.872201,
     "lbl:longitude":152.337901,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bundaberg West"
@@ -38,12 +44,15 @@
         102048763
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30261"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934053
     ],
     "wof:country":"AU",
-    "wof:geomhash":"4e40990fe35a58af1b2fe743547f2bc4",
+    "wof:geomhash":"9a233d25d870888a37e6709ed44c36eb",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404541487,
-    "wof:lastmodified":1566603085,
+    "wof:lastmodified":1695877763,
     "wof:name":"Bundaberg West",
     "wof:parent_id":102048763,
     "wof:placetype":"localadmin",

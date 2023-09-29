@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000112,
-    "geom:area_square_m":1121678.54248,
+    "geom:area_square_m":1121678.542478,
     "geom:bbox":"145.869730688,-36.1702335865,145.886792512,-36.158816885",
     "geom:latitude":-36.164525,
     "geom:longitude":145.879352,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.164489,
     "lbl:longitude":145.878773,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tungamah"
@@ -41,12 +47,15 @@
         102048427
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21375"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101933653
     ],
     "wof:country":"AU",
-    "wof:geomhash":"8d4bad2c34a7ca66c59027f3656b632a",
+    "wof:geomhash":"042dbbf52e4fab3c638c0ce79043f666",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404540563,
-    "wof:lastmodified":1566603015,
+    "wof:lastmodified":1695877727,
     "wof:name":"Tungamah",
     "wof:parent_id":102048427,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00034,
-    "geom:area_square_m":3308302.782802,
+    "geom:area_square_m":3308302.782783,
     "geom:bbox":"144.350960064,-38.1640498115,144.374969856,-38.132245925",
     "geom:latitude":-38.14996,
     "geom:longitude":144.361764,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.150784,
     "lbl:longitude":144.361579,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u063a\u064a\u0644\u0648\u0646\u063a"
@@ -186,12 +192,15 @@
         102049571
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20518"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932963
     ],
     "wof:country":"AU",
-    "wof:geomhash":"da441f787cb8505c88e50368a88b5fdc",
+    "wof:geomhash":"32b91b2f3d38af455420867a0aa71110",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -204,7 +213,7 @@
         }
     ],
     "wof:id":404538645,
-    "wof:lastmodified":1566602435,
+    "wof:lastmodified":1695877377,
     "wof:name":"Geelong",
     "wof:parent_id":102049571,
     "wof:placetype":"localadmin",

@@ -10,6 +10,12 @@
     "geom:latitude":-34.487627,
     "geom:longitude":150.77799,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.487999,
     "lbl:longitude":150.774443,
     "lbl:max_zoom":18.0,
@@ -63,13 +69,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC11135",
         "wd:id":"Q5906359"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101930771
     ],
     "wof:country":"AU",
-    "wof:geomhash":"3f2036cb0767c92f8c481851c8aa3892",
+    "wof:geomhash":"16e7f06bb17ab00b30d3c6267ac80e1e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -81,7 +89,7 @@
         }
     ],
     "wof:id":404223979,
-    "wof:lastmodified":1566602521,
+    "wof:lastmodified":1695877967,
     "wof:name":"Horsley",
     "wof:parent_id":102048853,
     "wof:placetype":"localadmin",

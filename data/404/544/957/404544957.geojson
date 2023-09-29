@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001117,
-    "geom:area_square_m":11363068.57152,
+    "geom:area_square_m":11363068.571511,
     "geom:bbox":"138.742126208,-34.6671350045,138.792834016,-34.6174316465",
     "geom:latitude":-34.640279,
     "geom:longitude":138.766419,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.640533,
     "lbl:longitude":138.76469,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bibaringa"
@@ -39,9 +45,12 @@
         102049603
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40046"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"0e01c8a3730796e8b571df3b9a20e56d",
+    "wof:geomhash":"b07cbaa03854e576a2db6f58f1c1d7a8",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":404544957,
-    "wof:lastmodified":1566602179,
+    "wof:lastmodified":1695877233,
     "wof:name":"Bibaringa",
     "wof:parent_id":102049603,
     "wof:placetype":"localadmin",

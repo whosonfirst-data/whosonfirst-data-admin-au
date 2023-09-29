@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000614,
-    "geom:area_square_m":6724964.070185,
+    "geom:area_square_m":6724964.070183,
     "geom:bbox":"153.080565856,-27.6885479105,153.11698,-27.6581797905",
     "geom:latitude":-27.673423,
     "geom:longitude":153.097324,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.672748,
     "lbl:longitude":153.09608,
     "lbl:max_zoom":18.0,
@@ -76,13 +82,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC31021",
         "wd:id":"Q6773221"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934795
     ],
     "wof:country":"AU",
-    "wof:geomhash":"0dd0eabef4f20a9f55ca4f93b85f23e2",
+    "wof:geomhash":"8cac422eb1fb3e9cf10cea7bb58e683b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -95,7 +103,7 @@
         }
     ],
     "wof:id":404543095,
-    "wof:lastmodified":1566602134,
+    "wof:lastmodified":1695877920,
     "wof:name":"Marsden",
     "wof:parent_id":102048665,
     "wof:placetype":"localadmin",

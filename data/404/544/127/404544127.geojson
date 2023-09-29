@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001846,
-    "geom:area_square_m":20873184.916932,
+    "geom:area_square_m":20873184.916958,
     "geom:bbox":"151.270682848,-23.9342490045,151.319210048,-23.8517669765",
     "geom:latitude":-23.882892,
     "geom:longitude":151.293359,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-23.873659,
     "lbl:longitude":151.289689,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "South Trees"
@@ -38,12 +44,15 @@
         102049463
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31508"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935343
     ],
     "wof:country":"AU",
-    "wof:geomhash":"9994a358c9a0e00b22d84c4a6d8463e2",
+    "wof:geomhash":"987689e2ccca05f332f229f93985644d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404544127,
-    "wof:lastmodified":1566602173,
+    "wof:lastmodified":1695877229,
     "wof:name":"South Trees",
     "wof:parent_id":102049463,
     "wof:placetype":"localadmin",

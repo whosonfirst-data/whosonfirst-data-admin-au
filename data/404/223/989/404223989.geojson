@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007923,
-    "geom:area_square_m":79662328.76732,
+    "geom:area_square_m":79662328.767384,
     "geom:bbox":"147.755964256,-35.6644379625,147.897578144,-35.544619327",
     "geom:latitude":-35.598084,
     "geom:longitude":147.830064,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.59782,
     "lbl:longitude":147.830049,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Humula"
@@ -50,9 +56,12 @@
         102049625
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11140"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"9da7696dab7526b93603f032aa963872",
+    "wof:geomhash":"60f74a25ade36af9eb003752514a7687",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":404223989,
-    "wof:lastmodified":1566602564,
+    "wof:lastmodified":1695877455,
     "wof:name":"Humula",
     "wof:parent_id":102049625,
     "wof:placetype":"localadmin",

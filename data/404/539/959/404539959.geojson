@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006397,
-    "geom:area_square_m":62206865.969444,
+    "geom:area_square_m":62206865.96943,
     "geom:bbox":"144.585897856,-38.2011914845,144.715869664,-38.107340004",
     "geom:latitude":-38.151499,
     "geom:longitude":144.659744,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.166369,
     "lbl:longitude":144.674939,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Portarlington"
@@ -42,9 +48,12 @@
         102049571
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21106"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"a9854df9d75f22357764bd01890c80bd",
+    "wof:geomhash":"d0aa7eeaab30a4058429cc32ebf2bd80",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404539959,
-    "wof:lastmodified":1566602385,
+    "wof:lastmodified":1695877346,
     "wof:name":"Portarlington",
     "wof:parent_id":102049571,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010191,
-    "geom:area_square_m":112047582.994945,
+    "geom:area_square_m":112047582.995018,
     "geom:bbox":"151.918193888,-27.3032909975,152.035371008,-27.1418649925",
     "geom:latitude":-27.230622,
     "geom:longitude":151.973456,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.233806,
     "lbl:longitude":151.979249,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Glenaven"
@@ -38,9 +44,12 @@
         102049357
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30658"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"ee62ba01a16b2519523bf37f0eaab2dc",
+    "wof:geomhash":"dce834877a7541edc800b6e2e72a14d5",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404542321,
-    "wof:lastmodified":1566602315,
+    "wof:lastmodified":1695877304,
     "wof:name":"Glenaven",
     "wof:parent_id":102049357,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.036423,
-    "geom:area_square_m":359455151.096246,
+    "geom:area_square_m":359455334.201424,
     "geom:bbox":"145.907597,-37.144749,146.244107,-36.947461",
     "geom:latitude":-37.049845,
     "geom:longitude":146.049483,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.044226,
     "lbl:longitude":146.052155,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0645\u0646\u0632\u0641\u06cc\u0644\u062f"
@@ -149,9 +155,12 @@
         102049455
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20844"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"da77f90776f854e1d32aa1cec462795a",
+    "wof:geomhash":"d094586b410cd14c9d2057d01fdc7d6b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -163,7 +172,7 @@
         }
     ],
     "wof:id":404539375,
-    "wof:lastmodified":1636494637,
+    "wof:lastmodified":1695877859,
     "wof:name":"Mansfield",
     "wof:parent_id":102049455,
     "wof:placetype":"localadmin",

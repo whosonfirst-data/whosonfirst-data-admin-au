@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000166,
-    "geom:area_square_m":1665906.319774,
+    "geom:area_square_m":1665906.319784,
     "geom:bbox":"150.13287072,-35.6593260055,150.14812752,-35.6409459965",
     "geom:latitude":-35.650691,
     "geom:longitude":150.14036,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.651293,
     "lbl:longitude":150.142027,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Nelligen"
@@ -38,12 +44,15 @@
         102049609
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11697"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931383
     ],
     "wof:country":"AU",
-    "wof:geomhash":"2f0a835e66951bb581d2aabaaad8a19d",
+    "wof:geomhash":"304fd8392a946c06a24780763ba2cd5d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404225243,
-    "wof:lastmodified":1566602677,
+    "wof:lastmodified":1695877518,
     "wof:name":"Nelligen",
     "wof:parent_id":102049609,
     "wof:placetype":"localadmin",

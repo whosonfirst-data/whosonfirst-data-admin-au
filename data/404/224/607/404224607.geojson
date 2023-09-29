@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004013,
-    "geom:area_square_m":41797380.326958,
+    "geom:area_square_m":41797380.327063,
     "geom:bbox":"151.245233984,-32.656916994,151.343888096,-32.5834869975",
     "geom:latitude":-32.620526,
     "geom:longitude":151.299659,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.620011,
     "lbl:longitude":151.299658,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lower Belford"
@@ -38,9 +44,12 @@
         102048757
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11414"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"a7bc3fdf9c59fc3ffa922b03f261a5e7",
+    "wof:geomhash":"d2d7854c08692e326ab787a1519ad9ef",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404224607,
-    "wof:lastmodified":1566602643,
+    "wof:lastmodified":1695877498,
     "wof:name":"Lower Belford",
     "wof:parent_id":102048757,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000315,
-    "geom:area_square_m":3073963.49585,
+    "geom:area_square_m":3073963.495858,
     "geom:bbox":"145.086154016,-37.986614554,145.111686016,-37.9692572065",
     "geom:latitude":-37.977457,
     "geom:longitude":145.099518,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.97823,
     "lbl:longitude":145.100566,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Moorabbin Airport Aws"
@@ -63,12 +69,15 @@
         102049619
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20918"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101933267
     ],
     "wof:country":"AU",
-    "wof:geomhash":"dbdf785c637b2699e10faf9bcc7a9dd4",
+    "wof:geomhash":"3a7ad85c6fb8930cad75885b0202d9cf",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -81,7 +90,7 @@
         }
     ],
     "wof:id":404539541,
-    "wof:lastmodified":1566602417,
+    "wof:lastmodified":1695877368,
     "wof:name":"Moorabbin Airport",
     "wof:parent_id":102049619,
     "wof:placetype":"localadmin",

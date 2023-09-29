@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.072559,
-    "geom:area_square_m":764338267.217,
+    "geom:area_square_m":764338267.217006,
     "geom:bbox":"117.965741184,-31.7200396425,118.287145984,-31.3990760015",
     "geom:latitude":-31.580049,
     "geom:longitude":118.125238,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.59497,
     "lbl:longitude":118.138224,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Hines Hill"
@@ -38,9 +44,12 @@
         102049555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50339"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"9d7ec69bdfc16e3b2a7c8f8e3204be22",
+    "wof:geomhash":"728e6a3096b01991c1f73416a6521bf7",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404547445,
-    "wof:lastmodified":1566602963,
+    "wof:lastmodified":1695877697,
     "wof:name":"Hines Hill",
     "wof:parent_id":102049555,
     "wof:placetype":"localadmin",

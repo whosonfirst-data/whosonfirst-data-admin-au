@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.083334,
-    "geom:area_square_m":775280967.531786,
+    "geom:area_square_m":775280967.531908,
     "geom:bbox":"147.840694912,-41.396784008,148.306874432,-40.9804149975",
     "geom:latitude":-41.20304,
     "geom:longitude":148.06776,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-41.242674,
     "lbl:longitude":148.052015,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ansons Bay"
@@ -38,9 +44,12 @@
         102049669
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60009"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"8f1c0dea4f5e87a90bf8ac0e897f7950",
+    "wof:geomhash":"19f1bc21c79e9202aa1c3236a85b79b9",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404548689,
-    "wof:lastmodified":1566603172,
+    "wof:lastmodified":1695877801,
     "wof:name":"Ansons Bay",
     "wof:parent_id":102049669,
     "wof:placetype":"localadmin",

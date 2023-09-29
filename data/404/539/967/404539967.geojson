@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007823,
-    "geom:area_square_m":75843746.280544,
+    "geom:area_square_m":75843746.280604,
     "geom:bbox":"141.469824896,-38.4329680685,141.587466528,-38.3180106595",
     "geom:latitude":-38.365171,
     "geom:longitude":141.534136,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.359895,
     "lbl:longitude":141.535036,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Portland West"
@@ -38,9 +44,12 @@
         102049579
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21109"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"5a530250f243cc21559dfce5a968c0b9",
+    "wof:geomhash":"04aff3de6b8b1f5378800d3f1b662b5c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404539967,
-    "wof:lastmodified":1566602388,
+    "wof:lastmodified":1695877348,
     "wof:name":"Portland West",
     "wof:parent_id":102049579,
     "wof:placetype":"localadmin",

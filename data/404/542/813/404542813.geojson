@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0077,
-    "geom:area_square_m":84485417.359386,
+    "geom:area_square_m":84485417.359276,
     "geom:bbox":"151.738490016,-27.5338379975,151.863594112,-27.394581005",
     "geom:latitude":-27.463619,
     "geom:longitude":151.807664,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.499715,
     "lbl:longitude":151.796375,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kingsthorpe"
@@ -47,9 +53,12 @@
         102049357
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30887"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"182ad29c5e9f7014e802270fba08a34c",
+    "wof:geomhash":"cdccacece264fc466d7e38d4731b454c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":404542813,
-    "wof:lastmodified":1566602302,
+    "wof:lastmodified":1695877296,
     "wof:name":"Kingsthorpe",
     "wof:parent_id":102049357,
     "wof:placetype":"localadmin",

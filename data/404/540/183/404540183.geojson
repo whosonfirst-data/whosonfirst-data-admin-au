@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00803,
-    "geom:area_square_m":79284505.313128,
+    "geom:area_square_m":79284613.15762,
     "geom:bbox":"145.099651,-37.091632,145.222937,-36.970716",
     "geom:latitude":-37.016022,
     "geom:longitude":145.162143,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.011238,
     "lbl:longitude":145.168204,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Seymur"
@@ -110,9 +116,12 @@
         102048437
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21206"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"d184666b87c83269e712618259a9321d",
+    "wof:geomhash":"1b5a5b64c62fcfe458417bc856d61cb4",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -124,7 +133,7 @@
         }
     ],
     "wof:id":404540183,
-    "wof:lastmodified":1636494672,
+    "wof:lastmodified":1695877881,
     "wof:name":"Seymour",
     "wof:parent_id":102048437,
     "wof:placetype":"localadmin",

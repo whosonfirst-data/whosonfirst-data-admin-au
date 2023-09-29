@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011882,
-    "geom:area_square_m":109829398.207572,
+    "geom:area_square_m":109829398.207506,
     "geom:bbox":"146.655573856,-41.696636004,146.826211008,-41.556007995",
     "geom:latitude":-41.623349,
     "geom:longitude":146.730276,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-41.623116,
     "lbl:longitude":146.728956,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Golden Valley"
@@ -83,9 +89,12 @@
         102048535
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60133"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"28f4c1fe6d18d3a6dcbc7fa4318caeee",
+    "wof:geomhash":"524288c5c4a5ab36ab5a911d23248bc5",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -97,7 +106,7 @@
         }
     ],
     "wof:id":404548969,
-    "wof:lastmodified":1566603201,
+    "wof:lastmodified":1695877817,
     "wof:name":"Golden Valley",
     "wof:parent_id":102048535,
     "wof:placetype":"localadmin",

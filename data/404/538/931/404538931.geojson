@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004125,
-    "geom:area_square_m":40923489.713092,
+    "geom:area_square_m":40923489.71309,
     "geom:bbox":"144.27114624,-36.704715033,144.363995296,-36.625314069",
     "geom:latitude":-36.656248,
     "geom:longitude":144.319851,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.652837,
     "lbl:longitude":144.311397,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0425\u044a\u043d\u0442\u043b\u0438"
@@ -98,9 +104,12 @@
         102049661
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20646"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"102a66c59bfd31eaee2fc6680bebb5fb",
+    "wof:geomhash":"dcf17b26face68417dc70dc02db92fc9",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -112,7 +121,7 @@
         }
     ],
     "wof:id":404538931,
-    "wof:lastmodified":1566602421,
+    "wof:lastmodified":1695877371,
     "wof:name":"Huntly",
     "wof:parent_id":102049661,
     "wof:placetype":"localadmin",

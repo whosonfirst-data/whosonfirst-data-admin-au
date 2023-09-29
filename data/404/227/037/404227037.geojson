@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000115,
-    "geom:area_square_m":1172651.832104,
+    "geom:area_square_m":1172651.832103,
     "geom:bbox":"146.176342208,-34.522541095,146.188089376,-34.504596724",
     "geom:latitude":-34.514731,
     "geom:longitude":146.182295,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.515113,
     "lbl:longitude":146.181719,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Whitton"
@@ -68,12 +74,15 @@
         102049361
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12494"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932339
     ],
     "wof:country":"AU",
-    "wof:geomhash":"47d78a7789c2a0d1a377d9332194285c",
+    "wof:geomhash":"962a844890990e09efd2eeece4c6f112",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -85,7 +94,7 @@
         }
     ],
     "wof:id":404227037,
-    "wof:lastmodified":1566601946,
+    "wof:lastmodified":1695877106,
     "wof:name":"Whitton",
     "wof:parent_id":102049361,
     "wof:placetype":"localadmin",

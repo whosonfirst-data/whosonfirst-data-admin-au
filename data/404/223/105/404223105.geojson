@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.090945,
-    "geom:area_square_m":978732194.553491,
+    "geom:area_square_m":978732194.553304,
     "geom:bbox":"151.686791008,-29.697754008,152.304635008,-29.340955534",
     "geom:latitude":-29.502855,
     "geom:longitude":152.005358,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-29.505462,
     "lbl:longitude":151.958532,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Dundee"
@@ -260,9 +266,12 @@
         102049413
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10747"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"039216372038e2dc3445be4541e0b081",
+    "wof:geomhash":"00960aa9f9f4c1a509d03d821fe4d850",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -274,7 +283,7 @@
         }
     ],
     "wof:id":404223105,
-    "wof:lastmodified":1566602493,
+    "wof:lastmodified":1695877409,
     "wof:name":"Dundee",
     "wof:parent_id":102049413,
     "wof:placetype":"localadmin",

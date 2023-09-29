@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000137,
-    "geom:area_square_m":1237510.595341,
+    "geom:area_square_m":1237510.595344,
     "geom:bbox":"147.35049072,-42.86362,147.371606016,-42.853407001",
     "geom:latitude":-42.858564,
     "geom:longitude":147.360753,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-42.858418,
     "lbl:longitude":147.359901,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Rose Bay"
@@ -48,12 +54,15 @@
         102048771
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60312"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938251
     ],
     "wof:country":"AU",
-    "wof:geomhash":"85e8b17343ee87d872a56c9d701a3c5d",
+    "wof:geomhash":"504cd64d97c22a32294fa0cde27868cd",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -66,7 +75,7 @@
         }
     ],
     "wof:id":404549371,
-    "wof:lastmodified":1566602860,
+    "wof:lastmodified":1695877633,
     "wof:name":"Rose Bay",
     "wof:parent_id":102048771,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.041728,
-    "geom:area_square_m":414058148.564198,
+    "geom:area_square_m":414058148.564137,
     "geom:bbox":"142.55657,-36.76144347,142.816401376,-36.5222770055",
     "geom:latitude":-36.632458,
     "geom:longitude":142.671815,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.62707,
     "lbl:longitude":142.669383,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Rupanyup"
@@ -38,9 +44,12 @@
         102048571
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21172"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"92d5bcf6a53aba514b1fe404c14e7fdb",
+    "wof:geomhash":"37d2b8a68c343af2855edb539046da2e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404540105,
-    "wof:lastmodified":1566602985,
+    "wof:lastmodified":1695877710,
     "wof:name":"Rupanyup",
     "wof:parent_id":102048571,
     "wof:placetype":"localadmin",

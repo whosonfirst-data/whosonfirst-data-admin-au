@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007283,
-    "geom:area_square_m":78032863.878434,
+    "geom:area_square_m":78032863.878376,
     "geom:bbox":"153.128328992,-29.989063999,153.261508992,-29.897125992",
     "geom:latitude":-29.946666,
     "geom:longitude":153.20122,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-29.947534,
     "lbl:longitude":153.200173,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Barcoongere"
@@ -38,9 +44,12 @@
         102048797
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10111"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"3e0d4045051e7b9c91031ec538fa3aa4",
+    "wof:geomhash":"983db1c8ec5ad211ff73f07e29359cf3",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404221675,
-    "wof:lastmodified":1566601971,
+    "wof:lastmodified":1695877119,
     "wof:name":"Barcoongere",
     "wof:parent_id":102048797,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.122264,
-    "geom:area_square_m":1309362614.633615,
+    "geom:area_square_m":1309362614.633395,
     "geom:bbox":"149.479350112,-30.169466009,150.061158368,-29.774935527",
     "geom:latitude":-29.992924,
     "geom:longitude":149.755763,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-30.007766,
     "lbl:longitude":149.755695,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bellata"
@@ -38,9 +44,12 @@
         102049269
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10157"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"e98c607c7963fb69bfb144c25183cde8",
+    "wof:geomhash":"14cd5e443e77a226c7adb2710ecc28f6",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404221777,
-    "wof:lastmodified":1566601986,
+    "wof:lastmodified":1695877127,
     "wof:name":"Bellata",
     "wof:parent_id":102049269,
     "wof:placetype":"localadmin",

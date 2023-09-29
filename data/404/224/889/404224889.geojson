@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01444,
-    "geom:area_square_m":150006599.833361,
+    "geom:area_square_m":150006599.833449,
     "geom:bbox":"151.0864056,-32.908893913,151.294254016,-32.7781849935",
     "geom:latitude":-32.846408,
     "geom:longitude":151.188952,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.845354,
     "lbl:longitude":151.178742,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Millfield"
@@ -38,9 +44,12 @@
         102048575
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11540"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"a3fc9c5ddae7f09d61be4325bb01df34",
+    "wof:geomhash":"4dc52cf3c77403c08bc06e4edd668330",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404224889,
-    "wof:lastmodified":1566602583,
+    "wof:lastmodified":1695877465,
     "wof:name":"Millfield",
     "wof:parent_id":102048575,
     "wof:placetype":"localadmin",

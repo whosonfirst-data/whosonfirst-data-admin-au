@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003495,
-    "geom:area_square_m":38323206.383078,
+    "geom:area_square_m":38323206.383091,
     "geom:bbox":"152.316174016,-27.5735710025,152.397082016,-27.4909200325",
     "geom:latitude":-27.529917,
     "geom:longitude":152.356012,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.523372,
     "lbl:longitude":152.35663,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lake Clarendon"
@@ -38,9 +44,12 @@
         102049033
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30926"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"f5a1013b9018b5fc917d95d43b5e35be",
+    "wof:geomhash":"98ba9a630fe1853ad128af778b41bbce",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404542895,
-    "wof:lastmodified":1566602274,
+    "wof:lastmodified":1695877278,
     "wof:name":"Lake Clarendon",
     "wof:parent_id":102049033,
     "wof:placetype":"localadmin",

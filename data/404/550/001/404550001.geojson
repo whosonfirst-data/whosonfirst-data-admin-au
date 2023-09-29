@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000245,
-    "geom:area_square_m":2475227.414812,
+    "geom:area_square_m":2475236.242128,
     "geom:bbox":"149.031036,-35.201155,149.058903,-35.182649",
     "geom:latitude":-35.191702,
     "geom:longitude":149.045339,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.19094,
     "lbl:longitude":149.04418,
     "lbl:max_zoom":18.0,
@@ -134,13 +140,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC80038",
         "wd:id":"Q1003684"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938783
     ],
     "wof:country":"AU",
-    "wof:geomhash":"d1abcdbc20632d0e8e464569122ab1b7",
+    "wof:geomhash":"11beed5051eff1c1bcc18d3b16eaea92",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -151,7 +159,7 @@
         }
     ],
     "wof:id":404550001,
-    "wof:lastmodified":1636494608,
+    "wof:lastmodified":1695878055,
     "wof:name":"Fraser",
     "wof:parent_id":85681493,
     "wof:placetype":"localadmin",

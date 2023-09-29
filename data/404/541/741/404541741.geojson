@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01973,
-    "geom:area_square_m":219172899.242056,
+    "geom:area_square_m":219172899.241868,
     "geom:bbox":"151.722654848,-26.1678650045,151.885567008,-25.9467530415",
     "geom:latitude":-26.055713,
     "geom:longitude":151.807302,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-26.074839,
     "lbl:longitude":151.8264,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Cloyna"
@@ -38,9 +44,12 @@
         102048861
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30382"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"96cc6dea981a686c03a52fc7beb3c489",
+    "wof:geomhash":"68a914868b503764f09def89800167a5",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404541741,
-    "wof:lastmodified":1566603071,
+    "wof:lastmodified":1695877755,
     "wof:name":"Cloyna",
     "wof:parent_id":102048861,
     "wof:placetype":"localadmin",

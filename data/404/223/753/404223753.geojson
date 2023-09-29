@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.110181,
-    "geom:area_square_m":1120850721.077627,
+    "geom:area_square_m":1120850721.076588,
     "geom:bbox":"146.494560576,-34.8800680065,146.911568416,-34.406505062",
     "geom:latitude":-34.644015,
     "geom:longitude":146.726417,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.659728,
     "lbl:longitude":146.729587,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Grong Grong"
@@ -44,9 +50,12 @@
         102049471
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11035"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"07211d891db9a5f04f726fdda4d0ece3",
+    "wof:geomhash":"9d447373560fd81519745c32d9f4bb8f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404223753,
-    "wof:lastmodified":1566602493,
+    "wof:lastmodified":1695877410,
     "wof:name":"Grong Grong",
     "wof:parent_id":102049471,
     "wof:placetype":"localadmin",

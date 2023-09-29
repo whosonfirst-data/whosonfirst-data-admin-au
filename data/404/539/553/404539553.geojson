@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009147,
-    "geom:area_square_m":91156344.631459,
+    "geom:area_square_m":91156344.631325,
     "geom:bbox":"145.241035008,-36.3577770035,145.366421248,-36.2156249645",
     "geom:latitude":-36.296714,
     "geom:longitude":145.303634,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.297767,
     "lbl:longitude":145.313136,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mooroopna North"
@@ -39,9 +45,12 @@
         102049473
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20923"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"7b6a1623680092768b790c495bf795fc",
+    "wof:geomhash":"efa4e19f4043d5fb7c15bab161b5d3e2",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":404539553,
-    "wof:lastmodified":1566602392,
+    "wof:lastmodified":1695877350,
     "wof:name":"Mooroopna North",
     "wof:parent_id":102049473,
     "wof:placetype":"localadmin",

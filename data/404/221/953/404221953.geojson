@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000274,
-    "geom:area_square_m":2788146.268261,
+    "geom:area_square_m":2788146.268259,
     "geom:bbox":"150.82216,-34.5773049985,150.862860384,-34.5620140085",
     "geom:latitude":-34.570589,
     "geom:longitude":150.839632,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.570838,
     "lbl:longitude":150.830853,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Blackbutt"
@@ -42,12 +48,15 @@
         102048497
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10235"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101929591
     ],
     "wof:country":"AU",
-    "wof:geomhash":"cfde2bc249639f4a96ee0d0a6e1f8182",
+    "wof:geomhash":"5b8451718f9fc2ff82de52468f6289b9",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -60,7 +69,7 @@
         }
     ],
     "wof:id":404221953,
-    "wof:lastmodified":1566601965,
+    "wof:lastmodified":1695877117,
     "wof:name":"Blackbutt",
     "wof:parent_id":102048497,
     "wof:placetype":"localadmin",

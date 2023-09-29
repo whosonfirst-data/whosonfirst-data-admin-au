@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000739,
-    "geom:area_square_m":7571960.205937,
+    "geom:area_square_m":7571960.205934,
     "geom:bbox":"141.868676896,-34.0359386105,141.913587008,-34.004757064",
     "geom:latitude":-34.022988,
     "geom:longitude":141.889603,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.023371,
     "lbl:longitude":141.889952,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:als_x_preferred":[
         "Pomona"
@@ -119,9 +125,12 @@
         102049399
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11893"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"3830835089c7c768bd59ea6ea7b9604b",
+    "wof:geomhash":"d7821f11f1e98841b25278fe92f5e5b9",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -133,7 +142,7 @@
         }
     ],
     "wof:id":404225683,
-    "wof:lastmodified":1566602720,
+    "wof:lastmodified":1695877542,
     "wof:name":"Pomona",
     "wof:parent_id":102049399,
     "wof:placetype":"localadmin",

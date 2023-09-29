@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.062715,
-    "geom:area_square_m":658651953.882333,
+    "geom:area_square_m":658651953.882402,
     "geom:bbox":"116.7752008,-31.98453294,117.158314048,-31.694124343",
     "geom:latitude":-31.860085,
     "geom:longitude":116.966835,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.864216,
     "lbl:longitude":116.979896,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mount Hardey"
@@ -38,9 +44,12 @@
         102049293
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50526"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"d2216d2df194c4317250a2dcc43791a9",
+    "wof:geomhash":"735e86b59ba78b2d9f07e622ea6b8b02",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404547865,
-    "wof:lastmodified":1566602966,
+    "wof:lastmodified":1695877698,
     "wof:name":"Mount Hardey",
     "wof:parent_id":102049293,
     "wof:placetype":"localadmin",

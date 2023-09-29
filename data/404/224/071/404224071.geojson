@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000948,
-    "geom:area_square_m":9560202.924999,
+    "geom:area_square_m":9560202.924992,
     "geom:bbox":"149.177793696,-35.4076140065,149.220311008,-35.3613019945",
     "geom:latitude":-35.384408,
     "geom:longitude":149.202477,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.383063,
     "lbl:longitude":149.202478,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Jerrabomberra"
@@ -38,12 +44,15 @@
         102048627
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11176"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101930817
     ],
     "wof:country":"AU",
-    "wof:geomhash":"03f18ab8033e711a3e510e9420e39770",
+    "wof:geomhash":"0bda16403040d98e7fe0d23b89c9944c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404224071,
-    "wof:lastmodified":1566602587,
+    "wof:lastmodified":1695877467,
     "wof:name":"Jerrabomberra",
     "wof:parent_id":102048627,
     "wof:placetype":"localadmin",

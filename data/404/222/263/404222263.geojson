@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02593,
-    "geom:area_square_m":270752770.245416,
+    "geom:area_square_m":270752770.245366,
     "geom:bbox":"152.052136,-32.4873550035,152.259731008,-32.27776608",
     "geom:latitude":-32.386797,
     "geom:longitude":152.153004,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.390645,
     "lbl:longitude":152.14471,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bulahdelah"
@@ -38,9 +44,12 @@
         102049617
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10373"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"a2de19bc8e52dcb29971f976b0150a97",
+    "wof:geomhash":"273ff9b2eb62e1d4ded4166f9fef4f05",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404222263,
-    "wof:lastmodified":1566602808,
+    "wof:lastmodified":1695877597,
     "wof:name":"Bulahdelah",
     "wof:parent_id":102049617,
     "wof:placetype":"localadmin",

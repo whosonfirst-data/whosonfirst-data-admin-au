@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000234,
-    "geom:area_square_m":2380836.271333,
+    "geom:area_square_m":2380836.271331,
     "geom:bbox":"150.842507552,-34.570731005,150.867194208,-34.555307999",
     "geom:latitude":-34.563132,
     "geom:longitude":150.85448,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.564237,
     "lbl:longitude":150.857181,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Barrack Heights"
@@ -39,12 +45,15 @@
         102048497
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10123"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101929489
     ],
     "wof:country":"AU",
-    "wof:geomhash":"68e11a410f5b34d07616427b62da5b3c",
+    "wof:geomhash":"5139495e593f740c75678cde87a96fa8",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404221701,
-    "wof:lastmodified":1566601965,
+    "wof:lastmodified":1695877117,
     "wof:name":"Barrack Heights",
     "wof:parent_id":102048497,
     "wof:placetype":"localadmin",

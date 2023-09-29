@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017874,
-    "geom:area_square_m":174803457.715448,
+    "geom:area_square_m":174803457.715436,
     "geom:bbox":"144.151892992,-37.8165043345,144.363228992,-37.6607290065",
     "geom:latitude":-37.729475,
     "geom:longitude":144.239794,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.715092,
     "lbl:longitude":144.220644,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Beremboke"
@@ -38,9 +44,12 @@
         102049283
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20122"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"f8c6c6fea456b7ed0296f98d0395040a",
+    "wof:geomhash":"f2cf4314db4d544ba3576b6330ae3e9c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404537765,
-    "wof:lastmodified":1566602322,
+    "wof:lastmodified":1695877307,
     "wof:name":"Beremboke",
     "wof:parent_id":102049283,
     "wof:placetype":"localadmin",

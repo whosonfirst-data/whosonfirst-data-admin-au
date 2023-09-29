@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000267,
-    "geom:area_square_m":2744270.045173,
+    "geom:area_square_m":2744270.045178,
     "geom:bbox":"150.83967584,-33.901223368,150.864624736,-33.877967758",
     "geom:latitude":-33.88917,
     "geom:longitude":150.85137,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.889627,
     "lbl:longitude":150.852217,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Cecil Hills"
@@ -39,12 +45,15 @@
         102049387
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10501"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101929873
     ],
     "wof:country":"AU",
-    "wof:geomhash":"6fc7ffb7e93c57189ee550673f1fea3f",
+    "wof:geomhash":"9a92022f43d9aa744bc8a1165f6f1ed4",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404222551,
-    "wof:lastmodified":1566602744,
+    "wof:lastmodified":1695877557,
     "wof:name":"Cecil Hills",
     "wof:parent_id":102049387,
     "wof:placetype":"localadmin",

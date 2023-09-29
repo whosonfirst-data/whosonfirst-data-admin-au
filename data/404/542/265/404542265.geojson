@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.089701,
-    "geom:area_square_m":1006302835.919663,
+    "geom:area_square_m":1006302835.91909,
     "geom:bbox":"151.41865248,-25.1176919325,151.854755104,-24.692568796",
     "geom:latitude":-24.871237,
     "geom:longitude":151.643329,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-24.840683,
     "lbl:longitude":151.66476,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062c\u064a\u062a\u0627"
@@ -200,9 +206,12 @@
         102048763
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30631"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"fc0bb5600ab62f52c85667daeefb7d7e",
+    "wof:geomhash":"02c3e0ac1f84d9f359fb178f389a3d8e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -214,7 +223,7 @@
         }
     ],
     "wof:id":404542265,
-    "wof:lastmodified":1566602306,
+    "wof:lastmodified":1695877298,
     "wof:name":"Gaeta",
     "wof:parent_id":102048763,
     "wof:placetype":"localadmin",

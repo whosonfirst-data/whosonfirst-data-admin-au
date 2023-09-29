@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000458,
-    "geom:area_square_m":4807537.792543,
+    "geom:area_square_m":4807537.792557,
     "geom:bbox":"116.035953472,-31.9165570025,116.074787008,-31.8933580025",
     "geom:latitude":-31.902761,
     "geom:longitude":116.055725,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.900923,
     "lbl:longitude":116.052193,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Greenmount"
@@ -50,12 +56,15 @@
         102049431
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50306"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937237
     ],
     "wof:country":"AU",
-    "wof:geomhash":"44690b7cedff5247c3aac6ba7a291fe4",
+    "wof:geomhash":"a750e6a2e182d3d6549d376960c20b79",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -67,7 +76,7 @@
         }
     ],
     "wof:id":404547371,
-    "wof:lastmodified":1566602945,
+    "wof:lastmodified":1695877685,
     "wof:name":"Greenmount",
     "wof:parent_id":102049431,
     "wof:placetype":"localadmin",

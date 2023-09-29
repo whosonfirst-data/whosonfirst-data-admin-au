@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008649,
-    "geom:area_square_m":83798423.061545,
+    "geom:area_square_m":83798423.061522,
     "geom:bbox":"143.843338976,-38.466761001,143.944097056,-38.355444429",
     "geom:latitude":-38.415994,
     "geom:longitude":143.894121,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.417555,
     "lbl:longitude":143.894059,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Deans Marsh"
@@ -38,9 +44,12 @@
         102048931
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20376"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"9b873b0f6756cee65fc2446463edfd55",
+    "wof:geomhash":"46c97eeadc33e66908495fb8ae6e8037",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404538333,
-    "wof:lastmodified":1566602463,
+    "wof:lastmodified":1695877391,
     "wof:name":"Deans Marsh",
     "wof:parent_id":102048931,
     "wof:placetype":"localadmin",

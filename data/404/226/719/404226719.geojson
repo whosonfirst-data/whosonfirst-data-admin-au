@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.091898,
-    "geom:area_square_m":978059968.483131,
+    "geom:area_square_m":978059968.481073,
     "geom:bbox":"150.346324544,-30.8136111265,150.744641024,-30.410597007",
     "geom:latitude":-30.603459,
     "geom:longitude":150.568554,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-30.581464,
     "lbl:longitude":150.588094,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Upper Manilla"
@@ -38,9 +44,12 @@
         102048785
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12353"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"d2b5c90b4561ddea1d635f646a378547",
+    "wof:geomhash":"e4a2ee6122fbb7d2f2dfde8c601fed1d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404226719,
-    "wof:lastmodified":1566602084,
+    "wof:lastmodified":1695877183,
     "wof:name":"Upper Manilla",
     "wof:parent_id":102048785,
     "wof:placetype":"localadmin",

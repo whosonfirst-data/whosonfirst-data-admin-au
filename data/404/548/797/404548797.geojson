@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001155,
-    "geom:area_square_m":10758021.412814,
+    "geom:area_square_m":10758021.412737,
     "geom:bbox":"146.766555008,-41.1514823145,146.82307776,-41.1107757655",
     "geom:latitude":-41.129268,
     "geom:longitude":146.789166,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-41.127133,
     "lbl:longitude":146.789567,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Clarence Point"
@@ -38,9 +44,12 @@
         102049419
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60057"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"432bcefbe54cc4d900015d0784ab4500",
+    "wof:geomhash":"4f04fa51283273014e7f1cb486ccf454",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404548797,
-    "wof:lastmodified":1566603157,
+    "wof:lastmodified":1695877793,
     "wof:name":"Clarence Point",
     "wof:parent_id":102049419,
     "wof:placetype":"localadmin",

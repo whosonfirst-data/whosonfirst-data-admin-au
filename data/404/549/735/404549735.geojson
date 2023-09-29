@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001987,
-    "geom:area_square_m":24004689.559354,
+    "geom:area_square_m":24004689.559341,
     "geom:bbox":"130.90076,-12.409924328,130.938562816,-12.3346697135",
     "geom:latitude":-12.371032,
     "geom:longitude":130.921828,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-12.370735,
     "lbl:longitude":130.922212,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0647\u0648\u0644\u0645\u0632"
@@ -102,12 +108,15 @@
         102049235
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC70083"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938481
     ],
     "wof:country":"AU",
-    "wof:geomhash":"b97943910070fbc96fc7ccb4c5bc0a8b",
+    "wof:geomhash":"b0a5246ca503ad995f6b7b05c480e6b9",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -120,7 +129,7 @@
         }
     ],
     "wof:id":404549735,
-    "wof:lastmodified":1566602868,
+    "wof:lastmodified":1695877638,
     "wof:name":"Holmes",
     "wof:parent_id":102049235,
     "wof:placetype":"localadmin",

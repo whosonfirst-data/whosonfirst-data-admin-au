@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00095,
-    "geom:area_square_m":8757074.10094,
+    "geom:area_square_m":8757074.100939,
     "geom:bbox":"145.511278432,-41.8023709965,145.552802624,-41.7632959995",
     "geom:latitude":-41.782157,
     "geom:longitude":145.534851,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-41.778397,
     "lbl:longitude":145.534518,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Rosebery"
@@ -62,12 +68,15 @@
         102049543
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60313"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938253
     ],
     "wof:country":"AU",
-    "wof:geomhash":"d041aec1fcb2e86bccf2f86c461798d9",
+    "wof:geomhash":"594ee71859c7b5ba33a0f9cd927a32be",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -79,7 +88,7 @@
         }
     ],
     "wof:id":404549373,
-    "wof:lastmodified":1566602914,
+    "wof:lastmodified":1695877670,
     "wof:name":"Rosebery",
     "wof:parent_id":102049543,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000153,
-    "geom:area_square_m":1571883.725488,
+    "geom:area_square_m":1571883.725489,
     "geom:bbox":"121.859774208,-33.8643980635,121.881679776,-33.849728692",
     "geom:latitude":-33.85738,
     "geom:longitude":121.869358,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.860231,
     "lbl:longitude":121.864964,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Nulsen"
@@ -38,12 +44,15 @@
         102049141
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50600"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937623
     ],
     "wof:country":"AU",
-    "wof:geomhash":"7d6cb42b7eae6716bd70fcfee92039e6",
+    "wof:geomhash":"32775d12d8d9fb9d2cc0b1f2463f8670",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404548033,
-    "wof:lastmodified":1566603223,
+    "wof:lastmodified":1695877829,
     "wof:name":"Nulsen",
     "wof:parent_id":102049141,
     "wof:placetype":"localadmin",

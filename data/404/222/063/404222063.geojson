@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003634,
-    "geom:area_square_m":39388390.025812,
+    "geom:area_square_m":39388390.025716,
     "geom:bbox":"153.192199008,-28.8217029915,153.280128992,-28.7451049995",
     "geom:latitude":-28.780891,
     "geom:longitude":153.237805,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.782181,
     "lbl:longitude":153.237129,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Booerie Creek"
@@ -38,9 +44,12 @@
         102049635
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10284"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"716a1400e4def69cd1dc4def851b74da",
+    "wof:geomhash":"f556e6f60211350d2fdfb2738144fd2d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404222063,
-    "wof:lastmodified":1566602768,
+    "wof:lastmodified":1695877571,
     "wof:name":"Booerie Creek",
     "wof:parent_id":102049635,
     "wof:placetype":"localadmin",

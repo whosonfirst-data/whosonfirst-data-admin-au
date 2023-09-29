@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.15636,
-    "geom:area_square_m":1577084812.279739,
+    "geom:area_square_m":1577084812.27852,
     "geom:bbox":"143.920994016,-35.5638950875,144.499177024,-35.12683305",
     "geom:latitude":-35.343494,
     "geom:longitude":144.229542,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.34638,
     "lbl:longitude":144.235084,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Wakool"
@@ -38,9 +44,12 @@
         102049043
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12384"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"1e93fc1c81c35778416c6d4e4211104c",
+    "wof:geomhash":"b8e53d0db90275ba80b899ba43295330",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404226789,
-    "wof:lastmodified":1566602086,
+    "wof:lastmodified":1695877185,
     "wof:name":"Wakool",
     "wof:parent_id":102049043,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008089,
-    "geom:area_square_m":88432238.441751,
+    "geom:area_square_m":88432238.441927,
     "geom:bbox":"152.658636,-27.9154860045,152.800556992,-27.812097996",
     "geom:latitude":-27.858382,
     "geom:longitude":152.738722,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.858138,
     "lbl:longitude":152.745713,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Milbong"
@@ -38,9 +44,12 @@
         102048945
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31055"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"e4fa63a070299f9d8c00cf7392039f48",
+    "wof:geomhash":"b28f9f2f72a881731db4cf2b051acdf6",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404543161,
-    "wof:lastmodified":1566602094,
+    "wof:lastmodified":1695877188,
     "wof:name":"Milbong",
     "wof:parent_id":102048945,
     "wof:placetype":"localadmin",

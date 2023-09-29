@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.071339,
-    "geom:area_square_m":734535537.619919,
+    "geom:area_square_m":734535537.619764,
     "geom:bbox":"121.627659008,-33.750041997,121.992327008,-33.516163998",
     "geom:latitude":-33.623907,
     "geom:longitude":121.825504,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.622206,
     "lbl:longitude":121.827854,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u063a\u064a\u0628\u0633\u0648\u0646"
@@ -89,9 +95,12 @@
         102049141
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50279"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"f168ae54c7312910eac59c7db84c64e4",
+    "wof:geomhash":"9d667f626c251261bd8369867294b25a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -103,7 +112,7 @@
         }
     ],
     "wof:id":404547311,
-    "wof:lastmodified":1566602972,
+    "wof:lastmodified":1695877702,
     "wof:name":"Gibson",
     "wof:parent_id":102049141,
     "wof:placetype":"localadmin",

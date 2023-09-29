@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000369,
-    "geom:area_square_m":3874820.66086,
+    "geom:area_square_m":3874820.660871,
     "geom:bbox":"115.766191808,-31.99353948,115.794837728,-31.9690003585",
     "geom:latitude":-31.981237,
     "geom:longitude":115.782179,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.981563,
     "lbl:longitude":115.78435,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Claremont"
@@ -96,12 +102,15 @@
         102049153
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50158"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937017
     ],
     "wof:country":"AU",
-    "wof:geomhash":"9d499886ebd168ca0d2732b3a7042ffb",
+    "wof:geomhash":"7daf08521e8fc7f5a993bc30689136f7",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -114,7 +123,7 @@
         }
     ],
     "wof:id":404547043,
-    "wof:lastmodified":1566602961,
+    "wof:lastmodified":1695877694,
     "wof:name":"Claremont",
     "wof:parent_id":102049153,
     "wof:placetype":"localadmin",

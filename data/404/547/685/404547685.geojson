@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009788,
-    "geom:area_square_m":100869899.750548,
+    "geom:area_square_m":100869899.750612,
     "geom:bbox":"115.868113984,-33.6116109925,116.006354976,-33.4885929115",
     "geom:latitude":-33.545326,
     "geom:longitude":115.932652,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.54194,
     "lbl:longitude":115.922208,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Lowden"
@@ -47,9 +53,12 @@
         102049113
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50446"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"6ed8c1ce87a55149da623a15440f1a82",
+    "wof:geomhash":"1adb0855a21b2659b8f8c0c68ebba85e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":404547685,
-    "wof:lastmodified":1566602959,
+    "wof:lastmodified":1695877694,
     "wof:name":"Lowden",
     "wof:parent_id":102049113,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.081291,
-    "geom:area_square_m":885546115.242228,
+    "geom:area_square_m":885546115.242895,
     "geom:bbox":"151.439868992,-28.470072955,151.876842016,-28.0866742745",
     "geom:latitude":-28.238024,
     "geom:longitude":151.684003,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.242795,
     "lbl:longitude":151.756977,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Karara"
@@ -39,9 +45,12 @@
         102048963
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30850"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"87cdefea9fb0ca19579b649f393e7cbe",
+    "wof:geomhash":"c9c125caa13c346d8e54d754413c167c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":404542733,
-    "wof:lastmodified":1566602289,
+    "wof:lastmodified":1695877286,
     "wof:name":"Karara",
     "wof:parent_id":102048963,
     "wof:placetype":"localadmin",

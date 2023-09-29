@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000233,
-    "geom:area_square_m":2441238.787724,
+    "geom:area_square_m":2441238.787722,
     "geom:bbox":"152.498335008,-32.0626330025,152.522591008,-32.048289009",
     "geom:latitude":-32.055355,
     "geom:longitude":152.510426,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.054991,
     "lbl:longitude":152.510419,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tallwoods Village"
@@ -38,12 +44,15 @@
         102048833
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12205"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932021
     ],
     "wof:country":"AU",
-    "wof:geomhash":"6240c4cdacad8bdfe6738c72a8280b49",
+    "wof:geomhash":"5200b2ced3555b21025d6eb2014eb489",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404226385,
-    "wof:lastmodified":1566602045,
+    "wof:lastmodified":1695877158,
     "wof:name":"Tallwoods Village",
     "wof:parent_id":102048833,
     "wof:placetype":"localadmin",

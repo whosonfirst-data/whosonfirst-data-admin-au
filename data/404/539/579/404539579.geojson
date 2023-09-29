@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012491,
-    "geom:area_square_m":122057065.458954,
+    "geom:area_square_m":122057065.459068,
     "geom:bbox":"144.572639648,-37.8705190065,144.757201024,-37.744270992",
     "geom:latitude":-37.789092,
     "geom:longitude":144.655673,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.779457,
     "lbl:longitude":144.632597,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mount Cottrell"
@@ -39,9 +45,12 @@
         102048697
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20935"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"855a7c042b691d352f5487892b9fcef7",
+    "wof:geomhash":"4c4c5ef575120e98c9842fa3224abc7c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":404539579,
-    "wof:lastmodified":1566602417,
+    "wof:lastmodified":1695877368,
     "wof:name":"Mount Cottrell",
     "wof:parent_id":102048697,
     "wof:placetype":"localadmin",

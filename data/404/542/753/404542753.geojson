@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016725,
-    "geom:area_square_m":193826366.955773,
+    "geom:area_square_m":193826366.955851,
     "geom:bbox":"148.391417152,-20.4878430085,148.595610976,-20.340913992",
     "geom:latitude":-20.408096,
     "geom:longitude":148.497774,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-20.403033,
     "lbl:longitude":148.499311,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kelsey Creek"
@@ -38,9 +44,12 @@
         102049581
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30859"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"638eae3dab477ede2156daa6955d5f94",
+    "wof:geomhash":"2876bc68fc2a99457ebbe78fac30567e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404542753,
-    "wof:lastmodified":1566602264,
+    "wof:lastmodified":1695877272,
     "wof:name":"Kelsey Creek",
     "wof:parent_id":102049581,
     "wof:placetype":"localadmin",

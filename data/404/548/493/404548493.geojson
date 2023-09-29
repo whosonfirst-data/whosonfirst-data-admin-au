@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000769,
-    "geom:area_square_m":7790873.066595,
+    "geom:area_square_m":7790873.066594,
     "geom:bbox":"117.842686944,-34.9847820025,117.890304032,-34.9608361575",
     "geom:latitude":-34.971768,
     "geom:longitude":117.86517,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.971759,
     "lbl:longitude":117.86517,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Warrenup"
@@ -38,12 +44,15 @@
         102048671
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50809"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937905
     ],
     "wof:country":"AU",
-    "wof:geomhash":"d7ad4ab0792c6e681c15a263810f1018",
+    "wof:geomhash":"e1034a3908a2e256caa45728683ceca9",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404548493,
-    "wof:lastmodified":1566603212,
+    "wof:lastmodified":1695877821,
     "wof:name":"Warrenup",
     "wof:parent_id":102048671,
     "wof:placetype":"localadmin",

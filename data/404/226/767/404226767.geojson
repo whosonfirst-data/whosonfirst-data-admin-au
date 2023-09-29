@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001482,
-    "geom:area_square_m":15251680.20258,
+    "geom:area_square_m":15251680.202487,
     "geom:bbox":"150.821879008,-33.6639669915,150.87792528,-33.606799938",
     "geom:latitude":-33.639695,
     "geom:longitude":150.845122,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.639172,
     "lbl:longitude":150.845137,
     "lbl:max_zoom":18.0,
@@ -198,10 +204,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC12374",
         "wd:id":"Q7932479"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"5f5d8f0b9659133ae3d876654a06b6c2",
+    "wof:geomhash":"7d9eaf22aafd86dcba304414b3b719dc",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -213,7 +221,7 @@
         }
     ],
     "wof:id":404226767,
-    "wof:lastmodified":1566602052,
+    "wof:lastmodified":1695877909,
     "wof:name":"Vineyard",
     "wof:parent_id":102048745,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000119,
-    "geom:area_square_m":1238943.020148,
+    "geom:area_square_m":1238943.020126,
     "geom:bbox":"115.726894304,-32.5199778295,115.74423008,-32.496958668",
     "geom:latitude":-32.508572,
     "geom:longitude":115.735988,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.508646,
     "lbl:longitude":115.736117,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Silver Sands"
@@ -39,12 +45,15 @@
         102048431
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50709"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937765
     ],
     "wof:country":"AU",
-    "wof:geomhash":"1c7aaa5c8f4b631221fa9561e750b1c6",
+    "wof:geomhash":"22e16b837210cc1b710290bf64919f0a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404548271,
-    "wof:lastmodified":1566603210,
+    "wof:lastmodified":1695877821,
     "wof:name":"Silver Sands",
     "wof:parent_id":102048431,
     "wof:placetype":"localadmin",

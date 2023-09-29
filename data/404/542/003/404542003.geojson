@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000815,
-    "geom:area_square_m":8926839.106613,
+    "geom:area_square_m":8926839.106628,
     "geom:bbox":"151.883784704,-27.618161867,151.927742176,-27.588137033",
     "geom:latitude":-27.602289,
     "geom:longitude":151.901302,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.604491,
     "lbl:longitude":151.898693,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Drayton"
@@ -68,12 +74,15 @@
         102049357
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30507"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934313
     ],
     "wof:country":"AU",
-    "wof:geomhash":"1abb3cd432bfa726d8690daa72e1390b",
+    "wof:geomhash":"af4304fef6fc03c5138d95862bff32d3",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -85,7 +94,7 @@
         }
     ],
     "wof:id":404542003,
-    "wof:lastmodified":1566602303,
+    "wof:lastmodified":1695877296,
     "wof:name":"Drayton",
     "wof:parent_id":102049357,
     "wof:placetype":"localadmin",

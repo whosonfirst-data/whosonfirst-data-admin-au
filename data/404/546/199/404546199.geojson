@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001443,
-    "geom:area_square_m":14766425.465348,
+    "geom:area_square_m":14766425.465333,
     "geom:bbox":"140.696671008,-34.1558690045,140.753167552,-34.1042557805",
     "geom:latitude":-34.127739,
     "geom:longitude":140.726522,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.126324,
     "lbl:longitude":140.724594,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Renmark North"
@@ -38,9 +44,12 @@
         102048689
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40616"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"a30dc0bddba3d92147e8696a59da123b",
+    "wof:geomhash":"b8f052b73416311dc9cbedb4ceac7ff8",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404546199,
-    "wof:lastmodified":1566603134,
+    "wof:lastmodified":1695877784,
     "wof:name":"Renmark North",
     "wof:parent_id":102048689,
     "wof:placetype":"localadmin",

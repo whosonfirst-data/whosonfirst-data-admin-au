@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001375,
-    "geom:area_square_m":15049995.32604,
+    "geom:area_square_m":15049995.326018,
     "geom:bbox":"153.212688832,-27.7560739835,153.270078848,-27.708126368",
     "geom:latitude":-27.730619,
     "geom:longitude":153.244499,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.734831,
     "lbl:longitude":153.244934,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Stapylton"
@@ -39,12 +45,15 @@
         102049363
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31537"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935375
     ],
     "wof:country":"AU",
-    "wof:geomhash":"58d01d2b7298342393badaf65912f61d",
+    "wof:geomhash":"8bf15d0b68bf395e43ce905b5a1db859",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404544187,
-    "wof:lastmodified":1566602171,
+    "wof:lastmodified":1695877228,
     "wof:name":"Stapylton",
     "wof:parent_id":102049363,
     "wof:placetype":"localadmin",

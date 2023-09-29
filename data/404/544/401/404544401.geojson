@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002305,
-    "geom:area_square_m":25710535.989326,
+    "geom:area_square_m":25710535.98935,
     "geom:bbox":"152.620670016,-25.62194597,152.703018016,-25.567839612",
     "geom:latitude":-25.58941,
     "geom:longitude":152.665537,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-25.586452,
     "lbl:longitude":152.666168,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tinana South"
@@ -38,9 +44,12 @@
         102049435
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31636"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"3027639e2373ab71932867a2186a6243",
+    "wof:geomhash":"22838b2d16f61017c1aa478f39ffe65f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404544401,
-    "wof:lastmodified":1566602162,
+    "wof:lastmodified":1695877223,
     "wof:name":"Tinana South",
     "wof:parent_id":102049435,
     "wof:placetype":"localadmin",

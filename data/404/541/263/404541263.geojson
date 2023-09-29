@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000415,
-    "geom:area_square_m":4715831.594475,
+    "geom:area_square_m":4715831.594483,
     "geom:bbox":"150.513606016,-23.3767769975,150.542348544,-23.3530490085",
     "geom:latitude":-23.364365,
     "geom:longitude":150.527856,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-23.363007,
     "lbl:longitude":150.529022,
     "lbl:max_zoom":18.0,
@@ -150,13 +156,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC30152",
         "wd:id":"Q4894915"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101933929
     ],
     "wof:country":"AU",
-    "wof:geomhash":"5977c0f4a84bd1d40bdf61260a54b87f",
+    "wof:geomhash":"7bd6e9b2d155ab46e2873f74a3b07d70",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -168,7 +176,7 @@
         }
     ],
     "wof:id":404541263,
-    "wof:lastmodified":1566603092,
+    "wof:lastmodified":1695878036,
     "wof:name":"Berserker",
     "wof:parent_id":102048825,
     "wof:placetype":"localadmin",

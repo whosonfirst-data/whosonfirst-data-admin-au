@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000373,
-    "geom:area_square_m":3834796.620348,
+    "geom:area_square_m":3834796.62035,
     "geom:bbox":"151.057861632,-33.724507002,151.081965728,-33.693725111",
     "geom:latitude":-33.711757,
     "geom:longitude":151.071385,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.713989,
     "lbl:longitude":151.072198,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Westleigh"
@@ -39,12 +45,15 @@
         102049503
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12483"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932323
     ],
     "wof:country":"AU",
-    "wof:geomhash":"df70f929a2cef9ceb2d6e5199af89fbf",
+    "wof:geomhash":"cbc2f383a2c9be3974e4ecba366bf911",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404227011,
-    "wof:lastmodified":1566601953,
+    "wof:lastmodified":1695877110,
     "wof:name":"Westleigh",
     "wof:parent_id":102049503,
     "wof:placetype":"localadmin",

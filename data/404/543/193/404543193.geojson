@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000279,
-    "geom:area_square_m":3146618.4686,
+    "geom:area_square_m":3146618.468612,
     "geom:bbox":"151.540162912,-24.3380340005,151.566750016,-24.319169088",
     "geom:latitude":-24.327304,
     "geom:longitude":151.55155,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-24.326862,
     "lbl:longitude":151.550453,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Miriam Vale"
@@ -41,12 +47,15 @@
         102049463
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31070"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934853
     ],
     "wof:country":"AU",
-    "wof:geomhash":"ed276a790cbb0c2240eeeaed517d569d",
+    "wof:geomhash":"0e9f2657bb670d32b98e1e472711d83b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404543193,
-    "wof:lastmodified":1566602096,
+    "wof:lastmodified":1695877189,
     "wof:name":"Miriam Vale",
     "wof:parent_id":102049463,
     "wof:placetype":"localadmin",

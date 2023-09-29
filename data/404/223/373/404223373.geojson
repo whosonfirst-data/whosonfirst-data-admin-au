@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000088,
-    "geom:area_square_m":902115.42856,
+    "geom:area_square_m":902113.846334,
     "geom:bbox":"151.267364,-33.801126,151.281199,-33.79072",
     "geom:latitude":-33.795454,
     "geom:longitude":151.274111,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.795616,
     "lbl:longitude":151.274248,
     "lbl:max_zoom":18.0,
@@ -82,13 +88,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC10866",
         "wd:id":"Q5430549"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101930269
     ],
     "wof:country":"AU",
-    "wof:geomhash":"dd1f430f0c0517c86c5fa90be3e94c1c",
+    "wof:geomhash":"1a50d3783d21f9c03e45c29255767a94",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -101,7 +109,7 @@
         }
     ],
     "wof:id":404223373,
-    "wof:lastmodified":1690853625,
+    "wof:lastmodified":1695877972,
     "wof:name":"Fairlight",
     "wof:parent_id":102049077,
     "wof:placetype":"localadmin",

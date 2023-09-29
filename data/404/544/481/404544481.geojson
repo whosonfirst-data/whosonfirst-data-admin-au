@@ -10,12 +10,18 @@
     "geom:latitude":-17.941298,
     "geom:longitude":145.923157,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-17.93387,
     "lbl:longitude":145.928083,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Tully"
@@ -74,12 +80,15 @@
         102049237
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31674"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935523
     ],
     "wof:country":"AU",
-    "wof:geomhash":"4aa101d35330704b3781177d9bd6c5ae",
+    "wof:geomhash":"339b2a59e95e21c6d1e8efe513a66153",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -91,7 +100,7 @@
         }
     ],
     "wof:id":404544481,
-    "wof:lastmodified":1566602187,
+    "wof:lastmodified":1695877237,
     "wof:name":"Tully",
     "wof:parent_id":102049237,
     "wof:placetype":"localadmin",

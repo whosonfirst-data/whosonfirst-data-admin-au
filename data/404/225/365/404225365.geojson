@@ -10,12 +10,18 @@
     "geom:latitude":-33.773485,
     "geom:longitude":151.273774,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.771978,
     "lbl:longitude":151.271336,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "North Manly"
@@ -39,12 +45,15 @@
         102049493
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11751"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931447
     ],
     "wof:country":"AU",
-    "wof:geomhash":"3ea31be7fbcd8a66db264a7f9257d432",
+    "wof:geomhash":"753abd9213d3f876c26753b69e6e26ff",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404225365,
-    "wof:lastmodified":1566602661,
+    "wof:lastmodified":1695877508,
     "wof:name":"North Manly",
     "wof:parent_id":102049493,
     "wof:placetype":"localadmin",

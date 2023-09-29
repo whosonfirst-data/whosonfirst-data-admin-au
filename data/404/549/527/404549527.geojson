@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000221,
-    "geom:area_square_m":2059805.343834,
+    "geom:area_square_m":2059805.343829,
     "geom:bbox":"146.21956992,-41.171097217,146.250857888,-41.1568600055",
     "geom:latitude":-41.16295,
     "geom:longitude":146.235093,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-41.164876,
     "lbl:longitude":146.22988,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Turners Beach"
@@ -38,12 +44,15 @@
         102049415
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60381"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938321
     ],
     "wof:country":"AU",
-    "wof:geomhash":"fef4c9cd1c3906f04fcae837264e451e",
+    "wof:geomhash":"664a57f3fcd5c35ff4abeee66a8fab5b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404549527,
-    "wof:lastmodified":1566602860,
+    "wof:lastmodified":1695877633,
     "wof:name":"Turners Beach",
     "wof:parent_id":102049415,
     "wof:placetype":"localadmin",

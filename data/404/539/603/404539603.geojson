@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000206,
-    "geom:area_square_m":2020384.109714,
+    "geom:area_square_m":2020384.10972,
     "geom:bbox":"143.8465176,-37.589634006,143.863880512,-37.5719502445",
     "geom:latitude":-37.581084,
     "geom:longitude":143.855136,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.581299,
     "lbl:longitude":143.855134,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Mount Pleasant"
@@ -105,9 +111,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC20946",
         "gn:id":2156544,
         "qs_pg:id":1028570
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101933297
     ],
@@ -115,7 +123,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1c917cbaca9cb641d4f20a421ad29cc8",
+    "wof:geomhash":"80613edd59e1b4321b669468c5a18a11",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -127,7 +135,7 @@
         }
     ],
     "wof:id":404539603,
-    "wof:lastmodified":1582313104,
+    "wof:lastmodified":1695877839,
     "wof:name":"Mount Pleasant",
     "wof:parent_id":102049037,
     "wof:placetype":"localadmin",

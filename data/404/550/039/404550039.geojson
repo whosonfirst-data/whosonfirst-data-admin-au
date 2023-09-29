@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000852,
-    "geom:area_square_m":8584173.733738,
+    "geom:area_square_m":8584173.733739,
     "geom:bbox":"149.145694336,-35.4107317375,149.19082432,-35.365538772",
     "geom:latitude":-35.385488,
     "geom:longitude":149.165814,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.383936,
     "lbl:longitude":149.166155,
     "lbl:max_zoom":18.0,
@@ -113,10 +119,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC80055",
         "wd:id":"Q979981"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"9ad6681d7ca1d869c467d47061a25ec6",
+    "wof:geomhash":"dfe81fe52449dd37b313062e02c7b857",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -127,7 +135,7 @@
         }
     ],
     "wof:id":404550039,
-    "wof:lastmodified":1566601927,
+    "wof:lastmodified":1695877892,
     "wof:name":"Hume",
     "wof:parent_id":85681493,
     "wof:placetype":"localadmin",

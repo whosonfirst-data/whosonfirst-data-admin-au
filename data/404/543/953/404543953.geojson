@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027444,
-    "geom:area_square_m":320843636.916479,
+    "geom:area_square_m":320843636.916468,
     "geom:bbox":"146.144593536,-19.1249895965,146.417155008,-18.9190620635",
     "geom:latitude":-19.010853,
     "geom:longitude":146.292939,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-19.01431,
     "lbl:longitude":146.317698,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Rollingstone"
@@ -38,9 +44,12 @@
         102048451
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31423"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"ad7f8ca249f91554376a2c467e7a4772",
+    "wof:geomhash":"08790ceb4f41fd3bf9c30902e973655e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404543953,
-    "wof:lastmodified":1566602093,
+    "wof:lastmodified":1695877188,
     "wof:name":"Rollingstone",
     "wof:parent_id":102048451,
     "wof:placetype":"localadmin",

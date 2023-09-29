@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00798,
-    "geom:area_square_m":79304876.496018,
+    "geom:area_square_m":79304916.196908,
     "geom:bbox":"146.052691,-36.563276,146.209729,-36.471419",
     "geom:latitude":-36.517057,
     "geom:longitude":146.134832,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.509316,
     "lbl:longitude":146.155649,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u0989\u0987\u09a8\u09cd\u099f\u09a8"
@@ -107,9 +113,12 @@
         102049239
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21486"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"f6fbce21fc96f92c16b115a8cae0d8ac",
+    "wof:geomhash":"4ef02e9adaf94592ea0c107e7cecc45a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -121,7 +130,7 @@
         }
     ],
     "wof:id":404540807,
-    "wof:lastmodified":1636494672,
+    "wof:lastmodified":1695877881,
     "wof:name":"Winton",
     "wof:parent_id":102049239,
     "wof:placetype":"localadmin",

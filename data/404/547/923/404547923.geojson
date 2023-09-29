@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001934,
-    "geom:area_square_m":20221119.823488,
+    "geom:area_square_m":20221119.823475,
     "geom:bbox":"115.951916,-32.310738001,116.013043424,-32.2538508895",
     "geom:latitude":-32.28302,
     "geom:longitude":115.977069,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.283539,
     "lbl:longitude":115.976668,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mundijong"
@@ -38,9 +44,12 @@
         102049507
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50551"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"f038fb563ae122f4cd2b4d4cd8b4b56a",
+    "wof:geomhash":"d411e2b8f5394ceb2c55d95d7116034f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404547923,
-    "wof:lastmodified":1566602945,
+    "wof:lastmodified":1695877685,
     "wof:name":"Mundijong",
     "wof:parent_id":102049507,
     "wof:placetype":"localadmin",

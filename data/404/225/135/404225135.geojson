@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001129,
-    "geom:area_square_m":12262257.886047,
+    "geom:area_square_m":12262257.886049,
     "geom:bbox":"153.414768032,-28.5677230035,153.493592544,-28.5363999875",
     "geom:latitude":-28.552557,
     "geom:longitude":153.446978,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.551783,
     "lbl:longitude":153.447583,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mullumbimby Creek"
@@ -38,9 +44,12 @@
         102048747
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11649"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"2d2e74842fa7a46b6918c311c6cb6874",
+    "wof:geomhash":"44072bd41199e2a54665c7f5a4732e95",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404225135,
-    "wof:lastmodified":1566602658,
+    "wof:lastmodified":1695877506,
     "wof:name":"Mullumbimby Creek",
     "wof:parent_id":102048747,
     "wof:placetype":"localadmin",

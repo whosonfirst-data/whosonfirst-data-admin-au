@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006277,
-    "geom:area_square_m":58572353.12601,
+    "geom:area_square_m":58572353.125817,
     "geom:bbox":"145.65207,-41.0731518345,145.800348384,-40.9605519915",
     "geom:latitude":-41.010961,
     "geom:longitude":145.724812,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-41.005046,
     "lbl:longitude":145.717866,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Wynyard"
@@ -50,9 +56,12 @@
         102048983
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60415"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"95e6a0115eda234d0ba97d561fc0a8ff",
+    "wof:geomhash":"ccd0534496dc77325427ce1848af7db6",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":404549603,
-    "wof:lastmodified":1566602850,
+    "wof:lastmodified":1695877626,
     "wof:name":"Wynyard",
     "wof:parent_id":102048983,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":-35.72764,
     "geom:longitude":142.363301,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.730318,
     "lbl:longitude":142.364106,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Hopetoun"
@@ -50,12 +56,15 @@
         102048571
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20635"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101933053
     ],
     "wof:country":"AU",
-    "wof:geomhash":"3eb27b5a0012ff47b9d27abb804fb9ff",
+    "wof:geomhash":"c0dbee6abda5de70242cb82211b85d1e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -67,7 +76,7 @@
         }
     ],
     "wof:id":404538909,
-    "wof:lastmodified":1566602420,
+    "wof:lastmodified":1695877369,
     "wof:name":"Hopetoun",
     "wof:parent_id":102048571,
     "wof:placetype":"localadmin",

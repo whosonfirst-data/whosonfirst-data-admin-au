@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002568,
-    "geom:area_square_m":26982228.290369,
+    "geom:area_square_m":26982228.29037,
     "geom:bbox":"115.917964,-31.8556782755,115.969159008,-31.7956540635",
     "geom:latitude":-31.824453,
     "geom:longitude":115.941583,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.824621,
     "lbl:longitude":115.941242,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Whiteman"
@@ -44,12 +50,15 @@
         102049575
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50838"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937953
     ],
     "wof:country":"AU",
-    "wof:geomhash":"848788032cd6958e52311cf9ad21c46b",
+    "wof:geomhash":"f5e584dbb4708b3929584c8ec217cd44",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":404548559,
-    "wof:lastmodified":1566603161,
+    "wof:lastmodified":1695877795,
     "wof:name":"Whiteman",
     "wof:parent_id":102049575,
     "wof:placetype":"localadmin",

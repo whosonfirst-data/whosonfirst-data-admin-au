@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005182,
-    "geom:area_square_m":50694321.870027,
+    "geom:area_square_m":50694321.870048,
     "geom:bbox":"147.612068992,-37.750148997,147.721392992,-37.670300999",
     "geom:latitude":-37.707754,
     "geom:longitude":147.665787,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.710271,
     "lbl:longitude":147.664751,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Clifton Creek"
@@ -38,9 +44,12 @@
         102049039
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20299"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"e24753322d9809f4fa30b40bd27d5eaf",
+    "wof:geomhash":"ffde9c9fd602f55694de94a5b41df494",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404538159,
-    "wof:lastmodified":1566602424,
+    "wof:lastmodified":1695877372,
     "wof:name":"Clifton Creek",
     "wof:parent_id":102049039,
     "wof:placetype":"localadmin",

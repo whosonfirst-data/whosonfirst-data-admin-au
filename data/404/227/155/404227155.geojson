@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0276,
-    "geom:area_square_m":300131806.786939,
+    "geom:area_square_m":300131806.787118,
     "geom:bbox":"152.493133152,-28.542142998,152.789691008,-28.269555007",
     "geom:latitude":-28.425391,
     "geom:longitude":152.635281,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.437424,
     "lbl:longitude":152.633039,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Woodenbong"
@@ -41,9 +47,12 @@
         102048855
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12547"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"2ddbf59a52b4563474387d4ab69650dd",
+    "wof:geomhash":"aff338eb6fd0e130a745ad8f3ed270a8",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404227155,
-    "wof:lastmodified":1566601950,
+    "wof:lastmodified":1695877109,
     "wof:name":"Woodenbong",
     "wof:parent_id":102048855,
     "wof:placetype":"localadmin",

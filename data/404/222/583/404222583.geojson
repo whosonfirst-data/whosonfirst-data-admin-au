@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002173,
-    "geom:area_square_m":23410149.681742,
+    "geom:area_square_m":23410149.681777,
     "geom:bbox":"153.21789,-29.412337007,153.345498016,-29.3614440065",
     "geom:latitude":-29.383592,
     "geom:longitude":153.273254,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-29.380932,
     "lbl:longitude":153.256326,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Chatsworth"
@@ -83,9 +89,12 @@
         102048835
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10515"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"5d4848ce08603d31c6c4dbafbb7f3e74",
+    "wof:geomhash":"abccb97a3853a97a46d7d60e73aded6b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -97,7 +106,7 @@
         }
     ],
     "wof:id":404222583,
-    "wof:lastmodified":1566602817,
+    "wof:lastmodified":1695877602,
     "wof:name":"Chatsworth",
     "wof:parent_id":102048835,
     "wof:placetype":"localadmin",

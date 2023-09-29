@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00018,
-    "geom:area_square_m":1758407.381152,
+    "geom:area_square_m":1758407.459835,
     "geom:bbox":"145.099384,-37.824934,145.115801,-37.809679",
     "geom:latitude":-37.817532,
     "geom:longitude":145.10756,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.817813,
     "lbl:longitude":145.107556,
     "lbl:max_zoom":18.0,
@@ -67,10 +73,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC20910",
         "gn:id":2157182,
         "qs_pg:id":1032129,
         "wd:id":"Q6903020"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101933251
     ],
@@ -78,7 +86,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5be2785c11bbbd189a0f146fce57578f",
+    "wof:geomhash":"5d8db9c765c0d924eabf484a63a62432",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -91,7 +99,7 @@
         }
     ],
     "wof:id":404539523,
-    "wof:lastmodified":1690853572,
+    "wof:lastmodified":1695878053,
     "wof:name":"Mont Albert",
     "wof:parent_id":102048901,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000158,
-    "geom:area_square_m":1624214.706242,
+    "geom:area_square_m":1624214.706249,
     "geom:bbox":"150.789982048,-33.747210868,150.811306208,-33.7289019915",
     "geom:latitude":-33.737163,
     "geom:longitude":150.80042,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.737048,
     "lbl:longitude":150.800578,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lethbridge Park"
@@ -39,12 +45,15 @@
         102048555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11356"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931025
     ],
     "wof:country":"AU",
-    "wof:geomhash":"9513a727c839d2d3b3ebc7947a7e1029",
+    "wof:geomhash":"d7bfa8ce6c0074bb8cd7c53449e62718",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404224475,
-    "wof:lastmodified":1566602624,
+    "wof:lastmodified":1695877488,
     "wof:name":"Lethbridge Park",
     "wof:parent_id":102048555,
     "wof:placetype":"localadmin",

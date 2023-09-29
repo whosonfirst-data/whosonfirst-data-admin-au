@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007697,
-    "geom:area_square_m":82386992.593216,
+    "geom:area_square_m":82386992.593609,
     "geom:bbox":"153.07224,-30.104346786,153.17726464,-29.9683900085",
     "geom:latitude":-30.039303,
     "geom:longitude":153.12317,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-30.048838,
     "lbl:longitude":153.122425,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Upper Corindi"
@@ -38,9 +44,12 @@
         102048797
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12348"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"5311e48f6c025ac37a6d8ae530aab145",
+    "wof:geomhash":"a8c2de8e5262aeca9c7c8725fcf23f03",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404226707,
-    "wof:lastmodified":1566602020,
+    "wof:lastmodified":1695877143,
     "wof:name":"Upper Corindi",
     "wof:parent_id":102048797,
     "wof:placetype":"localadmin",

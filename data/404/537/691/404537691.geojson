@@ -10,12 +10,18 @@
     "geom:latitude":-38.200912,
     "geom:longitude":145.156842,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.196279,
     "lbl:longitude":145.163527,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Baxter"
@@ -83,12 +89,15 @@
         102048695
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20089"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932559
     ],
     "wof:country":"AU",
-    "wof:geomhash":"7ea4d73d76ac1b32e65cb53fbbb8148b",
+    "wof:geomhash":"00ecd30a5ec9b64e4200f457ed4d1c23",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -100,7 +109,7 @@
         }
     ],
     "wof:id":404537691,
-    "wof:lastmodified":1566602344,
+    "wof:lastmodified":1695877321,
     "wof:name":"Baxter",
     "wof:parent_id":102048695,
     "wof:placetype":"localadmin",

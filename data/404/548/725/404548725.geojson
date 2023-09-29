@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016403,
-    "geom:area_square_m":150914253.33515,
+    "geom:area_square_m":150914304.336822,
     "geom:bbox":"148.182268,-42.059372,148.323591,-41.814032",
     "geom:latitude":-41.920259,
     "geom:longitude":148.255235,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-41.914312,
     "lbl:longitude":148.260035,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09ac\u09bf\u099a\u09c7\u09a8\u09cb"
@@ -89,9 +95,12 @@
         102048801
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60025"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"e01bc6a4f39790eb0dd994b3c3ec44e9",
+    "wof:geomhash":"8037910bd6a8ac84388df432a63e2d6e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -103,7 +112,7 @@
         }
     ],
     "wof:id":404548725,
-    "wof:lastmodified":1636494685,
+    "wof:lastmodified":1695877888,
     "wof:name":"Bicheno",
     "wof:parent_id":102048801,
     "wof:placetype":"localadmin",

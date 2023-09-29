@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000626,
-    "geom:area_square_m":6465888.192944,
+    "geom:area_square_m":6465888.192943,
     "geom:bbox":"115.61620736,-33.3632994785,115.655724,-33.335963823",
     "geom:latitude":-33.348576,
     "geom:longitude":115.633136,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.348756,
     "lbl:longitude":115.631785,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "South Bunbury"
@@ -39,12 +45,15 @@
         102048605
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50716"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937781
     ],
     "wof:country":"AU",
-    "wof:geomhash":"6554f7dc9a2e15d71edac796ca239f5e",
+    "wof:geomhash":"1feeb206667f1788350e40dd332aa32c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404548287,
-    "wof:lastmodified":1566603169,
+    "wof:lastmodified":1695877798,
     "wof:name":"South Bunbury",
     "wof:parent_id":102048605,
     "wof:placetype":"localadmin",

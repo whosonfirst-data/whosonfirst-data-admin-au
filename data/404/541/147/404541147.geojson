@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0005,
-    "geom:area_square_m":5490454.1758,
+    "geom:area_square_m":5490454.175802,
     "geom:bbox":"153.06579696,-27.3941072385,153.097220064,-27.3617673145",
     "geom:latitude":-27.378485,
     "geom:longitude":153.082784,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.383613,
     "lbl:longitude":153.085638,
     "lbl:max_zoom":18.0,
@@ -58,13 +64,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC30100",
         "wd:id":"Q282765"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101933869
     ],
     "wof:country":"AU",
-    "wof:geomhash":"52d57517f65eabb400dd25cacca36141",
+    "wof:geomhash":"4f56d1f872f971f659822481ace12e96",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -77,7 +85,7 @@
         }
     ],
     "wof:id":404541147,
-    "wof:lastmodified":1566603099,
+    "wof:lastmodified":1695878037,
     "wof:name":"Banyo",
     "wof:parent_id":102049495,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015489,
-    "geom:area_square_m":159196450.464427,
+    "geom:area_square_m":159196450.464368,
     "geom:bbox":"115.165222912,-33.8397328275,115.373033888,-33.707896",
     "geom:latitude":-33.778932,
     "geom:longitude":115.266647,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.774571,
     "lbl:longitude":115.265005,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Chapman Hill"
@@ -39,9 +45,12 @@
         102048623
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50152"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"a8ab56488fa455531a7c7ec49171b4a5",
+    "wof:geomhash":"e9a831f256c9049e98371edcfa6bf255",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":404547029,
-    "wof:lastmodified":1566602959,
+    "wof:lastmodified":1695877693,
     "wof:name":"Chapman Hill",
     "wof:parent_id":102048623,
     "wof:placetype":"localadmin",

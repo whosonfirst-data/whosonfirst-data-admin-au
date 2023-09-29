@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002886,
-    "geom:area_square_m":29045304.512076,
+    "geom:area_square_m":29045304.512055,
     "geom:bbox":"138.516838016,-35.546130999,138.611419008,-35.4799160025",
     "geom:latitude":-35.515955,
     "geom:longitude":138.567877,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.517401,
     "lbl:longitude":138.572532,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lower Inman Valley"
@@ -39,9 +45,12 @@
         102049465
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40380"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"0480b0b0b7545395c3e965ad708aa84b",
+    "wof:geomhash":"101e2dddd09932050df9252f93bc15ca",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":404545685,
-    "wof:lastmodified":1566602241,
+    "wof:lastmodified":1695877261,
     "wof:name":"Lower Inman Valley",
     "wof:parent_id":102049465,
     "wof:placetype":"localadmin",

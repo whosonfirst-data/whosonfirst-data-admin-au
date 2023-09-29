@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.159568,
-    "geom:area_square_m":1734406877.57276,
+    "geom:area_square_m":1734406877.572659,
     "geom:bbox":"150.365267936,-28.6766205525,150.993948992,-28.252537005",
     "geom:latitude":-28.474478,
     "geom:longitude":150.677477,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.477365,
     "lbl:longitude":150.64604,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Yelarbon"
@@ -50,9 +56,12 @@
         102048595
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31848"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"e79a36496a71f2d4a7a4718e260ea2e8",
+    "wof:geomhash":"937ec02ea2e82c19517e78c905d0c6e8",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":404544839,
-    "wof:lastmodified":1566602197,
+    "wof:lastmodified":1695877242,
     "wof:name":"Yelarbon",
     "wof:parent_id":102048595,
     "wof:placetype":"localadmin",

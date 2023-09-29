@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012549,
-    "geom:area_square_m":131394002.600921,
+    "geom:area_square_m":131394002.601011,
     "geom:bbox":"151.796517696,-32.17504002,152.007612,-32.0887239965",
     "geom:latitude":-32.135132,
     "geom:longitude":151.91343,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.136625,
     "lbl:longitude":151.904885,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Craven"
@@ -83,9 +89,12 @@
         102049121
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10636"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"04cd5e35efd72ed10a674503cba2e019",
+    "wof:geomhash":"c8e4e4a489f9e2bc735a99ed42351da6",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -97,7 +106,7 @@
         }
     ],
     "wof:id":404222855,
-    "wof:lastmodified":1566602807,
+    "wof:lastmodified":1695877597,
     "wof:name":"Craven",
     "wof:parent_id":102049121,
     "wof:placetype":"localadmin",

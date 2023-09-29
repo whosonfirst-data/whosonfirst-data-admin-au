@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.049792,
-    "geom:area_square_m":541070627.068422,
+    "geom:area_square_m":541070627.068408,
     "geom:bbox":"151.9538672,-28.603097131,152.405695776,-28.3611970325",
     "geom:latitude":-28.500511,
     "geom:longitude":152.185994,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.513252,
     "lbl:longitude":152.186026,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Peulgewas"
@@ -206,9 +212,12 @@
         102048787
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11350"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"e8116c95381e2c87eea7302e56363554",
+    "wof:geomhash":"f41b8794bf6a17cf64e42f4b8d6ddfe0",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -220,7 +229,7 @@
         }
     ],
     "wof:id":404224463,
-    "wof:lastmodified":1566602591,
+    "wof:lastmodified":1695877469,
     "wof:name":"Legume",
     "wof:parent_id":102048787,
     "wof:placetype":"localadmin",

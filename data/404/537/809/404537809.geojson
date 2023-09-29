@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000604,
-    "geom:area_square_m":5895972.92593,
+    "geom:area_square_m":5895982.534653,
     "geom:bbox":"145.136299,-37.833951,145.167763,-37.809144",
     "geom:latitude":-37.821696,
     "geom:longitude":145.152258,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.821376,
     "lbl:longitude":145.152263,
     "lbl:max_zoom":18.0,
@@ -217,13 +223,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC20142",
         "wd:id":"Q880723"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932611
     ],
     "wof:country":"AU",
-    "wof:geomhash":"441ed498678e3c786ad6f778399deb9c",
+    "wof:geomhash":"42177ce9b3c30652361a901a5b8c670b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -236,7 +244,7 @@
         }
     ],
     "wof:id":404537809,
-    "wof:lastmodified":1690853547,
+    "wof:lastmodified":1695877946,
     "wof:name":"Blackburn",
     "wof:parent_id":102048901,
     "wof:placetype":"localadmin",

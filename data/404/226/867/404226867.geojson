@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000296,
-    "geom:area_square_m":3057514.892987,
+    "geom:area_square_m":3057514.892976,
     "geom:bbox":"151.436115552,-33.2617391035,151.459780352,-33.2417039735",
     "geom:latitude":-33.251856,
     "geom:longitude":151.449813,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.252314,
     "lbl:longitude":151.450038,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Warnervale"
@@ -38,12 +44,15 @@
         102049097
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12419"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932239
     ],
     "wof:country":"AU",
-    "wof:geomhash":"f33f0cd2ee35be241e85e4611b7b2ee3",
+    "wof:geomhash":"aa10e393e3565c5dfd62cf1e7590e4be",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404226867,
-    "wof:lastmodified":1566602037,
+    "wof:lastmodified":1695877153,
     "wof:name":"Warnervale",
     "wof:parent_id":102049097,
     "wof:placetype":"localadmin",

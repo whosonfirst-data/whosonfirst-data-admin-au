@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031148,
-    "geom:area_square_m":375859853.024238,
+    "geom:area_square_m":375859853.024254,
     "geom:bbox":"131.148389024,-12.7193600085,131.388183296,-12.4730570025",
     "geom:latitude":-12.610458,
     "geom:longitude":131.264032,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-12.624898,
     "lbl:longitude":131.265855,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lambells Lagoon"
@@ -38,9 +44,12 @@
         102049205
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC70107"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"75b58aabd6807616d832ba41a8563a7b",
+    "wof:geomhash":"4c2803db658481931cad2988ad86e239",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404549763,
-    "wof:lastmodified":1566602821,
+    "wof:lastmodified":1695877605,
     "wof:name":"Lambells Lagoon",
     "wof:parent_id":102049205,
     "wof:placetype":"localadmin",

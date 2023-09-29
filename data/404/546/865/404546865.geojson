@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000414,
-    "geom:area_square_m":4403485.736308,
+    "geom:area_square_m":4403485.736305,
     "geom:bbox":"121.46429,-30.7894654815,121.498156992,-30.7611289945",
     "geom:latitude":-30.777371,
     "geom:longitude":121.484702,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-30.777894,
     "lbl:longitude":121.487515,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062c\u0644\u0645\u0648\u062f"
@@ -125,12 +131,15 @@
         102049523
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50079"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101936927
     ],
     "wof:country":"AU",
-    "wof:geomhash":"bc7b418da135c50172fca1d9ae06ae49",
+    "wof:geomhash":"a547120f06e04ebb56e66212839bcd18",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -142,7 +151,7 @@
         }
     ],
     "wof:id":404546865,
-    "wof:lastmodified":1566603144,
+    "wof:lastmodified":1695877787,
     "wof:name":"Boulder",
     "wof:parent_id":102049523,
     "wof:placetype":"localadmin",

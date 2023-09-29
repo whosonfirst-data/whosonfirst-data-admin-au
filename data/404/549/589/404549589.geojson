@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000714,
-    "geom:area_square_m":6634220.403496,
+    "geom:area_square_m":6634220.403506,
     "geom:bbox":"146.985856992,-41.3226292185,147.053375616,-41.298709995",
     "geom:latitude":-41.310682,
     "geom:longitude":147.016336,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-41.308683,
     "lbl:longitude":147.014024,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Windermere"
@@ -116,12 +122,15 @@
         102049411
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60409"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938339
     ],
     "wof:country":"AU",
-    "wof:geomhash":"520239f7fe77841ab2373ef5e2e2c243",
+    "wof:geomhash":"19066b5dcc9c8e6ba65a26e627f701aa",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -133,7 +142,7 @@
         }
     ],
     "wof:id":404549589,
-    "wof:lastmodified":1566602862,
+    "wof:lastmodified":1695877634,
     "wof:name":"Windermere",
     "wof:parent_id":102049411,
     "wof:placetype":"localadmin",

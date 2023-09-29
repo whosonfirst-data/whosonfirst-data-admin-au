@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01096,
-    "geom:area_square_m":110375404.056632,
+    "geom:area_square_m":110375404.05649,
     "geom:bbox":"138.27188,-35.537650007,138.420232992,-35.4029160055",
     "geom:latitude":-35.466823,
     "geom:longitude":138.346925,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.475018,
     "lbl:longitude":138.348034,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Yankalilla"
@@ -44,9 +50,12 @@
         102049429
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40838"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"25e176d20efaf6f6317dd5a6b80c330c",
+    "wof:geomhash":"c2fbe77c793ade041285e3faf62a603f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404546671,
-    "wof:lastmodified":1566603138,
+    "wof:lastmodified":1695877786,
     "wof:name":"Yankalilla",
     "wof:parent_id":102049429,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00084,
-    "geom:area_square_m":8951823.116325,
+    "geom:area_square_m":8951823.116315,
     "geom:bbox":"153.010448,-30.4605660065,153.060199264,-30.4225121725",
     "geom:latitude":-30.442812,
     "geom:longitude":153.036744,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-30.445834,
     "lbl:longitude":153.03919,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cym_x_preferred":[
         "Repton"
@@ -68,12 +74,15 @@
         102048545
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11964"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931711
     ],
     "wof:country":"AU",
-    "wof:geomhash":"4411e564baed8f77b388b013eaa65134",
+    "wof:geomhash":"db0ffce5498b1045a446a772f6369ffe",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -85,7 +94,7 @@
         }
     ],
     "wof:id":404225843,
-    "wof:lastmodified":1566602678,
+    "wof:lastmodified":1695877518,
     "wof:name":"Repton",
     "wof:parent_id":102048545,
     "wof:placetype":"localadmin",

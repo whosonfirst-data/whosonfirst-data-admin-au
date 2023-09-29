@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000398,
-    "geom:area_square_m":3897544.747755,
+    "geom:area_square_m":3897544.747743,
     "geom:bbox":"145.110327488,-37.7320977885,145.13778832,-37.709060312",
     "geom:latitude":-37.719,
     "geom:longitude":145.125301,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.718219,
     "lbl:longitude":145.126418,
     "lbl:max_zoom":18.0,
@@ -85,13 +91,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC20912",
         "wd:id":"Q6906086"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101933257
     ],
     "wof:country":"AU",
-    "wof:geomhash":"52ee0663406069839ebd585b850b3269",
+    "wof:geomhash":"1c8124f6185a0a83d283de5be88d824f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -104,7 +112,7 @@
         }
     ],
     "wof:id":404539527,
-    "wof:lastmodified":1566602379,
+    "wof:lastmodified":1695877950,
     "wof:name":"Montmorency",
     "wof:parent_id":102049337,
     "wof:placetype":"localadmin",

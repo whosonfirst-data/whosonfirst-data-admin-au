@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000513,
-    "geom:area_square_m":5339283.555962,
+    "geom:area_square_m":5339283.555973,
     "geom:bbox":"152.054749152,-32.7579479915,152.083968992,-32.7161536425",
     "geom:latitude":-32.742625,
     "geom:longitude":152.068488,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.748295,
     "lbl:longitude":152.071924,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Taylors Beach"
@@ -41,12 +47,15 @@
         102049095
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12230"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932053
     ],
     "wof:country":"AU",
-    "wof:geomhash":"3af661815d4e7862aee512099d3f83d4",
+    "wof:geomhash":"661d1989574e881f3da29694e8457485",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404226443,
-    "wof:lastmodified":1566602066,
+    "wof:lastmodified":1695877172,
     "wof:name":"Taylors Beach",
     "wof:parent_id":102049095,
     "wof:placetype":"localadmin",

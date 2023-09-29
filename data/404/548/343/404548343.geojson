@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.109973,
-    "geom:area_square_m":1122047904.293581,
+    "geom:area_square_m":1122047904.293509,
     "geom:bbox":"117.683692992,-34.526514007,118.41118016,-34.303972549",
     "geom:latitude":-34.397642,
     "geom:longitude":118.044914,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.393257,
     "lbl:longitude":118.015127,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Stirling Range National Park"
@@ -59,9 +65,12 @@
         102049091
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50741"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"53489aa10c8945ce3257a89cce1864c2",
+    "wof:geomhash":"6b844bc4db7d7b363fe90233695af9b0",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -73,7 +82,7 @@
         }
     ],
     "wof:id":404548343,
-    "wof:lastmodified":1566603241,
+    "wof:lastmodified":1695877839,
     "wof:name":"Stirling Range National Park",
     "wof:parent_id":102049091,
     "wof:placetype":"localadmin",

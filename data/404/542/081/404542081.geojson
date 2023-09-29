@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000111,
-    "geom:area_square_m":1212258.439157,
+    "geom:area_square_m":1212258.439155,
     "geom:bbox":"152.818925856,-27.6174798645,152.831499136,-27.5999405325",
     "geom:latitude":-27.60829,
     "geom:longitude":152.824748,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.607885,
     "lbl:longitude":152.824659,
     "lbl:max_zoom":18.0,
@@ -91,13 +97,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC30547",
         "wd:id":"Q5331563"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934363
     ],
     "wof:country":"AU",
-    "wof:geomhash":"6e478c4c1e4bf6336def11a1340cca37",
+    "wof:geomhash":"3ed0f2c35ea19ce5bb21448b00c4dec3",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -110,7 +118,7 @@
         }
     ],
     "wof:id":404542081,
-    "wof:lastmodified":1566602299,
+    "wof:lastmodified":1695877942,
     "wof:name":"Ebbw Vale",
     "wof:parent_id":102048583,
     "wof:placetype":"localadmin",

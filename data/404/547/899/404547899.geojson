@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.044704,
-    "geom:area_square_m":471810026.645903,
+    "geom:area_square_m":471810026.64601,
     "geom:bbox":"115.665274272,-31.4770007765,115.998916928,-31.2912249975",
     "geom:latitude":-31.401939,
     "geom:longitude":115.825489,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.404219,
     "lbl:longitude":115.811951,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Muckenburra"
@@ -38,9 +44,12 @@
         102049545
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50541"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"f0e6a29cc313d364751103c7b7eddb73",
+    "wof:geomhash":"bb0066965ccaebaad3fb998a778e73a2",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404547899,
-    "wof:lastmodified":1566602969,
+    "wof:lastmodified":1695877701,
     "wof:name":"Muckenburra",
     "wof:parent_id":102049545,
     "wof:placetype":"localadmin",

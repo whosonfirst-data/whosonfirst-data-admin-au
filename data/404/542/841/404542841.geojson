@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001406,
-    "geom:area_square_m":15339356.862283,
+    "geom:area_square_m":15339356.862279,
     "geom:bbox":"152.819189408,-28.1049765835,152.881630912,-28.063277454",
     "geom:latitude":-28.083462,
     "geom:longitude":152.849087,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.083527,
     "lbl:longitude":152.848598,
     "lbl:max_zoom":18.0,
@@ -42,13 +48,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC30900",
         "wd:id":"Q6430739"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934689
     ],
     "wof:country":"AU",
-    "wof:geomhash":"6c1889f00b4391782ade727ba8ca8ad5",
+    "wof:geomhash":"f35f73d98d19360acf52b5ed60905a3a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -60,7 +68,7 @@
         }
     ],
     "wof:id":404542841,
-    "wof:lastmodified":1566602296,
+    "wof:lastmodified":1695877942,
     "wof:name":"Kooralbyn",
     "wof:parent_id":102048945,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000429,
-    "geom:area_square_m":3979957.661212,
+    "geom:area_square_m":3979957.661224,
     "geom:bbox":"147.16888592,-41.4763144905,147.193310656,-41.4442390055",
     "geom:latitude":-41.459203,
     "geom:longitude":147.180767,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-41.458953,
     "lbl:longitude":147.180946,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Norwood"
@@ -83,12 +89,15 @@
         102049411
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60254"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938201
     ],
     "wof:country":"AU",
-    "wof:geomhash":"449834dc1bda9bd9ebb52324085aca35",
+    "wof:geomhash":"4512e9fb007dc2d80e2e7951fa20f447",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -100,7 +109,7 @@
         }
     ],
     "wof:id":404549241,
-    "wof:lastmodified":1566602877,
+    "wof:lastmodified":1695877641,
     "wof:name":"Norwood",
     "wof:parent_id":102049411,
     "wof:placetype":"localadmin",

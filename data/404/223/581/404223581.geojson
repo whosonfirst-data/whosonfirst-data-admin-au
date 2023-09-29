@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003033,
-    "geom:area_square_m":31623223.62837,
+    "geom:area_square_m":31623223.628361,
     "geom:bbox":"151.768782016,-32.579736141,151.822808992,-32.457146002",
     "geom:latitude":-32.521576,
     "geom:longitude":151.794308,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.515595,
     "lbl:longitude":151.803728,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Glen William"
@@ -38,9 +44,12 @@
         102049061
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10958"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"6f7ca6b68838ca8ddaf7d873bbe1a3e8",
+    "wof:geomhash":"cd483f4556ea1ab78083042aa402f434",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404223581,
-    "wof:lastmodified":1566602522,
+    "wof:lastmodified":1695877426,
     "wof:name":"Glen William",
     "wof:parent_id":102049061,
     "wof:placetype":"localadmin",

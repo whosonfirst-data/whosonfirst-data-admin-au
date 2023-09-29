@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000481,
-    "geom:area_square_m":4848851.015845,
+    "geom:area_square_m":4848851.015847,
     "geom:bbox":"149.101837056,-35.3478546405,149.138759328,-35.3187233195",
     "geom:latitude":-35.33343,
     "geom:longitude":149.120578,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.335318,
     "lbl:longitude":149.123376,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Red Hill"
@@ -73,12 +79,15 @@
         85681493
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC80086"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938885
     ],
     "wof:country":"AU",
-    "wof:geomhash":"a656ec6dee1c1b4621f2c00dd3b8bcc8",
+    "wof:geomhash":"4cf4f6a04e801470c445cb50c2b088c9",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -89,7 +98,7 @@
         }
     ],
     "wof:id":404550107,
-    "wof:lastmodified":1566601929,
+    "wof:lastmodified":1695877100,
     "wof:name":"Red Hill",
     "wof:parent_id":85681493,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002501,
-    "geom:area_square_m":22614159.232364,
+    "geom:area_square_m":22614159.232428,
     "geom:bbox":"147.118626208,-43.03901369,147.199205152,-42.983333093",
     "geom:latitude":-43.011355,
     "geom:longitude":147.159467,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-43.014206,
     "lbl:longitude":147.160061,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kaoota"
@@ -38,9 +44,12 @@
         102048889
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60169"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"13cefd37852595e0445b57b26a9eccfd",
+    "wof:geomhash":"f27a2c7a063aea24effb886b0cb28643",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404549049,
-    "wof:lastmodified":1566602842,
+    "wof:lastmodified":1695877621,
     "wof:name":"Kaoota",
     "wof:parent_id":102048889,
     "wof:placetype":"localadmin",

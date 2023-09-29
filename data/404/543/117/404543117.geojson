@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.301272,
-    "geom:area_square_m":14986938357.298916,
+    "geom:area_square_m":14986938357.299318,
     "geom:bbox":"140.800133504,-22.0529079695,142.330985696,-20.7806620445",
     "geom:latitude":-21.34136,
     "geom:longitude":141.489659,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-21.33881,
     "lbl:longitude":141.427869,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mckinlay"
@@ -38,9 +44,12 @@
         102049469
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31031"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"2620f88402d38d440311036376568d81",
+    "wof:geomhash":"2625800257dafed0f67aad291ad7c29e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404543117,
-    "wof:lastmodified":1566602119,
+    "wof:lastmodified":1695877201,
     "wof:name":"Mckinlay",
     "wof:parent_id":102049469,
     "wof:placetype":"localadmin",

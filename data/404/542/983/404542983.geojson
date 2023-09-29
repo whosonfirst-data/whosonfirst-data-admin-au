@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.096817,
-    "geom:area_square_m":1087169874.471237,
+    "geom:area_square_m":1087169874.471603,
     "geom:bbox":"150.044086016,-25.0330859935,150.53517,-24.507330997",
     "geom:latitude":-24.752195,
     "geom:longitude":150.255701,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-24.722367,
     "lbl:longitude":150.279857,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lonesome Creek"
@@ -38,9 +44,12 @@
         102049135
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30965"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"9b30e5f2e142ba7d6f5e123bd82abc22",
+    "wof:geomhash":"65910de014a5b0027ea2592452211ecf",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404542983,
-    "wof:lastmodified":1566602282,
+    "wof:lastmodified":1695877283,
     "wof:name":"Lonesome Creek",
     "wof:parent_id":102049135,
     "wof:placetype":"localadmin",

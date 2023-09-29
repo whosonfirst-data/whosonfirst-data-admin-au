@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014477,
-    "geom:area_square_m":148676614.145699,
+    "geom:area_square_m":148676614.145648,
     "geom:bbox":"116.061472992,-33.9337720645,116.213323008,-33.780593267",
     "geom:latitude":-33.845518,
     "geom:longitude":116.145887,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.835781,
     "lbl:longitude":116.144387,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Catterick"
@@ -41,9 +47,12 @@
         102049243
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50145"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"78d546449e2560de03544d1e31021d7f",
+    "wof:geomhash":"3f1f63634e67c5bba3fde602930d4449",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404547013,
-    "wof:lastmodified":1566602929,
+    "wof:lastmodified":1695877676,
     "wof:name":"Catterick",
     "wof:parent_id":102049243,
     "wof:placetype":"localadmin",

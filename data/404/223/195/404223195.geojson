@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000509,
-    "geom:area_square_m":5234737.002238,
+    "geom:area_square_m":5234737.002254,
     "geom:bbox":"151.064636768,-33.7996623825,151.1056464,-33.7773131985",
     "geom:latitude":-33.788807,
     "geom:longitude":151.083778,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.788641,
     "lbl:longitude":151.083478,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Eastwood"
@@ -99,12 +105,15 @@
         102049349
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10787"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101930183
     ],
     "wof:country":"AU",
-    "wof:geomhash":"44e2f76176c1e4241b54035e56209c37",
+    "wof:geomhash":"30090ef9bbbda9fd89a91c6f18a62b99",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -117,7 +126,7 @@
         }
     ],
     "wof:id":404223195,
-    "wof:lastmodified":1566602491,
+    "wof:lastmodified":1695877408,
     "wof:name":"Eastwood",
     "wof:parent_id":102049349,
     "wof:placetype":"localadmin",

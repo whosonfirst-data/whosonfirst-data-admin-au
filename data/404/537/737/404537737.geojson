@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000141,
-    "geom:area_square_m":1412730.824574,
+    "geom:area_square_m":1412730.824567,
     "geom:bbox":"147.050147168,-36.1058780065,147.066622016,-36.0900802645",
     "geom:latitude":-36.096849,
     "geom:longitude":147.058556,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.096161,
     "lbl:longitude":147.058431,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bellbridge"
@@ -38,12 +44,15 @@
         102048643
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20109"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932581
     ],
     "wof:country":"AU",
-    "wof:geomhash":"599b83150cbeba7f1a0b300adfbe1ec5",
+    "wof:geomhash":"0ecce6db199fb7a8a968fa1b39010e9c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404537737,
-    "wof:lastmodified":1566602320,
+    "wof:lastmodified":1695877305,
     "wof:name":"Bellbridge",
     "wof:parent_id":102048643,
     "wof:placetype":"localadmin",

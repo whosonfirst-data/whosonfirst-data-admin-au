@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00019,
-    "geom:area_square_m":1925140.826998,
+    "geom:area_square_m":1925140.826984,
     "geom:bbox":"149.137973568,-35.1800379955,149.15664304,-35.153982244",
     "geom:latitude":-35.168226,
     "geom:longitude":149.146065,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.170872,
     "lbl:longitude":149.14529,
     "lbl:max_zoom":18.0,
@@ -56,13 +62,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC80035",
         "wd:id":"Q520022"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938775
     ],
     "wof:country":"AU",
-    "wof:geomhash":"6289990af89f27da36e0a1b82d5d3e78",
+    "wof:geomhash":"18b758db65398ec87149ad6679065d72",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -73,7 +81,7 @@
         }
     ],
     "wof:id":404549995,
-    "wof:lastmodified":1566602864,
+    "wof:lastmodified":1695878009,
     "wof:name":"Forde",
     "wof:parent_id":85681493,
     "wof:placetype":"localadmin",

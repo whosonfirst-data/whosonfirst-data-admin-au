@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001128,
-    "geom:area_square_m":13341795.012387,
+    "geom:area_square_m":13341795.01238,
     "geom:bbox":"145.643924096,-16.918361008,145.685824288,-16.845346133",
     "geom:latitude":-16.880183,
     "geom:longitude":145.669197,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-16.856398,
     "lbl:longitude":145.664251,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Barron Gorge"
@@ -38,12 +44,15 @@
         102048911
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30112"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101933887
     ],
     "wof:country":"AU",
-    "wof:geomhash":"a50bbf942821e5e87b3e5ca6851bf0ed",
+    "wof:geomhash":"f6a69c21b12627b1c92e0a95180b4b0a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404541175,
-    "wof:lastmodified":1566603070,
+    "wof:lastmodified":1695877754,
     "wof:name":"Barron Gorge",
     "wof:parent_id":102048911,
     "wof:placetype":"localadmin",

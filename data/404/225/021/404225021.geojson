@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000023,
-    "geom:area_square_m":238446.533143,
+    "geom:area_square_m":238446.533146,
     "geom:bbox":"151.103696224,-33.846656138,151.10930016,-33.8343849955",
     "geom:latitude":-33.840858,
     "geom:longitude":151.106063,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.842043,
     "lbl:longitude":151.106023,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0645\u0648\u0631\u062a\u0644\u06cc\u06a9"
@@ -81,12 +87,15 @@
         102049003
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11598"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931287
     ],
     "wof:country":"AU",
-    "wof:geomhash":"791435283e88ee7964b949639ba846b5",
+    "wof:geomhash":"87e223ccc8299e849db21f746e61659e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -99,7 +108,7 @@
         }
     ],
     "wof:id":404225021,
-    "wof:lastmodified":1566602721,
+    "wof:lastmodified":1695877542,
     "wof:name":"Mortlake",
     "wof:parent_id":102049003,
     "wof:placetype":"localadmin",

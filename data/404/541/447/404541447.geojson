@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001953,
-    "geom:area_square_m":21423883.725922,
+    "geom:area_square_m":21423883.725881,
     "geom:bbox":"152.87128608,-27.5213114255,152.93122688,-27.4562599125",
     "geom:latitude":-27.483688,
     "geom:longitude":152.903747,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.477304,
     "lbl:longitude":152.9042,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Brookfield"
@@ -96,12 +102,15 @@
         102049495
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30242"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934025
     ],
     "wof:country":"AU",
-    "wof:geomhash":"ad0a883a19e52bb1102c490ab8ad597c",
+    "wof:geomhash":"e71a6d577516f841c61b0e6326bce575",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -114,7 +123,7 @@
         }
     ],
     "wof:id":404541447,
-    "wof:lastmodified":1566603051,
+    "wof:lastmodified":1695877746,
     "wof:name":"Brookfield",
     "wof:parent_id":102049495,
     "wof:placetype":"localadmin",

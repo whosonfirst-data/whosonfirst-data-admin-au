@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000121,
-    "geom:area_square_m":1286352.529246,
+    "geom:area_square_m":1286352.529255,
     "geom:bbox":"152.984886272,-30.7551709955,153.001872,-30.7416442765",
     "geom:latitude":-30.747651,
     "geom:longitude":152.993211,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-30.74604,
     "lbl:longitude":152.989553,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Scotts Head"
@@ -41,12 +47,15 @@
         102049433
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12055"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931823
     ],
     "wof:country":"AU",
-    "wof:geomhash":"7efb54bc0f54b3dafb91cc4f8cfdb990",
+    "wof:geomhash":"371ef3d692c4575cee997f91224863e5",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404226049,
-    "wof:lastmodified":1566602028,
+    "wof:lastmodified":1695877147,
     "wof:name":"Scotts Head",
     "wof:parent_id":102049433,
     "wof:placetype":"localadmin",

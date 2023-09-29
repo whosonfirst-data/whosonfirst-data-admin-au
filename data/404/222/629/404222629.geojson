@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00603,
-    "geom:area_square_m":64766311.140891,
+    "geom:area_square_m":64766311.140912,
     "geom:bbox":"152.944077952,-29.745819006,153.063044,-29.655024373",
     "geom:latitude":-29.703672,
     "geom:longitude":153.000646,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-29.710399,
     "lbl:longitude":152.999769,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Clarenza"
@@ -38,9 +44,12 @@
         102048835
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10535"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"179858dd4794e3d168797c3618478e07",
+    "wof:geomhash":"51cfa3fa736d9cade9351cf2f0d17da6",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404222629,
-    "wof:lastmodified":1566602761,
+    "wof:lastmodified":1695877567,
     "wof:name":"Clarenza",
     "wof:parent_id":102048835,
     "wof:placetype":"localadmin",

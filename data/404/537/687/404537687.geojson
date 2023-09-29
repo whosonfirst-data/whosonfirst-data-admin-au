@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.090361,
-    "geom:area_square_m":883567909.241808,
+    "geom:area_square_m":883567909.241986,
     "geom:bbox":"146.12971072,-37.930594001,146.516172608,-37.579907594",
     "geom:latitude":-37.741194,
     "geom:longitude":146.330972,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.738917,
     "lbl:longitude":146.346574,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Baw Baw"
@@ -47,9 +53,12 @@
         102048523
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20087"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"8d2bac64a522098e9dd37b3144f9f06c",
+    "wof:geomhash":"abab7bfd779fb08d94cc0956d4880e6c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":404537687,
-    "wof:lastmodified":1566602326,
+    "wof:lastmodified":1695877310,
     "wof:name":"Baw Baw",
     "wof:parent_id":102048523,
     "wof:placetype":"localadmin",

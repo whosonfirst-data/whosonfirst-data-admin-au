@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00083,
-    "geom:area_square_m":8705584.729594,
+    "geom:area_square_m":8705584.729576,
     "geom:bbox":"115.990589888,-31.967616799,116.0183664,-31.92247617",
     "geom:latitude":-31.944439,
     "geom:longitude":116.003404,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.944037,
     "lbl:longitude":116.003141,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0647\u0627\u06cc \u0648\u06cc\u06a9\u0627\u0645"
@@ -135,12 +141,15 @@
         102048953
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50332"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937279
     ],
     "wof:country":"AU",
-    "wof:geomhash":"a24c37533eb8502f0ba288638f82a8cb",
+    "wof:geomhash":"d2f34a9137cda88a8306e7b326732762",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -153,7 +162,7 @@
         }
     ],
     "wof:id":404547429,
-    "wof:lastmodified":1566602960,
+    "wof:lastmodified":1695877694,
     "wof:name":"High Wycombe",
     "wof:parent_id":102048953,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005863,
-    "geom:area_square_m":61580572.487645,
+    "geom:area_square_m":61580572.487659,
     "geom:bbox":"152.29418,-31.9139009945,152.424570016,-31.8110670055",
     "geom:latitude":-31.858129,
     "geom:longitude":152.355727,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.855949,
     "lbl:longitude":152.356714,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Wingham"
@@ -53,9 +59,12 @@
         102048833
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12522"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"4c945b9a61554f903ca36ac3f8f2e6bd",
+    "wof:geomhash":"21308a16e0e76a45802525f9b6558299",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -67,7 +76,7 @@
         }
     ],
     "wof:id":404227099,
-    "wof:lastmodified":1566601945,
+    "wof:lastmodified":1695877106,
     "wof:name":"Wingham",
     "wof:parent_id":102048833,
     "wof:placetype":"localadmin",

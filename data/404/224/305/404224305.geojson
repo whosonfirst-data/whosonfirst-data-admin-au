@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000167,
-    "geom:area_square_m":1707837.124579,
+    "geom:area_square_m":1707837.124567,
     "geom:bbox":"148.548302656,-34.046458469,148.565911808,-34.027198304",
     "geom:latitude":-34.037877,
     "geom:longitude":148.55769,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.038697,
     "lbl:longitude":148.557826,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Koorawatha"
@@ -47,12 +53,15 @@
         102049073
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11280"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101930937
     ],
     "wof:country":"AU",
-    "wof:geomhash":"ef82b214545af4fb55acefa8d8eb77c6",
+    "wof:geomhash":"1b1ebc0ff955e3d67ecfa037b92c48fa",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":404224305,
-    "wof:lastmodified":1566602619,
+    "wof:lastmodified":1695877486,
     "wof:name":"Koorawatha",
     "wof:parent_id":102049073,
     "wof:placetype":"localadmin",

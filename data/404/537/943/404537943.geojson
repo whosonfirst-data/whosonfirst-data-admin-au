@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003438,
-    "geom:area_square_m":33669376.54913,
+    "geom:area_square_m":33669376.548994,
     "geom:bbox":"144.759968,-37.6768020655,144.836363168,-37.5826260025",
     "geom:latitude":-37.635244,
     "geom:longitude":144.791031,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.63272,
     "lbl:longitude":144.796818,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0411\u0443\u043b\u0430"
@@ -78,9 +84,12 @@
         102049057
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20203"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"ac2444d928a168e95ad2e889bcb5ceaf",
+    "wof:geomhash":"46e386d58810b7174be3af75d9a2483f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -93,7 +102,7 @@
         }
     ],
     "wof:id":404537943,
-    "wof:lastmodified":1566602349,
+    "wof:lastmodified":1695877324,
     "wof:name":"Bulla",
     "wof:parent_id":102049057,
     "wof:placetype":"localadmin",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000287,
-    "geom:area_square_m":3008430.810897,
+    "geom:area_square_m":3008432.008937,
     "geom:bbox":"115.786731,-32.005014,115.814357,-31.988796",
     "geom:latitude":-31.996577,
     "geom:longitude":115.799295,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.996903,
     "lbl:longitude":115.79818,
     "lbl:max_zoom":18.0,
@@ -124,13 +130,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC50198",
         "wd:id":"Q5211061"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937079
     ],
     "wof:country":"AU",
-    "wof:geomhash":"81847cebc2b07673d1826aafb60a7054",
+    "wof:geomhash":"bef13b3946745314155a83802a3cbc8d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -143,7 +151,7 @@
         }
     ],
     "wof:id":404547127,
-    "wof:lastmodified":1690853753,
+    "wof:lastmodified":1695878018,
     "wof:name":"Dalkeith",
     "wof:parent_id":102049519,
     "wof:placetype":"localadmin",

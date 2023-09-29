@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000491,
-    "geom:area_square_m":5150183.334463,
+    "geom:area_square_m":5150183.334466,
     "geom:bbox":"115.844820832,-31.9885831265,115.882589696,-31.964160962",
     "geom:latitude":-31.978704,
     "geom:longitude":115.862394,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.98124,
     "lbl:longitude":115.860541,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "South Perth"
@@ -45,12 +51,15 @@
         102049475
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50725"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937797
     ],
     "wof:country":"AU",
-    "wof:geomhash":"4a026c0ea77f93226902c72408a02e29",
+    "wof:geomhash":"13d13888a9556c142a54e2ccf5c106b5",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -63,7 +72,7 @@
         }
     ],
     "wof:id":404548307,
-    "wof:lastmodified":1566603157,
+    "wof:lastmodified":1695877793,
     "wof:name":"South Perth",
     "wof:parent_id":102049475,
     "wof:placetype":"localadmin",

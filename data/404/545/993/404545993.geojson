@@ -10,6 +10,12 @@
     "geom:latitude":-34.852797,
     "geom:longitude":138.643301,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.852604,
     "lbl:longitude":138.643301,
     "lbl:max_zoom":18.0,
@@ -46,13 +52,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC40519",
         "wd:id":"Q7073819"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101936379
     ],
     "wof:country":"AU",
-    "wof:geomhash":"cf4f8d7fec075227bf55cda510412801",
+    "wof:geomhash":"2300bde404510f4644b2e50ef0b17413",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -65,7 +73,7 @@
         }
     ],
     "wof:id":404545993,
-    "wof:lastmodified":1566602236,
+    "wof:lastmodified":1695877934,
     "wof:name":"Oakden",
     "wof:parent_id":102048839,
     "wof:placetype":"localadmin",

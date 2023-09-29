@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000231,
-    "geom:area_square_m":2369700.422534,
+    "geom:area_square_m":2369700.42251,
     "geom:bbox":"151.177840992,-33.77630567,151.198806016,-33.758517994",
     "geom:latitude":-33.76726,
     "geom:longitude":151.188186,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.767521,
     "lbl:longitude":151.188183,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "East Lindfield"
@@ -39,12 +45,15 @@
         102049381
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10777"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101930163
     ],
     "wof:country":"AU",
-    "wof:geomhash":"eb0e4d0872dde3baa84e25e06fe82c5c",
+    "wof:geomhash":"dc5530b27b00ab17443dfebbbf7c31d9",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404223173,
-    "wof:lastmodified":1566602521,
+    "wof:lastmodified":1695877425,
     "wof:name":"East Lindfield",
     "wof:parent_id":102049381,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.369148,
-    "geom:area_square_m":4430341766.378576,
+    "geom:area_square_m":4430341766.380352,
     "geom:bbox":"135.49949024,-14.6711606985,136.083056288,-13.382768621",
     "geom:latitude":-13.929268,
     "geom:longitude":135.704026,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-13.872801,
     "lbl:longitude":135.723952,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Numburindi"
@@ -38,9 +44,12 @@
         102048829
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC70150"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"d91a86f7c439cc89a264b2c6b94a3d55",
+    "wof:geomhash":"0f3344cafef2b883976e921d9f615b0e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404549823,
-    "wof:lastmodified":1566602878,
+    "wof:lastmodified":1695877643,
     "wof:name":"Numburindi",
     "wof:parent_id":102048829,
     "wof:placetype":"localadmin",

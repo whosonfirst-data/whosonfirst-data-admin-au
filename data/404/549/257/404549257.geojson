@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004852,
-    "geom:area_square_m":45238188.759943,
+    "geom:area_square_m":45238188.759899,
     "geom:bbox":"145.645974016,-41.121137005,145.708523008,-40.994978734",
     "geom:latitude":-41.060226,
     "geom:longitude":145.675113,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-41.05848,
     "lbl:longitude":145.674523,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Oldina"
@@ -38,9 +44,12 @@
         102048983
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60261"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"ec992b3440eec8ff7af21ba621a93587",
+    "wof:geomhash":"a015bae5cc705837203b0560e7ad97c5",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404549257,
-    "wof:lastmodified":1566602843,
+    "wof:lastmodified":1695877622,
     "wof:name":"Oldina",
     "wof:parent_id":102048983,
     "wof:placetype":"localadmin",

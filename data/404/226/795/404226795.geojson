@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.613771,
-    "geom:area_square_m":6573909946.46808,
+    "geom:area_square_m":6573909946.467878,
     "geom:bbox":"147.389130368,-30.5127329355,148.618992,-29.4357839995",
     "geom:latitude":-29.979849,
     "geom:longitude":148.056177,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-29.963459,
     "lbl:longitude":148.056153,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Walgett"
@@ -38,9 +44,12 @@
         102049265
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12387"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"7be570e58d254b437295969ec118add9",
+    "wof:geomhash":"7db4ab35b55caaffcf5a67ae49907f8c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404226795,
-    "wof:lastmodified":1566602061,
+    "wof:lastmodified":1695877168,
     "wof:name":"Walgett",
     "wof:parent_id":102049265,
     "wof:placetype":"localadmin",

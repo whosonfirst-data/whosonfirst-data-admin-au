@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004032,
-    "geom:area_square_m":42803980.676619,
+    "geom:area_square_m":42803980.676505,
     "geom:bbox":"152.964576992,-30.9023919975,153.028053824,-30.761471004",
     "geom:latitude":-30.836949,
     "geom:longitude":152.990814,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-30.843868,
     "lbl:longitude":152.990331,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Fishermans Reach"
@@ -38,9 +44,12 @@
         102048527
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10895"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"469b44b62d493df682cce9aaa35a8c47",
+    "wof:geomhash":"7f04e852287de1d594711ac4fd2f4ede",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404223439,
-    "wof:lastmodified":1566602511,
+    "wof:lastmodified":1695877420,
     "wof:name":"Fishermans Reach",
     "wof:parent_id":102048527,
     "wof:placetype":"localadmin",

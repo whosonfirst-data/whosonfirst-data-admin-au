@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006828,
-    "geom:area_square_m":75445179.905445,
+    "geom:area_square_m":75445179.905403,
     "geom:bbox":"152.624837216,-26.7098879945,152.806392224,-26.6161930055",
     "geom:latitude":-26.665155,
     "geom:longitude":152.71239,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-26.659513,
     "lbl:longitude":152.70626,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Cambroon"
@@ -39,9 +45,12 @@
         102049303
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30301"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"05658a48b5bf74e8c3bd0761021c3c3c",
+    "wof:geomhash":"d175aa5294805a8c4c40016afefd03ff",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":404541575,
-    "wof:lastmodified":1566603067,
+    "wof:lastmodified":1695877753,
     "wof:name":"Cambroon",
     "wof:parent_id":102049303,
     "wof:placetype":"localadmin",

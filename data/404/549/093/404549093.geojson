@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008109,
-    "geom:area_square_m":75472714.390227,
+    "geom:area_square_m":75472714.390259,
     "geom:bbox":"147.145127968,-41.231398337,147.30386,-41.1249769575",
     "geom:latitude":-41.177561,
     "geom:longitude":147.234921,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-41.169625,
     "lbl:longitude":147.236139,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lebrina"
@@ -38,9 +44,12 @@
         102049411
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60188"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"1e6aa695f08ba9a0adab33037f3d34ad",
+    "wof:geomhash":"2d9a4f685f6472877b889b52c868f839",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404549093,
-    "wof:lastmodified":1566602907,
+    "wof:lastmodified":1695877665,
     "wof:name":"Lebrina",
     "wof:parent_id":102049411,
     "wof:placetype":"localadmin",

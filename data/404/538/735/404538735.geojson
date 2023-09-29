@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014345,
-    "geom:area_square_m":139312462.075132,
+    "geom:area_square_m":139312462.075202,
     "geom:bbox":"141.415905664,-38.2963560025,141.61871,-38.1866169995",
     "geom:latitude":-38.242284,
     "geom:longitude":141.514416,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.244106,
     "lbl:longitude":141.522581,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Gorae West"
@@ -38,9 +44,12 @@
         102049579
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20558"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"c85d2fa5d83cbbdc7090698081ffce39",
+    "wof:geomhash":"72c5f7a45ec1e06bf1081227ad004713",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404538735,
-    "wof:lastmodified":1566602460,
+    "wof:lastmodified":1695877391,
     "wof:name":"Gorae West",
     "wof:parent_id":102049579,
     "wof:placetype":"localadmin",

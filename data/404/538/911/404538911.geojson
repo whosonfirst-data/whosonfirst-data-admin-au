@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000758,
-    "geom:area_square_m":7421057.303134,
+    "geom:area_square_m":7421057.303123,
     "geom:bbox":"144.483130016,-37.7085212035,144.519523552,-37.6798580065",
     "geom:latitude":-37.695031,
     "geom:longitude":144.501634,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.694237,
     "lbl:longitude":144.501981,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Hopetoun Park"
@@ -38,9 +44,12 @@
         102049283
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20636"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"cdd84071312ca17ee01141215f20df11",
+    "wof:geomhash":"7b8ac18bc9a878669e9b51190f45cd94",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404538911,
-    "wof:lastmodified":1566602479,
+    "wof:lastmodified":1695877401,
     "wof:name":"Hopetoun Park",
     "wof:parent_id":102049283,
     "wof:placetype":"localadmin",

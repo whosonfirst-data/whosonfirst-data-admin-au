@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001648,
-    "geom:area_square_m":18200483.219036,
+    "geom:area_square_m":18200483.219032,
     "geom:bbox":"152.84375392,-26.729389529,152.913815008,-26.6676554545",
     "geom:latitude":-26.694016,
     "geom:longitude":152.884963,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-26.701641,
     "lbl:longitude":152.90003,
     "lbl:max_zoom":18.0,
@@ -67,10 +73,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC31085",
         "wd:id":"Q6906660"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"e008d56412e9f80fac65240e42c47a2c",
+    "wof:geomhash":"26659b4a54a123c786a5ca70799a444f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -83,7 +91,7 @@
         }
     ],
     "wof:id":404543225,
-    "wof:lastmodified":1566602131,
+    "wof:lastmodified":1695877919,
     "wof:name":"Montville",
     "wof:parent_id":102049303,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002431,
-    "geom:area_square_m":24531316.898038,
+    "geom:area_square_m":24531316.898005,
     "geom:bbox":"148.257448896,-35.3322810075,148.358082016,-35.289358991",
     "geom:latitude":-35.310162,
     "geom:longitude":148.315864,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.309876,
     "lbl:longitude":148.319283,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lacmalac"
@@ -38,9 +44,12 @@
         102049445
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11304"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"6dffb8e531c09ceeb7323452b684880f",
+    "wof:geomhash":"b9883c3df5e8b04329a8542a23d185a3",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404224359,
-    "wof:lastmodified":1566602610,
+    "wof:lastmodified":1695877481,
     "wof:name":"Lacmalac",
     "wof:parent_id":102049445,
     "wof:placetype":"localadmin",

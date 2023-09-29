@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00013,
-    "geom:area_square_m":1266421.342878,
+    "geom:area_square_m":1266421.342872,
     "geom:bbox":"144.98255328,-37.8097381815,144.9936144,-37.7941690625",
     "geom:latitude":-37.802091,
     "geom:longitude":144.988136,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.802002,
     "lbl:longitude":144.988135,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Collingwood"
@@ -84,12 +90,15 @@
         102048607
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20324"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932777
     ],
     "wof:country":"AU",
-    "wof:geomhash":"c75b356f48d08b7063ba6aea54b51f8e",
+    "wof:geomhash":"4b9aab25cd7486f15e8713e0f7cee4eb",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -102,7 +111,7 @@
         }
     ],
     "wof:id":404538215,
-    "wof:lastmodified":1566602466,
+    "wof:lastmodified":1695877393,
     "wof:name":"Collingwood",
     "wof:parent_id":102048607,
     "wof:placetype":"localadmin",

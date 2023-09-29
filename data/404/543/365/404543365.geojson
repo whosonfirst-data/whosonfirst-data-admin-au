@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013967,
-    "geom:area_square_m":152824490.566498,
+    "geom:area_square_m":152824490.566527,
     "geom:bbox":"152.382786304,-27.865468979,152.5815,-27.6746979595",
     "geom:latitude":-27.761838,
     "geom:longitude":152.460673,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.760832,
     "lbl:longitude":152.437241,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mount Mort"
@@ -39,9 +45,12 @@
         102048583
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31150"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"fb478ac1688f4bdb0b64b5843261b547",
+    "wof:geomhash":"61a90d5bc8345a6f2ae85803e71cb323",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":404543365,
-    "wof:lastmodified":1566602093,
+    "wof:lastmodified":1695877188,
     "wof:name":"Mount Mort",
     "wof:parent_id":102048583,
     "wof:placetype":"localadmin",

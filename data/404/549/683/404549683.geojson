@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00026,
-    "geom:area_square_m":3135336.71808,
+    "geom:area_square_m":3135336.718077,
     "geom:bbox":"130.833309568,-12.473711033,130.851920672,-12.4522908635",
     "geom:latitude":-12.461791,
     "geom:longitude":130.843732,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-12.460476,
     "lbl:longitude":130.842984,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Darwin City"
@@ -39,12 +45,15 @@
         102049235
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC70047"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938417
     ],
     "wof:country":"AU",
-    "wof:geomhash":"b81e2e8f1690df45d0bea973ed1808f7",
+    "wof:geomhash":"2b9ad022c87283ccde4db3aebe0d06ca",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404549683,
-    "wof:lastmodified":1566602885,
+    "wof:lastmodified":1695877648,
     "wof:name":"Darwin City",
     "wof:parent_id":102049235,
     "wof:placetype":"localadmin",

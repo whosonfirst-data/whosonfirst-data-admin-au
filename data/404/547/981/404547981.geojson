@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00211,
-    "geom:area_square_m":23499806.811395,
+    "geom:area_square_m":23499806.811408,
     "geom:bbox":"127.53431376,-26.0927405745,128.937005696,-24.990001547",
     "geom:latitude":-25.738217,
     "geom:longitude":128.171355,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-26.072866,
     "lbl:longitude":128.921768,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ngaanyatjarra-Giles"
@@ -38,12 +44,15 @@
         102048691
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50577"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937583
     ],
     "wof:country":"AU",
-    "wof:geomhash":"3fc3fba7305f02ffe790180b2b3a792e",
+    "wof:geomhash":"70b29b61caa4e31cd9b1e6d48cf98747",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404547981,
-    "wof:lastmodified":1566602978,
+    "wof:lastmodified":1695877706,
     "wof:name":"Ngaanyatjarra-Giles",
     "wof:parent_id":102048691,
     "wof:placetype":"localadmin",

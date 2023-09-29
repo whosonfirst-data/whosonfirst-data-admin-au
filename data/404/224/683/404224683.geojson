@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.332786,
-    "geom:area_square_m":3581266288.787137,
+    "geom:area_square_m":3581266288.786529,
     "geom:bbox":"148.676178976,-29.817486119,149.689285984,-29.2018759935",
     "geom:latitude":-29.5059,
     "geom:longitude":149.153603,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-29.481457,
     "lbl:longitude":149.111467,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mallowa"
@@ -38,9 +44,12 @@
         102049009
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11448"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"c860394f53fc02a7778b1e2e5762ba08",
+    "wof:geomhash":"9f955bfbe0a3417825ceb559c6c946bb",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404224683,
-    "wof:lastmodified":1566602630,
+    "wof:lastmodified":1695877491,
     "wof:name":"Mallowa",
     "wof:parent_id":102049009,
     "wof:placetype":"localadmin",

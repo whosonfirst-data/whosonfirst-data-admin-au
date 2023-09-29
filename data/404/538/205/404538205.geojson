@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00128,
-    "geom:area_square_m":12412239.387854,
+    "geom:area_square_m":12412239.387841,
     "geom:bbox":"143.526317952,-38.3730521925,143.561867424,-38.3178828985",
     "geom:latitude":-38.343315,
     "geom:longitude":143.544844,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.333428,
     "lbl:longitude":143.546973,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Colac West"
@@ -38,9 +44,12 @@
         102049117
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20319"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"bfbff6616c50ea0f06c5cc6f608d3804",
+    "wof:geomhash":"6df9a9ce2deba06bf3b02d38da2609d9",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404538205,
-    "wof:lastmodified":1566602446,
+    "wof:lastmodified":1695877384,
     "wof:name":"Colac West",
     "wof:parent_id":102049117,
     "wof:placetype":"localadmin",

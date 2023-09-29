@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003902,
-    "geom:area_square_m":40931748.443126,
+    "geom:area_square_m":40931748.443177,
     "geom:bbox":"152.291310016,-32.0143474475,152.389551232,-31.9465470935",
     "geom:latitude":-31.979175,
     "geom:longitude":152.341514,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.97218,
     "lbl:longitude":152.352244,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Hillville"
@@ -38,9 +44,12 @@
         102048833
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11114"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"58700b10e0ccd67b3a9bdc24330978b3",
+    "wof:geomhash":"97fd2fd3ee9e66e29aa95a231499ba4f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404223931,
-    "wof:lastmodified":1566602487,
+    "wof:lastmodified":1695877407,
     "wof:name":"Hillville",
     "wof:parent_id":102048833,
     "wof:placetype":"localadmin",

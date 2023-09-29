@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00782,
-    "geom:area_square_m":79238181.142052,
+    "geom:area_square_m":79238181.142058,
     "geom:bbox":"138.937645088,-35.0374551655,139.041196032,-34.894824476",
     "geom:latitude":-34.967244,
     "geom:longitude":138.997135,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.966069,
     "lbl:longitude":138.992018,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:als_x_preferred":[
         "Harrogate"
@@ -159,9 +165,12 @@
         102048895
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40275"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"0b7f339b7f8fc296502c0028ce053dec",
+    "wof:geomhash":"c754211ca8b1dfcc5e92c8e80977e54f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -174,7 +183,7 @@
         }
     ],
     "wof:id":404545461,
-    "wof:lastmodified":1566602248,
+    "wof:lastmodified":1695877264,
     "wof:name":"Harrogate",
     "wof:parent_id":102048895,
     "wof:placetype":"localadmin",

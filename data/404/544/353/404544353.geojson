@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004838,
-    "geom:area_square_m":55825351.867231,
+    "geom:area_square_m":55825351.867289,
     "geom:bbox":"148.991976992,-21.1138490055,149.063282016,-20.986746032",
     "geom:latitude":-21.057658,
     "geom:longitude":149.026119,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-21.074008,
     "lbl:longitude":149.020741,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "The Leap"
@@ -38,9 +44,12 @@
         102048783
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31615"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"b81f98c86472b2510dcb8f59c1d463f8",
+    "wof:geomhash":"c987c4a13fed365a946c2c8b0b62f966",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404544353,
-    "wof:lastmodified":1566602150,
+    "wof:lastmodified":1695877217,
     "wof:name":"The Leap",
     "wof:parent_id":102048783,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007538,
-    "geom:area_square_m":76184566.421372,
+    "geom:area_square_m":76184566.421426,
     "geom:bbox":"149.27144,-35.234505455,149.412303808,-35.0978939995",
     "geom:latitude":-35.174515,
     "geom:longitude":149.349462,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.178734,
     "lbl:longitude":149.344698,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bywong"
@@ -47,9 +53,12 @@
         102049385
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10418"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"5712e82fefd38d71e22b2b00ed12e693",
+    "wof:geomhash":"94d2da2dac9e240cbf05c09495796e76",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":404222365,
-    "wof:lastmodified":1566602746,
+    "wof:lastmodified":1695877557,
     "wof:name":"Bywong",
     "wof:parent_id":102049385,
     "wof:placetype":"localadmin",

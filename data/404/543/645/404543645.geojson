@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000847,
-    "geom:area_square_m":9250638.500042,
+    "geom:area_square_m":9250638.500027,
     "geom:bbox":"153.295900992,-27.9563477685,153.338029088,-27.9239640365",
     "geom:latitude":-27.939935,
     "geom:longitude":153.314363,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.939793,
     "lbl:longitude":153.313958,
     "lbl:max_zoom":18.0,
@@ -43,13 +49,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC31281",
         "wd:id":"Q7122622"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935077
     ],
     "wof:country":"AU",
-    "wof:geomhash":"0697a538e012e26997996ab61b96caf2",
+    "wof:geomhash":"33cc574c3ca307a2143b4443c55db248",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -62,7 +70,7 @@
         }
     ],
     "wof:id":404543645,
-    "wof:lastmodified":1566602101,
+    "wof:lastmodified":1695877915,
     "wof:name":"Pacific Pines",
     "wof:parent_id":102049363,
     "wof:placetype":"localadmin",

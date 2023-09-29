@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000895,
-    "geom:area_square_m":9074903.643,
+    "geom:area_square_m":9074903.643001,
     "geom:bbox":"117.916457984,-34.961253018,117.966840992,-34.935111001",
     "geom:latitude":-34.947102,
     "geom:longitude":117.939325,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.946625,
     "lbl:longitude":117.937284,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lower King"
@@ -38,12 +44,15 @@
         102048671
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50448"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937431
     ],
     "wof:country":"AU",
-    "wof:geomhash":"5554d8182ba32de79817c35842d3a659",
+    "wof:geomhash":"3d7211f89f7ecf177ab96db8a498f1eb",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404547691,
-    "wof:lastmodified":1566602967,
+    "wof:lastmodified":1695877699,
     "wof:name":"Lower King",
     "wof:parent_id":102048671,
     "wof:placetype":"localadmin",

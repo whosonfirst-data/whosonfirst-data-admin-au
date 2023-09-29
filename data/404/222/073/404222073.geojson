@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000362,
-    "geom:area_square_m":3756037.046196,
+    "geom:area_square_m":3756037.046204,
     "geom:bbox":"151.614128992,-32.966152005,151.641496768,-32.936698007",
     "geom:latitude":-32.950993,
     "geom:longitude":151.62875,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.949178,
     "lbl:longitude":151.627817,
     "lbl:max_zoom":18.0,
@@ -52,13 +58,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC10288",
         "wd:id":"Q4943336"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101929661
     ],
     "wof:country":"AU",
-    "wof:geomhash":"74edf03ca5e15ff48e8fd17ac16cedf1",
+    "wof:geomhash":"2f1d6ee634e35b58ea5254038c31b01d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -71,7 +79,7 @@
         }
     ],
     "wof:id":404222073,
-    "wof:lastmodified":1566602792,
+    "wof:lastmodified":1695878002,
     "wof:name":"Boolaroo",
     "wof:parent_id":102048999,
     "wof:placetype":"localadmin",

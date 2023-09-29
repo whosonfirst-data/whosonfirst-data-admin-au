@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000939,
-    "geom:area_square_m":11034565.163512,
+    "geom:area_square_m":11034565.163498,
     "geom:bbox":"125.549274208,-18.212969252,125.59766928,-18.162863001",
     "geom:latitude":-18.187398,
     "geom:longitude":125.571874,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-18.190768,
     "lbl:longitude":125.574256,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Fitzroy Crossing"
@@ -38,12 +44,15 @@
         102048793
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50263"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937173
     ],
     "wof:country":"AU",
-    "wof:geomhash":"a471e4f692f0b99398e42215b008ce2e",
+    "wof:geomhash":"dc6394f8afbb84e408be518db63b641e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404547275,
-    "wof:lastmodified":1566602933,
+    "wof:lastmodified":1695877678,
     "wof:name":"Fitzroy Crossing",
     "wof:parent_id":102048793,
     "wof:placetype":"localadmin",

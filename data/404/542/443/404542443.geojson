@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002989,
-    "geom:area_square_m":34873446.275006,
+    "geom:area_square_m":34873446.274987,
     "geom:bbox":"146.646856992,-19.396395271,146.715198816,-19.318814004",
     "geom:latitude":-19.352784,
     "geom:longitude":146.684895,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-19.349349,
     "lbl:longitude":146.687227,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Gumlow"
@@ -38,9 +44,12 @@
         102048451
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30715"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"3d0eb20d995cd6f9767108c9bb3b7a1d",
+    "wof:geomhash":"0c16c5b8cc8f968a8cbb0b58a19b2553",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404542443,
-    "wof:lastmodified":1566602298,
+    "wof:lastmodified":1695877292,
     "wof:name":"Gumlow",
     "wof:parent_id":102048451,
     "wof:placetype":"localadmin",

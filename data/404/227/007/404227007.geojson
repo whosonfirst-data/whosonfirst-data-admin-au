@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.078088,
-    "geom:area_square_m":801669103.55387,
+    "geom:area_square_m":801669103.554051,
     "geom:bbox":"146.936326016,-34.0347412905,147.286029984,-33.710764277",
     "geom:latitude":-33.875001,
     "geom:longitude":147.107994,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.875233,
     "lbl:longitude":147.093948,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "West Wyalong"
@@ -53,9 +59,12 @@
         102049365
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12481"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"d32c5957a325140b9ca24c05a2150a06",
+    "wof:geomhash":"98d8854ffc3989281c3de9301e97369a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -67,7 +76,7 @@
         }
     ],
     "wof:id":404227007,
-    "wof:lastmodified":1566601943,
+    "wof:lastmodified":1695877105,
     "wof:name":"West Wyalong",
     "wof:parent_id":102049365,
     "wof:placetype":"localadmin",

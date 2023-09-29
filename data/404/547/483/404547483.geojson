@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001504,
-    "geom:area_square_m":15755608.133215,
+    "geom:area_square_m":15755608.133221,
     "geom:bbox":"115.848640448,-32.128164757,115.896951264,-32.0750365865",
     "geom:latitude":-32.101582,
     "geom:longitude":115.870834,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.099427,
     "lbl:longitude":115.868447,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Jandakot"
@@ -42,12 +48,15 @@
         102049397
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50356"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937313
     ],
     "wof:country":"AU",
-    "wof:geomhash":"e5fa591e8c37eb7c5357fa15e936b111",
+    "wof:geomhash":"22c7d91d18d5b0523d99db98a9df8f91",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -60,7 +69,7 @@
         }
     ],
     "wof:id":404547483,
-    "wof:lastmodified":1566602929,
+    "wof:lastmodified":1695877676,
     "wof:name":"Jandakot",
     "wof:parent_id":102049397,
     "wof:placetype":"localadmin",

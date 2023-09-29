@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.079675,
-    "geom:area_square_m":830545002.863523,
+    "geom:area_square_m":830545002.861805,
     "geom:bbox":"147.54525392,-32.739422998,147.931074976,-32.3689524135",
     "geom:latitude":-32.538831,
     "geom:longitude":147.702461,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.526318,
     "lbl:longitude":147.673178,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0422\u044a\u043b\u0430\u043c\u043e\u0440"
@@ -146,9 +152,12 @@
         102048657
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12316"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"a9b136ebc09d8f5d170348a2cde499a2",
+    "wof:geomhash":"accab7f8d19567474e5499d935081fae",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -160,7 +169,7 @@
         }
     ],
     "wof:id":404226635,
-    "wof:lastmodified":1566602037,
+    "wof:lastmodified":1695877153,
     "wof:name":"Tullamore",
     "wof:parent_id":102048657,
     "wof:placetype":"localadmin",

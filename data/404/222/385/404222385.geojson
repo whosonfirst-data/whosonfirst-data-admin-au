@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001641,
-    "geom:area_square_m":16714377.610782,
+    "geom:area_square_m":16714377.61078,
     "geom:bbox":"150.678111168,-34.5749913145,150.777823008,-34.543259911",
     "geom:latitude":-34.558491,
     "geom:longitude":150.728689,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.561102,
     "lbl:longitude":150.737746,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Calderwood"
@@ -48,9 +54,12 @@
         102048497
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10427"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"0960e1a66ca3df9a55e84f35990d35fb",
+    "wof:geomhash":"ec2338f8f0fdb940031e53004d40c5f0",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -63,7 +72,7 @@
         }
     ],
     "wof:id":404222385,
-    "wof:lastmodified":1566602778,
+    "wof:lastmodified":1695877579,
     "wof:name":"Calderwood",
     "wof:parent_id":102048497,
     "wof:placetype":"localadmin",

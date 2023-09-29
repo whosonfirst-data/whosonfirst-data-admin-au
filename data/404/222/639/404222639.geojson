@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000084,
-    "geom:area_square_m":858399.514888,
+    "geom:area_square_m":858399.514886,
     "geom:bbox":"151.249839,-33.818007,151.263806,-33.797872",
     "geom:latitude":-33.807564,
     "geom:longitude":151.25648,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.803554,
     "lbl:longitude":151.254734,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Clontarf"
@@ -52,20 +58,23 @@
     "qs:source":"Australian Bureau Of Statistics",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681545,
         102191583,
         85632793,
-        102049077,
-        136253039,
         1376953385,
-        85681545
+        136253039,
+        102049077
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10540"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101929931
     ],
     "wof:country":"AU",
-    "wof:geomhash":"1c1ce6aac41c16a40b7347d14adbe721",
+    "wof:geomhash":"b6dfab117d854440b0dc71a6ebb85dae",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -78,7 +87,7 @@
         }
     ],
     "wof:id":404222639,
-    "wof:lastmodified":1607992380,
+    "wof:lastmodified":1695877843,
     "wof:name":"Clontarf",
     "wof:parent_id":102049077,
     "wof:placetype":"localadmin",

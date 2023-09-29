@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011148,
-    "geom:area_square_m":100781320.65928,
+    "geom:area_square_m":100781320.659206,
     "geom:bbox":"147.618442208,-43.0818309965,147.796234016,-42.934544745",
     "geom:latitude":-43.019951,
     "geom:longitude":147.698724,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-43.023265,
     "lbl:longitude":147.684529,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Saltwater River"
@@ -38,9 +44,12 @@
         102048661
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60319"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"e367919a2c72554323d01bdc5c21b666",
+    "wof:geomhash":"0ef4ffa2d925d6a9d676dd5c884ea734",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404549387,
-    "wof:lastmodified":1566602914,
+    "wof:lastmodified":1695877670,
     "wof:name":"Saltwater River",
     "wof:parent_id":102048661,
     "wof:placetype":"localadmin",

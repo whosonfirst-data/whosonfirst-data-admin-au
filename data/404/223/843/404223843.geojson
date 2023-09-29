@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.113312,
-    "geom:area_square_m":1138018171.22987,
+    "geom:area_square_m":1138018171.231299,
     "geom:bbox":"149.484424672,-36.0092173565,149.810418016,-35.3463529955",
     "geom:latitude":-35.686679,
     "geom:longitude":149.620057,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.73044,
     "lbl:longitude":149.620035,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Harolds Cross"
@@ -38,9 +44,12 @@
         102049385
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11075"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"1ddc4b69303974dccb0346e045a9754b",
+    "wof:geomhash":"57ac08759ddca5b270488f161d2c310c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404223843,
-    "wof:lastmodified":1566602508,
+    "wof:lastmodified":1695877418,
     "wof:name":"Harolds Cross",
     "wof:parent_id":102049385,
     "wof:placetype":"localadmin",

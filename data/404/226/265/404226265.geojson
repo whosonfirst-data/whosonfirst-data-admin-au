@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000169,
-    "geom:area_square_m":1730282.587362,
+    "geom:area_square_m":1730282.587364,
     "geom:bbox":"151.167406656,-33.924966305,151.186026016,-33.906906457",
     "geom:latitude":-33.915853,
     "geom:longitude":151.176219,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.91597,
     "lbl:longitude":151.176854,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "St Peters"
@@ -42,12 +48,15 @@
         102048531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12151"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931953
     ],
     "wof:country":"AU",
-    "wof:geomhash":"903475531a83532d06fe8f91f4481a36",
+    "wof:geomhash":"793ad4de198f2729d98c236826119c66",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -60,7 +69,7 @@
         }
     ],
     "wof:id":404226265,
-    "wof:lastmodified":1566602076,
+    "wof:lastmodified":1695877178,
     "wof:name":"St Peters",
     "wof:parent_id":102048531,
     "wof:placetype":"localadmin",

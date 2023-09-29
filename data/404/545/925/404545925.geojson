@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.12889,
-    "geom:area_square_m":1291494543.52437,
+    "geom:area_square_m":1291494543.524266,
     "geom:bbox":"137.177028992,-36.0749709815,137.803452128,-35.7215454645",
     "geom:latitude":-35.870029,
     "geom:longitude":137.470005,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.887497,
     "lbl:longitude":137.465262,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Nepean Bay"
@@ -38,9 +44,12 @@
         102049105
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40488"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"41dfb4f149f46058c54a344a19e4ab8e",
+    "wof:geomhash":"dc31559c3995906db162ec393098b6f3",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404545925,
-    "wof:lastmodified":1566602232,
+    "wof:lastmodified":1695877257,
     "wof:name":"Nepean Bay",
     "wof:parent_id":102049105,
     "wof:placetype":"localadmin",

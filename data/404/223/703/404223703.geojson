@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000119,
-    "geom:area_square_m":1214048.347388,
+    "geom:area_square_m":1214048.347389,
     "geom:bbox":"151.071412992,-34.0655949985,151.090411008,-34.048788729",
     "geom:latitude":-34.058646,
     "geom:longitude":151.080219,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.059051,
     "lbl:longitude":151.077982,
     "lbl:max_zoom":18.0,
@@ -58,13 +64,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC11013",
         "wd:id":"Q5598373"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101930503
     ],
     "wof:country":"AU",
-    "wof:geomhash":"466912294fcd593a486a0f5928e0582b",
+    "wof:geomhash":"d6d834c1737f5ce51130baceaa49ab34",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -77,7 +85,7 @@
         }
     ],
     "wof:id":404223703,
-    "wof:lastmodified":1566602535,
+    "wof:lastmodified":1695877968,
     "wof:name":"Grays Point",
     "wof:parent_id":102049511,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034772,
-    "geom:area_square_m":351035357.974166,
+    "geom:area_square_m":351035357.97407,
     "geom:bbox":"149.627587008,-35.3770550035,149.853131776,-35.1379326615",
     "geom:latitude":-35.271884,
     "geom:longitude":149.735508,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.272738,
     "lbl:longitude":149.737637,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0648\u0627\u0631\u064a"
@@ -128,9 +134,12 @@
         102049385
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12428"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"2fdb2f6f00af27fea3b3840cc5e8e56f",
+    "wof:geomhash":"336ae8a27385ad4e1efb57d11d822352",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -142,7 +151,7 @@
         }
     ],
     "wof:id":404226887,
-    "wof:lastmodified":1566602025,
+    "wof:lastmodified":1695877145,
     "wof:name":"Warri",
     "wof:parent_id":102049385,
     "wof:placetype":"localadmin",

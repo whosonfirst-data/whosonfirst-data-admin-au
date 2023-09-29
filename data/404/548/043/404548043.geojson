@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008612,
-    "geom:area_square_m":87228651.667682,
+    "geom:area_square_m":87228651.667592,
     "geom:bbox":"117.138847008,-35.0438965695,117.339604736,-34.9692079995",
     "geom:latitude":-35.002664,
     "geom:longitude":117.245998,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.005697,
     "lbl:longitude":117.246029,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ocean Beach"
@@ -50,9 +56,12 @@
         102048443
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50605"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"e67a50271bdb5ffe1a2a2b0fad8ecc3f",
+    "wof:geomhash":"65c35421f5686b9851fa42ef98173bf2",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":404548043,
-    "wof:lastmodified":1566603210,
+    "wof:lastmodified":1695877820,
     "wof:name":"Ocean Beach",
     "wof:parent_id":102048443,
     "wof:placetype":"localadmin",

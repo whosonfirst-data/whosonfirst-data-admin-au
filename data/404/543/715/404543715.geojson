@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001709,
-    "geom:area_square_m":18918555.061015,
+    "geom:area_square_m":18918555.060935,
     "geom:bbox":"153.045848128,-26.498854998,153.104778752,-26.4348811655",
     "geom:latitude":-26.466766,
     "geom:longitude":153.080984,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-26.468671,
     "lbl:longitude":153.08543,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Peregian Beach"
@@ -39,9 +45,12 @@
         102049303
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31313"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"27e975662beb3c47335340a2d40ee316",
+    "wof:geomhash":"db3447f970ea2fb20ee6fa41497a92c0",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":404543715,
-    "wof:lastmodified":1566602116,
+    "wof:lastmodified":1695877200,
     "wof:name":"Peregian Beach",
     "wof:parent_id":102049303,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007376,
-    "geom:area_square_m":78276931.357283,
+    "geom:area_square_m":78276931.357378,
     "geom:bbox":"152.748210016,-30.9278479975,152.907578016,-30.839733996",
     "geom:latitude":-30.88328,
     "geom:longitude":152.826575,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-30.883414,
     "lbl:longitude":152.826587,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Eungai Rail"
@@ -38,9 +44,12 @@
         102049433
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10848"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"6a716ca4d8e6f490cef5b4fa712e1d52",
+    "wof:geomhash":"a74480a6c761ad640e289d864005ff68",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404223333,
-    "wof:lastmodified":1566602538,
+    "wof:lastmodified":1695877436,
     "wof:name":"Eungai Rail",
     "wof:parent_id":102049433,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000122,
-    "geom:area_square_m":1196647.636503,
+    "geom:area_square_m":1196647.636502,
     "geom:bbox":"143.809593088,-37.555847715,143.82205,-37.539318964",
     "geom:latitude":-37.546321,
     "geom:longitude":143.816526,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.544302,
     "lbl:longitude":143.81703,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lake Gardens"
@@ -38,12 +44,15 @@
         102049037
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20755"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101933151
     ],
     "wof:country":"AU",
-    "wof:geomhash":"4b159c8e988765da241c7f025d90ab2c",
+    "wof:geomhash":"54a66fd6bb21f79526a29e340b4823a7",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404539175,
-    "wof:lastmodified":1566602380,
+    "wof:lastmodified":1695877342,
     "wof:name":"Lake Gardens",
     "wof:parent_id":102049037,
     "wof:placetype":"localadmin",

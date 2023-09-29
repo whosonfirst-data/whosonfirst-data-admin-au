@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001035,
-    "geom:area_square_m":10846601.829915,
+    "geom:area_square_m":10846601.829963,
     "geom:bbox":"115.970745984,-32.065682006,116.015536992,-32.0234810085",
     "geom:latitude":-32.047629,
     "geom:longitude":115.995803,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.04828,
     "lbl:longitude":115.996145,
     "lbl:max_zoom":18.0,
@@ -55,13 +61,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC50453",
         "wd:id":"Q6726632"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937435
     ],
     "wof:country":"AU",
-    "wof:geomhash":"5a0220cb21805e82759fadc1ba326155",
+    "wof:geomhash":"2568765d2b3580e16be4b2237c58aa62",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -74,7 +82,7 @@
         }
     ],
     "wof:id":404547701,
-    "wof:lastmodified":1566602920,
+    "wof:lastmodified":1695878014,
     "wof:name":"Maddington",
     "wof:parent_id":102049177,
     "wof:placetype":"localadmin",

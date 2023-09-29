@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.317058,
-    "geom:area_square_m":3381997036.991869,
+    "geom:area_square_m":3381997036.990815,
     "geom:bbox":"147.165055552,-30.6493891425,148.058879008,-30.115531257",
     "geom:latitude":-30.384447,
     "geom:longitude":147.572703,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-30.400459,
     "lbl:longitude":147.474787,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Carinda"
@@ -50,9 +56,12 @@
         102049265
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10468"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"3fb5dca653314aee425051add7705c0b",
+    "wof:geomhash":"0c3c3579befc700b89546f50ad685312",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":404222477,
-    "wof:lastmodified":1566602758,
+    "wof:lastmodified":1695877565,
     "wof:name":"Carinda",
     "wof:parent_id":102049265,
     "wof:placetype":"localadmin",

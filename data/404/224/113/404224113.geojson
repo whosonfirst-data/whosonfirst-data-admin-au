@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001451,
-    "geom:area_square_m":14377693.365503,
+    "geom:area_square_m":14377693.365487,
     "geom:bbox":"149.8988,-36.749974617,149.960027008,-36.7122459945",
     "geom:latitude":-36.729836,
     "geom:longitude":149.931119,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.731163,
     "lbl:longitude":149.940836,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kalaru"
@@ -38,9 +44,12 @@
         102049439
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11195"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"0e32a2961530a4e939fe8268c00315b5",
+    "wof:geomhash":"76b20d7adc148850477b2658795b6de5",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404224113,
-    "wof:lastmodified":1566602654,
+    "wof:lastmodified":1695877503,
     "wof:name":"Kalaru",
     "wof:parent_id":102049439,
     "wof:placetype":"localadmin",

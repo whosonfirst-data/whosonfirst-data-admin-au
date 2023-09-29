@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.226737,
-    "geom:area_square_m":2445451916.320886,
+    "geom:area_square_m":2445451916.320594,
     "geom:bbox":"147.741282016,-29.6636749915,148.359767008,-28.999053852",
     "geom:latitude":-29.279579,
     "geom:longitude":148.017602,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-29.275858,
     "lbl:longitude":147.996426,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lightning Ridge"
@@ -38,9 +44,12 @@
         102049265
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11365"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"818988d43c9d180dd9db67ec93791f89",
+    "wof:geomhash":"692a8c8253bfdd1d5edb90fb6d0f1a3d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404224495,
-    "wof:lastmodified":1566602641,
+    "wof:lastmodified":1695877497,
     "wof:name":"Lightning Ridge",
     "wof:parent_id":102049265,
     "wof:placetype":"localadmin",

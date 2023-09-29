@@ -10,6 +10,12 @@
     "geom:latitude":-33.754907,
     "geom:longitude":150.784351,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.755983,
     "lbl:longitude":150.78323,
     "lbl:max_zoom":18.0,
@@ -46,13 +52,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC11761",
         "wd:id":"Q7056814"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931465
     ],
     "wof:country":"AU",
-    "wof:geomhash":"b450199ee29e3dffe8620612d6ebc072",
+    "wof:geomhash":"181282fd33a7f298f809bd2f256bef0a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -65,7 +73,7 @@
         }
     ],
     "wof:id":404225387,
-    "wof:lastmodified":1566602735,
+    "wof:lastmodified":1695877994,
     "wof:name":"North St Marys",
     "wof:parent_id":102048677,
     "wof:placetype":"localadmin",

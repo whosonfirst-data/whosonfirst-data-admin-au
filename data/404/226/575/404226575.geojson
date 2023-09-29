@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005527,
-    "geom:area_square_m":55951097.688691,
+    "geom:area_square_m":55951097.68867,
     "geom:bbox":"150.50184144,-35.0829469985,150.630062016,-35.016328998",
     "geom:latitude":-35.051064,
     "geom:longitude":150.569946,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.0493,
     "lbl:longitude":150.564776,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tomerong"
@@ -38,9 +44,12 @@
         102049405
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12289"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"1ce7074878e07f95362a18b2991c41e1",
+    "wof:geomhash":"3e224154648dfbf9786b9f59163589bc",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404226575,
-    "wof:lastmodified":1566602045,
+    "wof:lastmodified":1695877158,
     "wof:name":"Tomerong",
     "wof:parent_id":102049405,
     "wof:placetype":"localadmin",

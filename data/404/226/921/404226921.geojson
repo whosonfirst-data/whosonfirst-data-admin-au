@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025882,
-    "geom:area_square_m":271230378.500033,
+    "geom:area_square_m":271230378.500316,
     "geom:bbox":"151.962396896,-32.190161328,152.132126304,-31.912692001",
     "geom:latitude":-32.060034,
     "geom:longitude":152.058562,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.05296,
     "lbl:longitude":152.064379,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Waukivory"
@@ -38,9 +44,12 @@
         102049121
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12443"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"8cc62f5c1d0db5198791bf4bc4654a54",
+    "wof:geomhash":"9f3a08b0507d7884201237f1e7199d2d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404226921,
-    "wof:lastmodified":1566602086,
+    "wof:lastmodified":1695877185,
     "wof:name":"Waukivory",
     "wof:parent_id":102049121,
     "wof:placetype":"localadmin",

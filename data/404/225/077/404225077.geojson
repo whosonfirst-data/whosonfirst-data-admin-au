@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025726,
-    "geom:area_square_m":268901109.368053,
+    "geom:area_square_m":268901109.368846,
     "geom:bbox":"151.189655008,-32.448561003,151.376376896,-32.1389097975",
     "geom:latitude":-32.293388,
     "geom:longitude":151.28021,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.281066,
     "lbl:longitude":151.297171,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mount Olive"
@@ -83,9 +89,12 @@
         102048757
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11623"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"24aa142d00a1588cb0760a677bfceced",
+    "wof:geomhash":"78d7a53ff71406a096fc1cb4a5416a18",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -97,7 +106,7 @@
         }
     ],
     "wof:id":404225077,
-    "wof:lastmodified":1566602673,
+    "wof:lastmodified":1695877515,
     "wof:name":"Mount Olive",
     "wof:parent_id":102048757,
     "wof:placetype":"localadmin",

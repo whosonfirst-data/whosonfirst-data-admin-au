@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.452029,
-    "geom:area_square_m":4733844319.694162,
+    "geom:area_square_m":4733844319.694559,
     "geom:bbox":"133.130455936,-32.648510964,134.513041376,-31.7521048785",
     "geom:latitude":-32.120585,
     "geom:longitude":133.868393,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.122416,
     "lbl:longitude":133.96968,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Denial Bay"
@@ -50,9 +56,12 @@
         102048593
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40155"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"7f791b37b520e1edb60f1dfa7e0e4412",
+    "wof:geomhash":"a698ad790aeaae661acf72b2f21bb854",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":404545197,
-    "wof:lastmodified":1566602236,
+    "wof:lastmodified":1695877259,
     "wof:name":"Denial Bay",
     "wof:parent_id":102048593,
     "wof:placetype":"localadmin",

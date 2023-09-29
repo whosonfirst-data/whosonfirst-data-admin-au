@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000323,
-    "geom:area_square_m":2941445.478721,
+    "geom:area_square_m":2941445.478709,
     "geom:bbox":"147.860335,-42.575271,147.908576,-42.54607",
     "geom:latitude":-42.561536,
     "geom:longitude":147.881418,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-42.563274,
     "lbl:longitude":147.874204,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Orford"
@@ -64,19 +70,22 @@
     "qs:source":"Australian Bureau Of Statistics",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681583,
         102191583,
         85632793,
-        102048801,
         136253039,
-        85681583
+        102048801
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60263"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938211
     ],
     "wof:country":"AU",
-    "wof:geomhash":"cabdca61fc1662ca3d9c5817dd51dafa",
+    "wof:geomhash":"a213d622a02ffa5350975145b7fbb6b6",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -88,7 +97,7 @@
         }
     ],
     "wof:id":404549261,
-    "wof:lastmodified":1607987641,
+    "wof:lastmodified":1695877840,
     "wof:name":"Orford",
     "wof:parent_id":102048801,
     "wof:placetype":"localadmin",

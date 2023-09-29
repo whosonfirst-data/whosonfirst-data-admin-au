@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001168,
-    "geom:area_square_m":13259006.987234,
+    "geom:area_square_m":13259006.987252,
     "geom:bbox":"150.548787008,-23.399094417,150.587586912,-23.344601076",
     "geom:latitude":-23.36856,
     "geom:longitude":150.569426,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-23.368386,
     "lbl:longitude":150.574271,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lakes Creek"
@@ -38,12 +44,15 @@
         102048825
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30932"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934705
     ],
     "wof:country":"AU",
-    "wof:geomhash":"94774ccd68b0c32fd178e3a08f4ecd4d",
+    "wof:geomhash":"b21226fb277c48f887d1eea68c6694f7",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404542909,
-    "wof:lastmodified":1566602257,
+    "wof:lastmodified":1695877268,
     "wof:name":"Lakes Creek",
     "wof:parent_id":102048825,
     "wof:placetype":"localadmin",

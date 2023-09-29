@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002455,
-    "geom:area_square_m":24859673.18463,
+    "geom:area_square_m":24859673.184619,
     "geom:bbox":"138.872609056,-35.0621840045,138.945742016,-35.005156996",
     "geom:latitude":-35.03254,
     "geom:longitude":138.911909,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.035104,
     "lbl:longitude":138.914862,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Nairne"
@@ -42,9 +48,12 @@
         102048895
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40480"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"6755bc1699cb1d88ca5f2e7763b06b02",
+    "wof:geomhash":"cd54e1a58c6323a638b098bd7e60eea5",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404545909,
-    "wof:lastmodified":1566602207,
+    "wof:lastmodified":1695877248,
     "wof:name":"Nairne",
     "wof:parent_id":102048895,
     "wof:placetype":"localadmin",

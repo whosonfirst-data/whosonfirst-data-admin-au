@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.052198,
-    "geom:area_square_m":560894979.938228,
+    "geom:area_square_m":560894979.938893,
     "geom:bbox":"150.647143328,-29.8329926525,150.967676992,-29.5018549735",
     "geom:latitude":-29.65494,
     "geom:longitude":150.814341,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-29.662605,
     "lbl:longitude":150.803426,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Delungra"
@@ -38,9 +44,12 @@
         102049369
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10705"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"09f244db5a0aad96991317fbd4d0ad10",
+    "wof:geomhash":"3fae81da119297c78e08f1cffa648776",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404223011,
-    "wof:lastmodified":1566602544,
+    "wof:lastmodified":1695877441,
     "wof:name":"Delungra",
     "wof:parent_id":102049369,
     "wof:placetype":"localadmin",

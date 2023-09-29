@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.413561,
-    "geom:area_square_m":16009043472.761633,
+    "geom:area_square_m":16009043472.761757,
     "geom:bbox":"131.368192,-24.2754548275,133.178456896,-22.853946111",
     "geom:latitude":-23.663093,
     "geom:longitude":132.3093,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-23.65921,
     "lbl:longitude":132.447001,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Namatjira"
@@ -41,9 +47,12 @@
         102048913
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC70139"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"c81a40da14898618d71b7b25731ba801",
+    "wof:geomhash":"ba243c246e89d266916b0eeaa36ebdbc",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404549803,
-    "wof:lastmodified":1566602847,
+    "wof:lastmodified":1695877624,
     "wof:name":"Namatjira",
     "wof:parent_id":102048913,
     "wof:placetype":"localadmin",

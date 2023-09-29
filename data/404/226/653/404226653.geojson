@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002693,
-    "geom:area_square_m":27171277.483649,
+    "geom:area_square_m":27171250.148304,
     "geom:bbox":"148.189627,-35.365143,148.271764,-35.286272",
     "geom:latitude":-35.324135,
     "geom:longitude":148.235804,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.31762,
     "lbl:longitude":148.239825,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062a\u0648\u0645\u0648\u062a"
@@ -110,12 +116,15 @@
         102049445
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12324"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932145
     ],
     "wof:country":"AU",
-    "wof:geomhash":"579a2698b26c1377046f22683dc26b8c",
+    "wof:geomhash":"92ee937e9de5e2112318db9a0721cb78",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -127,7 +136,7 @@
         }
     ],
     "wof:id":404226653,
-    "wof:lastmodified":1636494615,
+    "wof:lastmodified":1695877850,
     "wof:name":"Tumut",
     "wof:parent_id":102049445,
     "wof:placetype":"localadmin",

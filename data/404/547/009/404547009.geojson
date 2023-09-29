@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000541,
-    "geom:area_square_m":5557018.503989,
+    "geom:area_square_m":5557018.503988,
     "geom:bbox":"121.892859392,-33.847098584,121.940108352,-33.8205451825",
     "geom:latitude":-33.832365,
     "geom:longitude":121.915627,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.831135,
     "lbl:longitude":121.914024,
     "lbl:max_zoom":18.0,
@@ -72,13 +78,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC50143",
         "wd:id":"Q5050647"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101936993
     ],
     "wof:country":"AU",
-    "wof:geomhash":"621b92805f1567b4ef5330aa165ae3c2",
+    "wof:geomhash":"fa2e41228649f43d63711c24214961bd",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -90,7 +98,7 @@
         }
     ],
     "wof:id":404547009,
-    "wof:lastmodified":1566602936,
+    "wof:lastmodified":1695878017,
     "wof:name":"Castletown",
     "wof:parent_id":102049141,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001964,
-    "geom:area_square_m":19096808.155484,
+    "geom:area_square_m":19096808.155466,
     "geom:bbox":"146.25244144,-38.201049238,146.323284864,-38.148358907",
     "geom:latitude":-38.171709,
     "geom:longitude":146.292637,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.170926,
     "lbl:longitude":146.293173,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Newborough"
@@ -59,12 +65,15 @@
         102049021
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21002"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101933319
     ],
     "wof:country":"AU",
-    "wof:geomhash":"fe91a2d28b8a0ce0d552af7141206861",
+    "wof:geomhash":"55c009b9862ac58c79ccd4218bcbf3cf",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -76,7 +85,7 @@
         }
     ],
     "wof:id":404539729,
-    "wof:lastmodified":1566602419,
+    "wof:lastmodified":1695877369,
     "wof:name":"Newborough",
     "wof:parent_id":102049021,
     "wof:placetype":"localadmin",

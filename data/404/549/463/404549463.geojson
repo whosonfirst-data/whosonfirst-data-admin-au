@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000201,
-    "geom:area_square_m":1885234.34217,
+    "geom:area_square_m":1885234.342186,
     "geom:bbox":"145.27947,-40.772543,145.309368,-40.756708",
     "geom:latitude":-40.764061,
     "geom:longitude":145.293914,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-40.763452,
     "lbl:longitude":145.300214,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0421\u0442\u044d\u043d\u043b\u0456"
@@ -152,12 +158,15 @@
         102049649
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60353"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938289
     ],
     "wof:country":"AU",
-    "wof:geomhash":"c1c429086196dff7bf9ed3741ec6aebd",
+    "wof:geomhash":"90328186d6f9c808fb3f45c13d9c44c2",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -169,7 +178,7 @@
         }
     ],
     "wof:id":404549463,
-    "wof:lastmodified":1636494658,
+    "wof:lastmodified":1695877871,
     "wof:name":"Stanley",
     "wof:parent_id":102049649,
     "wof:placetype":"localadmin",

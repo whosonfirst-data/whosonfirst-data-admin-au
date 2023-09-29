@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001906,
-    "geom:area_square_m":19353373.271697,
+    "geom:area_square_m":19353373.271705,
     "geom:bbox":"150.523380864,-34.841851243,150.592004832,-34.789696006",
     "geom:latitude":-34.814457,
     "geom:longitude":150.56031,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.803122,
     "lbl:longitude":150.560723,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Cambewarra"
@@ -38,9 +44,12 @@
         102049405
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10434"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"a27619c7fd624ad9a31381bd7c22cb02",
+    "wof:geomhash":"39a24b74a34ca7054d231a0b85b01984",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404222401,
-    "wof:lastmodified":1566602763,
+    "wof:lastmodified":1695877569,
     "wof:name":"Cambewarra",
     "wof:parent_id":102049405,
     "wof:placetype":"localadmin",

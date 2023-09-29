@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000353,
-    "geom:area_square_m":3423952.411314,
+    "geom:area_square_m":3423952.411315,
     "geom:bbox":"144.59060752,-38.292252869,144.633984128,-38.2665287485",
     "geom:latitude":-38.279157,
     "geom:longitude":144.611033,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.281396,
     "lbl:longitude":144.60923,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Point Lonsdale"
@@ -42,12 +48,15 @@
         102048699
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21095"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101933411
     ],
     "wof:country":"AU",
-    "wof:geomhash":"d65b01a34f33268496d66cd4e559f215",
+    "wof:geomhash":"6ca518ba2664cd3b40a178f18fc9bd6b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -60,7 +69,7 @@
         }
     ],
     "wof:id":404539935,
-    "wof:lastmodified":1566602386,
+    "wof:lastmodified":1695877346,
     "wof:name":"Point Lonsdale",
     "wof:parent_id":102048699,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.158641,
-    "geom:area_square_m":12382579110.363659,
+    "geom:area_square_m":12382580009.222509,
     "geom:bbox":"145.400594,-30.979927,146.657992,-29.446781",
     "geom:latitude":-30.19538,
     "geom:longitude":146.004245,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-30.188713,
     "lbl:longitude":146.016508,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bourke"
@@ -77,9 +83,12 @@
         102049345
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10306"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"962a742d3dbb9fe14d77bcab7b3bcc7b",
+    "wof:geomhash":"d0ff4221d68fb8316e3f7c386f3fcf76",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -91,7 +100,7 @@
         }
     ],
     "wof:id":404222113,
-    "wof:lastmodified":1636494657,
+    "wof:lastmodified":1695877870,
     "wof:name":"Bourke",
     "wof:parent_id":102049345,
     "wof:placetype":"localadmin",

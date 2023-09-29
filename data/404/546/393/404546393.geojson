@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.072705,
-    "geom:area_square_m":738623328.995037,
+    "geom:area_square_m":738623328.995159,
     "geom:bbox":"140.788043296,-35.0082573555,140.965621344,-34.5206597375",
     "geom:latitude":-34.75532,
     "geom:longitude":140.888802,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.756558,
     "lbl:longitude":140.887562,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Taplan"
@@ -38,9 +44,12 @@
         102049421
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40711"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"c2999c1bd8e12d56f0c2248d4b425965",
+    "wof:geomhash":"899aea5b3cde2cdb58c8aa7ab4ee81bc",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404546393,
-    "wof:lastmodified":1566603134,
+    "wof:lastmodified":1695877784,
     "wof:name":"Taplan",
     "wof:parent_id":102049421,
     "wof:placetype":"localadmin",

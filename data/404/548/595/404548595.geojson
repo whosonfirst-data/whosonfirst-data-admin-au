@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000423,
-    "geom:area_square_m":4366854.965909,
+    "geom:area_square_m":4366854.965914,
     "geom:bbox":"115.612229504,-33.3746658415,115.647278144,-33.358880328",
     "geom:latitude":-33.368071,
     "geom:longitude":115.6305,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.367867,
     "lbl:longitude":115.634002,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Skofhoogte"
@@ -129,12 +135,15 @@
         102048605
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50854"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937977
     ],
     "wof:country":"AU",
-    "wof:geomhash":"3af090620efb8967b1af2df3fa2ee591",
+    "wof:geomhash":"3c286fd5b4dc43c7eb1b76579df46c85",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -147,7 +156,7 @@
         }
     ],
     "wof:id":404548595,
-    "wof:lastmodified":1566603162,
+    "wof:lastmodified":1695877795,
     "wof:name":"Withers",
     "wof:parent_id":102048605,
     "wof:placetype":"localadmin",

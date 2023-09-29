@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005973,
-    "geom:area_square_m":60992058.924005,
+    "geom:area_square_m":60992057.850518,
     "geom:bbox":"138.681084,-34.370582,138.787386,-34.289855",
     "geom:latitude":-34.329059,
     "geom:longitude":138.73667,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.329473,
     "lbl:longitude":138.740957,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u062a\u0648\u0643\u0628\u0648\u0631\u062a"
@@ -174,9 +180,12 @@
         102048457
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40694"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"90e3e0e33c9f25d9f4b0a605c154f7da",
+    "wof:geomhash":"4aade2a4c366b0936b6cf0258eef9714",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -188,7 +197,7 @@
         }
     ],
     "wof:id":404546357,
-    "wof:lastmodified":1636494680,
+    "wof:lastmodified":1695877885,
     "wof:name":"Stockport",
     "wof:parent_id":102048457,
     "wof:placetype":"localadmin",

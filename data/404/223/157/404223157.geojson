@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000305,
-    "geom:area_square_m":3146084.445243,
+    "geom:area_square_m":3146075.249848,
     "geom:bbox":"151.344844,-33.445212,151.366296,-33.419905",
     "geom:latitude":-33.431786,
     "geom:longitude":151.354213,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.434525,
     "lbl:longitude":151.35405,
     "lbl:max_zoom":18.0,
@@ -54,13 +60,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC10770",
         "wd:id":"Q5328472"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101930151
     ],
     "wof:country":"AU",
-    "wof:geomhash":"94d3fff3280285591e51807ab186cc47",
+    "wof:geomhash":"3ed1b058a8b304a252e06987ffe20f7c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -72,7 +80,7 @@
         }
     ],
     "wof:id":404223157,
-    "wof:lastmodified":1690853599,
+    "wof:lastmodified":1695877962,
     "wof:name":"East Gosford",
     "wof:parent_id":102048513,
     "wof:placetype":"localadmin",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002735,
-    "geom:area_square_m":28250553.621814,
+    "geom:area_square_m":28250553.621858,
     "geom:bbox":"151.2057,-33.3843460035,151.25651,-33.3065320065",
     "geom:latitude":-33.3444,
     "geom:longitude":151.231553,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.341821,
     "lbl:longitude":151.231068,
     "lbl:max_zoom":18.0,
@@ -48,10 +54,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC11853",
         "wd:id":"Q7158474"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"0448d873ab43db95500ae6d0ecf7d9d5",
+    "wof:geomhash":"564f67c70ebe3134bc5cfea376c4642d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -63,7 +71,7 @@
         }
     ],
     "wof:id":404225593,
-    "wof:lastmodified":1566602660,
+    "wof:lastmodified":1695877985,
     "wof:name":"Peats Ridge",
     "wof:parent_id":102048513,
     "wof:placetype":"localadmin",

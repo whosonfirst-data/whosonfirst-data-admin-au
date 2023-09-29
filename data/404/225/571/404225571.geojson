@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021965,
-    "geom:area_square_m":222610871.780323,
+    "geom:area_square_m":222610858.346523,
     "geom:bbox":"150.398282,-35.050774,150.588059,-34.850954",
     "geom:latitude":-34.954555,
     "geom:longitude":150.485841,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.97583,
     "lbl:longitude":150.476531,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:als_x_preferred":[
         "Parma"
@@ -302,9 +308,12 @@
         102049405
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11843"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"0a716d669298ae0a9fe3fe28d9ea1906",
+    "wof:geomhash":"718a57324f0687aeaed62cfcef824dab",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -316,7 +325,7 @@
         }
     ],
     "wof:id":404225571,
-    "wof:lastmodified":1636494654,
+    "wof:lastmodified":1695877868,
     "wof:name":"Parma",
     "wof:parent_id":102049405,
     "wof:placetype":"localadmin",

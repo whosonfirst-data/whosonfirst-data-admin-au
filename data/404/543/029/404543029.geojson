@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000344,
-    "geom:area_square_m":3967793.447792,
+    "geom:area_square_m":3967793.447787,
     "geom:bbox":"149.166376704,-21.15232451,149.19903104,-21.1341230075",
     "geom:latitude":-21.143194,
     "geom:longitude":149.182319,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-21.144192,
     "lbl:longitude":149.182075,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u041c\u0430\u043a\u0430\u0439"
@@ -86,12 +92,15 @@
         102048783
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30988"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934755
     ],
     "wof:country":"AU",
-    "wof:geomhash":"47ce37afeb4e6c144639f1c69ea95136",
+    "wof:geomhash":"1d8353c5dafa9bc05a5ad10006ff3ea2",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -103,7 +112,7 @@
         }
     ],
     "wof:id":404543029,
-    "wof:lastmodified":1566602129,
+    "wof:lastmodified":1695877207,
     "wof:name":"Mackay",
     "wof:parent_id":102048783,
     "wof:placetype":"localadmin",

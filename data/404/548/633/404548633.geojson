@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.576375,
-    "geom:area_square_m":27977862623.054478,
+    "geom:area_square_m":27977862623.055065,
     "geom:bbox":"116.032501,-29.801405,118.283861,-27.174416",
     "geom:latitude":-28.565257,
     "geom:longitude":117.050223,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.32315,
     "lbl:longitude":116.752192,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Yalgoo"
@@ -37,19 +43,22 @@
     "qs:source":"Australian Bureau Of Statistics",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681439,
         102191583,
         85632793,
-        102048917,
         136253039,
-        85681439
+        102048917
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50871"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         102048917
     ],
     "wof:country":"AU",
-    "wof:geomhash":"be9730b6ebb24a364e29b319aa320502",
+    "wof:geomhash":"2e63b20d092824a9cb7b1af2d5cad400",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":404548633,
-    "wof:lastmodified":1608001871,
+    "wof:lastmodified":1695877846,
     "wof:name":"Yalgoo",
     "wof:parent_id":102048917,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.421888,
-    "geom:area_square_m":4718280178.580095,
+    "geom:area_square_m":4718280178.581091,
     "geom:bbox":"150.369648992,-25.736269569,151.062884192,-24.6520969935",
     "geom:latitude":-25.249111,
     "geom:longitude":150.713365,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-25.367308,
     "lbl:longitude":150.689804,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Eidsvold West"
@@ -38,9 +44,12 @@
         102049053
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30554"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"bc8bff8633103e3d5effbf2c6153fc4e",
+    "wof:geomhash":"5d14ce8d94d956203033fdd5a2e80fdf",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404542097,
-    "wof:lastmodified":1566602279,
+    "wof:lastmodified":1695877281,
     "wof:name":"Eidsvold West",
     "wof:parent_id":102049053,
     "wof:placetype":"localadmin",

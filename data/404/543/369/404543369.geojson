@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011396,
-    "geom:area_square_m":128390466.407971,
+    "geom:area_square_m":128390466.407899,
     "geom:bbox":"150.45676,-24.3830960045,150.635635008,-24.279291006",
     "geom:latitude":-24.336125,
     "geom:longitude":150.547824,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-24.333451,
     "lbl:longitude":150.547834,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mount Murchison"
@@ -53,9 +59,12 @@
         102049135
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31151"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"e7cca5dfc0c9eabc4044694a34d3c69e",
+    "wof:geomhash":"da2e04932c53f1ad3a89f52c497d8ada",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -67,7 +76,7 @@
         }
     ],
     "wof:id":404543369,
-    "wof:lastmodified":1566602122,
+    "wof:lastmodified":1695877203,
     "wof:name":"Mount Murchison",
     "wof:parent_id":102049135,
     "wof:placetype":"localadmin",

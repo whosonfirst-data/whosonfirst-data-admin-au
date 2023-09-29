@@ -10,12 +10,18 @@
     "geom:latitude":-31.860627,
     "geom:longitude":115.759109,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.860388,
     "lbl:longitude":115.758388,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "North Beach"
@@ -69,12 +75,15 @@
         102048573
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50583"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937595
     ],
     "wof:country":"AU",
-    "wof:geomhash":"399b5de06155a125488ccbfbc544ce99",
+    "wof:geomhash":"9be0bc35f53376b4860f473780b40e97",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -87,7 +96,7 @@
         }
     ],
     "wof:id":404547995,
-    "wof:lastmodified":1566602949,
+    "wof:lastmodified":1695877688,
     "wof:name":"North Beach",
     "wof:parent_id":102048573,
     "wof:placetype":"localadmin",

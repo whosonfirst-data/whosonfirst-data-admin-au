@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006423,
-    "geom:area_square_m":63621184.498493,
+    "geom:area_square_m":63621184.498505,
     "geom:bbox":"149.710208992,-36.8060389965,149.844311008,-36.722924546",
     "geom:latitude":-36.765102,
     "geom:longitude":149.781446,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.761496,
     "lbl:longitude":149.774912,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kanoona"
@@ -38,9 +44,12 @@
         102049439
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11205"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"394083f7b6e103a3fbe803b8af01736a",
+    "wof:geomhash":"7b23b87e8a4d948ee8ba46b49c1d7864",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404224135,
-    "wof:lastmodified":1566602570,
+    "wof:lastmodified":1695877458,
     "wof:name":"Kanoona",
     "wof:parent_id":102049439,
     "wof:placetype":"localadmin",

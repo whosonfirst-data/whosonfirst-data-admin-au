@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000356,
-    "geom:area_square_m":3732190.27511,
+    "geom:area_square_m":3732190.275107,
     "geom:bbox":"115.888891648,-32.0011690095,115.918302048,-31.976199134",
     "geom:latitude":-31.988943,
     "geom:longitude":115.903879,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.988534,
     "lbl:longitude":115.903655,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "East Victoria Park"
@@ -39,12 +45,15 @@
         102048663
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50243"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937143
     ],
     "wof:country":"AU",
-    "wof:geomhash":"cf2c9fa7ba3d53a63b9dc3bb0dee566b",
+    "wof:geomhash":"7967318b9b59e1821ea0c6c33bf8dae2",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404547229,
-    "wof:lastmodified":1566602925,
+    "wof:lastmodified":1695877675,
     "wof:name":"East Victoria Park",
     "wof:parent_id":102048663,
     "wof:placetype":"localadmin",

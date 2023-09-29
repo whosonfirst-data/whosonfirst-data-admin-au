@@ -10,6 +10,12 @@
     "geom:latitude":-12.496839,
     "geom:longitude":130.993435,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-12.496896,
     "lbl:longitude":130.993435,
     "lbl:max_zoom":18.0,
@@ -85,13 +91,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC70018",
         "wd:id":"Q4849343"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938375
     ],
     "wof:country":"AU",
-    "wof:geomhash":"bb8145f062f9ba1250e45121589a3c49",
+    "wof:geomhash":"700ecc93ad4da1a751831c3ec8a006d7",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -104,7 +112,7 @@
         }
     ],
     "wof:id":404549639,
-    "wof:lastmodified":1566602902,
+    "wof:lastmodified":1695878012,
     "wof:name":"Bakewell",
     "wof:parent_id":102048775,
     "wof:placetype":"localadmin",

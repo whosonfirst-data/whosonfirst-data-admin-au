@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001436,
-    "geom:area_square_m":14565778.317051,
+    "geom:area_square_m":14565778.317074,
     "geom:bbox":"150.535732448,-34.9066089945,150.592319008,-34.8645369975",
     "geom:latitude":-34.886716,
     "geom:longitude":150.564972,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.887675,
     "lbl:longitude":150.564977,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mundamia"
@@ -38,9 +44,12 @@
         102049405
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11653"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"83171100316ad26c16716d16f0da6290",
+    "wof:geomhash":"36de686cbb1863d9f9df3329e27d34c8",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404225143,
-    "wof:lastmodified":1566602695,
+    "wof:lastmodified":1695877526,
     "wof:name":"Mundamia",
     "wof:parent_id":102049405,
     "wof:placetype":"localadmin",

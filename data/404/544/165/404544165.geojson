@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.014843,
-    "geom:area_square_m":11085181372.634212,
+    "geom:area_square_m":11085181372.633698,
     "geom:bbox":"147.6367248,-28.557857009,149.495520992,-27.570552006",
     "geom:latitude":-27.947632,
     "geom:longitude":148.609858,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.015006,
     "lbl:longitude":148.532647,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "St George"
@@ -41,9 +47,12 @@
         102049509
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31525"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"43fef9aa0ff2c1326fb2f71f7593e9c3",
+    "wof:geomhash":"6ecf72966e5a2019dd253a0a1db43090",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404544165,
-    "wof:lastmodified":1566602179,
+    "wof:lastmodified":1695877233,
     "wof:name":"St George",
     "wof:parent_id":102049509,
     "wof:placetype":"localadmin",

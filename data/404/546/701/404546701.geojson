@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000081,
-    "geom:area_square_m":852169.671782,
+    "geom:area_square_m":852148.166286,
     "geom:bbox":"115.808586,-32.03639,115.824271,-32.029214",
     "geom:latitude":-32.033369,
     "geom:longitude":115.816745,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.033497,
     "lbl:longitude":115.816894,
     "lbl:max_zoom":18.0,
@@ -55,13 +61,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC50006",
         "wd:id":"Q4722488"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101936819
     ],
     "wof:country":"AU",
-    "wof:geomhash":"826d0ef4e128c7bd73689898b0ab3285",
+    "wof:geomhash":"32a5c37ca16f4ae324b20b33972a710c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -74,7 +82,7 @@
         }
     ],
     "wof:id":404546701,
-    "wof:lastmodified":1690853817,
+    "wof:lastmodified":1695878037,
     "wof:name":"Alfred Cove",
     "wof:parent_id":102048851,
     "wof:placetype":"localadmin",

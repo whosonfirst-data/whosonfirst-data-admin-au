@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000887,
-    "geom:area_square_m":10437556.631212,
+    "geom:area_square_m":10437556.631207,
     "geom:bbox":"122.17533104,-18.0088748285,122.231076736,-17.9636322645",
     "geom:latitude":-17.982976,
     "geom:longitude":122.202371,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-17.982177,
     "lbl:longitude":122.20196,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Minyirr"
@@ -38,12 +44,15 @@
         102048717
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50507"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937513
     ],
     "wof:country":"AU",
-    "wof:geomhash":"b82fee144a2eaac26c56cb1a789520d1",
+    "wof:geomhash":"ce0262cdd18b0d54b990a1df54803b0d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404547823,
-    "wof:lastmodified":1566602958,
+    "wof:lastmodified":1695877693,
     "wof:name":"Minyirr",
     "wof:parent_id":102048717,
     "wof:placetype":"localadmin",

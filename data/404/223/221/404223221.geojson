@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006337,
-    "geom:area_square_m":65439329.713512,
+    "geom:area_square_m":65439329.713479,
     "geom:bbox":"149.483856544,-33.4166643935,149.60232176,-33.317998991",
     "geom:latitude":-33.365407,
     "geom:longitude":149.551829,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.356044,
     "lbl:longitude":149.562584,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Eglinton"
@@ -62,9 +68,12 @@
         102049305
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10798"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"d02ea9d61edbbec8c97e519cdf322bbe",
+    "wof:geomhash":"ab7860abae08d9434727592c263d5d62",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -76,7 +85,7 @@
         }
     ],
     "wof:id":404223221,
-    "wof:lastmodified":1566602506,
+    "wof:lastmodified":1695877417,
     "wof:name":"Eglinton",
     "wof:parent_id":102049305,
     "wof:placetype":"localadmin",

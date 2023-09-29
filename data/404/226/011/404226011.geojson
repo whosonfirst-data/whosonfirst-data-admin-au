@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000223,
-    "geom:area_square_m":2312016.484865,
+    "geom:area_square_m":2312016.484912,
     "geom:bbox":"151.695864,-32.8832828275,151.716850016,-32.854046667",
     "geom:latitude":-32.867979,
     "geom:longitude":151.705469,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.870118,
     "lbl:longitude":151.705629,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sandgate"
@@ -54,12 +60,15 @@
         102048981
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12038"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931803
     ],
     "wof:country":"AU",
-    "wof:geomhash":"39dfe4246741197ed853de3d76c5895b",
+    "wof:geomhash":"5ca3d22a99be8e11cf6af32cba08e600",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -72,7 +81,7 @@
         }
     ],
     "wof:id":404226011,
-    "wof:lastmodified":1566602067,
+    "wof:lastmodified":1695877172,
     "wof:name":"Sandgate",
     "wof:parent_id":102048981,
     "wof:placetype":"localadmin",

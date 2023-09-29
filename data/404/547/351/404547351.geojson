@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000359,
-    "geom:area_square_m":3789194.779477,
+    "geom:area_square_m":3789194.779485,
     "geom:bbox":"116.816806816,-31.3111410985,116.842827584,-31.28446371",
     "geom:latitude":-31.296779,
     "geom:longitude":116.828819,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.296152,
     "lbl:longitude":116.830793,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Goomalling"
@@ -38,12 +44,15 @@
         102049321
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50297"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937223
     ],
     "wof:country":"AU",
-    "wof:geomhash":"59a6cb7cea738e0d8f41282637430783",
+    "wof:geomhash":"5bfb60366de4d955c5635fc341ba5e9d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404547351,
-    "wof:lastmodified":1566602953,
+    "wof:lastmodified":1695877690,
     "wof:name":"Goomalling",
     "wof:parent_id":102049321,
     "wof:placetype":"localadmin",

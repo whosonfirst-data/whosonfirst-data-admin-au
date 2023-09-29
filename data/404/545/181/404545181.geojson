@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.053102,
-    "geom:area_square_m":539615130.561781,
+    "geom:area_square_m":539615130.561596,
     "geom:bbox":"137.656756992,-34.895723576,137.873712704,-34.584311004",
     "geom:latitude":-34.733008,
     "geom:longitude":137.751156,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.733916,
     "lbl:longitude":137.753179,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Curramulka"
@@ -47,9 +53,12 @@
         102049327
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40148"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"78835f84c200c055c42cd7b0ad5a3366",
+    "wof:geomhash":"cb748fcbc809c83eab9304fd33c50e33",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":404545181,
-    "wof:lastmodified":1566602230,
+    "wof:lastmodified":1695877256,
     "wof:name":"Curramulka",
     "wof:parent_id":102049327,
     "wof:placetype":"localadmin",

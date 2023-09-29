@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.064217,
-    "geom:area_square_m":667506709.691394,
+    "geom:area_square_m":667506709.691369,
     "geom:bbox":"116.92371504,-32.8950816465,117.389767712,-32.698015891",
     "geom:latitude":-32.792672,
     "geom:longitude":117.149102,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.788859,
     "lbl:longitude":117.149259,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Cuballing"
@@ -38,9 +44,12 @@
         102048559
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50189"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"4ab7e12d4a972da9200b8a9f52f43488",
+    "wof:geomhash":"407fb92a762b4c3319aff76b306c10f8",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404547109,
-    "wof:lastmodified":1566602952,
+    "wof:lastmodified":1695877689,
     "wof:name":"Cuballing",
     "wof:parent_id":102048559,
     "wof:placetype":"localadmin",

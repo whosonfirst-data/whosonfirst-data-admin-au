@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013231,
-    "geom:area_square_m":142570387.321959,
+    "geom:area_square_m":142570387.322426,
     "geom:bbox":"153.019243136,-29.429323004,153.215114016,-29.312519665",
     "geom:latitude":-29.375232,
     "geom:longitude":153.110844,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-29.375014,
     "lbl:longitude":153.101281,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ashby Heights"
@@ -38,9 +44,12 @@
         102048835
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10061"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"11749517ba7f40f922ac78dc7b56d938",
+    "wof:geomhash":"9f85469b26b48c1efd6836d2193b4d77",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404221561,
-    "wof:lastmodified":1566601967,
+    "wof:lastmodified":1695877117,
     "wof:name":"Ashby Heights",
     "wof:parent_id":102048835,
     "wof:placetype":"localadmin",

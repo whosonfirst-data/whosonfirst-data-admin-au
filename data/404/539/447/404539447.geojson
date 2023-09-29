@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003643,
-    "geom:area_square_m":37255832.068719,
+    "geom:area_square_m":37255832.068686,
     "geom:bbox":"141.996987328,-34.273593995,142.058563104,-34.147347627",
     "geom:latitude":-34.208483,
     "geom:longitude":142.015766,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.21398,
     "lbl:longitude":142.018802,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Merbein South"
@@ -38,9 +44,12 @@
         102049611
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20876"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"72b97dd2fa2954db6f3715051b4c74fd",
+    "wof:geomhash":"0548338671db2048f7392aea6e492ff3",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404539447,
-    "wof:lastmodified":1566602359,
+    "wof:lastmodified":1695877330,
     "wof:name":"Merbein South",
     "wof:parent_id":102049611,
     "wof:placetype":"localadmin",

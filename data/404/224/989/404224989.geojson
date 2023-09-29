@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006432,
-    "geom:area_square_m":68182522.51783,
+    "geom:area_square_m":68182522.51803,
     "geom:bbox":"152.65999,-31.0553830015,152.755475008,-30.9304300055",
     "geom:latitude":-30.992683,
     "geom:longitude":152.708876,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-30.979007,
     "lbl:longitude":152.712139,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mooneba"
@@ -38,9 +44,12 @@
         102048527
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11584"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"19868261bb376c628a1ae4d9b4b255bc",
+    "wof:geomhash":"4ea5f6f7e0eb7a9091f17d8000a19980",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404224989,
-    "wof:lastmodified":1566602651,
+    "wof:lastmodified":1695877502,
     "wof:name":"Mooneba",
     "wof:parent_id":102048527,
     "wof:placetype":"localadmin",

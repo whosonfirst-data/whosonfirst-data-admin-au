@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":7.447135,
-    "geom:area_square_m":68489235810.184647,
+    "geom:area_square_m":68489235810.186462,
     "geom:bbox":"143.818591,-43.74293,148.503127,-39.192012",
     "geom:latitude":-41.941025,
     "geom:longitude":146.596302,
@@ -626,22 +626,28 @@
         101938127
     ],
     "wof:concordances":{
+        "ausstat:area_code":"6",
         "digitalenvoy:region_code":28388,
         "fips:code":"AS06",
         "gn:id":2147291,
         "gp:id":2344704,
         "hasc:id":"AU.TS",
+        "iso:code":"AU-TAS",
         "iso:id":"AU-TAS",
         "unlc:id":"AU-TAS",
         "wd:id":"Q34366"
     },
+    "wof:concordances_official":"ausstat:area_code",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"AU",
     "wof:geom_alt":[
         "ausstat",
         "quattroshapes",
         "ausstat-reversegeo"
     ],
-    "wof:geomhash":"005ad7ecd85f2a84f0c6d67ee6a4d33e",
+    "wof:geomhash":"1b26ad28af9b3d8b14a453cf11e197e8",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -657,7 +663,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690852088,
+    "wof:lastmodified":1695884714,
     "wof:name":"Tasmania",
     "wof:parent_id":85632793,
     "wof:placetype":"region",

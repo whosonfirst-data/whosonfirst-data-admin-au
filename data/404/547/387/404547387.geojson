@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003859,
-    "geom:area_square_m":45319321.27444,
+    "geom:area_square_m":45319320.810977,
     "geom:bbox":"127.628006,-18.248001,127.717215,-18.202516",
     "geom:latitude":-18.224985,
     "geom:longitude":127.673556,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-18.225263,
     "lbl:longitude":127.673556,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0647\u0648\u0644\u0632 \u0643\u0631\u064a\u0643"
@@ -92,12 +98,15 @@
         102049267
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50313"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937251
     ],
     "wof:country":"AU",
-    "wof:geomhash":"11462ed047922422bfa864ba4f187a39",
+    "wof:geomhash":"8d179452bfd0159c72141ca7bef0c41b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -109,7 +118,7 @@
         }
     ],
     "wof:id":404547387,
-    "wof:lastmodified":1636494668,
+    "wof:lastmodified":1695877878,
     "wof:name":"Halls Creek",
     "wof:parent_id":102049267,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.060844,
-    "geom:area_square_m":593085115.126716,
+    "geom:area_square_m":593085115.126881,
     "geom:bbox":"141.455822368,-38.0857000545,141.874665312,-37.8575864705",
     "geom:latitude":-37.971558,
     "geom:longitude":141.676245,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.98228,
     "lbl:longitude":141.676161,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Condah"
@@ -38,9 +44,12 @@
         102049579
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20326"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"e55ed3b773e6f449c2a6d86b91748b40",
+    "wof:geomhash":"6fb62e2d24f1967d451cd87f25bb4ec2",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404538221,
-    "wof:lastmodified":1566602435,
+    "wof:lastmodified":1695877377,
     "wof:name":"Condah",
     "wof:parent_id":102049579,
     "wof:placetype":"localadmin",

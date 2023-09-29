@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000502,
-    "geom:area_square_m":4880751.659072,
+    "geom:area_square_m":4880751.659063,
     "geom:bbox":"144.350082368,-38.193703702,144.382340896,-38.160257404",
     "geom:latitude":-38.177764,
     "geom:longitude":144.369834,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.176523,
     "lbl:longitude":144.370935,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Breakwater"
@@ -42,12 +48,15 @@
         102049571
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20174"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932643
     ],
     "wof:country":"AU",
-    "wof:geomhash":"212a3bc73c935e952728a91ae9d01025",
+    "wof:geomhash":"393c5bead2c368ea92809e715985d703",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -60,7 +69,7 @@
         }
     ],
     "wof:id":404537879,
-    "wof:lastmodified":1566602339,
+    "wof:lastmodified":1695877318,
     "wof:name":"Breakwater",
     "wof:parent_id":102049571,
     "wof:placetype":"localadmin",

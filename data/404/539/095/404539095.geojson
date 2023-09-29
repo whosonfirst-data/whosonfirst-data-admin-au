@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000258,
-    "geom:area_square_m":2527017.382467,
+    "geom:area_square_m":2527017.382464,
     "geom:bbox":"144.762397472,-37.741953867,144.782007488,-37.725557909",
     "geom:latitude":-37.733718,
     "geom:longitude":144.771969,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.733789,
     "lbl:longitude":144.771973,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kings Park"
@@ -57,12 +63,15 @@
         102049521
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20719"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101933133
     ],
     "wof:country":"AU",
-    "wof:geomhash":"aee76243700ec3f2b71bee1ebd9a180e",
+    "wof:geomhash":"8673fc0ff66c5069accbfa2a86500887",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -75,7 +84,7 @@
         }
     ],
     "wof:id":404539095,
-    "wof:lastmodified":1566602402,
+    "wof:lastmodified":1695877357,
     "wof:name":"Kings Park",
     "wof:parent_id":102049521,
     "wof:placetype":"localadmin",

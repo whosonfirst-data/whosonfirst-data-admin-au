@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007183,
-    "geom:area_square_m":78004174.97709,
+    "geom:area_square_m":78004174.976933,
     "geom:bbox":"153.207998016,-28.641597,153.394390016,-28.5157321205",
     "geom:latitude":-28.576806,
     "geom:longitude":153.319382,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.586606,
     "lbl:longitude":153.334866,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Whian Whian"
@@ -38,9 +44,12 @@
         102049635
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12489"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"c7010d95b69cfadcf5854021c7f68092",
+    "wof:geomhash":"258e30bf1450a4a4a08d3ab794bdb718",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404227025,
-    "wof:lastmodified":1566601940,
+    "wof:lastmodified":1695877103,
     "wof:name":"Whian Whian",
     "wof:parent_id":102049635,
     "wof:placetype":"localadmin",

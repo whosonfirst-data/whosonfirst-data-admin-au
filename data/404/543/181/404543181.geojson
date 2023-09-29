@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.119218,
-    "geom:area_square_m":1356986779.453562,
+    "geom:area_square_m":1356986779.453311,
     "geom:bbox":"149.9251752,-23.191761994,150.585369856,-22.832964003",
     "geom:latitude":-22.997963,
     "geom:longitude":150.27912,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-23.043483,
     "lbl:longitude":150.366377,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Milman"
@@ -65,9 +71,12 @@
         102048825
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31065"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"cf4e7053538efb700a943ba17f0b4faf",
+    "wof:geomhash":"737828321a7e871174c9928d8724723d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -79,7 +88,7 @@
         }
     ],
     "wof:id":404543181,
-    "wof:lastmodified":1566602117,
+    "wof:lastmodified":1695877200,
     "wof:name":"Milman",
     "wof:parent_id":102048825,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015259,
-    "geom:area_square_m":172978380.493666,
+    "geom:area_square_m":172978380.49361,
     "geom:bbox":"150.349970176,-23.619586001,150.532228,-23.428266031",
     "geom:latitude":-23.544131,
     "geom:longitude":150.463066,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-23.569501,
     "lbl:longitude":150.484442,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bouldercombe"
@@ -38,9 +44,12 @@
         102048825
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30210"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"b4722c5450eb125ac1fd5d4a50fd3c7b",
+    "wof:geomhash":"a70f5fd8c67930f46aa1b2017492e9a0",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404541379,
-    "wof:lastmodified":1566603064,
+    "wof:lastmodified":1695877751,
     "wof:name":"Bouldercombe",
     "wof:parent_id":102048825,
     "wof:placetype":"localadmin",

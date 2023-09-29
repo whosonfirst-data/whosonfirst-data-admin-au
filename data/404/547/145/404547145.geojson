@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000071,
-    "geom:area_square_m":730160.984458,
+    "geom:area_square_m":730160.984457,
     "geom:bbox":"115.75109008,-33.4026793185,115.763128992,-33.393847659",
     "geom:latitude":-33.398335,
     "geom:longitude":115.756778,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.398504,
     "lbl:longitude":115.756666,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Dardanup"
@@ -38,12 +44,15 @@
         102049295
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50206"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937091
     ],
     "wof:country":"AU",
-    "wof:geomhash":"f1cd33b1a748398cd6839a0754a351a0",
+    "wof:geomhash":"9743db127865da792e12dc1a2e3de134",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404547145,
-    "wof:lastmodified":1566602943,
+    "wof:lastmodified":1695877684,
     "wof:name":"Dardanup",
     "wof:parent_id":102049295,
     "wof:placetype":"localadmin",

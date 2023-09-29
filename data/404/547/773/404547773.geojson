@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019852,
-    "geom:area_square_m":206640422.677322,
+    "geom:area_square_m":206640422.677163,
     "geom:bbox":"115.876084992,-32.7915260465,116.002638816,-32.554501993",
     "geom:latitude":-32.667531,
     "geom:longitude":115.937053,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.670831,
     "lbl:longitude":115.924548,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Meelon"
@@ -39,9 +45,12 @@
         102049595
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50485"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"4431f77a583f2aa755f95e96da52df9c",
+    "wof:geomhash":"e56137a8bb378ed26003b0d8ef633934",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":404547773,
-    "wof:lastmodified":1566602975,
+    "wof:lastmodified":1695877704,
     "wof:name":"Meelon",
     "wof:parent_id":102049595,
     "wof:placetype":"localadmin",

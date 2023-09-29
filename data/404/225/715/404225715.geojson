@@ -10,12 +10,18 @@
     "geom:latitude":-33.863246,
     "geom:longitude":150.905207,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.863311,
     "lbl:longitude":150.903185,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Prairiewood"
@@ -39,12 +45,15 @@
         102049221
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11907"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931635
     ],
     "wof:country":"AU",
-    "wof:geomhash":"ac40658aad3f00b073c77fbf4346602f",
+    "wof:geomhash":"fe790c6c8e8dac754fafc19d0217f593",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404225715,
-    "wof:lastmodified":1566602695,
+    "wof:lastmodified":1695877526,
     "wof:name":"Prairiewood",
     "wof:parent_id":102049221,
     "wof:placetype":"localadmin",

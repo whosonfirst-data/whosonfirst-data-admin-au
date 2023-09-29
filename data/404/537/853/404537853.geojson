@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.11357,
-    "geom:area_square_m":1134785600.766719,
+    "geom:area_square_m":1134785600.766774,
     "geom:bbox":"143.475688448,-36.278249185,143.90293536,-35.905865312",
     "geom:latitude":-36.091748,
     "geom:longitude":143.698717,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.094355,
     "lbl:longitude":143.694639,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Boort"
@@ -44,9 +50,12 @@
         102049477
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20162"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"392eb402fb3cb2d5760601c0097a3395",
+    "wof:geomhash":"a2c0bb4655d60151dadaff9f1884e545",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404537853,
-    "wof:lastmodified":1566602343,
+    "wof:lastmodified":1695877320,
     "wof:name":"Boort",
     "wof:parent_id":102049477,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002909,
-    "geom:area_square_m":29469047.95783,
+    "geom:area_square_m":29469047.957923,
     "geom:bbox":"150.561731008,-35.035018993,150.629544,-34.953580994",
     "geom:latitude":-34.997788,
     "geom:longitude":150.593425,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.996217,
     "lbl:longitude":150.590096,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Falls Creek"
@@ -56,9 +62,12 @@
         102049405
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10869"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"95986916fd7af47250f2ab08290030d8",
+    "wof:geomhash":"0e9b9ec04101051e3a2bbf5cc5408836",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -70,7 +79,7 @@
         }
     ],
     "wof:id":404223379,
-    "wof:lastmodified":1566602520,
+    "wof:lastmodified":1695877425,
     "wof:name":"Falls Creek",
     "wof:parent_id":102049405,
     "wof:placetype":"localadmin",

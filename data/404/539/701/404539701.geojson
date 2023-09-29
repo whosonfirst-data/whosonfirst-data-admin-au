@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018981,
-    "geom:area_square_m":189735904.14542,
+    "geom:area_square_m":189735904.145426,
     "geom:bbox":"145.103974016,-36.1367350075,145.276407232,-35.984377351",
     "geom:latitude":-36.057495,
     "geom:longitude":145.195369,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.055764,
     "lbl:longitude":145.204012,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Nathalia"
@@ -38,9 +44,12 @@
         102048427
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20989"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"3de807038181da4df144bbfc5b7500e9",
+    "wof:geomhash":"220f07112020b4ad1aeba6ce31791ff3",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404539701,
-    "wof:lastmodified":1566602353,
+    "wof:lastmodified":1695877326,
     "wof:name":"Nathalia",
     "wof:parent_id":102048427,
     "wof:placetype":"localadmin",

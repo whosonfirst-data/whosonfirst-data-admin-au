@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000122,
-    "geom:area_square_m":1257978.502943,
+    "geom:area_square_m":1257978.502937,
     "geom:bbox":"151.297595008,-33.550008009,151.314979008,-33.5345096525",
     "geom:latitude":-33.542133,
     "geom:longitude":151.305582,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.541401,
     "lbl:longitude":151.305459,
     "lbl:max_zoom":18.0,
@@ -51,13 +57,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC11852",
         "wd:id":"Q7158041"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931565
     ],
     "wof:country":"AU",
-    "wof:geomhash":"97dc288901f451ee18568a55b8e1b376",
+    "wof:geomhash":"fa1c17c400ba1ce8bd82060fcac2d53c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -69,7 +77,7 @@
         }
     ],
     "wof:id":404225591,
-    "wof:lastmodified":1566602708,
+    "wof:lastmodified":1695877991,
     "wof:name":"Pearl Beach",
     "wof:parent_id":102048513,
     "wof:placetype":"localadmin",

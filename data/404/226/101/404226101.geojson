@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004567,
-    "geom:area_square_m":46861501.163157,
+    "geom:area_square_m":46861501.163198,
     "geom:bbox":"150.534872992,-33.9662830025,150.634264192,-33.8888519555",
     "geom:latitude":-33.928592,
     "geom:longitude":150.589879,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.928753,
     "lbl:longitude":150.595807,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Silverdale"
@@ -71,9 +77,12 @@
         102048943
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12078"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"92400840822b9541d9c3d0e25e430b1f",
+    "wof:geomhash":"8e5cc835280b5fb35de8949e9cb2492d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -85,7 +94,7 @@
         }
     ],
     "wof:id":404226101,
-    "wof:lastmodified":1566602060,
+    "wof:lastmodified":1695877167,
     "wof:name":"Silverdale",
     "wof:parent_id":102048943,
     "wof:placetype":"localadmin",

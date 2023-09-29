@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000165,
-    "geom:area_square_m":1909854.495041,
+    "geom:area_square_m":1909854.495038,
     "geom:bbox":"117.131285248,-20.6835537685,117.145466656,-20.666166747",
     "geom:latitude":-20.674733,
     "geom:longitude":117.139267,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-20.674229,
     "lbl:longitude":117.139126,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Wickham"
@@ -68,12 +74,15 @@
         102048511
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50840"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937957
     ],
     "wof:country":"AU",
-    "wof:geomhash":"e6966ae90837e2c91056219fb3fb431b",
+    "wof:geomhash":"b2f7b8217b917b8ee62f1867b56cb2ad",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -85,7 +94,7 @@
         }
     ],
     "wof:id":404548563,
-    "wof:lastmodified":1566603199,
+    "wof:lastmodified":1695877816,
     "wof:name":"Wickham",
     "wof:parent_id":102048511,
     "wof:placetype":"localadmin",

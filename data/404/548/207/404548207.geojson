@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001002,
-    "geom:area_square_m":10475464.035752,
+    "geom:area_square_m":10475464.035778,
     "geom:bbox":"115.710492992,-32.298843056,115.760471392,-32.2607269325",
     "geom:latitude":-32.284067,
     "geom:longitude":115.735397,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.285945,
     "lbl:longitude":115.735023,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Rockingham"
@@ -81,12 +87,15 @@
         102049377
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50681"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937731
     ],
     "wof:country":"AU",
-    "wof:geomhash":"133511522ac6a90232294cd3cb19e333",
+    "wof:geomhash":"ddb479f596fb32d96d70df69bcf02b6c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -99,7 +108,7 @@
         }
     ],
     "wof:id":404548207,
-    "wof:lastmodified":1566603216,
+    "wof:lastmodified":1695877824,
     "wof:name":"Rockingham",
     "wof:parent_id":102049377,
     "wof:placetype":"localadmin",

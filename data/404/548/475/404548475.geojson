@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.042891,
-    "geom:area_square_m":453512497.880023,
+    "geom:area_square_m":453512497.879913,
     "geom:bbox":"115.967344352,-31.4430626745,116.247451296,-31.088828171",
     "geom:latitude":-31.227348,
     "geom:longitude":116.108238,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.159877,
     "lbl:longitude":116.129412,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Wannamal"
@@ -38,9 +44,12 @@
         102048581
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50801"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"b4f36a2dc35401eb250408c6846cfbea",
+    "wof:geomhash":"2c668656667e051575c81b2fdda74ce3",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404548475,
-    "wof:lastmodified":1566603208,
+    "wof:lastmodified":1695877820,
     "wof:name":"Wannamal",
     "wof:parent_id":102048581,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016031,
-    "geom:area_square_m":164508592.927008,
+    "geom:area_square_m":164508592.92693,
     "geom:bbox":"138.618382016,-33.971892998,138.836972,-33.857418994",
     "geom:latitude":-33.910043,
     "geom:longitude":138.736622,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.903665,
     "lbl:longitude":138.738683,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mintaro"
@@ -38,9 +44,12 @@
         102048457
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40434"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"1f76a8ff3f6fc18ad0e68d4837ce2ee2",
+    "wof:geomhash":"3f978850b3de66cdb8e9f72ed0a6b069",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404545805,
-    "wof:lastmodified":1566602226,
+    "wof:lastmodified":1695877255,
     "wof:name":"Mintaro",
     "wof:parent_id":102048457,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000965,
-    "geom:area_square_m":10552894.419033,
+    "geom:area_square_m":10552894.419007,
     "geom:bbox":"152.962505504,-27.881719009,153.006081504,-27.8397519995",
     "geom:latitude":-27.862045,
     "geom:longitude":152.98552,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.863467,
     "lbl:longitude":152.989158,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Cedar Grove"
@@ -75,9 +81,12 @@
         102048665
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30344"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"b07453dc11acf92969c921a05feb8360",
+    "wof:geomhash":"ebf5270025f61c0b9abe99f2da59fd6f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -90,7 +99,7 @@
         }
     ],
     "wof:id":404541667,
-    "wof:lastmodified":1566603061,
+    "wof:lastmodified":1695877750,
     "wof:name":"Cedar Grove",
     "wof:parent_id":102048665,
     "wof:placetype":"localadmin",

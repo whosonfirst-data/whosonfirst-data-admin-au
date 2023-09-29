@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.051833,
-    "geom:area_square_m":520604946.72911,
+    "geom:area_square_m":520604946.729082,
     "geom:bbox":"137.12076288,-35.7774690035,137.60461584,-35.5779829855",
     "geom:latitude":-35.681439,
     "geom:longitude":137.343994,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.676298,
     "lbl:longitude":137.323971,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Menzies"
@@ -47,9 +53,12 @@
         102049105
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40423"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"df5920e73b66f2458a2af93155891ec0",
+    "wof:geomhash":"4291468253a0350c942a9fc2c86221de",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":404545781,
-    "wof:lastmodified":1566602252,
+    "wof:lastmodified":1695877266,
     "wof:name":"Menzies",
     "wof:parent_id":102049105,
     "wof:placetype":"localadmin",

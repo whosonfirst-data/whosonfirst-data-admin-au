@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00436,
-    "geom:area_square_m":47270070.051798,
+    "geom:area_square_m":47270070.051918,
     "geom:bbox":"152.90493264,-28.805328993,152.985359008,-28.710690837",
     "geom:latitude":-28.750534,
     "geom:longitude":152.946798,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.738189,
     "lbl:longitude":152.943453,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Stratheden"
@@ -41,9 +47,12 @@
         102049223
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12163"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"82e11f247014a016cec9de4c807381a0",
+    "wof:geomhash":"91bade27a4362c5d1d6abeaaafb0041e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404226291,
-    "wof:lastmodified":1566602076,
+    "wof:lastmodified":1695877178,
     "wof:name":"Stratheden",
     "wof:parent_id":102049223,
     "wof:placetype":"localadmin",

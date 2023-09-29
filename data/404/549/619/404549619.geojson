@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000716,
-    "geom:area_square_m":8612567.706789,
+    "geom:area_square_m":8612535.837486,
     "geom:bbox":"131.095878,-13.252832,131.128475,-13.218383",
     "geom:latitude":-13.236334,
     "geom:longitude":131.110764,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-13.23517,
     "lbl:longitude":131.108819,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:chv_x_preferred":[
         "\u0410\u0434\u0435\u043b\u0430\u0438\u0434\u0430"
@@ -83,12 +89,15 @@
         102048577
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC70002"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938349
     ],
     "wof:country":"AU",
-    "wof:geomhash":"5000e2b8017b88bcc0ff2eca14b5bcb1",
+    "wof:geomhash":"e6b73528180e02fb96165b502aa5f5fe",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -100,7 +109,7 @@
         }
     ],
     "wof:id":404549619,
-    "wof:lastmodified":1636494658,
+    "wof:lastmodified":1695877871,
     "wof:name":"Adelaide River",
     "wof:parent_id":102048577,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000135,
-    "geom:area_square_m":1523036.63263,
+    "geom:area_square_m":1523036.632625,
     "geom:bbox":"133.874632,-23.7077481765,133.886460448,-23.6867979995",
     "geom:latitude":-23.696965,
     "geom:longitude":133.88176,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-23.698651,
     "lbl:longitude":133.882345,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Alice Springs"
@@ -210,12 +216,15 @@
         102048753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC70005"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938353
     ],
     "wof:country":"AU",
-    "wof:geomhash":"406be27ac3b8617704a758aa4be174e2",
+    "wof:geomhash":"1d6cff4e62df05571f9a879a510c05c9",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -228,7 +237,7 @@
         }
     ],
     "wof:id":404549623,
-    "wof:lastmodified":1566602882,
+    "wof:lastmodified":1695877646,
     "wof:name":"Alice Springs",
     "wof:parent_id":102048753,
     "wof:placetype":"localadmin",

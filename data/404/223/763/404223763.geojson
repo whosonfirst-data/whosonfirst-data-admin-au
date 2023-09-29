@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000157,
-    "geom:area_square_m":1609412.221363,
+    "geom:area_square_m":1609412.22136,
     "geom:bbox":"150.955120448,-33.8556760165,150.972944768,-33.8408419765",
     "geom:latitude":-33.849387,
     "geom:longitude":150.964759,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.849416,
     "lbl:longitude":150.965469,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Guildford West"
@@ -39,12 +45,15 @@
         102048495
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11039"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101930561
     ],
     "wof:country":"AU",
-    "wof:geomhash":"751a77b0bf0a59dbf8af1b4ff53ca533",
+    "wof:geomhash":"109e0cbf77a871bf8c2da1836380ff7a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404223763,
-    "wof:lastmodified":1566602487,
+    "wof:lastmodified":1695877406,
     "wof:name":"Guildford West",
     "wof:parent_id":102048495,
     "wof:placetype":"localadmin",

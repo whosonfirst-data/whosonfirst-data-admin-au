@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.10246,
-    "geom:area_square_m":1081256420.88155,
+    "geom:area_square_m":1081256420.883054,
     "geom:bbox":"148.594756224,-31.6624641275,149.139096224,-31.248715679",
     "geom:latitude":-31.411659,
     "geom:longitude":148.883362,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.358603,
     "lbl:longitude":148.865117,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Tooraweenah"
@@ -50,9 +56,12 @@
         102048991
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12294"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"c217a42682a15fc63733c400e73857f5",
+    "wof:geomhash":"f064fc11056b474d1c53031dd13eeefd",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":404226587,
-    "wof:lastmodified":1566602049,
+    "wof:lastmodified":1695877161,
     "wof:name":"Tooraweenah",
     "wof:parent_id":102048991,
     "wof:placetype":"localadmin",

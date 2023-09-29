@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008769,
-    "geom:area_square_m":87001289.236536,
+    "geom:area_square_m":87001289.236568,
     "geom:bbox":"149.617976,-36.701719994,149.763363008,-36.570955001",
     "geom:latitude":-36.641745,
     "geom:longitude":149.695085,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.641025,
     "lbl:longitude":149.708239,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Numbugga"
@@ -38,9 +44,12 @@
         102049439
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11781"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"2971d79cdf89d539dda67f4681f0a69e",
+    "wof:geomhash":"4c3b5bf12a8cb8e6372ee769f1a82aee",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404225431,
-    "wof:lastmodified":1566602686,
+    "wof:lastmodified":1695877522,
     "wof:name":"Numbugga",
     "wof:parent_id":102049439,
     "wof:placetype":"localadmin",

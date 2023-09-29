@@ -10,12 +10,18 @@
     "geom:latitude":-33.476829,
     "geom:longitude":150.14317,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.476794,
     "lbl:longitude":150.14317,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Hermitage Flat"
@@ -38,12 +44,15 @@
         102049125
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11101"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101930695
     ],
     "wof:country":"AU",
-    "wof:geomhash":"420d195c1a8480aa421332467cc24802",
+    "wof:geomhash":"7f842e665e3f7597c251262ba0d5514c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404223901,
-    "wof:lastmodified":1566602492,
+    "wof:lastmodified":1695877409,
     "wof:name":"Hermitage Flat",
     "wof:parent_id":102049125,
     "wof:placetype":"localadmin",

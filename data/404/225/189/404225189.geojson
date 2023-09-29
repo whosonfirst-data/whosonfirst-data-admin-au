@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001435,
-    "geom:area_square_m":14302079.144912,
+    "geom:area_square_m":14302079.144941,
     "geom:bbox":"150.081430016,-36.3275140005,150.13978,-36.2593590015",
     "geom:latitude":-36.287847,
     "geom:longitude":150.111003,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.281432,
     "lbl:longitude":150.098436,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mystery Bay"
@@ -38,12 +44,15 @@
         102049609
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11673"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931357
     ],
     "wof:country":"AU",
-    "wof:geomhash":"6f40944126ea2cbca35d59d4bd1b5b68",
+    "wof:geomhash":"185c4d9072013f5c499b73012f6407b6",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404225189,
-    "wof:lastmodified":1566602692,
+    "wof:lastmodified":1695877525,
     "wof:name":"Mystery Bay",
     "wof:parent_id":102049609,
     "wof:placetype":"localadmin",

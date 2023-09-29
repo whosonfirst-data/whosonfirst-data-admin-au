@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001655,
-    "geom:area_square_m":17945143.73513,
+    "geom:area_square_m":17945143.735082,
     "geom:bbox":"153.571114016,-28.745678444,153.622687008,-28.689543006",
     "geom:latitude":-28.716186,
     "geom:longitude":153.597392,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.716027,
     "lbl:longitude":153.597752,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Broken Head"
@@ -38,9 +44,12 @@
         102048747
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10348"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"4797f95a807c18f250a70c4708be789d",
+    "wof:geomhash":"33b0b4019070734cef1942555fbaa434",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404222207,
-    "wof:lastmodified":1566602801,
+    "wof:lastmodified":1695877593,
     "wof:name":"Broken Head",
     "wof:parent_id":102048747,
     "wof:placetype":"localadmin",

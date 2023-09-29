@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025292,
-    "geom:area_square_m":269476587.672412,
+    "geom:area_square_m":269476587.672457,
     "geom:bbox":"149.632358016,-30.6492691145,149.848884,-30.3879740045",
     "geom:latitude":-30.497708,
     "geom:longitude":149.739427,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-30.440374,
     "lbl:longitude":149.764764,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Jacks Creek"
@@ -38,9 +44,12 @@
         102049269
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11163"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"c4de30e6496465f9ffc9b20fe70b02b1",
+    "wof:geomhash":"263c24d9661454e7c5c870cfc83599cf",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404224041,
-    "wof:lastmodified":1566602583,
+    "wof:lastmodified":1695877464,
     "wof:name":"Jacks Creek",
     "wof:parent_id":102049269,
     "wof:placetype":"localadmin",

@@ -10,6 +10,12 @@
     "geom:latitude":-42.809124,
     "geom:longitude":147.2448,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-42.809947,
     "lbl:longitude":147.245906,
     "lbl:max_zoom":18.0,
@@ -78,13 +84,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC60054",
         "wd:id":"Q5097245"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938049
     ],
     "wof:country":"AU",
-    "wof:geomhash":"677e2d11c1ad9171a725d2d81716a673",
+    "wof:geomhash":"86c4753b7fca221fa594f8bc2a4040ce",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -96,7 +104,7 @@
         }
     ],
     "wof:id":404548791,
-    "wof:lastmodified":1566603162,
+    "wof:lastmodified":1695878046,
     "wof:name":"Chigwell",
     "wof:parent_id":102048933,
     "wof:placetype":"localadmin",

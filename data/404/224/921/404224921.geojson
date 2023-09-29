@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000582,
-    "geom:area_square_m":5963260.580955,
+    "geom:area_square_m":5963260.58093,
     "geom:bbox":"150.855603008,-34.047217968,150.894639296,-34.0199749975",
     "geom:latitude":-34.034543,
     "geom:longitude":150.874407,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.03317,
     "lbl:longitude":150.874108,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Minto Heights"
@@ -38,12 +44,15 @@
         102048887
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11554"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931249
     ],
     "wof:country":"AU",
-    "wof:geomhash":"c18376c4fe9d957fb7307e9722ab960c",
+    "wof:geomhash":"653d2d3ee7ee183fe78cff4bdd20d30e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404224921,
-    "wof:lastmodified":1566602653,
+    "wof:lastmodified":1695877503,
     "wof:name":"Minto Heights",
     "wof:parent_id":102048887,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004493,
-    "geom:area_square_m":44847564.708096,
+    "geom:area_square_m":44847564.708088,
     "geom:bbox":"146.773952224,-36.1992419935,146.873203008,-36.1351157765",
     "geom:latitude":-36.167107,
     "geom:longitude":146.82258,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.1684,
     "lbl:longitude":146.821642,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Huon Creek"
@@ -39,9 +45,12 @@
         102049665
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20648"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"1484f3755a982361d68b34fed693de29",
+    "wof:geomhash":"aaa3bbdb8e3a53122222967d52c2c27f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":404538935,
-    "wof:lastmodified":1566602458,
+    "wof:lastmodified":1695877390,
     "wof:name":"Huon Creek",
     "wof:parent_id":102049665,
     "wof:placetype":"localadmin",

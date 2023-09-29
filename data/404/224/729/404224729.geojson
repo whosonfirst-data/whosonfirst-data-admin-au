@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011881,
-    "geom:area_square_m":124937499.668622,
+    "geom:area_square_m":124937499.66918,
     "geom:bbox":"152.281065952,-31.8336450345,152.393920928,-31.649834566",
     "geom:latitude":-31.7424,
     "geom:longitude":152.338909,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.751421,
     "lbl:longitude":152.338066,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Marlee"
@@ -38,9 +44,12 @@
         102048833
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11469"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"86dd6252257b8deee58cedf9e8e8744a",
+    "wof:geomhash":"6bb6cd1efe8a8c9da4b9c867e1c81590",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404224729,
-    "wof:lastmodified":1566602656,
+    "wof:lastmodified":1695877504,
     "wof:name":"Marlee",
     "wof:parent_id":102048833,
     "wof:placetype":"localadmin",

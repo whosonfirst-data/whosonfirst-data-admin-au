@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00008,
-    "geom:area_square_m":819019.037852,
+    "geom:area_square_m":819019.037864,
     "geom:bbox":"151.235124928,-33.8864467705,151.249116608,-33.871722084",
     "geom:latitude":-33.877823,
     "geom:longitude":151.243544,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.876562,
     "lbl:longitude":151.242267,
     "lbl:max_zoom":18.0,
@@ -274,13 +280,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC10726",
         "wd:id":"Q2918686"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101930111
     ],
     "wof:country":"AU",
-    "wof:geomhash":"2082eb2d3893b1e3b357435571b83964",
+    "wof:geomhash":"aba1158832456375440867ab0025f4c7",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -293,7 +301,7 @@
         }
     ],
     "wof:id":404223059,
-    "wof:lastmodified":1566602554,
+    "wof:lastmodified":1695877970,
     "wof:name":"Double Bay",
     "wof:parent_id":102049633,
     "wof:placetype":"localadmin",

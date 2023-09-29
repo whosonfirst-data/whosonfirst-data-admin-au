@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00517,
-    "geom:area_square_m":56413344.5611,
+    "geom:area_square_m":56413344.561047,
     "geom:bbox":"152.546756992,-28.1120429915,152.643503008,-28.014745997",
     "geom:latitude":-28.067366,
     "geom:longitude":152.599119,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.060596,
     "lbl:longitude":152.603132,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Alford"
@@ -50,9 +56,12 @@
         102048945
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31114"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"d50f1fed944872bb0742240011ce9e10",
+    "wof:geomhash":"1722191ba04f5fa205813e51482923fc",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":404543285,
-    "wof:lastmodified":1566602130,
+    "wof:lastmodified":1695877208,
     "wof:name":"Mount Alford",
     "wof:parent_id":102048945,
     "wof:placetype":"localadmin",

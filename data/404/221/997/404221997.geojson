@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.240783,
-    "geom:area_square_m":2468536637.431949,
+    "geom:area_square_m":2468536637.428887,
     "geom:bbox":"149.971885984,-34.3083359775,150.643035008,-33.6898771665",
     "geom:latitude":-33.992316,
     "geom:longitude":150.288698,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.980517,
     "lbl:longitude":150.260144,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "Parque Nacional d'os Monts Azuls"
@@ -77,9 +83,12 @@
         102048943
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10254"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"1feeb56de88506130f39e8cb65f67b7a",
+    "wof:geomhash":"34ea5015f6e2df9671908c0b0272e4d7",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -91,7 +100,7 @@
         }
     ],
     "wof:id":404221997,
-    "wof:lastmodified":1566601968,
+    "wof:lastmodified":1695877118,
     "wof:name":"Blue Mountains National Park",
     "wof:parent_id":102048943,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.07123,
-    "geom:area_square_m":715403682.077381,
+    "geom:area_square_m":715403682.076235,
     "geom:bbox":"149.206455008,-35.8651910085,149.52307104,-35.504764999",
     "geom:latitude":-35.683958,
     "geom:longitude":149.389819,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.682997,
     "lbl:longitude":149.392865,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Captains Flat"
@@ -56,9 +62,12 @@
         102048491
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10460"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"62615d8f44f34b1efb830a732e3a5ef9",
+    "wof:geomhash":"dd2c3a115329c0cec1eb9d08bc4b1801",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -70,7 +79,7 @@
         }
     ],
     "wof:id":404222459,
-    "wof:lastmodified":1566602807,
+    "wof:lastmodified":1695877596,
     "wof:name":"Captains Flat",
     "wof:parent_id":102048491,
     "wof:placetype":"localadmin",

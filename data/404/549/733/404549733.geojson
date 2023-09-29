@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001455,
-    "geom:area_square_m":17563591.887763,
+    "geom:area_square_m":17563591.887757,
     "geom:bbox":"130.856347744,-12.465749965,130.923599392,-12.4323309915",
     "geom:latitude":-12.448553,
     "geom:longitude":130.889332,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-12.450949,
     "lbl:longitude":130.899427,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Hidden Valley"
@@ -61,12 +67,15 @@
         85681533
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC70082"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938479
     ],
     "wof:country":"AU",
-    "wof:geomhash":"a2f770c1803c72989c9bbbc1f38942f6",
+    "wof:geomhash":"357d5f3e28319ae53f79a1a45140ddae",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -77,7 +86,7 @@
         }
     ],
     "wof:id":404549733,
-    "wof:lastmodified":1566602865,
+    "wof:lastmodified":1695877637,
     "wof:name":"Hidden Valley",
     "wof:parent_id":85681533,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027238,
-    "geom:area_square_m":309530409.216274,
+    "geom:area_square_m":309530409.216125,
     "geom:bbox":"150.186439008,-23.330218991,150.401814016,-23.1088700985",
     "geom:latitude":-23.217316,
     "geom:longitude":150.28702,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-23.201643,
     "lbl:longitude":150.294379,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ridgelands"
@@ -38,9 +44,12 @@
         102048825
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31400"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"f7e89c89661e94426945ee496db32cf0",
+    "wof:geomhash":"21be02bad74abde59620af4c7caecf79",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404543905,
-    "wof:lastmodified":1566602124,
+    "wof:lastmodified":1695877204,
     "wof:name":"Ridgelands",
     "wof:parent_id":102048825,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.059163,
-    "geom:area_square_m":601415382.991833,
+    "geom:area_square_m":601415382.99181,
     "geom:bbox":"146.848538528,-34.845471804,147.125251776,-34.5107279755",
     "geom:latitude":-34.704954,
     "geom:longitude":146.977312,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.703939,
     "lbl:longitude":146.975505,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Matong"
@@ -50,9 +56,12 @@
         102049103
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11490"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"b5a1b1df0922a900c12e8ff1fb693028",
+    "wof:geomhash":"481609bcd174a0575e1ff363ea1cf427",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":404224777,
-    "wof:lastmodified":1566602608,
+    "wof:lastmodified":1695877480,
     "wof:name":"Matong",
     "wof:parent_id":102049103,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.150218,
-    "geom:area_square_m":1491429384.799851,
+    "geom:area_square_m":1491429384.800409,
     "geom:bbox":"147.18837216,-36.803203002,147.802008992,-36.3981909935",
     "geom:latitude":-36.588529,
     "geom:longitude":147.50515,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.589059,
     "lbl:longitude":147.499398,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mitta Mitta"
@@ -41,9 +47,12 @@
         102048643
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20904"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"a6fe4f018f1429982104a83dd5bcec9e",
+    "wof:geomhash":"c3735a2810a3f390dc48ed36584a82f2",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404539509,
-    "wof:lastmodified":1566602390,
+    "wof:lastmodified":1695877349,
     "wof:name":"Mitta Mitta",
     "wof:parent_id":102048643,
     "wof:placetype":"localadmin",

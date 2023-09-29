@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001268,
-    "geom:area_square_m":13730601.904016,
+    "geom:area_square_m":13730601.903932,
     "geom:bbox":"153.498324992,-28.8763086645,153.558624352,-28.836838008",
     "geom:latitude":-28.855162,
     "geom:longitude":153.529332,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.854769,
     "lbl:longitude":153.532296,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "West Ballina"
@@ -38,12 +44,15 @@
         102049481
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12468"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932295
     ],
     "wof:country":"AU",
-    "wof:geomhash":"5108b5cf8bfccb0218c5c960166a27ae",
+    "wof:geomhash":"5a3b9c4227e70ce132080240f83ee322",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404226977,
-    "wof:lastmodified":1566602041,
+    "wof:lastmodified":1695877156,
     "wof:name":"West Ballina",
     "wof:parent_id":102049481,
     "wof:placetype":"localadmin",

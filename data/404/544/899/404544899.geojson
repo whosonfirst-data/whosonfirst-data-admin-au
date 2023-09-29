@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002383,
-    "geom:area_square_m":24302988.714183,
+    "geom:area_square_m":24302988.714216,
     "geom:bbox":"137.87422688,-34.480447971,137.94193472,-34.3961169975",
     "geom:latitude":-34.431878,
     "geom:longitude":137.90454,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.433946,
     "lbl:longitude":137.902229,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0410\u0440\u0434\u0440\u043e\u0441\u0430\u043d"
@@ -101,9 +107,12 @@
         102049327
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40019"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"fb5905450de40545545ccc4c97bb2d80",
+    "wof:geomhash":"b2d845fb72511e6847cfde74f201fab2",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -115,7 +124,7 @@
         }
     ],
     "wof:id":404544899,
-    "wof:lastmodified":1566602198,
+    "wof:lastmodified":1695877243,
     "wof:name":"Ardrossan",
     "wof:parent_id":102049327,
     "wof:placetype":"localadmin",

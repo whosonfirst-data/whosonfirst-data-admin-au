@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000228,
-    "geom:area_square_m":2204651.063707,
+    "geom:area_square_m":2204651.063701,
     "geom:bbox":"145.257638752,-38.4604578845,145.30249584,-38.4494930085",
     "geom:latitude":-38.453866,
     "geom:longitude":145.272692,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.454305,
     "lbl:longitude":145.264889,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Silverleaves"
@@ -38,12 +44,15 @@
         102049085
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21217"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101933519
     ],
     "wof:country":"AU",
-    "wof:geomhash":"a3d94f69f660c8604330b2c45abad788",
+    "wof:geomhash":"080a6cf8c4939d7ad1c09928143f6bd6",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404540207,
-    "wof:lastmodified":1566603027,
+    "wof:lastmodified":1695877734,
     "wof:name":"Silverleaves",
     "wof:parent_id":102049085,
     "wof:placetype":"localadmin",

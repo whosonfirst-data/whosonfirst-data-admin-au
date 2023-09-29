@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00302,
-    "geom:area_square_m":33128518.504357,
+    "geom:area_square_m":33128518.504312,
     "geom:bbox":"152.028757984,-27.5249180005,152.113483008,-27.4665670025",
     "geom:latitude":-27.497771,
     "geom:longitude":152.070337,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.500996,
     "lbl:longitude":152.071138,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Upper Lockyer"
@@ -38,9 +44,12 @@
         102049033
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31688"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"5797f64d081b9a6a8f68dc2b84d66d5f",
+    "wof:geomhash":"96256cc54cf793c306afc87257538ab0",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404544507,
-    "wof:lastmodified":1566602182,
+    "wof:lastmodified":1695877235,
     "wof:name":"Upper Lockyer",
     "wof:parent_id":102049033,
     "wof:placetype":"localadmin",

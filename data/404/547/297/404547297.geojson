@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001187,
-    "geom:area_square_m":12424084.053738,
+    "geom:area_square_m":12424084.053714,
     "geom:bbox":"115.658937792,-32.2461540015,115.700388192,-32.1183664725",
     "geom:latitude":-32.200727,
     "geom:longitude":115.676761,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.210496,
     "lbl:longitude":115.678324,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Garden Island"
@@ -54,12 +60,15 @@
         102049377
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50273"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937185
     ],
     "wof:country":"AU",
-    "wof:geomhash":"e31f02f4e0db1781742f5fc05ca729d8",
+    "wof:geomhash":"37649b797c85d4665f02612b21f216c4",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -72,7 +81,7 @@
         }
     ],
     "wof:id":404547297,
-    "wof:lastmodified":1566602969,
+    "wof:lastmodified":1695877700,
     "wof:name":"Garden Island",
     "wof:parent_id":102049377,
     "wof:placetype":"localadmin",

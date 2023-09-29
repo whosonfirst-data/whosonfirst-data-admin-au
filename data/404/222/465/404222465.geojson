@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.046596,
-    "geom:area_square_m":480164733.871023,
+    "geom:area_square_m":480164733.871158,
     "geom:bbox":"148.838868448,-33.6835729955,149.224875008,-33.44399424",
     "geom:latitude":-33.553089,
     "geom:longitude":149.048245,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.561445,
     "lbl:longitude":149.064322,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Carcoar"
@@ -38,9 +44,12 @@
         102049333
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10462"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"452083ac5b8c1fec25c6a3b9548aa484",
+    "wof:geomhash":"daaa1c199492b5ac89d291004fb0609f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404222465,
-    "wof:lastmodified":1566602770,
+    "wof:lastmodified":1695877573,
     "wof:name":"Carcoar",
     "wof:parent_id":102049333,
     "wof:placetype":"localadmin",

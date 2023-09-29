@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.041344,
-    "geom:area_square_m":383068249.42503,
+    "geom:area_square_m":383068249.425243,
     "geom:bbox":"147.222241568,-41.556178454,147.698695008,-41.3787009795",
     "geom:latitude":-41.469812,
     "geom:longitude":147.480165,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-41.461246,
     "lbl:longitude":147.496261,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "White Hills"
@@ -47,9 +53,12 @@
         102049411
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60404"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"3cdebffb654d7b0240818f236bbbbe12",
+    "wof:geomhash":"0c689f2963fbd97b1b0657281ee53447",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":404549579,
-    "wof:lastmodified":1566602915,
+    "wof:lastmodified":1695877670,
     "wof:name":"White Hills",
     "wof:parent_id":102049411,
     "wof:placetype":"localadmin",

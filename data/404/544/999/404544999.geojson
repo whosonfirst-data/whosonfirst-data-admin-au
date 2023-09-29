@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00263,
-    "geom:area_square_m":26608605.162341,
+    "geom:area_square_m":26608605.162308,
     "geom:bbox":"138.681991488,-35.121578199,138.751281824,-35.0494489745",
     "geom:latitude":-35.085612,
     "geom:longitude":138.711637,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.089678,
     "lbl:longitude":138.702491,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0411\u0440\u044d\u0434\u0431\u0435\u0440\u044b"
@@ -92,9 +98,12 @@
         102049017
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40065"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"c204eaeb9501f27a2d500fcbb615b893",
+    "wof:geomhash":"e72dd886a3bdf7b3e58c43db703fcaa0",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -106,7 +115,7 @@
         }
     ],
     "wof:id":404544999,
-    "wof:lastmodified":1566602153,
+    "wof:lastmodified":1695877219,
     "wof:name":"Bradbury",
     "wof:parent_id":102049017,
     "wof:placetype":"localadmin",

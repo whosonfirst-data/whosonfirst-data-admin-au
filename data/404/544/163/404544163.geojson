@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000562,
-    "geom:area_square_m":6162583.414348,
+    "geom:area_square_m":6162583.414339,
     "geom:bbox":"153.121685568,-27.635139983,153.152753088,-27.607895995",
     "geom:latitude":-27.620419,
     "geom:longitude":153.138324,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.620836,
     "lbl:longitude":153.138615,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Springwood"
@@ -54,12 +60,15 @@
         102048665
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31524"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935361
     ],
     "wof:country":"AU",
-    "wof:geomhash":"063d8a50c59ccbb0dcaf135d881bbbaa",
+    "wof:geomhash":"18dc2ea6476322ef8f5ca1f3a905fd76",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -72,7 +81,7 @@
         }
     ],
     "wof:id":404544163,
-    "wof:lastmodified":1566602182,
+    "wof:lastmodified":1695877235,
     "wof:name":"Springwood",
     "wof:parent_id":102048665,
     "wof:placetype":"localadmin",

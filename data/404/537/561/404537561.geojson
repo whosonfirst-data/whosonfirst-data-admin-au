@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000909,
-    "geom:area_square_m":8809558.266852,
+    "geom:area_square_m":8809558.266857,
     "geom:bbox":"144.94248,-38.3798290015,144.9785,-38.342961406",
     "geom:latitude":-38.36317,
     "geom:longitude":144.959765,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.360922,
     "lbl:longitude":144.955812,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Arthurs Seat"
@@ -38,12 +44,15 @@
         102048695
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20030"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932501
     ],
     "wof:country":"AU",
-    "wof:geomhash":"3f74fb40b8b1ed96bdc85767e950ff10",
+    "wof:geomhash":"e59f583fcf5140ce132e6931e52d4317",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404537561,
-    "wof:lastmodified":1566602321,
+    "wof:lastmodified":1695877306,
     "wof:name":"Arthurs Seat",
     "wof:parent_id":102048695,
     "wof:placetype":"localadmin",

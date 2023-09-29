@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00106,
-    "geom:area_square_m":11080365.489591,
+    "geom:area_square_m":11080365.489587,
     "geom:bbox":"115.951926624,-32.274145075,116.001959648,-32.2357190025",
     "geom:latitude":-32.250929,
     "geom:longitude":115.977599,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.25331,
     "lbl:longitude":115.98422,
     "lbl:max_zoom":18.0,
@@ -51,10 +57,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC50134",
         "wd:id":"Q21895169"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"be2e837a35d74ff15ab2c2f43c2d585d",
+    "wof:geomhash":"6cb1f2faea38599a7837110645568d26",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -66,7 +74,7 @@
         }
     ],
     "wof:id":404546989,
-    "wof:lastmodified":1566603152,
+    "wof:lastmodified":1695878045,
     "wof:name":"Cardup",
     "wof:parent_id":102049507,
     "wof:placetype":"localadmin",

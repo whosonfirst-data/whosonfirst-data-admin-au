@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000094,
-    "geom:area_square_m":973845.059416,
+    "geom:area_square_m":973845.059418,
     "geom:bbox":"151.594825376,-32.704625978,151.606326752,-32.6898236285",
     "geom:latitude":-32.697974,
     "geom:longitude":151.600858,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.696477,
     "lbl:longitude":151.600466,
     "lbl:max_zoom":18.0,
@@ -106,13 +112,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC11338",
         "wd:id":"Q6489301"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931007
     ],
     "wof:country":"AU",
-    "wof:geomhash":"f7d707d8b1b9d0f1aff87a4583629bef",
+    "wof:geomhash":"e327d26cb0f2ee4f6e2bfb3747120927",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -125,7 +133,7 @@
         }
     ],
     "wof:id":404224435,
-    "wof:lastmodified":1566602642,
+    "wof:lastmodified":1695877982,
     "wof:name":"Largs",
     "wof:parent_id":102048483,
     "wof:placetype":"localadmin",

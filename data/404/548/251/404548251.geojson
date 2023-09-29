@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001216,
-    "geom:area_square_m":12855299.483254,
+    "geom:area_square_m":12855299.483259,
     "geom:bbox":"115.430225248,-31.281207118,115.475108,-31.2493857305",
     "geom:latitude":-31.264512,
     "geom:longitude":115.45574,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.265357,
     "lbl:longitude":115.455747,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0637\u0627\u0626\u0631 \u0628\u062d\u0631\u064a"
@@ -158,12 +164,15 @@
         102049545
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50700"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937751
     ],
     "wof:country":"AU",
-    "wof:geomhash":"4e56490aedaf0e713395c613d99aca2c",
+    "wof:geomhash":"c7e0d56fb026c74f0fa7bb4d0e4fe063",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -175,7 +184,7 @@
         }
     ],
     "wof:id":404548251,
-    "wof:lastmodified":1566603183,
+    "wof:lastmodified":1695877807,
     "wof:name":"Seabird",
     "wof:parent_id":102049545,
     "wof:placetype":"localadmin",

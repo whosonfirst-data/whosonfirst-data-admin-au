@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000737,
-    "geom:area_square_m":7831273.826537,
+    "geom:area_square_m":7831273.826532,
     "geom:bbox":"121.467246848,-30.819457219,121.529249024,-30.784324424",
     "geom:latitude":-30.797384,
     "geom:longitude":121.501412,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-30.797935,
     "lbl:longitude":121.503988,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "South Boulder"
@@ -38,12 +44,15 @@
         102049523
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50715"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937779
     ],
     "wof:country":"AU",
-    "wof:geomhash":"9bc6cd4ff2df25d4e57dfdd6d2c8d379",
+    "wof:geomhash":"8801a2fa1f4a01d92d3121b99d0e4862",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404548285,
-    "wof:lastmodified":1566603210,
+    "wof:lastmodified":1695877821,
     "wof:name":"South Boulder",
     "wof:parent_id":102049523,
     "wof:placetype":"localadmin",

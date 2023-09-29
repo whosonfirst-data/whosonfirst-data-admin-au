@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.039229,
-    "geom:area_square_m":444230921.038655,
+    "geom:area_square_m":444230921.038439,
     "geom:bbox":"150.818110016,-23.864600001,151.183496192,-23.543602024",
     "geom:latitude":-23.678915,
     "geom:longitude":151.014693,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-23.649084,
     "lbl:longitude":151.002132,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Yarwun"
@@ -38,9 +44,12 @@
         102049463
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31845"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"cc65f2f10578881693367b154bd1c149",
+    "wof:geomhash":"5e4d61e4772ab4fe855e0ddbf3a150fd",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404544833,
-    "wof:lastmodified":1566602168,
+    "wof:lastmodified":1695877227,
     "wof:name":"Yarwun",
     "wof:parent_id":102049463,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022808,
-    "geom:area_square_m":248511418.138885,
+    "geom:area_square_m":248511418.140026,
     "geom:bbox":"153.007902464,-28.3578644055,153.208571008,-28.055843007",
     "geom:latitude":-28.217318,
     "geom:longitude":153.129827,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.21776,
     "lbl:longitude":153.148052,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Illinbah"
@@ -38,9 +44,12 @@
         102048945
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30790"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"ddecab6a863615faf90d1cb31330f46a",
+    "wof:geomhash":"a5fb13c259a6deade5f1f518441a6787",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404542599,
-    "wof:lastmodified":1566602291,
+    "wof:lastmodified":1695877287,
     "wof:name":"Illinbah",
     "wof:parent_id":102048945,
     "wof:placetype":"localadmin",

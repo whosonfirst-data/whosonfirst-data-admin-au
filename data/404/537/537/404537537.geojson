@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015472,
-    "geom:area_square_m":152416285.44329,
+    "geom:area_square_m":152416285.443308,
     "geom:bbox":"143.316547552,-37.269288006,143.506036992,-37.131323997",
     "geom:latitude":-37.187948,
     "geom:longitude":143.414816,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.188357,
     "lbl:longitude":143.422481,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0633\u0631\u062d \u0631\u0648\u0645\u0627\u0646\u064a"
@@ -218,9 +224,12 @@
         102049485
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20019"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"64ef1d4c6be05bd748d88478e4bf8dec",
+    "wof:geomhash":"4611a15e62afef933d0566d83db940bf",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -232,7 +241,7 @@
         }
     ],
     "wof:id":404537537,
-    "wof:lastmodified":1566602334,
+    "wof:lastmodified":1695877315,
     "wof:name":"Amphitheatre",
     "wof:parent_id":102049485,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003309,
-    "geom:area_square_m":36517568.997208,
+    "geom:area_square_m":36517568.997205,
     "geom:bbox":"152.76108384,-26.8360929965,152.842678016,-26.768100002",
     "geom:latitude":-26.800651,
     "geom:longitude":152.808501,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-26.801399,
     "lbl:longitude":152.80927,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Wootha"
@@ -39,9 +45,12 @@
         102049303
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31819"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"1dc6b09aa5171d1f05791d497a61d68f",
+    "wof:geomhash":"d0ce269b995720607ce1f59fa19681d9",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":404544779,
-    "wof:lastmodified":1566602177,
+    "wof:lastmodified":1695877232,
     "wof:name":"Wootha",
     "wof:parent_id":102049303,
     "wof:placetype":"localadmin",

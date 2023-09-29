@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014742,
-    "geom:area_square_m":143055538.497878,
+    "geom:area_square_m":143055538.497844,
     "geom:bbox":"143.552331008,-38.4064641545,143.750981792,-38.200851547",
     "geom:latitude":-38.298848,
     "geom:longitude":143.652868,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.302502,
     "lbl:longitude":143.646102,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Irrewarra"
@@ -38,9 +44,12 @@
         102049117
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20661"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"d9286fe4972e66c2e5b6ce9eb9372003",
+    "wof:geomhash":"b7b5c42c9aeb5671a9201623254ab888",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404538965,
-    "wof:lastmodified":1566602424,
+    "wof:lastmodified":1695877372,
     "wof:name":"Irrewarra",
     "wof:parent_id":102049117,
     "wof:placetype":"localadmin",

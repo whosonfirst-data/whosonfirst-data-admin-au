@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.117056,
-    "geom:area_square_m":1194950894.550489,
+    "geom:area_square_m":1194950894.550577,
     "geom:bbox":"146.385838336,-34.611985006,146.823028384,-34.1329836905",
     "geom:latitude":-34.35315,
     "geom:longitude":146.583391,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.354545,
     "lbl:longitude":146.583539,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Barellan"
@@ -56,9 +62,12 @@
         102049471
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10115"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"d6617681e957d03f063cc35ba03d3b2c",
+    "wof:geomhash":"6ea0139400e4b0b208608802c6d7b744",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -70,7 +79,7 @@
         }
     ],
     "wof:id":404221683,
-    "wof:lastmodified":1566601999,
+    "wof:lastmodified":1695877132,
     "wof:name":"Barellan",
     "wof:parent_id":102049471,
     "wof:placetype":"localadmin",

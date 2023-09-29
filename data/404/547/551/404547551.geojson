@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000065,
-    "geom:area_square_m":752228.432574,
+    "geom:area_square_m":752247.066035,
     "geom:bbox":"116.838998,-20.738582,116.850802,-20.729762",
     "geom:latitude":-20.734474,
     "geom:longitude":116.844653,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-20.734043,
     "lbl:longitude":116.844765,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Karratha"
@@ -41,12 +47,15 @@
         102048511
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50386"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937351
     ],
     "wof:country":"AU",
-    "wof:geomhash":"59b9937e80c884fe5d6b50bc0fa5b3d1",
+    "wof:geomhash":"861f1674b4470f881e3ba9970f84636a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404547551,
-    "wof:lastmodified":1636494663,
+    "wof:lastmodified":1695877875,
     "wof:name":"Karratha",
     "wof:parent_id":102048511,
     "wof:placetype":"localadmin",

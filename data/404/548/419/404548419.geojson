@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.054097,
-    "geom:area_square_m":556317113.264802,
+    "geom:area_square_m":556317113.264692,
     "geom:bbox":"115.386307008,-33.8120734035,115.766938432,-33.609745434",
     "geom:latitude":-33.729109,
     "geom:longitude":115.578207,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.734182,
     "lbl:longitude":115.574554,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tutunup"
@@ -39,9 +45,12 @@
         102048623
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50776"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"73794a754e80f4dfa94843e884fdfe28",
+    "wof:geomhash":"be98753b5abe7bc784b19948475e9410",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":404548419,
-    "wof:lastmodified":1566603204,
+    "wof:lastmodified":1695877818,
     "wof:name":"Tutunup",
     "wof:parent_id":102048623,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.048695,
-    "geom:area_square_m":509418111.331636,
+    "geom:area_square_m":509418111.332329,
     "geom:bbox":"148.927287968,-32.3451000675,149.225780992,-32.08697188",
     "geom:latitude":-32.216109,
     "geom:longitude":149.082789,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.209052,
     "lbl:longitude":149.07997,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Gollan"
@@ -38,9 +44,12 @@
         102049591
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10987"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"bb95d26e33aded6092390dc629a014c6",
+    "wof:geomhash":"3c78d3e10576bd3c657d41ebb8c17489",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404223645,
-    "wof:lastmodified":1566602505,
+    "wof:lastmodified":1695877417,
     "wof:name":"Gollan",
     "wof:parent_id":102049591,
     "wof:placetype":"localadmin",

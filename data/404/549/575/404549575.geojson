@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000478,
-    "geom:area_square_m":4313929.114058,
+    "geom:area_square_m":4313929.11406,
     "geom:bbox":"147.696773,-43.136648,147.750064,-43.100113",
     "geom:latitude":-43.119304,
     "geom:longitude":147.725119,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-43.105043,
     "lbl:longitude":147.729171,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "White Beach"
@@ -31,19 +37,22 @@
     "qs:source":"Australian Bureau Of Statistics",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681583,
         102191583,
         85632793,
-        102048661,
         136253039,
-        85681583
+        102048661
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60403"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938337
     ],
     "wof:country":"AU",
-    "wof:geomhash":"c0b54ad873e08719b7b0d1d0a73d2921",
+    "wof:geomhash":"89ac0dd65c60dc9cffc0b99d6a180044",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404549575,
-    "wof:lastmodified":1607987620,
+    "wof:lastmodified":1695877840,
     "wof:name":"White Beach",
     "wof:parent_id":102048661,
     "wof:placetype":"localadmin",

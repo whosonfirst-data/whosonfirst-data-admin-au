@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.063038,
-    "geom:area_square_m":599053022.533546,
+    "geom:area_square_m":599053022.535075,
     "geom:bbox":"143.81892272,-40.0065019965,144.110182112,-39.579251952",
     "geom:latitude":-39.777381,
     "geom:longitude":143.9588,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-39.76083,
     "lbl:longitude":143.945494,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Currie"
@@ -53,9 +59,12 @@
         102048637
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60073"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"d654d051f7840c2c2df7e53d2b9a1a5f",
+    "wof:geomhash":"947567108c0373171e910556a2113b81",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -67,7 +76,7 @@
         }
     ],
     "wof:id":404548833,
-    "wof:lastmodified":1566603184,
+    "wof:lastmodified":1695877807,
     "wof:name":"Currie",
     "wof:parent_id":102048637,
     "wof:placetype":"localadmin",

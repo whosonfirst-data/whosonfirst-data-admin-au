@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004034,
-    "geom:area_square_m":41864765.042733,
+    "geom:area_square_m":41864765.042627,
     "geom:bbox":"151.430238016,-32.9735449935,151.537693952,-32.8844350075",
     "geom:latitude":-32.932249,
     "geom:longitude":151.48979,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.935503,
     "lbl:longitude":151.49059,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mount Vincent"
@@ -38,9 +44,12 @@
         102048575
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11635"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"ebb51e00407047a7d5f9ceeeee3e5e5f",
+    "wof:geomhash":"4e7e080685bca9cf64b6a625d46a6a2b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404225103,
-    "wof:lastmodified":1566602660,
+    "wof:lastmodified":1695877507,
     "wof:name":"Mount Vincent",
     "wof:parent_id":102048575,
     "wof:placetype":"localadmin",

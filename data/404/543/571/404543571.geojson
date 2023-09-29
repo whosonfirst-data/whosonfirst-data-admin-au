@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001872,
-    "geom:area_square_m":20480974.731066,
+    "geom:area_square_m":20480974.731072,
     "geom:bbox":"152.962642016,-27.7890940045,153.032703008,-27.7439619595",
     "geom:latitude":-27.767093,
     "geom:longitude":152.996633,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.766564,
     "lbl:longitude":152.995972,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "North Maclean"
@@ -39,9 +45,12 @@
         102048665
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31245"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"2e22e6b75da0f485b8da88c8b5ce9385",
+    "wof:geomhash":"5e25c03346ca6deaf2e18b47a5b012af",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":404543571,
-    "wof:lastmodified":1566602139,
+    "wof:lastmodified":1695877212,
     "wof:name":"North Maclean",
     "wof:parent_id":102048665,
     "wof:placetype":"localadmin",

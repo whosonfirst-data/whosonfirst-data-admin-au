@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00319,
-    "geom:area_square_m":31602864.887642,
+    "geom:area_square_m":31602864.887694,
     "geom:bbox":"149.857948,-36.7886674965,149.940014944,-36.7039880015",
     "geom:latitude":-36.745857,
     "geom:longitude":149.89659,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.738324,
     "lbl:longitude":149.886962,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Jellat Jellat"
@@ -38,9 +44,12 @@
         102049439
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11170"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"5e93870c09c912f3ae73d24192d6a5f2",
+    "wof:geomhash":"43ab1458da36f5d791dd07014fe11079",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404224057,
-    "wof:lastmodified":1566602639,
+    "wof:lastmodified":1695877496,
     "wof:name":"Jellat Jellat",
     "wof:parent_id":102049439,
     "wof:placetype":"localadmin",

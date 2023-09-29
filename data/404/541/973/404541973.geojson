@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000846,
-    "geom:area_square_m":9349423.228274,
+    "geom:area_square_m":9349423.228254,
     "geom:bbox":"152.988252,-26.6548240025,153.058590208,-26.6336250005",
     "geom:latitude":-26.643565,
     "geom:longitude":153.024886,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-26.64283,
     "lbl:longitude":153.040055,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Diddillibah"
@@ -39,9 +45,12 @@
         102049303
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30493"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"56071853f3d09bb9e128c278980aeff2",
+    "wof:geomhash":"098da681e49b4291d8bc2abf40519385",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":404541973,
-    "wof:lastmodified":1566603095,
+    "wof:lastmodified":1695877768,
     "wof:name":"Diddillibah",
     "wof:parent_id":102049303,
     "wof:placetype":"localadmin",

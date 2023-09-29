@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005525,
-    "geom:area_square_m":62581836.682742,
+    "geom:area_square_m":62581836.68281,
     "geom:bbox":"150.38914784,-23.6963069995,150.496482464,-23.5927602795",
     "geom:latitude":-23.639465,
     "geom:longitude":150.434557,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-23.628843,
     "lbl:longitude":150.426433,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Struck Oil"
@@ -38,9 +44,12 @@
         102048825
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31547"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"eb67a998dd0445bc1698731de907536e",
+    "wof:geomhash":"efa3b8afb6c1d061e34869da844b91e6",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404544207,
-    "wof:lastmodified":1566602194,
+    "wof:lastmodified":1695877241,
     "wof:name":"Struck Oil",
     "wof:parent_id":102048825,
     "wof:placetype":"localadmin",

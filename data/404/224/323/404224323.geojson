@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005738,
-    "geom:area_square_m":60147660.684086,
+    "geom:area_square_m":60147660.684059,
     "geom:bbox":"152.188337888,-32.084598996,152.329121984,-32.0057349945",
     "geom:latitude":-32.038529,
     "geom:longitude":152.263684,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.037421,
     "lbl:longitude":152.269547,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Krambach"
@@ -38,9 +44,12 @@
         102048833
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11288"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"259d9921b06ec924dfa142214c69be41",
+    "wof:geomhash":"4c7157e86b2c3e134e6bebb51c072a78",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404224323,
-    "wof:lastmodified":1566602603,
+    "wof:lastmodified":1695877477,
     "wof:name":"Krambach",
     "wof:parent_id":102048833,
     "wof:placetype":"localadmin",

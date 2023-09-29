@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006881,
-    "geom:area_square_m":73136133.703844,
+    "geom:area_square_m":73136133.703995,
     "geom:bbox":"152.719751136,-30.7841186115,152.861683008,-30.68334876",
     "geom:latitude":-30.732156,
     "geom:longitude":152.791178,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-30.71823,
     "lbl:longitude":152.780359,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Yarranbella"
@@ -38,9 +44,12 @@
         102049433
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12599"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"8c6d7accca9393d9b140d8f0c888d4c6",
+    "wof:geomhash":"c96135133f8bfa63059d9b84cbed6e45",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404227273,
-    "wof:lastmodified":1566601938,
+    "wof:lastmodified":1695877103,
     "wof:name":"Yarranbella",
     "wof:parent_id":102049433,
     "wof:placetype":"localadmin",

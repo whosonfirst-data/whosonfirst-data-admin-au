@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002829,
-    "geom:area_square_m":31472455.980164,
+    "geom:area_square_m":31472455.980176,
     "geom:bbox":"153.036284032,-25.930820675,153.098611712,-25.807995993",
     "geom:latitude":-25.873098,
     "geom:longitude":153.068677,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-25.855709,
     "lbl:longitude":153.062489,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Rainbow Beach"
@@ -38,9 +44,12 @@
         102049393
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31371"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"6f1ddd7b0e96bfa2f9b83e75dfa45732",
+    "wof:geomhash":"ce2496e43e31168e2d9a7ffbfcb0f1e6",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404543841,
-    "wof:lastmodified":1566602126,
+    "wof:lastmodified":1695877205,
     "wof:name":"Rainbow Beach",
     "wof:parent_id":102049393,
     "wof:placetype":"localadmin",

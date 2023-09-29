@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001483,
-    "geom:area_square_m":16235443.162714,
+    "geom:area_square_m":16235443.16272,
     "geom:bbox":"153.232017472,-27.724923998,153.299639392,-27.691833825",
     "geom:latitude":-27.707862,
     "geom:longitude":153.269175,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.706433,
     "lbl:longitude":153.262441,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Alberton"
@@ -66,9 +72,12 @@
         102049363
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30014"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"84011d8c0d48c7248c322989d2d91cf1",
+    "wof:geomhash":"ef28ff06c0bcbb0afbf85817d2c329d4",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -81,7 +90,7 @@
         }
     ],
     "wof:id":404540963,
-    "wof:lastmodified":1566602986,
+    "wof:lastmodified":1695877711,
     "wof:name":"Alberton",
     "wof:parent_id":102049363,
     "wof:placetype":"localadmin",

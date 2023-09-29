@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0087,
-    "geom:area_square_m":84168886.395921,
+    "geom:area_square_m":84168886.395988,
     "geom:bbox":"145.675639072,-38.577625285,145.828936,-38.4575087625",
     "geom:latitude":-38.521071,
     "geom:longitude":145.744938,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.527842,
     "lbl:longitude":145.751274,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Outtrim"
@@ -38,9 +44,12 @@
         102048701
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21060"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"6adb61c2c5f99ab5e4d0f5614ade58f5",
+    "wof:geomhash":"a2f0ba568447ec33f08cfa2b9dfd41f0",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404539855,
-    "wof:lastmodified":1566602406,
+    "wof:lastmodified":1695877361,
     "wof:name":"Outtrim",
     "wof:parent_id":102048701,
     "wof:placetype":"localadmin",

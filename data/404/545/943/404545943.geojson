@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.062499,
-    "geom:area_square_m":634366772.99032,
+    "geom:area_square_m":634366772.990501,
     "geom:bbox":"139.538434016,-35.045522997,139.760208992,-34.6298750055",
     "geom:latitude":-34.829769,
     "geom:longitude":139.67813,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.780977,
     "lbl:longitude":139.66917,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Nildottie"
@@ -38,9 +44,12 @@
         102049005
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40496"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"d671806ca2b3276f0f345e0a9caa2d34",
+    "wof:geomhash":"f5ab8f210b7a86330f2a3a55f3eb0699",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404545943,
-    "wof:lastmodified":1566602256,
+    "wof:lastmodified":1695877268,
     "wof:name":"Nildottie",
     "wof:parent_id":102049005,
     "wof:placetype":"localadmin",

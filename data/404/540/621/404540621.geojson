@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000843,
-    "geom:area_square_m":8401391.321331,
+    "geom:area_square_m":8401391.321378,
     "geom:bbox":"146.263270016,-36.3370254055,146.30436144,-36.302279575",
     "geom:latitude":-36.319919,
     "geom:longitude":146.284406,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.322574,
     "lbl:longitude":146.284785,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Waldara"
@@ -38,12 +44,15 @@
         102049395
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21402"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101933675
     ],
     "wof:country":"AU",
-    "wof:geomhash":"245351668cfcf85c8a6d09ca703491f9",
+    "wof:geomhash":"2e7922fccf62dcc55c37dd6d70745f63",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404540621,
-    "wof:lastmodified":1566602991,
+    "wof:lastmodified":1695877713,
     "wof:name":"Waldara",
     "wof:parent_id":102049395,
     "wof:placetype":"localadmin",

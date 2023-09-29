@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000414,
-    "geom:area_square_m":4244245.575221,
+    "geom:area_square_m":4244245.575198,
     "geom:bbox":"151.038112832,-33.942679389,151.06469696,-33.91684647",
     "geom:latitude":-33.928929,
     "geom:longitude":151.051108,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.93099,
     "lbl:longitude":151.048705,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Punchbowl"
@@ -54,12 +60,15 @@
         102049409
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11916"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931645
     ],
     "wof:country":"AU",
-    "wof:geomhash":"a7d522240c76f0c79abd286f13ff7b9f",
+    "wof:geomhash":"b05bd686030f79f1644d0109e8fe0926",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -72,7 +81,7 @@
         }
     ],
     "wof:id":404225735,
-    "wof:lastmodified":1566602705,
+    "wof:lastmodified":1695877531,
     "wof:name":"Punchbowl",
     "wof:parent_id":102049409,
     "wof:placetype":"localadmin",

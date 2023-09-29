@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000362,
-    "geom:area_square_m":3536462.86151,
+    "geom:area_square_m":3536528.627114,
     "geom:bbox":"145.001135,-37.803662,145.027419,-37.765131",
     "geom:latitude":-37.784514,
     "geom:longitude":145.015815,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.772375,
     "lbl:longitude":145.021292,
     "lbl:max_zoom":18.0,
@@ -136,10 +142,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC20480",
         "gn:id":2166957,
         "qs_pg:id":1028591,
         "wd:id":"Q5430228"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932923
     ],
@@ -147,7 +155,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"da9fbefeff67609fb6e1410ab736eebb",
+    "wof:geomhash":"9a5d60c43617332e2f14d1ac27f60c44",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -160,7 +168,7 @@
         }
     ],
     "wof:id":404538559,
-    "wof:lastmodified":1690853573,
+    "wof:lastmodified":1695878053,
     "wof:name":"Fairfield",
     "wof:parent_id":102048925,
     "wof:placetype":"localadmin",

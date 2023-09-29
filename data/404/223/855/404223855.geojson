@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002193,
-    "geom:area_square_m":23621236.410079,
+    "geom:area_square_m":23621236.410093,
     "geom:bbox":"153.201619008,-29.442717004,153.281110016,-29.3830609975",
     "geom:latitude":-29.413768,
     "geom:longitude":153.247189,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-29.411679,
     "lbl:longitude":153.259803,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Harwood"
@@ -80,9 +86,12 @@
         102048835
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11080"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"93bfa55aeaf00aa432df016522f7a19e",
+    "wof:geomhash":"e2e7cc251b3da7569005d63642a8416d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -94,7 +103,7 @@
         }
     ],
     "wof:id":404223855,
-    "wof:lastmodified":1566602557,
+    "wof:lastmodified":1695877451,
     "wof:name":"Harwood",
     "wof:parent_id":102048835,
     "wof:placetype":"localadmin",

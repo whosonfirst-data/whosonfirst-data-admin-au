@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001561,
-    "geom:area_square_m":16387375.765635,
+    "geom:area_square_m":16387375.765637,
     "geom:bbox":"116.306152992,-31.911320004,116.357752608,-31.8395910085",
     "geom:latitude":-31.874538,
     "geom:longitude":116.335917,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.87197,
     "lbl:longitude":116.335527,
     "lbl:max_zoom":18.0,
@@ -57,10 +63,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC50762",
         "wd:id":"Q7745263"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"c7fb63046b77f72c128163e974687920",
+    "wof:geomhash":"096cac9fdd084a3989cb470bb014a064",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -72,7 +80,7 @@
         }
     ],
     "wof:id":404548387,
-    "wof:lastmodified":1566603236,
+    "wof:lastmodified":1695878052,
     "wof:name":"The Lakes",
     "wof:parent_id":102049431,
     "wof:placetype":"localadmin",

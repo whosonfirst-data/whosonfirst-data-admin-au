@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000069,
-    "geom:area_square_m":698056.311057,
+    "geom:area_square_m":698045.328221,
     "geom:bbox":"138.643114,-34.956066,138.652676,-34.94794",
     "geom:latitude":-34.952001,
     "geom:longitude":138.64787,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.951989,
     "lbl:longitude":138.647869,
     "lbl:max_zoom":18.0,
@@ -52,13 +58,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC40685",
         "wd:id":"Q7593243"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101936639
     ],
     "wof:country":"AU",
-    "wof:geomhash":"427b6036a8eb6ad0cd0a6d0231a20f71",
+    "wof:geomhash":"d2e34fa7aed0952f6e7697e8081c9051",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -71,7 +79,7 @@
         }
     ],
     "wof:id":404546335,
-    "wof:lastmodified":1690853835,
+    "wof:lastmodified":1695878042,
     "wof:name":"St Georges",
     "wof:parent_id":102048505,
     "wof:placetype":"localadmin",

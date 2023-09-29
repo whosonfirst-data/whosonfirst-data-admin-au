@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003853,
-    "geom:area_square_m":39457695.683564,
+    "geom:area_square_m":39457695.683518,
     "geom:bbox":"150.565587104,-34.1409990005,150.65373232,-34.043523222",
     "geom:latitude":-34.094923,
     "geom:longitude":150.610554,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.095622,
     "lbl:longitude":150.61352,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Mont Hunter"
@@ -50,9 +56,12 @@
         102048943
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11617"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"07b35307bcfe9fef6f10fd391ef4149e",
+    "wof:geomhash":"db468581708b651e29e1b3acf8d59ce2",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":404225063,
-    "wof:lastmodified":1566602687,
+    "wof:lastmodified":1695877522,
     "wof:name":"Mount Hunter",
     "wof:parent_id":102048943,
     "wof:placetype":"localadmin",

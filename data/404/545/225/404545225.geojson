@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002826,
-    "geom:area_square_m":28588525.189971,
+    "geom:area_square_m":28588525.189941,
     "geom:bbox":"138.774255008,-35.1346389955,138.832524,-35.0572379925",
     "geom:latitude":-35.098141,
     "geom:longitude":138.80289,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.101728,
     "lbl:longitude":138.803448,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Echunga"
@@ -51,9 +57,12 @@
         102048895
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40167"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"4d36684958eb65e0a57557d0f158fdc9",
+    "wof:geomhash":"865401275fe63418bd85179d31386d18",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -66,7 +75,7 @@
         }
     ],
     "wof:id":404545225,
-    "wof:lastmodified":1566602243,
+    "wof:lastmodified":1695877262,
     "wof:name":"Echunga",
     "wof:parent_id":102048895,
     "wof:placetype":"localadmin",

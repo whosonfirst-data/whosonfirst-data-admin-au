@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.102332,
-    "geom:area_square_m":1066424155.537219,
+    "geom:area_square_m":1066424155.537499,
     "geom:bbox":"148.329513408,-32.783449002,148.764856,-32.3356102705",
     "geom:latitude":-32.564459,
     "geom:longitude":148.542129,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.550945,
     "lbl:longitude":148.56022,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cym_x_preferred":[
         "Obley"
@@ -44,9 +50,12 @@
         102049599
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11801"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"605f199302e7525ba9b3dc330ac7c5c8",
+    "wof:geomhash":"7a472757333b7eaaee508597451b0e90",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404225477,
-    "wof:lastmodified":1566602673,
+    "wof:lastmodified":1695877515,
     "wof:name":"Obley",
     "wof:parent_id":102049599,
     "wof:placetype":"localadmin",

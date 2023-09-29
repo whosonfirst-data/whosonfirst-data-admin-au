@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000441,
-    "geom:area_square_m":4441665.984354,
+    "geom:area_square_m":4441665.984353,
     "geom:bbox":"149.072096384,-35.4751993535,149.093433824,-35.437692435",
     "geom:latitude":-35.456759,
     "geom:longitude":149.08498,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.459178,
     "lbl:longitude":149.08393,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Gordon"
@@ -124,12 +130,15 @@
         85681493
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC80042"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938791
     ],
     "wof:country":"AU",
-    "wof:geomhash":"2e22d5aa5e4e684397f716992b999528",
+    "wof:geomhash":"68108679be8c90f2964e40b4e2e48efb",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -140,7 +149,7 @@
         }
     ],
     "wof:id":404550011,
-    "wof:lastmodified":1566601930,
+    "wof:lastmodified":1695877100,
     "wof:name":"Gordon",
     "wof:parent_id":85681493,
     "wof:placetype":"localadmin",

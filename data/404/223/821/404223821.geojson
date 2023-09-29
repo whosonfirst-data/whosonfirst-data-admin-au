@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000036,
-    "geom:area_square_m":374036.617961,
+    "geom:area_square_m":374036.617963,
     "geom:bbox":"151.750538272,-32.9317260025,151.759307008,-32.924181832",
     "geom:latitude":-32.927653,
     "geom:longitude":151.754726,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.926778,
     "lbl:longitude":151.753701,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Hamilton East"
@@ -45,12 +51,15 @@
         102048981
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11065"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101930609
     ],
     "wof:country":"AU",
-    "wof:geomhash":"40ecdfee181f5234b61c07470a33c8f2",
+    "wof:geomhash":"180226e4d786c1eff3e74dbb4ef939be",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -63,7 +72,7 @@
         }
     ],
     "wof:id":404223821,
-    "wof:lastmodified":1566602506,
+    "wof:lastmodified":1695877417,
     "wof:name":"Hamilton East",
     "wof:parent_id":102048981,
     "wof:placetype":"localadmin",

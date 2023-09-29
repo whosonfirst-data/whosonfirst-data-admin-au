@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00032,
-    "geom:area_square_m":3352059.192648,
+    "geom:area_square_m":3352059.192646,
     "geom:bbox":"115.89688944,-31.9724106855,115.930421984,-31.9506117655",
     "geom:latitude":-31.960545,
     "geom:longitude":115.915873,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.960187,
     "lbl:longitude":115.916127,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Rivervale"
@@ -39,12 +45,15 @@
         102049189
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50679"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937727
     ],
     "wof:country":"AU",
-    "wof:geomhash":"ddfc85b66a8cddf51cfc70216480b466",
+    "wof:geomhash":"5bdcdcaf43a65b38213b1724847ecac9",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404548203,
-    "wof:lastmodified":1566603181,
+    "wof:lastmodified":1695877806,
     "wof:name":"Rivervale",
     "wof:parent_id":102049189,
     "wof:placetype":"localadmin",

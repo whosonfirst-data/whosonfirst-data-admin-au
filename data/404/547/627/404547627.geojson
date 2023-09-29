@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.238376,
-    "geom:area_square_m":13605830654.203775,
+    "geom:area_square_m":13605830654.202635,
     "geom:bbox":"117.166594016,-27.826545645,118.843322048,-26.626113982",
     "geom:latitude":-27.309878,
     "geom:longitude":117.938598,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.317942,
     "lbl:longitude":118.231149,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Lake Austin"
@@ -50,9 +56,12 @@
         102049513
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50420"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"5732971e288f14c8602b6acadacdda6f",
+    "wof:geomhash":"2f277c0a1656a3c000fcf717b3a4c490",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":404547627,
-    "wof:lastmodified":1566602931,
+    "wof:lastmodified":1695877678,
     "wof:name":"Lake Austin",
     "wof:parent_id":102049513,
     "wof:placetype":"localadmin",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000214,
-    "geom:area_square_m":2246265.291186,
+    "geom:area_square_m":2246250.320451,
     "geom:bbox":"115.880592,-31.919462,115.902433,-31.899587",
     "geom:latitude":-31.909555,
     "geom:longitude":115.891432,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.909569,
     "lbl:longitude":115.89143,
     "lbl:max_zoom":18.0,
@@ -190,13 +196,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC50050",
         "wd:id":"Q4879092"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101936885
     ],
     "wof:country":"AU",
-    "wof:geomhash":"cc0c7c3a63c14205677a82fa4529c2eb",
+    "wof:geomhash":"cd418a828d54263a01625a21357aefbf",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -209,7 +217,7 @@
         }
     ],
     "wof:id":404546799,
-    "wof:lastmodified":1636494678,
+    "wof:lastmodified":1695878058,
     "wof:name":"Bedford",
     "wof:parent_id":102048907,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00963,
-    "geom:area_square_m":95913891.158426,
+    "geom:area_square_m":95913891.15848,
     "geom:bbox":"144.742723936,-36.4272967845,144.832011008,-36.2712169835",
     "geom:latitude":-36.344762,
     "geom:longitude":144.79609,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.344266,
     "lbl:longitude":144.795249,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Nanneella"
@@ -38,9 +44,12 @@
         102049529
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20975"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"4cb4b0783448641a6231ab61e95a3b5f",
+    "wof:geomhash":"a8acf35e972655f32560fc40c5494349",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404539669,
-    "wof:lastmodified":1566602369,
+    "wof:lastmodified":1695877336,
     "wof:name":"Nanneella",
     "wof:parent_id":102049529,
     "wof:placetype":"localadmin",

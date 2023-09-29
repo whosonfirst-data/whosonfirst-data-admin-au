@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000417,
-    "geom:area_square_m":4377927.668622,
+    "geom:area_square_m":4377927.668625,
     "geom:bbox":"115.915794624,-31.9628744165,115.947008992,-31.937241797",
     "geom:latitude":-31.949813,
     "geom:longitude":115.931249,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.949728,
     "lbl:longitude":115.931009,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0644\u0645\u0648\u0646\u062a"
@@ -141,12 +147,15 @@
         102049189
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50058"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101936899
     ],
     "wof:country":"AU",
-    "wof:geomhash":"e01551af83e8fac591657ef846cfd169",
+    "wof:geomhash":"d97b6f54fb870e9583508921ad9cf596",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -159,7 +168,7 @@
         }
     ],
     "wof:id":404546817,
-    "wof:lastmodified":1566603112,
+    "wof:lastmodified":1695877774,
     "wof:name":"Belmont",
     "wof:parent_id":102049189,
     "wof:placetype":"localadmin",

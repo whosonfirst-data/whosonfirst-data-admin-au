@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005221,
-    "geom:area_square_m":54249927.578386,
+    "geom:area_square_m":54249927.578405,
     "geom:bbox":"151.313630016,-32.871942087,151.419375008,-32.786935993",
     "geom:latitude":-32.831384,
     "geom:longitude":151.36821,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.820619,
     "lbl:longitude":151.372617,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Cessnock"
@@ -47,9 +53,12 @@
         102048575
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10507"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"4039255f9c71fe85f2bf1597e92f257c",
+    "wof:geomhash":"0085e9c30a56a83285d799eff1d7307d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":404222565,
-    "wof:lastmodified":1566602789,
+    "wof:lastmodified":1695877585,
     "wof:name":"Cessnock",
     "wof:parent_id":102048575,
     "wof:placetype":"localadmin",

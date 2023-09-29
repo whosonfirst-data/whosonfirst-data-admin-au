@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001067,
-    "geom:area_square_m":12557703.327847,
+    "geom:area_square_m":12557703.327828,
     "geom:bbox":"122.212113472,-17.958336473,122.265556,-17.9003854635",
     "geom:latitude":-17.933512,
     "geom:longitude":122.238616,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-17.934299,
     "lbl:longitude":122.242046,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Djugun"
@@ -38,12 +44,15 @@
         102048717
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50221"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937109
     ],
     "wof:country":"AU",
-    "wof:geomhash":"9c38eeca8bf99228708900b9e1536fb5",
+    "wof:geomhash":"d74185aeae962fe6e8921f6ae4d27b86",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404547179,
-    "wof:lastmodified":1566602975,
+    "wof:lastmodified":1695877704,
     "wof:name":"Djugun",
     "wof:parent_id":102048717,
     "wof:placetype":"localadmin",

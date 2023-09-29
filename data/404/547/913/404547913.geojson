@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.458309,
-    "geom:area_square_m":4987250532.477852,
+    "geom:area_square_m":4987250532.477689,
     "geom:bbox":"115.319662784,-28.799696594,116.259693472,-27.8179495645",
     "geom:latitude":-28.352228,
     "geom:longitude":115.766303,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.398104,
     "lbl:longitude":115.616664,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mullewa"
@@ -38,9 +44,12 @@
         102048715
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50547"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"993f6173dcf10461fd80c48d4a31dd33",
+    "wof:geomhash":"0988363bc0b5afcfc92d012fea868982",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404547913,
-    "wof:lastmodified":1566602949,
+    "wof:lastmodified":1695877688,
     "wof:name":"Mullewa",
     "wof:parent_id":102048715,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001693,
-    "geom:area_square_m":16934981.079386,
+    "geom:area_square_m":16934981.079492,
     "geom:bbox":"150.116728992,-36.05089177,150.164552992,-35.9681260075",
     "geom:latitude":-36.000217,
     "geom:longitude":150.141631,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.005561,
     "lbl:longitude":150.143979,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bingie"
@@ -38,9 +44,12 @@
         102049609
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10219"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"b4159288679e6d0261bc152a45920888",
+    "wof:geomhash":"02323a0d0a3fe4384183555017809b09",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404221917,
-    "wof:lastmodified":1566602010,
+    "wof:lastmodified":1695877138,
     "wof:name":"Bingie",
     "wof:parent_id":102049609,
     "wof:placetype":"localadmin",

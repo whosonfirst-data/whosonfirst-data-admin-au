@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000249,
-    "geom:area_square_m":2547882.710113,
+    "geom:area_square_m":2547882.710114,
     "geom:bbox":"150.730039008,-34.062544996,150.755558016,-34.0406959965",
     "geom:latitude":-34.053033,
     "geom:longitude":150.744679,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.054498,
     "lbl:longitude":150.744871,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Narellan Vale"
@@ -39,12 +45,15 @@
         102048421
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11683"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931365
     ],
     "wof:country":"AU",
-    "wof:geomhash":"2a72d1d714004939ca2f46bec0b8f967",
+    "wof:geomhash":"b6eb68330729046a061653671802b10f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404225211,
-    "wof:lastmodified":1566602669,
+    "wof:lastmodified":1695877513,
     "wof:name":"Narellan Vale",
     "wof:parent_id":102048421,
     "wof:placetype":"localadmin",

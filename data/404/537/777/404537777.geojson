@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016213,
-    "geom:area_square_m":160284324.649,
+    "geom:area_square_m":160284324.64893,
     "geom:bbox":"143.717128992,-37.0104289945,143.895673088,-36.842945997",
     "geom:latitude":-36.916876,
     "geom:longitude":143.802439,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.917808,
     "lbl:longitude":143.801076,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bet Bet"
@@ -38,9 +44,12 @@
         102048773
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20127"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"92f35de9912484d80ce549ad51c4e26c",
+    "wof:geomhash":"5913bd6df6bbe3b26f16471216ffe19e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404537777,
-    "wof:lastmodified":1566602333,
+    "wof:lastmodified":1695877314,
     "wof:name":"Bet Bet",
     "wof:parent_id":102048773,
     "wof:placetype":"localadmin",

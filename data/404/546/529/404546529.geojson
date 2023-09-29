@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.188748,
-    "geom:area_square_m":1953519552.79846,
+    "geom:area_square_m":1953519552.798371,
     "geom:bbox":"135.136939456,-33.3333172685,135.849363072,-32.911135299",
     "geom:latitude":-33.173448,
     "geom:longitude":135.500275,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.18685,
     "lbl:longitude":135.53525,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Warramboo"
@@ -38,9 +44,12 @@
         102048979
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40773"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"45bfccb18abd648844b21814b8e7488a",
+    "wof:geomhash":"b04fe3538f82f18ef0cede5d92e193f4",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404546529,
-    "wof:lastmodified":1566603127,
+    "wof:lastmodified":1695877780,
     "wof:name":"Warramboo",
     "wof:parent_id":102048979,
     "wof:placetype":"localadmin",

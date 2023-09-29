@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021365,
-    "geom:area_square_m":208331129.010429,
+    "geom:area_square_m":208331129.01047,
     "geom:bbox":"145.481504,-38.008923001,145.764939776,-37.8577005785",
     "geom:latitude":-37.945293,
     "geom:longitude":145.633622,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.955064,
     "lbl:longitude":145.633516,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Gembrook"
@@ -38,9 +44,12 @@
         102048791
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20521"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"5af4fd559bad8533bdb331aebd961495",
+    "wof:geomhash":"19e5a7a7f1e69f57b3bbfab1cc4cdac8",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404538653,
-    "wof:lastmodified":1566602475,
+    "wof:lastmodified":1695877398,
     "wof:name":"Gembrook",
     "wof:parent_id":102048791,
     "wof:placetype":"localadmin",

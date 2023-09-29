@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.618488,
-    "geom:area_square_m":7492562725.291377,
+    "geom:area_square_m":7492562725.292204,
     "geom:bbox":"130.020444,-11.94045,131.543133,-11.166035",
     "geom:latitude":-11.560003,
     "geom:longitude":130.816215,
@@ -23,7 +23,7 @@
     "mps:latitude":-11.589828,
     "mps:longitude":131.047818,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u062c\u0632\u0631 \u062a\u064a\u0648\u064a"
@@ -102,17 +102,20 @@
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191583,
+        85681533,
         85632793,
-        136253039,
-        85681533
+        136253039
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"74050"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         404549879
     ],
     "wof:country":"AU",
-    "wof:geomhash":"c80f6c05837e6bd8d22e47f5849dcd5d",
+    "wof:geomhash":"ea8cb9f941a9f8fcb73064d950a73ec5",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":102049051,
-    "wof:lastmodified":1607999873,
+    "wof:lastmodified":1695887451,
     "wof:name":"Tiwi Islands",
     "wof:parent_id":85681533,
     "wof:placetype":"county",

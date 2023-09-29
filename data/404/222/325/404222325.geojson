@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001895,
-    "geom:area_square_m":19355727.278752,
+    "geom:area_square_m":19355727.278648,
     "geom:bbox":"148.225842016,-34.3253233065,148.276787008,-34.253492006",
     "geom:latitude":-34.291558,
     "geom:longitude":148.248147,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.290633,
     "lbl:longitude":148.247759,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Burrangong"
@@ -38,9 +44,12 @@
         102049073
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10400"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"bc7251b06b51e94659b3d27747ca3dfb",
+    "wof:geomhash":"b3d9a8b2729f71717ebf62c91dacff39",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404222325,
-    "wof:lastmodified":1566602781,
+    "wof:lastmodified":1695877580,
     "wof:name":"Burrangong",
     "wof:parent_id":102049073,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001103,
-    "geom:area_square_m":10263109.358025,
+    "geom:area_square_m":10263077.802875,
     "geom:bbox":"146.321276,-41.192826,146.366832,-41.158053",
     "geom:latitude":-41.177053,
     "geom:longitude":146.345042,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-41.176595,
     "lbl:longitude":146.345469,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Devonport"
@@ -81,12 +87,15 @@
         102048819
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60083"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938067
     ],
     "wof:country":"AU",
-    "wof:geomhash":"9032c4647c67464c95da554ae2463a57",
+    "wof:geomhash":"20039498e3b29977e8bd4f30dad0cabd",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -99,7 +108,7 @@
         }
     ],
     "wof:id":404548855,
-    "wof:lastmodified":1636494689,
+    "wof:lastmodified":1695877890,
     "wof:name":"Devonport",
     "wof:parent_id":102048819,
     "wof:placetype":"localadmin",

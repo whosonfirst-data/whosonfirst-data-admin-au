@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001345,
-    "geom:area_square_m":13982271.466592,
+    "geom:area_square_m":13982271.466578,
     "geom:bbox":"115.667207008,-32.824889039,115.716013024,-32.7732594055",
     "geom:latitude":-32.799241,
     "geom:longitude":115.690606,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.798317,
     "lbl:longitude":115.690229,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Lake Clifton"
@@ -44,9 +50,12 @@
         102048647
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50421"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"fad9bec8be622a87e7cf10da9cc9f71e",
+    "wof:geomhash":"a7c155b5f33e9d3e7276f6d01c605f0b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404547629,
-    "wof:lastmodified":1566602932,
+    "wof:lastmodified":1695877678,
     "wof:name":"Lake Clifton",
     "wof:parent_id":102048647,
     "wof:placetype":"localadmin",

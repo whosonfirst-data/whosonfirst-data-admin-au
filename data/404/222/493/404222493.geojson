@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000099,
-    "geom:area_square_m":1017722.927619,
+    "geom:area_square_m":1017722.927642,
     "geom:bbox":"150.958036992,-33.890746004,150.969588064,-33.8773516525",
     "geom:latitude":-33.884376,
     "geom:longitude":150.963284,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.882561,
     "lbl:longitude":150.963172,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Carramar"
@@ -48,12 +54,15 @@
         102049221
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10475"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101929837
     ],
     "wof:country":"AU",
-    "wof:geomhash":"a2efb732471b265647c2fc613c101daa",
+    "wof:geomhash":"1c6a726fd00ed8dd81d91f08978d2d44",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -66,7 +75,7 @@
         }
     ],
     "wof:id":404222493,
-    "wof:lastmodified":1566602799,
+    "wof:lastmodified":1695877592,
     "wof:name":"Carramar",
     "wof:parent_id":102049221,
     "wof:placetype":"localadmin",

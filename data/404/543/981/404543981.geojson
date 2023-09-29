@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000906,
-    "geom:area_square_m":9959832.949396,
+    "geom:area_square_m":9959832.949398,
     "geom:bbox":"153.031866848,-27.2298001545,153.075996416,-27.1940693655",
     "geom:latitude":-27.211336,
     "geom:longitude":153.054355,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.20987,
     "lbl:longitude":153.055854,
     "lbl:max_zoom":18.0,
@@ -268,13 +274,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC31435",
         "wd:id":"Q7370522"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935247
     ],
     "wof:country":"AU",
-    "wof:geomhash":"45a573c4bc316d2667f7e06f48844495",
+    "wof:geomhash":"0b2bda08c07baca8bf93e9a96b68d9df",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -287,7 +295,7 @@
         }
     ],
     "wof:id":404543981,
-    "wof:lastmodified":1566602145,
+    "wof:lastmodified":1695877921,
     "wof:name":"Rothwell",
     "wof:parent_id":102049131,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000814,
-    "geom:area_square_m":8245518.171767,
+    "geom:area_square_m":8245518.171771,
     "geom:bbox":"138.665170688,-35.014999995,138.704301824,-34.9744862715",
     "geom:latitude":-34.995425,
     "geom:longitude":138.685898,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.992843,
     "lbl:longitude":138.685607,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Crafers West"
@@ -38,12 +44,15 @@
         102049017
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40139"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935895
     ],
     "wof:country":"AU",
-    "wof:geomhash":"688b8be7bf88b3e341d775e67f571898",
+    "wof:geomhash":"235385b8ddb2c73262d8342e602964a7",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404545161,
-    "wof:lastmodified":1566602210,
+    "wof:lastmodified":1695877248,
     "wof:name":"Crafers West",
     "wof:parent_id":102049017,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000354,
-    "geom:area_square_m":3587574.171467,
+    "geom:area_square_m":3587574.171473,
     "geom:bbox":"117.905847648,-35.0208148225,117.935716,-34.9949435345",
     "geom:latitude":-35.007576,
     "geom:longitude":117.919122,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.007938,
     "lbl:longitude":117.91766,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Collingwood Park"
@@ -50,12 +56,15 @@
         102048671
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50165"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937029
     ],
     "wof:country":"AU",
-    "wof:geomhash":"c1c1433efda9b6654d249698024f67f7",
+    "wof:geomhash":"042215c4bbcb9ac6a403d463c1b662c5",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -67,7 +76,7 @@
         }
     ],
     "wof:id":404547059,
-    "wof:lastmodified":1566602966,
+    "wof:lastmodified":1695877698,
     "wof:name":"Collingwood Park",
     "wof:parent_id":102048671,
     "wof:placetype":"localadmin",

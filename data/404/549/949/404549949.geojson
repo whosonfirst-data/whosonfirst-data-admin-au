@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000184,
-    "geom:area_square_m":1856012.553942,
+    "geom:area_square_m":1856012.553939,
     "geom:bbox":"149.023320864,-35.365218019,149.049840512,-35.3439551735",
     "geom:latitude":-35.356208,
     "geom:longitude":149.037423,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.357704,
     "lbl:longitude":149.038325,
     "lbl:max_zoom":18.0,
@@ -113,13 +119,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC80015",
         "wd:id":"Q860086"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938731
     ],
     "wof:country":"AU",
-    "wof:geomhash":"c6b366771406d852380018880f5a20b7",
+    "wof:geomhash":"4839d30b5f50da07ff1dda37fc154572",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -130,7 +138,7 @@
         }
     ],
     "wof:id":404549949,
-    "wof:lastmodified":1566602861,
+    "wof:lastmodified":1695878009,
     "wof:name":"Chapman",
     "wof:parent_id":85681493,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012523,
-    "geom:area_square_m":128239860.058996,
+    "geom:area_square_m":128239860.059017,
     "geom:bbox":"115.046037056,-34.1714509995,115.20887,-34.023842996",
     "geom:latitude":-34.087503,
     "geom:longitude":115.131112,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.084162,
     "lbl:longitude":115.139115,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Forest Grove"
@@ -53,9 +59,12 @@
         102048475
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50265"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"2c6c89e8c54219c61e465d260b3d78e0",
+    "wof:geomhash":"5b043ce13011416714c1175b55423862",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -67,7 +76,7 @@
         }
     ],
     "wof:id":404547279,
-    "wof:lastmodified":1566602958,
+    "wof:lastmodified":1695877693,
     "wof:name":"Forest Grove",
     "wof:parent_id":102048475,
     "wof:placetype":"localadmin",

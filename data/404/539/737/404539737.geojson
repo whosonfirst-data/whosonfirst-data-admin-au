@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004979,
-    "geom:area_square_m":48977632.140072,
+    "geom:area_square_m":48977527.46605,
     "geom:bbox":"144.563176,-37.340009,144.660166,-37.255465",
     "geom:latitude":-37.299635,
     "geom:longitude":144.603676,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.293883,
     "lbl:longitude":144.599761,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Newham"
@@ -41,9 +47,12 @@
         102048977
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21005"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"b9df83a67fb6d11b0b7df4dbea8f76d3",
+    "wof:geomhash":"8eb901c59510621a6377752bbe5b8721",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404539737,
-    "wof:lastmodified":1636494633,
+    "wof:lastmodified":1695877857,
     "wof:name":"Newham",
     "wof:parent_id":102048977,
     "wof:placetype":"localadmin",

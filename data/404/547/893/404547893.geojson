@@ -10,6 +10,12 @@
     "geom:latitude":-28.79859,
     "geom:longitude":114.625303,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.799054,
     "lbl:longitude":114.625177,
     "lbl:max_zoom":18.0,
@@ -42,13 +48,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC50538",
         "wd:id":"Q6924049"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937553
     ],
     "wof:country":"AU",
-    "wof:geomhash":"8d4271d70e76c2387bb92b6ee31c47b5",
+    "wof:geomhash":"5a86d84377ecc3033f2a8a986f47dfeb",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -60,7 +68,7 @@
         }
     ],
     "wof:id":404547893,
-    "wof:lastmodified":1566602939,
+    "wof:lastmodified":1695878018,
     "wof:name":"Mount Tarcoola",
     "wof:parent_id":102048715,
     "wof:placetype":"localadmin",

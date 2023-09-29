@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000119,
-    "geom:area_square_m":1374553.576913,
+    "geom:area_square_m":1374553.576911,
     "geom:bbox":"139.502316992,-20.7268260085,139.514428992,-20.7133039885",
     "geom:latitude":-20.720315,
     "geom:longitude":139.508117,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-20.72037,
     "lbl:longitude":139.508609,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "Pioneer"
@@ -116,12 +122,15 @@
         102049087
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31332"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935139
     ],
     "wof:country":"AU",
-    "wof:geomhash":"a821d758e3d6449cb3c2e5f392144bbb",
+    "wof:geomhash":"a4c043adda029df99543031139d321e0",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -133,7 +142,7 @@
         }
     ],
     "wof:id":404543757,
-    "wof:lastmodified":1566602124,
+    "wof:lastmodified":1695877204,
     "wof:name":"Pioneer",
     "wof:parent_id":102049087,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001032,
-    "geom:area_square_m":11723511.201636,
+    "geom:area_square_m":11723511.201604,
     "geom:bbox":"150.766047008,-23.3100929705,150.834768832,-23.2671558765",
     "geom:latitude":-23.289754,
     "geom:longitude":150.795498,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-23.291841,
     "lbl:longitude":150.797551,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Zilzie"
@@ -41,9 +47,12 @@
         102048825
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31859"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"03942738d3b33c457965f088ed957dff",
+    "wof:geomhash":"14bd9229762b4f381a56e18c0651e961",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404544863,
-    "wof:lastmodified":1566602199,
+    "wof:lastmodified":1695877243,
     "wof:name":"Zilzie",
     "wof:parent_id":102048825,
     "wof:placetype":"localadmin",

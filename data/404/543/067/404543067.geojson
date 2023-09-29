@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000189,
-    "geom:area_square_m":2239593.920405,
+    "geom:area_square_m":2239593.920414,
     "geom:bbox":"145.73024752,-16.9270400055,145.743135008,-16.907544872",
     "geom:latitude":-16.917058,
     "geom:longitude":145.736653,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-16.917643,
     "lbl:longitude":145.736777,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Manoora"
@@ -44,12 +50,15 @@
         102048911
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31005"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934775
     ],
     "wof:country":"AU",
-    "wof:geomhash":"195570012cf9b6cf06f81c2f6688108a",
+    "wof:geomhash":"56dbc66ed66131fa72abe37ee9667444",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":404543067,
-    "wof:lastmodified":1566602138,
+    "wof:lastmodified":1695877211,
     "wof:name":"Manoora",
     "wof:parent_id":102048911,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001021,
-    "geom:area_square_m":10198949.92126,
+    "geom:area_square_m":10198949.921256,
     "geom:bbox":"146.818798496,-36.1466498605,146.868688096,-36.1073492005",
     "geom:latitude":-36.125682,
     "geom:longitude":146.848614,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.125888,
     "lbl:longitude":146.851068,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "West Wodonga"
@@ -39,12 +45,15 @@
         102049665
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21459"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101933723
     ],
     "wof:country":"AU",
-    "wof:geomhash":"d6a004a125e0f3107a7cdcb151c50838",
+    "wof:geomhash":"578c17d856f40d73f3c8af718a76715d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404540749,
-    "wof:lastmodified":1566603007,
+    "wof:lastmodified":1695877722,
     "wof:name":"West Wodonga",
     "wof:parent_id":102049665,
     "wof:placetype":"localadmin",

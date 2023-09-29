@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003748,
-    "geom:area_square_m":41612506.762937,
+    "geom:area_square_m":41612506.762935,
     "geom:bbox":"152.487150048,-26.174652488,152.59746384,-26.0757409985",
     "geom:latitude":-26.12575,
     "geom:longitude":152.538744,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-26.119442,
     "lbl:longitude":152.542476,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bells Bridge"
@@ -38,9 +44,12 @@
         102049393
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30141"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"1491fa490c3e1b3a8ae27450f72de4b0",
+    "wof:geomhash":"9facd05cad3a6cc7fbc253b5ca8dc13c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404541239,
-    "wof:lastmodified":1566603090,
+    "wof:lastmodified":1695877765,
     "wof:name":"Bells Bridge",
     "wof:parent_id":102049393,
     "wof:placetype":"localadmin",

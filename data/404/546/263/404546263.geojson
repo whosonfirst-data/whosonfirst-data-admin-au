@@ -10,12 +10,18 @@
     "geom:latitude":-34.589902,
     "geom:longitude":138.837711,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.599362,
     "lbl:longitude":138.8382,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sandy Creek"
@@ -65,9 +71,12 @@
         102048713
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40650"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"7fc9402f7d4dec4e711869312ff25477",
+    "wof:geomhash":"24d39f80b82f10a7f68cb0c31e09ab75",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -79,7 +88,7 @@
         }
     ],
     "wof:id":404546263,
-    "wof:lastmodified":1566603147,
+    "wof:lastmodified":1695877789,
     "wof:name":"Sandy Creek",
     "wof:parent_id":102048713,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005629,
-    "geom:area_square_m":56025251.330981,
+    "geom:area_square_m":56025251.331052,
     "geom:bbox":"146.204185856,-36.454547007,146.331768896,-36.3403969935",
     "geom:latitude":-36.392485,
     "geom:longitude":146.254368,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.385589,
     "lbl:longitude":146.242747,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Wangaratta South"
@@ -38,9 +44,12 @@
         102049395
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21418"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"9897b131256ebb9f9ec42f34ae6930f7",
+    "wof:geomhash":"3b7b1005cd01262afb55d7e5fdebdd5e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404540657,
-    "wof:lastmodified":1566603003,
+    "wof:lastmodified":1695877720,
     "wof:name":"Wangaratta South",
     "wof:parent_id":102049395,
     "wof:placetype":"localadmin",

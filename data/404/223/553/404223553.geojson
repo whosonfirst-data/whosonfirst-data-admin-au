@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.097392,
-    "geom:area_square_m":1022942534.525905,
+    "geom:area_square_m":1022942534.525943,
     "geom:bbox":"147.872750016,-32.0627390075,148.342790144,-31.673998008",
     "geom:latitude":-31.850117,
     "geom:longitude":148.11692,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.85275,
     "lbl:longitude":148.117188,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0414\u0436\u0438\u043d \u0414\u0436\u0438\u043d"
@@ -44,9 +50,12 @@
         102048743
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10946"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"90f78132c21bdc5d12f911bb0c25d52c",
+    "wof:geomhash":"97b97adcd472fa421170c1c201224e53",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404223553,
-    "wof:lastmodified":1566602539,
+    "wof:lastmodified":1695877436,
     "wof:name":"Gin Gin",
     "wof:parent_id":102048743,
     "wof:placetype":"localadmin",

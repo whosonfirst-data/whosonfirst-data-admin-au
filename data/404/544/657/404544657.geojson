@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000125,
-    "geom:area_square_m":1378391.444542,
+    "geom:area_square_m":1378391.444541,
     "geom:bbox":"153.117031456,-27.036671939,153.137799008,-27.023450174",
     "geom:latitude":-27.030695,
     "geom:longitude":153.128201,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.031825,
     "lbl:longitude":153.130086,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "White Patch"
@@ -39,12 +45,15 @@
         102049131
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31761"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935621
     ],
     "wof:country":"AU",
-    "wof:geomhash":"409f12def51fbb5a15301328942321df",
+    "wof:geomhash":"b5851f12adaae6dae8dab064cdacc1aa",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404544657,
-    "wof:lastmodified":1566602170,
+    "wof:lastmodified":1695877228,
     "wof:name":"White Patch",
     "wof:parent_id":102049131,
     "wof:placetype":"localadmin",

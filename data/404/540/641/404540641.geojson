@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000317,
-    "geom:area_square_m":3137599.624604,
+    "geom:area_square_m":3137599.624601,
     "geom:bbox":"146.970770464,-36.7904403145,146.997171104,-36.758112434",
     "geom:latitude":-36.773726,
     "geom:longitude":146.983406,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.773745,
     "lbl:longitude":146.979215,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Wandiligong"
@@ -41,12 +47,15 @@
         102049467
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21411"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101933679
     ],
     "wof:country":"AU",
-    "wof:geomhash":"69e9da76c6e65941c348e67717030f59",
+    "wof:geomhash":"36ea90b2942c5847741b23d8ef089944",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404540641,
-    "wof:lastmodified":1566603024,
+    "wof:lastmodified":1695877733,
     "wof:name":"Wandiligong",
     "wof:parent_id":102049467,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000255,
-    "geom:area_square_m":3006018.5691,
+    "geom:area_square_m":3006018.569102,
     "geom:bbox":"133.531854848,-17.5675779375,133.559383008,-17.537235588",
     "geom:latitude":-17.555154,
     "geom:longitude":133.543711,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-17.555698,
     "lbl:longitude":133.543505,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Elliott"
@@ -41,12 +47,15 @@
         102048951
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC70060"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938439
     ],
     "wof:country":"AU",
-    "wof:geomhash":"b76b03b4267847c42ee50776bf1cee23",
+    "wof:geomhash":"463125567d0bdf57f82f9f8dc38c4097",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404549709,
-    "wof:lastmodified":1566602828,
+    "wof:lastmodified":1695877610,
     "wof:name":"Elliott",
     "wof:parent_id":102048951,
     "wof:placetype":"localadmin",

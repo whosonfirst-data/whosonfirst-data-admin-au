@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008914,
-    "geom:area_square_m":93086832.343483,
+    "geom:area_square_m":93086832.343487,
     "geom:bbox":"152.35353072,-32.4636458105,152.553534208,-32.3080040895",
     "geom:latitude":-32.38246,
     "geom:longitude":152.445911,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.37232,
     "lbl:longitude":152.439467,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bungwahl"
@@ -38,9 +44,12 @@
         102049617
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10389"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"3a11c83194e1206c353844824110f120",
+    "wof:geomhash":"3d8048721cc08af82442c74d7914c160",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404222299,
-    "wof:lastmodified":1566602809,
+    "wof:lastmodified":1695877598,
     "wof:name":"Bungwahl",
     "wof:parent_id":102049617,
     "wof:placetype":"localadmin",

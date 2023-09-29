@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000306,
-    "geom:area_square_m":3137381.727308,
+    "geom:area_square_m":3137381.727318,
     "geom:bbox":"151.064936928,-33.9612608075,151.091371776,-33.9358300045",
     "geom:latitude":-33.947986,
     "geom:longitude":151.079789,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.94624,
     "lbl:longitude":151.081091,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Beverly Hills"
@@ -39,12 +45,15 @@
         102048961
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10200"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101929567
     ],
     "wof:country":"AU",
-    "wof:geomhash":"735d14a95789211485788d11ae17dadc",
+    "wof:geomhash":"c20d6b53077bc334a9bf6ed65d5dcd24",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404221875,
-    "wof:lastmodified":1566601976,
+    "wof:lastmodified":1695877122,
     "wof:name":"Beverly Hills",
     "wof:parent_id":102048961,
     "wof:placetype":"localadmin",

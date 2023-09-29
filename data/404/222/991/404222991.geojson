@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000236,
-    "geom:area_square_m":2429932.879915,
+    "geom:area_square_m":2429932.879916,
     "geom:bbox":"151.180310752,-33.748100829,151.202008768,-33.7298490065",
     "geom:latitude":-33.739245,
     "geom:longitude":151.190548,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.738904,
     "lbl:longitude":151.190339,
     "lbl:max_zoom":18.0,
@@ -97,13 +103,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC10696",
         "wd:id":"Q5241626"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101930073
     ],
     "wof:country":"AU",
-    "wof:geomhash":"d4fb00d85c24c07f2e4fddb518485ab5",
+    "wof:geomhash":"16f44febc3f3d6c3e534648d92af178c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -116,7 +124,7 @@
         }
     ],
     "wof:id":404222991,
-    "wof:lastmodified":1566602746,
+    "wof:lastmodified":1695877995,
     "wof:name":"Davidson",
     "wof:parent_id":102049493,
     "wof:placetype":"localadmin",

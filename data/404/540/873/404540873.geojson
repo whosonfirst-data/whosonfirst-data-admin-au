@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026808,
-    "geom:area_square_m":267396760.619108,
+    "geom:area_square_m":267396760.619127,
     "geom:bbox":"145.631512128,-36.299078631,145.860399008,-36.1287619885",
     "geom:latitude":-36.230095,
     "geom:longitude":145.720778,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.228665,
     "lbl:longitude":145.707187,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Yabba North"
@@ -38,9 +44,12 @@
         102048427
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21515"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"a1f0cedb2924ea7189267faa76b2533c",
+    "wof:geomhash":"640d292540644a57edde7ecc67922a6a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404540873,
-    "wof:lastmodified":1566602992,
+    "wof:lastmodified":1695877714,
     "wof:name":"Yabba North",
     "wof:parent_id":102048427,
     "wof:placetype":"localadmin",

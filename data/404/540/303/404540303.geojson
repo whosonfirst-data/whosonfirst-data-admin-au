@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013113,
-    "geom:area_square_m":130404563.69367,
+    "geom:area_square_m":130404563.693673,
     "geom:bbox":"144.84987216,-36.4989879105,145.031970976,-36.426346939",
     "geom:latitude":-36.46278,
     "geom:longitude":144.941568,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.462661,
     "lbl:longitude":144.941569,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Stanhope"
@@ -80,9 +86,12 @@
         102049529
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21260"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"6d411791aad3d9a01a95560ec3675091",
+    "wof:geomhash":"c65657951527266234a5a935799a71c7",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -94,7 +103,7 @@
         }
     ],
     "wof:id":404540303,
-    "wof:lastmodified":1566603014,
+    "wof:lastmodified":1695877726,
     "wof:name":"Stanhope",
     "wof:parent_id":102049529,
     "wof:placetype":"localadmin",

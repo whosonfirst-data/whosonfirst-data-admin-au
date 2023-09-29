@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015805,
-    "geom:area_square_m":173902884.607761,
+    "geom:area_square_m":173902884.607915,
     "geom:bbox":"153.361399584,-27.3636398105,153.46848864,-27.021964587",
     "geom:latitude":-27.149432,
     "geom:longitude":153.406331,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.13344,
     "lbl:longitude":153.398258,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kooringal"
@@ -42,9 +48,12 @@
         102049495
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30901"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"7416a0f9941e5d612677716d3fd90539",
+    "wof:geomhash":"ee9968982f63be39e0a248970647c1e3",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404542843,
-    "wof:lastmodified":1566602273,
+    "wof:lastmodified":1695877278,
     "wof:name":"Kooringal",
     "wof:parent_id":102049495,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000147,
-    "geom:area_square_m":1485630.510233,
+    "geom:area_square_m":1485630.510231,
     "geom:bbox":"150.4373696,-35.4111019965,150.4503472,-35.3919747355",
     "geom:latitude":-35.401809,
     "geom:longitude":150.443578,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.402109,
     "lbl:longitude":150.443454,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Dolphin Point"
@@ -38,12 +44,15 @@
         102049405
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10719"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101930105
     ],
     "wof:country":"AU",
-    "wof:geomhash":"f6b2466144b3357e55cd3f65e1b7c103",
+    "wof:geomhash":"c940c60caf3417b584bb80b051f35fb3",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404223043,
-    "wof:lastmodified":1566602548,
+    "wof:lastmodified":1695877444,
     "wof:name":"Dolphin Point",
     "wof:parent_id":102049405,
     "wof:placetype":"localadmin",

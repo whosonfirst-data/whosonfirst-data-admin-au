@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001917,
-    "geom:area_square_m":20773356.248727,
+    "geom:area_square_m":20773356.248731,
     "geom:bbox":"153.491692992,-28.8146712525,153.568676992,-28.7691890025",
     "geom:latitude":-28.790955,
     "geom:longitude":153.52777,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.791456,
     "lbl:longitude":153.518767,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tintenbar"
@@ -38,9 +44,12 @@
         102049481
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12283"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"71349eecf04f59835bdc056b744d9df4",
+    "wof:geomhash":"1f1ddcf0cb1f015455b35ee1ddba5f2c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404226561,
-    "wof:lastmodified":1566602016,
+    "wof:lastmodified":1695877141,
     "wof:name":"Tintenbar",
     "wof:parent_id":102049481,
     "wof:placetype":"localadmin",

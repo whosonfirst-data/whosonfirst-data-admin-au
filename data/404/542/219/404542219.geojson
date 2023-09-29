@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003029,
-    "geom:area_square_m":35780431.512502,
+    "geom:area_square_m":35780431.512437,
     "geom:bbox":"145.869244992,-17.2387209015,145.970710912,-17.1571480005",
     "geom:latitude":-17.198953,
     "geom:longitude":145.919709,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-17.186219,
     "lbl:longitude":145.8994,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Fishery Falls"
@@ -38,9 +44,12 @@
         102048911
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30609"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"28e81c99916acdb72e5ed3be7dae5313",
+    "wof:geomhash":"08d25393fd62113da8d0f072ba51b110",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404542219,
-    "wof:lastmodified":1566602271,
+    "wof:lastmodified":1695877276,
     "wof:name":"Fishery Falls",
     "wof:parent_id":102048911,
     "wof:placetype":"localadmin",

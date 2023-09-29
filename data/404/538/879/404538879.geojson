@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002499,
-    "geom:area_square_m":24274386.659741,
+    "geom:area_square_m":24274386.659695,
     "geom:bbox":"146.266464992,-38.2463096915,146.365236864,-38.179601337",
     "geom:latitude":-38.218633,
     "geom:longitude":146.310283,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.218132,
     "lbl:longitude":146.313636,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Hernes Oak"
@@ -38,9 +44,12 @@
         102049021
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20622"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"fd391e1cadc395fc91cdfbf074bef16c",
+    "wof:geomhash":"f6009e4640cf5fe323a8c59c7df9567d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404538879,
-    "wof:lastmodified":1566602465,
+    "wof:lastmodified":1695877393,
     "wof:name":"Hernes Oak",
     "wof:parent_id":102049021,
     "wof:placetype":"localadmin",

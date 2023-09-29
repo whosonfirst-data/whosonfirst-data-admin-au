@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000113,
-    "geom:area_square_m":1138628.154875,
+    "geom:area_square_m":1138628.154886,
     "geom:bbox":"150.473087808,-35.273549705,150.49963888,-35.26481937",
     "geom:latitude":-35.269581,
     "geom:longitude":150.485797,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.270789,
     "lbl:longitude":150.487808,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lake Conjola"
@@ -41,12 +47,15 @@
         102049405
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11313"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101930969
     ],
     "wof:country":"AU",
-    "wof:geomhash":"d8174a8b82e67b9cf030f70841897a49",
+    "wof:geomhash":"434e84f2b247b10f878072e91fec2665",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404224379,
-    "wof:lastmodified":1566602600,
+    "wof:lastmodified":1695877475,
     "wof:name":"Lake Conjola",
     "wof:parent_id":102049405,
     "wof:placetype":"localadmin",

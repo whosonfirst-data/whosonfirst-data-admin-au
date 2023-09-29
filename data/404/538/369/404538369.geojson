@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.07652,
-    "geom:area_square_m":747378710.007982,
+    "geom:area_square_m":747378788.786518,
     "geom:bbox":"141.175386,-38.017831,141.618096,-37.661211",
     "geom:latitude":-37.825159,
     "geom:longitude":141.366848,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.820055,
     "lbl:longitude":141.369698,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09a1\u09bf\u0997\u09ac\u09bf"
@@ -95,9 +101,12 @@
         102049579
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20394"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"f6d6f8ff272e352f5c26bc9cc38413cf",
+    "wof:geomhash":"f8e3174c96d61c747c8e4103db5da332",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -109,7 +118,7 @@
         }
     ],
     "wof:id":404538369,
-    "wof:lastmodified":1636494639,
+    "wof:lastmodified":1695877860,
     "wof:name":"Digby",
     "wof:parent_id":102049579,
     "wof:placetype":"localadmin",

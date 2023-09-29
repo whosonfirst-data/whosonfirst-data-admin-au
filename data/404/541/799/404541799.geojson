@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.077382,
-    "geom:area_square_m":859840710.357026,
+    "geom:area_square_m":859840710.355554,
     "geom:bbox":"152.754936416,-26.1984130185,153.192345856,-25.8220203435",
     "geom:latitude":-26.022525,
     "geom:longitude":152.954398,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-26.047594,
     "lbl:longitude":152.921248,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Cooloola"
@@ -38,9 +44,12 @@
         102049393
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30408"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"98cfbdb7001e02e89c2602ce1e819977",
+    "wof:geomhash":"01a484d15a43dab0865f633bb1fd27a7",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404541799,
-    "wof:lastmodified":1566603043,
+    "wof:lastmodified":1695877743,
     "wof:name":"Cooloola",
     "wof:parent_id":102049393,
     "wof:placetype":"localadmin",

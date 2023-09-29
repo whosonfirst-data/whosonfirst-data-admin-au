@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000438,
-    "geom:area_square_m":4422591.53802,
+    "geom:area_square_m":4422591.538016,
     "geom:bbox":"146.259367456,-35.3438195315,146.294290784,-35.316016566",
     "geom:latitude":-35.330323,
     "geom:longitude":146.276432,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.328231,
     "lbl:longitude":146.27329,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Urana"
@@ -38,12 +44,15 @@
         102048553
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12358"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932179
     ],
     "wof:country":"AU",
-    "wof:geomhash":"92bf48c3b963db54247bcf7ba1f0d29b",
+    "wof:geomhash":"d13e709a81928aff8b262f4f62c1613e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404226731,
-    "wof:lastmodified":1566602019,
+    "wof:lastmodified":1695877143,
     "wof:name":"Urana",
     "wof:parent_id":102048553,
     "wof:placetype":"localadmin",

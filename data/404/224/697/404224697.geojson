@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034774,
-    "geom:area_square_m":350722383.204751,
+    "geom:area_square_m":350722383.204724,
     "geom:bbox":"147.159795968,-35.4966089965,147.390588288,-35.174465148",
     "geom:latitude":-35.347407,
     "geom:longitude":147.27493,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.401446,
     "lbl:longitude":147.247818,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mangoplah"
@@ -50,9 +56,12 @@
         102049075
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11454"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"a58d7124f345bee133a47759f6e332bf",
+    "wof:geomhash":"3b4dd840a6b2c1d82eeafa3f3207816a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":404224697,
-    "wof:lastmodified":1566602635,
+    "wof:lastmodified":1695877494,
     "wof:name":"Mangoplah",
     "wof:parent_id":102049075,
     "wof:placetype":"localadmin",

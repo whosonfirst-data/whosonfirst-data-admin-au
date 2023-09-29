@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001303,
-    "geom:area_square_m":12124948.441794,
+    "geom:area_square_m":12124948.441801,
     "geom:bbox":"146.365113312,-41.2053601975,146.417940992,-41.1672960035",
     "geom:latitude":-41.185361,
     "geom:longitude":146.389054,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-41.186913,
     "lbl:longitude":146.385932,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "East Devonport"
@@ -39,12 +45,15 @@
         102048819
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60099"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938085
     ],
     "wof:country":"AU",
-    "wof:geomhash":"771397260444b70397608a4d2e5f93b5",
+    "wof:geomhash":"b20c3a661aecbe44dcb216816e2e228c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404548891,
-    "wof:lastmodified":1566603217,
+    "wof:lastmodified":1695877824,
     "wof:name":"East Devonport",
     "wof:parent_id":102048819,
     "wof:placetype":"localadmin",

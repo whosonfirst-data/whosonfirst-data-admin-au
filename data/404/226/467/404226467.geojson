@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.075469,
-    "geom:area_square_m":815575223.671782,
+    "geom:area_square_m":815575223.671944,
     "geom:bbox":"151.86147,-29.218545992,152.297038016,-28.9418779925",
     "geom:latitude":-29.076492,
     "geom:longitude":152.069268,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-29.078834,
     "lbl:longitude":152.02994,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tenterfield"
@@ -38,9 +44,12 @@
         102048787
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12241"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"0ec1a90edc7bc84ba1df2789e57dab9b",
+    "wof:geomhash":"43b7221296e1ee6bc0c995f2c3a9719f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404226467,
-    "wof:lastmodified":1566602073,
+    "wof:lastmodified":1695877176,
     "wof:name":"Tenterfield",
     "wof:parent_id":102048787,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000486,
-    "geom:area_square_m":5757734.813675,
+    "geom:area_square_m":5757734.813689,
     "geom:bbox":"145.650457088,-16.7841840045,145.682397472,-16.7566900075",
     "geom:latitude":-16.770171,
     "geom:longitude":145.66685,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-16.770829,
     "lbl:longitude":145.667093,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Clifton Beach"
@@ -47,12 +53,15 @@
         102048911
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30377"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934181
     ],
     "wof:country":"AU",
-    "wof:geomhash":"0f47cf434c95978248ebfdcd4116244e",
+    "wof:geomhash":"cca260c35dc0e459c1b32b43ae8dc2ea",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":404541731,
-    "wof:lastmodified":1566603049,
+    "wof:lastmodified":1695877746,
     "wof:name":"Clifton Beach",
     "wof:parent_id":102048911,
     "wof:placetype":"localadmin",

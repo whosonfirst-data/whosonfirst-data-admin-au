@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000063,
-    "geom:area_square_m":571259.523553,
+    "geom:area_square_m":571259.523555,
     "geom:bbox":"147.265024992,-43.08060095,147.28597568,-43.0727940055",
     "geom:latitude":-43.076772,
     "geom:longitude":147.274698,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-43.076968,
     "lbl:longitude":147.274553,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Coningham"
@@ -38,12 +44,15 @@
         102048889
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60065"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938055
     ],
     "wof:country":"AU",
-    "wof:geomhash":"fbf730c8ed812f6c38806a1b697c4f61",
+    "wof:geomhash":"536e19ec614d065f104d50ddd98a1069",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404548815,
-    "wof:lastmodified":1566603208,
+    "wof:lastmodified":1695877820,
     "wof:name":"Coningham",
     "wof:parent_id":102048889,
     "wof:placetype":"localadmin",

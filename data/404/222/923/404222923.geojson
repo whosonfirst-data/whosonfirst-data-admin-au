@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000177,
-    "geom:area_square_m":1786532.296679,
+    "geom:area_square_m":1786532.296687,
     "geom:bbox":"150.494390016,-35.273620153,150.517656992,-35.2558481835",
     "geom:latitude":-35.262507,
     "geom:longitude":150.506151,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.260962,
     "lbl:longitude":150.502979,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Cunjurong Point"
@@ -38,12 +44,15 @@
         102049405
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10666"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101930039
     ],
     "wof:country":"AU",
-    "wof:geomhash":"b095388616b3785f9d7609460a5ede06",
+    "wof:geomhash":"225892e78108d0c3a937590fd4362858",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404222923,
-    "wof:lastmodified":1566602778,
+    "wof:lastmodified":1695877579,
     "wof:name":"Cunjurong Point",
     "wof:parent_id":102049405,
     "wof:placetype":"localadmin",

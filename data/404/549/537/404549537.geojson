@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00529,
-    "geom:area_square_m":49119930.259045,
+    "geom:area_square_m":49119930.25911,
     "geom:bbox":"146.069556,-41.362933596,146.185790752,-41.270105184",
     "geom:latitude":-41.32384,
     "geom:longitude":146.12745,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-41.322891,
     "lbl:longitude":146.126562,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Upper Castra"
@@ -38,9 +44,12 @@
         102049415
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60386"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"4595d6060854bac0b59b3a3a68c215c1",
+    "wof:geomhash":"8e4afa4b52b76abfd08a1077b7970d0e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404549537,
-    "wof:lastmodified":1566602864,
+    "wof:lastmodified":1695877636,
     "wof:name":"Upper Castra",
     "wof:parent_id":102049415,
     "wof:placetype":"localadmin",

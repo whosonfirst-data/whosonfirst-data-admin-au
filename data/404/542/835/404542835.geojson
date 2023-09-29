@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004623,
-    "geom:area_square_m":50809594.01887,
+    "geom:area_square_m":50809594.018898,
     "geom:bbox":"152.7457536,-27.3011906185,152.857928864,-27.234480969",
     "geom:latitude":-27.264886,
     "geom:longitude":152.797206,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.270676,
     "lbl:longitude":152.790542,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kobble Creek"
@@ -39,9 +45,12 @@
         102049131
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30897"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"3ecc4c0c3d354e9eb55098367304763d",
+    "wof:geomhash":"3413d08d3d0f20091ce27cbca5307933",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":404542835,
-    "wof:lastmodified":1566602276,
+    "wof:lastmodified":1695877279,
     "wof:name":"Kobble Creek",
     "wof:parent_id":102049131,
     "wof:placetype":"localadmin",

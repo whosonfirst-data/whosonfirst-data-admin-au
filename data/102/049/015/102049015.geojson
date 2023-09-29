@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.432815,
-    "geom:area_square_m":4344356566.691725,
+    "geom:area_square_m":4344356566.69202,
     "geom:bbox":"144.303534016,-36.129919552,145.36372352,-35.286275559",
     "geom:latitude":-35.732347,
     "geom:longitude":144.742022,
@@ -23,7 +23,7 @@
     "mps:latitude":-35.752351,
     "mps:longitude":144.697706,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:bel_x_preferred":[
         "\u041c\u044e\u0440\u044d\u0439"
@@ -119,9 +119,12 @@
         136253039
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"15500"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"bcfb1ae6b1fa91be58b8994092743d36",
+    "wof:geomhash":"12bee77f9e3de171ee383965364a5fd8",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":102049015,
-    "wof:lastmodified":1566600193,
+    "wof:lastmodified":1695886957,
     "wof:name":"Murray",
     "wof:parent_id":85681545,
     "wof:placetype":"county",

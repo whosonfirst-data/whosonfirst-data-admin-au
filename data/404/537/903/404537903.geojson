@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012188,
-    "geom:area_square_m":120027553.420912,
+    "geom:area_square_m":120027553.421124,
     "geom:bbox":"144.976699008,-37.2865199975,145.13568,-37.159149477",
     "geom:latitude":-37.212494,
     "geom:longitude":145.060878,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.214218,
     "lbl:longitude":145.067275,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Broadford"
@@ -53,9 +59,12 @@
         102048437
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20185"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"eb43ba57f2d7d7d795b48f22f926b864",
+    "wof:geomhash":"d1a8934b9c9272d684bc6869506a180d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -67,7 +76,7 @@
         }
     ],
     "wof:id":404537903,
-    "wof:lastmodified":1566602336,
+    "wof:lastmodified":1695877316,
     "wof:name":"Broadford",
     "wof:parent_id":102048437,
     "wof:placetype":"localadmin",

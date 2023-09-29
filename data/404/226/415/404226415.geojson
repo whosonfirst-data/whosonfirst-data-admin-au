@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.081203,
-    "geom:area_square_m":818766441.503807,
+    "geom:area_square_m":818766441.505003,
     "geom:bbox":"147.574324992,-35.5584926065,147.931406784,-35.179497999",
     "geom:latitude":-35.370387,
     "geom:longitude":147.753816,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.304421,
     "lbl:longitude":147.753733,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Tarcutta"
@@ -50,9 +56,12 @@
         102049075
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12218"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"bfa8db2f05d2ea735d0f66672ff8dd91",
+    "wof:geomhash":"6aae4115627423388246f6145fc29e06",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":404226415,
-    "wof:lastmodified":1566602028,
+    "wof:lastmodified":1695877147,
     "wof:name":"Tarcutta",
     "wof:parent_id":102049075,
     "wof:placetype":"localadmin",

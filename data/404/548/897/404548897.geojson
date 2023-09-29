@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001201,
-    "geom:area_square_m":10821765.245175,
+    "geom:area_square_m":10821765.245178,
     "geom:bbox":"147.088925344,-43.2648788395,147.142303008,-43.2144036245",
     "geom:latitude":-43.235819,
     "geom:longitude":147.11532,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-43.234665,
     "lbl:longitude":147.112662,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Eggs And Bacon Bay"
@@ -38,9 +44,12 @@
         102048679
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60101"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"d3cee066d16e274920ba9f1d0f5b63f1",
+    "wof:geomhash":"7d2fd79c2441de391fe986c4690ba4af",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404548897,
-    "wof:lastmodified":1566603228,
+    "wof:lastmodified":1695877832,
     "wof:name":"Eggs And Bacon Bay",
     "wof:parent_id":102048679,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.424939,
-    "geom:area_square_m":3931610685.525944,
+    "geom:area_square_m":3931609669.808564,
     "geom:bbox":"144.677307,-42.118343,146.050484,-41.049041",
     "geom:latitude":-41.559436,
     "geom:longitude":145.34755,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-41.302768,
     "lbl:longitude":144.962287,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "West Coast"
@@ -98,9 +104,12 @@
         102049649
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60393"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"c297122899e0a39d4437c0eabe0134e3",
+    "wof:geomhash":"96b8265bdaa4219560dd5fbf96629d0c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -112,7 +121,7 @@
         }
     ],
     "wof:id":404549553,
-    "wof:lastmodified":1636494660,
+    "wof:lastmodified":1695877872,
     "wof:name":"West Coast",
     "wof:parent_id":102049649,
     "wof:placetype":"localadmin",

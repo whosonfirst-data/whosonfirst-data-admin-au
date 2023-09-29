@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.105555,
-    "geom:area_square_m":1108782537.162919,
+    "geom:area_square_m":1108782537.1627,
     "geom:bbox":"117.925219008,-32.023791642,118.378470592,-31.6964178805",
     "geom:latitude":-31.841575,
     "geom:longitude":118.168633,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.841282,
     "lbl:longitude":118.16858,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bruce Rock"
@@ -38,9 +44,12 @@
         102049289
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50101"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"15c1b4ff0c6df9cc9974070020eeea76",
+    "wof:geomhash":"6387789ab6aaa5df80331be4fe796a5d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404546915,
-    "wof:lastmodified":1566603125,
+    "wof:lastmodified":1695877780,
     "wof:name":"Bruce Rock",
     "wof:parent_id":102049289,
     "wof:placetype":"localadmin",

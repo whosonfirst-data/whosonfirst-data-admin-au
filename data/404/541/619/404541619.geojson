@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00093,
-    "geom:area_square_m":11009081.158813,
+    "geom:area_square_m":11009081.158821,
     "geom:bbox":"145.672059008,-16.8749362725,145.736181664,-16.8474550035",
     "geom:latitude":-16.860389,
     "geom:longitude":145.698492,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-16.861425,
     "lbl:longitude":145.69266,
     "lbl:max_zoom":18.0,
@@ -147,13 +153,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC30323",
         "wd:id":"Q5037805"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934125
     ],
     "wof:country":"AU",
-    "wof:geomhash":"1cd481539d245403ac5b45b1468684c7",
+    "wof:geomhash":"47eb8cef0b9e6e6dd469459d9a5ece16",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -165,7 +173,7 @@
         }
     ],
     "wof:id":404541619,
-    "wof:lastmodified":1566603054,
+    "wof:lastmodified":1695878031,
     "wof:name":"Caravonica",
     "wof:parent_id":102048911,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000345,
-    "geom:area_square_m":3502368.78898,
+    "geom:area_square_m":3502368.788983,
     "geom:bbox":"138.647094112,-34.889481898,138.67423632,-34.871704027",
     "geom:latitude":-34.881339,
     "geom:longitude":138.660906,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.882243,
     "lbl:longitude":138.659807,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Campbelltown"
@@ -66,12 +72,15 @@
         102049079
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40091"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935841
     ],
     "wof:country":"AU",
-    "wof:geomhash":"f23dae6741d972fbe1a872a9f6caa8fd",
+    "wof:geomhash":"5f1e6f5b0aa7e321b0ab761650ccbea4",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -84,7 +93,7 @@
         }
     ],
     "wof:id":404545055,
-    "wof:lastmodified":1566602223,
+    "wof:lastmodified":1695877253,
     "wof:name":"Campbelltown",
     "wof:parent_id":102049079,
     "wof:placetype":"localadmin",

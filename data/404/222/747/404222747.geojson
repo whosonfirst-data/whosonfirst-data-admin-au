@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037677,
-    "geom:area_square_m":389609577.752735,
+    "geom:area_square_m":389609577.752659,
     "geom:bbox":"148.2253368,-33.3289929675,148.587124768,-33.1480759915",
     "geom:latitude":-33.250158,
     "geom:longitude":148.378366,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.246509,
     "lbl:longitude":148.395981,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Cookamidgera"
@@ -38,9 +44,12 @@
         102048487
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10588"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"f30375e132b02a58b84c7f41d86945da",
+    "wof:geomhash":"080ed27c6250d35e3d5e0649d2154c81",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404222747,
-    "wof:lastmodified":1566602776,
+    "wof:lastmodified":1695877578,
     "wof:name":"Cookamidgera",
     "wof:parent_id":102048487,
     "wof:placetype":"localadmin",

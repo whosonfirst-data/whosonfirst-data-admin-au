@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009245,
-    "geom:area_square_m":100767584.686691,
+    "geom:area_square_m":100767584.686697,
     "geom:bbox":"153.183921216,-28.265189858,153.295864992,-28.102951851",
     "geom:latitude":-28.177343,
     "geom:longitude":153.22972,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.189328,
     "lbl:longitude":153.219598,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Numinbah Valley"
@@ -39,9 +45,12 @@
         102049363
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31256"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"e07fa7fdb6bdc0facd889ae8401a364e",
+    "wof:geomhash":"20a4522302c74959aefa4b264c647852",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":404543591,
-    "wof:lastmodified":1566602125,
+    "wof:lastmodified":1695877205,
     "wof:name":"Numinbah Valley",
     "wof:parent_id":102049363,
     "wof:placetype":"localadmin",

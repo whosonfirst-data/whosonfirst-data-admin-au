@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000053,
-    "geom:area_square_m":548992.671444,
+    "geom:area_square_m":548992.671446,
     "geom:bbox":"151.490788128,-33.367207215,151.504446016,-33.357619997",
     "geom:latitude":-33.362688,
     "geom:longitude":151.49706,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.363508,
     "lbl:longitude":151.497163,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Toowoon Bay"
@@ -38,12 +44,15 @@
         102049097
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12296"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932117
     ],
     "wof:country":"AU",
-    "wof:geomhash":"8f5d79445549b08774ff602d03f2304d",
+    "wof:geomhash":"9469ebd4cc5bf8fa7ef4fc50d73497a7",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404226591,
-    "wof:lastmodified":1566602060,
+    "wof:lastmodified":1695877168,
     "wof:name":"Toowoon Bay",
     "wof:parent_id":102049097,
     "wof:placetype":"localadmin",

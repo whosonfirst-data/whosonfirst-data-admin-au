@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010854,
-    "geom:area_square_m":113298451.354462,
+    "geom:area_square_m":113298451.354425,
     "geom:bbox":"151.447205184,-32.4623203595,151.638880992,-32.366876991",
     "geom:latitude":-32.41718,
     "geom:longitude":151.541726,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.411757,
     "lbl:longitude":151.5032,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Gresffordd"
@@ -68,9 +74,12 @@
         102049061
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11031"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"334fc7b85887bfd188f61322d7dda3ff",
+    "wof:geomhash":"24bc61a7d3a065bd882dc5d4688b7303",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -82,7 +91,7 @@
         }
     ],
     "wof:id":404223745,
-    "wof:lastmodified":1566602567,
+    "wof:lastmodified":1695877457,
     "wof:name":"Gresford",
     "wof:parent_id":102049061,
     "wof:placetype":"localadmin",

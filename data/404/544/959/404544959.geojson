@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004921,
-    "geom:area_square_m":49961890.357651,
+    "geom:area_square_m":49961890.357634,
     "geom:bbox":"138.919064,-34.8475060085,139.043965344,-34.7697599435",
     "geom:latitude":-34.813353,
     "geom:longitude":138.976268,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.812001,
     "lbl:longitude":138.977223,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Birdwood"
@@ -50,9 +56,12 @@
         102049017
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40047"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"7711e9900d12e2a43bd99840aa3d8ce1",
+    "wof:geomhash":"bffc10facbbce80ce5e86100329fd4ff",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":404544959,
-    "wof:lastmodified":1566602179,
+    "wof:lastmodified":1695877233,
     "wof:name":"Birdwood",
     "wof:parent_id":102049017,
     "wof:placetype":"localadmin",

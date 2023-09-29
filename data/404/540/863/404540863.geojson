@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.082731,
-    "geom:area_square_m":826447009.356863,
+    "geom:area_square_m":826447009.356707,
     "geom:bbox":"143.095834016,-36.2490200175,143.536652288,-35.977473003",
     "geom:latitude":-36.110714,
     "geom:longitude":143.311611,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.107723,
     "lbl:longitude":143.307416,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Wycheproof"
@@ -53,9 +59,12 @@
         102049557
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21511"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"5ae0453a0198fab010a894a79578695b",
+    "wof:geomhash":"1e337b72647cb59adebd1964c97ceb18",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -67,7 +76,7 @@
         }
     ],
     "wof:id":404540863,
-    "wof:lastmodified":1566603033,
+    "wof:lastmodified":1695877738,
     "wof:name":"Wycheproof",
     "wof:parent_id":102049557,
     "wof:placetype":"localadmin",

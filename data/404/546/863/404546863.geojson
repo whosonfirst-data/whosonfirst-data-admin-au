@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010226,
-    "geom:area_square_m":104675123.825194,
+    "geom:area_square_m":104675123.825175,
     "geom:bbox":"114.991089824,-34.2084870005,115.105653984,-34.0428165035",
     "geom:latitude":-34.12362,
     "geom:longitude":115.046408,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.138899,
     "lbl:longitude":115.056757,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Boranup"
@@ -38,9 +44,12 @@
         102048475
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50078"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"9930b7bd1f118960d0e05d56cdcf882c",
+    "wof:geomhash":"f2e9edbed7fbb982359d0a2bab5a49b9",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404546863,
-    "wof:lastmodified":1566603148,
+    "wof:lastmodified":1695877789,
     "wof:name":"Boranup",
     "wof:parent_id":102048475,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000719,
-    "geom:area_square_m":8041718.488609,
+    "geom:area_square_m":8041718.488621,
     "geom:bbox":"152.842580992,-25.3372854525,152.874810016,-25.3007769605",
     "geom:latitude":-25.317578,
     "geom:longitude":152.859122,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-25.31811,
     "lbl:longitude":152.857506,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Wondunna"
@@ -38,12 +44,15 @@
         102049435
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31793"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935651
     ],
     "wof:country":"AU",
-    "wof:geomhash":"88acc7a0d5485acd7a70315df9b353a5",
+    "wof:geomhash":"d5d2e3a16d1605c24175168c53bacfe9",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404544725,
-    "wof:lastmodified":1566602171,
+    "wof:lastmodified":1695877228,
     "wof:name":"Wondunna",
     "wof:parent_id":102049435,
     "wof:placetype":"localadmin",

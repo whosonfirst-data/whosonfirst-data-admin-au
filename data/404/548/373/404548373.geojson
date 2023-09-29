@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000527,
-    "geom:area_square_m":5403465.819668,
+    "geom:area_square_m":5403465.819662,
     "geom:bbox":"117.618820992,-34.052479997,117.648095008,-34.03396553",
     "geom:latitude":-34.04327,
     "geom:longitude":117.633449,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.043307,
     "lbl:longitude":117.633449,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tambellup"
@@ -38,12 +44,15 @@
         102048537
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50754"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937845
     ],
     "wof:country":"AU",
-    "wof:geomhash":"ef139d75b179c21d425cd4f955926f41",
+    "wof:geomhash":"7ff9e28747ede21288ab784f219474d7",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404548373,
-    "wof:lastmodified":1566603235,
+    "wof:lastmodified":1695877836,
     "wof:name":"Tambellup",
     "wof:parent_id":102048537,
     "wof:placetype":"localadmin",

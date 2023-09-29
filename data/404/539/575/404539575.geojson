@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015728,
-    "geom:area_square_m":155674509.40348,
+    "geom:area_square_m":155674509.403615,
     "geom:bbox":"144.653972,-36.919500921,144.853563232,-36.7472573925",
     "geom:latitude":-36.826897,
     "geom:longitude":144.752524,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.802389,
     "lbl:longitude":144.742744,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mount Camel"
@@ -38,9 +44,12 @@
         102049661
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20933"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"0d3a45e70e29f058ad19522c84578ccb",
+    "wof:geomhash":"619ef21858548bd07dc401decb07c51f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404539575,
-    "wof:lastmodified":1566602377,
+    "wof:lastmodified":1695877341,
     "wof:name":"Mount Camel",
     "wof:parent_id":102049661,
     "wof:placetype":"localadmin",

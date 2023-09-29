@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024586,
-    "geom:area_square_m":275851339.691851,
+    "geom:area_square_m":275851339.691831,
     "geom:bbox":"151.946534176,-24.955337542,152.205776,-24.7731199975",
     "geom:latitude":-24.852803,
     "geom:longitude":152.073247,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-24.862659,
     "lbl:longitude":152.062466,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Bucca"
@@ -44,9 +50,12 @@
         102048763
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30251"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"a1db271c8ccdc74f69225df0502cfeef",
+    "wof:geomhash":"482cbb823a08eb4604a9ca25c894bdc1",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404541467,
-    "wof:lastmodified":1566603087,
+    "wof:lastmodified":1695877764,
     "wof:name":"Bucca",
     "wof:parent_id":102048763,
     "wof:placetype":"localadmin",

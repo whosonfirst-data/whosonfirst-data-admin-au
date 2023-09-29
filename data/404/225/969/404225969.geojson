@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001302,
-    "geom:area_square_m":13541807.623413,
+    "geom:area_square_m":13541807.62341,
     "geom:bbox":"151.483930464,-32.7276610125,151.544576704,-32.6954725665",
     "geom:latitude":-32.712512,
     "geom:longitude":151.512153,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.712557,
     "lbl:longitude":151.509698,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0631\u0630\u0631\u0641\u0648\u0631\u062f"
@@ -111,12 +117,15 @@
         102048483
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12020"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931781
     ],
     "wof:country":"AU",
-    "wof:geomhash":"4db572e5251de6458ea560ebb8122f9b",
+    "wof:geomhash":"4e1961fdae1a2fe22f159a7aab45fa01",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -129,7 +138,7 @@
         }
     ],
     "wof:id":404225969,
-    "wof:lastmodified":1566602706,
+    "wof:lastmodified":1695877531,
     "wof:name":"Rutherford",
     "wof:parent_id":102048483,
     "wof:placetype":"localadmin",

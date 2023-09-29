@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003533,
-    "geom:area_square_m":36235131.328419,
+    "geom:area_square_m":36235131.328454,
     "geom:bbox":"116.091411328,-33.990049009,116.170388832,-33.9199900085",
     "geom:latitude":-33.95478,
     "geom:longitude":116.132388,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.956033,
     "lbl:longitude":116.13558,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Bridgetown"
@@ -341,12 +347,15 @@
         102049243
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50088"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101936933
     ],
     "wof:country":"AU",
-    "wof:geomhash":"253ce5475f872cacadb0da9e4fbd84f1",
+    "wof:geomhash":"671b9b914ca6984e0aa22d2aab89bb89",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -358,7 +367,7 @@
         }
     ],
     "wof:id":404546885,
-    "wof:lastmodified":1566603140,
+    "wof:lastmodified":1695877786,
     "wof:name":"Bridgetown",
     "wof:parent_id":102049243,
     "wof:placetype":"localadmin",

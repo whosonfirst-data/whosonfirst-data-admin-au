@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006624,
-    "geom:area_square_m":64219883.331978,
+    "geom:area_square_m":64219883.331819,
     "geom:bbox":"142.668258016,-38.391465002,142.858654912,-38.334664822",
     "geom:latitude":-38.363232,
     "geom:longitude":142.772142,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.36571,
     "lbl:longitude":142.779767,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Laang"
@@ -38,9 +44,12 @@
         102049109
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20747"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"6104e7ba14f6c27be702e268b57b1894",
+    "wof:geomhash":"5b7cb3a00a3318f6fdde39669f899e60",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404539157,
-    "wof:lastmodified":1566602353,
+    "wof:lastmodified":1695877326,
     "wof:name":"Laang",
     "wof:parent_id":102049109,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006871,
-    "geom:area_square_m":63880429.360146,
+    "geom:area_square_m":63880429.36022,
     "geom:bbox":"146.35752688,-41.2978364805,146.485116992,-41.197590993",
     "geom:latitude":-41.251196,
     "geom:longitude":146.415063,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-41.255405,
     "lbl:longitude":146.414158,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Latrobe"
@@ -74,9 +80,12 @@
         102048629
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60184"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"53ecac198010805e029a0eedc1d45131",
+    "wof:geomhash":"7ea64e28d2ff6f72223fa32c1aed16a9",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -88,7 +97,7 @@
         }
     ],
     "wof:id":404549083,
-    "wof:lastmodified":1566602838,
+    "wof:lastmodified":1695877618,
     "wof:name":"Latrobe",
     "wof:parent_id":102048629,
     "wof:placetype":"localadmin",

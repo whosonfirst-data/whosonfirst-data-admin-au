@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000494,
-    "geom:area_square_m":5091356.345722,
+    "geom:area_square_m":5091356.345732,
     "geom:bbox":"150.86117,-33.506606,150.896267,-33.478358",
     "geom:latitude":-33.494248,
     "geom:longitude":150.87658,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.48673,
     "lbl:longitude":150.872478,
     "lbl:max_zoom":18.0,
@@ -46,21 +52,23 @@
     "qs:source":"Australian Bureau Of Statistics",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681545,
         102191583,
         85632793,
-        102048745,
         136253039,
-        85681545
+        102048745
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC12027",
         "wd:id":"Q7396843"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931787
     ],
     "wof:country":"AU",
-    "wof:geomhash":"746ec810184bb6575dfa249c51ff21d5",
+    "wof:geomhash":"e47ec1cab84d1b825ee8af8d6df5f771",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -72,7 +80,7 @@
         }
     ],
     "wof:id":404225985,
-    "wof:lastmodified":1607987559,
+    "wof:lastmodified":1695878055,
     "wof:name":"Sackville",
     "wof:parent_id":102048745,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000379,
-    "geom:area_square_m":3920116.770762,
+    "geom:area_square_m":3920107.916086,
     "geom:bbox":"138.002543,-33.190693,138.018568,-33.150742",
     "geom:latitude":-33.171157,
     "geom:longitude":138.008789,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.168114,
     "lbl:longitude":138.008955,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u064a\u0646\u0627\u0621 \u0628\u0648\u0631\u062a \u0628\u064a\u0631\u064a"
@@ -140,12 +146,15 @@
         102049233
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40598"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101936495
     ],
     "wof:country":"AU",
-    "wof:geomhash":"76c7e9f7dc641c9199659f5d053f4199",
+    "wof:geomhash":"c95dfb497c8fc089011e22574827014d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -157,7 +166,7 @@
         }
     ],
     "wof:id":404546159,
-    "wof:lastmodified":1636494678,
+    "wof:lastmodified":1695877884,
     "wof:name":"Port Pirie",
     "wof:parent_id":102049233,
     "wof:placetype":"localadmin",

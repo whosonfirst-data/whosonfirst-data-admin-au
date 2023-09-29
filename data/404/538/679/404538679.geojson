@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000092,
-    "geom:area_square_m":893180.204403,
+    "geom:area_square_m":893168.170854,
     "geom:bbox":"145.036139,-37.898198,145.046129,-37.886282",
     "geom:latitude":-37.892371,
     "geom:longitude":145.041353,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.892476,
     "lbl:longitude":145.041258,
     "lbl:max_zoom":18.0,
@@ -58,13 +64,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC20533",
         "wd:id":"Q5567817"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932971
     ],
     "wof:country":"AU",
-    "wof:geomhash":"a08bd9384df7888cb474e059ff73ecbe",
+    "wof:geomhash":"f13008bcd5cd60d9ae72f6b1fa95141e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -77,7 +85,7 @@
         }
     ],
     "wof:id":404538679,
-    "wof:lastmodified":1690853591,
+    "wof:lastmodified":1695877960,
     "wof:name":"Glen Huntly",
     "wof:parent_id":102048479,
     "wof:placetype":"localadmin",

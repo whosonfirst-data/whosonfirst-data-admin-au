@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002288,
-    "geom:area_square_m":25032544.696157,
+    "geom:area_square_m":25032544.696143,
     "geom:bbox":"153.168920192,-27.814967013,153.261155904,-27.7597060145",
     "geom:latitude":-27.793296,
     "geom:longitude":153.211512,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.785437,
     "lbl:longitude":153.212206,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Luscombe"
@@ -39,9 +45,12 @@
         102049363
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30978"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"005ec7c4cfac427edcd9541403da41df",
+    "wof:geomhash":"a857e8a8a3c59a933a8c22e61dd0a2ea",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":404543013,
-    "wof:lastmodified":1566602102,
+    "wof:lastmodified":1695877192,
     "wof:name":"Luscombe",
     "wof:parent_id":102049363,
     "wof:placetype":"localadmin",

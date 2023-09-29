@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003958,
-    "geom:area_square_m":40067622.953393,
+    "geom:area_square_m":40067622.95333,
     "geom:bbox":"117.745907072,-35.0987735635,117.857717024,-35.0293980085",
     "geom:latitude":-35.055152,
     "geom:longitude":117.807762,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.051915,
     "lbl:longitude":117.807772,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Torndirrup"
@@ -38,9 +44,12 @@
         102048671
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50771"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"b32d3077ebe4e289e88faf6e9c84ba09",
+    "wof:geomhash":"bb7312118963ca509d22e4774eaa212f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404548409,
-    "wof:lastmodified":1566603182,
+    "wof:lastmodified":1695877807,
     "wof:name":"Torndirrup",
     "wof:parent_id":102048671,
     "wof:placetype":"localadmin",

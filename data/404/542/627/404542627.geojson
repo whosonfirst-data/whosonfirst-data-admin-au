@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000086,
-    "geom:area_square_m":1016381.646987,
+    "geom:area_square_m":1016381.646983,
     "geom:bbox":"146.032253888,-17.5237330115,146.042547424,-17.5118720325",
     "geom:latitude":-17.518229,
     "geom:longitude":146.037319,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-17.519008,
     "lbl:longitude":146.037735,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Innisfail Estate"
@@ -38,12 +44,15 @@
         102049237
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30803"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934593
     ],
     "wof:country":"AU",
-    "wof:geomhash":"d6bf71153e1bb671a383ca0381288a4a",
+    "wof:geomhash":"56c22dfb75dcb36d9df4e953ddc2f9e1",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404542627,
-    "wof:lastmodified":1566602273,
+    "wof:lastmodified":1695877278,
     "wof:name":"Innisfail Estate",
     "wof:parent_id":102049237,
     "wof:placetype":"localadmin",

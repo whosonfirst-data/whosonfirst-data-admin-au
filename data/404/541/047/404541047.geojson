@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.303987,
-    "geom:area_square_m":3428237355.853301,
+    "geom:area_square_m":3428237355.85306,
     "geom:bbox":"147.990343008,-24.612194991,148.623048992,-23.7767349355",
     "geom:latitude":-24.210073,
     "geom:longitude":148.347206,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-24.164832,
     "lbl:longitude":148.320726,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Arcturus"
@@ -230,9 +236,12 @@
         102049631
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30053"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"36418159aaf80fe73579b28ebfd86ce0",
+    "wof:geomhash":"c74773f98af4bfc0b49141c3773927f8",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -244,7 +253,7 @@
         }
     ],
     "wof:id":404541047,
-    "wof:lastmodified":1566603057,
+    "wof:lastmodified":1695877748,
     "wof:name":"Arcturus",
     "wof:parent_id":102049631,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000795,
-    "geom:area_square_m":8181039.71284,
+    "geom:area_square_m":8181039.712861,
     "geom:bbox":"115.302240608,-33.6712248005,115.343535776,-33.644740663",
     "geom:latitude":-33.660743,
     "geom:longitude":115.323617,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.660938,
     "lbl:longitude":115.323613,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "West Busselton"
@@ -39,12 +45,15 @@
         102048623
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50826"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937935
     ],
     "wof:country":"AU",
-    "wof:geomhash":"01ffa20f8d0a23c18d37d6c6efbd0d4f",
+    "wof:geomhash":"c2fa6830bd26aa9f5008c0bfed57e081",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404548531,
-    "wof:lastmodified":1566603201,
+    "wof:lastmodified":1695877817,
     "wof:name":"West Busselton",
     "wof:parent_id":102048623,
     "wof:placetype":"localadmin",

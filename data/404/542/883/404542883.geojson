@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001668,
-    "geom:area_square_m":18486792.845692,
+    "geom:area_square_m":18486792.845631,
     "geom:bbox":"152.649836608,-26.330309009,152.705068928,-26.255377238",
     "geom:latitude":-26.296397,
     "geom:longitude":152.676552,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-26.303344,
     "lbl:longitude":152.676569,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lagoon Pocket"
@@ -38,9 +44,12 @@
         102049393
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30920"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"79b0be5b8b2f1883745fcda215597770",
+    "wof:geomhash":"5d7338b857ae8c386d398a8a4c6d2d1b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404542883,
-    "wof:lastmodified":1566602297,
+    "wof:lastmodified":1695877292,
     "wof:name":"Lagoon Pocket",
     "wof:parent_id":102049393,
     "wof:placetype":"localadmin",

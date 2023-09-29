@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021451,
-    "geom:area_square_m":212850503.830703,
+    "geom:area_square_m":212850503.830742,
     "geom:bbox":"146.052962016,-36.754776144,146.236145056,-36.5291729915",
     "geom:latitude":-36.633417,
     "geom:longitude":146.157582,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.635085,
     "lbl:longitude":146.163815,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lurg"
@@ -41,9 +47,12 @@
         102049239
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20812"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"78fbbe30695cdcb341e4f1ffa95c83e1",
+    "wof:geomhash":"8c224829bdf620ba2f35b685f8629a8c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404539303,
-    "wof:lastmodified":1566602386,
+    "wof:lastmodified":1695877346,
     "wof:name":"Lurg",
     "wof:parent_id":102049239,
     "wof:placetype":"localadmin",

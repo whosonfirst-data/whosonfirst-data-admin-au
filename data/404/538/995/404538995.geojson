@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028221,
-    "geom:area_square_m":272103872.65371,
+    "geom:area_square_m":272103872.653504,
     "geom:bbox":"143.354444,-38.8576929555,143.6245192,-38.666970998",
     "geom:latitude":-38.761042,
     "geom:longitude":143.504478,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.76575,
     "lbl:longitude":143.513616,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:als_x_preferred":[
         "Johanna"
@@ -71,9 +77,12 @@
         102049117
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20674"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"83a86549b1e479e2bf07f621f08b0f18",
+    "wof:geomhash":"75b67c4cf6edc1f375b07e2a788ddce2",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -85,7 +94,7 @@
         }
     ],
     "wof:id":404538995,
-    "wof:lastmodified":1566602456,
+    "wof:lastmodified":1695877388,
     "wof:name":"Johanna",
     "wof:parent_id":102049117,
     "wof:placetype":"localadmin",

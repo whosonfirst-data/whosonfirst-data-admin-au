@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007263,
-    "geom:area_square_m":85798002.252099,
+    "geom:area_square_m":85798002.252102,
     "geom:bbox":"145.407549728,-17.235280993,145.518785632,-17.136362085",
     "geom:latitude":-17.191574,
     "geom:longitude":145.465025,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-17.198518,
     "lbl:longitude":145.476155,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Tolga"
@@ -68,9 +74,12 @@
         102048519
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31645"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"be0a0209c0108ddbd81cbc4192e8f390",
+    "wof:geomhash":"975d11ada04a35477fc1a4ac1e3525d6",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -82,7 +91,7 @@
         }
     ],
     "wof:id":404544421,
-    "wof:lastmodified":1566602185,
+    "wof:lastmodified":1695877236,
     "wof:name":"Tolga",
     "wof:parent_id":102048519,
     "wof:placetype":"localadmin",

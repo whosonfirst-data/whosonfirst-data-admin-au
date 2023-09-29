@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000419,
-    "geom:area_square_m":4386292.235558,
+    "geom:area_square_m":4386292.23555,
     "geom:bbox":"115.803108352,-32.0772359775,115.829210528,-32.056264988",
     "geom:latitude":-32.065612,
     "geom:longitude":115.814829,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.06701,
     "lbl:longitude":115.814582,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kardinya"
@@ -39,12 +45,15 @@
         102048851
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50378"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937343
     ],
     "wof:country":"AU",
-    "wof:geomhash":"e95b86418b1645cab89f3ee7287b9da2",
+    "wof:geomhash":"42d8869eab3269757d4a23df04bc089c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404547533,
-    "wof:lastmodified":1566602920,
+    "wof:lastmodified":1695877673,
     "wof:name":"Kardinya",
     "wof:parent_id":102048851,
     "wof:placetype":"localadmin",

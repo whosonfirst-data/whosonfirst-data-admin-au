@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011955,
-    "geom:area_square_m":110978990.313367,
+    "geom:area_square_m":110978990.313526,
     "geom:bbox":"146.347403008,-41.409510565,146.510988096,-41.2797088115",
     "geom:latitude":-41.346493,
     "geom:longitude":146.42208,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-41.351304,
     "lbl:longitude":146.422047,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Railton"
@@ -38,9 +44,12 @@
         102049291
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60292"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"438545786e7e3d8d9a1f08a6cffe5f85",
+    "wof:geomhash":"a95f6c102cc8a6482f5bee62ad833fae",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404549327,
-    "wof:lastmodified":1566602909,
+    "wof:lastmodified":1695877666,
     "wof:name":"Railton",
     "wof:parent_id":102049291,
     "wof:placetype":"localadmin",

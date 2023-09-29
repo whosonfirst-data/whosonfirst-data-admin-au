@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000017,
-    "geom:area_square_m":176093.588912,
+    "geom:area_square_m":176093.588911,
     "geom:bbox":"151.19755488,-33.9146520185,151.202791904,-33.908375209",
     "geom:latitude":-33.911473,
     "geom:longitude":151.20038,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.911597,
     "lbl:longitude":151.200556,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0628\u06cc\u06a9\u0646\u0632\u0641\u06cc\u0644\u062f"
@@ -111,12 +117,15 @@
         102049151
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10140"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101929511
     ],
     "wof:country":"AU",
-    "wof:geomhash":"91716f9a8e7e1f9e0b7739a5bb6a9359",
+    "wof:geomhash":"bec9a9fa54c07989a032c38051b4cb9c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -129,7 +138,7 @@
         }
     ],
     "wof:id":404221739,
-    "wof:lastmodified":1566601965,
+    "wof:lastmodified":1695877117,
     "wof:name":"Beaconsfield",
     "wof:parent_id":102049151,
     "wof:placetype":"localadmin",

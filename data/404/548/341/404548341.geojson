@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000462,
-    "geom:area_square_m":4852808.26212,
+    "geom:area_square_m":4852817.940723,
     "geom:bbox":"115.800452,-31.901762,115.82379,-31.866376",
     "geom:latitude":-31.885142,
     "geom:longitude":115.810989,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.886511,
     "lbl:longitude":115.810811,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ang_x_preferred":[
         "Striuelin"
@@ -216,12 +222,15 @@
         102048573
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50740"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937817
     ],
     "wof:country":"AU",
-    "wof:geomhash":"f83e321bb84d0e237f63a84dde047fd8",
+    "wof:geomhash":"4fb7c0b1b1f40f5a00855ac9cb286b1f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -234,7 +243,7 @@
         }
     ],
     "wof:id":404548341,
-    "wof:lastmodified":1636494686,
+    "wof:lastmodified":1695877888,
     "wof:name":"Stirling",
     "wof:parent_id":102048573,
     "wof:placetype":"localadmin",

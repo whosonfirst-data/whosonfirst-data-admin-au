@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000323,
-    "geom:area_square_m":3274891.686002,
+    "geom:area_square_m":3274891.686006,
     "geom:bbox":"117.865968448,-35.0098811745,117.903773984,-34.994609998",
     "geom:latitude":-35.000614,
     "geom:longitude":117.884306,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.001929,
     "lbl:longitude":117.883011,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Yakamia"
@@ -38,12 +44,15 @@
         102048671
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50870"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937995
     ],
     "wof:country":"AU",
-    "wof:geomhash":"b53bb62f9944dc4c76231e8fe810d9ac",
+    "wof:geomhash":"062ab4821240d6f65a70bbc7850f7eca",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404548631,
-    "wof:lastmodified":1566603226,
+    "wof:lastmodified":1695877831,
     "wof:name":"Yakamia",
     "wof:parent_id":102048671,
     "wof:placetype":"localadmin",

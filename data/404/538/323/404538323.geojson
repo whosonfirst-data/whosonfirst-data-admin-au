@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007308,
-    "geom:area_square_m":71764653.787372,
+    "geom:area_square_m":71764653.787388,
     "geom:bbox":"144.811631008,-37.4785804115,144.921230656,-37.3581375305",
     "geom:latitude":-37.422519,
     "geom:longitude":144.869727,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.440208,
     "lbl:longitude":144.868901,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Darraweit Guim"
@@ -38,9 +44,12 @@
         102048977
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20372"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"f84e50da660130cf73e2c6c88b6f71ad",
+    "wof:geomhash":"716ab8c68edb0496ec2a7e4be4f26e89",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404538323,
-    "wof:lastmodified":1566602450,
+    "wof:lastmodified":1695877386,
     "wof:name":"Darraweit Guim",
     "wof:parent_id":102048977,
     "wof:placetype":"localadmin",

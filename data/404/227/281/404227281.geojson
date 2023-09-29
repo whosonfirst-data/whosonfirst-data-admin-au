@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024573,
-    "geom:area_square_m":257005686.002504,
+    "geom:area_square_m":257005686.002193,
     "geom:bbox":"149.587558016,-32.4054730045,149.779762016,-32.1110065065",
     "geom:latitude":-32.24001,
     "geom:longitude":149.66205,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.16811,
     "lbl:longitude":149.663514,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Yarrawonga"
@@ -41,9 +47,12 @@
         102049261
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12603"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"7d4154765c1db645fe8d57a572d8f847",
+    "wof:geomhash":"f7dedcfd5343d13319aad3b8ecafdedf",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404227281,
-    "wof:lastmodified":1566601942,
+    "wof:lastmodified":1695877104,
     "wof:name":"Yarrawonga",
     "wof:parent_id":102049261,
     "wof:placetype":"localadmin",

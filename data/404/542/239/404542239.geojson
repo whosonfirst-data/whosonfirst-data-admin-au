@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001542,
-    "geom:area_square_m":16900989.231957,
+    "geom:area_square_m":16900989.231994,
     "geom:bbox":"152.342292608,-27.6012840395,152.39886,-27.552435992",
     "geom:latitude":-27.576214,
     "geom:longitude":152.373404,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.577664,
     "lbl:longitude":152.373398,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Forest Hill"
@@ -71,9 +77,12 @@
         102049033
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30618"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"decbbb93d2539e901e2cb32e4902ec83",
+    "wof:geomhash":"05d5bbcf32fc546833870b78ccf92dd3",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -85,7 +94,7 @@
         }
     ],
     "wof:id":404542239,
-    "wof:lastmodified":1566602307,
+    "wof:lastmodified":1695877299,
     "wof:name":"Forest Hill",
     "wof:parent_id":102049033,
     "wof:placetype":"localadmin",

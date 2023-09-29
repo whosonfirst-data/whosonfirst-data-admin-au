@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001715,
-    "geom:area_square_m":18238301.182321,
+    "geom:area_square_m":18238301.182447,
     "geom:bbox":"152.910663008,-30.711270995,152.977964992,-30.651359929",
     "geom:latitude":-30.690005,
     "geom:longitude":152.944664,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-30.694754,
     "lbl:longitude":152.945171,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "North Macksville"
@@ -38,9 +44,12 @@
         102049433
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11750"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"97af95e763813572f4efb1b42d214112",
+    "wof:geomhash":"41b2fcec2a1d4e8a38819cbcb75aa05e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404225363,
-    "wof:lastmodified":1566602667,
+    "wof:lastmodified":1695877512,
     "wof:name":"North Macksville",
     "wof:parent_id":102049433,
     "wof:placetype":"localadmin",

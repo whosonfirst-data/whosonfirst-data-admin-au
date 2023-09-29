@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002662,
-    "geom:area_square_m":28361312.021959,
+    "geom:area_square_m":28361312.022115,
     "geom:bbox":"151.519198016,-30.542824795,151.586316384,-30.4555764455",
     "geom:latitude":-30.500324,
     "geom:longitude":151.556818,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-30.495097,
     "lbl:longitude":151.561885,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Saumarez Ponds"
@@ -38,9 +44,12 @@
         102048863
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12048"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"52a5d1acbde80898266b202a9358971f",
+    "wof:geomhash":"04c4361bb265f39c0994fe25dd26d32b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404226033,
-    "wof:lastmodified":1566602077,
+    "wof:lastmodified":1695877179,
     "wof:name":"Saumarez Ponds",
     "wof:parent_id":102048863,
     "wof:placetype":"localadmin",

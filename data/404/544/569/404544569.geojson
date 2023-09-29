@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.206353,
-    "geom:area_square_m":2284406536.679827,
+    "geom:area_square_m":2284406536.680038,
     "geom:bbox":"149.037694912,-26.650961998,149.831561312,-26.2759810025",
     "geom:latitude":-26.45487,
     "geom:longitude":149.409164,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-26.441691,
     "lbl:longitude":149.369789,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Wallumbilla North"
@@ -38,9 +44,12 @@
         102049081
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31720"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"ce0cb37da57350251db18c965d4447c7",
+    "wof:geomhash":"ae2ce109e2cb449fc982b16cc5cc84fd",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404544569,
-    "wof:lastmodified":1566602147,
+    "wof:lastmodified":1695877216,
     "wof:name":"Wallumbilla North",
     "wof:parent_id":102049081,
     "wof:placetype":"localadmin",

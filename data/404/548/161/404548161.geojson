@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00721,
-    "geom:area_square_m":74877620.269526,
+    "geom:area_square_m":74877620.269467,
     "geom:bbox":"115.62862032,-32.93307345,115.719977632,-32.793392715",
     "geom:latitude":-32.866834,
     "geom:longitude":115.670255,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.864445,
     "lbl:longitude":115.670902,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Preston Beach"
@@ -38,9 +44,12 @@
         102048647
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50660"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"4c5f2c1fb561224b40fb8e2c69e82e49",
+    "wof:geomhash":"381ecce8dabfdb19e5b534528e32a989",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404548161,
-    "wof:lastmodified":1566603161,
+    "wof:lastmodified":1695877795,
     "wof:name":"Preston Beach",
     "wof:parent_id":102048647,
     "wof:placetype":"localadmin",

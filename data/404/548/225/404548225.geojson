@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001831,
-    "geom:area_square_m":19196772.121001,
+    "geom:area_square_m":19196772.120969,
     "geom:bbox":"115.44947344,-32.027633759,115.558403232,-31.9873434045",
     "geom:latitude":-32.006403,
     "geom:longitude":115.512605,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.001089,
     "lbl:longitude":115.512528,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Rottnest-eiland"
@@ -96,12 +102,15 @@
         102049397
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50689"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937739
     ],
     "wof:country":"AU",
-    "wof:geomhash":"c1b42e9edc0acbbf7863a194b9285a54",
+    "wof:geomhash":"b3e5663bb4d1d746bf4094160a26e338",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -114,7 +123,7 @@
         }
     ],
     "wof:id":404548225,
-    "wof:lastmodified":1566603210,
+    "wof:lastmodified":1695877820,
     "wof:name":"Rottnest Island",
     "wof:parent_id":102049397,
     "wof:placetype":"localadmin",

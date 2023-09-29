@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022149,
-    "geom:area_square_m":242073058.082432,
+    "geom:area_square_m":242073058.082367,
     "geom:bbox":"152.401740256,-27.966379005,152.581416,-27.7817598275",
     "geom:latitude":-27.886092,
     "geom:longitude":152.492099,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.886454,
     "lbl:longitude":152.493877,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Rosevale"
@@ -41,9 +47,12 @@
         102048945
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31431"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"8b2309504717a4d5559cd298d2838129",
+    "wof:geomhash":"8a1e96331f4935dc32ab6a7cb42d3b73",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404543971,
-    "wof:lastmodified":1566602116,
+    "wof:lastmodified":1695877200,
     "wof:name":"Rosevale",
     "wof:parent_id":102048945,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033611,
-    "geom:area_square_m":403565756.784897,
+    "geom:area_square_m":403565225.269936,
     "geom:bbox":"131.73452,-13.915241,131.917864,-13.731906",
     "geom:latitude":-13.823575,
     "geom:longitude":131.826193,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-13.823575,
     "lbl:longitude":131.826193,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09aa\u09be\u0987\u09a8 \u0995\u09cd\u09b0\u09c0\u0995"
@@ -101,9 +107,12 @@
         102049217
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC70158"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"f053f85841a1156b444ca668ab01b8b5",
+    "wof:geomhash":"ada57c4ad29d6d97ad3fd5801d9ffc4d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -115,7 +124,7 @@
         }
     ],
     "wof:id":404549839,
-    "wof:lastmodified":1636494662,
+    "wof:lastmodified":1695877875,
     "wof:name":"Pine Creek",
     "wof:parent_id":102049217,
     "wof:placetype":"localadmin",

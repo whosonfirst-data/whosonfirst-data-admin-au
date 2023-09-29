@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0006,
-    "geom:area_square_m":6251083.138221,
+    "geom:area_square_m":6251105.891903,
     "geom:bbox":"115.639896,-32.598464,115.683778,-32.564266",
     "geom:latitude":-32.582435,
     "geom:longitude":115.661993,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.586079,
     "lbl:longitude":115.658332,
     "lbl:max_zoom":18.0,
@@ -307,13 +313,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC50258",
         "wd:id":"Q5431717"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937167
     ],
     "wof:country":"AU",
-    "wof:geomhash":"8e19af4b33039bd0aa38506010d47d81",
+    "wof:geomhash":"f38fdc283a23b76709859274b1852e59",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -326,7 +334,7 @@
         }
     ],
     "wof:id":404547263,
-    "wof:lastmodified":1690853763,
+    "wof:lastmodified":1695878021,
     "wof:name":"Falcon",
     "wof:parent_id":102048431,
     "wof:placetype":"localadmin",

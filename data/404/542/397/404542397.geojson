@@ -10,6 +10,12 @@
     "geom:latitude":-20.076738,
     "geom:longitude":146.244694,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-20.076773,
     "lbl:longitude":146.244774,
     "lbl:max_zoom":18.0,
@@ -39,13 +45,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC30693",
         "wd:id":"Q24896188"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934481
     ],
     "wof:country":"AU",
-    "wof:geomhash":"8972d41e7ba09dfc0e0da64ef35b0819",
+    "wof:geomhash":"42e6a84563a2e96e9ec4b82c47dc1a72",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +65,7 @@
         }
     ],
     "wof:id":404542397,
-    "wof:lastmodified":1566602265,
+    "wof:lastmodified":1695877939,
     "wof:name":"Grand Secret",
     "wof:parent_id":102048989,
     "wof:placetype":"localadmin",

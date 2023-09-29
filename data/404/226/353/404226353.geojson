@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000144,
-    "geom:area_square_m":1489581.353351,
+    "geom:area_square_m":1489581.353358,
     "geom:bbox":"151.641419008,-33.099610894,151.674508992,-33.0866080025",
     "geom:latitude":-33.092992,
     "geom:longitude":151.654384,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.096768,
     "lbl:longitude":151.65569,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Swansea Heads"
@@ -39,12 +45,15 @@
         102048999
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12190"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931999
     ],
     "wof:country":"AU",
-    "wof:geomhash":"0f19f05c7c3684407ab0bcd25651f657",
+    "wof:geomhash":"b74d972a012c3bf01dc06c61dab101c2",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404226353,
-    "wof:lastmodified":1566602015,
+    "wof:lastmodified":1695877140,
     "wof:name":"Swansea Heads",
     "wof:parent_id":102048999,
     "wof:placetype":"localadmin",

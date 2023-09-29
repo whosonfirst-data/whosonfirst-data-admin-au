@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003358,
-    "geom:area_square_m":36778445.460075,
+    "geom:area_square_m":36778176.612036,
     "geom:bbox":"152.282582,-27.69332,152.34939,-27.626569",
     "geom:latitude":-27.658417,
     "geom:longitude":152.316309,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.65679,
     "lbl:longitude":152.316937,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Blenheim"
@@ -98,9 +104,12 @@
         102049033
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30179"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"5c388873d75582896492831abc3c32d4",
+    "wof:geomhash":"2eb3aa4ec70d60f7030c5e31bfb1124a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -112,7 +121,7 @@
         }
     ],
     "wof:id":404541319,
-    "wof:lastmodified":1636494677,
+    "wof:lastmodified":1695877883,
     "wof:name":"Blenheim",
     "wof:parent_id":102049033,
     "wof:placetype":"localadmin",

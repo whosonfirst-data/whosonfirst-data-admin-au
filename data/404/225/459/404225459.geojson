@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000992,
-    "geom:area_square_m":10318338.611368,
+    "geom:area_square_m":10318338.611354,
     "geom:bbox":"151.527550016,-32.7245083165,151.569055008,-32.6781300005",
     "geom:latitude":-32.700508,
     "geom:longitude":151.55034,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.701971,
     "lbl:longitude":151.553487,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Oakhampton"
@@ -39,9 +45,12 @@
         102048483
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11793"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"7f31ad946d21c0260636ce9760f25918",
+    "wof:geomhash":"ee8cefa8e777e77d6cde00050d5b539e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":404225459,
-    "wof:lastmodified":1566602729,
+    "wof:lastmodified":1695877547,
     "wof:name":"Oakhampton",
     "wof:parent_id":102048483,
     "wof:placetype":"localadmin",

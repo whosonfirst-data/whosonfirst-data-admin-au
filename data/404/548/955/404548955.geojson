@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000028,
-    "geom:area_square_m":250949.705316,
+    "geom:area_square_m":250949.70532,
     "geom:bbox":"147.322325888,-42.8789145235,147.334644736,-42.870036762",
     "geom:latitude":-42.874712,
     "geom:longitude":147.328131,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-42.874489,
     "lbl:longitude":147.327199,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cym_x_preferred":[
         "Clastir"
@@ -54,12 +60,15 @@
         102048965
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60127"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938105
     ],
     "wof:country":"AU",
-    "wof:geomhash":"ebb8e0e678cc325a90a1924ce052d056",
+    "wof:geomhash":"e233f462c6fc1c77357ad5a51bfbefb8",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -72,7 +81,7 @@
         }
     ],
     "wof:id":404548955,
-    "wof:lastmodified":1566603165,
+    "wof:lastmodified":1695877797,
     "wof:name":"Glebe",
     "wof:parent_id":102048965,
     "wof:placetype":"localadmin",

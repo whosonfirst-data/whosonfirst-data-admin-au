@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.971192,
-    "geom:area_square_m":22775572204.998417,
+    "geom:area_square_m":22775572204.993359,
     "geom:bbox":"143.653538912,-22.211921408,145.539631072,-19.5686844945",
     "geom:latitude":-20.855237,
     "geom:longitude":144.64405,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-20.837148,
     "lbl:longitude":144.736263,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Pr\u00earie"
@@ -194,9 +200,12 @@
         102049325
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31350"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"fe583776eae827738a9fb0cd2b6242e3",
+    "wof:geomhash":"e35d2dec831e7fe3db000f66f88fad6d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -208,7 +217,7 @@
         }
     ],
     "wof:id":404543795,
-    "wof:lastmodified":1566602125,
+    "wof:lastmodified":1695877205,
     "wof:name":"Prairie",
     "wof:parent_id":102049325,
     "wof:placetype":"localadmin",

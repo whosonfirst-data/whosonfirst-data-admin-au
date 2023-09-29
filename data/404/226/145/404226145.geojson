@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000514,
-    "geom:area_square_m":5166690.576159,
+    "geom:area_square_m":5166690.576243,
     "geom:bbox":"150.275894368,-35.673116849,150.307576928,-35.6380066795",
     "geom:latitude":-35.654852,
     "geom:longitude":150.289655,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.655215,
     "lbl:longitude":150.288091,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "South Durras"
@@ -38,12 +44,15 @@
         102049609
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12098"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931879
     ],
     "wof:country":"AU",
-    "wof:geomhash":"c5985f1ca96ad5c62e3ab0f6f8a408f6",
+    "wof:geomhash":"7eb57a3ed1f21119b58f2e80813aa995",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404226145,
-    "wof:lastmodified":1566602042,
+    "wof:lastmodified":1695877156,
     "wof:name":"South Durras",
     "wof:parent_id":102049609,
     "wof:placetype":"localadmin",

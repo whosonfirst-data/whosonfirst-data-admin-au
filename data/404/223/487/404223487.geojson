@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000778,
-    "geom:area_square_m":8001460.449121,
+    "geom:area_square_m":8001460.449112,
     "geom:bbox":"151.191833312,-33.7660633115,151.249839712,-33.73668089",
     "geom:latitude":-33.74821,
     "geom:longitude":151.223217,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.747688,
     "lbl:longitude":151.22849,
     "lbl:max_zoom":18.0,
@@ -58,13 +64,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC10917",
         "wd:id":"Q5502737"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101930347
     ],
     "wof:country":"AU",
-    "wof:geomhash":"77d29c396d9f236510a7462b3f5150e0",
+    "wof:geomhash":"bced54e9800630770e8d039f4e6a71c3",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -77,7 +85,7 @@
         }
     ],
     "wof:id":404223487,
-    "wof:lastmodified":1566602548,
+    "wof:lastmodified":1695877970,
     "wof:name":"Frenchs Forest",
     "wof:parent_id":102049493,
     "wof:placetype":"localadmin",

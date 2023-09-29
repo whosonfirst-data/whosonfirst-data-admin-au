@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.041351,
-    "geom:area_square_m":474528310.24121,
+    "geom:area_square_m":474528310.241219,
     "geom:bbox":"149.244920992,-22.015702934,149.49368512,-21.7450700045",
     "geom:latitude":-21.864477,
     "geom:longitude":149.370787,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-21.868266,
     "lbl:longitude":149.373176,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Carmila"
@@ -38,9 +44,12 @@
         102049343
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30329"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"84842ae1dca5400c0f027187974aa533",
+    "wof:geomhash":"d827a1878cd36f4e50050f6f0a8ff927",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404541633,
-    "wof:lastmodified":1566603058,
+    "wof:lastmodified":1695877749,
     "wof:name":"Carmila",
     "wof:parent_id":102049343,
     "wof:placetype":"localadmin",

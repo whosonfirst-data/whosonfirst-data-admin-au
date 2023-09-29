@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002952,
-    "geom:area_square_m":30181349.906286,
+    "geom:area_square_m":30181349.90626,
     "geom:bbox":"145.981228992,-34.2617319985,146.062306016,-34.1910269965",
     "geom:latitude":-34.231951,
     "geom:longitude":146.020818,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.231537,
     "lbl:longitude":146.014082,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Lake Wyangan"
@@ -44,9 +50,12 @@
         102049013
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11320"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"b0efed770f294390aa05232d5e249b07",
+    "wof:geomhash":"38d0c09e43c19f597a21f651acc90179",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404224395,
-    "wof:lastmodified":1566602610,
+    "wof:lastmodified":1695877481,
     "wof:name":"Lake Wyangan",
     "wof:parent_id":102049013,
     "wof:placetype":"localadmin",

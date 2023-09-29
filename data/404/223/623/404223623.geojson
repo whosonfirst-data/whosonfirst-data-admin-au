@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000876,
-    "geom:area_square_m":9192898.598133,
+    "geom:area_square_m":9192898.598153,
     "geom:bbox":"152.459607008,-31.9513230535,152.5007,-31.9094989935",
     "geom:latitude":-31.927875,
     "geom:longitude":152.478803,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.918845,
     "lbl:longitude":152.478491,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Glenthorne"
@@ -38,12 +44,15 @@
         102048833
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10977"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101930451
     ],
     "wof:country":"AU",
-    "wof:geomhash":"1549de562cfd073b693a233920e11790",
+    "wof:geomhash":"2d68672608ed46c465634d25dc391780",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404223623,
-    "wof:lastmodified":1566602546,
+    "wof:lastmodified":1695877443,
     "wof:name":"Glenthorne",
     "wof:parent_id":102048833,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002391,
-    "geom:area_square_m":22329285.93108,
+    "geom:area_square_m":22329285.930956,
     "geom:bbox":"145.563251136,-40.966206054,145.6702248,-40.913655916",
     "geom:latitude":-40.94045,
     "geom:longitude":145.616043,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-40.948682,
     "lbl:longitude":145.620514,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Boat Harbour Beach"
@@ -38,9 +44,12 @@
         102048983
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60032"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"9fd3d54d18f72f2afd36f96556e56cd6",
+    "wof:geomhash":"9743a4447b5e515413472f7acc02d824",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404548741,
-    "wof:lastmodified":1566603195,
+    "wof:lastmodified":1695877813,
     "wof:name":"Boat Harbour Beach",
     "wof:parent_id":102048983,
     "wof:placetype":"localadmin",

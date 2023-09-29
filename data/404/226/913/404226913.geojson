@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012327,
-    "geom:area_square_m":127630791.432981,
+    "geom:area_square_m":127630791.432934,
     "geom:bbox":"149.625148,-33.212723002,149.77417664,-33.0687187615",
     "geom:latitude":-33.137803,
     "geom:longitude":149.705252,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.133628,
     "lbl:longitude":149.705205,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Wattle Flat"
@@ -41,9 +47,12 @@
         102049305
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12439"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"2068fdc4a66596ca8f054db2067eefc6",
+    "wof:geomhash":"8a654d01eff50ac669855044fa8e83d4",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404226913,
-    "wof:lastmodified":1566602049,
+    "wof:lastmodified":1695877161,
     "wof:name":"Wattle Flat",
     "wof:parent_id":102049305,
     "wof:placetype":"localadmin",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001344,
-    "geom:area_square_m":14719158.886573,
+    "geom:area_square_m":14719158.886552,
     "geom:bbox":"153.188988448,-27.6807783545,153.23894192,-27.6394584935",
     "geom:latitude":-27.660128,
     "geom:longitude":153.211717,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.660044,
     "lbl:longitude":153.21124,
     "lbl:max_zoom":18.0,
@@ -49,13 +55,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC30435",
         "wd:id":"Q2794199"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934233
     ],
     "wof:country":"AU",
-    "wof:geomhash":"600420d79c777b9ff084d7e34d11c2f7",
+    "wof:geomhash":"afb2e5072bd7a27689965faf14cabccb",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -68,7 +76,7 @@
         }
     ],
     "wof:id":404541851,
-    "wof:lastmodified":1566603061,
+    "wof:lastmodified":1695878032,
     "wof:name":"Cornubia",
     "wof:parent_id":102048665,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009183,
-    "geom:area_square_m":88715761.794574,
+    "geom:area_square_m":88715761.794364,
     "geom:bbox":"146.271283424,-38.72105227,146.419650016,-38.5586738665",
     "geom:latitude":-38.619307,
     "geom:longitude":146.350372,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.601688,
     "lbl:longitude":146.344117,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Toora North"
@@ -38,9 +44,12 @@
         102048701
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21352"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"0bd8929f3d2037d13cc4f3cca627385d",
+    "wof:geomhash":"cf930310a49c160f1daed725e5e1fa35",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404540511,
-    "wof:lastmodified":1566603009,
+    "wof:lastmodified":1695877723,
     "wof:name":"Toora North",
     "wof:parent_id":102048701,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.212078,
-    "geom:area_square_m":2213520875.926917,
+    "geom:area_square_m":2213520875.927238,
     "geom:bbox":"118.038692992,-32.587628463,118.889580992,-32.241855989",
     "geom:latitude":-32.425557,
     "geom:longitude":118.491434,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.427295,
     "lbl:longitude":118.491247,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Karlgarin"
@@ -38,9 +44,12 @@
         102049199
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50379"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"9eb560224fc49e62c54b804626117d67",
+    "wof:geomhash":"b8922aa1e8bb03635ef9d8a264cf5726",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404547535,
-    "wof:lastmodified":1566602924,
+    "wof:lastmodified":1695877675,
     "wof:name":"Karlgarin",
     "wof:parent_id":102049199,
     "wof:placetype":"localadmin",

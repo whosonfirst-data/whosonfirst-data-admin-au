@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001079,
-    "geom:area_square_m":10534805.878659,
+    "geom:area_square_m":10534660.992495,
     "geom:bbox":"144.753634,-37.900041,144.808557,-37.860001",
     "geom:latitude":-37.880991,
     "geom:longitude":144.784434,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.886449,
     "lbl:longitude":144.789419,
     "lbl:max_zoom":18.0,
@@ -64,13 +70,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC20017",
         "wd:id":"Q443960"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932487
     ],
     "wof:country":"AU",
-    "wof:geomhash":"440488831103b902dfd98453c021809e",
+    "wof:geomhash":"fdbe841786d36098ab6293cc595882de",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -83,7 +91,7 @@
         }
     ],
     "wof:id":404537531,
-    "wof:lastmodified":1690853545,
+    "wof:lastmodified":1695877946,
     "wof:name":"Altona Meadows",
     "wof:parent_id":102049107,
     "wof:placetype":"localadmin",

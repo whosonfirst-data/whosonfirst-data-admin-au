@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007469,
-    "geom:area_square_m":76074474.429064,
+    "geom:area_square_m":76074474.429098,
     "geom:bbox":"138.655215008,-34.571966398,138.82721,-34.5002253035",
     "geom:latitude":-34.537507,
     "geom:longitude":138.743999,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.533556,
     "lbl:longitude":138.743983,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Roseworthy"
@@ -38,9 +44,12 @@
         102049171
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40634"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"637a5adf459c849acf352dfbbf585b9d",
+    "wof:geomhash":"9600ff64fc2482d70950afdd304df53a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404546235,
-    "wof:lastmodified":1566603118,
+    "wof:lastmodified":1695877777,
     "wof:name":"Roseworthy",
     "wof:parent_id":102049171,
     "wof:placetype":"localadmin",

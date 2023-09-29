@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.07474,
-    "geom:area_square_m":748478206.175614,
+    "geom:area_square_m":748478206.175727,
     "geom:bbox":"147.687384992,-36.058481839,148.244456992,-35.760580964",
     "geom:latitude":-35.915041,
     "geom:longitude":148.000714,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.95659,
     "lbl:longitude":148.019574,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Tooma"
@@ -41,9 +47,12 @@
         102049347
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12292"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"02281a2fbad47864c4e1f4379902f764",
+    "wof:geomhash":"e0c0902c0fd9854d3b9d015f4ae98550",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404226581,
-    "wof:lastmodified":1566602044,
+    "wof:lastmodified":1695877158,
     "wof:name":"Tooma",
     "wof:parent_id":102049347,
     "wof:placetype":"localadmin",

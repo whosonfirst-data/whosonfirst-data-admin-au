@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001641,
-    "geom:area_square_m":15220986.640974,
+    "geom:area_square_m":15220986.640962,
     "geom:bbox":"148.237711616,-41.4390736205,148.290090688,-41.393848502",
     "geom:latitude":-41.415949,
     "geom:longitude":148.26136,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-41.415084,
     "lbl:longitude":148.260859,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Biwmares"
@@ -104,9 +110,12 @@
         102049669
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60018"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"02e648f641d4074aee28414d7bb16d98",
+    "wof:geomhash":"b35d71b784781b82b3cf90ea5ab89239",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -118,7 +127,7 @@
         }
     ],
     "wof:id":404548709,
-    "wof:lastmodified":1566603163,
+    "wof:lastmodified":1695877796,
     "wof:name":"Beaumaris",
     "wof:parent_id":102049669,
     "wof:placetype":"localadmin",

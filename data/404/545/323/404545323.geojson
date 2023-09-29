@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003645,
-    "geom:area_square_m":37023014.580029,
+    "geom:area_square_m":37023014.579995,
     "geom:bbox":"138.875183008,-34.8115090045,138.961796992,-34.7431562035",
     "geom:latitude":-34.781422,
     "geom:longitude":138.918117,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.782461,
     "lbl:longitude":138.917272,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Forreston"
@@ -50,9 +56,12 @@
         102049017
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40211"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"62e38d053e5395bb097a217f07430534",
+    "wof:geomhash":"3c1ef8354cb3b597087ea75d926003b9",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":404545323,
-    "wof:lastmodified":1566602227,
+    "wof:lastmodified":1695877255,
     "wof:name":"Forreston",
     "wof:parent_id":102049017,
     "wof:placetype":"localadmin",

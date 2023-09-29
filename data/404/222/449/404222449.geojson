@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.08382,
-    "geom:area_square_m":863756378.04869,
+    "geom:area_square_m":863756378.048456,
     "geom:bbox":"148.387871648,-33.6954849975,148.922539296,-33.3720990035",
     "geom:latitude":-33.552171,
     "geom:longitude":148.640479,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.528631,
     "lbl:longitude":148.57773,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Canowindra"
@@ -53,9 +59,12 @@
         102048769
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10455"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"e635db0ffb09cae345c79f5f065997f7",
+    "wof:geomhash":"3e505d2f1c3a337490182eb2499d4e0e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -67,7 +76,7 @@
         }
     ],
     "wof:id":404222449,
-    "wof:lastmodified":1566602754,
+    "wof:lastmodified":1695877562,
     "wof:name":"Canowindra",
     "wof:parent_id":102048769,
     "wof:placetype":"localadmin",

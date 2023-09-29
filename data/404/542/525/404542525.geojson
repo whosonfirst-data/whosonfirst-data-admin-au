@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003523,
-    "geom:area_square_m":38650309.733617,
+    "geom:area_square_m":38650309.733633,
     "geom:bbox":"151.905524032,-27.5052918685,151.990271008,-27.434584998",
     "geom:latitude":-27.467157,
     "geom:longitude":151.940317,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.468939,
     "lbl:longitude":151.935277,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Highfields"
@@ -47,9 +53,12 @@
         102049357
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30754"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"f72e134cf393fa79b460e7de38f6a56a",
+    "wof:geomhash":"d23452be8eb8fa9005106a26bea8d6b0",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":404542525,
-    "wof:lastmodified":1566602313,
+    "wof:lastmodified":1695877302,
     "wof:name":"Highfields",
     "wof:parent_id":102049357,
     "wof:placetype":"localadmin",

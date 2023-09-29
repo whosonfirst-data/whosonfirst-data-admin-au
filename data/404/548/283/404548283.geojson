@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000329,
-    "geom:area_square_m":3451563.598901,
+    "geom:area_square_m":3451563.598899,
     "geom:bbox":"115.741905984,-31.8382019545,115.763954688,-31.8168159915",
     "geom:latitude":-31.827771,
     "geom:longitude":115.753672,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.827953,
     "lbl:longitude":115.753466,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "Surriento"
@@ -201,12 +207,15 @@
         102048433
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50714"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937777
     ],
     "wof:country":"AU",
-    "wof:geomhash":"7b53e3c27382f0ca9e9816633a7a449d",
+    "wof:geomhash":"f76a0cfabe06aa206e3d8b176c689576",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -219,7 +228,7 @@
         }
     ],
     "wof:id":404548283,
-    "wof:lastmodified":1566603204,
+    "wof:lastmodified":1695877818,
     "wof:name":"Sorrento",
     "wof:parent_id":102048433,
     "wof:placetype":"localadmin",

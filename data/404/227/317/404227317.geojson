@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008418,
-    "geom:area_square_m":86854395.625444,
+    "geom:area_square_m":86854395.625478,
     "geom:bbox":"149.757895136,-33.5029193855,149.867483424,-33.377303997",
     "geom:latitude":-33.441311,
     "geom:longitude":149.810542,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.441126,
     "lbl:longitude":149.806115,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Yetholme"
@@ -38,9 +44,12 @@
         102049305
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12619"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"637d025d10b7fe09e371a98dc8a7e410",
+    "wof:geomhash":"589b9f8c2960c48b506d11d9b5f1c585",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404227317,
-    "wof:lastmodified":1566601961,
+    "wof:lastmodified":1695877114,
     "wof:name":"Yetholme",
     "wof:parent_id":102049305,
     "wof:placetype":"localadmin",

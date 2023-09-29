@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000159,
-    "geom:area_square_m":1650529.915197,
+    "geom:area_square_m":1650529.915196,
     "geom:bbox":"151.362084992,-32.8480532405,151.387204448,-32.8359650075",
     "geom:latitude":-32.841966,
     "geom:longitude":151.373362,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.841665,
     "lbl:longitude":151.373554,
     "lbl:max_zoom":18.0,
@@ -132,13 +138,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC10004",
         "wd:id":"Q4666845"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101929345
     ],
     "wof:country":"AU",
-    "wof:geomhash":"1f46dfc88c2290782e96c043d2ff033e",
+    "wof:geomhash":"cbec32ec79967d0a116c1bb81a4744a4",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -150,7 +158,7 @@
         }
     ],
     "wof:id":404221433,
-    "wof:lastmodified":1566602003,
+    "wof:lastmodified":1695877902,
     "wof:name":"Aberdare",
     "wof:parent_id":102048575,
     "wof:placetype":"localadmin",

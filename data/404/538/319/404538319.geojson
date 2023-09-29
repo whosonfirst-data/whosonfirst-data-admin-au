@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005292,
-    "geom:area_square_m":51814180.480414,
+    "geom:area_square_m":51814180.480455,
     "geom:bbox":"144.333611296,-37.686579889,144.463680992,-37.6067209945",
     "geom:latitude":-37.646814,
     "geom:longitude":144.403334,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.642154,
     "lbl:longitude":144.431445,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Darley"
@@ -50,9 +56,12 @@
         102049283
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20370"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"2d73fbba0c74f766ff2b642bf6276572",
+    "wof:geomhash":"f2497b8ef4cf7e1db41b99a0d235cf99",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":404538319,
-    "wof:lastmodified":1566602483,
+    "wof:lastmodified":1695877404,
     "wof:name":"Darley",
     "wof:parent_id":102049283,
     "wof:placetype":"localadmin",

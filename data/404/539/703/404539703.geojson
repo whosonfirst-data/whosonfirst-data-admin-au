@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.049165,
-    "geom:area_square_m":487505792.270242,
+    "geom:area_square_m":487505792.270109,
     "geom:bbox":"141.69577824,-36.7977499975,142.025416,-36.5542946965",
     "geom:latitude":-36.687085,
     "geom:longitude":141.878705,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.699339,
     "lbl:longitude":141.881792,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Natimuk"
@@ -41,9 +47,12 @@
         102048541
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20990"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"2bd4ebf048a518467c08340e208b75c2",
+    "wof:geomhash":"536725fe9ddc7ffaf7a5bb322f7d6ac1",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404539703,
-    "wof:lastmodified":1566602389,
+    "wof:lastmodified":1695877348,
     "wof:name":"Natimuk",
     "wof:parent_id":102048541,
     "wof:placetype":"localadmin",

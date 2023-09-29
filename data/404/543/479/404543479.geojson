@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.041042,
-    "geom:area_square_m":450901023.222976,
+    "geom:area_square_m":450901099.922671,
     "geom:bbox":"151.087625,-27.438423,151.357344,-27.193849",
     "geom:latitude":-27.317206,
     "geom:longitude":151.219869,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.313543,
     "lbl:longitude":151.230806,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Nandi"
@@ -86,9 +92,12 @@
         102048423
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31202"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"35bfa5a4b205c614ef64fa3840aef65a",
+    "wof:geomhash":"a088898518a34c739799bdcd62f90f98",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -100,7 +109,7 @@
         }
     ],
     "wof:id":404543479,
-    "wof:lastmodified":1636494616,
+    "wof:lastmodified":1695877850,
     "wof:name":"Nandi",
     "wof:parent_id":102048423,
     "wof:placetype":"localadmin",

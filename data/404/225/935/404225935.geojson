@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003814,
-    "geom:area_square_m":39667462.872383,
+    "geom:area_square_m":39667462.872336,
     "geom:bbox":"151.2708976,-32.7768859975,151.391827584,-32.7042217715",
     "geom:latitude":-32.735693,
     "geom:longitude":151.326667,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.734935,
     "lbl:longitude":151.332594,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0631\u0648\u062a\u0628\u0648\u0631\u06cc"
@@ -83,9 +89,12 @@
         102048575
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12005"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"9540c43f438441ebfdab3641644c0617",
+    "wof:geomhash":"9c0a90c48df783b2bc4f49f268bbfdca",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -97,7 +106,7 @@
         }
     ],
     "wof:id":404225935,
-    "wof:lastmodified":1566602702,
+    "wof:lastmodified":1695877530,
     "wof:name":"Rothbury",
     "wof:parent_id":102048575,
     "wof:placetype":"localadmin",

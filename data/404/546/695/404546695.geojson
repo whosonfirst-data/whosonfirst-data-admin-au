@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000346,
-    "geom:area_square_m":3504248.40407,
+    "geom:area_square_m":3504294.161445,
     "geom:bbox":"117.871742,-35.039095,117.92341,-35.017905",
     "geom:latitude":-35.029366,
     "geom:longitude":117.894542,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.031075,
     "lbl:longitude":117.89494,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u041e\u043b\u0431\u0430\u043d\u0456"
@@ -173,12 +179,15 @@
         102048671
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50004"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101936813
     ],
     "wof:country":"AU",
-    "wof:geomhash":"794a819b6a43e46c4fc004cd5f1caf33",
+    "wof:geomhash":"bb6fc5f24bb154c997210b286a758636",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -190,7 +199,7 @@
         }
     ],
     "wof:id":404546695,
-    "wof:lastmodified":1636494680,
+    "wof:lastmodified":1695877885,
     "wof:name":"Albany",
     "wof:parent_id":102048671,
     "wof:placetype":"localadmin",

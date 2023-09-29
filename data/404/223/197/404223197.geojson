@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003046,
-    "geom:area_square_m":32739600.701921,
+    "geom:area_square_m":32739600.701934,
     "geom:bbox":"152.794453504,-29.669860004,152.903078688,-29.6091421715",
     "geom:latitude":-29.640084,
     "geom:longitude":152.84802,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-29.633159,
     "lbl:longitude":152.87144,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Eatonsville"
@@ -38,9 +44,12 @@
         102048835
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10788"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"490cbafd5375096f09aa93199a0bfb5f",
+    "wof:geomhash":"2000e3d9520eb909def954b36cda7af5",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404223197,
-    "wof:lastmodified":1566602535,
+    "wof:lastmodified":1695877434,
     "wof:name":"Eatonsville",
     "wof:parent_id":102048835,
     "wof:placetype":"localadmin",

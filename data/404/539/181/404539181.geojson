@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000506,
-    "geom:area_square_m":4960066.904981,
+    "geom:area_square_m":4960066.904979,
     "geom:bbox":"143.81904384,-37.5596778625,143.850624096,-37.539695994",
     "geom:latitude":-37.549618,
     "geom:longitude":143.834777,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.549895,
     "lbl:longitude":143.834479,
     "lbl:max_zoom":18.0,
@@ -54,13 +60,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC20758",
         "wd:id":"Q6478468"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101933153
     ],
     "wof:country":"AU",
-    "wof:geomhash":"5e252e9bd4023a0d7f7dc49496e5b5e0",
+    "wof:geomhash":"2e4ebfd2335d5d165f7fa1213888c742",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -72,7 +80,7 @@
         }
     ],
     "wof:id":404539181,
-    "wof:lastmodified":1566602380,
+    "wof:lastmodified":1695877950,
     "wof:name":"Lake Wendouree",
     "wof:parent_id":102049037,
     "wof:placetype":"localadmin",

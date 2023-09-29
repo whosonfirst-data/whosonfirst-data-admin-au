@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003432,
-    "geom:area_square_m":38454627.215783,
+    "geom:area_square_m":38454627.215756,
     "geom:bbox":"151.871810048,-25.0981039845,151.943801056,-24.9864639955",
     "geom:latitude":-25.037447,
     "geom:longitude":151.90752,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-25.021151,
     "lbl:longitude":151.897973,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Dalysford"
@@ -38,9 +44,12 @@
         102048763
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30473"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"630cd1deb65771c4a4c0d6c2f183328f",
+    "wof:geomhash":"e538d250d00018834ab6cfc2ff5c001b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404541933,
-    "wof:lastmodified":1566603078,
+    "wof:lastmodified":1695877759,
     "wof:name":"Dalysford",
     "wof:parent_id":102048763,
     "wof:placetype":"localadmin",

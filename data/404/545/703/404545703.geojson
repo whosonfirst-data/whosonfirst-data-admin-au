@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00323,
-    "geom:area_square_m":32649210.16898,
+    "geom:area_square_m":32649210.169032,
     "geom:bbox":"138.790780992,-35.205590436,138.888025984,-35.146680997",
     "geom:latitude":-35.174126,
     "geom:longitude":138.841472,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.174213,
     "lbl:longitude":138.84144,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0645\u06a9\u200c\u06a9\u0644\u0633\u0641\u06cc\u0644\u062f"
@@ -123,9 +129,12 @@
         102048895
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40389"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"0d4e14d11019f09153bd25e90c930d62",
+    "wof:geomhash":"a033cb89b3c2b2550a33899474d81682",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -138,7 +147,7 @@
         }
     ],
     "wof:id":404545703,
-    "wof:lastmodified":1566602237,
+    "wof:lastmodified":1695877260,
     "wof:name":"Macclesfield",
     "wof:parent_id":102048895,
     "wof:placetype":"localadmin",

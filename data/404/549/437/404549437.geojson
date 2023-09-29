@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000299,
-    "geom:area_square_m":2772452.770074,
+    "geom:area_square_m":2772452.770066,
     "geom:bbox":"147.13292336,-41.466602786,147.161231008,-41.445075483",
     "geom:latitude":-41.455552,
     "geom:longitude":147.147496,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-41.454654,
     "lbl:longitude":147.148884,
     "lbl:max_zoom":18.0,
@@ -42,13 +48,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC60341",
         "wd:id":"Q7567800"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938283
     ],
     "wof:country":"AU",
-    "wof:geomhash":"697c96a5636e360f810ad0d6565e00cb",
+    "wof:geomhash":"9606e4ffb3bb424b91c27e2cec0c9277",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -60,7 +68,7 @@
         }
     ],
     "wof:id":404549437,
-    "wof:lastmodified":1566602845,
+    "wof:lastmodified":1695878008,
     "wof:name":"South Launceston",
     "wof:parent_id":102049411,
     "wof:placetype":"localadmin",

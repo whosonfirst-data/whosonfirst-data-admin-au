@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001667,
-    "geom:area_square_m":16305617.54282,
+    "geom:area_square_m":16305617.542734,
     "geom:bbox":"145.131605152,-37.7409135565,145.195000928,-37.6884735305",
     "geom:latitude":-37.717733,
     "geom:longitude":145.159292,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.718065,
     "lbl:longitude":145.158801,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0627\u0644\u062a\u0627\u0645"
@@ -77,12 +83,15 @@
         102048735
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20458"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932895
     ],
     "wof:country":"AU",
-    "wof:geomhash":"dcf6ecbd4878a6534d8bd9f23d11cac4",
+    "wof:geomhash":"2675e11a0838ce5485277e7f864a487d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -94,7 +103,7 @@
         }
     ],
     "wof:id":404538513,
-    "wof:lastmodified":1566602481,
+    "wof:lastmodified":1695877402,
     "wof:name":"Eltham",
     "wof:parent_id":102048735,
     "wof:placetype":"localadmin",

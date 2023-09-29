@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010229,
-    "geom:area_square_m":107727648.561376,
+    "geom:area_square_m":107727648.561256,
     "geom:bbox":"152.5512904,-31.6520460005,152.721812992,-31.5353400085",
     "geom:latitude":-31.59798,
     "geom:longitude":152.633755,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.600107,
     "lbl:longitude":152.632462,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Logans Crossing"
@@ -38,9 +44,12 @@
         102049203
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11399"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"264df7ecba45ef149d3298df5c09a1d2",
+    "wof:geomhash":"ec57bce89468720420f0cdfa90f72ca2",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404224573,
-    "wof:lastmodified":1566602609,
+    "wof:lastmodified":1695877481,
     "wof:name":"Logans Crossing",
     "wof:parent_id":102049203,
     "wof:placetype":"localadmin",

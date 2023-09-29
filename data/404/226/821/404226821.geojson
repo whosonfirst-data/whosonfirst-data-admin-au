@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011803,
-    "geom:area_square_m":119338168.593914,
+    "geom:area_square_m":119338041.161361,
     "geom:bbox":"148.940751,-35.218639,149.13659,-35.098238",
     "geom:latitude":-35.146768,
     "geom:longitude":149.012796,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.146954,
     "lbl:longitude":149.011299,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0648\u0644\u0631"
@@ -95,9 +101,12 @@
         102049253
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12398"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"209f0d459b2d0284469366f8f5864cd2",
+    "wof:geomhash":"2409b49e8de43b9b2345705db8bd5d50",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -109,7 +118,7 @@
         }
     ],
     "wof:id":404226821,
-    "wof:lastmodified":1636494613,
+    "wof:lastmodified":1695877849,
     "wof:name":"Wallaroo",
     "wof:parent_id":102049253,
     "wof:placetype":"localadmin",

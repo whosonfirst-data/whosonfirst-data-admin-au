@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000804,
-    "geom:area_square_m":8153747.659821,
+    "geom:area_square_m":8153747.659832,
     "geom:bbox":"138.677400288,-34.948172704,138.732944,-34.920971007",
     "geom:latitude":-34.935112,
     "geom:longitude":138.704381,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.931815,
     "lbl:longitude":138.709015,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Horsnell Gully"
@@ -38,9 +44,12 @@
         102049017
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40303"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"414b82e0f6d80bfd1d33b43993f16b4f",
+    "wof:geomhash":"810ffdbfe3d1a1ade8b0cb73ec310f7e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404545521,
-    "wof:lastmodified":1566602227,
+    "wof:lastmodified":1695877256,
     "wof:name":"Horsnell Gully",
     "wof:parent_id":102049017,
     "wof:placetype":"localadmin",

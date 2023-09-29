@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004905,
-    "geom:area_square_m":47549398.189234,
+    "geom:area_square_m":47549398.189248,
     "geom:bbox":"146.310521504,-38.410080997,146.406053344,-38.3307450235",
     "geom:latitude":-38.367155,
     "geom:longitude":146.354862,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.365082,
     "lbl:longitude":146.351028,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Yinnar South"
@@ -38,9 +44,12 @@
         102049021
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21542"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"d61215df0f8084ac5e8caafe52f211db",
+    "wof:geomhash":"4f0765c40e9c7d98f4122180a5d9bf1c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404540933,
-    "wof:lastmodified":1566603019,
+    "wof:lastmodified":1695877730,
     "wof:name":"Yinnar South",
     "wof:parent_id":102049021,
     "wof:placetype":"localadmin",

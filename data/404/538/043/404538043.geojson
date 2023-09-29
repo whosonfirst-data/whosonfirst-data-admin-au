@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000147,
-    "geom:area_square_m":1416438.438367,
+    "geom:area_square_m":1416438.438375,
     "geom:bbox":"145.605148224,-38.6787999535,145.625512672,-38.6663289925",
     "geom:latitude":-38.671703,
     "geom:longitude":145.613804,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.671372,
     "lbl:longitude":145.613111,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Cape Paterson"
@@ -47,12 +53,15 @@
         102049085
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20247"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932711
     ],
     "wof:country":"AU",
-    "wof:geomhash":"869a7ade2af545ed794b570e5081b486",
+    "wof:geomhash":"70e30044870f103bf6f5905dd08ea831",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":404538043,
-    "wof:lastmodified":1566602469,
+    "wof:lastmodified":1695877394,
     "wof:name":"Cape Paterson",
     "wof:parent_id":102049085,
     "wof:placetype":"localadmin",

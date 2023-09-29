@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028184,
-    "geom:area_square_m":276470287.017592,
+    "geom:area_square_m":276470287.017515,
     "geom:bbox":"141.931724992,-37.5875810055,142.202868,-37.3870159935",
     "geom:latitude":-37.502937,
     "geom:longitude":142.06185,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.514711,
     "lbl:longitude":142.06201,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u041a\u0430\u0432\u0435\u043d\u0434\u044b\u0448"
@@ -107,9 +113,12 @@
         102048455
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20277"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"cce8e5eccdcd68f50d7de717ea89c7a7",
+    "wof:geomhash":"cdb5a19d31f080129067619b2d9af375",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -121,7 +130,7 @@
         }
     ],
     "wof:id":404538109,
-    "wof:lastmodified":1566602458,
+    "wof:lastmodified":1695877389,
     "wof:name":"Cavendish",
     "wof:parent_id":102048455,
     "wof:placetype":"localadmin",

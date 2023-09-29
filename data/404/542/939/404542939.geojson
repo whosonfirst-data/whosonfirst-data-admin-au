@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.175702,
-    "geom:area_square_m":49059471492.295853,
+    "geom:area_square_m":49059471492.298058,
     "geom:bbox":"137.99595744,-19.5847126355,140.073760992,-16.5445094745",
     "geom:latitude":-18.15397,
     "geom:longitude":138.871159,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-18.559187,
     "lbl:longitude":138.682741,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Lawn Hill"
@@ -41,9 +47,12 @@
         102048843
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30945"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"d072a9b4ef313a9e07acfec0afc6dfcd",
+    "wof:geomhash":"9c9a95a751d32c165712624c8dc4715a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404542939,
-    "wof:lastmodified":1566602263,
+    "wof:lastmodified":1695877271,
     "wof:name":"Lawn Hill",
     "wof:parent_id":102048843,
     "wof:placetype":"localadmin",

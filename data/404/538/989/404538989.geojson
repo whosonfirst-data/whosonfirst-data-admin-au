@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.096943,
-    "geom:area_square_m":968100583.685084,
+    "geom:area_square_m":968100583.685398,
     "geom:bbox":"141.766383968,-36.325423482,142.17263872,-35.99764803",
     "geom:latitude":-36.136823,
     "geom:longitude":141.992043,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.142605,
     "lbl:longitude":142.036616,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Jeparit"
@@ -47,9 +53,12 @@
         102048501
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20672"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"60131ddfacfb9795696c826982f56cc6",
+    "wof:geomhash":"a55a30ba2de8daa1657aed91cf240b46",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":404538989,
-    "wof:lastmodified":1566602481,
+    "wof:lastmodified":1695877403,
     "wof:name":"Jeparit",
     "wof:parent_id":102048501,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00287,
-    "geom:area_square_m":31446997.29044,
+    "geom:area_square_m":31446997.290442,
     "geom:bbox":"152.116103008,-27.6269570075,152.203342016,-27.5695710065",
     "geom:latitude":-27.598511,
     "geom:longitude":152.159411,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.593069,
     "lbl:longitude":152.155737,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Carpendale"
@@ -47,9 +53,12 @@
         102049033
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30332"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"79d3ca49eb69ab40b2b0507c78316e14",
+    "wof:geomhash":"a1e91c6e96fb1c70ec28762699186da6",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":404541641,
-    "wof:lastmodified":1566603086,
+    "wof:lastmodified":1695877763,
     "wof:name":"Carpendale",
     "wof:parent_id":102049033,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001173,
-    "geom:area_square_m":12348697.068364,
+    "geom:area_square_m":12348697.06835,
     "geom:bbox":"152.753008,-31.642292005,152.808122016,-31.6020609985",
     "geom:latitude":-31.619274,
     "geom:longitude":152.780884,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.61755,
     "lbl:longitude":152.779006,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Jolly Nose"
@@ -38,12 +44,15 @@
         102049203
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11188"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101930825
     ],
     "wof:country":"AU",
-    "wof:geomhash":"3558450c240328369e7121e8dec3529d",
+    "wof:geomhash":"e105c056361a283d306b12a48cc0d48b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404224097,
-    "wof:lastmodified":1566602596,
+    "wof:lastmodified":1695877472,
     "wof:name":"Jolly Nose",
     "wof:parent_id":102049203,
     "wof:placetype":"localadmin",

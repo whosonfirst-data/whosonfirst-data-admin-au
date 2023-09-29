@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009762,
-    "geom:area_square_m":106598476.420792,
+    "geom:area_square_m":106598476.420927,
     "geom:bbox":"152.995230016,-28.037216504,153.142768032,-27.922943003",
     "geom:latitude":-27.983598,
     "geom:longitude":153.075749,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.975882,
     "lbl:longitude":153.062341,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Biddaddaba"
@@ -38,9 +44,12 @@
         102048945
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30155"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"b9a0c720f9d2ae74cf0a40d34146a18f",
+    "wof:geomhash":"e99995853781fcc863f61428521cefa1",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404541269,
-    "wof:lastmodified":1566603063,
+    "wof:lastmodified":1695877751,
     "wof:name":"Biddaddaba",
     "wof:parent_id":102048945,
     "wof:placetype":"localadmin",

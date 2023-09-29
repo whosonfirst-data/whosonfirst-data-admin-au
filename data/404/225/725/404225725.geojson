@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000124,
-    "geom:area_square_m":1266629.165536,
+    "geom:area_square_m":1266629.165543,
     "geom:bbox":"150.871433088,-34.5160699615,150.8888088,-34.497918002",
     "geom:latitude":-34.50358,
     "geom:longitude":150.879503,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.503165,
     "lbl:longitude":150.879501,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Primbee"
@@ -38,12 +44,15 @@
         102048853
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11911"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931641
     ],
     "wof:country":"AU",
-    "wof:geomhash":"af8b5f0b1d03be9d9346a5bb6eb984a8",
+    "wof:geomhash":"89e23ffacfbb25c788d841a5be8e8de2",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404225725,
-    "wof:lastmodified":1566602690,
+    "wof:lastmodified":1695877524,
     "wof:name":"Primbee",
     "wof:parent_id":102048853,
     "wof:placetype":"localadmin",

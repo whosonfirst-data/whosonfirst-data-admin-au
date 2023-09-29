@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003447,
-    "geom:area_square_m":32118304.797008,
+    "geom:area_square_m":32118304.796876,
     "geom:bbox":"145.878739616,-41.143014846,145.975139328,-41.075204354",
     "geom:latitude":-41.110653,
     "geom:longitude":145.93086,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-41.108188,
     "lbl:longitude":145.934132,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Stowport"
@@ -38,9 +44,12 @@
         102049367
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60357"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"957aa7d1a3d1401df2bbee10d71166f0",
+    "wof:geomhash":"31d9975980187bd02455e5ba0a7c60c8",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404549473,
-    "wof:lastmodified":1566602885,
+    "wof:lastmodified":1695877647,
     "wof:name":"Stowport",
     "wof:parent_id":102049367,
     "wof:placetype":"localadmin",

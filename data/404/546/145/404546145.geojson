@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000085,
-    "geom:area_square_m":866248.503117,
+    "geom:area_square_m":866248.50312,
     "geom:bbox":"139.29511968,-34.9316120035,139.308392992,-34.919089002",
     "geom:latitude":-34.925778,
     "geom:longitude":139.301902,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.925503,
     "lbl:longitude":139.3019,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Port Mannum"
@@ -38,12 +44,15 @@
         102049005
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40592"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         1175610521
     ],
     "wof:country":"AU",
-    "wof:geomhash":"536615f39798d50dc16e357f6389dfe6",
+    "wof:geomhash":"e9c9864c6fdab1e5280a46e858584319",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404546145,
-    "wof:lastmodified":1566603124,
+    "wof:lastmodified":1695877779,
     "wof:name":"Port Mannum",
     "wof:parent_id":102049005,
     "wof:placetype":"localadmin",

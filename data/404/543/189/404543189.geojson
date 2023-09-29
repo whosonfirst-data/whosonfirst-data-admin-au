@@ -10,6 +10,12 @@
     "geom:latitude":-26.695735,
     "geom:longitude":153.123532,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-26.696263,
     "lbl:longitude":153.123659,
     "lbl:max_zoom":18.0,
@@ -43,13 +49,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC31068",
         "wd:id":"Q6871238"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934851
     ],
     "wof:country":"AU",
-    "wof:geomhash":"09454803fdf35290bbfb5b1bfe61b5c5",
+    "wof:geomhash":"231909c041172e0dc90382ef044ba497",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -62,7 +70,7 @@
         }
     ],
     "wof:id":404543189,
-    "wof:lastmodified":1566602114,
+    "wof:lastmodified":1695877917,
     "wof:name":"Minyama",
     "wof:parent_id":102049303,
     "wof:placetype":"localadmin",

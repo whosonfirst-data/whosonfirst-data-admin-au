@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009173,
-    "geom:area_square_m":89372383.339437,
+    "geom:area_square_m":89372383.339446,
     "geom:bbox":"144.340517632,-38.0666054645,144.487107008,-37.959047001",
     "geom:latitude":-38.004924,
     "geom:longitude":144.401267,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.004796,
     "lbl:longitude":144.394043,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Lara"
@@ -99,9 +105,12 @@
         102049571
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20771"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"3bbf9bed86330d9ab8bda1c35b0652de",
+    "wof:geomhash":"1a7552a0ad036af0a3a23265e6551bc0",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -114,7 +123,7 @@
         }
     ],
     "wof:id":404539211,
-    "wof:lastmodified":1566602359,
+    "wof:lastmodified":1695877330,
     "wof:name":"Lara",
     "wof:parent_id":102049571,
     "wof:placetype":"localadmin",

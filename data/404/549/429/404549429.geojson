@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000875,
-    "geom:area_square_m":7906294.645451,
+    "geom:area_square_m":7906294.645469,
     "geom:bbox":"147.404121472,-43.059227604,147.48282048,-43.0016004925",
     "geom:latitude":-43.027601,
     "geom:longitude":147.421813,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-43.033591,
     "lbl:longitude":147.422155,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "South Arm"
@@ -48,9 +54,12 @@
         102048771
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60338"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"463c06c2c26384eadc2137045d4fad79",
+    "wof:geomhash":"566ceb9eb6b23b682618e33b4b8cc513",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -63,7 +72,7 @@
         }
     ],
     "wof:id":404549429,
-    "wof:lastmodified":1566602883,
+    "wof:lastmodified":1695877646,
     "wof:name":"South Arm",
     "wof:parent_id":102048771,
     "wof:placetype":"localadmin",

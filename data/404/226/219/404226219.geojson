@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.075031,
-    "geom:area_square_m":791747418.40894,
+    "geom:area_square_m":791747418.408608,
     "geom:bbox":"149.986676992,-31.560150007,150.51927,-31.223917835",
     "geom:latitude":-31.418289,
     "geom:longitude":150.195174,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.43172,
     "lbl:longitude":150.195222,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Spring Ridge"
@@ -47,9 +53,12 @@
         102048659
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12131"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"975e605c5305a11268ec1f1f2718a226",
+    "wof:geomhash":"9a4fa975e345fb5406d167461499f06c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":404226219,
-    "wof:lastmodified":1566602027,
+    "wof:lastmodified":1695877146,
     "wof:name":"Spring Ridge",
     "wof:parent_id":102048659,
     "wof:placetype":"localadmin",

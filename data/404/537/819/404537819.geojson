@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004409,
-    "geom:area_square_m":43333500.839569,
+    "geom:area_square_m":43333500.839616,
     "geom:bbox":"143.978704,-37.3863171005,144.070577856,-37.316384492",
     "geom:latitude":-37.352258,
     "geom:longitude":144.026624,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.353058,
     "lbl:longitude":144.027474,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Blampied"
@@ -38,9 +44,12 @@
         102049553
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20147"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"8ef06fc4bf9a2e2e2b54462e05608018",
+    "wof:geomhash":"d94e371654df23a00a7d43ff36f1774d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404537819,
-    "wof:lastmodified":1566602326,
+    "wof:lastmodified":1695877310,
     "wof:name":"Blampied",
     "wof:parent_id":102049553,
     "wof:placetype":"localadmin",

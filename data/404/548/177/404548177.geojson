@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.176405,
-    "geom:area_square_m":1799893175.209928,
+    "geom:area_square_m":1799893175.209119,
     "geom:bbox":"116.212052416,-34.597268996,116.810332928,-34.155476231",
     "geom:latitude":-34.395532,
     "geom:longitude":116.494445,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.406788,
     "lbl:longitude":116.488689,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Quinninup"
@@ -38,9 +44,12 @@
         102049063
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50667"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"1811d427b62d3d5465bbd453f7ddc9e1",
+    "wof:geomhash":"549fbd8280b5d020492a10fe566aca72",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404548177,
-    "wof:lastmodified":1566603234,
+    "wof:lastmodified":1695877835,
     "wof:name":"Quinninup",
     "wof:parent_id":102049063,
     "wof:placetype":"localadmin",

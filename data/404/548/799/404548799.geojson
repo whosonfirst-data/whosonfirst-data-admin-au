@@ -10,6 +10,12 @@
     "geom:latitude":-42.889875,
     "geom:longitude":147.443679,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-42.890014,
     "lbl:longitude":147.443835,
     "lbl:max_zoom":18.0,
@@ -43,13 +49,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC60058",
         "wd:id":"Q5126889"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938053
     ],
     "wof:country":"AU",
-    "wof:geomhash":"0729a1fcb591ce1f4fb1efc2d66254f4",
+    "wof:geomhash":"a5658daaad4949a567e752940fe538ff",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -62,7 +70,7 @@
         }
     ],
     "wof:id":404548799,
-    "wof:lastmodified":1566603158,
+    "wof:lastmodified":1695878045,
     "wof:name":"Clarendon Vale",
     "wof:parent_id":102048771,
     "wof:placetype":"localadmin",

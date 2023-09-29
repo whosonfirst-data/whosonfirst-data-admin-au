@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000667,
-    "geom:area_square_m":7370940.312942,
+    "geom:area_square_m":7370940.312943,
     "geom:bbox":"153.08527,-26.715636,153.120025632,-26.6847260335",
     "geom:latitude":-26.702778,
     "geom:longitude":153.101331,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-26.70321,
     "lbl:longitude":153.099597,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mountain Creek"
@@ -42,12 +48,15 @@
         102049303
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31171"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934941
     ],
     "wof:country":"AU",
-    "wof:geomhash":"bd8aeb04f762402df96d89cdb55ce526",
+    "wof:geomhash":"76a482b4f84d729c663c8b464f8d7ffd",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -60,7 +69,7 @@
         }
     ],
     "wof:id":404543411,
-    "wof:lastmodified":1566602129,
+    "wof:lastmodified":1695877207,
     "wof:name":"Mountain Creek",
     "wof:parent_id":102049303,
     "wof:placetype":"localadmin",

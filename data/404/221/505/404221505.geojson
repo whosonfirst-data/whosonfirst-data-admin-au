@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.064087,
-    "geom:area_square_m":640565253.816912,
+    "geom:area_square_m":640565253.817167,
     "geom:bbox":"148.640124,-36.239384977,149.052289344,-35.881270006",
     "geom:latitude":-36.066627,
     "geom:longitude":148.845902,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.075844,
     "lbl:longitude":148.880049,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Anglers Reach"
@@ -38,9 +44,12 @@
         102048967
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10036"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"ebf904b584e260f36eb5a1e060d06af1",
+    "wof:geomhash":"ca1de6570c085a3592d0793c47bef864",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404221505,
-    "wof:lastmodified":1566601965,
+    "wof:lastmodified":1695877116,
     "wof:name":"Anglers Reach",
     "wof:parent_id":102048967,
     "wof:placetype":"localadmin",

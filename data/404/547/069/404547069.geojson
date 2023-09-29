@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000233,
-    "geom:area_square_m":2437828.681099,
+    "geom:area_square_m":2437828.681086,
     "geom:bbox":"115.761982368,-32.1294279925,115.777150944,-32.1063487245",
     "geom:latitude":-32.117165,
     "geom:longitude":115.770379,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.113921,
     "lbl:longitude":115.769624,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "Coogee"
@@ -51,12 +57,15 @@
         102049397
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50170"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937039
     ],
     "wof:country":"AU",
-    "wof:geomhash":"90d5eae260e20b16ecb75b1cdc5952fa",
+    "wof:geomhash":"d168f726c0b365d3fe43fe5f64ea9494",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -69,7 +78,7 @@
         }
     ],
     "wof:id":404547069,
-    "wof:lastmodified":1566602969,
+    "wof:lastmodified":1695877700,
     "wof:name":"Coogee",
     "wof:parent_id":102049397,
     "wof:placetype":"localadmin",

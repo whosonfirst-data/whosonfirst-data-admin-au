@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.054999,
-    "geom:area_square_m":606584487.384546,
+    "geom:area_square_m":606584487.384248,
     "geom:bbox":"150.572787008,-26.991915999,150.89313216,-26.7613841505",
     "geom:latitude":-26.8829,
     "geom:longitude":150.735012,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-26.880567,
     "lbl:longitude":150.747957,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Brigalow"
@@ -38,9 +44,12 @@
         102048423
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30233"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"2d5a6882291091771355e5a2da5d5844",
+    "wof:geomhash":"41298ee0e332d8b819e9a3f52c3c97dd",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404541427,
-    "wof:lastmodified":1566603085,
+    "wof:lastmodified":1695877762,
     "wof:name":"Brigalow",
     "wof:parent_id":102048423,
     "wof:placetype":"localadmin",

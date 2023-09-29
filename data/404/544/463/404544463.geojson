@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000167,
-    "geom:area_square_m":1945565.601147,
+    "geom:area_square_m":1945565.601143,
     "geom:bbox":"146.805948096,-19.2703156065,146.833368128,-19.243599035",
     "geom:latitude":-19.258979,
     "geom:longitude":146.816884,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-19.259749,
     "lbl:longitude":146.814815,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Townsville City"
@@ -38,12 +44,15 @@
         102048451
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31666"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935509
     ],
     "wof:country":"AU",
-    "wof:geomhash":"11ae5905267e7046eac6c527335f25c4",
+    "wof:geomhash":"36af3fd7a1c48246ad50a926887c8fb6",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404544463,
-    "wof:lastmodified":1566602164,
+    "wof:lastmodified":1695877224,
     "wof:name":"Townsville City",
     "wof:parent_id":102048451,
     "wof:placetype":"localadmin",

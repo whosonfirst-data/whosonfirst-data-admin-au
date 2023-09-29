@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000355,
-    "geom:area_square_m":3517678.903944,
+    "geom:area_square_m":3517678.903947,
     "geom:bbox":"144.304612576,-36.7834656665,144.3250656,-36.7518831325",
     "geom:latitude":-36.765723,
     "geom:longitude":144.315476,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.760518,
     "lbl:longitude":144.314624,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Strathdale"
@@ -38,12 +44,15 @@
         102049661
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21269"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101933583
     ],
     "wof:country":"AU",
-    "wof:geomhash":"b90a977f92c93f36c747c0bbb6637545",
+    "wof:geomhash":"845d4049826cc85273d07239db53f9eb",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404540323,
-    "wof:lastmodified":1566603006,
+    "wof:lastmodified":1695877721,
     "wof:name":"Strathdale",
     "wof:parent_id":102049661,
     "wof:placetype":"localadmin",

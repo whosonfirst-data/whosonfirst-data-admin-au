@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000658,
-    "geom:area_square_m":6858024.696473,
+    "geom:area_square_m":6858024.696453,
     "geom:bbox":"115.718414944,-32.567883302,115.750189056,-32.5350843005",
     "geom:latitude":-32.552208,
     "geom:longitude":115.730997,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.552866,
     "lbl:longitude":115.730696,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Dudley Park"
@@ -48,12 +54,15 @@
         102048431
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50227"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937119
     ],
     "wof:country":"AU",
-    "wof:geomhash":"727d46657d7f0e72fef5365261e55d29",
+    "wof:geomhash":"9ef00a2a7e5d2ee7de8fc8a4a7057dc1",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -66,7 +75,7 @@
         }
     ],
     "wof:id":404547193,
-    "wof:lastmodified":1566602924,
+    "wof:lastmodified":1695877675,
     "wof:name":"Dudley Park",
     "wof:parent_id":102048431,
     "wof:placetype":"localadmin",

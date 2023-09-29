@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003063,
-    "geom:area_square_m":29777419.412636,
+    "geom:area_square_m":29777419.412735,
     "geom:bbox":"144.192894016,-38.1972414385,144.262375552,-38.1348558865",
     "geom:latitude":-38.166656,
     "geom:longitude":144.226312,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.168225,
     "lbl:longitude":144.225682,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Barrabool"
@@ -38,9 +44,12 @@
         102048931
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20082"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"cd2e21a30c57cc6f09bc7440e8d79fef",
+    "wof:geomhash":"55816f5b7ca26ea6a3cd7cef9067b5b6",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404537675,
-    "wof:lastmodified":1566602324,
+    "wof:lastmodified":1695877308,
     "wof:name":"Barrabool",
     "wof:parent_id":102048931,
     "wof:placetype":"localadmin",

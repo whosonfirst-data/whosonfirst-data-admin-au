@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000605,
-    "geom:area_square_m":6869300.18053,
+    "geom:area_square_m":6869300.180515,
     "geom:bbox":"150.516456128,-23.353385394,150.542731488,-23.311213645",
     "geom:latitude":-23.330437,
     "geom:longitude":150.527474,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-23.329967,
     "lbl:longitude":150.527679,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Norman Gardens"
@@ -38,12 +44,15 @@
         102048825
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31234"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935015
     ],
     "wof:country":"AU",
-    "wof:geomhash":"483b4673dbf4c09d9c10bd4964ee1d9b",
+    "wof:geomhash":"81e322ab000f414e4f8bb35136df0b2f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404543545,
-    "wof:lastmodified":1566602117,
+    "wof:lastmodified":1695877200,
     "wof:name":"Norman Gardens",
     "wof:parent_id":102048825,
     "wof:placetype":"localadmin",

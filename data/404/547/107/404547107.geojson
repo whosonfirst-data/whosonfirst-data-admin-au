@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000135,
-    "geom:area_square_m":1420664.919921,
+    "geom:area_square_m":1420664.919916,
     "geom:bbox":"115.813456928,-31.990149281,115.828920192,-31.970783999",
     "geom:latitude":-31.98063,
     "geom:longitude":115.819316,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.980776,
     "lbl:longitude":115.817919,
     "lbl:max_zoom":18.0,
@@ -157,13 +163,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC50188",
         "wd:id":"Q5182964"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937063
     ],
     "wof:country":"AU",
-    "wof:geomhash":"d6711f2f4f32a37b3df72d15bbf2bacc",
+    "wof:geomhash":"63992376120db219c8b03e633f368170",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -176,7 +184,7 @@
         }
     ],
     "wof:id":404547107,
-    "wof:lastmodified":1566602952,
+    "wof:lastmodified":1695878019,
     "wof:name":"Crawley",
     "wof:parent_id":102049331,
     "wof:placetype":"localadmin",

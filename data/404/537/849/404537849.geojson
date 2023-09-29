@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010553,
-    "geom:area_square_m":102509451.472011,
+    "geom:area_square_m":102509451.472028,
     "geom:bbox":"142.961236992,-38.2755879395,143.116454976,-38.173796999",
     "geom:latitude":-38.228302,
     "geom:longitude":143.03801,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.231428,
     "lbl:longitude":143.036519,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Boorcan"
@@ -38,9 +44,12 @@
         102049319
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20160"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"f16f097127462bcd0a7d4a2645388978",
+    "wof:geomhash":"f1ddc0bab526e95944a9c6fc38053254",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404537849,
-    "wof:lastmodified":1566602340,
+    "wof:lastmodified":1695877319,
     "wof:name":"Boorcan",
     "wof:parent_id":102049319,
     "wof:placetype":"localadmin",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000458,
-    "geom:area_square_m":4753907.986229,
+    "geom:area_square_m":4753907.986241,
     "geom:bbox":"151.595753024,-32.934613057,151.634800384,-32.9116900585",
     "geom:latitude":-32.92508,
     "geom:longitude":151.616122,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.926088,
     "lbl:longitude":151.61422,
     "lbl:max_zoom":18.0,
@@ -64,13 +70,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC10795",
         "wd:id":"Q5337932"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101930191
     ],
     "wof:country":"AU",
-    "wof:geomhash":"d592b8ab7080c1f9f8dcfb33b021c46a",
+    "wof:geomhash":"dff41ebfdb9741f51e78b0fcba912b7e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -83,7 +91,7 @@
         }
     ],
     "wof:id":404223213,
-    "wof:lastmodified":1566602550,
+    "wof:lastmodified":1695877970,
     "wof:name":"Edgeworth",
     "wof:parent_id":102048999,
     "wof:placetype":"localadmin",

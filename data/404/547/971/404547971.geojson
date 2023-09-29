@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.126105,
-    "geom:area_square_m":1337462591.136378,
+    "geom:area_square_m":1337462591.136742,
     "geom:bbox":"115.934012992,-31.2366526245,116.466966944,-30.7209022245",
     "geom:latitude":-30.937792,
     "geom:longitude":116.193706,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-30.975162,
     "lbl:longitude":116.15333,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "New Norcia"
@@ -38,9 +44,12 @@
         102049115
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50573"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"d20d30d3c638ce6db19528e3f2df2187",
+    "wof:geomhash":"ded4354a6bbb75a66badd921168b89c7",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404547971,
-    "wof:lastmodified":1566602947,
+    "wof:lastmodified":1695877687,
     "wof:name":"New Norcia",
     "wof:parent_id":102049115,
     "wof:placetype":"localadmin",

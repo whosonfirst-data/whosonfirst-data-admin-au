@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002709,
-    "geom:area_square_m":30643528.643929,
+    "geom:area_square_m":30643528.643952,
     "geom:bbox":"151.156927648,-23.868330341,151.251167168,-23.8063649055",
     "geom:latitude":-23.840224,
     "geom:longitude":151.203703,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-23.843498,
     "lbl:longitude":151.208249,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Callemondah"
@@ -38,12 +44,15 @@
         102049463
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30295"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934101
     ],
     "wof:country":"AU",
-    "wof:geomhash":"5852907d93aa286d74f28f680516a8bd",
+    "wof:geomhash":"2ad1e3d57ac7072e1a1e94cb582c9973",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404541561,
-    "wof:lastmodified":1566603047,
+    "wof:lastmodified":1695877745,
     "wof:name":"Callemondah",
     "wof:parent_id":102049463,
     "wof:placetype":"localadmin",

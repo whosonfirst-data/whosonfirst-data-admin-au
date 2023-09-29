@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000239,
-    "geom:area_square_m":2774761.707663,
+    "geom:area_square_m":2774761.707667,
     "geom:bbox":"146.247017056,-20.105656596,146.272760992,-20.0849262915",
     "geom:latitude":-20.098739,
     "geom:longitude":146.260335,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-20.097891,
     "lbl:longitude":146.261604,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mosman Park"
@@ -41,12 +47,15 @@
         102048989
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31109"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934893
     ],
     "wof:country":"AU",
-    "wof:geomhash":"d9cffd6e521ebb55e672ada9f29932b6",
+    "wof:geomhash":"022222941b19fb9135d4b63af56ef421",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404543275,
-    "wof:lastmodified":1566602104,
+    "wof:lastmodified":1695877193,
     "wof:name":"Mosman Park",
     "wof:parent_id":102048989,
     "wof:placetype":"localadmin",

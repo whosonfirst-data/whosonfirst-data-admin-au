@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004627,
-    "geom:area_square_m":48582078.689251,
+    "geom:area_square_m":48582078.689185,
     "geom:bbox":"152.245290944,-31.9332460005,152.341336,-31.8408920025",
     "geom:latitude":-31.887496,
     "geom:longitude":152.294316,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.888193,
     "lbl:longitude":152.297588,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Killawarra"
@@ -41,9 +47,12 @@
         102048833
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11247"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"8860e42c715739cde977eec042096ba5",
+    "wof:geomhash":"e9f3a5306e824ec70bb0d25456c1a6a8",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404224231,
-    "wof:lastmodified":1566602634,
+    "wof:lastmodified":1695877494,
     "wof:name":"Killawarra",
     "wof:parent_id":102048833,
     "wof:placetype":"localadmin",

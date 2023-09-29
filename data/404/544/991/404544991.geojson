@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014223,
-    "geom:area_square_m":141703225.902913,
+    "geom:area_square_m":141703153.605431,
     "geom:bbox":"140.722536,-36.390032,140.84722,-36.25174",
     "geom:latitude":-36.321766,
     "geom:longitude":140.775465,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.32081,
     "lbl:longitude":140.770411,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0648\u0631\u062f\u0631 \u062a\u0627\u0648\u0646"
@@ -95,9 +101,12 @@
         102048871
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40061"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"53c5d456aa8741219d6039f79afb82f1",
+    "wof:geomhash":"2016d5410c53ba4c6f65f352d21f24a0",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -109,7 +118,7 @@
         }
     ],
     "wof:id":404544991,
-    "wof:lastmodified":1636494619,
+    "wof:lastmodified":1695877852,
     "wof:name":"Bordertown",
     "wof:parent_id":102048871,
     "wof:placetype":"localadmin",

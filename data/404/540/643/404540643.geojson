@@ -10,12 +10,18 @@
     "geom:latitude":-37.812335,
     "geom:longitude":145.454884,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.813373,
     "lbl:longitude":145.453255,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Wandin East"
@@ -39,9 +45,12 @@
         102048969
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21412"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"231887975363141b286d6a4b53b23743",
+    "wof:geomhash":"c889e3e5e8815981a575a9da31c3f0ae",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":404540643,
-    "wof:lastmodified":1566602990,
+    "wof:lastmodified":1695877713,
     "wof:name":"Wandin East",
     "wof:parent_id":102048969,
     "wof:placetype":"localadmin",

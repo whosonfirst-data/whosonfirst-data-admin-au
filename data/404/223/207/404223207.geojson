@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028105,
-    "geom:area_square_m":305285123.560228,
+    "geom:area_square_m":305285123.559233,
     "geom:bbox":"152.707204,-28.6308929925,152.982155424,-28.452473868",
     "geom:latitude":-28.543501,
     "geom:longitude":152.840248,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.547556,
     "lbl:longitude":152.830875,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Eden Creek"
@@ -41,9 +47,12 @@
         102048855
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10792"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"8959cc0c6108b6e619047449e9f3ab41",
+    "wof:geomhash":"cdd242b01f526d719be0a8a132922258",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404223207,
-    "wof:lastmodified":1566602553,
+    "wof:lastmodified":1695877448,
     "wof:name":"Eden Creek",
     "wof:parent_id":102048855,
     "wof:placetype":"localadmin",

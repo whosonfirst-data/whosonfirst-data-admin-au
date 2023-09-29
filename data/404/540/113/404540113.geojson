@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01972,
-    "geom:area_square_m":197209189.727413,
+    "geom:area_square_m":197209189.727354,
     "geom:bbox":"146.375952832,-36.1215959395,146.620773728,-35.9578647975",
     "geom:latitude":-36.027078,
     "geom:longitude":146.505202,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.036395,
     "lbl:longitude":146.513465,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0631\u0648\u062f\u0631\u0642\u0644\u0646"
@@ -83,9 +89,12 @@
         102049541
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21175"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"d67eeb8adc85c60e27785f69350b0058",
+    "wof:geomhash":"3fd20524b4af126a9513c50f89769f42",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -97,7 +106,7 @@
         }
     ],
     "wof:id":404540113,
-    "wof:lastmodified":1566603039,
+    "wof:lastmodified":1695877741,
     "wof:name":"Rutherglen",
     "wof:parent_id":102049541,
     "wof:placetype":"localadmin",

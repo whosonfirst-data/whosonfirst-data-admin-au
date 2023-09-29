@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.049885,
-    "geom:area_square_m":513058274.23217,
+    "geom:area_square_m":513058274.232173,
     "geom:bbox":"116.73178416,-33.812420001,117.204238784,-33.633003153",
     "geom:latitude":-33.720056,
     "geom:longitude":116.978761,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.72622,
     "lbl:longitude":116.959829,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Changerup"
@@ -38,9 +44,12 @@
         102048683
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50151"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"903f5b9b3c9ae2932a627f549c878073",
+    "wof:geomhash":"c3ea4ede2f921b74312a95700c486259",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404547027,
-    "wof:lastmodified":1566602959,
+    "wof:lastmodified":1695877693,
     "wof:name":"Changerup",
     "wof:parent_id":102048683,
     "wof:placetype":"localadmin",

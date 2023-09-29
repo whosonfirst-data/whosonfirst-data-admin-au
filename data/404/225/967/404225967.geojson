@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000199,
-    "geom:area_square_m":2028418.606741,
+    "geom:area_square_m":2028418.60674,
     "geom:bbox":"150.880500352,-34.362061402,150.909318016,-34.346593922",
     "geom:latitude":-34.355422,
     "geom:longitude":150.894341,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.355384,
     "lbl:longitude":150.894342,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Russell Vale"
@@ -38,12 +44,15 @@
         102048853
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12019"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931779
     ],
     "wof:country":"AU",
-    "wof:geomhash":"5d3198d57ea2911a941e5a5c4614bf07",
+    "wof:geomhash":"d77a160da4ada4b68bb966aaadbbff51",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404225967,
-    "wof:lastmodified":1566602704,
+    "wof:lastmodified":1695877530,
     "wof:name":"Russell Vale",
     "wof:parent_id":102048853,
     "wof:placetype":"localadmin",

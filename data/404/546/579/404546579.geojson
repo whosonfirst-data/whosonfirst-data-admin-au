@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000296,
-    "geom:area_square_m":3068799.204686,
+    "geom:area_square_m":3068799.204685,
     "geom:bbox":"137.501516992,-33.0424640055,137.519157152,-33.014804008",
     "geom:latitude":-33.027174,
     "geom:longitude":137.508135,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.026054,
     "lbl:longitude":137.507967,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Whyalla Jenkins"
@@ -38,12 +44,15 @@
         102048703
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40796"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101936765
     ],
     "wof:country":"AU",
-    "wof:geomhash":"09b4cde79413da2ac65928ede384c881",
+    "wof:geomhash":"8b4381eec0d751b1326879cb5e066550",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404546579,
-    "wof:lastmodified":1566603153,
+    "wof:lastmodified":1695877791,
     "wof:name":"Whyalla Jenkins",
     "wof:parent_id":102048703,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005128,
-    "geom:area_square_m":50724467.584251,
+    "geom:area_square_m":50724467.584189,
     "geom:bbox":"144.109390016,-36.9332040005,144.182963008,-36.824632995",
     "geom:latitude":-36.872381,
     "geom:longitude":144.142897,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.869639,
     "lbl:longitude":144.145869,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lockwood South"
@@ -38,9 +44,12 @@
         102049661
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20801"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"e202d15043685d497070339754b615e9",
+    "wof:geomhash":"851cb0cec7586de0b8edc1965fa130cd",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404539277,
-    "wof:lastmodified":1566602393,
+    "wof:lastmodified":1695877351,
     "wof:name":"Lockwood South",
     "wof:parent_id":102049661,
     "wof:placetype":"localadmin",

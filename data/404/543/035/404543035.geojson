@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.780871,
-    "geom:area_square_m":8902285501.174009,
+    "geom:area_square_m":8902285501.172274,
     "geom:bbox":"147.94387552,-23.5560350045,149.333566016,-22.1007225145",
     "geom:latitude":-22.781116,
     "geom:longitude":148.653603,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-22.847667,
     "lbl:longitude":148.952135,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Mackenzierivier"
@@ -233,9 +239,12 @@
         102049343
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30991"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"edc669534747cb8b591e7f1f899ea647",
+    "wof:geomhash":"b0c49fa41a18ecff5bc6009c4334113f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -247,7 +256,7 @@
         }
     ],
     "wof:id":404543035,
-    "wof:lastmodified":1566602134,
+    "wof:lastmodified":1695877209,
     "wof:name":"Mackenzie River",
     "wof:parent_id":102049343,
     "wof:placetype":"localadmin",

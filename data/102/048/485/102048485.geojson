@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.006247,
-    "geom:area_square_m":32716596778.937176,
+    "geom:area_square_m":32716596778.939362,
     "geom:bbox":"117.773604,-29.612733,120.203322,-27.231052",
     "geom:latitude":-28.336626,
     "geom:longitude":119.172727,
@@ -255,19 +255,24 @@
     "statoids:type":"shire",
     "wof:belongsto":[
         102191583,
+        85681439,
         85632793,
-        136253039,
-        85681439
+        136253039
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"57630",
         "hasc:id":"AU.WA.SA"
     },
+    "wof:concordances_official":"ausstat:area_code",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:coterminous":[
         404548241
     ],
     "wof:country":"AU",
-    "wof:geomhash":"d6a3edcb3b5a68a667effa2ad0579446",
+    "wof:geomhash":"8ae5cdbb90024dc6675d755a23dd111c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -278,7 +283,7 @@
         }
     ],
     "wof:id":102048485,
-    "wof:lastmodified":1608002012,
+    "wof:lastmodified":1695886414,
     "wof:name":"Sandstone",
     "wof:parent_id":85681439,
     "wof:placetype":"county",

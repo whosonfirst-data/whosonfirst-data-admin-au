@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000139,
-    "geom:area_square_m":1530127.594262,
+    "geom:area_square_m":1530127.594259,
     "geom:bbox":"152.87502096,-27.38216547,152.893253888,-27.366602049",
     "geom:latitude":-27.373978,
     "geom:longitude":152.884137,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.372627,
     "lbl:longitude":152.884283,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Samford Village"
@@ -39,12 +45,15 @@
         102049131
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31448"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935265
     ],
     "wof:country":"AU",
-    "wof:geomhash":"401cac34932e2dd2eb4442aab5e34fc8",
+    "wof:geomhash":"161039d9dc982f57c66003e5226114d5",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404544007,
-    "wof:lastmodified":1566602164,
+    "wof:lastmodified":1695877224,
     "wof:name":"Samford Village",
     "wof:parent_id":102049131,
     "wof:placetype":"localadmin",

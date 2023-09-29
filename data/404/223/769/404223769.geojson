@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009702,
-    "geom:area_square_m":104394366.876521,
+    "geom:area_square_m":104394366.876442,
     "geom:bbox":"153.190174016,-29.6026199965,153.315924992,-29.427474003",
     "geom:latitude":-29.520121,
     "geom:longitude":153.257927,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-29.539667,
     "lbl:longitude":153.268296,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Gulmarrad"
@@ -38,9 +44,12 @@
         102048835
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11042"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"264f38626c951783dfec31538401cf87",
+    "wof:geomhash":"dfe32b4356755fbd8f5d8099052caf9d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404223769,
-    "wof:lastmodified":1566602534,
+    "wof:lastmodified":1695877434,
     "wof:name":"Gulmarrad",
     "wof:parent_id":102048835,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000081,
-    "geom:area_square_m":832535.270144,
+    "geom:area_square_m":832535.270152,
     "geom:bbox":"151.539919776,-33.2828973685,151.551638624,-33.2679077435",
     "geom:latitude":-33.2758,
     "geom:longitude":151.546955,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.279224,
     "lbl:longitude":151.548327,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Canton Beach"
@@ -38,12 +44,15 @@
         102049097
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10457"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101929813
     ],
     "wof:country":"AU",
-    "wof:geomhash":"10e514100a1ad807233db6438bcf6005",
+    "wof:geomhash":"b2c0cfb2c3742a1a1e870194e37281dd",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404222453,
-    "wof:lastmodified":1566602769,
+    "wof:lastmodified":1695877572,
     "wof:name":"Canton Beach",
     "wof:parent_id":102049097,
     "wof:placetype":"localadmin",

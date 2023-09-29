@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000039,
-    "geom:area_square_m":398656.782742,
+    "geom:area_square_m":398656.782743,
     "geom:bbox":"150.988396672,-33.9798160115,150.99814736,-33.971700376",
     "geom:latitude":-33.975915,
     "geom:longitude":150.993353,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.974911,
     "lbl:longitude":150.994168,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sandy Point"
@@ -54,12 +60,15 @@
         102049511
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12043"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931807
     ],
     "wof:country":"AU",
-    "wof:geomhash":"70250a00fce17b2713d6d5f8d469a07c",
+    "wof:geomhash":"b364dedbb89f3a69cf68f8fd37965a2e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -72,7 +81,7 @@
         }
     ],
     "wof:id":404226021,
-    "wof:lastmodified":1566602072,
+    "wof:lastmodified":1695877175,
     "wof:name":"Sandy Point",
     "wof:parent_id":102049511,
     "wof:placetype":"localadmin",

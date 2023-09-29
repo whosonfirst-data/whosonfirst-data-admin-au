@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006848,
-    "geom:area_square_m":78860694.138976,
+    "geom:area_square_m":78860694.139018,
     "geom:bbox":"149.07005,-21.422738862,149.175258848,-21.318563993",
     "geom:latitude":-21.368237,
     "geom:longitude":149.115569,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-21.370225,
     "lbl:longitude":149.1113,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Munbura"
@@ -38,9 +44,12 @@
         102048783
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31181"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"1368a661ae107338745f4aaac015f31a",
+    "wof:geomhash":"001442d9949af966beb9fca2e55bbf24",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404543433,
-    "wof:lastmodified":1566602135,
+    "wof:lastmodified":1695877210,
     "wof:name":"Munbura",
     "wof:parent_id":102048783,
     "wof:placetype":"localadmin",

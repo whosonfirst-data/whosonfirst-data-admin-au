@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006307,
-    "geom:area_square_m":56914245.211641,
+    "geom:area_square_m":56914245.21166,
     "geom:bbox":"147.032288128,-43.182034008,147.141252,-43.0862732905",
     "geom:latitude":-43.133485,
     "geom:longitude":147.08903,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-43.128955,
     "lbl:longitude":147.094443,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Cygnet"
@@ -53,9 +59,12 @@
         102048679
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60074"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"4b7a082dd466f67a09afc939c99e495e",
+    "wof:geomhash":"8eb5fece32db9d163b9030d88af7735d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -67,7 +76,7 @@
         }
     ],
     "wof:id":404548835,
-    "wof:lastmodified":1566603181,
+    "wof:lastmodified":1695877806,
     "wof:name":"Cygnet",
     "wof:parent_id":102048679,
     "wof:placetype":"localadmin",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015214,
-    "geom:area_square_m":158237209.157816,
+    "geom:area_square_m":158237209.157904,
     "geom:bbox":"151.208801728,-32.838217993,151.347887008,-32.627969008",
     "geom:latitude":-32.740746,
     "geom:longitude":151.279293,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.766874,
     "lbl:longitude":151.272422,
     "lbl:max_zoom":18.0,
@@ -54,10 +60,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC11891",
         "wd:id":"Q14229690"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"95256ef7dbbc1d12f2bb83aedafd0741",
+    "wof:geomhash":"6fe7ea4e6e1614db7ad1b95d2113d1d6",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -69,7 +77,7 @@
         }
     ],
     "wof:id":404225679,
-    "wof:lastmodified":1566602719,
+    "wof:lastmodified":1695877993,
     "wof:name":"Pokolbin",
     "wof:parent_id":102048575,
     "wof:placetype":"localadmin",

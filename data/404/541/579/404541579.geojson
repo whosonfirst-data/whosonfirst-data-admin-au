@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005656,
-    "geom:area_square_m":66661649.489155,
+    "geom:area_square_m":66661649.489133,
     "geom:bbox":"145.893304992,-17.672179028,146.008536992,-17.5735450015",
     "geom:latitude":-17.618546,
     "geom:longitude":145.940044,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-17.617866,
     "lbl:longitude":145.931318,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Camp Creek"
@@ -53,9 +59,12 @@
         102049237
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30304"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"73cef7cc0354c31abd75d4b63dec73af",
+    "wof:geomhash":"47d8efc2857822c87114029f93ccd392",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -67,7 +76,7 @@
         }
     ],
     "wof:id":404541579,
-    "wof:lastmodified":1566603098,
+    "wof:lastmodified":1695877769,
     "wof:name":"Camp Creek",
     "wof:parent_id":102049237,
     "wof:placetype":"localadmin",

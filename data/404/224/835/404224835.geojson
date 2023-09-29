@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.226446,
-    "geom:area_square_m":2424474214.669608,
+    "geom:area_square_m":2424474214.669549,
     "geom:bbox":"148.92624144,-30.3301430415,149.644466272,-29.7492663515",
     "geom:latitude":-30.017665,
     "geom:longitude":149.247078,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-29.981266,
     "lbl:longitude":149.271576,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Merah North"
@@ -38,9 +44,12 @@
         102049269
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11516"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"c02fba5546db68b0cf4644b96df416c6",
+    "wof:geomhash":"0ed72f78dc425e6db0f6c353770313c4",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404224835,
-    "wof:lastmodified":1566602592,
+    "wof:lastmodified":1695877469,
     "wof:name":"Merah North",
     "wof:parent_id":102049269,
     "wof:placetype":"localadmin",

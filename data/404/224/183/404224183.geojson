@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000233,
-    "geom:area_square_m":2470451.926335,
+    "geom:area_square_m":2470477.94171,
     "geom:bbox":"152.830893,-31.086612,152.850246,-31.068174",
     "geom:latitude":-31.076774,
     "geom:longitude":152.839397,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.076544,
     "lbl:longitude":152.839217,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u0995\u09c7\u09ae\u09cd\u09aa\u09b8\u09c7"
@@ -92,12 +98,15 @@
         102048527
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11226"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101930865
     ],
     "wof:country":"AU",
-    "wof:geomhash":"a487af07e8c96c7f33f6b6e504e15ae3",
+    "wof:geomhash":"a627d0a836aebf2c795555757075df92",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -109,7 +118,7 @@
         }
     ],
     "wof:id":404224183,
-    "wof:lastmodified":1636494650,
+    "wof:lastmodified":1695877866,
     "wof:name":"Kempsey",
     "wof:parent_id":102048527,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001233,
-    "geom:area_square_m":12661952.426463,
+    "geom:area_square_m":12661942.284761,
     "geom:bbox":"138.592491,-33.868233,138.632511,-33.8062",
     "geom:latitude":-33.839634,
     "geom:longitude":138.613762,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.841017,
     "lbl:longitude":138.613464,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0644\u064a\u0631"
@@ -126,12 +132,15 @@
         102048457
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40107"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935857
     ],
     "wof:country":"AU",
-    "wof:geomhash":"a9d2138d1546e31e2820aa2531dfbc3c",
+    "wof:geomhash":"4cbf601db86430d210f4f31973aeaa7a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -143,7 +152,7 @@
         }
     ],
     "wof:id":404545091,
-    "wof:lastmodified":1636494625,
+    "wof:lastmodified":1695877854,
     "wof:name":"Clare",
     "wof:parent_id":102048457,
     "wof:placetype":"localadmin",

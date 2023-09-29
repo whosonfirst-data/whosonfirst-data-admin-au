@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005662,
-    "geom:area_square_m":61186291.55774,
+    "geom:area_square_m":61186291.557603,
     "geom:bbox":"153.224892,-29.1179179985,153.335600832,-29.0253819975",
     "geom:latitude":-29.076485,
     "geom:longitude":153.278175,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-29.076988,
     "lbl:longitude":153.278183,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Swan Bay"
@@ -41,9 +47,12 @@
         102049223
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12188"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"0624881407ae67fe444ba29f0bae483b",
+    "wof:geomhash":"c1eac30d609a510de03ed6c54019ac48",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404226347,
-    "wof:lastmodified":1566602047,
+    "wof:lastmodified":1695877160,
     "wof:name":"Swan Bay",
     "wof:parent_id":102049223,
     "wof:placetype":"localadmin",

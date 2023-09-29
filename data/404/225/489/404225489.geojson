@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020218,
-    "geom:area_square_m":219936831.515402,
+    "geom:area_square_m":219936831.515487,
     "geom:bbox":"152.758138912,-28.514319997,152.961631008,-28.309607322",
     "geom:latitude":-28.390081,
     "geom:longitude":152.869541,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.380511,
     "lbl:longitude":152.879509,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Old Grevillia"
@@ -38,9 +44,12 @@
         102048855
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11806"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"59a443c88ee6bb6642b39dce53caeb10",
+    "wof:geomhash":"c5a5b33535445939951392ccab8498c7",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404225489,
-    "wof:lastmodified":1566602720,
+    "wof:lastmodified":1695877541,
     "wof:name":"Old Grevillia",
     "wof:parent_id":102048855,
     "wof:placetype":"localadmin",

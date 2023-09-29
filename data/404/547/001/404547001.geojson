@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000056,
-    "geom:area_square_m":629565.446827,
+    "geom:area_square_m":629541.539661,
     "geom:bbox":"113.654467,-24.888559,113.664007,-24.875413",
     "geom:latitude":-24.882871,
     "geom:longitude":113.659331,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-24.885094,
     "lbl:longitude":113.658464,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Carnarvon"
@@ -86,12 +92,15 @@
         102048891
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50140"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101936989
     ],
     "wof:country":"AU",
-    "wof:geomhash":"cfcc3eccf42dda7ea9db7c69ed66ffbd",
+    "wof:geomhash":"3c8636f4a67879c106a1e41b1f6e5fa1",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -103,7 +112,7 @@
         }
     ],
     "wof:id":404547001,
-    "wof:lastmodified":1636494665,
+    "wof:lastmodified":1695877876,
     "wof:name":"Carnarvon",
     "wof:parent_id":102048891,
     "wof:placetype":"localadmin",

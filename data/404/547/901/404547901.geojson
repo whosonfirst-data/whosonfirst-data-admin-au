@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.635172,
-    "geom:area_square_m":30916643582.803165,
+    "geom:area_square_m":30916643582.802975,
     "geom:bbox":"125.902785344,-19.836365009,127.748423008,-16.9283760015",
     "geom:latitude":-18.398345,
     "geom:longitude":126.856167,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-18.556075,
     "lbl:longitude":126.856543,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mueller Ranges"
@@ -38,9 +44,12 @@
         102049267
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50542"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"5144777001f665c8e2395348c1c4a743",
+    "wof:geomhash":"1922f9ef8a04b698ee32c3246064b17b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404547901,
-    "wof:lastmodified":1566602922,
+    "wof:lastmodified":1695877674,
     "wof:name":"Mueller Ranges",
     "wof:parent_id":102049267,
     "wof:placetype":"localadmin",

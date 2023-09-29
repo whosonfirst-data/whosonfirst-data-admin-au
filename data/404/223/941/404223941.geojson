@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000106,
-    "geom:area_square_m":1091786.341303,
+    "geom:area_square_m":1091786.341302,
     "geom:bbox":"150.733851136,-33.610876006,150.75188,-33.598922009",
     "geom:latitude":-33.604352,
     "geom:longitude":150.74299,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.604261,
     "lbl:longitude":150.74286,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Hobartville"
@@ -41,12 +47,15 @@
         102048745
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11118"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101930727
     ],
     "wof:country":"AU",
-    "wof:geomhash":"7fcaf9223e57aaf98cad30b66fd79a5d",
+    "wof:geomhash":"1c5fec89eaf4fd6af534a2c5f6975f68",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404223941,
-    "wof:lastmodified":1566602522,
+    "wof:lastmodified":1695877426,
     "wof:name":"Hobartville",
     "wof:parent_id":102048745,
     "wof:placetype":"localadmin",

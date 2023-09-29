@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.2025,
-    "geom:area_square_m":2223461185.020014,
+    "geom:area_square_m":2223461185.020982,
     "geom:bbox":"149.845723008,-27.738901007,150.343647008,-26.995634018",
     "geom:latitude":-27.379132,
     "geom:longitude":150.125383,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.417994,
     "lbl:longitude":150.12922,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Hannaford"
@@ -41,9 +47,12 @@
         102048423
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30728"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"ea0fd5fd0433b484c1280fc70f11152b",
+    "wof:geomhash":"303b82753ca1c28bef785026530424c7",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404542473,
-    "wof:lastmodified":1566602302,
+    "wof:lastmodified":1695877295,
     "wof:name":"Hannaford",
     "wof:parent_id":102048423,
     "wof:placetype":"localadmin",

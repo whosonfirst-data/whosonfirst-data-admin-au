@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000342,
-    "geom:area_square_m":4103623.198506,
+    "geom:area_square_m":4103623.198505,
     "geom:bbox":"126.628389984,-14.313122003,126.650934016,-14.2849129995",
     "geom:latitude":-14.294109,
     "geom:longitude":126.641869,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-14.291266,
     "lbl:longitude":126.64187,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kalumburu"
@@ -38,12 +44,15 @@
         102049149
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50373"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         1175610511
     ],
     "wof:country":"AU",
-    "wof:geomhash":"edf48d44c75997a29d5c2f90fbe9cae2",
+    "wof:geomhash":"ff7d83c94d6c87fb039d8ee4ebe2b7bb",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404547521,
-    "wof:lastmodified":1566602943,
+    "wof:lastmodified":1695877684,
     "wof:name":"Kalumburu",
     "wof:parent_id":102049149,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00006,
-    "geom:area_square_m":589155.149993,
+    "geom:area_square_m":589155.149992,
     "geom:bbox":"140.70376656,-38.0064339,140.713419552,-37.996318618",
     "geom:latitude":-38.001603,
     "geom:longitude":140.708859,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.002224,
     "lbl:longitude":140.708766,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Allendale East"
@@ -47,12 +53,15 @@
         102049129
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40010"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935735
     ],
     "wof:country":"AU",
-    "wof:geomhash":"ae8b773c250182453e1b67fb3942fc18",
+    "wof:geomhash":"b1ad3bb03a7ca7f1dbc730c4b7984bda",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":404544883,
-    "wof:lastmodified":1566602186,
+    "wof:lastmodified":1695877237,
     "wof:name":"Allendale East",
     "wof:parent_id":102049129,
     "wof:placetype":"localadmin",

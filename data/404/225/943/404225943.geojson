@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001171,
-    "geom:area_square_m":12677824.00067,
+    "geom:area_square_m":12677824.00061,
     "geom:bbox":"153.379248832,-28.8834030075,153.434332992,-28.8437285735",
     "geom:latitude":-28.863434,
     "geom:longitude":153.406838,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.869542,
     "lbl:longitude":153.411868,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Rous"
@@ -56,9 +62,12 @@
         102049481
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12008"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"4db74b5b24af9a69636caecb13cd1232",
+    "wof:geomhash":"dd5539202f0092e7f289c0e7a8e942b2",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -70,7 +79,7 @@
         }
     ],
     "wof:id":404225943,
-    "wof:lastmodified":1566602739,
+    "wof:lastmodified":1695877553,
     "wof:name":"Rous",
     "wof:parent_id":102049481,
     "wof:placetype":"localadmin",

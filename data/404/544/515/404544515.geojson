@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000668,
-    "geom:area_square_m":7470486.398007,
+    "geom:area_square_m":7470486.397991,
     "geom:bbox":"152.80245,-25.3116074155,152.838173888,-25.2855990055",
     "geom:latitude":-25.297522,
     "geom:longitude":152.821502,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-25.297731,
     "lbl:longitude":152.822937,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Urraween"
@@ -38,12 +44,15 @@
         102049435
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31692"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935547
     ],
     "wof:country":"AU",
-    "wof:geomhash":"090ef1af4ea98a786bf8addf14c6a326",
+    "wof:geomhash":"79d8f4c51e525437f1e83b3c8818e1d7",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404544515,
-    "wof:lastmodified":1566602206,
+    "wof:lastmodified":1695877246,
     "wof:name":"Urraween",
     "wof:parent_id":102049435,
     "wof:placetype":"localadmin",

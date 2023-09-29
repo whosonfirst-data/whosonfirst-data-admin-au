@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012142,
-    "geom:area_square_m":133797797.752712,
+    "geom:area_square_m":133797797.752705,
     "geom:bbox":"151.743100992,-27.068237712,151.901666016,-26.9150169935",
     "geom:latitude":-26.983382,
     "geom:longitude":151.822784,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-26.971561,
     "lbl:longitude":151.821544,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Cooyar"
@@ -38,9 +44,12 @@
         102049357
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30426"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"7e31320009721cb204f12594f7c7ff8c",
+    "wof:geomhash":"1cbbc473bb2c812a095e25ffe0ec44ab",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404541833,
-    "wof:lastmodified":1566603063,
+    "wof:lastmodified":1695877751,
     "wof:name":"Cooyar",
     "wof:parent_id":102049357,
     "wof:placetype":"localadmin",

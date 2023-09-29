@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000445,
-    "geom:area_square_m":4873987.450247,
+    "geom:area_square_m":4873987.450255,
     "geom:bbox":"152.763736416,-27.5977270075,152.79878432,-27.573676027",
     "geom:latitude":-27.584751,
     "geom:longitude":152.779807,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.585773,
     "lbl:longitude":152.777155,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0426\u0456\u0432\u0430\u043b\u0456"
@@ -126,12 +132,15 @@
         102048583
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31644"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935479
     ],
     "wof:country":"AU",
-    "wof:geomhash":"461bbe2ad398d51247319c2690e3a80e",
+    "wof:geomhash":"97bf907160c954896aba12eca7e82eae",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -144,7 +153,7 @@
         }
     ],
     "wof:id":404544419,
-    "wof:lastmodified":1566602184,
+    "wof:lastmodified":1695877236,
     "wof:name":"Tivoli",
     "wof:parent_id":102048583,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009481,
-    "geom:area_square_m":103395064.651925,
+    "geom:area_square_m":103395064.651882,
     "geom:bbox":"151.867871008,-28.182461003,152.006323552,-28.0745609925",
     "geom:latitude":-28.123885,
     "geom:longitude":151.940703,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.118678,
     "lbl:longitude":151.93941,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Deuchar"
@@ -39,9 +45,12 @@
         102048963
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30489"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"a1fff3adb4cac4ea4fbd6788588cbeba",
+    "wof:geomhash":"e1849273f26512ea14a3edf24085e599",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":404541965,
-    "wof:lastmodified":1566603045,
+    "wof:lastmodified":1695877744,
     "wof:name":"Deuchar",
     "wof:parent_id":102048963,
     "wof:placetype":"localadmin",

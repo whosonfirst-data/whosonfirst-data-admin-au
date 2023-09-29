@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001195,
-    "geom:area_square_m":11633227.111887,
+    "geom:area_square_m":11633227.111881,
     "geom:bbox":"144.147681536,-38.069794069,144.201435136,-38.022431405",
     "geom:latitude":-38.047819,
     "geom:longitude":144.177914,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.044901,
     "lbl:longitude":144.173465,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Bannockburn"
@@ -95,12 +101,15 @@
         102049027
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20072"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932547
     ],
     "wof:country":"AU",
-    "wof:geomhash":"57f6c08e47440875e778bae5a7279dfd",
+    "wof:geomhash":"53d72fae3b36fd860f18977375e40d64",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -112,7 +121,7 @@
         }
     ],
     "wof:id":404537653,
-    "wof:lastmodified":1566602344,
+    "wof:lastmodified":1695877321,
     "wof:name":"Bannockburn",
     "wof:parent_id":102049027,
     "wof:placetype":"localadmin",

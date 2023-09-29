@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.539825,
-    "geom:area_square_m":5719769863.347167,
+    "geom:area_square_m":5719769863.347616,
     "geom:bbox":"146.285102464,-31.4639000015,147.416866208,-30.4936840035",
     "geom:latitude":-31.030387,
     "geom:longitude":146.85185,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.090426,
     "lbl:longitude":146.859862,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Girilambone"
@@ -38,9 +44,12 @@
         102049645
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10948"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"f9f6fd9ccfe8206dd7946efa069dd0b6",
+    "wof:geomhash":"2a57a3ab12c0b59efe7d8e8b30d463c8",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404223557,
-    "wof:lastmodified":1566602494,
+    "wof:lastmodified":1695877410,
     "wof:name":"Girilambone",
     "wof:parent_id":102049645,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004379,
-    "geom:area_square_m":53170697.065793,
+    "geom:area_square_m":53170697.065795,
     "geom:bbox":"142.338134336,-10.9841115495,142.455268672,-10.8526176565",
     "geom:latitude":-10.921494,
     "geom:longitude":142.393709,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-10.931512,
     "lbl:longitude":142.407364,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Umagico"
@@ -38,12 +44,15 @@
         102048935
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31681"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935531
     ],
     "wof:country":"AU",
-    "wof:geomhash":"38b5143d9e8d5a052d5dc0e8a69181df",
+    "wof:geomhash":"788a67bae8412fb5496d051bbccdf797",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404544495,
-    "wof:lastmodified":1566602196,
+    "wof:lastmodified":1695877241,
     "wof:name":"Umagico",
     "wof:parent_id":102048935,
     "wof:placetype":"localadmin",

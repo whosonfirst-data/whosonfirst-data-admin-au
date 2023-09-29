@@ -10,6 +10,12 @@
     "geom:latitude":-33.749683,
     "geom:longitude":150.726619,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.750149,
     "lbl:longitude":150.726624,
     "lbl:max_zoom":18.0,
@@ -64,13 +70,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC10437",
         "wd:id":"Q3437549"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101929783
     ],
     "wof:country":"AU",
-    "wof:geomhash":"752ec606cb8e4e0e3526505368ba1d6f",
+    "wof:geomhash":"0b95ce036e45e6f92f82ca2283786719",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -83,7 +91,7 @@
         }
     ],
     "wof:id":404222407,
-    "wof:lastmodified":1566602768,
+    "wof:lastmodified":1695877999,
     "wof:name":"Cambridge Park",
     "wof:parent_id":102048677,
     "wof:placetype":"localadmin",

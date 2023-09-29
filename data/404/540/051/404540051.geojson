@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000029,
-    "geom:area_square_m":282750.911527,
+    "geom:area_square_m":282750.911529,
     "geom:bbox":"144.351316192,-38.128286,144.358790208,-38.1230909965",
     "geom:latitude":-38.125677,
     "geom:longitude":144.354973,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.125711,
     "lbl:longitude":144.354977,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Rippleside"
@@ -39,12 +45,15 @@
         102049571
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21148"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101933461
     ],
     "wof:country":"AU",
-    "wof:geomhash":"e99307746b1dda782118a1038e4e8872",
+    "wof:geomhash":"65319a9dac6a5180bda5a11f3f772e2a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404540051,
-    "wof:lastmodified":1566603032,
+    "wof:lastmodified":1695877737,
     "wof:name":"Rippleside",
     "wof:parent_id":102049571,
     "wof:placetype":"localadmin",

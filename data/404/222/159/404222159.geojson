@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000089,
-    "geom:area_square_m":972082.186016,
+    "geom:area_square_m":972082.186014,
     "geom:bbox":"153.369188992,-28.351361008,153.381620992,-28.334500996",
     "geom:latitude":-28.34137,
     "geom:longitude":153.376054,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.340451,
     "lbl:longitude":153.376147,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bray Park"
@@ -41,12 +47,15 @@
         102048589
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10326"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101929693
     ],
     "wof:country":"AU",
-    "wof:geomhash":"537fc119f6ab254379521c18ad244ab2",
+    "wof:geomhash":"6a94765f0a73209705a5097737154929",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404222159,
-    "wof:lastmodified":1566602746,
+    "wof:lastmodified":1695877557,
     "wof:name":"Bray Park",
     "wof:parent_id":102048589,
     "wof:placetype":"localadmin",

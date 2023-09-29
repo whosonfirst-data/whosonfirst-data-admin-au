@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00705,
-    "geom:area_square_m":75543723.601248,
+    "geom:area_square_m":75543723.601375,
     "geom:bbox":"152.976602016,-29.991056005,153.090056,-29.865371001",
     "geom:latitude":-29.934386,
     "geom:longitude":153.030766,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-29.951705,
     "lbl:longitude":153.029916,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Wells Crossing"
@@ -38,9 +44,12 @@
         102048835
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12455"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"0df9b283faad104cc4091462c1286839",
+    "wof:geomhash":"cf472038d149197bd21e14abde0937e9",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404226949,
-    "wof:lastmodified":1566602047,
+    "wof:lastmodified":1695877160,
     "wof:name":"Wells Crossing",
     "wof:parent_id":102048835,
     "wof:placetype":"localadmin",

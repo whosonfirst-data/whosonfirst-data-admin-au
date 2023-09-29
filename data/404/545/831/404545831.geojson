@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004646,
-    "geom:area_square_m":47117277.934242,
+    "geom:area_square_m":47117277.934075,
     "geom:bbox":"138.69075232,-34.9203220085,138.82275792,-34.8559000135",
     "geom:latitude":-34.890548,
     "geom:longitude":138.757679,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.891745,
     "lbl:longitude":138.768686,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Montacute"
@@ -56,9 +62,12 @@
         102049017
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40446"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"35c71907913651f4ae6b377c8f92ac72",
+    "wof:geomhash":"3722ca3987d3cbb37c128f29fa59d4ea",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -70,7 +79,7 @@
         }
     ],
     "wof:id":404545831,
-    "wof:lastmodified":1566602246,
+    "wof:lastmodified":1695877264,
     "wof:name":"Montacute",
     "wof:parent_id":102049017,
     "wof:placetype":"localadmin",

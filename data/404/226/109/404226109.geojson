@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000372,
-    "geom:area_square_m":3873687.320491,
+    "geom:area_square_m":3873687.320489,
     "geom:bbox":"151.154662176,-32.5580595615,151.179070368,-32.531693676",
     "geom:latitude":-32.545935,
     "geom:longitude":151.164519,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.547163,
     "lbl:longitude":151.162315,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Singleton Heights"
@@ -38,12 +44,15 @@
         102048757
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12082"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931859
     ],
     "wof:country":"AU",
-    "wof:geomhash":"39aea289b3af88ac3019f0444f9b124c",
+    "wof:geomhash":"39db87cb3d2ef1aac573a21a495554e9",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404226109,
-    "wof:lastmodified":1566602054,
+    "wof:lastmodified":1695877164,
     "wof:name":"Singleton Heights",
     "wof:parent_id":102048757,
     "wof:placetype":"localadmin",

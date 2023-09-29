@@ -10,12 +10,18 @@
     "geom:latitude":-38.263938,
     "geom:longitude":145.686833,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.260438,
     "lbl:longitude":145.692313,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Heath Hill"
@@ -38,9 +44,12 @@
         102048791
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20610"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"42e48abb890ba8572d0bcebe485e7ed6",
+    "wof:geomhash":"d2253425927741a2f8736e506108b60c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404538853,
-    "wof:lastmodified":1566602474,
+    "wof:lastmodified":1695877398,
     "wof:name":"Heath Hill",
     "wof:parent_id":102048791,
     "wof:placetype":"localadmin",

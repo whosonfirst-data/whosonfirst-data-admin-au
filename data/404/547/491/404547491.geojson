@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.410577,
-    "geom:area_square_m":4230983097.596843,
+    "geom:area_square_m":4230983097.596537,
     "geom:bbox":"120.02751648,-33.9718815835,120.875853696,-33.0790723235",
     "geom:latitude":-33.551403,
     "geom:longitude":120.499512,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.546827,
     "lbl:longitude":120.534656,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Jerdacuttup"
@@ -38,9 +44,12 @@
         102048585
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50359"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"7574462b61c2bf72d3ab506d48d67c0e",
+    "wof:geomhash":"78b641ad80043f6427d9c40cc1ee1cc6",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404547491,
-    "wof:lastmodified":1566602940,
+    "wof:lastmodified":1695877682,
     "wof:name":"Jerdacuttup",
     "wof:parent_id":102048585,
     "wof:placetype":"localadmin",

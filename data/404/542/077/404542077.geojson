@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000108,
-    "geom:area_square_m":1279179.813001,
+    "geom:area_square_m":1279179.813002,
     "geom:bbox":"145.81284192,-16.909355245,145.830134528,-16.8891720595",
     "geom:latitude":-16.903486,
     "geom:longitude":145.823099,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-16.904292,
     "lbl:longitude":145.823228,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "East Trinity"
@@ -38,12 +44,15 @@
         102048911
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30544"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934357
     ],
     "wof:country":"AU",
-    "wof:geomhash":"0e82cc73c8dc9ffacf991443d4e8a459",
+    "wof:geomhash":"b9995e6d0095a590538f35f20c7a46c9",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404542077,
-    "wof:lastmodified":1566602270,
+    "wof:lastmodified":1695877275,
     "wof:name":"East Trinity",
     "wof:parent_id":102048911,
     "wof:placetype":"localadmin",

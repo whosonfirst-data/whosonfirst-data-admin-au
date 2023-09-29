@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003376,
-    "geom:area_square_m":39543884.478396,
+    "geom:area_square_m":39543884.478429,
     "geom:bbox":"146.10398,-18.745760002,146.194811008,-18.6835869965",
     "geom:latitude":-18.713584,
     "geom:longitude":146.147054,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-18.715029,
     "lbl:longitude":146.147918,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Toobanna"
@@ -38,9 +44,12 @@
         102048645
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31647"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"df9c7d7ba8d152f6c4b480799059eb70",
+    "wof:geomhash":"d6babd08f48697d7225e4535030cb52b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404544425,
-    "wof:lastmodified":1566602156,
+    "wof:lastmodified":1695877220,
     "wof:name":"Toobanna",
     "wof:parent_id":102048645,
     "wof:placetype":"localadmin",

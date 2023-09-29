@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006228,
-    "geom:area_square_m":69693616.744853,
+    "geom:area_square_m":69693616.74477,
     "geom:bbox":"152.296854016,-25.205885003,152.437116992,-25.1260679925",
     "geom:latitude":-25.169896,
     "geom:longitude":152.361272,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-25.168007,
     "lbl:longitude":152.35538,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Redridge"
@@ -38,9 +44,12 @@
         102048763
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31389"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"62a475c9e8042cce6576d97edf036b90",
+    "wof:geomhash":"66ccb0c3034dd9da42e032bc48ec04eb",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404543881,
-    "wof:lastmodified":1566602103,
+    "wof:lastmodified":1695877193,
     "wof:name":"Redridge",
     "wof:parent_id":102048763,
     "wof:placetype":"localadmin",

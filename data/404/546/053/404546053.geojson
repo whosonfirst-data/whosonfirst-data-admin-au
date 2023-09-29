@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.190937,
-    "geom:area_square_m":1927673541.054764,
+    "geom:area_square_m":1927673541.054871,
     "geom:bbox":"140.607116,-35.5374535925,140.966224704,-34.986664433",
     "geom:latitude":-35.266146,
     "geom:longitude":140.786786,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.263724,
     "lbl:longitude":140.754415,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Parilla"
@@ -41,9 +47,12 @@
         102049159
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40549"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"53bed57df4038d39e650f8c0dc3a833b",
+    "wof:geomhash":"fc1ef65b587fdc4de2eb0c41f2208340",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404546053,
-    "wof:lastmodified":1566603118,
+    "wof:lastmodified":1695877777,
     "wof:name":"Parilla",
     "wof:parent_id":102049159,
     "wof:placetype":"localadmin",

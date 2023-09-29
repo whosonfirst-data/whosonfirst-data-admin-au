@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.045034,
-    "geom:area_square_m":487543775.306398,
+    "geom:area_square_m":487543775.306491,
     "geom:bbox":"152.371066016,-29.0233136235,152.747648288,-28.7179820015",
     "geom:latitude":-28.891517,
     "geom:longitude":152.560816,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.924049,
     "lbl:longitude":152.560914,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tabulam"
@@ -38,9 +44,12 @@
         102048787
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12197"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"78c613654ab95c514a7c792978549ea3",
+    "wof:geomhash":"8610f21f447232bf73f171e148feedf9",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404226367,
-    "wof:lastmodified":1566602058,
+    "wof:lastmodified":1695877166,
     "wof:name":"Tabulam",
     "wof:parent_id":102048787,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.118306,
-    "geom:area_square_m":1091221575.412148,
+    "geom:area_square_m":1091221575.410759,
     "geom:bbox":"144.910978752,-41.916673857,145.665942016,-41.6174724135",
     "geom:latitude":-41.760168,
     "geom:longitude":145.25934,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-41.765573,
     "lbl:longitude":145.162106,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Granville Harbour"
@@ -38,9 +44,12 @@
         102049543
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60137"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"7df8611a0531b30714698dc51c755b1d",
+    "wof:geomhash":"b165719e0015e61b1d304f20b8c2b3c4",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404548977,
-    "wof:lastmodified":1566603186,
+    "wof:lastmodified":1695877809,
     "wof:name":"Granville Harbour",
     "wof:parent_id":102049543,
     "wof:placetype":"localadmin",

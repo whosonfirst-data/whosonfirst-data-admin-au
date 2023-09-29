@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.041491,
-    "geom:area_square_m":413026283.411855,
+    "geom:area_square_m":413026283.411763,
     "geom:bbox":"143.649611008,-36.5337948835,143.89872464,-36.240128011",
     "geom:latitude":-36.385055,
     "geom:longitude":143.769698,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.374865,
     "lbl:longitude":143.792243,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Glenalbyn"
@@ -38,9 +44,12 @@
         102049477
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20536"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"9845e3c1e283c65f05dbd21e0964eb35",
+    "wof:geomhash":"0b881c404ae67bddf5b02d93ca3a9fab",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404538685,
-    "wof:lastmodified":1566602466,
+    "wof:lastmodified":1695877393,
     "wof:name":"Glenalbyn",
     "wof:parent_id":102049477,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000383,
-    "geom:area_square_m":3923912.101913,
+    "geom:area_square_m":3923912.101889,
     "geom:bbox":"151.018512448,-34.0280864705,151.046000672,-34.0053426445",
     "geom:latitude":-34.016317,
     "geom:longitude":151.032582,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.015872,
     "lbl:longitude":151.033695,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Bangor"
@@ -165,12 +171,15 @@
         102049511
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10099"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101929459
     ],
     "wof:country":"AU",
-    "wof:geomhash":"a3ddefbd9d11dc0032b5b541b5462e10",
+    "wof:geomhash":"a7f85f104f7b3b4e1071b3f2c25b09eb",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -183,7 +192,7 @@
         }
     ],
     "wof:id":404221647,
-    "wof:lastmodified":1566601996,
+    "wof:lastmodified":1695877130,
     "wof:name":"Bangor",
     "wof:parent_id":102049511,
     "wof:placetype":"localadmin",

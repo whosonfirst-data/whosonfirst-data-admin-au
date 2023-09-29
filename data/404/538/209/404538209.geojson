@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008198,
-    "geom:area_square_m":80212183.448596,
+    "geom:area_square_m":80212183.448509,
     "geom:bbox":"145.311196416,-37.7487726895,145.496866592,-37.657596568",
     "geom:latitude":-37.698599,
     "geom:longitude":145.396445,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.703264,
     "lbl:longitude":145.382311,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Coldstream"
@@ -96,9 +102,12 @@
         102048969
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20321"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"55caac41a149862cca94844d189adc40",
+    "wof:geomhash":"3b60d2879f109ceabef7c97c28e0ebeb",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -111,7 +120,7 @@
         }
     ],
     "wof:id":404538209,
-    "wof:lastmodified":1566602471,
+    "wof:lastmodified":1695877395,
     "wof:name":"Coldstream",
     "wof:parent_id":102048969,
     "wof:placetype":"localadmin",

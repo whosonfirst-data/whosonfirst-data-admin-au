@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.075562,
-    "geom:area_square_m":772312660.202386,
+    "geom:area_square_m":772312660.202891,
     "geom:bbox":"147.28459536,-34.421595993,147.75930944,-34.106522382",
     "geom:latitude":-34.249826,
     "geom:longitude":147.529879,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.251709,
     "lbl:longitude":147.565635,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Narraburra"
@@ -38,9 +44,12 @@
         102048529
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11688"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"c92ef786c8f63b2e2f77bfb7f0af9114",
+    "wof:geomhash":"41b525885b2a18f36523990f6dae05db",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404225223,
-    "wof:lastmodified":1566602716,
+    "wof:lastmodified":1695877538,
     "wof:name":"Narraburra",
     "wof:parent_id":102048529,
     "wof:placetype":"localadmin",

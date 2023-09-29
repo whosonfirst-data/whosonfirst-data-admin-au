@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001696,
-    "geom:area_square_m":18585799.396532,
+    "geom:area_square_m":18585799.396521,
     "geom:bbox":"152.63932,-27.6369079355,152.688859008,-27.575351017",
     "geom:latitude":-27.602847,
     "geom:longitude":152.663661,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.602893,
     "lbl:longitude":152.659906,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Walloon"
@@ -42,12 +48,15 @@
         102048583
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31717"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935571
     ],
     "wof:country":"AU",
-    "wof:geomhash":"a39ab1563dbf78a40636de7c88d9c3d1",
+    "wof:geomhash":"2f581a8eb5d961d8dc24361e2cc8e761",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -60,7 +69,7 @@
         }
     ],
     "wof:id":404544565,
-    "wof:lastmodified":1566602183,
+    "wof:lastmodified":1695877235,
     "wof:name":"Walloon",
     "wof:parent_id":102048583,
     "wof:placetype":"localadmin",

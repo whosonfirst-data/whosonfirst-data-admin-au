@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007035,
-    "geom:area_square_m":73770137.491845,
+    "geom:area_square_m":73770137.492143,
     "geom:bbox":"150.938766016,-32.0586489905,151.047915008,-31.9188150015",
     "geom:latitude":-31.996217,
     "geom:longitude":150.983637,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.000378,
     "lbl:longitude":150.979853,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Gundy"
@@ -47,9 +53,12 @@
         102048493
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11049"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"43acf0e805d3d72ee4219460accd3360",
+    "wof:geomhash":"6a68c118169f563cf1fc2d51ff59920d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":404223785,
-    "wof:lastmodified":1566602523,
+    "wof:lastmodified":1695877427,
     "wof:name":"Gundy",
     "wof:parent_id":102048493,
     "wof:placetype":"localadmin",

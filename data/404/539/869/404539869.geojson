@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001445,
-    "geom:area_square_m":14014565.648543,
+    "geom:area_square_m":14014565.648534,
     "geom:bbox":"142.687968,-38.349694037,142.75801584,-38.3157306085",
     "geom:latitude":-38.332497,
     "geom:longitude":142.718683,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.333386,
     "lbl:longitude":142.718724,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Panmure"
@@ -38,9 +44,12 @@
         102049109
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21066"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"68b0bb402116ecd29b2db911119a95e2",
+    "wof:geomhash":"00c4a534411badadff60170cc32b6ebf",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404539869,
-    "wof:lastmodified":1566602371,
+    "wof:lastmodified":1695877337,
     "wof:name":"Panmure",
     "wof:parent_id":102049109,
     "wof:placetype":"localadmin",

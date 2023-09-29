@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.140895,
-    "geom:area_square_m":1562644754.804825,
+    "geom:area_square_m":1562644754.805031,
     "geom:bbox":"151.013243008,-26.5091984035,151.477693856,-26.001924833",
     "geom:latitude":-26.241102,
     "geom:longitude":151.266718,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-26.233093,
     "lbl:longitude":151.285414,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Durong"
@@ -38,9 +44,12 @@
         102048861
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30526"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"a125b7e5fbaaadcee944135f4976f841",
+    "wof:geomhash":"16b20cf23ff71eb936b88a9b8f859a5a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404542043,
-    "wof:lastmodified":1566602301,
+    "wof:lastmodified":1695877295,
     "wof:name":"Durong",
     "wof:parent_id":102048861,
     "wof:placetype":"localadmin",

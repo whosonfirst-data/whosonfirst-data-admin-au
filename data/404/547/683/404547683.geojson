@@ -10,12 +10,18 @@
     "geom:latitude":-35.006103,
     "geom:longitude":117.855803,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.006329,
     "lbl:longitude":117.855802,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Lockyer"
@@ -56,12 +62,15 @@
         102048671
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50445"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937427
     ],
     "wof:country":"AU",
-    "wof:geomhash":"7aea8974f16efd38619ee04b48482cf4",
+    "wof:geomhash":"32d82f6c59e0af61fe81dd47100145aa",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -73,7 +82,7 @@
         }
     ],
     "wof:id":404547683,
-    "wof:lastmodified":1566602963,
+    "wof:lastmodified":1695877697,
     "wof:name":"Lockyer",
     "wof:parent_id":102048671,
     "wof:placetype":"localadmin",

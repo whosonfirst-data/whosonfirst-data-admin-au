@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.308119,
-    "geom:area_square_m":3114544087.604842,
+    "geom:area_square_m":3114544087.604736,
     "geom:bbox":"140.965418784,-35.4158678,141.997628,-34.8660130385",
     "geom:latitude":-35.167067,
     "geom:longitude":141.409329,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.186272,
     "lbl:longitude":141.4017,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Murrayville"
@@ -50,9 +56,12 @@
         102049611
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20962"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"b0bfb6ad4e6d0b939071eee5ea2ad3c2",
+    "wof:geomhash":"6f3a170108c687bc65db4303635d64df",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":404539639,
-    "wof:lastmodified":1566602404,
+    "wof:lastmodified":1695877360,
     "wof:name":"Murrayville",
     "wof:parent_id":102049611,
     "wof:placetype":"localadmin",

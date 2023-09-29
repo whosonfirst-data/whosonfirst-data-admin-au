@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024334,
-    "geom:area_square_m":282570660.14419,
+    "geom:area_square_m":282570660.144012,
     "geom:bbox":"146.192647008,-20.1865570035,146.460954016,-20.006164003",
     "geom:latitude":-20.101594,
     "geom:longitude":146.339738,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-20.095926,
     "lbl:longitude":146.341796,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Broughton"
@@ -86,9 +92,12 @@
         102048989
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30248"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"d4256a367c23b34f920b06d1b7ded085",
+    "wof:geomhash":"08951a147e105f3d45f0443e51e84039",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -100,7 +109,7 @@
         }
     ],
     "wof:id":404541461,
-    "wof:lastmodified":1566603091,
+    "wof:lastmodified":1695877766,
     "wof:name":"Broughton",
     "wof:parent_id":102048989,
     "wof:placetype":"localadmin",

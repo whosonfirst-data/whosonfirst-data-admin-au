@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005078,
-    "geom:area_square_m":56618525.948147,
+    "geom:area_square_m":56618525.948226,
     "geom:bbox":"151.587830848,-25.668619657,151.692983008,-25.5748530175",
     "geom:latitude":-25.621875,
     "geom:longitude":151.646678,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-25.617549,
     "lbl:longitude":151.656224,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Gayndah"
@@ -56,9 +62,12 @@
         102049053
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30638"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"490992b4186932c03da632f4149c5e2e",
+    "wof:geomhash":"39809f824c5e67835a6cd2c1ddbd00d3",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -70,7 +79,7 @@
         }
     ],
     "wof:id":404542281,
-    "wof:lastmodified":1566602274,
+    "wof:lastmodified":1695877278,
     "wof:name":"Gayndah",
     "wof:parent_id":102049053,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000943,
-    "geom:area_square_m":11229135.655535,
+    "geom:area_square_m":11229135.655547,
     "geom:bbox":"144.437295072,-15.577537766,144.463716992,-15.5171560045",
     "geom:latitude":-15.547154,
     "geom:longitude":144.448491,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-15.536489,
     "lbl:longitude":144.448743,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0644\u0648\u0631\u0627"
@@ -104,12 +110,15 @@
         102049375
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30942"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934715
     ],
     "wof:country":"AU",
-    "wof:geomhash":"00f46ead0a62b809f4a430e90ca5406b",
+    "wof:geomhash":"8f29d46d16a0b603a2a07052e2e6ee88",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -121,7 +130,7 @@
         }
     ],
     "wof:id":404542931,
-    "wof:lastmodified":1566602259,
+    "wof:lastmodified":1695877269,
     "wof:name":"Laura",
     "wof:parent_id":102049375,
     "wof:placetype":"localadmin",

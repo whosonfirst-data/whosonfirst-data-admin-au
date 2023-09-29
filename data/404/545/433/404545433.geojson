@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003993,
-    "geom:area_square_m":40526463.391006,
+    "geom:area_square_m":40526463.390996,
     "geom:bbox":"138.849315008,-34.87913359,138.941967232,-34.803944003",
     "geom:latitude":-34.83788,
     "geom:longitude":138.896202,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.831442,
     "lbl:longitude":138.895493,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Gumeracha"
@@ -38,9 +44,12 @@
         102049017
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40262"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"ec1d454eb16248885a4fb4d9b4944abd",
+    "wof:geomhash":"402e46fa203cf8e07ec2cd1d96fac76a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404545433,
-    "wof:lastmodified":1566602247,
+    "wof:lastmodified":1695877264,
     "wof:name":"Gumeracha",
     "wof:parent_id":102049017,
     "wof:placetype":"localadmin",

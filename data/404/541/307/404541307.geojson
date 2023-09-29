@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005433,
-    "geom:area_square_m":63628583.523967,
+    "geom:area_square_m":63628583.524008,
     "geom:bbox":"146.152587008,-18.7534892095,146.266772032,-18.6514339965",
     "geom:latitude":-18.708482,
     "geom:longitude":146.212116,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-18.711895,
     "lbl:longitude":146.212093,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Blackrock"
@@ -38,9 +44,12 @@
         102048645
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30174"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"c87cc7d2fceee668b1c20b711e8591b0",
+    "wof:geomhash":"877dfc14e47491dc0ca4f98aa47ff763",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404541307,
-    "wof:lastmodified":1566603042,
+    "wof:lastmodified":1695877742,
     "wof:name":"Blackrock",
     "wof:parent_id":102048645,
     "wof:placetype":"localadmin",

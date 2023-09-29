@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002496,
-    "geom:area_square_m":24696833.956432,
+    "geom:area_square_m":24696833.956441,
     "geom:bbox":"144.231417504,-36.8988391775,144.316037152,-36.8264443485",
     "geom:latitude":-36.861243,
     "geom:longitude":144.277825,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.864895,
     "lbl:longitude":144.277803,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mandurang South"
@@ -38,9 +44,12 @@
         102049661
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20838"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"6439aae4fd4c60dbcead6fd36ebec703",
+    "wof:geomhash":"00e1299fec3506b053d58ddcca4749cd",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404539361,
-    "wof:lastmodified":1566602383,
+    "wof:lastmodified":1695877344,
     "wof:name":"Mandurang South",
     "wof:parent_id":102049661,
     "wof:placetype":"localadmin",

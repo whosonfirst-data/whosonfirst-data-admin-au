@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000166,
-    "geom:area_square_m":1674010.458379,
+    "geom:area_square_m":1674010.458383,
     "geom:bbox":"143.596273184,-35.3551151875,143.61532384,-35.342074408",
     "geom:latitude":-35.349052,
     "geom:longitude":143.607348,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.349499,
     "lbl:longitude":143.607342,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Murray Downs"
@@ -38,12 +44,15 @@
         102049043
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11657"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101931341
     ],
     "wof:country":"AU",
-    "wof:geomhash":"2a661bd15003abf43563272a2f7d6c5d",
+    "wof:geomhash":"d396ac9911e372e56a9c419593c9e44d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404225153,
-    "wof:lastmodified":1566602699,
+    "wof:lastmodified":1695877528,
     "wof:name":"Murray Downs",
     "wof:parent_id":102049043,
     "wof:placetype":"localadmin",

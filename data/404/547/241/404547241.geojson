@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015091,
-    "geom:area_square_m":155431175.060394,
+    "geom:area_square_m":155431175.060382,
     "geom:bbox":"115.574828288,-33.6728148755,115.72767664,-33.476570002",
     "geom:latitude":-33.595827,
     "geom:longitude":115.643056,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.63311,
     "lbl:longitude":115.622817,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Elgin"
@@ -104,9 +110,12 @@
         102048869
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50248"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"2fcda0ef6819778a5d069a22916012ec",
+    "wof:geomhash":"de1c2674972541c40fddd5db76c5078c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -118,7 +127,7 @@
         }
     ],
     "wof:id":404547241,
-    "wof:lastmodified":1566602958,
+    "wof:lastmodified":1695877693,
     "wof:name":"Elgin",
     "wof:parent_id":102048869,
     "wof:placetype":"localadmin",

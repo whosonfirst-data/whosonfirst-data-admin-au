@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005985,
-    "geom:area_square_m":58155858.060497,
+    "geom:area_square_m":58155858.060567,
     "geom:bbox":"145.700802368,-38.251943996,145.802267008,-38.143994979",
     "geom:latitude":-38.197782,
     "geom:longitude":145.74787,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.193284,
     "lbl:longitude":145.744426,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ripplebrook"
@@ -38,9 +44,12 @@
         102048523
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21147"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"bf22d1e543468d2011df8179e46be18c",
+    "wof:geomhash":"27974d67d89302ef61ce610e04314a88",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404540049,
-    "wof:lastmodified":1566602995,
+    "wof:lastmodified":1695877716,
     "wof:name":"Ripplebrook",
     "wof:parent_id":102048523,
     "wof:placetype":"localadmin",

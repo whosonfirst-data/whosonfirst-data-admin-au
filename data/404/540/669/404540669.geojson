@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015695,
-    "geom:area_square_m":152183418.021015,
+    "geom:area_square_m":152183418.020921,
     "geom:bbox":"143.671552352,-38.436162112,143.86428096,-38.258331528",
     "geom:latitude":-38.357641,
     "geom:longitude":143.764215,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.388425,
     "lbl:longitude":143.797681,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Warncoort"
@@ -38,9 +44,12 @@
         102049117
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21423"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"6ea57ca7b74b285ba600483c5c7f67e1",
+    "wof:geomhash":"37b791f167c4a0818cb9e41fa91d8b75",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404540669,
-    "wof:lastmodified":1566602998,
+    "wof:lastmodified":1695877717,
     "wof:name":"Warncoort",
     "wof:parent_id":102049117,
     "wof:placetype":"localadmin",

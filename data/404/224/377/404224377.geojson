@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001762,
-    "geom:area_square_m":18562749.218525,
+    "geom:area_square_m":18562749.218558,
     "geom:bbox":"152.803238112,-31.571376288,152.869919968,-31.530741001",
     "geom:latitude":-31.550114,
     "geom:longitude":152.832361,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.551511,
     "lbl:longitude":152.832341,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lake Cathie"
@@ -38,12 +44,15 @@
         102049203
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11312"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101930965
     ],
     "wof:country":"AU",
-    "wof:geomhash":"75f91b137cd58406415978b9ca3bae9a",
+    "wof:geomhash":"7c3e9fa0b3c3a992556b13bcb0b52837",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404224377,
-    "wof:lastmodified":1566602601,
+    "wof:lastmodified":1695877475,
     "wof:name":"Lake Cathie",
     "wof:parent_id":102049203,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01267,
-    "geom:area_square_m":134354233.995576,
+    "geom:area_square_m":134354233.995458,
     "geom:bbox":"152.878452992,-31.034429994,153.032963008,-30.8649309775",
     "geom:latitude":-30.950883,
     "geom:longitude":152.947639,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-30.952243,
     "lbl:longitude":152.942372,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Clybucca"
@@ -38,9 +44,12 @@
         102048527
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10544"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"3a11091499862fa6540cf5b53acacaab",
+    "wof:geomhash":"6d01ab912b1a769bde9b97210231adb5",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404222649,
-    "wof:lastmodified":1566602792,
+    "wof:lastmodified":1695877587,
     "wof:name":"Clybucca",
     "wof:parent_id":102048527,
     "wof:placetype":"localadmin",

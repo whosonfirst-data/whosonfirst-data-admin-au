@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011053,
-    "geom:area_square_m":110593509.908366,
+    "geom:area_square_m":110593509.90818,
     "geom:bbox":"149.958639008,-36.0517830075,150.100384992,-35.896005996",
     "geom:latitude":-35.979981,
     "geom:longitude":150.022996,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.992104,
     "lbl:longitude":150.018158,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Turlinjah"
@@ -38,9 +44,12 @@
         102049609
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12327"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"b3a8d64a51f8f97616787b6082032335",
+    "wof:geomhash":"3bf4e9dfa0bd55cdae92478493c27ea8",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404226661,
-    "wof:lastmodified":1566602038,
+    "wof:lastmodified":1695877154,
     "wof:name":"Turlinjah",
     "wof:parent_id":102049609,
     "wof:placetype":"localadmin",

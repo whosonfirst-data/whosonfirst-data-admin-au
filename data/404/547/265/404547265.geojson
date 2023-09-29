@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0333,
-    "geom:area_square_m":343573071.761581,
+    "geom:area_square_m":343573071.761637,
     "geom:bbox":"115.70563744,-33.542089121,116.057968128,-33.3451557885",
     "geom:latitude":-33.447094,
     "geom:longitude":115.887228,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.446415,
     "lbl:longitude":115.913847,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0641\u064a\u0631\u063a\u0633\u0648\u0646"
@@ -107,9 +113,12 @@
         102049295
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50259"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"518a270ee78414214adb58c1df0c0c96",
+    "wof:geomhash":"ce263f835931aa40fd813bed3a2e43eb",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -121,7 +130,7 @@
         }
     ],
     "wof:id":404547265,
-    "wof:lastmodified":1566602967,
+    "wof:lastmodified":1695877699,
     "wof:name":"Ferguson",
     "wof:parent_id":102049295,
     "wof:placetype":"localadmin",

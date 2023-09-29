@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001352,
-    "geom:area_square_m":16371769.633627,
+    "geom:area_square_m":16371769.633637,
     "geom:bbox":"133.35875824,-11.6815446405,133.402347296,-11.6327239915",
     "geom:latitude":-11.656609,
     "geom:longitude":133.378629,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-11.657377,
     "lbl:longitude":133.379043,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Warruwi"
@@ -38,12 +44,15 @@
         102049147
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC70198"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938669
     ],
     "wof:country":"AU",
-    "wof:geomhash":"afbb6e47dad738adef5140b0f2dca8a4",
+    "wof:geomhash":"c8a5674112d675dd446d3307e13e134f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404549895,
-    "wof:lastmodified":1566602844,
+    "wof:lastmodified":1695877623,
     "wof:name":"Warruwi",
     "wof:parent_id":102049147,
     "wof:placetype":"localadmin",

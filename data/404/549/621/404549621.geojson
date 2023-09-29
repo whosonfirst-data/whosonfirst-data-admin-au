@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.038505,
-    "geom:area_square_m":444433943.51741,
+    "geom:area_square_m":444433943.517403,
     "geom:bbox":"134.20128,-21.126451002,134.441192992,-20.9219650075",
     "geom:latitude":-21.019868,
     "geom:longitude":134.324851,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-21.024199,
     "lbl:longitude":134.324851,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ali Curung"
@@ -38,9 +44,12 @@
         102048951
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC70004"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"59df6876c6d0016afdd85dadc6b8a48d",
+    "wof:geomhash":"48bd2e7c58eddc1343ceaeec01402b4f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404549621,
-    "wof:lastmodified":1566602837,
+    "wof:lastmodified":1695877618,
     "wof:name":"Ali Curung",
     "wof:parent_id":102048951,
     "wof:placetype":"localadmin",

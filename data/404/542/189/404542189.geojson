@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001846,
-    "geom:area_square_m":20252764.632531,
+    "geom:area_square_m":20252764.632554,
     "geom:bbox":"152.599188992,-27.4982069975,152.679951008,-27.4417790005",
     "geom:latitude":-27.477094,
     "geom:longitude":152.636131,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.48369,
     "lbl:longitude":152.640118,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Fairney View"
@@ -38,9 +44,12 @@
         102049287
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30596"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"3418084abf14fae0e510f4f97506e6af",
+    "wof:geomhash":"7235bd34bc5680abf343de896e6c5e23",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404542189,
-    "wof:lastmodified":1566602283,
+    "wof:lastmodified":1695877283,
     "wof:name":"Fairney View",
     "wof:parent_id":102049287,
     "wof:placetype":"localadmin",

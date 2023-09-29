@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.160045,
-    "geom:area_square_m":1620619575.468374,
+    "geom:area_square_m":1620619575.468225,
     "geom:bbox":"139.759689952,-35.291823931,140.430071904,-34.8675195675",
     "geom:latitude":-35.023746,
     "geom:longitude":140.135149,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.029665,
     "lbl:longitude":140.168296,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Marama"
@@ -50,9 +56,12 @@
         102049517
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40400"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"f0f26f3184b1074cf27457c2154289d5",
+    "wof:geomhash":"3d633361e663b20f094d149fc05b8063",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":404545729,
-    "wof:lastmodified":1566602256,
+    "wof:lastmodified":1695877268,
     "wof:name":"Marama",
     "wof:parent_id":102049517,
     "wof:placetype":"localadmin",

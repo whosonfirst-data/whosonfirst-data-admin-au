@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021831,
-    "geom:area_square_m":215454319.443577,
+    "geom:area_square_m":215454319.443537,
     "geom:bbox":"143.762339712,-37.1286459925,143.974880992,-36.967045995",
     "geom:latitude":-37.045467,
     "geom:longitude":143.875374,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.041565,
     "lbl:longitude":143.864744,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Carisbrook"
@@ -65,9 +71,12 @@
         102048773
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20257"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"80838c836c81ad6866b9d715ecd0845c",
+    "wof:geomhash":"ebe72c0c547e250251909aa5580d1d03",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -79,7 +88,7 @@
         }
     ],
     "wof:id":404538065,
-    "wof:lastmodified":1566602439,
+    "wof:lastmodified":1695877380,
     "wof:name":"Carisbrook",
     "wof:parent_id":102048773,
     "wof:placetype":"localadmin",

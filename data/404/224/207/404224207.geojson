@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000689,
-    "geom:area_square_m":7003691.105869,
+    "geom:area_square_m":7003690.097377,
     "geom:bbox":"150.830396,-34.694699,150.864702,-34.647464",
     "geom:latitude":-34.671063,
     "geom:longitude":150.846496,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.671698,
     "lbl:longitude":150.849093,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u064a\u0627\u0645\u0627"
@@ -83,12 +89,15 @@
         102048749
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11237"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101930871
     ],
     "wof:country":"AU",
-    "wof:geomhash":"ea97fa5f6aafb1f0ef6ad112d175e02a",
+    "wof:geomhash":"fa785a7dc85f10ff1b6918a8615f2d89",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -100,7 +109,7 @@
         }
     ],
     "wof:id":404224207,
-    "wof:lastmodified":1636494649,
+    "wof:lastmodified":1695877865,
     "wof:name":"Kiama",
     "wof:parent_id":102048749,
     "wof:placetype":"localadmin",

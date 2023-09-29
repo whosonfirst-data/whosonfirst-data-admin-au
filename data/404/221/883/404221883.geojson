@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.048229,
-    "geom:area_square_m":477787707.63195,
+    "geom:area_square_m":477787707.631936,
     "geom:bbox":"149.22066,-36.9092697365,149.520644,-36.6023080055",
     "geom:latitude":-36.75739,
     "geom:longitude":149.368337,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-36.740684,
     "lbl:longitude":149.353464,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bibbenluke"
@@ -38,9 +44,12 @@
         102049437
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10204"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"8b11a8bd63c3326801c4df6cd4546366",
+    "wof:geomhash":"d3090556fd6a523a1060dffda0116f85",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404221883,
-    "wof:lastmodified":1566601994,
+    "wof:lastmodified":1695877130,
     "wof:name":"Bibbenluke",
     "wof:parent_id":102049437,
     "wof:placetype":"localadmin",

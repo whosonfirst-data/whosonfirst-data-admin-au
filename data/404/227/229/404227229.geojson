@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.156986,
-    "geom:area_square_m":1611758888.60238,
+    "geom:area_square_m":1611758888.603033,
     "geom:bbox":"147.202071232,-34.163268616,147.784044128,-33.5253427175",
     "geom:latitude":-33.869429,
     "geom:longitude":147.451577,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.860884,
     "lbl:longitude":147.407323,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Wyalong"
@@ -41,9 +47,12 @@
         102049365
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12580"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"dbfb94241a67c1f997228f483045882e",
+    "wof:geomhash":"c77c0f9d60b36941c7f7cb47cf00598f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404227229,
-    "wof:lastmodified":1566601937,
+    "wof:lastmodified":1695877102,
     "wof:name":"Wyalong",
     "wof:parent_id":102049365,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.039993,
-    "geom:area_square_m":472968713.128195,
+    "geom:area_square_m":472968713.127882,
     "geom:bbox":"145.058374016,-17.1352099975,145.399971008,-16.784768993",
     "geom:latitude":-16.979093,
     "geom:longitude":145.230769,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-16.9759,
     "lbl:longitude":145.230799,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Chewko"
@@ -38,9 +44,12 @@
         102048519
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30360"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"0de24bbb98ddfd305c9c56936d215048",
+    "wof:geomhash":"d9c3ab9bb9e5d910a2f54b9dd02187e5",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404541697,
-    "wof:lastmodified":1566603088,
+    "wof:lastmodified":1695877764,
     "wof:name":"Chewko",
     "wof:parent_id":102048519,
     "wof:placetype":"localadmin",

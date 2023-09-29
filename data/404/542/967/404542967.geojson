@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001699,
-    "geom:area_square_m":18632384.455961,
+    "geom:area_square_m":18632384.455952,
     "geom:bbox":"152.434896992,-27.511796154,152.494404,-27.4635427705",
     "geom:latitude":-27.489007,
     "geom:longitude":152.459998,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-27.487655,
     "lbl:longitude":152.459432,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lockrose"
@@ -38,9 +44,12 @@
         102049033
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30958"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"a016fbf9b0025761dbfce3872f47c3ed",
+    "wof:geomhash":"f911af25cc3f2b18d561350aeee242a7",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404542967,
-    "wof:lastmodified":1566602292,
+    "wof:lastmodified":1695877288,
     "wof:name":"Lockrose",
     "wof:parent_id":102049033,
     "wof:placetype":"localadmin",

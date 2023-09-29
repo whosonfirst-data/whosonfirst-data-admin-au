@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000117,
-    "geom:area_square_m":1090201.815288,
+    "geom:area_square_m":1090201.815302,
     "geom:bbox":"146.36232192,-41.211710082,146.381338144,-41.1930717575",
     "geom:latitude":-41.203161,
     "geom:longitude":146.372249,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-41.205247,
     "lbl:longitude":146.375558,
     "lbl:max_zoom":18.0,
@@ -103,13 +109,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC60008",
         "wd:id":"Q29467812"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938013
     ],
     "wof:country":"AU",
-    "wof:geomhash":"1b7ddc2703bd4b0b66b216b7653f5c9e",
+    "wof:geomhash":"2f5601cbedfa15f14a380751db0de7a6",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -122,7 +130,7 @@
         }
     ],
     "wof:id":404548687,
-    "wof:lastmodified":1566603174,
+    "wof:lastmodified":1695878047,
     "wof:name":"Ambleside",
     "wof:parent_id":102048819,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.041695,
-    "geom:area_square_m":408965603.205866,
+    "geom:area_square_m":408965603.205881,
     "geom:bbox":"145.559987008,-37.624195447,145.9477872,-37.380698521",
     "geom:latitude":-37.511203,
     "geom:longitude":145.722077,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.533971,
     "lbl:longitude":145.673509,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Narbethong"
@@ -41,9 +47,12 @@
         102048737
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20979"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"ce21c5316035c88078f9868620f43c5e",
+    "wof:geomhash":"5d2ba049a354659155e13ebf8f2166fc",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404539679,
-    "wof:lastmodified":1566602399,
+    "wof:lastmodified":1695877355,
     "wof:name":"Narbethong",
     "wof:parent_id":102048737,
     "wof:placetype":"localadmin",

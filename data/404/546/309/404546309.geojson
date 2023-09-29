@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000135,
-    "geom:area_square_m":1371740.888976,
+    "geom:area_square_m":1371740.888978,
     "geom:bbox":"138.684658016,-34.9319092615,138.700997728,-34.914562163",
     "geom:latitude":-34.924468,
     "geom:longitude":138.692833,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.924483,
     "lbl:longitude":138.69283,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062c\u0632\u064a\u0631\u0629 \u0633\u0643\u0627\u064a"
@@ -183,12 +189,15 @@
         102048505
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40671"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101936613
     ],
     "wof:country":"AU",
-    "wof:geomhash":"47ff7e585e8593afa9f9b0b9f305af4e",
+    "wof:geomhash":"2dc024f0e57c41236ef34d7dc5f2a655",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -201,7 +210,7 @@
         }
     ],
     "wof:id":404546309,
-    "wof:lastmodified":1566603102,
+    "wof:lastmodified":1695877771,
     "wof:name":"Skye",
     "wof:parent_id":102048505,
     "wof:placetype":"localadmin",

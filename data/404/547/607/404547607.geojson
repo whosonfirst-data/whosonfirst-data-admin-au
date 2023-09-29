@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022694,
-    "geom:area_square_m":229986689.326325,
+    "geom:area_square_m":229986689.326311,
     "geom:bbox":"117.01126304,-35.0678427475,117.21111,-34.8564709975",
     "geom:latitude":-34.955933,
     "geom:longitude":117.10793,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.948912,
     "lbl:longitude":117.107832,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kordabup"
@@ -38,9 +44,12 @@
         102048443
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50411"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"c428c978ea8ba6c1728c6c3b9f5e4d2a",
+    "wof:geomhash":"23acbbff6b81af672875ea7782c38f0b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404547607,
-    "wof:lastmodified":1566602969,
+    "wof:lastmodified":1695877700,
     "wof:name":"Kordabup",
     "wof:parent_id":102048443,
     "wof:placetype":"localadmin",

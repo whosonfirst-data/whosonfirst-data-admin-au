@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009582,
-    "geom:area_square_m":101536955.511302,
+    "geom:area_square_m":101536955.511274,
     "geom:bbox":"152.948097024,-31.1005960025,153.066398784,-30.9432449925",
     "geom:latitude":-31.01918,
     "geom:longitude":153.010391,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-31.021186,
     "lbl:longitude":153.004603,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kinchela"
@@ -38,9 +44,12 @@
         102048527
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11252"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"e67f995f30c84c28d18d5c69758cc8af",
+    "wof:geomhash":"94c854d0927fa405433e2e292de4273c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404224241,
-    "wof:lastmodified":1566602621,
+    "wof:lastmodified":1695877487,
     "wof:name":"Kinchela",
     "wof:parent_id":102048527,
     "wof:placetype":"localadmin",

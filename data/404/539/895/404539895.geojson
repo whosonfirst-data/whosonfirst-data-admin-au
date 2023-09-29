@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000444,
-    "geom:area_square_m":4330792.10104,
+    "geom:area_square_m":4330792.101055,
     "geom:bbox":"147.691865088,-37.920769021,147.732183008,-37.893166022",
     "geom:latitude":-37.909313,
     "geom:longitude":147.718472,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.909983,
     "lbl:longitude":147.720467,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Paynesville"
@@ -74,12 +80,15 @@
         102049039
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC21077"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101933399
     ],
     "wof:country":"AU",
-    "wof:geomhash":"0fa614bdd9215daa1bf6d861a4d3319b",
+    "wof:geomhash":"95c2ce2a102d788e09196794e48a5db9",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -91,7 +100,7 @@
         }
     ],
     "wof:id":404539895,
-    "wof:lastmodified":1566602367,
+    "wof:lastmodified":1695877335,
     "wof:name":"Paynesville",
     "wof:parent_id":102049039,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001732,
-    "geom:area_square_m":18802618.60366,
+    "geom:area_square_m":18802618.603644,
     "geom:bbox":"153.518492992,-28.665387001,153.58220784,-28.6126410035",
     "geom:latitude":-28.634306,
     "geom:longitude":153.549055,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.631412,
     "lbl:longitude":153.549536,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ewingsdale"
@@ -38,9 +44,12 @@
         102048747
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10859"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"b7c37214a9f4ee1adb5adba714fee064",
+    "wof:geomhash":"6a710d77ad77e69335d0371de2844a2f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404223357,
-    "wof:lastmodified":1566602532,
+    "wof:lastmodified":1695877432,
     "wof:name":"Ewingsdale",
     "wof:parent_id":102048747,
     "wof:placetype":"localadmin",

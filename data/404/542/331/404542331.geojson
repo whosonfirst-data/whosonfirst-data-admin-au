@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002096,
-    "geom:area_square_m":24171442.393771,
+    "geom:area_square_m":24171442.393793,
     "geom:bbox":"149.0973984,-21.148123123,149.163473888,-21.096004997",
     "geom:latitude":-21.124448,
     "geom:longitude":149.130885,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-21.125814,
     "lbl:longitude":149.133543,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Glenella"
@@ -38,9 +44,12 @@
         102048783
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30663"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"25a6efdfc3e4280f300f94d5abfae764",
+    "wof:geomhash":"2e6d00b0dbbd0c5242e92ab90202ef8b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404542331,
-    "wof:lastmodified":1566602261,
+    "wof:lastmodified":1695877270,
     "wof:name":"Glenella",
     "wof:parent_id":102048783,
     "wof:placetype":"localadmin",

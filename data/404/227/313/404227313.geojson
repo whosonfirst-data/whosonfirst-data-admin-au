@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.057657,
-    "geom:area_square_m":581778902.666305,
+    "geom:area_square_m":581778902.666294,
     "geom:bbox":"146.797934016,-35.469159788,147.185648992,-35.1616156215",
     "geom:latitude":-35.311496,
     "geom:longitude":146.982807,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-35.242281,
     "lbl:longitude":146.915344,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Yerong Creek"
@@ -38,9 +44,12 @@
         102048617
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12617"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"0d3cb29a3dc516990a01caa591261e43",
+    "wof:geomhash":"7dd282b7c3cb43bfff0bb8019c56b266",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404227313,
-    "wof:lastmodified":1566601948,
+    "wof:lastmodified":1695877107,
     "wof:name":"Yerong Creek",
     "wof:parent_id":102048617,
     "wof:placetype":"localadmin",

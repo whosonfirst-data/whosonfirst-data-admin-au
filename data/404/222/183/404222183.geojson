@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00016,
-    "geom:area_square_m":1636133.070449,
+    "geom:area_square_m":1636122.326413,
     "geom:bbox":"151.144965,-33.966749,151.163725,-33.950471",
     "geom:latitude":-33.958267,
     "geom:longitude":151.153593,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.956491,
     "lbl:longitude":151.154233,
     "lbl:max_zoom":18.0,
@@ -280,13 +286,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC10337",
         "wd:id":"Q4967581"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101929699
     ],
     "wof:country":"AU",
-    "wof:geomhash":"2806dc0cbe3312a44531d832b99a6e8e",
+    "wof:geomhash":"f680d028636bab24c7e6fa37820ecf04",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -299,7 +307,7 @@
         }
     ],
     "wof:id":404222183,
-    "wof:lastmodified":1690853713,
+    "wof:lastmodified":1695878005,
     "wof:name":"Brighton-Le-Sands",
     "wof:parent_id":102048425,
     "wof:placetype":"localadmin",

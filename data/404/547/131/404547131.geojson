@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00038,
-    "geom:area_square_m":4056876.796744,
+    "geom:area_square_m":4056876.796754,
     "geom:bbox":"116.64904176,-30.2866997505,116.67064,-30.2684321845",
     "geom:latitude":-30.277557,
     "geom:longitude":116.659501,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-30.277564,
     "lbl:longitude":116.659497,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Dalwallinu"
@@ -38,12 +44,15 @@
         102048987
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50199"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101937081
     ],
     "wof:country":"AU",
-    "wof:geomhash":"3e7a84a64ca9810a04ffb04babcdc62d",
+    "wof:geomhash":"731cc2a93f6aa3b7db870ca44d625d95",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404547131,
-    "wof:lastmodified":1566602951,
+    "wof:lastmodified":1695877689,
     "wof:name":"Dalwallinu",
     "wof:parent_id":102048987,
     "wof:placetype":"localadmin",

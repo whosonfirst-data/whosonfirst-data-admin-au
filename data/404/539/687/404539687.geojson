@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004776,
-    "geom:area_square_m":46363834.256333,
+    "geom:area_square_m":46363834.256291,
     "geom:bbox":"146.188148992,-38.311538009,146.291330752,-38.224877164",
     "geom:latitude":-38.26499,
     "geom:longitude":146.24139,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.259655,
     "lbl:longitude":146.233561,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Narracan"
@@ -38,9 +44,12 @@
         102048523
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20983"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"6fb65b3ff3545de3ae057158c18057d4",
+    "wof:geomhash":"b712e5d83491eb4adc9f8eb8fc0ba92f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404539687,
-    "wof:lastmodified":1566602365,
+    "wof:lastmodified":1695877334,
     "wof:name":"Narracan",
     "wof:parent_id":102048523,
     "wof:placetype":"localadmin",

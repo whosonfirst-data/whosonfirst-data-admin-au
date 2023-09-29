@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.143406,
-    "geom:area_square_m":1322766849.465026,
+    "geom:area_square_m":1322766849.464495,
     "geom:bbox":"145.951331456,-41.9745560465,146.553892992,-41.558446998",
     "geom:latitude":-41.757847,
     "geom:longitude":146.191673,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-41.776844,
     "lbl:longitude":146.171083,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mersey Forest"
@@ -38,9 +44,12 @@
         102048535
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60217"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"7e5c28a6f7139ce1b64d77a6cc52874b",
+    "wof:geomhash":"0e0313db4dac5ccf7dfcba7a73816a01",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404549157,
-    "wof:lastmodified":1566602825,
+    "wof:lastmodified":1695877608,
     "wof:name":"Mersey Forest",
     "wof:parent_id":102048535,
     "wof:placetype":"localadmin",

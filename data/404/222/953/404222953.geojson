@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000073,
-    "geom:area_square_m":739064.097777,
+    "geom:area_square_m":739055.517166,
     "geom:bbox":"149.176894,-34.727314,149.191226,-34.719036",
     "geom:latitude":-34.722757,
     "geom:longitude":149.184186,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.721646,
     "lbl:longitude":149.184323,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062f\u0627\u0644\u062a\u0648\u0646"
@@ -146,12 +152,15 @@
         102048469
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10679"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101930055
     ],
     "wof:country":"AU",
-    "wof:geomhash":"d2be608c9bde12a6979a14d1a408e847",
+    "wof:geomhash":"5f5c83e2201337b39a20ed6d5a660c02",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -163,7 +172,7 @@
         }
     ],
     "wof:id":404222953,
-    "wof:lastmodified":1636494654,
+    "wof:lastmodified":1695877868,
     "wof:name":"Dalton",
     "wof:parent_id":102048469,
     "wof:placetype":"localadmin",

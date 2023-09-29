@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001943,
-    "geom:area_square_m":20219718.978811,
+    "geom:area_square_m":20219718.978762,
     "geom:bbox":"151.610574656,-32.741669786,151.712356,-32.681597992",
     "geom:latitude":-32.712165,
     "geom:longitude":151.665238,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.707266,
     "lbl:longitude":151.661781,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Osterley"
@@ -56,9 +62,12 @@
         102049095
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11818"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"ac5a1c5fb923d6f2b128ffd3403dd1b6",
+    "wof:geomhash":"5a856fa695537ee0a9cff702e2f39bdd",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -70,7 +79,7 @@
         }
     ],
     "wof:id":404225515,
-    "wof:lastmodified":1566602741,
+    "wof:lastmodified":1695877555,
     "wof:name":"Osterley",
     "wof:parent_id":102049095,
     "wof:placetype":"localadmin",

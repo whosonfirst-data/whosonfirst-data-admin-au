@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.066161,
-    "geom:area_square_m":769227330.036779,
+    "geom:area_square_m":769227330.03684,
     "geom:bbox":"147.218933888,-20.0968379975,147.488347008,-19.6511100235",
     "geom:latitude":-19.904081,
     "geom:longitude":147.350046,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-19.978853,
     "lbl:longitude":147.39295,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Osborne"
@@ -83,9 +89,12 @@
         102048927
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31274"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"ea4154e6ad7b197fe0a71b70c9096c18",
+    "wof:geomhash":"701ade4555e8a53e98d86c86364342d6",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -97,7 +106,7 @@
         }
     ],
     "wof:id":404543629,
-    "wof:lastmodified":1566602104,
+    "wof:lastmodified":1695877193,
     "wof:name":"Osborne",
     "wof:parent_id":102048927,
     "wof:placetype":"localadmin",

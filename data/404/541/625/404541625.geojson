@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000421,
-    "geom:area_square_m":4941028.033869,
+    "geom:area_square_m":4941028.033902,
     "geom:bbox":"146.004592992,-18.286528878,146.050754528,-18.240824998",
     "geom:latitude":-18.263805,
     "geom:longitude":146.025185,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-18.268628,
     "lbl:longitude":146.025529,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Cardwell"
@@ -74,12 +80,15 @@
         102049237
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30325"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101934127
     ],
     "wof:country":"AU",
-    "wof:geomhash":"ca73c0d6b8c8300ddafab8f74d3c3fc3",
+    "wof:geomhash":"f949e809de4f36adca17107d279e8f00",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -91,7 +100,7 @@
         }
     ],
     "wof:id":404541625,
-    "wof:lastmodified":1566603080,
+    "wof:lastmodified":1695877760,
     "wof:name":"Cardwell",
     "wof:parent_id":102049237,
     "wof:placetype":"localadmin",

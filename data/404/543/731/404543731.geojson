@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002633,
-    "geom:area_square_m":29202196.14916,
+    "geom:area_square_m":29202196.149168,
     "geom:bbox":"152.560849504,-26.262118564,152.643066016,-26.209244972",
     "geom:latitude":-26.236473,
     "geom:longitude":152.602637,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-26.234766,
     "lbl:longitude":152.60342,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Pie Creek"
@@ -38,9 +44,12 @@
         102049393
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31320"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"938b82d3000e314deaa82f597428fd9e",
+    "wof:geomhash":"89ee906271874a7537e666cdc49be6d7",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404543731,
-    "wof:lastmodified":1566602096,
+    "wof:lastmodified":1695877190,
     "wof:name":"Pie Creek",
     "wof:parent_id":102049393,
     "wof:placetype":"localadmin",

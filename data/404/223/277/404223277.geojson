@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000803,
-    "geom:area_square_m":8253776.527866,
+    "geom:area_square_m":8253776.527872,
     "geom:bbox":"150.641691488,-33.7647299055,150.68582,-33.7279620065",
     "geom:latitude":-33.746754,
     "geom:longitude":150.664808,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.746709,
     "lbl:longitude":150.665143,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Emu Plains"
@@ -39,12 +45,15 @@
         102048677
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10823"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101930223
     ],
     "wof:country":"AU",
-    "wof:geomhash":"d2fd847b4b9e114a79de2494ed47b906",
+    "wof:geomhash":"93f6ff4b353a7e965c5049de08962666",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404223277,
-    "wof:lastmodified":1566602541,
+    "wof:lastmodified":1695877439,
     "wof:name":"Emu Plains",
     "wof:parent_id":102048677,
     "wof:placetype":"localadmin",

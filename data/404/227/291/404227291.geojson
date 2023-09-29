@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.065419,
-    "geom:area_square_m":697577969.78555,
+    "geom:area_square_m":697577969.786626,
     "geom:bbox":"151.121602016,-30.5786740025,151.481044,-30.252428001",
     "geom:latitude":-30.417062,
     "geom:longitude":151.293376,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-30.420688,
     "lbl:longitude":151.281004,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Yarrowyck"
@@ -38,9 +44,12 @@
         102048863
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12607"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"6b773c074c9ed870c7123c93dd4d7f83",
+    "wof:geomhash":"575e23a74fb101d2ad78b514c59709c0",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404227291,
-    "wof:lastmodified":1566601956,
+    "wof:lastmodified":1695877112,
     "wof:name":"Yarrowyck",
     "wof:parent_id":102048863,
     "wof:placetype":"localadmin",

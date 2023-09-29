@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.617305,
-    "geom:area_square_m":18024293099.902,
+    "geom:area_square_m":18024293099.904537,
     "geom:bbox":"147.1597408,-26.386291008,149.065520992,-24.8788759505",
     "geom:latitude":-25.669882,
     "geom:longitude":148.077924,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-25.682437,
     "lbl:longitude":148.062676,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Injune"
@@ -38,9 +44,12 @@
         102049081
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC30799"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"9300e8cc2ca77fd05849f7b9e53cb1c3",
+    "wof:geomhash":"a63416e179c72bf67050498fa8862964",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404542619,
-    "wof:lastmodified":1566602270,
+    "wof:lastmodified":1695877275,
     "wof:name":"Injune",
     "wof:parent_id":102049081,
     "wof:placetype":"localadmin",

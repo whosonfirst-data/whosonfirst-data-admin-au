@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019131,
-    "geom:area_square_m":205926916.329714,
+    "geom:area_square_m":205926916.329558,
     "geom:bbox":"153.00101088,-29.58434738,153.168106784,-29.3790337325",
     "geom:latitude":-29.481036,
     "geom:longitude":153.068373,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-29.479372,
     "lbl:longitude":153.062695,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u041b\u043e\u045e\u0440\u044d\u043d\u0441"
@@ -125,9 +131,12 @@
         102048835
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11344"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"21c92846777a4342abd1f9a7434e97df",
+    "wof:geomhash":"34560adffe986084ef8df922c9d1b946",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -139,7 +148,7 @@
         }
     ],
     "wof:id":404224449,
-    "wof:lastmodified":1566602583,
+    "wof:lastmodified":1695877465,
     "wof:name":"Lawrence",
     "wof:parent_id":102048835,
     "wof:placetype":"localadmin",

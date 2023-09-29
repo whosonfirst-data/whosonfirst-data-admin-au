@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002046,
-    "geom:area_square_m":21044086.21721,
+    "geom:area_square_m":21044086.217217,
     "geom:bbox":"150.351073856,-33.7716123495,150.408845984,-33.6868452385",
     "geom:latitude":-33.721681,
     "geom:longitude":150.379731,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.716143,
     "lbl:longitude":150.3778,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Wentworth Falls"
@@ -38,12 +44,15 @@
         102049627
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC12457"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101932277
     ],
     "wof:country":"AU",
-    "wof:geomhash":"23413fd98e8581565baa9a09bfcc6e3b",
+    "wof:geomhash":"ebdf172efa3b5def5142269eba2a00c2",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404226953,
-    "wof:lastmodified":1566602014,
+    "wof:lastmodified":1695877140,
     "wof:name":"Wentworth Falls",
     "wof:parent_id":102049627,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017902,
-    "geom:area_square_m":195130878.019053,
+    "geom:area_square_m":195130878.018999,
     "geom:bbox":"152.717151456,-28.2757619975,152.894427776,-28.0917967395",
     "geom:latitude":-28.172945,
     "geom:longitude":152.798237,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-28.201956,
     "lbl:longitude":152.782148,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Rathdowney"
@@ -62,9 +68,12 @@
         102048945
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31377"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"d6ed79e0e4080f05594218795a468921",
+    "wof:geomhash":"459105e9167dd5f55143dad9a635d6c5",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -76,7 +85,7 @@
         }
     ],
     "wof:id":404543855,
-    "wof:lastmodified":1566602137,
+    "wof:lastmodified":1695877211,
     "wof:name":"Rathdowney",
     "wof:parent_id":102048945,
     "wof:placetype":"localadmin",

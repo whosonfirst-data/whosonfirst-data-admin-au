@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028975,
-    "geom:area_square_m":293550710.985255,
+    "geom:area_square_m":293550710.98512,
     "geom:bbox":"143.317639744,-35.0919730005,143.55252,-34.858235213",
     "geom:latitude":-34.981095,
     "geom:longitude":143.402936,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.979621,
     "lbl:longitude":143.404771,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Goodnight"
@@ -38,9 +44,12 @@
         102049043
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10989"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"6148298fc7aab00284e0e2ddb81096fd",
+    "wof:geomhash":"587ce30162bd84e38e9fc9bede016853",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404223649,
-    "wof:lastmodified":1566602542,
+    "wof:lastmodified":1695877440,
     "wof:name":"Goodnight",
     "wof:parent_id":102049043,
     "wof:placetype":"localadmin",

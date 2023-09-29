@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003383,
-    "geom:area_square_m":34876355.350106,
+    "geom:area_square_m":34876355.350045,
     "geom:bbox":"150.919278016,-33.5506679965,150.995991008,-33.4685190055",
     "geom:latitude":-33.511302,
     "geom:longitude":150.955136,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.512479,
     "lbl:longitude":150.955154,
     "lbl:max_zoom":18.0,
@@ -52,10 +58,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC12110",
         "wd:id":"Q7567914"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"9ae3dc9d4936a4c0422ea786e5a5edb3",
+    "wof:geomhash":"161e49ab02734d36e6287acac60fb69d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -68,7 +76,7 @@
         }
     ],
     "wof:id":404226173,
-    "wof:lastmodified":1566602042,
+    "wof:lastmodified":1695877908,
     "wof:name":"South Maroota",
     "wof:parent_id":102049139,
     "wof:placetype":"localadmin",

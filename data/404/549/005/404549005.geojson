@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000508,
-    "geom:area_square_m":4732009.616388,
+    "geom:area_square_m":4732009.616379,
     "geom:bbox":"146.521248608,-41.1528466525,146.54865408,-41.118426607",
     "geom:latitude":-41.13701,
     "geom:longitude":146.534211,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-41.137737,
     "lbl:longitude":146.533138,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Hawley Beach"
@@ -41,12 +47,15 @@
         102048629
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC60149"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101938121
     ],
     "wof:country":"AU",
-    "wof:geomhash":"25cd012c1245b2e3ec5b3156a502b3e1",
+    "wof:geomhash":"010f2899188f52ad9b8cbd71de4ddd39",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":404549005,
-    "wof:lastmodified":1566602905,
+    "wof:lastmodified":1695877664,
     "wof:name":"Hawley Beach",
     "wof:parent_id":102048629,
     "wof:placetype":"localadmin",

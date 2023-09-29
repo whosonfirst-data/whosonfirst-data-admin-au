@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003381,
-    "geom:area_square_m":34273436.953618,
+    "geom:area_square_m":34273436.95362,
     "geom:bbox":"150.514559296,-34.959968008,150.604466048,-34.9006024885",
     "geom:latitude":-34.93125,
     "geom:longitude":150.563211,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.929465,
     "lbl:longitude":150.557911,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Nowra Hill"
@@ -38,9 +44,12 @@
         102049405
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC11778"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"f231fda1460938c9b05e2a26aa7882a2",
+    "wof:geomhash":"6fc473ccccf7e287052e4189dbcca721",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404225425,
-    "wof:lastmodified":1566602672,
+    "wof:lastmodified":1695877515,
     "wof:name":"Nowra Hill",
     "wof:parent_id":102049405,
     "wof:placetype":"localadmin",

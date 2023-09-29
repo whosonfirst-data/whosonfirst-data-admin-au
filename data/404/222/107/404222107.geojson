@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000262,
-    "geom:area_square_m":2684452.56922,
+    "geom:area_square_m":2684463.259017,
     "geom:bbox":"151.188185,-33.958888,151.209521,-33.937322",
     "geom:latitude":-33.946904,
     "geom:longitude":151.200292,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-33.946451,
     "lbl:longitude":151.200454,
     "lbl:max_zoom":18.0,
@@ -523,10 +529,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC10303",
         "gp:id":29402134,
         "qs_pg:id":286677,
         "wd:id":"Q2976045"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101929673
     ],
@@ -534,7 +542,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9cf7c1ad0ab81d0bd6e7657a41e93aad",
+    "wof:geomhash":"4855c6142a45ff36712aa823d9c161ad",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -547,7 +555,7 @@
         }
     ],
     "wof:id":404222107,
-    "wof:lastmodified":1690853703,
+    "wof:lastmodified":1695878054,
     "wof:name":"Botany",
     "wof:parent_id":102049567,
     "wof:placetype":"localadmin",

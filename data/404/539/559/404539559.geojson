@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00217,
-    "geom:area_square_m":21077545.96342,
+    "geom:area_square_m":21077545.963433,
     "geom:bbox":"145.025478016,-38.2546580015,145.09934048,-38.2014229935",
     "geom:latitude":-38.230432,
     "geom:longitude":145.060281,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.232579,
     "lbl:longitude":145.060829,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mornington"
@@ -59,12 +65,15 @@
         102048695
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20926"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101933279
     ],
     "wof:country":"AU",
-    "wof:geomhash":"18e97b46bcd2a308dcbc29653637b0cb",
+    "wof:geomhash":"7fb44ed409fa8149720027c7389bf278",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -76,7 +85,7 @@
         }
     ],
     "wof:id":404539559,
-    "wof:lastmodified":1566602355,
+    "wof:lastmodified":1695877327,
     "wof:name":"Mornington",
     "wof:parent_id":102048695,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011366,
-    "geom:area_square_m":111381745.568015,
+    "geom:area_square_m":111381745.567999,
     "geom:bbox":"143.508376992,-37.650404619,143.668558816,-37.525151738",
     "geom:latitude":-37.580841,
     "geom:longitude":143.602862,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-37.569743,
     "lbl:longitude":143.624096,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Carngham"
@@ -38,9 +44,12 @@
         102049485
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20262"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"9592d864203538692e392d2fef67d19f",
+    "wof:geomhash":"71298cf58cb72dbdc970b6f612787502",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404538077,
-    "wof:lastmodified":1566602434,
+    "wof:lastmodified":1695877376,
     "wof:name":"Carngham",
     "wof:parent_id":102049485,
     "wof:placetype":"localadmin",

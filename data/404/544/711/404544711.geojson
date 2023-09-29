@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004394,
-    "geom:area_square_m":48531600.809864,
+    "geom:area_square_m":48531600.809873,
     "geom:bbox":"152.758788128,-26.746049963,152.859180736,-26.6727834695",
     "geom:latitude":-26.712093,
     "geom:longitude":152.814194,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-26.708855,
     "lbl:longitude":152.825183,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Witta"
@@ -42,9 +48,12 @@
         102049303
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31787"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"89f7f7b1c8ac037b432a39662cbeadc3",
+    "wof:geomhash":"936238701858821d6b57df70938aa2bd",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404544711,
-    "wof:lastmodified":1566602205,
+    "wof:lastmodified":1695877246,
     "wof:name":"Witta",
     "wof:parent_id":102049303,
     "wof:placetype":"localadmin",

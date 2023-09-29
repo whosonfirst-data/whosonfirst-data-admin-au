@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.132832,
-    "geom:area_square_m":1353758238.837399,
+    "geom:area_square_m":1353758238.839,
     "geom:bbox":"118.261643744,-34.705724469,118.914855712,-34.284946298",
     "geom:latitude":-34.491769,
     "geom:longitude":118.567041,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.489445,
     "lbl:longitude":118.616354,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Wellstead"
@@ -38,9 +44,12 @@
         102048671
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC50821"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"5d3e3259117a48af61ad9e045a3f799d",
+    "wof:geomhash":"f69d2cf8feae64d5e160c09b51290d7c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404548521,
-    "wof:lastmodified":1566603189,
+    "wof:lastmodified":1695877810,
     "wof:name":"Wellstead",
     "wof:parent_id":102048671,
     "wof:placetype":"localadmin",

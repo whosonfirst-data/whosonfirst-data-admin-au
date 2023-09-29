@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000133,
-    "geom:area_square_m":1376183.578146,
+    "geom:area_square_m":1376176.349035,
     "geom:bbox":"151.737298,-32.928775,151.752344,-32.914131",
     "geom:latitude":-32.922555,
     "geom:longitude":151.745056,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.922466,
     "lbl:longitude":151.745057,
     "lbl:max_zoom":18.0,
@@ -225,10 +231,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ausstat:area_code":"SSC11064",
         "gn:id":2164026,
         "qs_pg:id":1028580,
         "wd:id":"Q5645144"
     },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101930603
     ],
@@ -236,7 +244,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ccaaba42b7cac47d5cf20c017c672887",
+    "wof:geomhash":"e924adc23078a197bbb0393363d1c1d8",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -249,7 +257,7 @@
         }
     ],
     "wof:id":404223819,
-    "wof:lastmodified":1636494643,
+    "wof:lastmodified":1695878057,
     "wof:name":"Hamilton",
     "wof:parent_id":102048981,
     "wof:placetype":"localadmin",

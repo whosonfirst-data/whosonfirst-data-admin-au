@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004752,
-    "geom:area_square_m":49646836.717229,
+    "geom:area_square_m":49646836.717389,
     "geom:bbox":"148.543839392,-32.403855938,148.635986016,-32.299565999",
     "geom:latitude":-32.343587,
     "geom:longitude":148.598008,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-32.326828,
     "lbl:longitude":148.598664,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Cumboogle"
@@ -38,9 +44,12 @@
         102049599
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC10662"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"5dff049db6a01d4a9b10b7bdd08ff225",
+    "wof:geomhash":"22d9c10cc9d007a65137ee24e7113d01",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404222915,
-    "wof:lastmodified":1566602776,
+    "wof:lastmodified":1695877578,
     "wof:name":"Cumboogle",
     "wof:parent_id":102049599,
     "wof:placetype":"localadmin",

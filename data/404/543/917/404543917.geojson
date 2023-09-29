@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000607,
-    "geom:area_square_m":6785262.481316,
+    "geom:area_square_m":6785262.481252,
     "geom:bbox":"152.896034016,-25.4308490175,152.924441056,-25.3771769655",
     "geom:latitude":-25.40133,
     "geom:longitude":152.908829,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-25.396434,
     "lbl:longitude":152.907858,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "River Heads"
@@ -38,12 +44,15 @@
         102049435
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31405"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935213
     ],
     "wof:country":"AU",
-    "wof:geomhash":"a7464ec041b767c7eca0306757b23d54",
+    "wof:geomhash":"516edd208d1866e67073a379ad89fa71",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":404543917,
-    "wof:lastmodified":1566602144,
+    "wof:lastmodified":1695877215,
     "wof:name":"River Heads",
     "wof:parent_id":102049435,
     "wof:placetype":"localadmin",

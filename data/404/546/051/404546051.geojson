@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000233,
-    "geom:area_square_m":2379412.139858,
+    "geom:area_square_m":2379412.139877,
     "geom:bbox":"138.250777984,-34.4529250955,138.267134016,-34.415261001",
     "geom:latitude":-34.431742,
     "geom:longitude":138.260021,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-34.433762,
     "lbl:longitude":138.261508,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Parham"
@@ -65,12 +71,15 @@
         102048587
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC40548"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101936427
     ],
     "wof:country":"AU",
-    "wof:geomhash":"ff8214751612ad2d421ce7a4ac27ad08",
+    "wof:geomhash":"000a032b257b8534203928407fc992ba",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -82,7 +91,7 @@
         }
     ],
     "wof:id":404546051,
-    "wof:lastmodified":1566603147,
+    "wof:lastmodified":1695877788,
     "wof:name":"Parham",
     "wof:parent_id":102048587,
     "wof:placetype":"localadmin",

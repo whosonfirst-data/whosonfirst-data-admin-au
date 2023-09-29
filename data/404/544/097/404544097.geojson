@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008254,
-    "geom:area_square_m":91138182.246822,
+    "geom:area_square_m":91138182.246878,
     "geom:bbox":"152.008011008,-26.808588103,152.13511296,-26.6878320355",
     "geom:latitude":-26.754757,
     "geom:longitude":152.071894,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-26.752868,
     "lbl:longitude":152.078185,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "South East Nanango"
@@ -38,9 +44,12 @@
         102048861
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31494"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"e1918fd1fee32aeb376739351b7418f4",
+    "wof:geomhash":"d198b36407cc90922d05c82338346a1f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404544097,
-    "wof:lastmodified":1566602168,
+    "wof:lastmodified":1695877226,
     "wof:name":"South East Nanango",
     "wof:parent_id":102048861,
     "wof:placetype":"localadmin",

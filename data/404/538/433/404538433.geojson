@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006001,
-    "geom:area_square_m":58052106.133027,
+    "geom:area_square_m":58052106.133052,
     "geom:bbox":"146.033723008,-38.579045789,146.17458,-38.4812139965",
     "geom:latitude":-38.52845,
     "geom:longitude":146.103111,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-38.530907,
     "lbl:longitude":146.0985,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Dumbalk"
@@ -38,9 +44,12 @@
         102048701
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC20423"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:country":"AU",
-    "wof:geomhash":"fca046f08c8e369c1a5f99b5fb7e8cc1",
+    "wof:geomhash":"78ad15402bf33d640077bd81f56e419d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":404538433,
-    "wof:lastmodified":1566602474,
+    "wof:lastmodified":1695877398,
     "wof:name":"Dumbalk",
     "wof:parent_id":102048701,
     "wof:placetype":"localadmin",

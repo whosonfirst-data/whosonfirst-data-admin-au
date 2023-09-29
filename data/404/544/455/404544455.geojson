@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002489,
-    "geom:area_square_m":30355711.876801,
+    "geom:area_square_m":30355711.876821,
     "geom:bbox":"142.14387,-10.798161,143.877468,-9.142176",
     "geom:latitude":-9.460903,
     "geom:longitude":142.395148,
     "iso:country":"AU",
+    "label:eng_x_preferred_placetype":[
+        "suburb"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "banlieue"
+    ],
     "lbl:latitude":-9.560171,
     "lbl:longitude":142.286709,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:als_x_preferred":[
         "Torres-Stra\u00dfe"
@@ -190,19 +196,22 @@
     "qs:source":"Australian Bureau Of Statistics",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681463,
         102191583,
         85632793,
-        102049123,
         136253039,
-        85681463
+        102049123
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "ausstat:area_code":"SSC31661"
+    },
+    "wof:concordances_official":"ausstat:area_code",
     "wof:coterminous":[
         101935499
     ],
     "wof:country":"AU",
-    "wof:geomhash":"1d8fef2f2fda3d65d1559e0bfd1aba7f",
+    "wof:geomhash":"5cc5ee6a6d31fd7fb1fa998e98c590c9",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -214,7 +223,7 @@
         }
     ],
     "wof:id":404544455,
-    "wof:lastmodified":1607990838,
+    "wof:lastmodified":1695877842,
     "wof:name":"Torres Strait",
     "wof:parent_id":102049123,
     "wof:placetype":"localadmin",
