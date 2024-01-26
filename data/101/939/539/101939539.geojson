@@ -11,6 +11,7 @@
     "geom:longitude":141.462305,
     "gn:population":18430,
     "iso:country":"AU",
+    "lbl:bbox":"141.392822003,-32.0191457,141.565985012,-31.883788545",
     "lbl:latitude":-31.958,
     "lbl:longitude":141.459866,
     "lbl:max_zoom":15.0,
@@ -346,6 +347,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "aus-psma:pid":"SUA16_1007",
         "fct:id":"033e97ac-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2173911,
         "gp:id":1100680,
@@ -353,6 +355,9 @@
         "wd:id":"Q270734",
         "wk:page":"Broken Hill, New South Wales"
     },
+    "wof:coterminous":[
+        1376953345
+    ],
     "wof:country":"AU",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -372,7 +377,13 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690852587,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1706239317,
     "wof:name":"Broken Hill",
     "wof:parent_id":404222209,
     "wof:placetype":"locality",
@@ -380,7 +391,9 @@
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1377004361
+    ],
     "wof:tags":[]
 },
   "bbox": [

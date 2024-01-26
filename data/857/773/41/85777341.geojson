@@ -25,6 +25,7 @@
     "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_locality":4,
     "name:ell_x_preferred":[
         "\u039a\u03af\u03c1\u03c1\u03b1"
@@ -39,6 +40,21 @@
         "Kirra"
     ],
     "qs:gn_id":0,
+    "qs_pg:name":"Kirra",
+    "qs_pg:name_adm0":"Australia",
+    "qs_pg:name_adm1":"Queensland",
+    "qs_pg:photos":299,
+    "qs_pg:photos_1k":61,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":299,
+    "qs_pg:photos_sr":5,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1118633,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424748,
+    "qs_pg:woe_id":22721556,
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes"
@@ -46,6 +62,10 @@
     "src:geom_via":"quattroshapes",
     "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":20,
+    "woe:adm0_id":23424748,
+    "woe:name_adm0":"Australia",
+    "woe:name_adm1":"Queensland",
+    "woe:placetype":"Suburb",
     "wof:belongsto":[
         102191583,
         85632793,
@@ -56,6 +76,17 @@
         "gp:id":22721556,
         "qs_pg:id":1118633,
         "wd:id":"Q6415994"
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            22721556
+        ],
+        "qs_pg:id":[
+            1118633
+        ],
+        "wd:id":[
+            "Q6415994"
+        ]
     },
     "wof:country":"AU",
     "wof:geom_alt":[
@@ -76,13 +107,15 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690852066,
+    "wof:lastmodified":1706239309,
     "wof:name":"Kirra",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126105745
+    ],
     "wof:tags":[]
 },
   "bbox": [

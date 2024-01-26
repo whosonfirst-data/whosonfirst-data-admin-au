@@ -11,6 +11,7 @@
     "geom:longitude":152.444444,
     "gn:population":16621,
     "iso:country":"AU",
+    "lbl:bbox":"152.294184001,-31.973202856,152.551043992,-31.811067005",
     "lbl:latitude":-31.877858,
     "lbl:longitude":152.438906,
     "lbl:max_zoom":15.0,
@@ -117,6 +118,9 @@
         "Taree"
     ],
     "name:nob_x_preferred":[
+        "Taree"
+    ],
+    "name:nor_x_preferred":[
         "Taree"
     ],
     "name:pol_x_preferred":[
@@ -290,6 +294,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "aus-psma:pid":"SUA16_1032",
         "fct:id":"033e9842-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2147381,
         "gp:id":1105864,
@@ -320,7 +325,13 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690853023,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1706239311,
     "wof:name":"Taree",
     "wof:parent_id":404226417,
     "wof:placetype":"locality",
@@ -328,7 +339,9 @@
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1377004349
+    ],
     "wof:tags":[]
 },
   "bbox": [

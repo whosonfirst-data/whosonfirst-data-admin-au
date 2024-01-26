@@ -11,6 +11,7 @@
     "geom:longitude":147.359832,
     "gn:population":46913,
     "iso:country":"AU",
+    "lbl:bbox":"147.24644906,-35.191673441,147.468394025,-35.033495999",
     "lbl:latitude":-35.108503,
     "lbl:longitude":147.359497,
     "lbl:max_zoom":14.0,
@@ -360,6 +361,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "aus-psma:pid":"SUA16_1034",
         "fct:id":"033e9ee6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2145110,
         "gp:id":1106324,
@@ -390,7 +392,13 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690853028,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1706239311,
     "wof:name":"Wagga Wagga",
     "wof:parent_id":404226775,
     "wof:placetype":"locality",
@@ -398,7 +406,9 @@
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1377004313
+    ],
     "wof:tags":[]
 },
   "bbox": [

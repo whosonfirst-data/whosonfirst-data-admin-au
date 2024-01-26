@@ -11,6 +11,7 @@
     "geom:longitude":148.179811,
     "gn:population":10026,
     "iso:country":"AU",
+    "lbl:bbox":"148.089657898,-33.275808021,148.277575994,-33.089060973",
     "lbl:latitude":-33.139833,
     "lbl:longitude":148.179809,
     "lbl:max_zoom":15.0,
@@ -100,6 +101,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u041f\u0430\u0440\u043a\u0441"
+    ],
+    "name:ukr_x_variant":[
+        "\u041f\u0430\u0440\u043a\u0435\u0441"
     ],
     "name:urd_x_preferred":[
         "\u067e\u0627\u0631\u06a9\u06cc\u0633"
@@ -235,6 +239,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "aus-psma:pid":"SUA16_1026",
         "fct:id":"033e9f18-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2153778,
         "gp:id":1104910,
@@ -242,6 +247,9 @@
         "wd:id":"Q605513",
         "wk:page":"Parkes, New South Wales"
     },
+    "wof:coterminous":[
+        1376953433
+    ],
     "wof:country":"AU",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -262,7 +270,13 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690852558,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1706239318,
     "wof:name":"Parkes",
     "wof:parent_id":404225563,
     "wof:placetype":"locality",
@@ -270,7 +284,9 @@
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1377004445
+    ],
     "wof:tags":[]
 },
   "bbox": [

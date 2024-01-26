@@ -25,6 +25,7 @@
     "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_locality":6,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
@@ -63,12 +64,31 @@
     "qs:woe_lau":0,
     "qs:woe_local":1105779,
     "qs:woe_ver":"7.10.0",
+    "qs_pg:name":"HMAS Watson",
+    "qs_pg:name_adm0":"Australia",
+    "qs_pg:name_adm1":"New South Wales",
+    "qs_pg:photos":2483,
+    "qs_pg:photos_1k":503,
+    "qs_pg:photos_9k":11,
+    "qs_pg:photos_9r":10,
+    "qs_pg:photos_all":2483,
+    "qs_pg:photos_sr":17,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1285667,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424748,
+    "qs_pg:woe_id":28585434,
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes"
     ],
     "src:lbl_centroid":"mz",
     "wd:wordcount":527,
+    "woe:adm0_id":23424748,
+    "woe:name_adm0":"Australia",
+    "woe:name_adm1":"New South Wales",
+    "woe:placetype":"Suburb",
     "wof:belongsto":[
         102191583,
         1376953385,
@@ -84,6 +104,14 @@
         "gp:id":28585434,
         "qs_pg:id":1285667,
         "wd:id":"Q2886649"
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            28585434
+        ],
+        "qs_pg:id":[
+            1285667
+        ]
     },
     "wof:country":"AU",
     "wof:geom_alt":[
@@ -107,13 +135,15 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690852026,
+    "wof:lastmodified":1706239309,
     "wof:name":"HMAS Watson",
     "wof:parent_id":101932261,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126079875
+    ],
     "wof:tags":[]
 },
   "bbox": [

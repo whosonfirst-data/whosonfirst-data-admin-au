@@ -11,6 +11,7 @@
     "geom:longitude":152.933863,
     "gn:population":9955,
     "iso:country":"AU",
+    "lbl:bbox":"152.874226088,-29.761146145,153.006596002,-29.598711002",
     "lbl:latitude":-29.683335,
     "lbl:longitude":152.935695,
     "lbl:max_zoom":15.0,
@@ -128,6 +129,9 @@
     "name:mar_x_preferred":[
         "\u0917\u094d\u0930\u0945\u092b\u094d\u091f\u094b\u0928"
     ],
+    "name:mlg_x_preferred":[
+        "Grafton"
+    ],
     "name:msa_x_preferred":[
         "Grafton"
     ],
@@ -161,6 +165,9 @@
     "name:spa_x_preferred":[
         "Grafton"
     ],
+    "name:srp_x_preferred":[
+        "\u0413\u0440\u0430\u0444\u0442\u043e\u043d"
+    ],
     "name:swe_x_preferred":[
         "Grafton"
     ],
@@ -183,6 +190,9 @@
         "\u06af\u0631\u0627\u0641\u0679\u0648\u0646"
     ],
     "name:vie_x_preferred":[
+        "Grafton"
+    ],
+    "name:vol_x_preferred":[
         "Grafton"
     ],
     "name:zho_x_preferred":[
@@ -311,6 +321,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "aus-psma:pid":"SUA16_1014",
         "fct:id":"033e9a4a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2164771,
         "gp:id":1102409,
@@ -341,7 +352,13 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690852641,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1706239310,
     "wof:name":"Grafton",
     "wof:parent_id":404223683,
     "wof:placetype":"locality",
@@ -349,7 +366,9 @@
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1377004301
+    ],
     "wof:tags":[]
 },
   "bbox": [

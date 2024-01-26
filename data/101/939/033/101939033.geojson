@@ -11,6 +11,7 @@
     "geom:longitude":142.147873,
     "gn:population":30016,
     "iso:country":"AU",
+    "lbl:bbox":"141.710414417,-34.285218026,142.277767022,-34.041003004",
     "lbl:latitude":-34.199704,
     "lbl:longitude":142.153732,
     "lbl:max_zoom":14.0,
@@ -296,6 +297,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:geom_via":"aus-psma",
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-34.183333,
@@ -318,6 +320,9 @@
         "wd:id":"Q705829",
         "wk:page":"Mildura"
     },
+    "wof:coterminous":[
+        1376953341
+    ],
     "wof:country":"AU",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -338,7 +343,13 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690852614,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1706239316,
     "wof:name":"Mildura",
     "wof:parent_id":404539485,
     "wof:placetype":"locality",
@@ -346,7 +357,9 @@
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1377004245
+    ],
     "wof:tags":[]
 },
   "bbox": [

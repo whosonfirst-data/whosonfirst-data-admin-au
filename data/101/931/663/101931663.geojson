@@ -11,6 +11,7 @@
     "geom:longitude":149.230954,
     "gn:population":40661,
     "iso:country":"AU",
+    "lbl:bbox":"149.007097004,-35.4092879522,149.269609056,-35.185402774",
     "lbl:latitude":-35.353399,
     "lbl:longitude":149.230104,
     "lbl:max_zoom":14.0,
@@ -343,7 +344,13 @@
         }
     ],
     "wof:id":101931663,
-    "wof:lastmodified":1690852432,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1706239310,
     "wof:name":"Queanbeyan",
     "wof:parent_id":404225763,
     "wof:placetype":"locality",
@@ -351,7 +358,9 @@
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1377004283
+    ],
     "wof:tags":[]
 },
   "bbox": [

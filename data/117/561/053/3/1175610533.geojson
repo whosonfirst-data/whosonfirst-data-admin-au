@@ -11,6 +11,7 @@
     "geom:longitude":152.162491,
     "gn:population":7726,
     "iso:country":"AU",
+    "lbl:bbox":"151.945962322,-32.812742716,152.205518822,-32.690692",
     "lbl:latitude":-32.744119,
     "lbl:longitude":152.193316,
     "lbl:max_zoom":15.0,
@@ -88,6 +89,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "aus-psma:pid":"SUA16_1022",
         "gn:id":2155562,
         "gp:id":28645064,
         "qs_pg:id":460916,
@@ -95,8 +97,13 @@
         "wk:page":"Nelson Bay, New South Wales"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1127207
+        "qs_pg:id":[
+            1127207
+        ]
     },
+    "wof:coterminous":[
+        1376953325
+    ],
     "wof:country":"AU",
     "wof:geomhash":"b8010442c434878b7f2259cec0626877",
     "wof:hierarchy":[
@@ -111,7 +118,13 @@
         }
     ],
     "wof:id":1175610533,
-    "wof:lastmodified":1690852259,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1706239319,
     "wof:name":"Nelson Bay",
     "wof:parent_id":404225247,
     "wof:placetype":"locality",
@@ -121,7 +134,8 @@
     "wof:superseded_by":[],
     "wof:supersedes":[
         101939353,
-        101939357
+        101939357,
+        1377004343
     ],
     "wof:tags":[]
 },

@@ -11,6 +11,7 @@
     "geom:longitude":146.163741,
     "gn:population":9604,
     "iso:country":"AU",
+    "lbl:bbox":"146.055677512,-41.290394005,146.323408334,-41.119574995",
     "lbl:latitude":-41.160374,
     "lbl:longitude":146.177836,
     "lbl:max_zoom":15.0,
@@ -101,12 +102,16 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "aus-psma:pid":"SUA16_6005",
         "gn:id":2145532,
         "gp:id":1106242,
         "qs_pg:id":6836,
         "wd:id":"Q2169513",
         "wk:page":"Ulverstone, Tasmania"
     },
+    "wof:coterminous":[
+        1376953419
+    ],
     "wof:country":"AU",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -124,7 +129,13 @@
         }
     ],
     "wof:id":101941469,
-    "wof:lastmodified":1690852831,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1706239318,
     "wof:name":"Ulverstone",
     "wof:parent_id":404549531,
     "wof:placetype":"locality",
@@ -132,7 +143,9 @@
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1377004433
+    ],
     "wof:tags":[]
 },
   "bbox": [

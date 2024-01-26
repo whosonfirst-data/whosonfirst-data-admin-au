@@ -11,6 +11,7 @@
     "geom:longitude":153.116779,
     "gn:population":26353,
     "iso:country":"AU",
+    "lbl:bbox":"152.957249243,-30.44875335,153.271774999,-29.897125992",
     "lbl:latitude":-30.290583,
     "lbl:longitude":153.114278,
     "lbl:max_zoom":14.0,
@@ -246,6 +247,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "aus-psma:pid":"SUA16_1010",
         "fct:id":"033e95a4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2171085,
         "gp:id":1095129,
@@ -253,6 +255,9 @@
         "wd:id":"Q604283",
         "wk:page":"Coffs Harbour"
     },
+    "wof:coterminous":[
+        1376953363
+    ],
     "wof:country":"AU",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -273,7 +278,13 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690852569,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1706239316,
     "wof:name":"Coffs Harbour",
     "wof:parent_id":404222669,
     "wof:placetype":"locality",
@@ -281,7 +292,9 @@
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1377004373
+    ],
     "wof:tags":[]
 },
   "bbox": [

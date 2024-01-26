@@ -11,6 +11,7 @@
     "geom:longitude":116.844653,
     "gn:population":11728,
     "iso:country":"AU",
+    "lbl:bbox":"116.753316985,-20.799268993,116.912101001,-20.692982997",
     "lbl:latitude":-20.734043,
     "lbl:longitude":116.844766,
     "lbl:max_zoom":15.0,
@@ -281,6 +282,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "aus-psma:pid":"SUA16_5008",
         "fct:id":"033eb03e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6620339,
         "gp:id":1102993,
@@ -311,7 +313,13 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690852754,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1706239315,
     "wof:name":"Karratha",
     "wof:parent_id":404547551,
     "wof:placetype":"locality",
@@ -319,7 +327,9 @@
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1377004435
+    ],
     "wof:tags":[]
 },
   "bbox": [

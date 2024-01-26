@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"121.888248,-33.860243,121.888248,-33.860243",
@@ -14,7 +16,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u098f\u09b8\u09cd\u09aa\u09c7\u09b0\u09be\u09a8\u09cd\u09b8"
@@ -119,12 +121,14 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636494590,
+    "wof:lastmodified":1706239314,
     "wof:name":"Esperance",
     "wof:parent_id":404547257,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-au",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101937163
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

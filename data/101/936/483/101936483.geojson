@@ -11,6 +11,7 @@
     "geom:longitude":135.869966,
     "gn:population":13044,
     "iso:country":"AU",
+    "lbl:bbox":"135.707194008,-34.779441271,135.953064469,-34.633283002",
     "lbl:latitude":-34.730421,
     "lbl:longitude":135.845127,
     "lbl:max_zoom":15.0,
@@ -311,6 +312,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "aus-psma:pid":"SUA16_4005",
         "fct:id":"033ea8aa-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2063036,
         "gp:id":1105131,
@@ -342,7 +344,13 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690852282,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1706239314,
     "wof:name":"Port Lincoln",
     "wof:parent_id":404546141,
     "wof:placetype":"locality",
@@ -350,7 +358,9 @@
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1377004295
+    ],
     "wof:tags":[]
 },
   "bbox": [

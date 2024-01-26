@@ -11,6 +11,7 @@
     "geom:longitude":153.288073,
     "gn:population":30086,
     "iso:country":"AU",
+    "lbl:bbox":"153.234565804,-28.874229006,153.364219024,-28.764191005",
     "lbl:latitude":-28.810195,
     "lbl:longitude":153.289347,
     "lbl:max_zoom":14.0,
@@ -121,6 +122,9 @@
     ],
     "name:mar_x_preferred":[
         "\u0932\u093f\u0938\u094d\u092e\u0949\u0930"
+    ],
+    "name:mlg_x_preferred":[
+        "Lismore"
     ],
     "name:msa_x_preferred":[
         "Lismore"
@@ -314,6 +318,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "aus-psma:pid":"SUA16_1017",
         "fct:id":"033eabb6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2160063,
         "gp:id":1103457,
@@ -344,7 +349,13 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690852387,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1706239310,
     "wof:name":"Lismore",
     "wof:parent_id":404224529,
     "wof:placetype":"locality",
@@ -352,7 +363,9 @@
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1377004323
+    ],
     "wof:tags":[]
 },
   "bbox": [

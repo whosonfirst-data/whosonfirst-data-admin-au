@@ -11,6 +11,7 @@
     "geom:longitude":138.600647,
     "gn:population":1225235,
     "iso:country":"AU",
+    "lbl:bbox":"138.435645001,-35.35029603,138.972815283,-34.500225303",
     "lbl:latitude":-34.929075,
     "lbl:longitude":138.602578,
     "lbl:max_zoom":13.0,
@@ -625,6 +626,7 @@
         85681519
     ],
     "wof:concordances":{
+        "aus-psma:pid":"SUA16_4001",
         "dbp:id":"Adelaide",
         "fb:id":"en.adelaide",
         "fct:id":"033eaab2-8f76-11e1-848f-cfd5bf3ef515",
@@ -638,7 +640,9 @@
         "wk:page":"Adelaide"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1109730
+        "qs_pg:id":[
+            1109730
+        ]
     },
     "wof:coterminous":[
         404544867
@@ -664,7 +668,13 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690853125,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1706239313,
     "wof:megacity":1,
     "wof:name":"Adelaide",
     "wof:parent_id":404544867,
@@ -674,7 +684,9 @@
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:scale":3,
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1377004377
+    ],
     "wof:tags":[]
 },
   "bbox": [

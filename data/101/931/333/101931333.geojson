@@ -11,6 +11,7 @@
     "geom:longitude":149.572918,
     "gn:population":8726,
     "iso:country":"AU",
+    "lbl:bbox":"149.533627024,-32.663636009,149.672778018,-32.553137008",
     "lbl:latitude":-32.602195,
     "lbl:longitude":149.572904,
     "lbl:max_zoom":15.0,
@@ -246,6 +247,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "aus-psma:pid":"SUA16_1020",
         "fct:id":"03341f48-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2156404,
         "gp:id":1104301,
@@ -277,7 +279,13 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690852416,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1706239310,
     "wof:name":"Mudgee",
     "wof:parent_id":404225113,
     "wof:placetype":"locality",
@@ -286,7 +294,8 @@
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[
-        1141908295
+        1141908295,
+        1377004299
     ],
     "wof:tags":[]
 },

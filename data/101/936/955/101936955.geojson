@@ -11,6 +11,7 @@
     "geom:longitude":115.639745,
     "gn:population":68248,
     "iso:country":"AU",
+    "lbl:bbox":"115.557593775,-33.507839997,115.754695418,-33.197541995",
     "lbl:latitude":-33.327283,
     "lbl:longitude":115.638324,
     "lbl:max_zoom":14.0,
@@ -104,6 +105,9 @@
     "name:lit_x_preferred":[
         "Banberis"
     ],
+    "name:mlg_x_preferred":[
+        "Bunbury"
+    ],
     "name:msa_x_preferred":[
         "Bunbury"
     ],
@@ -127,6 +131,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0411\u0430\u043d\u0431\u0435\u0440\u0438"
+    ],
+    "name:san_x_preferred":[
+        "\u092c\u0928\u092c\u0930\u0940"
     ],
     "name:sgs_x_preferred":[
         "Banberis"
@@ -288,6 +295,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "aus-psma:pid":"SUA16_5003",
         "fct:id":"033ea940-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2075432,
         "gp:id":1100778,
@@ -319,7 +327,13 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690852274,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1706239314,
     "wof:name":"Bunbury",
     "wof:parent_id":404546929,
     "wof:placetype":"locality",
@@ -327,7 +341,9 @@
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1377004417
+    ],
     "wof:tags":[]
 },
   "bbox": [

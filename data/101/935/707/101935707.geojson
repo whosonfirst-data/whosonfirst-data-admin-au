@@ -11,6 +11,7 @@
     "geom:longitude":150.736385,
     "gn:population":13285,
     "iso:country":"AU",
+    "lbl:bbox":"150.661743803,-23.214175022,150.805564935,-23.091976121",
     "lbl:latitude":-23.129481,
     "lbl:longitude":150.738213,
     "lbl:max_zoom":15.0,
@@ -233,6 +234,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "aus-psma:pid":"SUA16_3018",
         "gn:id":2142316,
         "gp:id":1107063,
         "qs_pg:id":138735,
@@ -259,7 +261,13 @@
         }
     ],
     "wof:id":101935707,
-    "wof:lastmodified":1690853056,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1706239313,
     "wof:name":"Yeppoon",
     "wof:parent_id":404544845,
     "wof:placetype":"locality",
@@ -267,7 +275,9 @@
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1377004371
+    ],
     "wof:tags":[]
 },
   "bbox": [

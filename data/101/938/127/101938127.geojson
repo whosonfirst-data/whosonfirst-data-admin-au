@@ -11,6 +11,7 @@
     "geom:longitude":147.325821,
     "gn:population":216656,
     "iso:country":"AU",
+    "lbl:bbox":"147.09168811,-43.121295067,147.788250606,-42.655375527",
     "lbl:latitude":-42.882256,
     "lbl:longitude":147.325986,
     "lbl:max_zoom":13.0,
@@ -526,6 +527,7 @@
         85681583
     ],
     "wof:concordances":{
+        "aus-psma:pid":"SUA16_6003",
         "dbp:id":"Hobart",
         "fb:id":"en.hobart",
         "fct:id":"033ea7d8-8f76-11e1-848f-cfd5bf3ef515",
@@ -561,7 +563,13 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690852488,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1706239315,
     "wof:megacity":0,
     "wof:name":"Hobart",
     "wof:parent_id":404549027,
@@ -571,7 +579,9 @@
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:scale":3,
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1377004289
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -11,6 +11,7 @@
     "geom:longitude":150.155974,
     "gn:population":11298,
     "iso:country":"AU",
+    "lbl:bbox":"150.057567005,-33.554901999,150.194857009,-33.413075005",
     "lbl:latitude":-33.485129,
     "lbl:longitude":150.15933,
     "lbl:max_zoom":15.0,
@@ -308,6 +309,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "aus-psma:pid":"SUA16_1018",
         "fct:id":"033eabe8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2160053,
         "gp:id":1103465,
@@ -338,7 +340,13 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690852435,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1706239310,
     "wof:name":"Lithgow",
     "wof:parent_id":404224537,
     "wof:placetype":"locality",
@@ -346,7 +354,9 @@
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1377004391
+    ],
     "wof:tags":[]
 },
   "bbox": [

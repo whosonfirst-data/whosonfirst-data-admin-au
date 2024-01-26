@@ -11,6 +11,7 @@
     "geom:longitude":143.583678,
     "gn:population":9089,
     "iso:country":"AU",
+    "lbl:bbox":"143.526317959,-38.400618192,143.62677826,-38.317882899",
     "lbl:latitude":-38.341175,
     "lbl:longitude":143.585664,
     "lbl:max_zoom":15.0,
@@ -102,6 +103,9 @@
         "Colac"
     ],
     "name:por_x_preferred":[
+        "Colac"
+    ],
+    "name:ron_x_preferred":[
         "Colac"
     ],
     "name:rus_x_preferred":[
@@ -254,6 +258,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "aus-psma:pid":"SUA16_2005",
         "fct:id":"033ea1e8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2171069,
         "gp:id":1101229,
@@ -284,7 +289,13 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690853040,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1706239312,
     "wof:name":"Colac",
     "wof:parent_id":404538199,
     "wof:placetype":"locality",
@@ -292,7 +303,9 @@
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1377004307
+    ],
     "wof:tags":[]
 },
   "bbox": [

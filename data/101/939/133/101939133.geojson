@@ -11,6 +11,7 @@
     "geom:longitude":146.050419,
     "gn:population":15455,
     "iso:country":"AU",
+    "lbl:bbox":"145.991854014,-34.317625993,146.101738432,-34.233153994",
     "lbl:latitude":-34.286686,
     "lbl:longitude":146.04075,
     "lbl:max_zoom":15.0,
@@ -35,8 +36,14 @@
     "name:azb_x_variant":[
         "\u0642\u0631\u06cc\u0641\u06cc\u062a"
     ],
+    "name:bel_x_preferred":[
+        "\u0413\u0440\u044b\u0444\u0456\u0442"
+    ],
     "name:ben_x_preferred":[
         "\u0997\u09cd\u09b0\u09bf\u09ab\u09bf\u09a4"
+    ],
+    "name:cat_x_preferred":[
+        "Griffith"
     ],
     "name:ceb_x_preferred":[
         "Griffith"
@@ -116,6 +123,9 @@
     "name:mar_x_preferred":[
         "\u0917\u094d\u0930\u093f\u092b\u093f\u0925"
     ],
+    "name:mlg_x_preferred":[
+        "Griffith"
+    ],
     "name:msa_x_preferred":[
         "Griffith"
     ],
@@ -132,6 +142,9 @@
         "\u06af\u0631\u06cc\u0641\u062a\u06be"
     ],
     "name:pol_x_preferred":[
+        "Griffith"
+    ],
+    "name:por_x_preferred":[
         "Griffith"
     ],
     "name:rus_x_preferred":[
@@ -296,6 +309,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "aus-psma:pid":"SUA16_1015",
         "fct:id":"033e9978-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2164422,
         "gp:id":1102460,
@@ -303,6 +317,9 @@
         "wd:id":"Q14217100",
         "wk:page":"Griffith, New South Wales"
     },
+    "wof:coterminous":[
+        1376953465
+    ],
     "wof:country":"AU",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -323,7 +340,13 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690852550,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1706239317,
     "wof:name":"Griffith",
     "wof:parent_id":404223751,
     "wof:placetype":"locality",
@@ -331,7 +354,9 @@
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1377004219
+    ],
     "wof:tags":[]
 },
   "bbox": [
