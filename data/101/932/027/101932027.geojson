@@ -11,6 +11,7 @@
     "geom:longitude":150.932325,
     "gn:population":47597,
     "iso:country":"AU",
+    "lbl:bbox":"150.814371984,-31.208073103,151.051135001,-31.036377008",
     "lbl:latitude":-31.092751,
     "lbl:longitude":150.931684,
     "lbl:max_zoom":14.0,
@@ -113,6 +114,9 @@
     "name:mar_x_preferred":[
         "\u091f\u0945\u092e\u0935\u0930\u094d\u0925"
     ],
+    "name:mlg_x_preferred":[
+        "Tamworth"
+    ],
     "name:msa_x_preferred":[
         "Tamworth"
     ],
@@ -142,6 +146,9 @@
     ],
     "name:sah_x_preferred":[
         "\u0422\u044d\u043c\u0443\u043e\u0440\u0442\u0447"
+    ],
+    "name:san_x_preferred":[
+        "\u091f\u093e\u092e\u0935\u094b\u0930\u094d\u0925"
     ],
     "name:sin_x_preferred":[
         "\u0da7\u0dd0\u0db8\u0dca\u0dc0\u0dbb\u0dca\u0dad\u0dca"
@@ -177,6 +184,9 @@
         "\u0679\u06cc\u0645\u0648\u0631\u062a\u06be"
     ],
     "name:vie_x_preferred":[
+        "Tamworth"
+    ],
+    "name:vol_x_preferred":[
         "Tamworth"
     ],
     "name:zho_x_preferred":[
@@ -305,6 +315,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "aus-psma:pid":"SUA16_1031",
         "gn:id":2147497,
         "gp:id":1105825,
         "qs_pg:id":138640,
@@ -331,7 +342,13 @@
         }
     ],
     "wof:id":101932027,
-    "wof:lastmodified":1690853012,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1706239311,
     "wof:name":"Tamworth",
     "wof:parent_id":404226395,
     "wof:placetype":"locality",
@@ -339,7 +356,9 @@
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1377004367
+    ],
     "wof:tags":[]
 },
   "bbox": [

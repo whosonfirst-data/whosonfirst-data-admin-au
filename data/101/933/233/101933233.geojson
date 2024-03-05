@@ -11,6 +11,7 @@
     "geom:longitude":144.588902,
     "gn:population":35490,
     "iso:country":"AU",
+    "lbl:bbox":"144.477677903,-37.806910271,144.661112011,-37.552416742",
     "lbl:latitude":-37.684986,
     "lbl:longitude":144.588885,
     "lbl:max_zoom":14.0,
@@ -26,10 +27,16 @@
     "name:ast_x_preferred":[
         "Melton"
     ],
+    "name:bar_x_preferred":[
+        "Melton"
+    ],
     "name:ben_x_preferred":[
         "\u09ae\u09c7\u09b2\u09cd\u099f\u09a8"
     ],
     "name:ceb_x_preferred":[
+        "Melton"
+    ],
+    "name:ces_x_preferred":[
         "Melton"
     ],
     "name:deu_x_preferred":[
@@ -71,6 +78,9 @@
     "name:kor_x_preferred":[
         "\uba5c\ud134 \ub098\uc0ac"
     ],
+    "name:mlg_x_preferred":[
+        "Melton"
+    ],
     "name:msa_x_preferred":[
         "Melton"
     ],
@@ -92,6 +102,7 @@
     "name:spa_x_preferred":[
         "Melton"
     ],
+    "name:spa_x_variant":[],
     "name:srp_x_preferred":[
         "\u041c\u0435\u043b\u0442\u043e\u043d"
     ],
@@ -240,6 +251,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "aus-psma:pid":"SUA16_2011",
         "fct:id":"033ea7a6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2158151,
         "gp:id":1103824,
@@ -271,7 +283,13 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690853252,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1706239312,
     "wof:name":"Melton",
     "wof:parent_id":404539431,
     "wof:placetype":"locality",
@@ -279,7 +297,9 @@
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1377004337
+    ],
     "wof:tags":[]
 },
   "bbox": [

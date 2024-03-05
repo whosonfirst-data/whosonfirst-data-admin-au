@@ -11,6 +11,7 @@
     "geom:longitude":147.144349,
     "gn:population":106153,
     "iso:country":"AU",
+    "lbl:bbox":"146.92193402,-41.607654834,147.305244975,-41.335197527",
     "lbl:latitude":-41.43951,
     "lbl:longitude":147.13763,
     "lbl:max_zoom":14.0,
@@ -149,6 +150,9 @@
     ],
     "name:mkd_x_preferred":[
         "\u041b\u043e\u043d\u0441\u0435\u0441\u0442\u043e\u043d"
+    ],
+    "name:mlg_x_preferred":[
+        "Launceston"
     ],
     "name:mri_x_preferred":[
         "Rahetone"
@@ -372,6 +376,7 @@
         101938087
     ],
     "wof:concordances":{
+        "aus-psma:pid":"SUA16_6004",
         "fct:id":"033eaf12-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2160517,
         "gp:id":1103368,
@@ -402,7 +407,13 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690852539,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1706239315,
     "wof:name":"Launceston",
     "wof:parent_id":404549087,
     "wof:placetype":"locality",
@@ -410,7 +421,9 @@
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1377004457
+    ],
     "wof:tags":[]
 },
   "bbox": [

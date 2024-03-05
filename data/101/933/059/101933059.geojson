@@ -11,6 +11,7 @@
     "geom:longitude":142.196228,
     "gn:population":14285,
     "iso:country":"AU",
+    "lbl:bbox":"142.146975003,-36.782358997,142.267312655,-36.674288009",
     "lbl:latitude":-36.718918,
     "lbl:longitude":142.196233,
     "lbl:max_zoom":15.0,
@@ -29,8 +30,17 @@
     "name:ast_x_preferred":[
         "Horsham"
     ],
+    "name:azb_x_preferred":[
+        "\u0647\u0648\u0631\u0634\u0645"
+    ],
     "name:ben_x_preferred":[
         "\u09b9\u09b0\u09b6\u09be\u09ae"
+    ],
+    "name:bul_x_preferred":[
+        "\u0425\u043e\u0440\u0448\u044a\u043c"
+    ],
+    "name:cat_x_preferred":[
+        "Horsham"
     ],
     "name:ceb_x_preferred":[
         "Horsham"
@@ -107,10 +117,16 @@
     "name:mar_x_preferred":[
         "\u0939\u0949\u0930\u094d\u0936\u092e"
     ],
+    "name:mlg_x_preferred":[
+        "Horsham"
+    ],
     "name:msa_x_preferred":[
         "Horsham"
     ],
     "name:nld_x_preferred":[
+        "Horsham"
+    ],
+    "name:nno_x_preferred":[
         "Horsham"
     ],
     "name:nob_x_preferred":[
@@ -128,6 +144,9 @@
     "name:por_x_preferred":[
         "Horsham"
     ],
+    "name:ron_x_preferred":[
+        "Horsham"
+    ],
     "name:rus_x_preferred":[
         "\u0425\u043e\u0440\u0448\u0435\u043c"
     ],
@@ -136,6 +155,9 @@
     ],
     "name:spa_x_preferred":[
         "Horsham"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u043e\u0440\u0448\u0430\u043c"
     ],
     "name:swe_x_preferred":[
         "Horsham"
@@ -168,6 +190,9 @@
         "Horsham"
     ],
     "name:vie_x_preferred":[
+        "Horsham"
+    ],
+    "name:vol_x_preferred":[
         "Horsham"
     ],
     "name:zho_x_preferred":[
@@ -297,6 +322,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "aus-psma:pid":"SUA16_2009",
         "fct:id":"033ea56c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2163055,
         "gp:id":1102701,
@@ -327,7 +353,13 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690853294,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1706239312,
     "wof:name":"Horsham",
     "wof:parent_id":404538915,
     "wof:placetype":"locality",
@@ -335,7 +367,9 @@
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1377004399
+    ],
     "wof:tags":[]
 },
   "bbox": [

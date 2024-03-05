@@ -11,6 +11,7 @@
     "geom:longitude":146.345042,
     "gn:population":19317,
     "iso:country":"AU",
+    "lbl:bbox":"146.27701698,-41.371640158,146.660478424,-41.154049005",
     "lbl:latitude":-41.176596,
     "lbl:longitude":146.345469,
     "lbl:max_zoom":15.0,
@@ -133,6 +134,9 @@
     ],
     "name:mar_x_preferred":[
         "\u0921\u0947\u0935\u094d\u0939\u0928\u092a\u094b\u0930\u094d\u091f"
+    ],
+    "name:mlg_x_preferred":[
+        "Devonport"
     ],
     "name:msa_x_preferred":[
         "Devonport"
@@ -324,6 +328,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "aus-psma:pid":"SUA16_6002",
         "fct:id":"033ea4d6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2168943,
         "gp:id":1101669,
@@ -355,7 +360,13 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690852528,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1706239315,
     "wof:name":"Devonport",
     "wof:parent_id":404548855,
     "wof:placetype":"locality",
@@ -363,7 +374,9 @@
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1377004315
+    ],
     "wof:tags":[]
 },
   "bbox": [

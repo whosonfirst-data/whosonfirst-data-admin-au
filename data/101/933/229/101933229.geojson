@@ -11,6 +11,7 @@
     "geom:longitude":144.972273,
     "gn:population":4246375,
     "iso:country":"AU",
+    "lbl:bbox":"144.444061002,-38.452071668,145.878412014,-37.262853003",
     "lbl:latitude":-37.825071,
     "lbl:longitude":144.978682,
     "lbl:max_zoom":13.0,
@@ -718,6 +719,7 @@
         85681497
     ],
     "wof:concordances":{
+        "aus-psma:pid":"SUA16_2010",
         "dbp:id":"Melbourne",
         "fb:id":"en.melbourne_australia",
         "fct:id":"033eb4e4-8f76-11e1-848f-cfd5bf3ef515",
@@ -754,7 +756,13 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690853229,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1706239312,
     "wof:megacity":1,
     "wof:name":"Melbourne",
     "wof:parent_id":404539427,
@@ -764,7 +772,9 @@
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:scale":1,
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1377004319
+    ],
     "wof:tags":[]
 },
   "bbox": [

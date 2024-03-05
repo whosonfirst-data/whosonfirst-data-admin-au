@@ -11,6 +11,7 @@
     "geom:longitude":137.574388,
     "gn:population":19645,
     "iso:country":"AU",
+    "lbl:bbox":"137.497813527,-33.07623287,137.590318068,-33.007974344",
     "lbl:latitude":-33.036167,
     "lbl:longitude":137.573457,
     "lbl:max_zoom":15.0,
@@ -314,6 +315,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "aus-psma:pid":"SUA16_4008",
         "fct:id":"033eaaee-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2058430,
         "gp:id":1106636,
@@ -344,7 +346,13 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690852323,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1706239314,
     "wof:name":"Whyalla",
     "wof:parent_id":404546577,
     "wof:placetype":"locality",
@@ -352,7 +360,9 @@
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1377004431
+    ],
     "wof:tags":[]
 },
   "bbox": [

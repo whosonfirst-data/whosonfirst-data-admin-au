@@ -11,6 +11,7 @@
     "geom:longitude":144.43103,
     "gn:population":13575,
     "iso:country":"AU",
+    "lbl:bbox":"144.333634048,-37.72778,144.55622521,-37.546396953",
     "lbl:latitude":-37.672259,
     "lbl:longitude":144.431034,
     "lbl:max_zoom":15.0,
@@ -109,6 +110,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "aus-psma:pid":"SUA16_2001",
         "fct:id":"033ea49a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2177394,
         "gp:id":1100036,
@@ -138,7 +140,13 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690852985,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1706239311,
     "wof:name":"Bacchus Marsh",
     "wof:parent_id":404537601,
     "wof:placetype":"locality",
@@ -146,7 +154,9 @@
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1377004389
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -11,6 +11,7 @@
     "geom:longitude":151.209618,
     "gn:population":4627345,
     "iso:country":"AU",
+    "lbl:bbox":"150.260824992,-34.173241633,151.343020975,-33.364535297",
     "lbl:latitude":-33.868633,
     "lbl:longitude":151.209421,
     "lbl:max_zoom":13.0,
@@ -769,6 +770,7 @@
         85681545
     ],
     "wof:concordances":{
+        "aus-psma:pid":"SUA16_1030",
         "dbp:id":"Sydney",
         "fb:id":"en.sydney",
         "fct:id":"033eb480-8f76-11e1-848f-cfd5bf3ef515",
@@ -782,7 +784,9 @@
         "wk:page":"Sydney"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":541961
+        "qs_pg:id":[
+            541961
+        ]
     },
     "wof:coterminous":[
         404226357
@@ -808,7 +812,13 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690853020,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1706239311,
     "wof:megacity":1,
     "wof:name":"Sydney",
     "wof:parent_id":404226357,
@@ -818,7 +828,8 @@
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[
-        85771099
+        85771099,
+        1377004395
     ],
     "wof:tags":[]
 },

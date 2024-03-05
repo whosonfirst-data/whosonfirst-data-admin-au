@@ -11,6 +11,7 @@
     "geom:longitude":115.640911,
     "gn:population":2481,
     "iso:country":"AU",
+    "lbl:bbox":"115.560744966,-31.568717006,115.680119056,-31.455159658",
     "lbl:latitude":-31.537346,
     "lbl:longitude":115.640515,
     "lbl:max_zoom":15.0,
@@ -79,6 +80,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "aus-psma:pid":"SUA16_5011",
         "fct:id":"0330eb5c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2057575,
         "gp:id":1106983,
@@ -109,7 +111,13 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690852711,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1706239315,
     "wof:name":"Yanchep",
     "wof:parent_id":404548645,
     "wof:placetype":"locality",
@@ -117,7 +125,9 @@
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1377004411
+    ],
     "wof:tags":[]
 },
   "bbox": [

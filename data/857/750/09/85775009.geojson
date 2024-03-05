@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"138.677651065,-34.9685606212,138.677651065,-34.9685606212",
+    "geom:bbox":"138.677651,-34.968561,138.677651,-34.968561",
     "geom:latitude":-34.968561,
     "geom:longitude":138.677651,
     "gn:id":"",
@@ -25,6 +25,7 @@
     "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_locality":4,
     "name:eng_x_preferred":[
         "Mount Osmond"
@@ -54,12 +55,31 @@
     "qs:woe_lau":0,
     "qs:woe_local":1099805,
     "qs:woe_ver":"7.10.0",
+    "qs_pg:name":"Mount Osmond",
+    "qs_pg:name_adm0":"Australia",
+    "qs_pg:name_adm1":"South Australia",
+    "qs_pg:photos":391,
+    "qs_pg:photos_1k":79,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":391,
+    "qs_pg:photos_sr":6,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1080379,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424748,
+    "qs_pg:woe_id":7225927,
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
     "src:lbl_centroid":"yerbashapes",
+    "woe:adm0_id":23424748,
+    "woe:name_adm0":"Australia",
+    "woe:name_adm1":"South Australia",
+    "woe:placetype":"Suburb",
     "wof:belongsto":[
         102191583,
         404545105,
@@ -73,11 +93,19 @@
         "gp:id":7225927,
         "qs_pg:id":1080379
     },
+    "wof:concordances_alt":{
+        "gp:id":[
+            7225927
+        ],
+        "qs_pg:id":[
+            1080379
+        ]
+    },
     "wof:country":"AU",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8dc36aabdcb034c1b32e8441355b1f2d",
+    "wof:geomhash":"d8145ba5df2aacaa3980b1db10798c91",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -94,20 +122,22 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582312826,
+    "wof:lastmodified":1706239308,
     "wof:name":"Mount Osmond",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126089451
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    138.6776510650718,
-    -34.96856062122973,
-    138.6776510650718,
-    -34.96856062122973
+    138.677651,
+    -34.968561,
+    138.677651,
+    -34.968561
 ],
-  "geometry": {"coordinates":[138.67765106507181,-34.96856062122973],"type":"Point"}
+  "geometry": {"coordinates":[138.677651,-34.968561],"type":"Point"}
 }

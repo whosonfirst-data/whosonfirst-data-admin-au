@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"143.71223,-37.41885,143.71223,-37.41885",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Learmonth"
@@ -66,12 +68,14 @@
         }
     ],
     "wof:id":1293511063,
-    "wof:lastmodified":1566600798,
+    "wof:lastmodified":1706239312,
     "wof:name":"Learmonth",
     "wof:parent_id":404540801,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-au",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101933167
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

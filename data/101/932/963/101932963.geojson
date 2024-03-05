@@ -11,6 +11,7 @@
     "geom:longitude":144.361764,
     "gn:population":226034,
     "iso:country":"AU",
+    "lbl:bbox":"144.184747007,-38.398384057,144.702137464,-37.800933994",
     "lbl:latitude":-38.150785,
     "lbl:longitude":144.361579,
     "lbl:max_zoom":14.0,
@@ -397,6 +398,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "aus-psma:pid":"SUA16_2007",
         "fct:id":"033d90be-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2165798,
         "gp:id":1102170,
@@ -429,7 +431,13 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690852955,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1706239312,
     "wof:name":"Geelong",
     "wof:parent_id":404538645,
     "wof:placetype":"locality",
@@ -438,7 +446,8 @@
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[
-        85782179
+        85782179,
+        1377004453
     ],
     "wof:tags":[]
 },

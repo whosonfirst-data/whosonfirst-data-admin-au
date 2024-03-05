@@ -11,6 +11,7 @@
     "geom:longitude":151.664585,
     "gn:population":22673,
     "iso:country":"AU",
+    "lbl:bbox":"151.559182005,-30.586687999,151.775604995,-30.417209998",
     "lbl:latitude":-30.51268,
     "lbl:longitude":151.663934,
     "lbl:max_zoom":14.0,
@@ -448,6 +449,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "aus-psma:pid":"SUA16_1002",
         "fct:id":"033eb07a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2177671,
         "gp:id":1099969,
@@ -456,8 +458,13 @@
         "wk:page":"Armidale, New South Wales"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1109757
+        "qs_pg:id":[
+            1109757
+        ]
     },
+    "wof:coterminous":[
+        1376953429
+    ],
     "wof:country":"AU",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -478,7 +485,13 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690852610,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1706239317,
     "wof:name":"Armidale",
     "wof:parent_id":404221543,
     "wof:placetype":"locality",
@@ -486,7 +499,9 @@
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1377004441
+    ],
     "wof:tags":[]
 },
   "bbox": [

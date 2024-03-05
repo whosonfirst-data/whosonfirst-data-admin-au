@@ -11,6 +11,7 @@
     "geom:longitude":133.88176,
     "gn:population":25186,
     "iso:country":"AU",
+    "lbl:bbox":"133.725976125,-23.831533175,133.940458374,-23.630505904",
     "lbl:latitude":-23.698651,
     "lbl:longitude":133.882345,
     "lbl:max_zoom":14.0,
@@ -308,6 +309,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "aus-psma:pid":"SUA16_7001",
         "fct:id":"034aef70-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2077895,
         "gp:id":1099853,
@@ -336,7 +338,13 @@
         }
     ],
     "wof:id":101938353,
-    "wof:lastmodified":1690852457,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1706239315,
     "wof:name":"Alice Springs",
     "wof:parent_id":404549623,
     "wof:placetype":"locality",
@@ -344,7 +352,9 @@
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1377004397
+    ],
     "wof:tags":[]
 },
   "bbox": [

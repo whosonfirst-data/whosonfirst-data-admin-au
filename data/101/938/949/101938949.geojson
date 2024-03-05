@@ -11,6 +11,7 @@
     "geom:longitude":147.614159,
     "gn:population":11005,
     "iso:country":"AU",
+    "lbl:bbox":"147.502804984,-37.901853992,147.720122991,-37.745171998",
     "lbl:latitude":-37.833065,
     "lbl:longitude":147.614768,
     "lbl:max_zoom":15.0,
@@ -260,6 +261,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "aus-psma:pid":"SUA16_2002",
         "fct:id":"033ea5da-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2177233,
         "gp:id":1100046,
@@ -267,6 +269,9 @@
         "wd:id":"Q803960",
         "wk:page":"Bairnsdale"
     },
+    "wof:coterminous":[
+        1376953347
+    ],
     "wof:country":"AU",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -287,7 +292,13 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690852491,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1706239316,
     "wof:name":"Bairnsdale",
     "wof:parent_id":404537613,
     "wof:placetype":"locality",
@@ -295,7 +306,9 @@
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1377004363
+    ],
     "wof:tags":[]
 },
   "bbox": [

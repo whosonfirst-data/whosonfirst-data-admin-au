@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"150.461595,-35.35646,150.461595,-35.35646",
@@ -14,7 +16,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u0989\u09b2\u09cd\u09b2\u09be\u09a6\u09c1\u09b2\u09cd\u09b2\u09be"
@@ -95,12 +97,14 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636494589,
+    "wof:lastmodified":1706239311,
     "wof:name":"Ulladulla",
     "wof:parent_id":404226689,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-au",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101932167
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

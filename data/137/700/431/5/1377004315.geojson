@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"146.345469,-41.176596,146.345469,-41.176596",
@@ -14,7 +16,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Devonport"
@@ -100,12 +102,14 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636494583,
+    "wof:lastmodified":1706239315,
     "wof:name":"Devonport",
     "wof:parent_id":404548855,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-au",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101938067
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

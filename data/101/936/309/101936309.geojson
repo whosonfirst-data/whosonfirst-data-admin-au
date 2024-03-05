@@ -11,6 +11,7 @@
     "geom:longitude":140.779583,
     "gn:population":23209,
     "iso:country":"AU",
+    "lbl:bbox":"140.627243993,-37.87868609,140.887048511,-37.752933007",
     "lbl:latitude":-37.826477,
     "lbl:longitude":140.775335,
     "lbl:max_zoom":14.0,
@@ -327,6 +328,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "aus-psma:pid":"SUA16_4002",
         "fct:id":"033ea8dc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2156643,
         "gp:id":1104177,
@@ -358,7 +360,13 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690852264,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1706239313,
     "wof:name":"Mount Gambier",
     "wof:parent_id":404545865,
     "wof:placetype":"locality",
@@ -366,7 +374,9 @@
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1377004225
+    ],
     "wof:tags":[]
 },
   "bbox": [

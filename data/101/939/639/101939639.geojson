@@ -11,6 +11,7 @@
     "geom:longitude":148.616436,
     "gn:population":32327,
     "iso:country":"AU",
+    "lbl:bbox":"148.536921999,-32.316936259,148.731872331,-32.158080793",
     "lbl:latitude":-32.250776,
     "lbl:longitude":148.615532,
     "lbl:max_zoom":14.0,
@@ -328,6 +329,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "aus-psma:pid":"SUA16_1011",
         "fct:id":"033e9e78-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2168305,
         "gp:id":1101749,
@@ -335,6 +337,9 @@
         "wd:id":"Q706105",
         "wk:page":"Dubbo"
     },
+    "wof:coterminous":[
+        1376953333
+    ],
     "wof:country":"AU",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -355,7 +360,13 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690852612,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1706239317,
     "wof:name":"Dubbo",
     "wof:parent_id":404223079,
     "wof:placetype":"locality",
@@ -363,7 +374,9 @@
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1377004353
+    ],
     "wof:tags":[]
 },
   "bbox": [

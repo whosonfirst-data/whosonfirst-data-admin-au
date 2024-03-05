@@ -11,6 +11,7 @@
     "geom:longitude":138.008789,
     "gn:population":13206,
     "iso:country":"AU",
+    "lbl:bbox":"137.92160258,-33.248398495,138.050721002,-33.131030036",
     "lbl:latitude":-33.168114,
     "lbl:longitude":138.008955,
     "lbl:max_zoom":15.0,
@@ -282,6 +283,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "aus-psma:pid":"SUA16_4006",
         "fct:id":"033dd8e4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2063030,
         "gp:id":1105137,
@@ -312,7 +314,13 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690852344,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1706239314,
     "wof:name":"Port Pirie",
     "wof:parent_id":404546159,
     "wof:placetype":"locality",
@@ -320,7 +328,9 @@
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1377004357
+    ],
     "wof:tags":[]
 },
   "bbox": [

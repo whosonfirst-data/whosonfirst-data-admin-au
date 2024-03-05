@@ -11,6 +11,7 @@
     "geom:longitude":151.840638,
     "gn:population":8573,
     "iso:country":"AU",
+    "lbl:bbox":"151.773020978,-26.574963998,151.890917913,-26.475778006",
     "lbl:latitude":-26.537388,
     "lbl:longitude":151.841133,
     "lbl:max_zoom":15.0,
@@ -232,12 +233,16 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "aus-psma:pid":"SUA16_3009",
         "gn:id":2161376,
         "gp:id":1103106,
         "qs_pg:id":274186,
         "wd:id":"Q605972",
         "wk:page":"Kingaroy"
     },
+    "wof:coterminous":[
+        1376953413
+    ],
     "wof:country":"AU",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -255,7 +260,13 @@
         }
     ],
     "wof:id":101940775,
-    "wof:lastmodified":1690852935,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1706239318,
     "wof:name":"Kingaroy",
     "wof:parent_id":404542807,
     "wof:placetype":"locality",
@@ -263,7 +274,9 @@
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1377004427
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -11,6 +11,7 @@
     "geom:longitude":121.88944,
     "gn:population":7888,
     "iso:country":"AU",
+    "lbl:bbox":"121.664037972,-33.909049072,122.086901969,-33.723612009",
     "lbl:latitude":-33.860243,
     "lbl:longitude":121.888248,
     "lbl:max_zoom":15.0,
@@ -34,6 +35,9 @@
     ],
     "name:ben_x_preferred":[
         "\u098f\u09b8\u09cd\u09aa\u09c7\u09b0\u09be\u09a8\u09cd\u09b8"
+    ],
+    "name:cat_x_preferred":[
+        "Esperance"
     ],
     "name:ceb_x_preferred":[
         "Esperance"
@@ -131,6 +135,9 @@
     "name:spa_x_preferred":[
         "Esperance"
     ],
+    "name:srp_x_preferred":[
+        "\u0415\u0441\u043f\u0435\u0440\u0430\u043d\u0441"
+    ],
     "name:swe_x_preferred":[
         "Esperance"
     ],
@@ -144,6 +151,9 @@
         "\u0627\u06cc\u0633\u067e\u06cc\u0631\u0627\u0646\u0633\u06d2"
     ],
     "name:vie_x_preferred":[
+        "Esperance"
+    ],
+    "name:vol_x_preferred":[
         "Esperance"
     ],
     "name:zho_x_preferred":[
@@ -272,6 +282,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "aus-psma:pid":"SUA16_5005",
         "fct:id":"033d9320-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2071860,
         "gp:id":1101955,
@@ -280,7 +291,9 @@
         "wk:page":"Esperance, Western Australia"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1110230
+        "qs_pg:id":[
+            1110230
+        ]
     },
     "wof:coterminous":[
         404547257
@@ -305,7 +318,13 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690852754,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1706239314,
     "wof:name":"Esperance",
     "wof:parent_id":404547257,
     "wof:placetype":"locality",
@@ -313,7 +332,9 @@
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1377004355
+    ],
     "wof:tags":[]
 },
   "bbox": [

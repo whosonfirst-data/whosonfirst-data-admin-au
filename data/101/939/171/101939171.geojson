@@ -11,6 +11,7 @@
     "geom:longitude":149.094503,
     "gn:population":39329,
     "iso:country":"AU",
+    "lbl:bbox":"149.032367999,-33.337913464,149.240772012,-33.203699997",
     "lbl:latitude":-33.284306,
     "lbl:longitude":149.0986,
     "lbl:max_zoom":14.0,
@@ -37,6 +38,12 @@
     ],
     "name:ben_x_preferred":[
         "\u0993\u09b0\u09c7\u099e\u09cd\u099c"
+    ],
+    "name:bre_x_preferred":[
+        "Orange"
+    ],
+    "name:bul_x_preferred":[
+        "\u041e\u0440\u0438\u043d\u0434\u0436"
     ],
     "name:cat_x_preferred":[
         "Orange"
@@ -68,6 +75,9 @@
     "name:epo_x_preferred":[
         "Oran\u011do"
     ],
+    "name:est_x_preferred":[
+        "Orange"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0648\u0631\u0646\u062c"
     ],
@@ -91,6 +101,12 @@
     ],
     "name:hin_x_preferred":[
         "\u0911\u0930\u0947\u0902\u091c"
+    ],
+    "name:hun_x_preferred":[
+        "Orange"
+    ],
+    "name:hye_x_preferred":[
+        "\u0555\u0580\u0561\u0576\u056a"
     ],
     "name:ind_x_preferred":[
         "Orange"
@@ -116,11 +132,20 @@
     "name:lit_x_preferred":[
         "Orand\u017ea"
     ],
+    "name:ltz_x_preferred":[
+        "Orange"
+    ],
     "name:mai_x_preferred":[
         "\u0913\u0930\u0947\u091e\u094d\u091c"
     ],
+    "name:mal_x_preferred":[
+        "\u0d13\u0d31\u0d1e\u0d4d\u0d1a\u0d4d"
+    ],
     "name:mar_x_preferred":[
         "\u0911\u0930\u0947\u0902\u091c"
+    ],
+    "name:mlg_x_preferred":[
+        "Orange"
     ],
     "name:msa_x_preferred":[
         "Orange"
@@ -133,6 +158,12 @@
     ],
     "name:nob_x_preferred":[
         "Orange"
+    ],
+    "name:nor_x_preferred":[
+        "Orange"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a28\u0a3e\u0a30\u0a70\u0a17\u0a40"
     ],
     "name:pnb_x_preferred":[
         "\u0627\u0648\u0631\u0646\u062c"
@@ -155,8 +186,14 @@
     "name:san_x_preferred":[
         "\u0913\u0930\u0947\u0902\u091c"
     ],
+    "name:sco_x_preferred":[
+        "Orange"
+    ],
     "name:sin_x_preferred":[
         "\u0d94\u0dbb\u0dda\u0db1\u0dca\u0da2\u0dca"
+    ],
+    "name:slk_x_preferred":[
+        "Orange"
     ],
     "name:slv_x_preferred":[
         "Orange"
@@ -166,6 +203,9 @@
     ],
     "name:srp_x_preferred":[
         "\u041e\u0440\u0438\u043d\u045f"
+    ],
+    "name:swa_x_preferred":[
+        "Orange"
     ],
     "name:swe_x_preferred":[
         "Orange"
@@ -192,6 +232,9 @@
         "\u0627\u0648\u0631\u06cc\u0646\u062c"
     ],
     "name:vie_x_preferred":[
+        "Orange"
+    ],
+    "name:vol_x_preferred":[
         "Orange"
     ],
     "name:yid_x_preferred":[
@@ -323,6 +366,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "aus-psma:pid":"SUA16_1025",
         "fct:id":"033eac24-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2154219,
         "gp:id":1104834,
@@ -330,6 +374,9 @@
         "wd:id":"Q580973",
         "wk:page":"Orange, New South Wales"
     },
+    "wof:coterminous":[
+        1376953399
+    ],
     "wof:country":"AU",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -350,7 +397,13 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690852631,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1706239317,
     "wof:name":"Orange",
     "wof:parent_id":404225507,
     "wof:placetype":"locality",
@@ -358,7 +411,9 @@
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1377004409
+    ],
     "wof:tags":[]
 },
   "bbox": [

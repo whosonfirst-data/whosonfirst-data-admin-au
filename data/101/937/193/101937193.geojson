@@ -11,6 +11,7 @@
     "geom:longitude":114.614942,
     "gn:population":26872,
     "iso:country":"AU",
+    "lbl:bbox":"114.570412001,-28.905787009,114.72747099,-28.565237991",
     "lbl:latitude":-28.778088,
     "lbl:longitude":114.61619,
     "lbl:max_zoom":14.0,
@@ -320,6 +321,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "aus-psma:pid":"SUA16_5006",
         "fct:id":"033eafa8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2070998,
         "gp:id":1102185,
@@ -350,7 +352,13 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690852712,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1706239315,
     "wof:name":"Geraldton",
     "wof:parent_id":404547307,
     "wof:placetype":"locality",
@@ -358,7 +366,9 @@
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1377004291
+    ],
     "wof:tags":[]
 },
   "bbox": [

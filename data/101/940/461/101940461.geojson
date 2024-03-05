@@ -11,6 +11,7 @@
     "geom:longitude":143.545685,
     "gn:population":9276,
     "iso:country":"AU",
+    "lbl:bbox":"143.454055989,-35.429175997,143.592800994,-35.295076009",
     "lbl:latitude":-35.341733,
     "lbl:longitude":143.543603,
     "lbl:max_zoom":15.0,
@@ -269,6 +270,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "aus-psma:pid":"SUA16_2017",
         "fct:id":"03346d90-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2147756,
         "gp:id":1105770,
@@ -276,6 +278,9 @@
         "wd:id":"Q2305836",
         "wk:page":"Swan Hill"
     },
+    "wof:coterminous":[
+        1376953251
+    ],
     "wof:country":"AU",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -296,7 +301,13 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690852929,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1706239318,
     "wof:name":"Swan Hill",
     "wof:parent_id":404540365,
     "wof:placetype":"locality",
@@ -304,7 +315,9 @@
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1377004297
+    ],
     "wof:tags":[]
 },
   "bbox": [

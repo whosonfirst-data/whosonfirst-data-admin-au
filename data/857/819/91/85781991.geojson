@@ -25,6 +25,7 @@
     "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_locality":1,
     "name:ceb_x_preferred":[
         "West Beach"
@@ -59,16 +60,43 @@
     "qs:woe_lau":0,
     "qs:woe_local":1101955,
     "qs:woe_ver":"7.10.0",
+    "qs_pg:name":"West Beach",
+    "qs_pg:name_adm0":"Australia",
+    "qs_pg:name_adm1":"Western Australia",
+    "qs_pg:photos":138,
+    "qs_pg:photos_1k":28,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":138,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1197236,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424748,
+    "qs_pg:woe_id":28645446,
     "src:geom":"mz",
     "src:geom_alt":[
         "quattroshapes"
     ],
     "src:lbl_centroid":"yerbashapes",
+    "woe:adm0_id":23424748,
+    "woe:name_adm0":"Australia",
+    "woe:name_adm1":"Western Australia",
+    "woe:placetype":"Suburb",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28645446,
         "qs_pg:id":1197236
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            28645446
+        ],
+        "qs_pg:id":[
+            1197236
+        ]
     },
     "wof:country":"AU",
     "wof:geom_alt":[
@@ -88,13 +116,15 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582312802,
+    "wof:lastmodified":1706239309,
     "wof:name":"West Beach",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126101287
+    ],
     "wof:tags":[]
 },
   "bbox": [

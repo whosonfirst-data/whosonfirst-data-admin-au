@@ -11,6 +11,7 @@
     "geom:longitude":146.914504,
     "gn:population":45627,
     "iso:country":"AU",
+    "lbl:bbox":"146.702461455,-36.259627511,147.099206052,-36.002260432",
     "lbl:latitude":-36.074771,
     "lbl:longitude":146.914504,
     "lbl:max_zoom":14.0,
@@ -326,6 +327,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
+    "src:geom_via":"aus-psma",
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-36.083333,
@@ -373,7 +375,13 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690853376,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1706239309,
     "wof:name":"Albury",
     "wof:parent_id":404221469,
     "wof:placetype":"locality",
@@ -381,7 +389,9 @@
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1377004231
+    ],
     "wof:tags":[]
 },
   "bbox": [

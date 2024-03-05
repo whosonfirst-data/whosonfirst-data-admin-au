@@ -11,6 +11,7 @@
     "geom:longitude":137.792577,
     "gn:population":13257,
     "iso:country":"AU",
+    "lbl:bbox":"137.677290853,-32.592934004,137.908422795,-32.415362697",
     "lbl:latitude":-32.496808,
     "lbl:longitude":137.792071,
     "lbl:max_zoom":15.0,
@@ -332,6 +333,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "aus-psma:pid":"SUA16_4004",
         "fct:id":"033eaa1c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2063056,
         "gp:id":1105113,
@@ -362,7 +364,13 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690852281,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1706239313,
     "wof:name":"Port Augusta",
     "wof:parent_id":404546125,
     "wof:placetype":"locality",
@@ -370,7 +378,9 @@
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1377004317
+    ],
     "wof:tags":[]
 },
   "bbox": [

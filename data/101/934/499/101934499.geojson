@@ -11,6 +11,7 @@
     "geom:longitude":152.665019,
     "gn:population":11027,
     "iso:country":"AU",
+    "lbl:bbox":"152.618610018,-26.255157033,152.709995177,-26.119368994",
     "lbl:latitude":-26.182873,
     "lbl:longitude":152.665451,
     "lbl:max_zoom":15.0,
@@ -287,6 +288,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "aus-psma:pid":"SUA16_3007",
         "gn:id":2164129,
         "gp:id":1102512,
         "qs_pg:id":278152,
@@ -294,7 +296,9 @@
         "wk:page":"Gympie"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1110353
+        "qs_pg:id":[
+            1110353
+        ]
     },
     "wof:coterminous":[
         404542451
@@ -316,7 +320,13 @@
         }
     ],
     "wof:id":101934499,
-    "wof:lastmodified":1690853157,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1706239313,
     "wof:name":"Gympie",
     "wof:parent_id":404542451,
     "wof:placetype":"locality",
@@ -324,7 +334,9 @@
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1377004351
+    ],
     "wof:tags":[]
 },
   "bbox": [

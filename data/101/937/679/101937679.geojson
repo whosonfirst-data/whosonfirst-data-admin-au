@@ -11,6 +11,7 @@
     "geom:longitude":115.847023,
     "gn:population":1896548,
     "iso:country":"AU",
+    "lbl:bbox":"115.449473439,-32.801883346,116.288879014,-31.568695027",
     "lbl:latitude":-31.960773,
     "lbl:longitude":115.834088,
     "lbl:max_zoom":13.0,
@@ -627,6 +628,7 @@
         85681439
     ],
     "wof:concordances":{
+        "aus-psma:pid":"SUA16_5009",
         "dbp:id":"Perth%2C_Western_Australia",
         "fb:id":"en.perth",
         "fct:id":"033eab20-8f76-11e1-848f-cfd5bf3ef515",
@@ -662,7 +664,13 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690852769,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1706239315,
     "wof:megacity":1,
     "wof:name":"Perth",
     "wof:parent_id":404548115,
@@ -672,7 +680,9 @@
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:scale":3,
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1377004459
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -10,6 +10,7 @@
     "geom:latitude":-28.178471,
     "geom:longitude":153.535342,
     "iso:country":"AU",
+    "lbl:bbox":"153.361257493,-28.479976005,153.586296,-28.157019988",
     "lbl:latitude":-28.181508,
     "lbl:longitude":153.529624,
     "lbl:max_zoom":15.0,
@@ -275,6 +276,7 @@
         "naturalearth",
         "quattroshapes_pg"
     ],
+    "src:geom_via":"aus-psma",
     "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:elevation":3.0,
@@ -323,7 +325,13 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690852951,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1706239311,
     "wof:name":"Tweed Heads",
     "wof:parent_id":404226671,
     "wof:placetype":"locality",
@@ -332,7 +340,8 @@
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
     "wof:supersedes":[
-        1141908283
+        1141908283,
+        1377004271
     ],
     "wof:tags":[]
 },

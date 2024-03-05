@@ -11,6 +11,7 @@
     "geom:longitude":149.182319,
     "gn:population":74219,
     "iso:country":"AU",
+    "lbl:bbox":"149.084640013,-21.238386991,149.268429595,-20.995044022",
     "lbl:latitude":-21.144192,
     "lbl:longitude":149.182075,
     "lbl:max_zoom":14.0,
@@ -43,6 +44,9 @@
     ],
     "name:bul_x_preferred":[
         "\u041c\u0430\u043a\u0430\u0439"
+    ],
+    "name:cat_x_preferred":[
+        "MacKay"
     ],
     "name:ceb_x_preferred":[
         "Mackay"
@@ -163,6 +167,9 @@
     ],
     "name:sin_x_preferred":[
         "\u0db8\u0dd0\u0d9a\u0dda"
+    ],
+    "name:slv_x_preferred":[
+        "Mackay"
     ],
     "name:spa_x_preferred":[
         "Mackay"
@@ -323,6 +330,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "aus-psma:pid":"SUA16_3010",
         "gn:id":2159220,
         "gp:id":1103588,
         "qs_pg:id":482096,
@@ -349,7 +357,13 @@
         }
     ],
     "wof:id":101934755,
-    "wof:lastmodified":1690853134,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1706239313,
     "wof:name":"Mackay",
     "wof:parent_id":404543029,
     "wof:placetype":"locality",
@@ -357,7 +371,9 @@
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1377004379
+    ],
     "wof:tags":[]
 },
   "bbox": [

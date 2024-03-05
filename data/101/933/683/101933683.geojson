@@ -11,6 +11,7 @@
     "geom:longitude":146.313963,
     "gn:population":16845,
     "iso:country":"AU",
+    "lbl:bbox":"146.25682799,-36.406416001,146.37104317,-36.302279575",
     "lbl:latitude":-36.363389,
     "lbl:longitude":146.314859,
     "lbl:max_zoom":15.0,
@@ -315,6 +316,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "aus-psma:pid":"SUA16_2019",
         "fct:id":"033ea80a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2144764,
         "gp:id":1106412,
@@ -345,7 +347,13 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690853289,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1706239313,
     "wof:name":"Wangaratta",
     "wof:parent_id":404540655,
     "wof:placetype":"locality",
@@ -353,7 +361,9 @@
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1377004333
+    ],
     "wof:tags":[]
 },
   "bbox": [

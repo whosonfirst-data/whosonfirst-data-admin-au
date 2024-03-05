@@ -11,6 +11,7 @@
     "geom:longitude":117.894542,
     "gn:population":33650,
     "iso:country":"AU",
+    "lbl:bbox":"117.676680991,-35.192007995,118.021209054,-34.887669009",
     "lbl:latitude":-35.031075,
     "lbl:longitude":117.89494,
     "lbl:max_zoom":14.0,
@@ -32,10 +33,16 @@
     "name:bel_x_preferred":[
         "\u041e\u043b\u0431\u0430\u043d\u0456"
     ],
+    "name:bul_x_preferred":[
+        "\u041e\u043b\u0431\u0430\u043d\u0438"
+    ],
     "name:cat_x_preferred":[
         "Albany"
     ],
     "name:ceb_x_preferred":[
+        "Albany"
+    ],
+    "name:ces_x_preferred":[
         "Albany"
     ],
     "name:che_x_preferred":[
@@ -53,6 +60,9 @@
     "name:cym_x_preferred":[
         "Albany"
     ],
+    "name:dan_x_preferred":[
+        "Albany"
+    ],
     "name:deu_x_preferred":[
         "Albany"
     ],
@@ -63,6 +73,9 @@
         "Albany"
     ],
     "name:est_x_preferred":[
+        "Albany"
+    ],
+    "name:eus_x_preferred":[
         "Albany"
     ],
     "name:fas_x_preferred":[
@@ -80,6 +93,9 @@
     "name:gle_x_preferred":[
         "Albany"
     ],
+    "name:glg_x_preferred":[
+        "Albany"
+    ],
     "name:heb_x_preferred":[
         "\u05d0\u05d5\u05dc\u05d1\u05e0\u05d9"
     ],
@@ -89,8 +105,14 @@
     "name:hin_x_preferred":[
         "\u0910\u0932\u094d\u092c\u0928\u0940"
     ],
+    "name:hun_x_preferred":[
+        "Albany"
+    ],
     "name:hye_x_preferred":[
         "\u0531\u056c\u0562\u0561\u0576\u056b"
+    ],
+    "name:ido_x_preferred":[
+        "Albany"
     ],
     "name:ind_x_preferred":[
         "Albany"
@@ -116,6 +138,9 @@
     "name:lit_x_preferred":[
         "Olbanis"
     ],
+    "name:mlg_x_preferred":[
+        "Albany"
+    ],
     "name:mon_x_preferred":[
         "\u0410\u043b\u0431\u0430\u043d\u0438 2"
     ],
@@ -123,6 +148,12 @@
         "Albany"
     ],
     "name:nob_x_preferred":[
+        "Albany"
+    ],
+    "name:nor_x_preferred":[
+        "Albany"
+    ],
+    "name:oci_x_preferred":[
         "Albany"
     ],
     "name:pnb_x_preferred":[
@@ -134,11 +165,17 @@
     "name:por_x_preferred":[
         "Albany"
     ],
+    "name:ron_x_preferred":[
+        "Albany"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u043b\u0431\u0430\u043d\u0438"
     ],
     "name:rus_x_variant":[
         "\u041e\u043b\u0431\u0430\u043d\u0438"
+    ],
+    "name:slk_x_preferred":[
+        "Albany"
     ],
     "name:spa_x_preferred":[
         "Albany"
@@ -146,8 +183,14 @@
     "name:srp_x_preferred":[
         "\u0410\u043b\u0431\u0430\u043d\u0438"
     ],
+    "name:swa_x_preferred":[
+        "Albany"
+    ],
     "name:swe_x_preferred":[
         "Albany"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e2d\u0e25\u0e41\u0e1a\u0e19\u0e35"
     ],
     "name:tur_x_preferred":[
         "Albany"
@@ -168,6 +211,12 @@
         "S\u00f4ng Albany"
     ],
     "name:vie_x_variant":[
+        "Albany"
+    ],
+    "name:vol_x_preferred":[
+        "Albany"
+    ],
+    "name:war_x_preferred":[
         "Albany"
     ],
     "name:zho_cn_x_preferred":[
@@ -333,7 +382,13 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690852335,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1706239314,
     "wof:name":"Albany",
     "wof:parent_id":404546695,
     "wof:placetype":"locality",
@@ -341,7 +396,9 @@
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-au",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1377004281
+    ],
     "wof:tags":[]
 },
   "bbox": [
